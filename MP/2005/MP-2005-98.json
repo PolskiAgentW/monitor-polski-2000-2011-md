@@ -1,0 +1,347 @@
+{
+ "eli": "MP/2005/98",
+ "title": "Zarządzenie Nr 10 Prezesa Rady Ministrów z dnia 31 stycznia 2005 r. w sprawie powołania Rady Rozwoju Nauki i Technologii",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/98/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 10 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 stycznia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Rady Rozwoju Nauki i Technologii"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199 i Nr 80, poz. 717 oraz z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Powołuje się Radę Rozwoju Nauki i Technologii, zwaną dalej „Radą”, jako organ opiniodawczo-doradczy Rady Ministrów i Prezesa Rady Ministrów w sprawach dotyczących strategii rozwoju nauki i nowych technologii.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład Rady wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "przewodniczący — Prezes Rady Ministrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "zastępca przewodniczącego — Minister Nauki i Informatyzacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "członkowie: ministrowie właściwi do spraw gospodarki, finansów publicznych, pracy i szkolnictwa wyższego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "sekretarz Rady.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przewodniczący zaprasza do udziału w pracach Rady na prawach członka:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "Prezesa Polskiej Akademii Nauk;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "Przewodniczącego Rady Nauki przy ministrze właściwym do spraw nauki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "Przewodniczącego Konferencji Rektorów Akademickich Szkół Wyższych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "Przewodniczącego Rady Głównej Jednostek Badawczo-Rozwojowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "Prezesa Fundacji na Rzecz Nauki Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_2/pkt_6",
+       "text": "Przewodniczącego Rady Strategii Społeczno-Gospodarczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Przewodniczący może zapraszać do udziału w pracach Rady inne osoby, z głosem doradczym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Członków oraz sekretarza Rady powołuje Prezes Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Członkowie oraz sekretarz Rady pełnią swoje funkcje do czasu powołania ich następców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Do zadań Rady należy opracowywanie i przedstawianie Radzie Ministrów oraz Prezesowi Rady Ministrów ocen i opinii o projektach dokumentów rządowych, w tym programach i aktach normatywnych zawierających rozstrzygnięcia w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "rozwoju społeczeństwa informacyjnego i gospodarki opartej na wiedzy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "rozwiązań prawnych i organizacyjnych dotyczących rozwoju nauki i technologii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "wysokości środków finansowych ustalanych w budżecie państwa na naukę;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "środków pomocowych Unii Europejskiej na rozwój infrastruktury: badawczej, informatycznej i szkolnictwa wyższego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "systemowego wspierania wykorzystywania badań naukowych i prac rozwojowych dla wzrostu innowacyjności gospodarki i jakości życia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "rozwoju preferowanych dziedzin nauki wspomagających rozwój związanych z nim dziedzin społecznych i gospodarczych przez programy wieloletnie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "mechanizmów współpracy organów administracji rządowej oraz organizacji pozarządowych w sprawach strategii rozwoju nauki i technologii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "harmonizacji działań organów i urzędów administracji rządowej w sprawach strategii rozwoju nauki na potrzeby społeczne, gospodarcze i edukacyjne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_4/pkt_9",
+     "text": "innych spraw przekazanych przez Radę Ministrów lub Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Organy administracji rządowej, na wniosek przewodniczącego lub upoważnionego przez niego członka Rady, udzielają Radzie wszechstronnej pomocy przy wykonywaniu jej zadań, a w szczególności przedstawiają niezbędne informacje i dokumenty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W toku wykonywania swoich zadań Rada współdziała z organami administracji rządowej, organami samorządu terytorialnego, instytucjami naukowymi, organizacjami społecznymi oraz innymi zainteresowanymi podmiotami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Rada działa kolegialnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Rada wykonuje swoje zadania na posiedzeniach plenarnych lub na posiedzeniach zespołów problemowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Posiedzenia Rady odbywają się nie rzadziej niż 2 razy w roku, pod przewodnictwem przewodniczącego Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Z posiedzeń Rady i zespołów problemowych sporządza się protokoły, które podpisuje prowadzący posiedzenie i sekretarz Rady. Członek Rady może zgłosić do protokołu zdanie odrębne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Szczegółowy tryb pracy Rady określa regulamin uchwalony przez Radę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przewodniczący Rady powołuje zespoły problemowe do wykonania określonego zadania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przewodniczący Rady ustala skład zespołu problemowego spośród członków Rady oraz powołuje przewodniczącego zespołu problemowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Wydatki związane z działalnością Rady są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw nauki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Obsługę organizacyjno-biurową Rady zapewnia urząd obsługujący ministra właściwego do spraw nauki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

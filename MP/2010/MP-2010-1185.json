@@ -1,0 +1,194 @@
+{
+ "eli": "MP/2010/1185",
+ "title": "Komunikat Ministra Nauki i Szkolnictwa Wyższego z dnia 29 grudnia 2010 r. o ustanowieniu Programu wspierania infrastruktury badawczej w ramach Funduszu Nauki i Technologii Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1185/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 grudnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "o ustanowieniu Programu wspierania infrastruktury badawczej w ramach Funduszu Nauki i Technologii Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615) ogłasza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Ustanawia się z dniem 3 stycznia 2011 r. Program wspierania infrastruktury badawczej w ramach Funduszu Nauki i Technologii Polskiej, stanowiący załącznik do komunikatu."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Nauki i Szkolnictwa Wyższego: B. Kudrycka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do komunikatu Ministra Nauki i Szkolnictwa Wyższego z dnia 29 grudnia 2010 r. (poz. 1185)",
+   "body": [
+    {
+     "type": "text",
+     "text": "PROGRAM WSPIERANIA INFRASTRUKTURY BADAWCZEJ W RAMACH FUNDUSZU NAUKI I TECHNOLOGII POLSKIEJ"
+    },
+    {
+     "type": "text",
+     "text": "I. 1. Celem Programu wspierania infrastruktury badawczej w ramach Funduszu Nauki i Technologii Polskiej, zwanego dalej „programem”, jest wspieranie realizacji inwestycji służących potrzebom badań naukowych lub prac rozwojowych, zwanych dalej „inwestycjami”."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "W ramach programu będą finansowane lub dofinansowane koszty inwestycji polegających na zakupie lub wytworzeniu niezbędnej do badań aparatury naukowo-badawczej. W ramach programu mogą być dofinansowane inwestycje współfinansowane z innych źródeł, w szczególności w ramach regionalnych programów operacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Minimalny jednostkowy koszt aparatury naukowo-badawczej będącej przedmiotem inwestycji realizowanej w ramach programu w grupie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "nauk humanistycznych lub społecznych wynosi 150 000 zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "nauk inżynieryjnych i technicznych, nauk medycznych i nauk o zdrowiu, nauk przyrodniczych lub nauk rolniczych wynosi 500 000 zł.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wspieranie inwestycji w ramach programu jest finansowane ze środków ujętych w planie finansowym funduszu celowego Fundusz Nauki i Technologii Polskiej, o którym mowa w art. 56 ust. 1 pkt 4 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.[^1]).",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. 1. O przyznanie środków finansowych w ramach programu mogą ubiegać się jednostki naukowe, w rozumieniu art. 2 pkt 9 lit. a-e ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615), niebędące przedsiębiorcą w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (WE) Nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólnego rozporządzenia w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Środki finansowe w ramach programu są przyznawane na podstawie wniosków składanych w trybie ciągłym przez jednostki naukowe. Wnioski są przekazywane do oceny w miarę ich napływu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Ogłoszenie o naborze wniosków w ramach programu jest zamieszczane na stronie podmiotowej ministra właściwego do spraw nauki w Biuletynie Informacji Publicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ogłoszenie zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "p rzedmiot naboru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "t ermin i miejsce składania wniosków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "w ymagania, jakie muszą spełnić podmioty ubiegające się o przyznanie środków finansowych w ramach programu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "k ryteria i sposób oceny wniosków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "w zór wniosku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_4/pkt_6",
+       "text": "w ykaz dokumentów, jakie należy dołączyć do wniosku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Do oceny są kierowane wyłącznie wnioski kompletne, spełniające wymagania określone w programie. Wnioski niekompletne są zwracane wnioskodawcy z zawiadomieniem o przyczynach zwrotu i o możliwości uzupełnienia w terminie 7 dni od dnia otrzymania zawiadomienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Środki finansowe w ramach programu są przyznawane na podstawie decyzji ministra właściwego do spraw nauki, w miarę gromadzenia środków na rachunku Funduszu Nauki i Technologii Polskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Środki finansowe są przekazywane jednostkom naukowym na podstawie umowy, określającej warunki realizacji, finansowania i rozliczania inwestycji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "— 5358 —"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 5359 —"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej — nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. Nr 216, poz. 1596).",
+  "1_2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539, z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532, z 2008 r. Nr 180, poz. 1109, z 2009 r. Nr 13, poz. 70 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 144, Nr 108, poz. 685 i Nr 182, poz. 1228."
+ }
+}

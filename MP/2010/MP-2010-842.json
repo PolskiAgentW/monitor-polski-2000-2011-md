@@ -1,0 +1,63 @@
+{
+ "eli": "MP/2010/842",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 sierpnia 2010 r. nr 1130-14-2010 zmieniające postanowienie o powołaniu do pełnienia urzędu na stanowisku sędziego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/842/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 sierpnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "nr 1130-14-2010"
+  },
+  {
+   "type": "text",
+   "text": "zmieniające postanowienie o powołaniu do pełnienia urzędu na stanowisku sędziego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 179 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. postanawia się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W postanowieniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 lipca 2010 r. nr 1130-12-2010 o powołaniu do pełnienia urzędu na stanowisku sędziego wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pkt 6 otrzymuje brzmienie: „Małgorzata Daria MĄCZKOWSKA — w Warszawie”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pkt 14 otrzymuje brzmienie: „Anna Małgorzata ZDZIECH — w Suchej Beskidzkiej”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem podpisania z mocą od dnia 22 lipca 2010 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

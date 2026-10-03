@@ -1,0 +1,319 @@
+{
+ "eli": "MP/2009/928",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 13 listopada 2009 r. w sprawie stawek opłat za działalność polegającą na poszukiwaniu, rozpoznawaniu złóż kopalin, magazynowaniu substancji oraz składowaniu odpadów na rok 2010",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/928/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 listopada 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek opłat za działalność polegającą na poszukiwaniu, rozpoznawaniu złóż kopalin, magazynowaniu substancji oraz składowaniu odpadów na rok 2010"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 85 ust. 11 ustawy z dnia 4 lutego 1994 r. — Prawo geologiczne i górnicze (Dz. U. z 2005 r. Nr 228, poz. 1947, z późn. zm.[^2]) ogłasza się w załączniku do obwieszczenia stawki opłat na rok 2010 za działalność polegającą na:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "poszukiwaniu złóż kopalin dla poszczególnych grup kopalin za kilometr kwadratowy;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "rozpoznawaniu złóż kopalin oraz łącznie na poszukiwaniu i rozpoznawaniu złóż kopalin dla poszczególnych grup kopalin za kilometr kwadratowy;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "bezzbiornikowym magazynowaniu substancji w górotworze, w tym w podziemnych wyrobiskach górniczych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "s kładowaniu odpadów w górotworze, w tym w podziemnych wyrobiskach górniczych.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M. Nowicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Środowiska z dnia 13 listopada 2009 r. (poz. 928)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STAWKI OPŁAT NA ROK 2010"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Stawka opłaty za działalność polegającą na poszukiwaniu złóż kopalin dla poszczególnych grup kopalin za kilometr kwadratowy wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "kopaliny energetyczne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_1/lit_a",
+         "text": "ropa naftowa, gaz ziemny i metan z węgla kamiennego — 108,88 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_1/lit_b",
+         "text": "węgiel kamienny — 544,40 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_1/lit_c",
+         "text": "węgiel brunatny — 217,76 zł;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "rudy metali i metale w stanie rodzimym — 108,88 zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "kopaliny chemiczne — 108,88 zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "kopaliny skalne (w tym torfy i rudy darniowe):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_4/lit_a",
+         "text": "w obszarach lądowych — 1 088,77 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_4/lit_b",
+         "text": "w obszarach morskich — 108,88 zł;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "wody podziemne uznane za kopaliny:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_5/lit_a",
+         "text": "wody lecznicze i solanki — 544,40 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_5/lit_b",
+         "text": "wody termalne — 217,76 zł.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Stawka opłaty za działalność polegającą na rozpoznawaniu złóż kopalin oraz łącznie na poszukiwaniu i rozpoznawaniu złóż kopalin dla poszczególnych grup kopalin za kilometr kwadratowy wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "kopaliny energetyczne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": "ropa naftowa, gaz ziemny i metan z węgla kamiennego — 217,76 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": "węgiel kamienny — 1 088,77 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_1/lit_c",
+         "text": "węgiel brunatny — 544,40 zł;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "rudy metali i metale w stanie rodzimym — 217,76 zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "kopaliny chemiczne — 1 088,77 zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "kopaliny skalne (w tym torfy i rudy darniowe):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_4/lit_a",
+         "text": "w obszarach lądowych — 10 887,59 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_4/lit_b",
+         "text": "w obszarach morskich — 2 721,92 zł;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "wody podziemne uznane za kopaliny:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_5/lit_a",
+         "text": "wody lecznicze i solanki — 871,02 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_5/lit_b",
+         "text": "wody termalne — 544,40 zł.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Stawka opłaty za bezzbiornikowe magazynowanie substancji w górotworze, w tym w podziemnych wyrobiskach górniczych, wynosi za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "substancje gazowe — 1,66 zł/tys. m³;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "substancje ciekłe — 3,29 zł/t;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "i nne, niewymienione w pkt 1 i 2 substancje — 1,65 zł/t.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Stawka opłaty za składowanie odpadów w górotworze, w tym w podziemnych wyrobiskach górniczych, wynosi za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "odpady niebezpieczne — 67,70 zł/t;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "odpady inne niż niebezpieczne — 5,21 zł/t;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "odpady obojętne — 3,90 zł/t.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 216, poz. 1606).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217, Nr 190, poz. 1399 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 i Nr 82, poz. 556, z 2008 r. Nr 138, poz. 865, Nr 154, poz. 958, Nr 199, poz. 1227 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97."
+ }
+}

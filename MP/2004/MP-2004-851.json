@@ -1,0 +1,161 @@
+{
+ "eli": "MP/2004/851",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 9 listopada 2004 r. w sprawie stawek należności za korzystanie ze śródlądowych dróg wodnych oraz urządzeń wodnych w 2005 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/851/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 listopada 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek należności za korzystanie ze śródlądowych dróg wodnych oraz urządzeń wodnych w 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 151 ust. 2 ustawy z dnia 18 lipca 2001 r. — Prawo wodne (Dz. U. Nr 115, poz. 1229, z późn. zm.[^2]) ogłasza się następujące stawki należności za korzystanie ze śródlądowych dróg wodnych i urządzeń wodnych w 2005 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "stawki należności za przewóz towarów za jeden tonokilometr wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "na rzece Odrze skanalizowanej od km 94,9 do km 282,5, na Kanale Gliwickim od km 0,0 do km 41,2 oraz na Kanale Kędzierzyńskim od km 0,0 do km 5,6 — 0,57 gr,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "na drodze wodnej Wisła—Odra od ujścia rzeki Brdy do miasta Krzyż, to jest do km 176,2 rzeki Noteć oraz na węźle gdańskim, to jest na rzekach Nogat, Szkarpawa i Wisła Martwa — 0,53 gr,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "na pozostałych drogach wodnych, za korzystanie z których uiszcza się należności — 0,47 gr;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stawka należności za żeglugę pustych statków towarowych lub barek za jeden tonokilometr wynosi — 0,10 gr;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "stawka należności za żeglugę statków pasażerskich i wycieczkowych, za iloczyn jednego miejsca na statku i jednego kilometra przebytej drogi wodnej wynosi — 1,40 gr;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "stawki należności za holowanie i spław drewna za jeden tonokilometr równoważny iloczynowi objętości 1,45 m³ drewna przemieszczonego na odległość jednego kilometra drogi wodnej wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "na rzece Odrze skanalizowanej od km 94,9 do km 282,5, na Kanale Gliwickim od km 0,0 do km 41,2 oraz na Kanale Kędzierzyńskim od km 0,0 do km 5,6 — 0,57 gr,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "na drodze wodnej Wisła—Odra od ujścia rzeki Brdy do miasta Krzyż, to jest do km 176,2 rzeki Noteć oraz na węźle gdańskim, to jest na rzekach Nogat, Szkarpawa i Wisła Martwa — 0,53 gr,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "na pozostałych drogach wodnych, za korzystanie z których uiszcza się należności — 0,47 gr;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "stawki należności za korzystanie ze śluz lub pochylni wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_5/lit_a",
+     "text": "za jedno śluzowanie lub przejście przez pochylnię statku, zestawu pchanego lub holowanego, barki, tratwy, holownika i pchacza (niewchodzących w skład zestawu), statku pasażerskiego lub wycieczkowego, obiektu pływającego przeznaczonego lub używanego do wykonywania prac technicznych, utrzymania wód lub eksploatacji kruszyw oraz innego obiektu pływającego (powyżej 15 t. nośności) za każdy zestaw lub obiekt pływający:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— w godzinach od 7⁰⁰ do 16⁰⁰ — 12,14 zł,"
+      },
+      {
+       "type": "text",
+       "text": "— w godzinach od 16⁰⁰ do 7⁰⁰ — 12,74 zł,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_5/lit_b",
+     "text": "za jedno śluzowanie lub przejście przez pochylnię łodzi sportowo-turystycznych i innych małych obiektów pływających do 15 t. nośności za każdy obiekt pływający:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— w godzinach od 7⁰⁰ do 16⁰⁰ — 5,68 zł,"
+      },
+      {
+       "type": "text",
+       "text": "— w godzinach od 16⁰⁰ do 7⁰⁰ — 11,36 zł,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_5/lit_c",
+     "text": "za jedno śluzowanie lub przejście przez pochylnię kajaka lub łodzi wiosłowej za każdy obiekt pływający :",
+     "children": [
+      {
+       "type": "text",
+       "text": "— w godzinach od 7⁰⁰ do 16⁰⁰ — 3,20 zł,"
+      },
+      {
+       "type": "text",
+       "text": "— w godzinach od 16⁰⁰ do 7⁰⁰ — 6,40 zł."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: J. Swatoń"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — gospodarka wodna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 134, poz. 1438).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1803, z 2002 r. Nr 113, poz. 984, Nr 130, poz. 1112, Nr 233, poz. 1957 i Nr 238, poz. 2022, z 2003 r. Nr 80, poz. 717, Nr 165, poz. 1592, Nr 190, poz. 1865 i Nr 228, poz. 2259 oraz z 2004 r. Nr 92, poz. 880, Nr 96, poz. 959 i Nr 116, poz. 1206."
+ }
+}

@@ -1,0 +1,842 @@
+{
+ "eli": "MP/2003/36",
+ "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Węgierskiej Republiki Ludowej o międzynarodowej komunikacji samochodowej, sporządzona w Budapeszcie dnia 18 lipca 1965 r.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/36/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UMOWA"
+  },
+  {
+   "type": "text",
+   "text": "między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Węgierskiej Republiki Ludowej o międzynarodowej komunikacji samochodowej,"
+  },
+  {
+   "type": "text",
+   "text": "sporządzona w Budapeszcie dnia 18 lipca 1965 r."
+  },
+  {
+   "type": "text",
+   "text": "Rząd Polskiej Rzeczypospolitej Ludowej i Rząd Węgierskiej Republiki Ludowej, ożywione pragnieniem ułatwienia i rozwoju przewozów podróżnych autobusami i przewozów ładunków między obu krajami i przez ich obszary, zgodziły się na następujące postanowienia:"
+  },
+  {
+   "type": "text",
+   "text": "I. Przewóz podróżnych"
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 1"
+  },
+  {
+   "type": "text",
+   "text": "Każda Umawiająca się Strona przyznaje przewoźnikom drugiej Umawiającej się Strony, z uwzględnieniem postanowień artykułu 2, prawo wykonywania zarobkowego i niezarobkowego przewozu podróżnych autobusami między obszarami obu Umawiających się Stron oraz przez jej obszar."
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 2"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Regularne przewozy autobusowe mogą być wykonywane jedynie pod warunkiem, że właściwe organy obu Umawiających się Stron udzielą we wzajemnym porozumieniu zezwolenia na ich wykonywanie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Za regularny przewóz autobusowy uważa się przewóz podróżnych, wykonywany autobusem na określonej trasie, według rozkładu jazdy i taryfy uprzednio zatwierdzonych i ogłoszonych, oraz podczas którego istnieje obowiązek zabierania i pozostawiania podróżnych na punktach krańcowych i ewentualnie na określonych w zezwoleniu punktach na trasie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Każdy autobus używany w regularnym przewozie autobusowym powinien być zaopatrzony w fotokopię zezwolenia wymienionego w ustępie 1, którą należy okazywać na żądanie organów kontroli.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 3"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przy wykonywaniu przewozów podróżnych każdy autobus będzie zaopatrzony w dokument kontrolny, wystawiony zgodnie z przepisami prawnymi kraju jego rejestracji.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Dokumenty kontrolne powinny być okazywane na żądanie organów kontroli.",
+   "children": [
+    {
+     "type": "text",
+     "text": "II. Przewóz ładunków"
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 4"
+    },
+    {
+     "type": "text",
+     "text": "Każda Umawiająca się Strona przyznaje przewoźnikom drugiej Umawiającej się Strony prawo wykonywania zarobkowego i niezarobkowego przewozu ładunków ciężarowymi pojazdami samochodowymi między obszarami obu Umawiających się Stron oraz przez jej obszar."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 5"
+    },
+    {
+     "type": "text",
+     "text": "Wykonywanie przewozu wymienionego w artykule 4 wymaga zezwolenia właściwego organu drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 6"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Nie będą wymagane zezwolenia na wykonywanie przewozu:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "przedmiotów przeznaczonych na targi i wystawy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "wszelkiego rodzaju sprzętu oraz inwentarza żywego i martwego, przeznaczonych dla celów kulturalnych, sportowych, socjalnych i innych podobnych celów,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_1/lit_c",
+     "text": "rzeczy przesiedlenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_1/lit_d",
+     "text": "zwłok.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przewóz bez zezwoleń ładunków wymienionych w ustępie 1 lit. a) i b) dozwolony jest tylko wówczas, gdy ładunki te zostaną wywiezione z powrotem do kraju rejestracji pojazdu samochodowego lub do kraju trzeciego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 7"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Zezwolenia na wykonywanie przewozu ładunków należy wystawiać na każdy pojazd samochodowy lub na zespół pojazdów oddzielnie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Jedno zezwolenie uprawnia do wykonania jednego przewozu na obszar i z obszaru drugiej Umawiającej się Strony albo przez ten obszar tam i z powrotem.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Zezwolenia powinny być zgodne z wzorem zawartym w dokumencie Europejskiej Komisji Gospodarczej Nr TRANS/213, Add. 1, załącznik 3.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Formularze zezwoleń sporządzane są przez właściwy organ każdej Umawiającej się Strony w jego języku urzędowym i wypełniane w języku urzędowym kraju przewoźnika.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 8"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Właściwe organy obu Umawiających się Stron:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "upoważnione są do wydawania przewidzianych w artykule 5 zezwoleń w imieniu drugiej Strony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "z uwzględnieniem zasady wzajemności będą ustalać wspólnie do dnia 30 listopada każdego roku ilość zezwoleń na rok następny,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_1/lit_c",
+     "text": "będą przekazywać sobie wzajemnie do dnia 31 grudnia każdego roku ponumerowane, niewypełnione, podpisane i zaopatrzone własną pieczęcią formularze zezwoleń, w ilości ustalonej zgodnie z postanowieniami pod lit. b),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_1/lit_d",
+     "text": "otrzymane formularze zezwoleń, po ich wypełnieniu i zaopatrzeniu własną pieczęcią, będą wydawać przewoźnikom mającym siedzibę na obszarze danej Umawiającej się Strony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_1/lit_e",
+     "text": "będą przesyłać sobie wzajemnie z końcem każdego kwartału kopie wydanych zezwoleń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Postanowienia ustępu 1 nie dotyczą zezwoleń, o których mowa w artykułach 19 i 20.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 9"
+    },
+    {
+     "type": "text",
+     "text": "Do zarobkowego przewozu ładunków, wykonywanego między obszarami obu Umawiających się Stron na podstawie niniejszej umowy, stosuje się postanowienia artykułów 1—41 Konwencji o umowie międzynarodowego przewozu drogowego towarów (CMR), podpisanej w Genewie dnia 19 maja 1956 r."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 10"
+    },
+    {
+     "type": "text",
+     "text": "Przy niezarobkowym przewozie ładunków na każdym pojeździe samochodowym lub zespole pojazdów powinien znajdować się dokument kontrolny zawierający przynajmniej następujące dane:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "miejsce i datę sporządzenia dokumentu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "nazwę i adres odbiorcy ładunku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_2/lit_c",
+     "text": "nazwę ładunku i rodzaj opakowania,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_2/lit_d",
+     "text": "nazwę i adres przewoźnika,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_2/lit_e",
+     "text": "oznaczenie ilości ładunku w jednostkach wagi brutto, w jednostkach objętości, w sztukach lub w innych jednostkach miary,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "ust_2/lit_f",
+     "text": "podpis przewoźnika.",
+     "children": [
+      {
+       "type": "text",
+       "text": "III. Postanowienia celne"
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 11"
+      },
+      {
+       "type": "text",
+       "text": "Pojazdy samochodowe każdej Umawiającej się Strony, wjeżdżające czasowo na obszar drugiej Umawiającej się Strony, odprawiane będą bez potrzeby okazywania dokumentów celnych bądź gwarancji celnej, bądź uiszczania lub deponowania należności celnych."
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Ciężarowe pojazdy samochodowe, przyczepy i pojemniki jednej Umawiającej się Strony, zaopatrzone w zamknięcia celne nałożone przez organy celne tej Strony, nie będą podlegać rewizji celnej, a przewożone w nich ładunki — odprawie celnej na granicy państwowej drugiej Umawiającej się Strony, z wyjątkiem przypadków uszkodzenia zamknięcia celnego w drodze i z wyjątkiem innych uzasadnionych przypadków.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Ciężarowe pojazdy samochodowe, przyczepy i pojemniki wymienione w ustępie 1 powinny odpowiadać warunkom technicznym zawartym w załącznikach 3 i 6 do Konwencji celnej dotyczącej międzynarodowego przewozu towarów z zastosowaniem karnetów TIR, podpisanej w Genewie dnia 15 stycznia 1959 r., i powinny być zaopatrzone w świadectwa dopuszczenia według wzorów zawartych w załącznikach 5 i 8 do tej konwencji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 13"
+    },
+    {
+     "type": "text",
+     "text": "Ładunki przewożone w ciężarowych pojazdach samochodowych, przyczepach i pojemnikach, pod zamknięciem celnym, powinny być umieszczone w nich pod dozorem organów celnych, które uczynią o tym wzmiankę w liście przewozowym lub w przewidzianym w artykule 10 dokumencie kontrolnym."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 14"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Kierowca ciężarowego pojazdu samochodowego jednej Umawiającej się Strony, przy wjeździe na obszar drugiej Umawiającej się Strony, obowiązany jest dostarczyć granicznemu urzędowi celnemu tej Strony kopię listu przewozowego lub przewidzianego w artykule 10 dokumentu kontrolnego.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Kierowca ciężarowego pojazdu samochodowego jednej Umawiającej się Strony, przywożący ładunek pod zamknięciem celnym na obszar drugiej Umawiającej się Strony, jest zobowiązany przedstawić ten ładunek w całości i w nienaruszonym stanie oraz z nieuszkodzonym zamknięciem celnym do kontroli urzędowi celnemu dokonującemu odprawy towaru, a przy przewozie tranzytowym — granicznemu urzędowi celnemu przy wyjeździe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 15"
+    },
+    {
+     "type": "text",
+     "text": "Ciężarowe pojazdy samochodowe, przyczepy oraz pojemniki, zawierające artykuły szybko psujące się, wyraźnie wskazane jako takie w liście przewozowym lub w dokumencie kontrolnym, będą odprawiane na granicy w pierwszej kolejności przed pojazdami i pojemnikami, zawierającymi ładunki nieulegające szybkiemu zepsuciu."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 16"
+    },
+    {
+     "type": "text",
+     "text": "Przewoźnicy każdej Umawiającej się Strony przy wykonywaniu przewozów na podstawie niniejszej umowy ponoszą pełną odpowiedzialność w przypadku naruszenia przepisów celnych obowiązujących na obszarze drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 17"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienia części III niniejszej umowy przestaną obowiązywać, jeżeli sprawy objęte tymi postanowieniami zostaną uregulowane w drodze porozumienia wielostronnego, wiążącego obydwa kraje."
+    },
+    {
+     "type": "text",
+     "text": "IV. Postanowienia ogólne"
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 18"
+    },
+    {
+     "type": "text",
+     "text": "Przewozy uregulowane niniejszą umową mogą wykonywać tylko przewoźnicy, uprawnieni do tego zgodnie z przepisami prawnymi własnego kraju, pojazdami samochodowymi zarejestrowanymi na obszarze tego kraju."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 19"
+    },
+    {
+     "type": "text",
+     "text": "Przewóz wykonywany pojazdami samochodowymi lub zespołami pojazdów, przekraczającymi z ładunkiem lub bez ładunku najwyższe wymiary lub ciężary pojazdów, dopuszczone na obszarze drugiej Umawiającej się Strony, oraz przewóz materiałów niebezpiecznych, wymaga każdorazowo specjalnego zezwolenia właściwego organu tej Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 20"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Umowa niniejsza nie uprawnia przewoźników jednej Umawiającej się Strony do wykonywania przewozu podróżnych lub ładunków między dwoma miejscami położonymi na obszarze drugiej Umawiającej się Strony; ograniczenie to nie dotyczy regularnych przewozów autobusowych, o ile zezwolenie na ich wykonywanie, wydane zgodnie z postanowieniami artykułu 2, na to zezwala.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przewóz podróżnych lub ładunków, wykonywany przez przewoźników jednej Umawiającej się Strony z obszaru drugiej Umawiającej się Strony na obszar kraju trzeciego lub odwrotnie, będzie mógł być wykonywany tylko pod warunkiem otrzymania specjalnego zezwolenia właściwego organu tej drugiej Umawiającej się Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 21"
+    },
+    {
+     "type": "text",
+     "text": "Każda osoba fizyczna lub prawna, zamieszkała lub mająca swą siedzibę na obszarze jednej Umawiającej się Strony i wykonująca przewóz lub przejazd pojazdem samochodowym na obszarze drugiej Umawiającej się Strony na podstawie niniejszej umowy, obowiązana jest stosownie do przepisów tej drugiej Strony ubezpieczyć swą odpowiedzialność cywilną za szkody, jakie może wyrządzić osobom trzecim w związku z ruchem pojazdu na obszarze tej drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 22"
+    },
+    {
+     "type": "text",
+     "text": "Płatności i rozliczenia wynikające z wykonywania przewozów na podstawie niniejszej umowy będą dokonywane zgodnie z każdorazowo obowiązującymi obie Umawiające się Strony umowami płatniczymi."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 23"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Pojazdy samochodowe każdej Umawiającej się Strony, ich kierowcy oraz przewożone tymi pojazdami osoby i ładunki będą korzystać z pomocy na obszarze drugiej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Uprawnione przedsiębiorstwa lub organizacje obu Umawiających się Stron ustalą w drodze porozumienia rodzaje pomocy i sposób jej udzielania oraz tryb rozliczeń z tego tytułu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 24"
+    },
+    {
+     "type": "text",
+     "text": "Właściwe organy obu Umawiających się Stron będą podawać sobie wzajemnie do wiadomości poważniejsze przypadki naruszenia przepisów ruchu drogowego, transportu drogowego lub warunków zezwoleń, dokonane przez przewoźników i obsługę pojazdów samochodowych drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 25"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "W celu należytego wykonywania postanowień niniejszej umowy obie Umawiające się Strony będą utrzymywać ze sobą bezpośredni kontakt za pośrednictwem swych właściwych organów, które w miarę potrzeby i w uzgodnionych wspólnie terminach będą odbywać narady swych przedstawicieli.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Zadaniem tych narad będzie w szczególności:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "ustalanie limitów zezwoleń na przewozy ładunków (artykuł 8),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "rozpatrywanie i uzgadnianie wniosków w sprawie uruchomienia regularnej komunikacji autobusowej (artykuł 2) oraz ustalanie warunków jej wykonywania,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_2/lit_c",
+     "text": "ustalanie szczegółowych warunków wykonywania przewozów samochodowych na podstawie niniejszej umowy, w szczególności warunków taryfowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_2/lit_d",
+     "text": "ustalanie sposobu zapewnienia ładunków powrotnych dla przewoźników drugiej Umawiającej się Strony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_2/lit_e",
+     "text": "ustalanie środków zmierzających do dalszego ułatwienia i rozwoju komunikacji samochodowej między obszarami obu Umawiających się Stron oraz przez ich obszary,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "ust_2/lit_f",
+     "text": "rozpatrywanie środków podejmowanych przez właściwe organy obu Umawiających się Stron w związku z naruszeniami przepisów lub warunków zezwoleń przez przewoźników i obsługę pojazdów samochodowych jednej Umawiającej się Strony na obszarze drugiej Umawiającej się Strony (artykuł 24),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "ust_2/lit_g",
+     "text": "rozwiązywanie wszelkich trudności, jakie mogą powstać przy wykonywaniu niniejszej umowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Podjęte na naradach ustalenia, w zależności od ich charakteru, przedstawiane będą do zatwierdzenia właściwym organom obu Umawiających się Stron.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 26"
+    },
+    {
+     "type": "text",
+     "text": "W sprawach nieuregulowanych postanowieniami niniejszej umowy stosuje się na obszarze każdej Umawiającej się Strony jej przepisy wewnętrzne."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 27"
+    },
+    {
+     "type": "text",
+     "text": "Obie Umawiające się Strony podadzą sobie wzajemnie do wiadomości w drodze pisemnej, jakie organy należy uważać za właściwe w rozumieniu postanowień niniejszej umowy."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 28"
+    },
+    {
+     "type": "text",
+     "text": "Umowa niniejsza podlega zatwierdzeniu przez oba Rządy i wejdzie w życie w dniu wymiany not stwierdzających jej zatwierdzenie."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 29"
+    },
+    {
+     "type": "text",
+     "text": "Umowa niniejsza zawarta jest na czas nieograniczony. Każda z Umawiających się Stron może wypowiedzieć niniejszą umowę nie później niż na trzy miesiące przed upływem danego roku kalendarzowego. Wypowiedzenie umowy powinno być dokonane w drodze notyfikacji. Umowa wypowiedziana zgodnie z powyższymi warunkami traci swą moc obowiązującą ostatniego dnia danego roku."
+    },
+    {
+     "type": "text",
+     "text": "Umowę niniejszą sporządzono w Budapeszcie dnia 18 lipca 1965 r. w dwóch egzemplarzach, każdy w językach polskim i węgierskim, przy czym oba teksty mają jednakową moc obowiązującą."
+    },
+    {
+     "type": "text",
+     "text": "W imieniu Rządu W imieniu Rządu Polskiej Rzeczypospolitej Węgierskiej Republiki Ludowej Ludowej"
+    },
+    {
+     "type": "text",
+     "text": "J. Rustecki Kiss Dezso”"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "BGYBZMENY"
+    },
+    {
+     "type": "ocr",
+     "text": "a Hacyar Nópkóztórsasóg kormónya és a Lencyel Nópkóztairsasag korminya kózóbt a nenzetkózi gópjórmifuvarozósróle"
+    },
+    {
+     "type": "ocr",
+     "text": "A Vapyar Nópkóztórsasóg kormónya ós a Lengyel Nópkóztónsosóf kormónya attól a szóndćktól vezetve, hogy a két orszag kózótti és azok teriletón óthaladó, autóbusszal vóczett sze= nélyfuvorozist, valamint a kózuti śrufuvarozóst negkonnyitse 6s tovabb fejlessze, a kóvetkezókben Allapodott megs"
+    },
+    {
+     "type": "ocr",
+     "text": "I. Ssemélyfuvarozds"
+    },
+    {
+     "type": "ocr",
+     "text": "1, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Mindkét Szergz6a5 £61 feljocositja a mósik Szerzódó Fél fuvarozéit, hogy a 2. cikkben foglalt rendelkez¢sek figyelembevétele mellett, autóbusszal, a kót Szerzódó Fól teriilete kózótt, valamint azokon 4t fuvardij ellenóben, vagy sajat szanl4éra személyfuvaroz4sokat vécezhessenek,"
+    },
+    {
+     "type": "ocr",
+     "text": "2, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "/1/ Rendszeres autóbuszfuvarozósok caak akkor bonyolithatók le, ha azok vógrehajtisóra mindkét Szerzódó Fól illetékes sservei kózóa ecyetórtósben engedélyt adnak."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "/2/ Rendszeres autóbuszfuvarozńsnak az autóbusszal vóczett olyan szemólyfuvarozós minósil, amolyet nechatóarozobt utvoe nalon, elóre jóvahacyott ¢s mcechirdetett nenetrend, valanint dijszabac alapjan bonyolitanak le, s anelynek sordn a kiindu-« 16 és vGgpontokon, tovabbą esetloc az utvonalaknak az engedélyben mechatórozott m4s pontjain utasokat vosznek fel vary tesznek le,"
+    },
+    {
+     "type": "ocr",
+     "text": "/3/ Minden, rendszeres fuvarozist vógzó autóbusznak rendelkeznie kell az /1/ bolezdósben emlitett engedély fónymósow latóval, anclyet az ellenórzó szervek kivdnsigóra fel kell mutatni.s"
+    },
+    {
+     "type": "ocr",
+     "text": "3, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "/1/ Minden, szemólyfuvarozóst vógzó outébusznok az autów buszt nyilvśntartó orsz4g jogszabólyainak megfeleléen kiślli= tott ellenórzó okm4innyal kell rendelkeanie,"
+    },
+    {
+     "type": "ocr",
+     "text": "/2/ Az ellenórzó okmónyt az ellenórzó szerwek kivónsńpśra fel kell mitatni,"
+    },
+    {
+     "type": "ocr",
+     "text": "II. Arufuvarozés"
+    },
+    {
+     "type": "ocr",
+     "text": "4, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Mindkét Szerzódó Fól feljocositja a mósik Szerzódó Fél fuvarozóit, hogy tohorgópjarmivel, a két Szerzódó Fól terii= lete kózótt, valamint azokon 4t fuvardij ellenóben, vagy sajót szómlóra fuvarozósokat vógozhessenek,"
+    },
+    {
+     "type": "ocr",
+     "text": "Se Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "A 4, cikkben emlitett fuvarozasokhoz a m4sik Szerzódó Fól illetékes szorvónek engedólye satikségese"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8, Cikx"
+    },
+    {
+     "type": "ocr",
+     "text": "/1/ Mindkót Szerzódó FÓl illotókos szorves a./ folhatalnazńst kap arra, hogy az 5, cilimck neg= fololó onyedélyckot a mósik Fól nevében kiadhassag b./ a kGlcoénisségi elv ficyclonbevótclóvel mindon óv novomber 30.=4ig kózósen nogillapitja a kóvotlezó óvme szóló oengodólyek nonnyisćcótę c./ minden 6v december 3l-óig mogkiuldi ecymasnak a b./ pont szerint megallapitott mennyisógii, sorszóm= mal ollśńtott, kitóltetlen, oldirt és Lobólyegzett engedélysirlapots; a./ a rendelkescsre bocsdétott engedély~iirlapokat kitólti, alńirńosal Gs pecséttel latja el, majd sajśt allana fuvarozód rószóre kiadja 0./ minden necyedév vógón a felhasznólt engedélyek mó= solatait ecymósnak visszakiildi,"
+    },
+    {
+     "type": "ocr",
+     "text": "/2/ he /1/ bekezdós rondelkezósci nem vonatkoznak a 19, és 20, cikkekbon onlitett ongedélyckre.s"
+    },
+    {
+     "type": "ocr",
+     "text": "9, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Jelon Egyezmény alapjón a Szerzódó Felek teriilote kózótt, fuvardij ellonóben vóczett, 4rufuvarozisokra a Gonfben, 19%, mójus l9-ón kelt, a nemzotkózi kózuti śrufuvarozósi szerzódósról 82616 Egycznóny /CUR/ 1-41, cikkeit kell alkalmagni."
+    },
+    {
+     "type": "ocr",
+     "text": "10, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "A sajét szómlóra végzett fuvarozisok esotébon valanennyl ecpjarniinck, illotve eépjarmii-szerelvénynek ollonórzó okmóny="
+    },
+    {
+     "type": "note",
+     "text": "[Strony 9-10 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "16, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "A jelen Egyozmony alapjan fuvarozist vég26 £uvarozók ~ ha onnek soran a 34sik Szerzódó P61 torilotén érvényos vómelóirńsokat mocoórtik ~- ożórt korlitlan foelelóssóccel tartoznake"
+    },
+    {
+     "type": "ocr",
+     "text": "17, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Jelen Fcyczmóny III, rószónek rendelikezóseiń hatólyukat vesztik, ha az azokban órintett kórdóseket ~ a kót orszógot is kótelezó = tóbboldalu mególlapodńs koretóben szabślyoze Bak,"
+    },
+    {
+     "type": "ocr",
+     "text": "IV, Altalónos rendelkozósok"
+    },
+    {
+     "type": "ocr",
+     "text": "18, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "A jelen Egycznónnyci szabślyozott fuvarozdsokat csak olyan fuvarozók vógezhetik, akik erre sajat orsząguk jog= ozobólyai czerint jogosultak ćs olyen gépjarniivekkel, amolyck najat orsz4guk nyilvantartasóban szerepolnok."
+    },
+    {
+     "type": "ocr",
+     "text": "19, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Olyan fuvarozńsokhoz, melyelmél a gópjarmii, vagy a ećpiśrmiiszerelvóny rakottan vagy rakominy nóliułl mechalade= ja a nósik Szerzódó F61 teriiletón engedólyczett lognacyobb Jśxmiimnórotoket, illotóleg sulyokat, valamint veszólyes aruk fuvarozósahoż, e Szerzódó Fél illetékes szerveinek esotenkónti kiilóniegoe engodólye satikedéges,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "23, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "/1/ Mindkót Szorzódó Fél cópjarmivci, azok vezct65i és az e jórmiivekkol fuvarozott szenélyck, valamint śruk a mósik Szerzódó Fól teriletén segélynyujtisi ażolcdlta= tasokban részesiilnek,"
+    },
+    {
+     "type": "ocr",
+     "text": "/0/ 4 Szerzódó Felek erre feljogositott vallialatai, vacy sservezetci a secólynyujtósi szolgiltatdsok nemei~ re cs módjśra, tovibbAé az ezzel kapcsolatos elszómolśsi eljirósra nóżve ecymassal megallapodast lótesiteneka"
+    },
+    {
+     "type": "ocr",
+     "text": "24, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "A Gzorzódó Felek illetókee szervei kólesónósen tśjókoztatjśk erymóst azokról a kózuti kézlekcdés, vagy a kózuti fuvarozńs szabdlyaiba itkózó, tovśbba az ongedélyezési feltételck megsértésével kapcsolatos olyan jelontósebb csaclekményokr6l, amolyelet a Szerzódó Felek fuvarozói;, illetóleg azok gépjarniiveinek személy~ zete kovetett ele"
+    },
+    {
+     "type": "ocr",
+     "text": "25, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "/1/ A Szerzódó Felek illetékes szerveik utjón kiésvetlen kapcsolatot tartanak fenn ecynóssal jelen Ecycznóny rene delkczósoinek motfeleló vógrehajtasa órdekóbenę © szer vek kópviselói a sziikećchog képest, kózógen meg= śllapitott idópontokban mocbeszólóseket tartanake"
+    },
+    {
+     "type": "ocr",
+     "text": "/2/ i metiboszólósok feladata elsósorbani. a./ az 4rufuvarozdsra szóló engedélyck szanónak mogóllapitósa /8, cikk/ę"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b./ a rendozeres autóbuszvonalak szervezésére irónyuló javaslatok mecvizegilaca ća eryeztctése /2, cikk/, valanint ezek iizemeltotósi feltétclcinek meróllaąpi= tasag c./ jelen Ecyeznóny alapjan vóczett gópJśrmifuvarozósok rószletfoltótelei, kivaltkóppen a dijszabdsi feltów telek megallapitósa d./ annak megillapitósa, hogy a mósik Szerzódó Fól fue varoztatói részére a visszfuvarok biztositósa milyen módon tórtónjókę ce./ a Szerzódó Felek teriilete kózótti és azon athaladó cópjórmituvarozós tovabbi megkónnyitósót és fejlesz= tósót cólzó intózkedósek mególlapitósa; £./ a gópjórmiifuvarozók; illetve cépjarnmiivek személyzete 4ltal a mósik Szerzódó Fél teriiletón elkévetett - jogszabólyokba és az engedólyezćsi feltótelekbe titkéz6 cselekmónyckkel kapcsolatban /24, oikk/ a Szerzódó Felek illetékes szervei részéré1 foganato= sitandó intózkedósck mecvizsgólśsag Ge/ a jelen Egyezmóny rendelkezéseinek vógrehajtósa soraén jelentkozó nehézségek negol.dósa,"
+    },
+    {
+     "type": "ocr",
+     "text": "/3/ A necbes2élések sorón hozott hatarozatokat ~ azok jellecó= tól figcóon » jóvahacyńs cóljóból a Szerzódó Felok illetókes szervei eló terjesztik,"
+    },
+    {
+     "type": "ocr",
+     "text": "26, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Az olyan kérdésekben, amelyckre nézve jelen Epyezmény nen tartalnaz rendolkezćst, mindkét Szerzódó Fól tesiiletón az ott órvónyes bolsó rendelkezéscket kell alkalmazni,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "27 Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Szerzódó Felek irósban kólesónósen kózlik egymissal, hogy jelen EZcyczmóny rendelkozćgeinok ćrtolmozćoe Szonw pontjśból nely szorvokot kell illetélos szorveknek tekinteni"
+    },
+    {
+     "type": "ocr",
+     "text": "28, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Jelon Egyeenényt a Szorzódó Telok korminyainak mog kell erésitenidks az Drycznóny a mocoróoitósról szóló jecyzókvaltśs napjan lóp hatdlyba."
+    },
+    {
+     "type": "ocr",
+     "text": "29, Cikk"
+    },
+    {
+     "type": "ocr",
+     "text": "Lat az Dcyezmónyt hatórozatlan idóre kótóttók, Az Lcyeznmónyt a Lzorzódó Felek barmelyike lockhósóbb hórom hónappał a folyó naptóri óv lejarta olótt felmonchatja. A fclmond4s jecyzók utjón tórtónik, hz e foltóteleknek mogfeloiócn felmondott Dcycznóny a folyó naptóri év utol- 86 napjaval veszti hatalydt."
+    },
+    {
+     "type": "ocr",
+     "text": "Jelen Lyyesmény Bucapeston, 1965, évi julius hó 18, nape jan kószult, kót=kót póldanyban, magyar ¢s lencyel nyele ven; mindkót szóvec ocyarónt hitoles."
+    },
+    {
+     "type": "ocr",
+     "text": "4 liacyar Nópkóztóarsasię A Iciyyel Nópkóztórsasóg Korminya novóben Korma"
+    },
+    {
+     "type": "ocr",
+     "text": "/Kiss Dezs&/"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

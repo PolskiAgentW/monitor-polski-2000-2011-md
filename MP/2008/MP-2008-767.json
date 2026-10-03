@@ -1,0 +1,74 @@
+{
+ "eli": "MP/2008/767",
+ "title": "Uchwała Nr 237 Rady Ministrów z dnia 5 listopada 2008 r. zmieniająca uchwałę w sprawie procentowego podziału na poszczególne urzędy środków na wynagrodzenia, przewidzianych na dodatki specjalne w służbie cywilnej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/767/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 237 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 listopada 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie procentowego podziału na poszczególne urzędy środków na wynagrodzenia, przewidzianych na dodatki specjalne w służbie cywilnej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 57 ust. 3 ustawy z dnia 24 sierpnia 2006 r. o służbie cywilnej (Dz. U. Nr 170, poz. 1218, z późn. zm.[^1]) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 133 Rady Ministrów z dnia 11 czerwca 2008 r. w sprawie procentowego podziału",
+   "children": [
+    {
+     "type": "text",
+     "text": "Lp. Nazwa urzędu na poszczególne urzędy środków na wynagrodzenia, przewidzianych na dodatki specjalne w służbie cywilnej (M. P. Nr 49, poz. 435 i Nr 76, poz. 682) w załączniku do uchwały:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "po lp. 1275 dodaje się lp. 1275a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Udział procentowy"
+      },
+      {
+       "type": "text",
+       "text": "1275a Powiatowy Inspektorat Weterynarii w Brzozowie 0,0021"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w lp. 1355 w kolumnie „Udział procentowy” wyrazy „0,0109” zastępuje się wyrazami „0,0088”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592 i Nr 249, poz. 1832, z 2007 r. Nr 25, poz. 162, Nr 123, poz. 847 i Nr 176, poz. 1242 oraz z 2008 r. Nr 157, poz. 976."
+ }
+}

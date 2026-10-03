@@ -1,0 +1,40 @@
+{
+ "eli": "MP/2004/859",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 25 listopada 2004 r. w sprawie wezwania przez Sejm Rzeczypospolitej Polskiej Rady Ministrów do podwyższenia kapitału zakładowego Krajowej Spółki Cukrowej S.A.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/859/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 listopada 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wezwania przez Sejm Rzeczypospolitej Polskiej Rady Ministrów do podwyższenia kapitału zakładowego Krajowej Spółki Cukrowej S.A."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Sejm Rzeczypospolitej Polskiej wzywa Radę Ministrów do podwyższenia kapitału zakładowego Krajowej Spółki Cukrowej S.A. do końca 2004 r. o kwotę 60 mln zł potrzebną dla realizacji programu restrukturyzacji Spółki.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: J. Oleksy"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

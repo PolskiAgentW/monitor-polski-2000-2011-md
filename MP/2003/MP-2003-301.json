@@ -1,0 +1,984 @@
+{
+ "eli": "MP/2003/301",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 kwietnia 2003 r. w sprawie regulaminu Państwowej Komisji Wyborczej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/301/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 kwietnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie regulaminu Państwowej Komisji Wyborczej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 2 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499, Nr 74, poz. 786 i Nr 154, poz. 1802, z 2002 r. Nr 14, poz. 128, Nr 113, poz. 984, Nr 127, poz. 1089 i Nr 153, poz. 1271 oraz z 2003 r. Nr 57, poz. 507) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się regulamin Państwowej Komisji Wyborczej, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 30 lipca 2001 r. w sprawie regulaminu Państwowej Komisji Wyborczej (M. P. Nr 25, poz. 427).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 17 kwietnia 2003 r. (poz. 301)"
+    },
+    {
+     "type": "text",
+     "text": "REGULAMIN PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Postanowienia ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Regulamin określa zasady organizacji pracy Państwowej Komisji Wyborczej, zwanej dalej „Komisją”, oraz sposób wykonywania jej ustawowych zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Ilekroć w niniejszym regulaminie jest mowa o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "„referendum” — należy przez to rozumieć referendum wskazane w art. 1 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. Nr 57, poz. 507);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "„organach wyborczych niższego stopnia” — należy przez to rozumieć:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_2/lit_a",
+         "text": "okręgowe komisje wyborcze, powołane w związku z wyborami Prezydenta Rzeczypospolitej Polskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_2/lit_b",
+         "text": "okręgowe komisje wyborcze, powołane w związku z wyborami do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_2/pkt_2/lit_c",
+         "text": "komisarzy wyborczych, powołanych w związku z wyborami do rad gmin, rad powiatów i sejmików województw;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "„spisach wyborców” — należy przez to rozumieć także spisy osób uprawnionych do udziału w referendum ogólnokrajowym lub w referendum lokalnym.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Komisja rozpatruje i rozstrzyga kolegialnie sprawy należące do jej właściwości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Komisja uchwala akty prawne w zakresie określonym w ustawach, ogłasza je w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” i podaje do publicznej wiadomości.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Organizacja pracy Komisji"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Pracami Komisji kieruje jej przewodniczący, który w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "reprezentuje Komisję na zewnątrz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "zwołuje posiedzenia Komisji i im przewodniczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "podpisuje w imieniu Komisji uchwały, wnioski oraz wyjaśnienia Komisji, zaświadczenia o wyborze posłów i senatorów, akty powołania komisarzy wyborczych, a także inne pisma wychodzące na zewnątrz, z zastrzeżeniem spraw wymienionych w § 13;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "nadzoruje wykonanie uchwał i wniosków Komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "zleca wykonanie określonych zadań Krajowemu Biuru Wyborczemu i nadzoruje ich wykonanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "wykonuje czynności zlecone przez Komisję.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W razie nieobecności przewodniczącego Komisji jego funkcje pełni jeden z zastępców przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Komisja może przydzielić do wykonania określone czynności wynikające z jej zadań zastępcom przewodniczącego, członkom Komisji i sekretarzowi Komisji lub zespołom powoływanym w tym celu ze swego składu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Do zadań sekretarza Komisji należy w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "przedstawianie Komisji projektów uchwał, wniosków i wyjaśnień oraz innych materiałów przygotowywanych przez Krajowe Biuro Wyborcze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "przedkładanie Komisji w celu rozpatrzenia odwołań od rozstrzygnięć właściwych organów wyborczych niższego stopnia oraz skarg na ich działalność;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "kierowanie inspekcją Komisji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "dokonywanie wstępnych uzgodnień z naczelnymi organami administracji rządowej w sprawie wydawania — w zakresie ich właściwości — niezbędnych aktów prawnych w sprawach dotyczących wyborów i referendum ogólnokrajowego oraz referendów lokalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "występowanie do wojewodów i organów jednostek samorządu terytorialnego w sprawach organizacyjnych dotyczących wyborów i referendów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_6/pkt_6",
+     "text": "organizowanie na zlecenie Komisji narad z organami wyborczymi niższego stopnia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Posiedzenia Komisji"
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Komisja odbywa posiedzenia w wyznaczonym dniu tygodnia. Doręczenie zawiadomień o posiedzeniu, wraz z porządkiem obrad i materiałami na posiedzenie, zapewnia sekretarz Komisji w terminie umożliwiającym przygotowanie do udziału w obradach, chyba że posiedzenie zostało zwołane w szczególnym trybie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Członkowie Komisji mają obowiązek uczestniczenia w jej posiedzeniach i innych pracach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W razie niemożności wzięcia udziału w posiedzeniu Komisji, jej członek jest obowiązany powiadomić o tym, w miarę możliwości jeszcze przed posiedzeniem, przewodniczącego lub sekretarza Komisji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W posiedzeniach Komisji stale uczestniczą sekretarz Komisji i wyznaczeni przez niego pracownicy Krajowego Biura Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W posiedzeniach Komisji mogą uczestniczyć inne osoby, zaproszone przez przewodniczącego Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Na wniosek członka Komisji posiedzenie lub jego część odbywa się wyłącznie z udziałem członków Komisji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Komisja obraduje w obecności co najmniej 5 członków, w tym przewodniczącego Komisji lub jednego z jego zastępców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Uchwały i inne rozstrzygnięcia Komisji zapadają większością głosów w głosowaniu jawnym. W razie równej liczby głosów rozstrzyga głos przewodniczącego posiedzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Wybory przewodniczącego Komisji oraz oddzielnie jego zastępców odbywają się w głosowaniu jawnym. W razie równej liczby głosów ponawia się głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Na wniosek członka Komisji przeprowadza się głosowanie tajne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Z posiedzenia Komisji sporządza się protokół, w którym podaje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "porządek obrad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "imiona i nazwiska uczestników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "zwięzłą treść wystąpień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_1/pkt_4",
+       "text": "podjęte rozstrzygnięcia i ustalenia, ze wskazaniem osób, które głosowały przeciw przyjętemu rozstrzygnięciu lub wstrzymały się od głosu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Do protokołu załącza się podjęte uchwały oraz wnioski i wyjaśnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Uchwały, wnioski i wyjaśnienia Komisji podpisuje przewodniczący posiedzenia, z zastrzeżeniem § 13.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Protokół sporządza pracownik Krajowego Biura Wyborczego wyznaczony przez sekretarza Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_12/ust_5",
+     "text": "Protokół podpisują przewodniczący posiedzenia i sekretarz Komisji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Wszystkie osoby wchodzące w skład Komisji i obecne na posiedzeniu podpisują następujące dokumenty:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "w wyborach Prezydenta:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_1/lit_a",
+       "text": "uchwały w sprawie rejestracji lub odmowy rejestracji komitetów wyborczych kandydatów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_1/lit_b",
+       "text": "protokoły rejestracji kandydatów, uchwały o odmowie rejestracji kandydatów, listę kandydatów i uchwałę o skreśleniu kandydata z listy kandydatów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_13/pkt_1/lit_c",
+       "text": "protokół głosowania, uchwałę o wyniku wyborów oraz obwieszczenie o wynikach głosowania i wyborów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_13/pkt_1/lit_d",
+       "text": "sprawozdanie z wyborów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_13/pkt_1/lit_e",
+       "text": "uchwały w sprawie przyjęcia lub odrzucenia sprawozdań wyborczych komitetów wyborczych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "w wyborach do Sejmu i do Senatu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_2/lit_a",
+       "text": "uchwały w sprawie przyjęcia lub odmowy przyjęcia: — zawiadomienia komitetu wyborczego partii politycznej o zamiarze zgłoszenia kandydatów na posłów i kandydatów na senatorów, — zawiadomienia o utworzeniu koalicyjnego komitetu wyborczego, — zawiadomienia o utworzeniu komitetu wyborczego wyborców,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_2/lit_b",
+       "text": "uchwały o przyznaniu jednolitych numerów dla list okręgowych tego samego komitetu wyborczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_13/pkt_2/lit_c",
+       "text": "uchwały, o których mowa w art. 147 ust. 3 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_13/pkt_2/lit_d",
+       "text": "ustalenia zbiorczych wyników głosowania na listy okręgowe w skali kraju,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_13/pkt_2/lit_e",
+       "text": "obwieszczenia o wynikach wyborów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_13/pkt_2/lit_f",
+       "text": "sprawozdania z wyborów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_13/pkt_2/lit_g",
+       "text": "uchwały w sprawie przyjęcia lub odrzucenia sprawozdań wyborczych komitetów wyborczych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "w referendum:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_3/lit_a",
+       "text": "protokół i obwieszczenie o wyniku referendum,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_3/lit_b",
+       "text": "uchwały, o których mowa w art. 36 ust. 1, 3 i 5 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_13/pkt_3/lit_c",
+       "text": "sprawozdanie z przebiegu referendum;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_13/pkt_4",
+     "text": "w wyborach do rad gmin, rad powiatów i sejmików województw oraz w wyborach wójtów, burmistrzów i prezydentów miast:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_4/lit_a",
+       "text": "uchwały w sprawie przyjęcia lub odmowy przyjęcia zawiadomienia o utworzeniu komitetu wyborczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_4/lit_b",
+       "text": "uchwały o przyznaniu jednolitych numerów dla list komitetów wyborczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_13/pkt_4/lit_c",
+       "text": "uchwały w sprawie przyjęcia lub odrzucenia sprawozdania finansowego komitetu wyborczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_13/pkt_4/lit_d",
+       "text": "obwieszczenie o zbiorczych wynikach wyborów na obszarze kraju;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_13/pkt_5",
+     "text": "uchwały w sprawie przyjęcia lub odrzucenia sprawozdania o źródłach pozyskania środków finansowych, w tym o kredytach bankowych i warunkach ich uzyskania, przez partię polityczną i Fundusz Wyborczy oraz o wydatkach poniesionych ze środków Funduszu Wyborczego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_13/pkt_6",
+     "text": "uchwały w sprawie przyjęcia lub odrzucenia informacji finansowej partii politycznej o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Dokumenty, o których mowa w § 13, zaświadczenia o wyborze posłów i senatorów, akty powołania komisarzy wyborczych oraz — stosownie do decyzji przewodniczącego Komisji — inne wydawane przez nią dokumenty opatrywane są pieczęcią Komisji.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Nadzór nad przestrzeganiem prawa wyborczego"
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Komisja, sprawując nadzór nad przestrzeganiem prawa wyborczego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "wydaje wytyczne i wyjaśnienia oraz informacje o przepisach prawa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "uchyla uchwały i inne postanowienia organów wyborczych niższego stopnia podjęte z naruszeniem prawa lub niezgodne z jej wytycznymi i przekazuje sprawy do ponownego rozpoznania bądź podejmuje inne rozstrzygnięcie w sprawie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "rozpatruje skargi na działalność organów wyborczych niższego stopnia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_1/pkt_4",
+       "text": "przeprowadza inspekcję działalności organów jednostek samorządu terytorialnego wykonujących zadania zlecone związane z przeprowadzaniem wyborów i referendów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Komisja może żądać od organów wyborczych niższego stopnia okresowych informacji o wykonaniu ich zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Komisja analizuje problemy związane ze stosowaniem prawa wyborczego oraz przedstawia właściwym organom odpowiednie wnioski.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "W wykonywaniu zadań, o których mowa w § 15 ust. 1 pkt 3 i 4, Komisja może zlecać przeprowadzenie kontroli przez pracowników Krajowego Biura Wyborczego, a także innych osób zaproponowanych przez sekretarza Komisji, tworząc inspekcję Komisji, zwaną dalej „inspekcją”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "O utworzeniu inspekcji Komisja rozstrzyga niezwłocznie po zarządzeniu wyborów lub referendum.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Komisja może zlecać wykonanie określonych zadań i prac organom wyborczym niższego stopnia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Osoby dokonujące inspekcji działają w zakresie zleconym przez Komisję, legitymując się upoważnieniem podpisanym przez przewodniczącego Komisji oraz opatrzonym jej pieczęcią.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Osoby wchodzące w skład inspekcji są uprawnione do wglądu w dokumentację organów wyborczych niższego stopnia i komisji obwodowych, a także w dokumentację związaną z wyborami i referendum, znajdującą się w organach administracji rządowej i samorządowej oraz w podległych im jednostkach. Osoby te mogą być obecne na posiedzeniach organów wyborczych, z wyjątkiem posiedzeń związanych z obliczaniem wyników głosowania i ustalenia wyników wyborów, a także są upoważnione do udzielania tym organom bieżących wyjaśnień.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Sprawozdania z działalności inspekcyjnej przedstawiane są niezwłocznie Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Komisja może przyznawać — na wniosek Kierownika Krajowego Biura Wyborczego — nagrody pieniężne osobom wchodzącym w skład inspekcji oraz innym osobom za szczególnie duży wkład pracy w przygotowanie i przeprowadzenie wyborów lub referendum.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Nadzór nad prowadzeniem i aktualizowaniem rejestru wyborców oraz sporządzaniem spisów wyborców"
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Komisja sprawuje nadzór nad prowadzeniem i aktualizowaniem stałych rejestrów wyborców w gminach oraz sporządzaniem spisów wyborców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Nadzór wykonywany jest poprzez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "okresowe gromadzenie i analizowanie danych o liczbie mieszkańców gmin oraz o liczbie wyborców wpisanych do rejestrów wyborców w gminach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "okresowe kontrole prawidłowości prowadzenia i aktualizowania rejestrów wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "kontrole prawidłowości sporządzania spisów wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_2/pkt_4",
+       "text": "kontrole dokonywane w związku ze skargami oraz informacjami o nieprawidłowościach w prowadzeniu rejestru wyborców oraz sporządzaniu spisów wyborców.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Czynności kontrolne wynikające z nadzoru Komisja wykonuje przy pomocy Krajowego Biura Wyborczego, które:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_3/pkt_1",
+       "text": "kontroluje prawidłowość prowadzenia rejestru wyborców i jego aktualizacji oraz sporządzania spisów wyborców i przekazuje w tym zakresie wójtowi (burmistrzowi, prezydentowi miasta) wyjaśnienia oraz wnioski dotyczące stwierdzonych uchybień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_3/pkt_2",
+       "text": "może żądać informacji o stanie aktualizacji rejestru wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_3/pkt_3",
+       "text": "bada zgodność danych rejestru wyborców i spisów wyborców z danymi ewidencji ludności i aktów stanu cywilnego w gminie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_3/pkt_4",
+       "text": "może żądać odpowiednich wydruków kontrolnych dotyczących osób objętych ewidencją ludności oraz wpisanych do rejestru wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_3/pkt_5",
+       "text": "może żądać informacji o liczbie wyborców wpisanych do rejestru wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_18/ust_3/pkt_6",
+       "text": "może występować z urzędu do wójtów (burmistrzów, prezydentów miast) o wykreślenie z rejestru wyborców bądź spisu wyborców osób, które z naruszeniem prawa zostały wpisane do rejestru wyborców bądź spisu wyborców, a także o sprostowanie niewłaściwych danych wyborcy wpisanego do rejestru wyborców bądź spisu wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_18/ust_3/pkt_7",
+       "text": "przekazuje wojewodom oceny i uwagi dotyczące stanu ewidencji ludności w związku z prowadzeniem rejestru wyborców w gminach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_18/ust_4",
+     "text": "Kontrole, o których mowa w ust. 3 pkt 1 i 3, wykonują pracownicy Krajowego Biura Wyborczego na podstawie pisemnych upoważnień udzielonych przez Kierownika Krajowego Biura Wyborczego lub przez dyrektora właściwej delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_18/ust_5",
+     "text": "Krajowe Biuro Wyborcze:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_5/pkt_1",
+       "text": "gromadzi i analizuje kwartalne informacje o liczbie mieszkańców gmin oraz o liczbie wyborców wpisanych do rejestrów wyborców w gminach na podstawie poszczególnych przepisów prawa wyborczego i przedkłada Komisji kwartalną informację o liczbie wyborców objętych rejestrem wyborców w gminach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_5/pkt_2",
+       "text": "niezwłocznie po upływie terminu sporządzenia spisów wyborców gromadzi informacje o liczbie mieszkańców gmin oraz o liczbie wyborców wpisanych do spisów wyborców według stanu na dzień ich sporządzenia i przedkłada Komisji informację o liczbie wyborców wpisanych do spisów wyborców w poszczególnych gminach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_5/pkt_3",
+       "text": "gromadzi zaktualizowane informacje, o których mowa w pkt 2, według stanu na 3 dni przed dniem głosowania, podając dodatkowo: liczby wyborców wpisanych na własny wniosek do spisu wyborców, liczby wyborców skreślonych ze spisu wyborców oraz liczby zaświadczeń o prawie do głosowania wydanych wyborcom, jeżeli w wyborach przewidziane jest ich wydawanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_5/pkt_4",
+       "text": "podaje do publicznej wiadomości informacje, o których mowa w pkt 1 i 2, po ich przyjęciu przez Komisję.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_18/ust_6",
+     "text": "Kierownik Krajowego Biura Wyborczego przedkłada Komisji — w terminach przez nią ustalonych — ocenę stanu prawidłowości prowadzenia rejestrów wyborców oraz sporządzania spisów wyborców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_18/ust_7",
+     "text": "Dla wykonania czynności wynikających z nadzoru Komisji osoby upoważnione przez Kierownika Krajowego Biura Wyborczego i dyrektorów delegatur Krajowego Biura Wyborczego mają prawo wglądu do dokumentacji dotyczącej prowadzenia rejestru wyborców oraz sporządzania spisów wyborców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Postanowienia szczególne i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Przewodniczący Komisji powiadamia Prezydenta Rzeczypospolitej Polskiej o zaistnieniu przypadków uzasadniających konieczność dokonania zmian w składzie Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Jeżeli zmiany, o których mowa w ust. 1, dotyczą osób pełniących funkcje przewodniczącego Komisji lub jego zastępcy, Komisja — po uzupełnieniu swojego składu — dokonuje niezwłocznie wyboru nowego przewodniczącego lub zastępcy. Przepisy § 11 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Informację o zmianach na stanowisku przewodniczącego Komisji lub jego zastępcy podaje się do publicznej wiadomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Przewodniczący wydaje członkom Komisji legitymacje potwierdzające członkostwo i pełnione w Komisji funkcje, a także legitymacje komisarzom wyborczym.",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,107 @@
+{
+ "eli": "MP/2010/603",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 31 maja 2010 r. zmieniająca uchwałę w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu pracy w przygotowaniu i przeprowadzeniu głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 20 czerwca 2010 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/603/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 maja 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu pracy w przygotowaniu i przeprowadzeniu głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 20 czerwca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 3 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 72, poz. 467) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Państwowej Komisji Wyborczej z dnia 26 kwietnia 2010 r. w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu pracy w przygotowaniu i przeprowadzeniu głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 20 czerwca 2010 r. (M. P. Nr 33, poz. 476) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "po pkt 28 dodaje się pkt 28a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„28a. Komisja przed przystąpieniem do sporządzenia protokołu ustala liczbę wyborców, którzy głosowali na podstawie zaświadczenia o prawie do głosowania. Liczbę tę komisja ustala na podstawie adnotacji w rubryce „Uwagi” — „z 20 VI” spisu wyborców oraz liczby zaświadczeń dołączonych do spisu wyborców. Liczby te powinny być jednakowe. Następnie komisja sporządza zestawienie zawierające następujące informacje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wybory Prezydenta Rzeczypospolitej Polskiej — głosowanie …………...........………; (data głosowania)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) numer obwodu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) adres komisji obwodowej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) i mię i nazwisko przewodniczącego komisji obwodowej lub zastępcy przewodniczącego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) l iczbę osób głosujących na podstawie zaświadczenia o prawie do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy w danym obwodzie głosowania żaden wyborca nie głosował na podstawie zaświadczenia o prawie do głosowania, w zestawieniu należy wpisać „0”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zestawienie powinno być podpisane przez przewodniczącego komisji lub jego zastępcę i doręczone okręgowej komisji wyborczej wraz z protokołem głosowania w obwodzie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pkt 55 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„55. Zadania i czynności związane z przygotowaniem i przeprowadzeniem ponownego głosowania są — z uwzględnieniem pkt 56—60 wytycznych — identyczne jak w pierwszym głosowaniu; stosuje się te same ustalenia dotyczące dostarczania do obwodów głosowania kart do głosowania, formularzy protokołu głosowania, a także trybu przekazywania protokołu głosowania przez obwodowe komisje wyborcze oraz podawania wyników głosowania do publicznej wiadomości. Ponadto analogicznie stosuje się pkt 28a wytycznych z zastrzeżeniem, iż liczbę wyborców głosujących na podstawie zaświadczenia o prawie do głosowania ustala się na podstawie adnotacji w rubryce „Uwagi” — „z 4 VII” spisu wyborców. Stosując te same formularze protokołu głosowania, opatruje się je w prawym górnym rogu wyraźnym napisem „PONOWNE”. Przy ustaleniu wyników głosowania i sporządzaniu oraz przekazywaniu protokołu głosowania komisja stosuje odpowiednio pkt 30—50 wytycznych.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,140 @@
+{
+ "eli": "MP/2007/943",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 14 listopada 2007 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/943/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 listopada 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2002 r. Nr 23, poz. 398, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 18 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "pkt 17 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„17) Polityki Społecznej i Rodziny,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "uchyla się pkt 17a,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "uchyla się pkt 18a,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_1/lit_d",
+       "text": "uchyla się pkt 19a;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w załączniku do uchwały — Regulamin Sejmu Rzeczypospolitej Polskiej „Przedmiotowy zakres działania komisji sejmowych”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "pkt 8 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8) Gospodarki należą sprawy polityki gospodarczej, a w szczególności: restrukturyzacji gospodarki, efektywności przemysłu, handlu międzynarodowego i wewnętrznego, technologii, inwestycji bezpośrednich i udziału kapitału zagranicznego, a także samorządu pracowniczego, gospodarczego i pracodawców, oraz sprawy związane z tworzeniem właściwych podstaw prawnych dla funkcjonowania i rozwoju mikroprzedsiębiorców, małych i średnich przedsiębiorców, dostosowywania norm prawnych do potrzeb i możliwości działania takich przedsiębiorców, sprawy rozwoju rzemiosła, spółdzielczości oraz działalności gospodarczej w zakresie drobnej wytwórczości oraz usług, sprawy turystyki, a także sprawy ochrony przed działaniem monopoli, w szczególności monopoli naturalnych, zapewniania wolności konkurencji na rynku, zasadności koncesjonowania zawodów i działalności gospodarczej, przeciwdziałania monopolizacji oraz ochrony praw konsumenta;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "pkt 17 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„17) Polityki Społecznej i Rodziny należą sprawy kształtowania polityki społecznej państwa, problemów socjalnych, ubezpieczeń społecznych, świadczeń socjalnych, pomocy społecznej, komunalnego budownictwa mieszkaniowego i problemów osób niepełnosprawnych i kombatantów oraz sprawy prawa pracy, w tym ochrony pracowników, bezpieczeństwa i higieny pracy, równego traktowania w zatrudnieniu, a także systemów płac i kosztów utrzymania, walki z bezrobociem, rynku pracy, kosztów pracy, zatrudnienia i ochrony praw pracowniczych obywateli polskich w krajach Unii Europejskiej, zatrudnienia absolwentów oraz aktywizacji osób w wieku przedemerytalnym, a także sprawy wynikające bezpośrednio z funkcjonowania rodziny, wypełniania jej ról i zadań oraz występowania z propozycjami regulacji prawnych dotyczących tych zagadnień oraz sprawy dotyczące ochrony praw kobiet i zapewnienia im równych szans w życiu zawodowym i społecznym, a także sprawy związane z przestrzeganiem konstytucyjnej zasady równych praw kobiet i mężczyzn;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "uchyla się pkt 17a,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_2/lit_d",
+       "text": "uchyla się pkt 18a,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_2/lit_e",
+       "text": "uchyla się pkt 19a.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M. P. z 2003 r. Nr 23, poz. 337, z 2004 r. Nr 12, poz. 182, z 2005 r. Nr 16, poz. 263, Nr 42, poz. 556, Nr 66, poz. 912 i Nr 76, poz. 1062, z 2006 r. Nr 15, poz. 194 oraz z 2007 r. Nr 23, poz. 253."
+ }
+}

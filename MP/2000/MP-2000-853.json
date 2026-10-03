@@ -1,0 +1,537 @@
+{
+ "eli": "MP/2000/853",
+ "title": "Obwieszczenie Ministra Finansów z dnia 20 grudnia 2000 r. w sprawie ogłoszenia listy miejscowości, w których mogą być prowadzone ośrodki gier.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/853/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 grudnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia listy miejcowości, w których mogą być prowadzone ośrodki gier."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 31a ustawy z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach (Dz. U. z 1998 r. Nr 102, poz. 650, Nr 145, poz. 946, Nr 155, poz. 1014 i Nr 160, poz. 1061 oraz z 2000 r. Nr 9, poz. 117, Nr 70, poz. 816 i Nr 116, poz. 1216) ogłasza się listę miejscowości, w których mogą być prowadzone ośrodki gier, stanowiącą załączniki nr 1—3 do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: J. Bauc"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Finansów z dnia 20 grudnia 2000 r. (poz. 853)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "LISTA MIEJSCOWOŚCI, W KTÓRYCH MOGĄ BYC∑ PROWADZONE KASYNA GRY"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Miejscowość"
+    },
+    {
+     "type": "text",
+     "text": "1 2"
+    },
+    {
+     "type": "text",
+     "text": "I poniżej 250 tys. mieszkańców* 1 Ciechocinek 2 Gorzów Wielkopolski 3 Karpacz 4 Rzeszów 5 Słubice 6 Sopot 7 Świnoujście 8 Zakopane II od 250 do 350 tys. mieszkańców 1 Białystok 2 Częstochowa 3 Gdynia III powyżej 350 do 500 tys. mieszkańców 1 Bydgoszcz 2 Gdańsk 3 Katowice 4 Lublin 5 Szczecin IV powyżej 500 do 1 000 tys. mieszkańców 1 Kraków 2 Łódź 3 Poznań 4 Wrocław V powyżej 1 000 tys. mieszkańców 1 Warszawa"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "LISTA MIEJSCOWOŚCI, W KTÓRYCH MOGĄ BYC∑ PROWADZONE SALONY GIER NA AUTOMATACH"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Miejscowość"
+    },
+    {
+     "type": "text",
+     "text": "1 2"
+    },
+    {
+     "type": "text",
+     "text": "I poniżej 50 tys. mieszkańców*"
+    },
+    {
+     "type": "text",
+     "text": "1 Brzeg nad Odrą"
+    },
+    {
+     "type": "text",
+     "text": "2 Cieszyn"
+    },
+    {
+     "type": "text",
+     "text": "3 Kołobrzeg"
+    },
+    {
+     "type": "text",
+     "text": "4 Mrągowo"
+    },
+    {
+     "type": "text",
+     "text": "5 Słubice"
+    },
+    {
+     "type": "text",
+     "text": "6 Sopot"
+    },
+    {
+     "type": "text",
+     "text": "7 Świnoujście"
+    },
+    {
+     "type": "text",
+     "text": "8 Zakopane"
+    },
+    {
+     "type": "text",
+     "text": "9 Zgorzelec"
+    },
+    {
+     "type": "text",
+     "text": "II od 50 do 100 tys. mieszkańców"
+    },
+    {
+     "type": "text",
+     "text": "1 Bełchatów"
+    },
+    {
+     "type": "text",
+     "text": "2 Będzin"
+    },
+    {
+     "type": "text",
+     "text": "3 Biała Podlaska"
+    },
+    {
+     "type": "text",
+     "text": "4 Chełm"
+    },
+    {
+     "type": "text",
+     "text": "5 Ełk"
+    },
+    {
+     "type": "text",
+     "text": "6 Głogów"
+    },
+    {
+     "type": "text",
+     "text": "7 Gniezno"
+    },
+    {
+     "type": "text",
+     "text": "8 Inowrocław"
+    },
+    {
+     "type": "text",
+     "text": "9 Jaworzno"
+    },
+    {
+     "type": "text",
+     "text": "10 Jelenia Góra"
+    },
+    {
+     "type": "text",
+     "text": "11 Kędzierzyn-Koźle"
+    },
+    {
+     "type": "text",
+     "text": "12 Konin"
+    },
+    {
+     "type": "text",
+     "text": "13 Kutno"
+    },
+    {
+     "type": "text",
+     "text": "14 Legionowo"
+    },
+    {
+     "type": "text",
+     "text": "15 Leszno"
+    },
+    {
+     "type": "text",
+     "text": "16 Lubin"
+    },
+    {
+     "type": "text",
+     "text": "17 Łomża"
+    },
+    {
+     "type": "text",
+     "text": "18 Mielec"
+    },
+    {
+     "type": "text",
+     "text": "19 Mysłowice"
+    },
+    {
+     "type": "text",
+     "text": "20 Nowy Sącz"
+    },
+    {
+     "type": "text",
+     "text": "21 Ostrołęka"
+    },
+    {
+     "type": "text",
+     "text": "22 Ostrowiec Świętokrzyski"
+    },
+    {
+     "type": "text",
+     "text": "23 Ostrów Wielkopolski"
+    },
+    {
+     "type": "text",
+     "text": "24 Pabianice"
+    },
+    {
+     "type": "text",
+     "text": "25 Piekary Śląskie"
+    },
+    {
+     "type": "text",
+     "text": "26 Piła"
+    },
+    {
+     "type": "text",
+     "text": "27 Piotrków Trybunalski"
+    },
+    {
+     "type": "text",
+     "text": "28 Pruszków 1 2"
+    },
+    {
+     "type": "text",
+     "text": "29 Przemyśl"
+    },
+    {
+     "type": "text",
+     "text": "30 Puławy"
+    },
+    {
+     "type": "text",
+     "text": "31 Racibórz"
+    },
+    {
+     "type": "text",
+     "text": "32 Radomsko"
+    },
+    {
+     "type": "text",
+     "text": "33 Siedlce"
+    },
+    {
+     "type": "text",
+     "text": "34 Siemianowice Śląskie"
+    },
+    {
+     "type": "text",
+     "text": "35 Skarżysko-Kamienna"
+    },
+    {
+     "type": "text",
+     "text": "36 Stalowa Wola"
+    },
+    {
+     "type": "text",
+     "text": "37 Starachowice"
+    },
+    {
+     "type": "text",
+     "text": "38 Stargard Szczeciński"
+    },
+    {
+     "type": "text",
+     "text": "39 Starogard Gdański"
+    },
+    {
+     "type": "text",
+     "text": "40 Suwałki"
+    },
+    {
+     "type": "text",
+     "text": "41 Świdnica"
+    },
+    {
+     "type": "text",
+     "text": "42 Świętochłowice"
+    },
+    {
+     "type": "text",
+     "text": "43 Tarnobrzeg"
+    },
+    {
+     "type": "text",
+     "text": "44 Tarnowskie Góry"
+    },
+    {
+     "type": "text",
+     "text": "45 Tczew"
+    },
+    {
+     "type": "text",
+     "text": "46 Tomaszów Mazowiecki"
+    },
+    {
+     "type": "text",
+     "text": "47 Zamość"
+    },
+    {
+     "type": "text",
+     "text": "48 Zawiercie"
+    },
+    {
+     "type": "text",
+     "text": "49 Zgierz"
+    },
+    {
+     "type": "text",
+     "text": "50 Żory"
+    },
+    {
+     "type": "text",
+     "text": "III powyżej 100 do 200 tys. mieszkańców"
+    },
+    {
+     "type": "text",
+     "text": "1 Bielsko-Biała"
+    },
+    {
+     "type": "text",
+     "text": "2 Chorzów"
+    },
+    {
+     "type": "text",
+     "text": "3 Dąbrowa Górnicza"
+    },
+    {
+     "type": "text",
+     "text": "4 Elbląg"
+    },
+    {
+     "type": "text",
+     "text": "5 Gorzów Wielkopolski"
+    },
+    {
+     "type": "text",
+     "text": "6 Grudziądz"
+    },
+    {
+     "type": "text",
+     "text": "7 Jastrzębie-Zdrój"
+    },
+    {
+     "type": "text",
+     "text": "8 Kalisz"
+    },
+    {
+     "type": "text",
+     "text": "9 Koszalin"
+    },
+    {
+     "type": "text",
+     "text": "10 Legnica"
+    },
+    {
+     "type": "text",
+     "text": "11 Olsztyn"
+    },
+    {
+     "type": "text",
+     "text": "12 Opole"
+    },
+    {
+     "type": "text",
+     "text": "13 Płock"
+    },
+    {
+     "type": "text",
+     "text": "14 Ruda Śląska"
+    },
+    {
+     "type": "text",
+     "text": "15 Rybnik"
+    },
+    {
+     "type": "text",
+     "text": "16 Rzeszów"
+    },
+    {
+     "type": "text",
+     "text": "17 Słupsk"
+    },
+    {
+     "type": "text",
+     "text": "18 Tarnów"
+    },
+    {
+     "type": "text",
+     "text": "19 Tychy"
+    },
+    {
+     "type": "text",
+     "text": "20 Wałbrzych"
+    },
+    {
+     "type": "text",
+     "text": "21 Włocławek"
+    },
+    {
+     "type": "text",
+     "text": "22 Zabrze"
+    },
+    {
+     "type": "text",
+     "text": "23 Zielona Góra 1 2"
+    },
+    {
+     "type": "text",
+     "text": "IV powyżej 200 do 300 tys. mieszkańców"
+    },
+    {
+     "type": "text",
+     "text": "1 Białystok"
+    },
+    {
+     "type": "text",
+     "text": "2 Bytom"
+    },
+    {
+     "type": "text",
+     "text": "3 Częstochowa"
+    },
+    {
+     "type": "text",
+     "text": "4 Gdynia"
+    },
+    {
+     "type": "text",
+     "text": "5 Gliwice"
+    },
+    {
+     "type": "text",
+     "text": "6 Kielce"
+    },
+    {
+     "type": "text",
+     "text": "7 Radom"
+    },
+    {
+     "type": "text",
+     "text": "8 Sosnowiec"
+    },
+    {
+     "type": "text",
+     "text": "9 Toruń"
+    },
+    {
+     "type": "text",
+     "text": "V powyżej 300 do 500 tys. mieszkańców"
+    },
+    {
+     "type": "text",
+     "text": "1 Bydgoszcz"
+    },
+    {
+     "type": "text",
+     "text": "2 Gdańsk"
+    },
+    {
+     "type": "text",
+     "text": "3 Katowice"
+    },
+    {
+     "type": "text",
+     "text": "4 Lublin"
+    },
+    {
+     "type": "text",
+     "text": "5 Szczecin"
+    },
+    {
+     "type": "text",
+     "text": "VI powyżej 500 do 700 tys. mieszkańców"
+    },
+    {
+     "type": "text",
+     "text": "1 Poznań"
+    },
+    {
+     "type": "text",
+     "text": "2 Wrocław"
+    },
+    {
+     "type": "text",
+     "text": "VII powyżej 700 do 1 000 tys. mieszkańców"
+    },
+    {
+     "type": "text",
+     "text": "1 Kraków"
+    },
+    {
+     "type": "text",
+     "text": "2 Łódź"
+    },
+    {
+     "type": "text",
+     "text": "VIII powyżej 1 000 tys. mieszkańców"
+    },
+    {
+     "type": "text",
+     "text": "1 Warszawa"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 3"
+    },
+    {
+     "type": "text",
+     "text": "LISTA MIEJSCOWOŚCI, W KTÓRYCH MOGĄ BYC∑ PROWADZONE SALONY GRY BINGO PIENIĘŻNE"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Miejscowość"
+    },
+    {
+     "type": "text",
+     "text": "1 2"
+    },
+    {
+     "type": "text",
+     "text": "I od 100 do 200 tys. mieszkańców 1 Bielsko-Biała 2 Chorzów 3 Dąbrowa Górnicza 4 Elbląg 5 Gorzów Wielkopolski 6 Grudziądz 7 Jastrzębie-Zdrój 8 Kalisz 9 Koszalin 10 Legnica 11 Olsztyn 12 Opole 13 Płock 1 2"
+    },
+    {
+     "type": "text",
+     "text": "14 Ruda Śląska 15 Rybnik 16 Rzeszów 17 Słupsk 18 Tarnów 19 Tychy 20 Wałbrzych 21 Włocławek 22 Zabrze 23 Zielona Góra II powyżej 200 do 400 tys. mieszkańców 1 Białystok 2 Bydgoszcz 3 Bytom 4 Częstochowa 5 Gdynia 6 Gliwice 7 Katowice 8 Kielce 9 Lublin 10 Radom 11 Sosnowiec 12 Toruń III powyżej 400 do 700 tys. mieszkańców 1 Gdańsk 2 Poznań 3 Szczecin 4 Wrocław IV powyżej 700 do 1 000 tys. mieszkańców 1 Kraków 2 Łódź V powyżej 1 000 tys. mieszkańców 1 Warszawa"
+    },
+    {
+     "type": "text",
+     "text": "* Kasyna gry w tych miejscowościach mogą być prowadzone do czasu wygaśnięcia udzielonych zezwoleń. * Salony gier na automatach w tych miejscowościach mogą być prowadzone do czasu wygaśnięcia udzielonych zezwoleń."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

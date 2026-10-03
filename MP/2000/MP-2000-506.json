@@ -1,0 +1,88 @@
+{
+ "eli": "MP/2000/506",
+ "title": "Zarządzenie Nr 59 Prezesa Rady Ministrów z dnia 17 sierpnia 2000 r. zmieniające zarządzenie w sprawie powołania Międzyresortowego Zespołu do Spraw Migracji.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/506/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 59 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 sierpnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie powołania Międzyresortowego Zespołu do Spraw Migracji."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. z 1999 r. Nr 82, poz. 929) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 106 Prezesa Rady Ministrów z dnia 3 października 1997 r. w sprawie powołania Międzyresortowego Zespołu do Spraw Migracji (Monitor Polski Nr 73, poz. 692) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Do zadań Zespołu należy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) przygotowywanie projektów założeń zmian strukturalnych i organizacyjnych mających na celu realizację zadań państwa w zakresie polityki migracyjnej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wypracowanie rozwiązań dotyczących koordynacji działań organów administracji rządowej realizujących zadania w dziedzinie migracji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) opracowanie programu zwalczania zjawiska nielegalnej migracji w Polsce.”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3 w ust. 1 w pkt 3 skreśla się lit. d),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 6 wyrazy „w roku” zastępuje się wyrazami „na kwartał”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: w z. J. Steinhoff"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

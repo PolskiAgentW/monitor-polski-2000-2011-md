@@ -1,0 +1,84 @@
+{
+ "eli": "MP/2008/799",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 19 listopada 2008 r. w sprawie granicznych kwot przychodu dla 2008 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/799/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 listopada 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2008 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.[^1]) ogłasza się, że kwoty graniczne przychodu dla 2008 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "24 416,90 zł — co stanowi sumę kwot przychodu odpowiadających 70 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— 1 892,40 zł — od 1 stycznia 2008 r. do 29 lutego 2008 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 2 029,90 zł — od 1 marca 2008 r. do 31 maja 2008 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 2 088,80 zł — od 1 czerwca 2008 r. do 31 sierpnia 2008 r., — 2 066,00 zł — od 1 września 2008 r. do 30 listopada 2008 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 2 078,00 zł — od 1 grudnia 2008 r. do 31 grudnia 2008 r.;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "45 345,60 zł — co stanowi sumę kwot przychodu odpowiadających 130 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— 3 514,50 zł — od 1 stycznia 2008 r. do 29 lutego 2008 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 3 769,80 zł — od 1 marca 2008 r. do 31 maja 2008 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 3 879,20 zł — od 1 czerwca 2008 r. do 31 sierpnia 2008 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 3 836,80 zł — od 1 września 2008 r. do 30 listopada 2008 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 3 859,20 zł — od 1 grudnia 2008 r. do 31 grudnia 2008 r."
+    },
+    {
+     "type": "text",
+     "text": "Prezes Zakładu Ubezpieczeń Społecznych: S. Rypiński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445 oraz z 2008 r. Nr 67, poz. 411 i Nr 192, poz. 1180."
+ }
+}

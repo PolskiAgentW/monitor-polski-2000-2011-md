@@ -1,0 +1,47 @@
+{
+ "eli": "MP/2006/609",
+ "title": "Obwieszczenie Ministra Finansów z dnia 17 sierpnia 2006 r. w sprawie wysokości kwot wymienionych w art. 41 par. 1 w art. 112 par. 1 pkt 3 ustawy - Ordynacja podatkowa",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/609/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 sierpnia 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości kwot wymienionych w art. 41 § 1 i w art. 112 § 1 pkt 3 ustawy — Ordynacja podatkowa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 119 § 2 ustawy z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.[^2]) ogłasza się, że w roku 2007 wysokość:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwoty, o której mowa w art. 41 § 1 ustawy — Ordynacja podatkowa, wynosi 10 400 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "kwoty, o której mowa w art. 112 § 1 pkt 3 ustawy — Ordynacja podatkowa, wynosi 15 800 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: S. Kluza"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 131, poz. 908).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i Nr 143, poz. 1031."
+ }
+}

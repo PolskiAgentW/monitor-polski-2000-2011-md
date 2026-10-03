@@ -1,0 +1,314 @@
+{
+ "eli": "MP/2011/253",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 14 marca 2011 r. w sprawie nadania statutu Krajowemu Biuru Wyborczemu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/253/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 marca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Krajowemu Biuru Wyborczemu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 188 § 4 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112 i Nr 26, poz. 134) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Krajowemu Biuru Wyborczemu nadaje się statut w brzmieniu ustalonym w załączniku do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem 1 sierpnia 2011 r. i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S. J. Jaworski"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 14 marca 2011 r. (poz. 253)"
+    },
+    {
+     "type": "text",
+     "text": "STATUT KRAJOWEGO BIURA WYBORCZEGO"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Krajowe Biuro Wyborcze jest urzędem zapewniającym obsługę organów wyborczych oraz wykonującym zadania związane z organizacją wyborów i referendów w zakresie określonym w Kodeksie wyborczym i innych ustawach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Siedzibą Krajowego Biura Wyborczego jest Warszawa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Pracą Krajowego Biura Wyborczego kieruje Szef Krajowego Biura Wyborczego przy pomocy zastępcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zastępcą Szefa Krajowego Biura Wyborczego jest z urzędu dyrektor Zespołu Prawnego i Organizacji Wyborów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Szef Krajowego Biura Wyborczego, jako organ wykonawczy Państwowej Komisji Wyborczej, wykonuje zadania wynikające z Kodeksu wyborczego i innych ustaw oraz określone w regulaminie Państwowej Komisji Wyborczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Szef Krajowego Biura Wyborczego za działalność, o której mowa w ust. 1, odpowiada przed Państwową Komisją Wyborczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Organizacja Krajowego Biura Wyborczego jest jednostopniowa; zespoły i delegatury są równorzędnymi jednostkami organizacyjnymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W jednostkach organizacyjnych, o których mowa w ust. 1, mogą być tworzone wydziały lub samodzielne stanowiska pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Jednostkami organizacyjnymi Krajowego Biura Wyborczego zapewniającymi obsługę Państwowej Komisji Wyborczej oraz organizacyjno-administracyjne, finansowe i techniczne warunki wykonywania zadań związanych z organizacją i przeprowadzaniem wyborów i referendów na obszarze kraju są następujące zespoły:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "Zespół Prawny i Organizacji Wyborów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "Zespół Kontroli Finansowania Partii Politycznych i Kampanii Wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "Zespół Finansowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "Zespół Prezydialny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jednostkami organizacyjnymi zapewniającymi obsługę komisarzy wyborczych, a także okręgowych i regionalnych komisji wyborczych oraz organizacyjno-administracyjne, finansowe i techniczne warunki wykonywania zadań związanych z organizacją i przeprowadzaniem wyborów i referendów na wyznaczonym obszarze województwa, są delegatury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Właściwość terytorialną delegatur wyznacza, ustalony w przepisach prawa, obszar działania organów wyborczych, o których mowa w ust. 2. Wykaz delegatur oraz ich siedziby określa załącznik do statutu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Jednostki organizacyjne Krajowego Biura Wyborczego współpracują ze sobą, stosownie do właściwości rzeczowej i terytorialnej, przy wykonywaniu zadań, o których mowa w § 5, z zastrzeżeniem ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zespoły, w zakresie swojej właściwości rzeczowej, są jednostkami wiodącymi i koordynującymi wykonanie zadań, o których mowa w § 5 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Szef Krajowego Biura Wyborczego może, w uzasadnionych przypadkach, wyznaczyć do wykonania określonego zadania jednostkę organizacyjną niezależnie od jej właściwości rzeczowej lub terytorialnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Jednostki organizacyjne Krajowego Biura Wyborczego używają nazw:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "„ Krajowe Biuro Wyborcze Zespół ...”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "„ Krajowe Biuro Wyborcze Delegatura w ...”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Pracami jednostek organizacyjnych Krajowego Biura Wyborczego kierują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "dyrektorzy zespołów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "dyrektorzy delegatur.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Szef Krajowego Biura Wyborczego może, w formie pisemnej, upoważnić zastępcę oraz dyrektorów jednostek organizacyjnych do załatwiania spraw w jego imieniu; w uzasadnionym przypadku takie upoważnienie może być wydane także innemu pracownikowi Krajowego Biura Wyborczego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Szef Krajowego Biura Wyborczego może powoływać, złożone z pracowników Krajowego Biura Wyborczego i innych osób, zespoły o charakterze stałym lub doraźnym, jako jednostki opiniodawcze lub doradcze, określając ich nazwy, skład osobowy oraz zakres i tryb działania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Szef Krajowego Biura Wyborczego określa, w drodze zarządzenia, szczegółową organizację wewnętrzną jednostek organizacyjnych Krajowego Biura Wyborczego oraz ich właściwość rzeczową, a także wprowadza zmiany w tym zakresie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Załącznik do statutu Krajowego Biura Wyborczego"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ DELEGATUR KRAJOWEGO BIURA WYBORCZEGO ORAZ ICH SIEDZIBY"
+    },
+    {
+     "type": "text",
+     "text": "Województwo dolnośląskie Województwo opolskie Delegatura w Jeleniej Górze Delegatura w Opolu Delegatura w Legnicy Delegatura w Wałbrzychu Województwo podkarpackie Delegatura we Wrocławiu Delegatura w Krośnie Delegatura w Przemyślu Województwo kujawsko- pomorskie Delegatura w Rzeszowie Delegatura w Bydgoszczy Delegatura w Tarnobrzegu Delegatura w Toruniu Województwo podlaskie Delegatura we Włocławku Delegatura w Białymstoku Województwo lubelskie Delegatura w Łomży Delegatura w Białej Podlaskiej Delegatura w Suwałkach Delegatura w Chełmie Województwo pomorskie Delegatura w Lublinie Delegatura w Gdańsku Delegatura w Zamościu Delegatura w Słupsku"
+    },
+    {
+     "type": "text",
+     "text": "Województwo lubuskie Województwo śląskie Delegatura w Gorzowie Wielkopolskim Delegatura w Bielsku- Białej Delegatura w Zielonej Górze Delegatura w Częstochowie Województwo łódzkie Delegatura w Katowicach Delegatura w Łodzi Województwo świętokrzyskie Delegatura w Piotrkowie Trybunalskim Delegatura w Kielcach Delegatura w Sieradzu Delegatura w Skierniewicach Województwo warmińsko- mazurskie"
+    },
+    {
+     "type": "text",
+     "text": "Województwo małopolskie Delegatura w Elblągu Delegatura w Krakowie Delegatura w Olsztynie Delegatura w Nowym Sączu Województwo wielkopolskie Delegatura w Tarnowie Delegatura w Kaliszu Województwo mazowieckie Delegatura w Koninie Delegatura w Lesznie Delegatura w Ciechanowie Delegatura w Pile Delegatura w Ostrołęce Delegatura w Poznaniu Delegatura w Płocku Delegatura w Radomiu Województwo zachodniopomorskie Delegatura w Siedlcach Delegatura w Koszalinie Delegatura w Warszawie Delegatura w Szczecinie"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

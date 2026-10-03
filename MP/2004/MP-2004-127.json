@@ -1,0 +1,99 @@
+{
+ "eli": "MP/2004/127",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 9 lutego 2004 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 100 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/127/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 lutego 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 100 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U."
+  },
+  {
+   "type": "text",
+   "text": "Nr 140, poz. 938, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji § 3. Monety, o których mowa w § 1 i 2, wprowadza monety nominalnej wartości 2 zł, określone w załącz- się do obiegu z dniem 20 lutego 2004 r. niku nr 1 do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłosze- § 2. Ustala się wzór, próbę, masę i wielkość emisji nia. monety nominalnej wartości 100 zł, określone w załączniku nr 2 do zarządzenia. Prezes Narodowego Banku Polskiego: L. Balcerowicz",
+   "children": [
+    {
+     "type": "text",
+     "text": "Załączniki do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 9 lutego 2004 r. (poz. 127)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wartość strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Na tle stylizowanej mapy Polski wizerunek orła ustalo- Wizerunek herbu ny dla godła Rze- województwa kuczypospolitej Pol- jawsko-pomorskiej. Wokół na- skiego. U góry pół- 2 zł pis: RZECZPOSPO- kolem napis: LITA POLSKA oraz WOJEWÓDZTWO, oznaczenie roku u dołu półkolem emisji: 2004. U do- napis: KUJAW- łu napis: zł 2 zł. SKO-POMORSKIE. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "Masa Średnica Wielkość Brzeg (w gra- (w mili- Stop/próba emisji (bok) mach) metrach) (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "Na boku ośmiokrotnie powtórzony napis: NBP, co drugi 8,15 27,0 CuAl5Zn5Sn1 750 000 odwrócony o 180 stopni rozdzielony gwiazdkami."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, PRÓBA, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 100 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wartość strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, po bo- Popiersie króla kach orła oznacze- Przemysła II. Z lenie roku emisji: wej strony półko- 100 zł 20-04, pod orłem lem napis: PRZE- napis: ZŁ 100 ZŁ, MYSŁ II, z prawej: w otoku napis: 1295—1296. RZECZPOSPOLITA POLSKA. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "Masa Średnica Wielkość Brzeg (w gra- (w mili- Próba emisji (bok) mach) metrach) (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "gładki 8,0 21,0 Au 900/1000 3 400"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800, z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178 oraz z 2003 r. Nr 65, poz. 594, Nr 137, poz. 1303, Nr 209, poz. 2035 i Nr 228, poz. 2260."
+ }
+}

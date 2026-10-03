@@ -1,0 +1,303 @@
+{
+ "eli": "MP/2004/243",
+ "title": "Zarządzenie Nr 29 Prezesa Rady Ministrów z dnia 22 marca 2004 r. w sprawie Międzyresortowego Zespołu do Spraw Zbadania Prawidłowości Ustalania Cen na Leki Pochodzące z Importu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/243/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 29 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Międzyresortowego Zespołu do Spraw Zbadania Prawidłowości Ustalania Cen na Leki Pochodzące z Importu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199 i Nr 80, poz. 717) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Powołuje się Międzyresortowy Zespół do Spraw Zbadania Prawidłowości Ustalania Cen na Leki Pochodzące z Importu, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem opiniodawczo-doradczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Zespół jest organem powołanym w celu ustalenia zgodności aktów prawnych i działań uprawnionych organów administracji rządowej z zobowiązaniami zawartymi w Układzie Europejskim pod kątem prawidłowości ustalania cen na leki pochodzące z importu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Do zadań Zespołu należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "analiza przepisów dotyczących sposobu ustalania cen na leki importowane w latach 1999—2002;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "analiza przepisów Układu Europejskiego, w których są zawarte zobowiązania Rzeczypospolitej Polskiej w zakresie ustalania cen na leki pochodzące z importu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "ocena prawidłowości ustalania cen na leki pochodzące z importu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zespół działa na podstawie uchwalonego przez siebie regulaminu, określającego szczegółowy sposób i tryb działania Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "przewodniczący Zespołu — podsekretarz stanu w Ministerstwie Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "członkowie — przedstawiciele wyznaczeni przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_2/lit_a",
+         "text": "ministra właściwego do spraw finansów publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_1/pkt_2/lit_b",
+         "text": "Ministra Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_1/pkt_2/lit_c",
+         "text": "ministra właściwego do spraw zdrowia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_4/ust_1/pkt_2/lit_d",
+         "text": "ministra właściwego do spraw gospodarki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_4/ust_1/pkt_2/lit_e",
+         "text": "ministra właściwego do spraw zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_4/ust_1/pkt_2/lit_f",
+         "text": "Sekretarza Komitetu Integracji Europejskiej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "sekretarz Zespołu — przedstawiciel ministra właściwego do spraw zdrowia",
+       "children": [
+        {
+         "type": "text",
+         "text": "— powoływani i odwoływani przez Prezesa Rady Ministrów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przewodniczący Zespołu może wyodrębnić ze składu Zespołu podzespoły lub grupy robocze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W pracach Zespołu, podzespołu lub grupy roboczej mogą brać udział, jako eksperci z dziedzin omawianych w ramach prac Zespołu, osoby niebędące członkami Zespołu, zaproszone przez przewodniczącego Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Pracami Zespołu kieruje przewodniczący Zespołu, do którego zadań należy w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "organizacja pracy Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "zwoływanie posiedzeń Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "przewodniczenie obradom Zespołu i czuwanie nad sprawnym ich przebiegiem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "wnioskowanie do organu, który wskazał osobę do udziału w pracach Zespołu, o odwołanie członka Zespołu, w przypadku jego nieusprawiedliwionej nieobecności co najmniej na trzech posiedzeniach Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "przedstawianie do zatwierdzenia ministrowi właściwemu do spraw zdrowia projektu planu finansowego Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W przypadku nieobecności przewodniczącego Zespołu na posiedzeniu lub wystąpienia innej przyczyny uniemożliwiającej przewodniczącemu Zespołu osobiste wykonywanie jego funkcji, obowiązki te wykonuje zastępca przewodniczącego, a zwłaszcza:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "przygotowuje projekt:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_1/lit_a",
+       "text": "porządku obrad posiedzeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_1/lit_b",
+       "text": "terminarza posiedzeń;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "sporządza opinię o zasadności zlecenia wykonania ekspertyzy lub opracowania osobom niebędącym członkami Zespołu, w tym także o przewidywanych kosztach ich wykonania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "prowadzi rejestr zleconych prac i czuwa nad terminowym sporządzeniem ekspertyzy lub opracowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Obsługę organizacyjno-techniczną Zespołu, a w szczególności obsługę kancelaryjno-biurową, zapewnia Departament Polityki Lekowej w Ministerstwie Zdrowia, współpracując w tym zakresie z przewodniczącym Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: L. Miller"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,234 @@
+{
+ "eli": "MP/2007/660",
+ "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 23 sierpnia 2007 r. zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/660/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA ZARZĄDU NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 sierpnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn zm.[^1]) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Zarządu Narodowego Banku Polskiego z dnia 10 kwietnia 1998 r. w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M. P. Nr 12, poz. 203, z późn. zm.[^2]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 12 dodaje się ust. 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Postanowienia Zarządu zapadają większością bezwzględną głosów, a w przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Zarządu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 21:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Gabinet Prezesa sporządza projekt zapisu posiedzenia Zarządu w terminie 2 tygodni od dnia posiedzenia. Gabinet Prezesa przedstawia członkom Zarządu, którzy uczestniczyli w posiedzeniu, projekt zapisu posiedzenia do parafowania, na znak uzgodnienia. W przypadku odmowy uzgodnienia członek Zarządu zgłasza na piśmie oświadczenie wraz z uzasadnieniem, stanowiące załącznik do zapisu posiedzenia.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "po ust. 4 dodaje się ust. 5 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Sporządzanie, przyjmowanie i podpisywanie protokołów oraz sporządzanie i parafowanie zapisów posiedzeń, oznaczonych klauzulami tajności, dokonywane jest z zachowaniem zasad określonych odrębnymi przepisami.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "§ 22 i 23 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 22.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Protokół zawiera w szczególności:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) datę posiedzenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) imiona i nazwiska osób biorących udział w posiedzeniu oraz dyskusji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) porządek obrad,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) informacje o sprawach będących przedmiotem posiedzenia, w tym o powziętych uchwałach i postanowieniach oraz terminach ich wykonania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) uchwały jako załączniki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) postanowienia jako załączniki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) informację o zgłoszeniu do uchwał lub postanowień zdania odrębnego i wskazanie osoby, która je zgłosiła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zapis posiedzenia zawiera opis dyskusji nad poszczególnymi punktami porządku obrad, treść zdania odrębnego oraz jego uzasadnienie jeżeli zostało podane.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 23.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Oryginały protokołów, zapisów posiedzeń oraz nagranych przebiegów posiedzeń przechowuje Gabinet Prezesa, z wyjątkiem oznaczonych klauzulami „poufne”, „tajne” lub „ściśle tajne”, przechowywanych w kancelarii tajnej oraz udostępnianych z zachowaniem zasad określonych w odrębnych przepisach. Po podjęciu przez Radę Ministrów decyzji w sprawie zatwierdzenia rocznego sprawozdania finansowego NBP, nagrania przebiegów posiedzeń za rok, którego dotyczy roczne sprawozdanie finansowe NBP, podlegają zniszczeniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Protokoły jawne lub oznaczone klauzulą „zastrzeżone” otrzymują:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Przewodniczący Zarządu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) członkowie Zarządu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) członkowie Rady Polityki Pieniężnej, w zakresie dotyczącym projektów uchwał i innych materiałów, o których mowa w § 15 ust. 1,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) dyrektorzy departamentów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) dyrektorzy jednostek organizacyjnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Generalny Inspektor Nadzoru Bankowego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z zachowaniem zasad określonych w odrębnych przepisach w odniesieniu do protokołów oznaczonych klauzulą „zastrzeżone”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Protokoły jawne udostępniane są w systemie informatycznym „Zarząd NBP”, w zakresie zdefiniowanym przez Gabinet Prezesa, gestora systemu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Zapisy posiedzeń jawne lub oznaczone klauzulą „zastrzeżone” Gabinet Prezesa przekazuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Przewodniczącemu Zarządu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) członkom Zarządu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) członkom Rady Polityki Pieniężnej, w zakresie dotyczącym projektów uchwał i innych materiałów, o których mowa w § 15 ust. 1,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) innym pracownikom NBP za zgodą Dyrektora Gabinetu Prezesa.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: S. S. Skrzypek"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410.",
+  "2": "Zmiany wymienionej uchwały zostały ogłoszone w M. P. z 2001 r. Nr 7, poz. 116 i Nr 35, poz. 568, z 2005 r. Nr 58, poz. 787 oraz z 2007 r. Nr 14, poz. 143."
+ }
+}

@@ -1,0 +1,592 @@
+{
+ "eli": "MP/2008/781",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 20 listopada 2008 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/781/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 listopada 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2002 r. Nr 54, poz. 741, z 2004 r. Nr 15, poz. 232 i Nr 18, poz. 302, z 2005 r. Nr 65, poz. 894, Nr 71, poz. 975 i Nr 84, poz. 1201, z 2006 r. Nr 21, poz. 232, Nr 36, poz. 392 i Nr 85, poz. 859, z 2007 r. Nr 15, poz. 156, Nr 48, poz. 565 i Nr 86, poz. 925 oraz z 2008 r. Nr 14, poz. 146) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 15 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Ustanawia się następujące komisje stałe:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Budżetu i Finansów Publicznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Gospodarki Narodowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Kultury i Środków Przekazu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Nauki, Edukacji i Sportu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Obrony Narodowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Praw Człowieka, Praworządności i Petycji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Regulaminową, Etyki i Spraw Senatorskich,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Rodziny i Polityki Społecznej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Rolnictwa i Rozwoju Wsi,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Samorządu Terytorialnego i Administracji Państwowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Spraw Emigracji i Łączności z Polakami za Granicą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Spraw Unii Europejskiej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Spraw Zagranicznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) Środowiska,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) Ustawodawczą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) Zdrowia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 23 zdanie pierwsze otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Marszałek Senatu, na wniosek senatora, może udzielić mu z ważnych przyczyn urlopu od wykonywania obowiązków senatora.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "uchyla się art. 41;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 44 ust. 6 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„6. Senatorowie mogą także zgłaszać z miejsca trwające nie dłużej niż 1 minutę zapytania, związane z omawianym punktem porządku obrad, do obecnych na posiedzeniu osób wymienionych w art. 33 ust. 1 i 2, w sprawach kierowanych przez nie urzędów lub instytucji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 45 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) sprawozdania oraz informacje przedstawiane Senatowi przez Trybunał Konstytucyjny, Pierwszego Prezesa Sądu Najwyższego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Krajową Radę Radiofonii i Telewizji oraz Prezesa Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 62 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Wnioskiem mniejszości komisji jest wniosek, który:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) był poddany pod głosowanie i uzyskał co najmniej 2 głosy poparcia, albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) został wykluczony przez przyjęcie innego wniosku, ale uzyskał poparcie co najmniej 2 senatorów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 73:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_7/lit_a",
+       "text": "w ust. 2 wyrazy „Komisji Gospodarki Narodowej” zastępuje się wyrazami „Komisji Budżetu i Finansów Publicznych”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_7/lit_b",
+       "text": "w ust. 3 wyrazy „Komisję Gospodarki Narodowej” zastępuje się wyrazami „Komisję Budżetu i Finansów Publicznych”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 80 w ust. 2 zdanie wstępne otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Komisje po rozpatrzeniu projektu ustawy przygotowują, w terminie nie dłuższym niż 2 miesiące od dnia skierowania projektu przez Marszałka Senatu, wspólne sprawozdanie, w którym przedstawiają wniosek o:”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 82 w ust. 6 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) głosowanie za przyjęciem projektu w całości ze zmianami wynikającymi z przyjętych poprawek.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "w art. 85g ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Porządek głosowania jest następujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) głosowanie nad poprawkami do projektu uchwały, według kolejności przepisów projektu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) głosowanie za przyjęciem projektu uchwały w całości ze zmianami wynikającymi z przyjętych poprawek.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "art. 86 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 86. Senat podejmuje uchwałę w sprawie wyrażenia zgody na zarządzenie referendum w ciągu 14 dni od dnia przekazania projektu postanowienia Prezydenta o zarządzeniu referendum.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "w art. 87 wprowadzenie do wyliczenia otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Marszałek Senatu może zwrócić się do Prezydenta o przedstawienie uzasadnienia do projektu postanowienia o zarządzeniu referendum, zawierającego:”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "art. 88 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 88.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Marszałek Senatu kieruje projekt postanowienia, o którym mowa w art. 86, do właściwych komisji senackich.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Komisje po rozpatrzeniu projektu postanowienia Prezydenta przedstawiają Senatowi opinię w tej sprawie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "w art. 90:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_14/lit_a",
+       "text": "ust. 1 i 2 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Senat może podjąć uchwałę w sprawie wniosku o przeprowadzenie referendum.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Wniosek, o którym mowa w ust. 1, z wyjątkiem wniosku o przeprowadzenie referendum zatwierdzającego zmianę Konstytucji Rzeczypospolitej Polskiej, powinien określać propozycje pytań lub warianty rozwiązań w sprawie poddanej pod referendum.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_14/lit_b",
+       "text": "ust. 4 i 5 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Uchwałę Senatu w sprawie wniosku o przeprowadzenie referendum Marszałek Senatu przekazuje Marszałkowi Sejmu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. O uchwale Senatu w sprawie wniosku o przeprowadzenie referendum Marszałek Senatu zawiadamia Prezydenta oraz Prezesa Rady Ministrów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "po dziale X dodaje się dział Xa w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Dział Xa Rozpatrywanie petycji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 90a. Marszałek Senatu kieruje petycję niezwłocznie po otrzymaniu do Komisji Praw Człowieka, Praworządności i Petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 90b.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przewodniczący Komisji Praw Człowieka, Praworządności i Petycji kieruje petycję do rozpatrzenia na posiedzeniu Komisji albo przekazuje właściwemu organowi władzy publicznej, jeżeli uzna, że jej przedmiot nie mieści się w zakresie kompetencji Senatu. O przekazaniu petycji Przewodniczący informuje Marszałka Senatu i członków Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Na żądanie członka Komisji, petycja, którą Przewodniczący przekazał właściwemu organowi władzy publicznej, jest rozpatrywana na posiedzeniu Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 90c. Komisja Praw Człowieka, Praworządności i Petycji może zwrócić się do innej komisji o wyrażenie opinii o rozpatrywanej petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 90d.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Po rozpatrzeniu petycji Komisja Praw Człowieka, Praworządności i Petycji:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) składa do Marszałka Senatu wniosek o podjęcie inicjatywy ustawodawczej (uchwałodawczej) wraz z projektem ustawy (uchwały), lub",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) upoważnia jednego z członków Komisji do złożenia określonego wniosku o charakterze legislacyjnym w czasie dyskusji nad danym punktem porządku obrad Senatu, lub",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) przedstawia Marszałkowi Senatu opinię w sprawie celowości skorzystania przez Senat lub jego organ z uprawnień określonych w Konstytucji Rzeczypospolitej Polskiej, ustawie lub Regulaminie Senatu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Po rozpatrzeniu petycji Komisja może także nie podjąć działań, o których mowa w ust. 1, o czym informuje Marszałka Senatu wskazując przyczyny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 90e. Przewodniczący Komisji Praw Człowieka, Praworządności i Petycji zawiadamia wnoszącego petycję o jej przekazaniu właściwemu organowi władzy publicznej, działaniach podjętych na podstawie art. 90d ust. 1 lub przyczynach niepodjęcia takich działań.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 90f. Komisja Praw Człowieka, Praworządności i Petycji składa corocznie Senatowi sprawozdanie z rozpatrzonych petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 90g.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Petycje nierozpatrzone przed upływem kadencji Senatu podlegają rozpatrzeniu przez Komisję Praw Człowieka, Praworządności i Petycji Senatu następnej kadencji zgodnie z przepisami art. 90b—90e.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Komisja decyduje także o ponownym złożeniu wniosku o podjęcie inicjatywy ustawodawczej (uchwałodawczej), o którym mowa w art. 90d ust. 1 pkt 1, jeżeli w ubiegłej kadencji Senatu postępowanie w sprawie tej inicjatywy ustawodawczej (uchwałodawczej) nie zostało zakończone.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "załącznik do uchwały otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Załącznik do uchwały Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przedmiotowy zakres działania komisji senackich",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przedmiotem działania komisji są w szczególności sprawy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Komisji Budżetu i Finansów Publicznych — system finansowy państwa (w tym polityka pieniężna, dochody i wydatki budżetu państwa, fundusze celowe, kontrola skarbowa), rachunkowość, prawo dewizowe, funkcjonowanie rynku finansowego (w tym bankowość, ubezpieczenia, fundusze inwestycyjne, papiery wartościowe);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Komisji Gospodarki Narodowej — bieżąca i perspektywiczna polityka gospodarcza państwa, zasady kształtowania stosunków własnościowych i przekształcenia własnościowe, restrukturyzacja gospodarki, sprawy Skarbu Państwa, działalność przedsiębiorstw państwowych, działania antymonopolistyczne, gospodarka przestrzenna i mieszkaniowa, budownictwo, transport, łączność, informatyzacja i gospodarka morska, górnictwo i energetyka, turystyka, stosunki gospodarcze z zagranicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Komisji Kultury i Środków Przekazu — kultura i sztuka, rozwój twórczości, upowszechnianie kultury, ochrona dziedzictwa kulturowego, współpraca kulturalna z zagranicą, organizacja instytucji kulturalnych, polityka informacyjna państwa, etyka mediów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Komisji Nauki, Edukacji i Sportu — organizacja i rozwój badań naukowych, system kształcenia i wychowania, system doskonalenia zawodowego nauczycieli i kadry naukowej, sprawy dzieci i młodzieży, poradnictwo zawodowe dla młodzieży oraz przygotowanie absolwentów szkół średnich i wyższych do zatrudnienia, kultura fizyczna i sport, organizacja instytucji naukowych i oświatowych, współpraca naukowa z zagranicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Komisji Obrony Narodowej — obronność i bezpieczeństwo państwa, przemysł zbrojeniowy, działalność i funkcjonowanie sił zbrojnych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Komisji Praw Człowieka, Praworządności i Petycji — prawa i wolności obywatelskie i ich instytucjonalne gwarancje, sprawy związane z funkcjonowaniem wymiaru sprawiedliwości i bezpieczeństwa publicznego, przestrzeganie prawa, przestrzeganie praw człowieka, instytucje społeczeństwa obywatelskiego i organizacje pozarządowe, rozpatrywanie petycji kierowanych do Senatu i jego organów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Komisji Regulaminowej, Etyki i Spraw Senatorskich — rozpatrywanie wniosków dotyczących immunitetu parlamentarnego, czynności związane z wnioskiem o pociągnięcie do odpowiedzialności konstytucyjnej senatora przed Trybunałem Stanu, warunki wykonywania mandatu senatorskiego, wygaśnięcie mandatu, rozpatrywanie zarzutów niewykonywania przez senatora obowiązków senatorskich oraz zachowania nieodpowiadającego godności senatora oraz innych spraw z zakresu etyki senatorskiej, analizowanie oświadczeń senatorów o stanie majątkowym i przedstawianie wyników analizy Prezydium Senatu, działalność biur senatorskich, wyrażanie opinii w sprawach określonych w Regulaminie Senatu dotyczących w szczególności wykładni i stosowania Regulaminu, dokonywanie analiz skarg i wniosków kierowanych do Senatu i jego organów oraz rozpatrywanie spraw wynikających z funkcjonowania Kancelarii Senatu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Komisji Rodziny i Polityki Społecznej — prawna ochrona rodziny oraz problemy ekonomiczne, mieszkaniowe i wychowawczo-kulturowe rodziny, polityka socjalna państwa, prawo pracy, polityka zatrudnienia i walka z bezrobociem, system ubezpieczeń społecznych, ochrona pracowników, w tym bezpieczeństwo i higiena pracy, problemy osób niepełnosprawnych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Komisji Rolnictwa i Rozwoju Wsi — produkcja rolnicza, przetwórstwo artykułów rolnych, rynek rolny, restrukturyzacja oraz modernizacja rolnictwa i jego otoczenia, wielofunkcyjny rozwój wsi, infrastruktura terenów wiejskich, problemy finansowe rolnictwa oraz przemysłu przetwórczego i przemysłu pracującego na rzecz rolnictwa, handel zagraniczny artykułami rolnymi i żywnościowymi, kształtowanie własności rolniczej, problemy socjalne ludności rolniczej, organizacje i instytucje rolnicze, kreowanie rynku na nowe produkty i usługi rolnictwa;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Komisji Samorządu Terytorialnego i Administracji Państwowej — organizacja i funkcjonowanie struktur samorządu terytorialnego, rozwój regionalny, finanse samorządu terytorialnego, gospodarka mieniem komunalnym, funkcjonowanie organów administracji państwowej, stosunki Państwa z kościołami i związkami wyznaniowymi, zachowanie i rozwój tożsamości kulturowej mniejszości narodowych, etnicznych i językowych oraz ochrona ich praw;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Komisji Spraw Emigracji i Łączności z Polakami za Granicą — więzi z krajem, Polaków i osób polskiego pochodzenia zamieszkałych za granicą i ich sytuacja prawna, inicjowanie i koordynacja współpracy środowisk polonijnych, ochrona dziedzictwa polskiej kultury i historii za granicą oraz opiniowanie dla Prezydium Senatu planu i wykonania zadań zleconych przez Prezydium Senatu w zakresie opieki nad Polonią i Polakami za granicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Komisji Spraw Unii Europejskiej — związane z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, w szczególności zajmowanie stanowisk i wyrażanie opinii na temat projektów aktów prawnych Unii Europejskiej, stanowisk Rady Ministrów zajmowanych w trakcie przebiegu procedur stanowienia prawa Unii Europejskiej, stanowisk, jakie Rada Ministrów ma zamiar zająć podczas rozpatrywania projektów aktów prawnych w Radzie Unii Europejskiej, projektów umów międzynarodowych, których stroną mają być Unia Europejska, Wspólnoty Europejskie lub ich państwa członkowskie, oraz planów pracy Rady Unii Europejskiej, rocznych planów legislacyjnych Komisji Europejskiej, rozpatrywanie informacji i innych dokumentów przedkładanych przez Radę Ministrów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Komisji Spraw Zagranicznych — polityka zagraniczna państwa, kontakty międzyparlamentarne i międzynarodowe stosunki gospodarcze;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) Komisji Środowiska — ochrona i kształtowanie środowiska, ochrona zasobów naturalnych, gospodarka wodna, geologia, leśnictwo i gospodarka leśna, łowiectwo, edukacja ekologiczna, gospodarka finansowa państwa w zakresie ochrony środowiska, atomistyka i ochrona radiologiczna, współpraca z zagranicą w zakresie ekologii;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) Komisji Ustawodawczej — ogólna problematyka legislacyjna i jednolitości prawa, koordynacja prac ustawodawczych Senatu, rozpatrywanie regulacji kodeksowych i inicjatyw ustawodawczych Senatu, analiza orzecznictwa Trybunału Konstytucyjnego i podejmowanie działań ustawodawczych mających na celu wykonanie wyroków Trybunału Konstytucyjnego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) Komisji Zdrowia — promocja zdrowia, profilaktyka, system organizacji ochrony zdrowia, bezpieczeństwo zdrowotne i współpraca z zagranicą w zakresie zdrowia.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Powołane uchwałą Senatu z dnia 9 listopada 2007 r. komisje: Praw Człowieka i Praworządności oraz Rolnictwa i Ochrony Środowiska stają się odpowiednio komisjami: Praw Człowieka, Praworządności i Petycji oraz Rolnictwa i Rozwoju Wsi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Dotychczasowi przewodniczący i zastępcy przewodniczących komisji: Praw Człowieka i Praworządności oraz Rolnictwa i Ochrony Środowiska stają się odpowiednio przewodniczącymi i zastępcami przewodniczących komisji: Praw Człowieka, Praworządności i Petycji oraz Rolnictwa i Rozwoju Wsi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Sprawy wniesione do komisji, nierozpatrzone przed dniem wejścia w życie niniejszej uchwały, podlegają rozpatrzeniu przez komisje właściwe zgodnie z ich zakresem działania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem 1 stycznia 2009 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,157 @@
+{
+ "eli": "MP/2000/541",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 28 sierpnia 2000 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/541/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 sierpnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 18 pkt 2 i 3 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się wzory następujących protokołów stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "wzór protokołu głosowania, sporządzanego przez obwodowe komisje wyborcze, stanowiący załącznik nr 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "wzór protokołu zbiorczych wyników głosowania, sporządzanego przez okręgowe komisje wyborcze, stanowiący załącznik nr 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "wzór protokołu o wynikach głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej, sporządzanego przez Państwową Komisję Wyborczą, stanowiący załącznik nr 3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Wzory, o których mowa w ust. 1, stosuje się w pierwszym głosowaniu i w ponownym głosowaniu, umieszczając odpowiednio w prawym górnym rogu protokołu wyraz „pierwsze” lub „ponowne”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 11 września 1995 r. w sprawie wzorów protokołów głosowania i protokołu z wyborów, stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej (Monitor Polski Nr 46, poz. 530).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 28 sierpnia 2000 r. (poz. 541) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8.”) Uwagi o przypuszczalnej przyczynie ewentualnych różnic pomiędzy liczbą z pkt 5 a liczbą z pkt 2:"
+    },
+    {
+     "type": "ocr",
+     "text": "10.” Zarzuty mężów zaufania:™)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) PE wa ate"
+    },
+    {
+     "type": "ocr",
+     "text": "2) PORE NENA sessennsesees setenesteass NE K) RE RE NE EE NE A) ceesssccseessssesevecressssssssssesssennecs RNA NONE seseesanse YN seiassasoucensonuesseenecrsusstsesenssrensevencenseveneens NEA sesesstsseenes NE ee RE NA NRA NEA"
+    },
+    {
+     "type": "ocr",
+     "text": "7) sececsscsesesersesersesssecsseseeaeeseess RENE NE YE sesessesenes sasoussesessesessesensesuenssesatenssesevensnneneees sanssees sessesuseeacssvsssansnrseeaess -) WRONA RE ONE aan maa pea wanna zaa aaa wena"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "x) Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, nałeży dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. xX) W razie zgłoszenia zarzutów mężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji do tych zarzutów lub zastrzeżeń należy dołączyć do protokołu,"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

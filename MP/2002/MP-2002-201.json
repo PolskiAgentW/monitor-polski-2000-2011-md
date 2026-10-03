@@ -1,0 +1,76 @@
+{
+ "eli": "MP/2002/201",
+ "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 12 marca 2002 r. w sprawie podwyższenia kwot jednorazowych odszkodowań z tytułu wypadków przy pracy i chorób zawodowych.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/201/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 marca 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podwyższenia kwot jednorazowych odszkodowań z tytułu wypadków przy pracy i chorób zawodowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie § 5 ust. 2 rozporządzenia Rady Ministrów z dnia 8 sierpnia 1988 r. w sprawie podwyższania niektórych świadczeń z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 29, poz. 199 i z 1989 r. Nr 61, poz. 366), zwanego dalej „rozporządzeniem”, ogłasza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Kwoty jednorazowych odszkodowań, o których mowa w § 2—4 rozporządzenia, wynoszą począwszy od dnia ogłoszenia niniejszego obwieszczenia:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "437,50 zł za każdy procent uszczerbku na zdrowiu, nie mniej jednak niż 1.635,70 zł z tytułu doznania stałego lub długotrwałego uszczerbku na zdrowiu wskutek wypadku przy pracy lub choroby zawodowej (§ 2 ust. 1),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "8.095,60 zł z tytułu orzeczenia całkowitej niezdolności do pracy i niezdolności do samodzielnej egzystencji spowodowanej wypadkiem przy pracy lub chorobą zawodową (§ 2 ust. 2),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "437,50 zł za każdy procent uszczerbku na zdrowiu z tytułu zwiększenia uszczerbku na zdrowiu (§ 3),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "40.454,30 zł, gdy do odszkodowania uprawniony jest małżonek lub dziecko zmarłego, oraz 8.095,60 zł z tytułu zwiększenia odszkodowania przysługującego na drugiego i każdego następnego uprawnionego (§ 4 ust. 1 pkt 1),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "20.260,80 zł, gdy do odszkodowania uprawnieni są tylko inni członkowie rodziny niż małżonek i dzieci zmarłego, oraz 8.095,60 zł z tytułu zwiększenia odszkodowania na drugiego i każdego następnego uprawnionego (§ 4 ust. 1 pkt 2),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "8.095,60 zł, gdy do odszkodowania równocześnie z małżonkiem lub dziećmi zmarłego uprawnieni są inni członkowie rodziny; każdemu z nich przysługuje ta kwota niezależnie od odszkodowania przysługującego małżonkowi lub dzieciom (§ 4 ust. 1 pkt 3).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Pracy i Polityki Społecznej: J. Hausner"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

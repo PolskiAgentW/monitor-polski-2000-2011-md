@@ -1,0 +1,103 @@
+{
+ "eli": "MP/2002/880",
+ "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 27 listopada 2002 r. w sprawie ogłoszenia listy państw, których obywatele muszą posiadać wizę wydaną w celu wjazdu do sfery tranzytowej lotniska międzynarodowego, pobytu w tej strefie i wyjazdu z niej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/880/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SPRAW ZAGRANICZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 listopada 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia listy państw, których obywatele muszą posiadać wizę wydaną w celu wjazdu do strefy tranzytowej lotniska międzynarodowego, pobytu w tej strefie i wyjazdu z niej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 79 ust. 9 ustawy z dnia 25 czerwca 1997 r. o cudzoziemcach (Dz. U. z 2001 r. Nr 127, poz. 1400 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 81, poz. 731, Nr 89, poz. 804, Nr 141, poz. 1180 i Nr 153, poz. 1271) ogłasza się listę państw, których obywatele muszą posiadać wizę wydaną w celu wjazdu do strefy tranzytowej lotniska międzynarodowego, pobytu w tej strefie i wyjazdu z niej, stanowiącą załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Zagranicznych: W. Cimoszewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Spraw Zagranicznych z dnia 27 listopada 2002 r. (poz. 880)",
+   "body": [
+    {
+     "type": "text",
+     "text": "LISTA PAŃSTW, KTÓRYCH OBYWATELE MUSZĄ POSIADAĆ WIZĘ WYDANĄ W CELU WJAZDU DO STREFY TRANZYTOWEJ LOTNISKA MIĘDZYNARODOWEGO, POBYTU W TEJ STREFIE I WYJAZDU Z NIEJ"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Islamskie Państwo Afganistanu; 10) Islamska Republika Iranu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Republika Armenii; 11) Demokratyczna Republika Konga;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Republika Azerbejdżańska; 12) Federalna Republika Nigerii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Ludowa Republika Bangladeszu; 13) Islamska Republika Pakistanu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Państwo Erytrei; 14) Somalijska Republika Demokratyczna;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Federalna Demokratyczna Republika Etiopii; 15) Demokratyczno-Socjalistyczna Republika Sri Lanki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Republika Ghany; 16) Republika Sudanu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Republika Indii; 17) Republika Turcji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "Republika Iraku; 18) Socjalistyczna Republika Wietnamu.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

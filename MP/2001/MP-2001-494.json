@@ -1,0 +1,485 @@
+{
+ "eli": "MP/2001/494",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 22 sierpnia 2001 r. w sprawie wzorów protokołów głosowania i protokołów z wyborów oraz urzędowych zestawień stosowanych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/494/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 sierpnia 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów protokołów głosowania i protokołów z wyborów oraz urzędowych zestawień stosowanych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 73 ust. 8, art. 74 ust. 3, art. 164 ust. 8, art. 168 ust. 5 i art. 190 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W wyborach do Sejmu Rzeczypospolitej Polskiej komisje wyborcze sporządzają następujące protokoły:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "obwodowe komisje wyborcze sporządzają:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "protokół głosowania w obwodzie na okręgowe listy kandydatów na posłów — na formularzu według wzoru stanowiącego załącznik nr 1 do uchwały,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "zestawienie wyników głosowania w obwodzie na okręgowe listy kandydatów na posłów — na formularzu według wzoru stanowiącego załącznik nr 2 do uchwały,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "okręgowe komisje wyborcze sporządzają:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "protokół wyników głosowania w okręgu wyborczym — na formularzu według wzoru stanowiącego załącznik nr 3 do uchwały,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "protokół z wyborów posłów do Sejmu w okręgu wyborczym — na formularzu według wzoru stanowiącego załącznik nr 4 do uchwały.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W wyborach do Senatu Rzeczypospolitej Polskiej komisje wyborcze sporządzają następujące protokoły:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "obwodowe komisje wyborcze sporządzają:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "protokół głosowania w obwodzie na kandydatów na senatorów — na formularzu według wzoru stanowiącego załącznik nr 5 do uchwały,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "zestawienie wyników głosowania w obwodzie na kandydatów na senatorów — na formularzu według wzoru stanowiącego załącznik nr 6 do uchwały,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "okręgowe komisje wyborcze sporządzają protokół wyników głosowania i wyników wyborów senatorów w okręgu wyborczym — na formularzu według wzoru stanowiącego załącznik nr 7 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Tracą moc:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "uchwała Państwowej Komisji Wyborczej z dnia 27 sierpnia 1993 r. w sprawie określenia wzorów protokołów głosowania i protokołów z wyborów oraz urzędowych zestawień, stosowanych w wyborach do Sejmu Rzeczypospolitej Polskiej (Monitor Polski Nr 45, poz. 439) i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "uchwała Państwowej Komisji Wyborczej z dnia 27 sierpnia 1993 r. w sprawie określenia wzorów protokołów głosowania i protokołów z wyborów, stosowanych w wyborach do Senatu Rzeczypospolitej Polskiej (Monitor Polski Nr 45, poz. 440 i z 1997 r. Nr 46, poz. 455).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 22 sierpnia 2001 r. (poz. 494) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. NA POSZCZEGÓLNE LISTY OKRĘGOWE I UMIESZCZONYCH NA NICH KANDYDATÓW ODDANO NASTĘPUJĄCE LICZBY GŁOSÓW WAŻNYCH Lista nr ... — (nazwa komitetu wyborczego) Liczba głosów ważnych oddanych na listę: I [| i fd]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy okręgowej (wpisana w rubryce „Razem”) równa się liczbie głosów ważnych oddanych na listę. Wyjątek od tej zasady dotyczy listy, na którą oddano głos stawiając znak „x” wyłącznie obok nazwiska kandydata z jednej tylko listy, a nazwisko tego kandydata zostało z tej listy skreślone — art. 160 ust. 4 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786)."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu protokołu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ... — (nazwa komitetu wyborczego) | Liczba głosów ważnych oddanych na liste: LITT] Na poszczególnych kandydatów z tej listy oddano następuiącą liczbe ."
+    },
+    {
+     "type": "ocr",
+     "text": ". . ."
+    },
+    {
+     "type": "ocr",
+     "text": "NN | >| —]| —]| —| m] —| | —| m | m"
+    },
+    {
+     "type": "ocr",
+     "text": "©|9 9 A] o|o|a|*|v|=| so x aj2|>|v| > ram] | Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy okręgowej (wpisana w rubryce „Razem”) równa się liczbie głosów ważnych oddanych na listę. Wyjątek od tej zasady dotyczy listy, na którą oddano głos stawiając znak „x” wyłącznie obok nazwiska kandydata z jednej tylko listy, a nazwisko tego kandydata zostało z tej listy skreślone — art. 160 ust. 4 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786)."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu protokołu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. NA POSZCZEGOLNE LISTY OKREGOWE I UMIESZCZONYCH NA NICH KANDYDATOW ODDANO NASTEPUJACE LICZBY GLOSOW WAZNYCH Lista nr ... — (nazwa komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | tt]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy okręgowej (wpisana w rubryce „Razem”) równa się liczbie głosów ważnych oddanych na listę. Wyjątek od tej zasady dotyczy listy, na którą oddano głos stawiając znak ,,x” wyłącznie obok nazwiska kandydata z jednej tylko listy, a nazwisko tego kandydata zostało z tej listy skreślone — art. 160 ust. 4 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786)."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu zestawienia"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ... — (nazwa komitetu wyborczego) | Liczba głosów ważnych oddanych na listę: LLTLTL] g 6 j li ppujaca liczbę"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy okręgowej (wpisana w rubryce „Razem”) równa się liczbie głosów ważnych oddanych na listę. Wyjątek od tej zasady dotyczy listy, na którą oddano głos stawiając znak „x” wyłącznie obok nazwiska kandydata z jednej tylko listy, a nazwisko tego kandydata zostało z tej listy skreślone — art. 160 ust. 4 ustawy z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786)."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu zestawienia"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strony 11-12 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "D. Na listach okręgowych, którym 1 przypadają mandaty, kandydaci otrzymali następującą liczbę głosów ważnych: ?"
+    },
+    {
+     "type": "ocr",
+     "text": "ICE SOA (nazwa komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "PNE (nazwisko i imię-imiona) (liczba) OE"
+    },
+    {
+     "type": "ocr",
+     "text": "3) ceecccseeeecsssusescsssscessssusecesssesecsssesessessusessesssessssssssetsessavecsssuecssss sussessuucessssisesensaseeeen"
+    },
+    {
+     "type": "ocr",
+     "text": "W związku z tym, że ...... cee kandydatów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu, Komisja stwierdza pierwszeństwo do manatu EE (nazwisko i imię — imiona) al 2: vd"
+    },
+    {
+     "type": "ocr",
+     "text": "w w” obwodach uzyskał większą liczbę od współkandydata(ów); fa . r . ***) - którego pierwszeństwo do mandatu ustalono w drodze losowania ’;"
+    },
+    {
+     "type": "ocr",
+     "text": "|| OCE (JC (nazwa komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "Doa izzza (nazwisko .i imię-imiona) (liczba) ONE"
+    },
+    {
+     "type": "ocr",
+     "text": "3) aa sussessassueesesssassssesesees"
+    },
+    {
+     "type": "ocr",
+     "text": "W związku z tym, że .................. kandydatów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu, Komisja stwierdza pierwszeństwo do man- ALU EEEE (nazwisko i imię — imiona) - który w wy” obwodach uzyskał większą liczbę od współkandydata(ów); Ą > 7 . #4) - _ którego pierwszeństwo do mandatu ustalono w drodze losowania ’;"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 17 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Ill. POSZCZEGÓLNI KANDYDACI OTRZYMALI NASTĘPUJĄCĄ LICZBĘ WAŻNYCH GŁOSÓW:"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów (wpisana w rubryce „Razem”) nie może być większa od liczby kart ważnych z głosami ważnymi pomnożonej przez liczbę wybieranych senatorów w okręgu wyborczym. Suma ta nie może być mniejsza od liczby kart ważnych z głosami ważnymi. Liczba głosów uzyskanych przez któregokolwiek z kandydatów nie może być większa niż liczba kart ważnych z głosami ważnymi z pkt 9."
+    },
+    {
+     "type": "ocr",
+     "text": "10.” Uwagi o przypuszczalnej przyczynie ewentualnych różnic pomiędzy liczbą z pkt 5 a liczbą z pkt 2:"
+    },
+    {
+     "type": "ocr",
+     "text": "rrr rrr rrr rr rrr rr rr rr rer rr rrr Terr rer rrr rrrr rent rir titi rir tise Nika"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu protokołu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 20 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Il. POSZCZEGÓLNI KANDYDACI OTRZYMALI NASTĘPUJĄCĄ LICZBĘ WAŻNYCH GŁOSÓW:"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów (wpisana w rubryce „Razem”) nie może być większa od liczby kart ważnych z głosami ważnymi pomnożonej przez liczbę wybieranych senatorów w okręgu wyborczym. Suma ta nie może być mniejsza od liczby kart ważnych z głosami ważnymi. Liczba głosów uzyskanych przez któregokolwiek z kandydatów nie może być większa niż liczba kart ważnych z głosami ważnymi z pkt 9."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu zestawienia"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 23 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Wyniki wyborów senatorów ustalono w dniu ................. 200... r. na podstawie wyników głosowania w okręgu wyborczym."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Komisja stwierdza, że:*"
+    },
+    {
+     "type": "ocr",
+     "text": "(A) następujący kandydaci otrzymali w okręgu wyborczym kolejno najwięcej ważnie oddanych głosów, wobec czego zostali wybrani na senatorów:"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona) (liczba) Z OYZU WA 0) 010) ZENERA DEEZINE eer er eee reer rece re ererreererereeverererrererrrrrrrrrrrrrrrr rere esr"
+    },
+    {
+     "type": "ocr",
+     "text": "2) zana Pee eereesecceveveccevcesscessesveesuuerees ZETTRZY sec e eee eee eee ere rece erere ese cer rererrrerrrererecerrerrerrerererrerrrrrrrr rey"
+    },
+    {
+     "type": "ocr",
+     "text": "(B) w związku z tym, iż .......... dg” kandydatów otrzymało w okręgu wyborczym równą liczbę ważnie oddanych głosów, uprawniającą do uzyskania mandatu,i kandydatów tych jest więcej niż mandatów do uzyskania, senatorem(ami) został(li):"
+    },
+    {
+     "type": "ocr",
+     "text": "(liczba) współkandydata(tów), zz OO RRO OEE AUSTEREO DETER EPO H EEE 0 OO ORO RO ROR TEER ROD OOO ERC ORO R ORO EE HEE ESO O HOSE HEHEHE HOH OTTO OES 000N000N8"
+    },
+    {
+     "type": "ocr",
+     "text": "(liczba) współkandydata(tów)."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "(C) w związku z tym, iż ...... ay kandydatów otrzymało w okręgu wyborczym iczba) równą liczbę ważnie oddanych głosów, uprawniającą do uzyskania mandatu, i kandydatów tych jest więcej niż mandatów do uzyskania, a ponadto liczba obwodów głosowania, w której kandydaci ci uzyskali więcej głosów, jest równa i wynosi .................... (liczba) - przeprowadzone zostało losowanie, w wyniku którego senatorem został: p... z. ROEE R BREE eee eee E OBO eee ee eee eer ee eee cere er errr e reer er ED OOO rereseSeerrerrerrcererrrerreeryy)"
+    },
+    {
+     "type": "ocr",
+     "text": "Oe eee eee eee eee eee eee ee cee eee eee eee eee eee ere eee eee eee ee Cee eee eC ee eee eure ere er ereererrererrrrrerrererrrerrerrey)"
+    },
+    {
+     "type": "ocr",
+     "text": "III"
+    },
+    {
+     "type": "ocr",
+     "text": "Komisja stwierdza, iż nie otrzymała w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych za granicą/na polskich statkach morskich:**"
+    },
+    {
+     "type": "ocr",
+     "text": "Obwód nr ....... z siedzibą ............--::242442111122. Obwód nr ....... z siedzibą .......cssessecceessseeeeees"
+    },
+    {
+     "type": "ocr",
+     "text": "tj. łącznie Z ...............2.212211121. obwodów głosowania. Przyczyną nieuzyskania wyników (liczba) OSOZ WEN OE"
+    },
+    {
+     "type": "ocr",
+     "text": "ree eee OR DRR ee eee eee eee eee ee ORO ROR OZ ce eee eee cere eee eee cere OOOO ORO OOOO rere ser ereererrrrrrererr yy) Zgodnie z art. 205 ust. 2 Ordynacji wyborczej do Sejmu RP i do Senatu RP gtosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, o której mowa w cz. I pkt 2 niniejszego protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "IV"
+    },
+    {
+     "type": "ocr",
+     "text": "Adnotacja o wniesieniu uwag z wymienieniem konkretnych zarzutów przez osoby upoważnione do zgłoszenia kandydatów na senatorów:"
+    },
+    {
+     "type": "ocr",
+     "text": "COOH O COHAN O RRR RRR R REECE CORED ERS DDD OE TED DEPOT REO R EE HSE E TESTED ECE S ESET SSSR ESTE DDD ES DEH DROEE EASES HOE REREDEEHEH OOD EER EME ED DEED OE EEE"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

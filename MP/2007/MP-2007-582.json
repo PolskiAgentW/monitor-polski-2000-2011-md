@@ -1,0 +1,162 @@
+{
+ "eli": "MP/2007/582",
+ "title": "Obwieszczenie Ministra Gospodarki Morskiej z dnia 1 sierpnia 2007 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Gospodarki Morskiej lub przez niego nadzorowanych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/582/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI MORSKIEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 sierpnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Gospodarki Morskiej lub przez niego nadzorowanych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1d ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^2]) ustala się wykaz jednostek organizacyjnych podległych Ministrowi Gospodarki ——————— Morskiej lub przez niego nadzorowanych, stanowiący załącznik do obwieszczenia[^3]."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Morskiej: R. Wiechecki"
+  },
+  {
+   "type": "text",
+   "text": "¹⁾ Minister Gospodarki Morskiej kieruje działami administracji rządowej:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "gospodarka morska,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "rybołówstwo — na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 1 marca 2007 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej (Dz. U. Nr 38, poz. 242). ²⁾ Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600. ³⁾ Niniejsze obwieszczenie było poprzedzone obwieszczeniem Ministra Gospodarki Morskiej z dnia 15 września 2006 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Gospodarki Morskiej lub przez niego nadzorowanych (M. P. Nr 67, poz. 691).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Załącznik do obwieszczenia Ministra Gospodarki Morskiej z dnia 1 sierpnia 2007 r. (poz. 582)"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ JEDNOSTEK ORGANIZACYJNYCH PODLEGŁYCH MINISTROWI GOSPODARKI MORSKIEJ LUB PRZEZ NIEGO NADZOROWANYCH"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Akademia Morska w Gdyni;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Akademia Morska w Szczecinie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Instytut Morski w Gdańsku;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "Izba Morska w Gdańsku z siedzibą w Gdyni;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "Izba Morska w Szczecinie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "Morska Służba Poszukiwania i Ratownictwa w Gdyni;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "Odwoławcza Izba Morska w Gdańsku z siedzibą w Gdyni;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "Urząd Morski w Gdyni;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "Urząd Morski w Słupsku;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "Urząd Morski w Szczecinie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "Instytut Rybactwa Śródlądowego im. Stanisława Sakowicza w Olsztynie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "12",
+   "path": "pkt_12",
+   "text": "Morski Instytut Rybacki w Gdyni;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "Okręgowy Inspektorat Rybołówstwa Morskiego w Gdyni;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "14",
+   "path": "pkt_14",
+   "text": "Okręgowy Inspektorat Rybołówstwa Morskiego w Słupsku;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "15",
+   "path": "pkt_15",
+   "text": "Okręgowy Inspektorat Rybołówstwa Morskiego w Szczecinie.",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

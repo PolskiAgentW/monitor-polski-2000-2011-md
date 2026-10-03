@@ -1,0 +1,448 @@
+{
+ "eli": "MP/2004/588",
+ "title": "Zarządzenie Nr 72 Prezesa Rady Ministrów z dnia 29 lipca 2004 r. w sprawie powołania Rady Społecznej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/588/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 72 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 lipca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Rady Społecznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U."
+  },
+  {
+   "type": "text",
+   "text": "z 2003 r. Nr 24, poz. 199 i Nr 80, poz. 717) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Powołuje się Radę Społeczną jako pomocniczy organ opiniodawczo-doradczy przy Prezesie Rady Ministrów w zakresie polityki społecznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Kadencja Rady Społecznej trwa cztery lata.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład Rady Społecznej wchodzą przedstawiciele:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "środowisk naukowych z zakresu polityki społecznej, prawa, ekonomii i socjologii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "organizacji związków zawodowych i organizacji pracodawców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "organizacji reprezentujących grupy dyskryminowane z powodu rasy, pochodzenia etnicznego, religii i przekonań, wieku oraz orientacji seksualnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "organizacji osób wykluczonych społecznie: bezdomnych, długotrwale bezrobotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "środowisk narażonych w sposób szczególny na patologie społeczne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Liczba członków Rady Społecznej wynosi do 20 osób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Członków Rady Społecznej powołuje Prezes Rady Ministrów na wniosek Wiceprezesa Rady Ministrów Ministra-członka Rady Ministrów Izabeli Jarugi-Nowackiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Organami Rady Społecznej są przewodniczący i Prezydium.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W skład Prezydium Rady Społecznej wchodzą przewodniczący, dwóch wiceprzewodniczących i sekretarz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przewodniczącego i sekretarza Rady Społecznej powołuje Prezes Rady Ministrów na wniosek Wiceprezesa Rady Ministrów Ministra-członka Rady Ministrów Izabeli Jarugi-Nowackiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Wiceprzewodniczących Rady Społecznej powołuje Prezes Rady Ministrów na wniosek przewodniczącego Rady Społecznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Prezes Rady Ministrów może odwołać przed upływem kadencji Rady Społecznej jej przewodniczącego, wiceprzewodniczącego, sekretarza lub członka z powodu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "złożenia rezygnacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "nieuczestniczenia w pracach Rady Społecznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Odwołanie z powodu, o którym mowa w ust. 1 pkt 2, następuje na wniosek Wiceprezesa Rady Ministrów Ministra-członka Rady Ministrów Izabeli Jarugi-Nowackiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W razie odwołania przewodniczącego, wiceprzewodniczącego, sekretarza lub członka Rady Społecznej dokonuje się w to miejsce powołania uzupełniającego; przepisy § 2 ust. 3 i § 3 ust. 3 i 4 stosuje się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W razie powołania uzupełniającego kadencja tak powołanego członka upływa wraz z kadencją całej Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Prezydium Rady Społecznej organizuje działalność Rady Społecznej, a w szczególności podejmuje uchwały w sprawach należących do zadań Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przewodniczący Rady Społecznej kieruje bieżącymi pracami Rady, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "planuje i organizuje prace Rady Społecznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "nadzoruje prace sekretarza Rady Społecznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "wyznacza terminy posiedzeń plenarnych Rady Społecznej i przewodniczy na jej posiedzeniach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_2/pkt_4",
+       "text": "zapewnia sprawne rozpatrywanie spraw oraz terminowe przedstawianie Radzie Ministrów opinii lub wniosków w sprawach rozpatrywanych przez Radę Społeczną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Przewodniczący Rady Społecznej może organizować konferencje naukowe i zebrania środowiskowe w celu poddania pod dyskusję zagadnień i problemów związanych ze sprawami rozpatrywanymi przez Radę Społeczną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Do zadań Rady Społecznej należy przygotowywanie propozycji i wyrażanie, na podstawie przedstawionych materiałów rządowych, opinii dotyczących:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "polityki społecznej, w tym strategii rozwoju społecznego kraju oraz koordynacji działań środowisk społecznych, gospodarczych, pracowniczych i organizacji reprezentujących osoby wykluczone społecznie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "metod, analizowania i prowadzenia rozwiązań problemów związanych z wdrażaniem celów polityki społecznej Rządu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "zagrożeń realizacji celów strategii społecznej Rządu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "współpracy i wymiany informacji między środowiskami reprezentowanymi w Radzie Społecznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "zwalczania dyskryminacji z powodu rasy, pochodzenia etnicznego, religii i przekonań, wieku oraz orientacji seksualnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_7/pkt_6",
+     "text": "współpracy organizacji pozarządowych z organami administracji publicznej w zakresie realizacji polityki społecznej kraju.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Rada Społeczna wykonuje swoje zadania na posiedzeniach plenarnych lub na posiedzeniach zespołów problemowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Posiedzenia plenarne Rady Społecznej odbywają się nie rzadziej niż raz na kwartał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Na posiedzenia Rady Społecznej mogą być zapraszani właściwi ze względu na przedmiot rozpatrywanej sprawy ministrowie, kierownicy urzędów centralnych, Prezes Narodowego Banku Polskiego, a także przedstawiciele władz samorządowych oraz reprezentacji organizacji pozarządowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Z posiedzeń Rady Społecznej i zespołów problemowych sporządza się protokoły podpisywane przez prowadzącego posiedzenie i sekretarza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_8/ust_5",
+     "text": "Obsługę organizacyjno-biurową Rady Społecznej zapewnia Kancelaria Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Zespoły problemowe powołuje przewodniczący Rady Społecznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Zespoły problemowe powołuje się na stałe lub na czas oznaczony albo do wykonania określonego zadania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Przewodniczący Rady Społecznej ustala skład zespołu problemowego spośród członków Rady Społecznej oraz powołuje przewodniczącego zespołu problemowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Organy administracji rządowej oraz podległe im państwowe jednostki organizacyjne, na wniosek przewodniczącego lub upoważnionego przez niego członka Rady Społecznej, udzielają Radzie wszechstronnej pomocy przy wykonywaniu jej zadań, a w szczególności przedstawiają niezbędne informacje lub dokumenty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Szczegółowe zasady i tryb pracy Rady Społecznej określa regulamin pracy Rady Społecznej, uchwalony przez Radę Społeczną na wniosek przewodniczącego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Członkowie Rady Społecznej oraz osoby biorące udział w posiedzeniach tej Rady, w przypadku gdy posiedzenia Rady Społecznej odbywają się poza miejscem ich zamieszkania lub świadczenia pracy, otrzymują diety oraz zwrot kosztów podróży i noclegów na zasadach określonych w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77⁵ § 2 ustawy z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.[^1]).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Członkom Prezydium Rady Społecznej przysługuje wynagrodzenie za udział w posiedzeniach przyznawane na zasadach stosowanych w Kancelarii Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Wydatki związane z działalnością Rady Społecznej, w tym wynagrodzenia dla Prezydium Rady oraz innych osób biorących udział w jej pracach, są pokrywane z części budżetu państwa, której dysponentem jest Kancelaria Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 120, poz. 1252."
+ }
+}

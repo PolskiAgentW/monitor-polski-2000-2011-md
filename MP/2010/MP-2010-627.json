@@ -1,0 +1,358 @@
+{
+ "eli": "MP/2010/627",
+ "title": "Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 8 czerwca 2010 r. w sprawie wykazu uczelni oraz instytutów uprawnionych do wybierania przedstawicieli do zgromadzenia elektorów do Rady Instytutu Pamięci Narodowej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/627/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 czerwca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu uczelni oraz instytutów uprawnionych do wybierania przedstawicieli do zgromadzenia elektorów do Rady Instytutu Pamięci Narodowej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15 ust. 21 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2007 r. Nr 63, poz. 424, z późn. zm.[^2]) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w ykaz uczelni, których jednostki organizacyjne posiadają uprawnienia do nadawania stopnia naukowego doktora habilitowanego nauk humanistycznych w zakresie historii, uprawnionych do wybierania przedstawicieli do zgromadzenia elektorów do Rady Instytutu Pamięci Narodowej, stanowiący załącznik nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w ykaz instytutów Polskiej Akademii Nauk uprawnionych do wybierania przedstawicieli do zgromadzenia elektorów do Rady Instytutu Pamięci Narodowej, stanowiący załącznik nr 2 do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Nauki i Szkolnictwa Wyższego: B. Kudrycka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Nauki i Szkolnictwa Wyższego z dnia 8 czerwca 2010 r. (poz. 627) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ UCZELNI, KTÓRYCH JEDNOSTKI ORGANIZACYJNE POSIADAJĄ UPRAWNIENIA DO NADAWANIA STOPNIA NAUKOWEGO DOKTORA HABILITOWANEGO NAUK HUMANISTYCZNYCH W ZAKRESIE HISTORII, UPRAWNIONYCH DO WYBIERANIA PRZEDSTAWICIELI DO ZGROMADZENIA ELEKTORÓW DO RADY INSTYTUTU PAMIĘCI NARODOWEJ"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Katolicki Uniwersytet Lubelski:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "Wydział Nauk Humanistycznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "Wydział Teologii;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Uniwersytet im. Adama Mickiewicza w Poznaniu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "Instytut Historii,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "Wydział Historyczny;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Humanistyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Uniwersytet Mikołaja Kopernika w Toruniu",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Nauk Historycznych;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Uniwersytet Gdański",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Nauk Humanistycznych;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Uniwersytet Jagielloński w Krakowie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Historyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Nauk Historycznych i Społecznych;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Uniwersytet Łódzki",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Filozoficzno-Historyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "Uniwersytet Opolski",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Historyczno-Pedagogiczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "Uniwersytet Rzeszowski",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Socjologiczno-Historyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "U niwersytet Szczeciński",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Humanistyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "U niwersytet Śląski w Katowicach",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Nauk Społecznych;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "U niwersytet Warszawski",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Historyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "U niwersytet Wrocławski",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Instytut Historyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "U niwersytet Kazimierza Wielkiego w Bydgoszczy",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Humanistyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "pkt_16",
+     "text": "U niwersytet Warmińsko-Mazurski w Olsztynie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Humanistyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "pkt_17",
+     "text": "U niwersytet Zielonogórski",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Humanistyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "pkt_18",
+     "text": "A kademia im. Jana Długosza w Częstochowie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Filologiczno-Historyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "pkt_19",
+     "text": "U niwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Humanistyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "pkt_20",
+     "text": "U niwersytet Humanistyczno-Przyrodniczy Jana Kochanowskiego w Kielcach",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Humanistyczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "pkt_21",
+     "text": "U niwersytet Papieski Jana Pawła II w Krakowie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Wydział Historii i Dziedzictwa Kulturowego."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 2"
+      },
+      {
+       "type": "text",
+       "text": "WYKAZ INSTYTUTÓW POLSKIEJ AKADEMII NAUK UPRAWNIONYCH DO WYBIERANIA PRZEDSTAWICIELI DO ZGROMADZENIA ELEKTORÓW DO RADY INSTYTUTU PAMIĘCI NARODOWEJ"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Instytut Historii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Instytut Historii Nauki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Instytut Studiów Politycznych.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej — szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. Nr 216, poz. 1596).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 432, Nr 83, poz. 561, Nr 85, poz. 571 i Nr 140, poz. 983, z 2009 r. Nr 178, poz. 1375 oraz z 2010 r. Nr 79, poz. 522 i Nr 94, poz. 602."
+ }
+}

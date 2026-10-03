@@ -1,0 +1,55 @@
+{
+ "eli": "MP/2002/483",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 26 czerwca 2002 r. zmieniająca uchwałę w sprawie ustalenia założeń polityki pieniężnej na rok 2002.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/483/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 czerwca 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustalenia założeń polityki pieniężnej na rok 2002."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252 oraz z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Rady Polityki Pieniężnej z dnia 26 września 2001 r. w sprawie ustalenia założeń polityki pieniężnej na rok 2002 (Monitor Polski Nr 34, poz. 562) w punkcie I „Cel inflacyjny w 2002 r.” drugi akapit otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Realizując strategiczny cel polityki pieniężnej, Rada Polityki Pieniężnej (RPP) będzie zmierzać do osiągnięcia na koniec 2002 r. celu inflacyjnego w wysokości 3% wzrostu cen towarów i usług konsumpcyjnych w porównaniu z końcem 2001 r. Granice tolerancji dla odchylenia inflacji od wyznaczonego przez Radę celu wynoszą +/–1 pkt proc.”",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia z mocą od dnia 27 czerwca 2002 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: L. Balcerowicz"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie Rady Polityki Pieniężnej: M. Dąbrowski, B. Grabowski, C. Józefiak, J. Krzyżewski, W. Łączkowski, J. Pruski, D. Rosati, G. Wójtowicz, W. Ziółkowska"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

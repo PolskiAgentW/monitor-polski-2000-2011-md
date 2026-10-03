@@ -1,0 +1,101 @@
+{
+ "eli": "MP/2008/22",
+ "title": "Zarządzenie Nr 1 Prezesa Rady Ministrów z dnia 3 stycznia 2008 r. zmieniające zarządzenie w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/22/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 1 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 stycznia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119 oraz z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do zarządzenia nr 172 Prezesa Rady Ministrów z dnia 22 listopada 2006 r. w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego (M. P. Nr 84, poz. 852) w § 4 wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pkt 4—6 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4) Pion Nadzoru Bankowego — wykonujący zadania z zakresu nadzoru bankowego, obejmujący następujące departamenty: Departament Licencji Bankowych, Departament Nadzoru Sektora Bankowego, Departament Inspekcji, Departament Bankowości Spółdzielczej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Pion Polityki Rozwoju Rynku Finansowego i Polityki Międzysektorowej — wykonujący zadania w zakresie działań mających na celu rozwój rynku finansowego i jego konkurencyjności oraz nadzoru nad konglomeratami finansowymi, obejmujący następujące departamenty: Departament Pośredników Finansowych, Departament Ochrony Klientów, Departament Edukacji, Departament Analiz Rynkowych, Departament Współpracy z Zagranicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Pion Organizacyjny — wykonujący zadania z zakresu obsługi finansowej, kadrowej i organizacyjnej Komisji oraz Urzędu Komisji, obejmujący następujące departamenty: Departament Zarządzania Zasobami Ludzkimi, Departament Informatyki, Departament Administracyjno-Budżetowy, Departament Bezpieczeństwa;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pkt 8 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8) Pion Prawno-Legislacyjny — wykonujący zadania z zakresu obsługi prawnej Komisji i Urzędu Komisji oraz zadania z zakresu inicjowania i koordynacji prac legislacyjnych prowadzonych przez Komisję, obejmujący następujące departamenty: Departament Prawny, Departament Postępowań;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "uchyla się pkt 9;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "pkt 10 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„10) Wieloosobowe Samodzielne Stanowisko ds. Kontroli Wewnętrznej.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

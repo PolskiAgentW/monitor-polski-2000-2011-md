@@ -1,0 +1,4632 @@
+{
+ "eli": "MP/2000/453",
+ "title": "Uchwała Sejmiku Województwa Opolskiego z dnia 27 czerwca 2000 r. w sprawie uchwalenia Statutu Województwa Opolskiego.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/453/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMIKU WOJEWÓDZTWA OPOLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 czerwca 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie uchwalenia Statutu Województwa Opolskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 i art. 18 pkt 1 lit. a) ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. Nr 91, poz. 576, Nr 155, poz. 1014, Nr 160, poz. 1060 i Nr 162, poz. 1126 oraz z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306 i Nr 48, poz. 550 i 552) Sejmik Województwa Opolskiego postanawia, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "My, wybrani demokratycznie w wyborach samorządowych przedstawiciele Śląska Opolskiego, Regionu o ukształtowanych historycznie tradycjach samorządności,"
+  },
+  {
+   "type": "text",
+   "text": "Ziemi naszych Praojców i Ojców,"
+  },
+  {
+   "type": "text",
+   "text": "kierując się uczciwością i najlepszą wolą,"
+  },
+  {
+   "type": "text",
+   "text": "zobowiązani wobec wyborców do służenia ze wszystkich sił naszej regionalnej Wspólnocie,"
+  },
+  {
+   "type": "text",
+   "text": "opierając się na uniwersalnych zasadach demokracji, samostanowienia w granicach prawa i poszanowania praw mniejszości,"
+  },
+  {
+   "type": "text",
+   "text": "odwołując się do naszej wielokulturowości, tradycji rzetelnej, uczciwej i pracowitej dbałości o dobro własne i wspólne,"
+  },
+  {
+   "type": "text",
+   "text": "pragnąc nade wszystko stałego, zrównoważonego i wszechstronnego rozwoju Regionu Opolskiego, ku pomyślności Państwa Polskiego, naszego samorządnego Województwa i wszystkich jego mieszkańców,"
+  },
+  {
+   "type": "text",
+   "text": "niniejszym:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchwala się Statut Województwa Opolskiego, uzgodniony z Prezesem Rady Ministrów, stanowiący załącznik do niniejszej uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała niniejsza podlega ogłoszeniu w Dzienniku Urzędowym Województwa Opolskiego oraz w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wykonanie uchwały powierza się Przewodniczącemu Sejmiku Województwa Opolskiego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia w Monitorze Polskim.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Sejmiku Województwa Opolskiego: N. Krajczy"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Sejmiku Województwa Opolskiego z dnia 27 czerwca 2000 r. (poz. 453)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT WOJEWÓDZTWA OPOLSKIEGO"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział I",
+     "text": "Postanowienia ogólne"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Samorząd województwa opolskiego działa na podstawie ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. Nr 91, poz. 576, Nr 155, poz. 1014, Nr 160, poz. 1060 i Nr 162, poz. 1126 oraz z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306 i Nr 48, poz. 550 i 552).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Mieszkańcy województwa opolskiego tworzą z mocy prawa regionalną wspólnotę samorządową.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "Siedzibą organów samorządu województwa jest miasto Opole.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_1/ust_4",
+       "text": "Województwo opolskie stanowi jednostkę zasadniczego podziału terytorialnego kraju, w której skład wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_1/ust_4/pkt_1",
+         "text": "gminy wymienione w załączniku do ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz. U. Nr 96, poz. 603 i Nr 104, poz. 656 oraz z 1999 r. Nr 104, poz. 1182),",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_1/ust_4/pkt_2",
+         "text": "powiaty wymienione w części VIII załącznika do rozporządzenia Rady Ministrów z dnia 7 sierpnia 1998 r. w sprawie utworzenia powiatów (Dz. U. Nr 103, poz. 652).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_1/ust_5",
+       "text": "Mapa województwa opolskiego stanowi załącznik nr 1, a wykaz powiatów i gmin województwa opolskiego — załącznik nr 2 do niniejszego statutu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Samorząd województwa:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_1/pkt_1",
+         "text": "reprezentuje społeczność województwa w sprawach należących do jego kompetencji,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_1/pkt_2",
+         "text": "wykonuje określone ustawami zadania publiczne w imieniu własnym i na własną odpowiedzialność,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_1/pkt_3",
+         "text": "dysponuje mieniem wojewódzkim,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_1/pkt_4",
+         "text": "prowadzi samodzielnie gospodarkę finansową na podstawie budżetu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Województwo opolskie ma osobowość prawną.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Samodzielność województwa opolskiego podlega ochronie sądowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Mieszkańcy województwa mogą podejmować rozstrzygnięcia w referendum wojewódzkim, którego warunki, zasady i tryb przeprowadzania określają odrębne przepisy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Referendum może być przeprowadzone w każdej ważnej dla województwa sprawie, mieszczącej się w zakresie jego zadań.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Organami samorządu województwa są Sejmik i Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Ilekroć w niniejszym statucie jest mowa o:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_2/pkt_1",
+         "text": "„województwie”, należy przez to rozumieć województwo opolskie,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_2/pkt_2",
+         "text": "„Sejmiku”, należy przez to rozumieć Sejmik Województwa Opolskiego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_2/pkt_3",
+         "text": "„Zarządzie”, należy przez to rozumieć Zarząd Województwa Opolskiego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_2/pkt_4",
+         "text": "„Marszałku”, należy przez to rozumieć Marszałka Województwa Opolskiego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_4/ust_2/pkt_5",
+         "text": "„Urzędzie Marszałkowskim”, należy przez to rozumieć Urząd Marszałkowski w Opolu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Samorząd województwa określa strategię rozwoju województwa i realizuje ją poprzez programy wojewódzkie i inne, uwzględniając w szczególności następujące cele:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_1/pkt_1",
+         "text": "pielęgnowanie polskości, rozwój i kształtowanie świadomości narodowej i obywatelskiej z zachowaniem wielokulturowości mieszkańców,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_1/pkt_2",
+         "text": "pobudzanie aktywności gospodarczej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_1/pkt_3",
+         "text": "podnoszenie poziomu konkurencyjności i innowacyjności gospodarki województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_1/pkt_4",
+         "text": "zachowanie wartości środowiska kulturowego i przyrodniczego, przy uwzględnieniu potrzeb przyszłych pokoleń,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_5/ust_1/pkt_5",
+         "text": "utrzymanie i kształtowanie ładu przestrzennego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Samorząd województwa prowadzi, w zakresie ustawowych kompetencji, politykę rozwoju województwa, na którą składa się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_2/pkt_1",
+         "text": "działanie na rzecz tworzenia warunków rozwoju gospodarczego, w tym kreowanie rynku pracy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_2/pkt_2",
+         "text": "utrzymanie i rozbudowa infrastruktury społecznej i technicznej o znaczeniu wojewódzkim,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_2/pkt_3",
+         "text": "pozyskiwanie i łączenie środków finansowych publicznych, w tym środków z Unii Europejskiej, oraz prywatnych, w celu realizacji zadań z zakresu użyteczności publicznej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_2/pkt_4",
+         "text": "wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia obywateli,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_5/ust_2/pkt_5",
+         "text": "racjonalne korzystanie z zasobów przyrody oraz kształtowanie środowiska naturalnego, zgodnie z zasadą zrównoważonego rozwoju,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_5/ust_2/pkt_6",
+         "text": "wspieranie rozwoju nauki i współpracy między sferą nauki i gospodarki, popieranie postępu technologicznego oraz innowacji,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_5/ust_2/pkt_7",
+         "text": "wspieranie rozwoju kultury oraz ochrona i racjonalne wykorzystywanie dziedzictwa kulturowego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_5/ust_2/pkt_8",
+         "text": "promocja walorów i możliwości rozwojowych województwa.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Samorząd województwa, przy formułowaniu strategii i realizacji polityki rozwoju województwa, w szczególności współpracuje z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/pkt_1",
+       "text": "jednostkami lokalnego samorządu terytorialnego z obszaru województwa oraz z samorządem gospodarczym i zawodowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/pkt_2",
+       "text": "administracją rządową, szczególnie z Wojewodą Opolskim,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/pkt_3",
+       "text": "innymi województwami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/pkt_4",
+       "text": "organizacjami pozarządowymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/pkt_5",
+       "text": "szkołami wyższymi i jednostkami naukowo-badawczymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/pkt_6",
+       "text": "organizacjami międzynarodowymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/pkt_7",
+       "text": "regionami europejskimi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "W sferze użyteczności publicznej województwo może tworzyć spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, a także może przystępować do takich spółek.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Poza sferą użyteczności publicznej województwo może tworzyć spółki z ograniczoną odpowiedzialnością i spółki akcyjne oraz przystępować do nich, jeżeli działalność spółek polega na wykonywaniu czynności promocyjnych, edukacyjnych i wydawniczych, służących rozwojowi województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Zasady tworzenia przez województwo spółek z ograniczoną odpowiedzialnością i spółek akcyjnych oraz przystępowania do nich określa ustawa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Samorząd województwa wykonuje zadania o charakterze wojewódzkim określone ustawami.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział II",
+     "text": "Sejmik Województwa Opolskiego"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienia ogólne"
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "W skład Sejmiku wchodzi 45 radnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "Sejmik jest organem stanowiącym i kontrolnym województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_9/ust_3",
+       "text": "Do wyłącznej właściwości Sejmiku należy:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_3/pkt_1",
+         "text": "podejmowanie uchwały o przeprowadzeniu referendum wojewódzkiego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_3/pkt_2",
+         "text": "stanowienie aktów prawa miejscowego, w szczególności:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_9/ust_3/pkt_2/lit_a",
+           "text": "Statutu Województwa,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_9/ust_3/pkt_2/lit_b",
+           "text": "zasad gospodarowania mieniem wojewódzkim,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_9/ust_3/pkt_2/lit_c",
+           "text": "zasad i trybu korzystania z wojewódzkich obiektów i urządzeń użyteczności publicznej,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_3/pkt_3",
+         "text": "uchwalanie strategii rozwoju województwa oraz wieloletnich programów wojewódzkich,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_9/ust_3/pkt_4",
+         "text": "uchwalanie planu zagospodarowania przestrzennego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_9/ust_3/pkt_5",
+         "text": "podejmowanie uchwały w sprawie trybu prac nad projektem uchwały budżetowej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_9/ust_3/pkt_6",
+         "text": "podejmowanie uchwały w sprawie szczegółowości układu wykonawczego budżetu województwa, z zastrzeżeniem, że szczegółowość ta nie może być mniejsza niż określona w odrębnych przepisach,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_9/ust_3/pkt_7",
+         "text": "uchwalanie budżetu województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_9/ust_3/pkt_8",
+         "text": "określanie zasad udzielania dotacji przedmiotowych i podmiotowych z budżetu województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_9/ust_3/pkt_9",
+         "text": "rozpatrywanie sprawozdań z wykonania budżetu województwa, sprawozdań finansowych województwa oraz sprawozdań z wykonywania wieloletnich programów województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_9/ust_3/pkt_10",
+         "text": "podejmowanie uchwały w sprawie udzielenia lub nieudzielenia Zarządowi absolutorium z tytułu wykonania budżetu województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_9/ust_3/pkt_11",
+         "text": "uchwalanie, w granicach określonych ustawami, przepisów dotyczących podatków i opłat lokalnych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "12",
+         "path": "par_9/ust_3/pkt_12",
+         "text": "podejmowanie uchwał w sprawie powierzenia zadań samorządu województwa innym jednostkom samorządu terytorialnego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "13",
+         "path": "par_9/ust_3/pkt_13",
+         "text": "uchwalanie „Priorytetów współpracy zagranicznej województwa”,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "14",
+         "path": "par_9/ust_3/pkt_14",
+         "text": "podejmowanie uchwał w sprawie uczestnictwa w międzynarodowych zrzeszeniach regionalnych i innych form współpracy regionalnej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "15",
+         "path": "par_9/ust_3/pkt_15",
+         "text": "ustalenie liczby wiceprzewodniczących Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "16",
+         "path": "par_9/ust_3/pkt_16",
+         "text": "wybór i odwołanie przewodniczącego i wiceprzewodniczących Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "17",
+         "path": "par_9/ust_3/pkt_17",
+         "text": "wybór i odwołanie Zarządu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "18",
+         "path": "par_9/ust_3/pkt_18",
+         "text": "powoływanie i odwoływanie, na wniosek Marszałka, skarbnika województwa, który jest głównym księgowym budżetu województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "19",
+         "path": "par_9/ust_3/pkt_19",
+         "text": "podejmowanie uchwał w sprawie tworzenia związków, stowarzyszeń, fundacji oraz ich rozwiązywania, a także przystępowania do nich lub występowania z nich,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "20",
+         "path": "par_9/ust_3/pkt_20",
+         "text": "podejmowanie uchwał w sprawach majątkowych województwa dotyczących:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_9/ust_3/pkt_20/lit_a",
+           "text": "zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na okres dłuższy niż 3 lata, chyba że przepisy szczególne stanowią inaczej; do czasu określenia zasad Zarząd może dokonywać tych czynności wyłącznie za zgodą Sejmiku,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_9/ust_3/pkt_20/lit_b",
+           "text": "emitowania obligacji oraz określania zasad ich zbywania, nabywania i wykupu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_9/ust_3/pkt_20/lit_c",
+           "text": "zaciągania długoterminowych pożyczek i kredytów,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_9/ust_3/pkt_20/lit_d",
+           "text": "ustalania maksymalnej wysokości pożyczek i kredytów krótkoterminowych zaciąganych przez Zarząd oraz maksymalnej wysokości pożyczek i poręczeń udzielanych przez Zarząd w roku budżetowym,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "e",
+           "path": "par_9/ust_3/pkt_20/lit_e",
+           "text": "tworzenia spółek prawa handlowego i przystępowania do nich oraz określania zasad wnoszenia wkładów, a także obejmowania, nabywania i zbywania udziałów i akcji,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "21",
+         "path": "par_9/ust_3/pkt_21",
+         "text": "uchwalanie przepisów dotyczących organizacji wewnętrznej oraz trybu pracy organów samorządu województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "22",
+         "path": "par_9/ust_3/pkt_22",
+         "text": "ustanawianie, w drodze uchwały, herbu, flagi i sztandaru oraz odznak honorowych województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "23",
+         "path": "par_9/ust_3/pkt_23",
+         "text": "podejmowanie uchwał w innych sprawach zastrzeżonych ustawami i Statutem województwa do kompetencji Sejmiku.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_10/ust_1",
+       "text": "Sejmik rozpatruje na sesjach i rozstrzyga w drodze uchwał wszystkie sprawy należące do jego kompetencji, określone w ustawach i niniejszym Statucie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_10/ust_2",
+       "text": "W sprawach porządkowych, proceduralnych i formalnych Sejmik podejmuje postanowienia, które umieszcza się tylko w protokole sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_10/ust_3",
+       "text": "W sprawach, które nie należą do uprawnień stanowiących i kontrolnych, Sejmik może zajmować stanowiska i wyrażać opinie w formie uchwały.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_11/ust_1",
+       "text": "Pierwszą sesję nowo wybranego Sejmiku zwołuje przewodniczący Sejmiku poprzedniej kadencji, w ciągu 14 dni po ogłoszeniu zbiorczych wyników wyborów do sejmików województw na obszarze całego kraju.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_11/ust_2",
+       "text": "Zawiadomienie o pierwszej sesji radni otrzymują wraz ze Statutem województwa i Regulaminem Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_11/ust_3",
+       "text": "Do momentu wyboru przewodniczącego pierwszą sesję prowadzi najstarszy wiekiem radny (senior).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_11/ust_4",
+       "text": "Funkcję sekretarza na pierwszej sesji pełni radny, najmłodszy wiekiem spośród obecnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_11/ust_5",
+       "text": "Na pierwszej sesji Sejmik wybiera ze swojego grona przewodniczącego bezwzględną większością głosów, w obecności co najmniej połowy ustawowego składu, w głosowaniu tajnym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_11/ust_6",
+       "text": "Po wyborze przewodniczącego Sejmik wybiera ze swojego grona trzech wiceprzewodniczących bezwzględną większością głosów, w obecności co najmniej połowy ustawowego składu, w głosowaniu tajnym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_11/ust_7",
+       "text": "Przewodniczący i wiceprzewodniczący Sejmiku nie mogą wchodzić w skład Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "par_11/ust_8",
+       "text": "Odwołanie przewodniczącego i wiceprzewodniczących Sejmiku następuje na wniosek co najmniej 1/4 ustawowego składu Sejmiku w trybie określonym odpowiednio w ust. 5 i 6.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Sesje Sejmiku"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "Sejmik obraduje na sesjach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/pkt_1",
+       "text": "zwyczajnych, zwanych dalej sesjami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/pkt_2",
+       "text": "nadzwyczajnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/pkt_3",
+       "text": "uroczystych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_13/ust_1",
+       "text": "Sesje Sejmiku są jawne. Zawiadomienie o terminie, miejscu i przedmiocie sesji podaje się do publicznej wiadomości co najmniej na trzy dni przed sesją, a w przypadku sesji nadzwyczajnej — nie później niż w dniu poprzedzającym sesję.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_13/ust_2",
+       "text": "Przewodniczący Sejmiku zapewnia na sali obrad miejsca dla publiczności, która przysłuchuje się obradom.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_13/ust_3",
+       "text": "Jawność sesji lub jej części zostaje wyłączona, gdy wymaga tego wyraźny przepis ustawowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_13/ust_4",
+       "text": "Wyłączenie jawności powoduje, że do publicznej wiadomości podaje się tylko termin i miejsce obrad, podczas obrad zaś mogą być obecne wyłącznie osoby wyznaczone przez przewodniczącego Sejmiku, na podstawie obowiązujących przepisów prawa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_13/ust_5",
+       "text": "Osoby uczestniczące w posiedzeniach niejawnych są obowiązane do zachowania w tajemnicy informacji, które uzyskały podczas tych posiedzeń.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_14/ust_1",
+       "text": "Sesje Sejmiku mogą odbywać się w miejscu będącym jego siedzibą lub mieć charakter sesji wyjazdowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_14/ust_2",
+       "text": "Sesja Sejmiku trwa od otwarcia do zamknięcia obrad przez przewodniczącego i może odbywać się na jednym lub kilku posiedzeniach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_15/ust_1",
+       "text": "Wojewoda Opolski i parlamentarzyści z województwa opolskiego mają prawo uczestniczyć w każdej sesji Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_15/ust_2",
+       "text": "W sesjach uczestniczą z głosem doradczym:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_15/ust_2/pkt_1",
+         "text": "członkowie Zarządu nie będący radnymi województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_15/ust_2/pkt_2",
+         "text": "skarbnik województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_15/ust_2/pkt_3",
+         "text": "zaproszeni przedstawiciele instytucji, urzędów i organizacji, których dotyczą sprawy stanowiące przedmiot obrad sesji.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_16/ust_1",
+       "text": "Sesje zwołuje przewodniczący Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_16/ust_2",
+       "text": "W toku przygotowania sesji przewodniczący Sejmiku zapewnia w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_16/ust_2/pkt_1",
+         "text": "udział właściwych organów i jednostek Urzędu Marszałkowskiego, komisji stałych Sejmiku i innych, w zależności od przedmiotu obrad sesji,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_16/ust_2/pkt_2",
+         "text": "terminowe dostarczenie radnym materiałów sesyjnych, w tym projektów uchwał.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_16/ust_3",
+       "text": "Przewodniczący Sejmiku przygotowuje projekt porządku obrad sesji oraz listę zaproszonych osób.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_16/ust_4",
+       "text": "Przewodniczący Sejmiku zapewnia podanie do publicznej wiadomości informacji o przedmiocie sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_16/ust_5",
+       "text": "Przewodniczący Sejmiku wysyła zaproszenie wraz z porządkiem obrad Wojewodzie Opolskiemu i parlamentarzystom z województwa opolskiego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "17",
+     "path": "par_17",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_17/ust_1",
+       "text": "Sesje odbywają się zgodnie z uchwalonym na dany rok planem, nie rzadziej jednak niż raz na kwartał.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_17/ust_2",
+       "text": "Zawiadomienie o zwołaniu sesji przewodniczący Sejmiku wysyła radnym co najmniej 14 dni przed terminem sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_17/ust_3",
+       "text": "Zawiadomienie podpisuje przewodniczący Sejmiku, a w razie jego nieobecności lub z innej przyczyny — wiceprzewodniczący.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_17/ust_4",
+       "text": "W zawiadomieniu należy podać termin, miejsce i godzinę rozpoczęcia obrad oraz projekt porządku sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_17/ust_5",
+       "text": "Do zawiadomienia dołącza się projekty uchwał i niezbędne materiały, jeżeli nie zostały radnym doręczone wcześniej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_17/ust_6",
+       "text": "Sesją zwyczajną jest również sesja zwołana przez przewodniczącego Sejmiku poza planem, jeśli zachowane są obowiązujące zasady i terminy powiadamiania radnych oraz doręczania im materiałów sesyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "18",
+     "path": "par_18",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_18/ust_1",
+       "text": "Sesję nadzwyczajną przewodniczący Sejmiku jest obowiązany zwołać na wniosek:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_18/ust_1/pkt_1",
+         "text": "co najmniej 1/4 ustawowego składu Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_18/ust_1/pkt_2",
+         "text": "Zarządu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_18/ust_2",
+       "text": "Wniosek o zwołanie sesji nadzwyczajnej, złożony na piśmie, powinien zawierać: uzasadnienie, proponowany porządek obrad, odpowiednie dokumenty i projekty uchwał.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_18/ust_3",
+       "text": "Przewodniczący zwołuje sesję nadzwyczajną, nie później niż w terminie 7 dni od dnia złożenia wniosku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_18/ust_4",
+       "text": "O terminie i porządku obrad sesji nadzwyczajnej zawiadamia się radnych najpóźniej na dwa dni przed jej terminem, dołączając do zawiadomienia projekty uchwał.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_18/ust_5",
+       "text": "Na sesji nadzwyczajnej Sejmik obraduje wyłącznie nad sprawami, dla których została zwołana.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_18/ust_6",
+       "text": "Przy zwoływaniu sesji nadzwyczajnej nie obowiązują regulaminowe zasady zwoływania sesji zwyczajnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_18/ust_7",
+       "text": "Do sesji nadzwyczajnych stosuje się odpowiednio przepisy § 13—16, § 17 ust. 3—5 i § 20—30.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "19",
+     "path": "par_19",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_19/ust_1",
+       "text": "Sesje uroczyste mogą być zwoływane z okazji świąt narodowych, obchodów rocznicowych lub innych ważnych wydarzeń.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_19/ust_2",
+       "text": "Porządek sesji uroczystej ustala przewodniczący Sejmiku, po zasięgnięciu opinii przewodniczących klubów radnych oraz Zarządu. Porządek ten nie podlega głosowaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_19/ust_3",
+       "text": "Sesje uroczyste mogą odbywać się w obecności pocztu sztandarowego województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_19/ust_4",
+       "text": "Do sesji uroczystych stosuje się odpowiednio przepisy § 13 ust. 1 i 2, § 14 ust. 1, § 15 ust. 1, § 16 ust. 1 i 3—5 oraz § 20—30.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "20",
+     "path": "par_20",
+     "text": "Sesję otwiera, prowadzi i zamyka przewodniczący Sejmiku lub wskazany przez niego wiceprzewodniczący (przewodniczący obrad).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "21",
+     "path": "par_21",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_21/ust_1",
+       "text": "Po stwierdzeniu kworum przewodniczący obrad stawia wniosek o przyjęcie zaproponowanego porządku obrad.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_21/ust_2",
+       "text": "Przewodniczący sesji kieruje przebiegiem obrad, zapewniając ład, powagę i sprawny przebieg sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_21/ust_3",
+       "text": "Przedmiotem wystąpień na sesji mogą być tylko sprawy objęte porządkiem obrad.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "22",
+     "path": "par_22",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_22/ust_1",
+       "text": "Sejmik podejmuje uchwały zwykłą większością głosów, w obecności co najmniej połowy ustawowego składu Sejmiku, w głosowaniu jawnym lub jawnym imiennym, chyba że przepisy ustaw stanowią inaczej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_22/ust_2",
+       "text": "Przepis ust. 1 dotyczy również podejmowania postanowień i stanowisk oraz formułowania opinii.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_22/ust_3",
+       "text": "W przypadku równej liczby głosów decydujący jest głos przewodniczącego Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "23",
+     "path": "par_23",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_23/ust_1",
+       "text": "Z każdej sesji Sejmiku sporządza się odrębny protokół, który stanowi formalną dokumentację z przebiegu posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_23/ust_2",
+       "text": "Protokół obrad sesji wymaga zatwierdzenia przez Sejmik na kolejnej sesji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "24",
+     "path": "par_24",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_24/ust_1",
+       "text": "Warunki techniczne niezbędne dla prawidłowego przebiegu sesji oraz ład i porządek przed oraz po jej zakończeniu zapewnia Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_24/ust_2",
+       "text": "Obsługę obrad sesji i radnych zapewnia Zarząd.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "25",
+     "path": "par_25",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_25/ust_1",
+       "text": "W głosowaniach na sesjach biorą udział tylko radni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_25/ust_2",
+       "text": "Za prawidłowy przebieg głosowania odpowiada przewodniczący obrad.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "26",
+     "path": "par_26",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_26/ust_1",
+       "text": "W przypadku głosowania dotyczącego wyboru osób, wymagana jest pisemna zgoda kandydata.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_26/ust_2",
+       "text": "Przy wyborze do organów samorządu województwa wymagana jest obecność kandydatów na sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_26/ust_3",
+       "text": "Przed przystąpieniem do głosowania kandydaci mogą zabrać głos dla zaprezentowania swojej kandydatury.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "27",
+     "path": "par_27",
+     "text": "Z inicjatywą podjęcia uchwały może wystąpić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/pkt_1",
+       "text": "grupa co najmniej pięciu radnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/pkt_2",
+       "text": "komisja Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_27/pkt_3",
+       "text": "przewodniczący Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_27/pkt_4",
+       "text": "klub radnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_27/pkt_5",
+       "text": "Zarząd,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_27/pkt_6",
+       "text": "Marszałek.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "28",
+     "path": "par_28",
+     "text": "Uchwałom Sejmiku nadaje się formę odrębnych dokumentów, z wyjątkiem uchwał proceduralnych, które odnotowuje się w protokole sesji.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "29",
+     "path": "par_29",
+     "text": "Uchylenie lub zmiana podjętych uchwał może nastąpić tylko w drodze odrębnej uchwały, z zachowaniem obowiązującej procedury.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "30",
+     "path": "par_30",
+     "text": "Szczegółowy tryb organizacji sesji określa regulamin Sejmiku.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział III",
+     "text": "Przewodniczący i wiceprzewodniczący Sejmiku"
+    },
+    {
+     "type": "par",
+     "num": "31",
+     "path": "par_31",
+     "text": "Przewodniczący Sejmiku organizuje pracę Sejmiku i prowadzi jego obrady, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_31/pkt_1",
+       "text": "reprezentuje Sejmik na zewnątrz,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_31/pkt_2",
+       "text": "zwołuje sesje Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_31/pkt_3",
+       "text": "przewodniczy obradom Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_31/pkt_4",
+       "text": "przeprowadza głosowanie jawne i jawne imienne, korzystając z pomocy sekretarza obrad Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_31/pkt_5",
+       "text": "podpisuje uchwały Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_31/pkt_6",
+       "text": "koordynuje pracę komisji Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_31/pkt_7",
+       "text": "zapewnia realizację uprawnień Sejmiku, komisji, radnych i klubów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "32",
+     "path": "par_32",
+     "text": "Przewodniczący Sejmiku może powierzyć wykonywanie czynności określonych w § 31 wskazanemu wiceprzewodniczącemu Sejmiku.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "33",
+     "path": "par_33",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_33/ust_1",
+       "text": "W przypadku wygaśnięcia mandatu przewodniczącego Sejmiku, a także wynikającego z innych przyczyn braku możliwości działania przewodniczącego, jego obowiązki wykonuje najstarszy wiekiem wiceprzewodniczący.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_33/ust_2",
+       "text": "W przypadku podjęcia uchwały o odwołaniu przewodniczącego, na tej samej sesji Sejmik dokonuje wyboru nowego przewodniczącego na dalszy okres kadencji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IV",
+     "text": "Komisje Sejmiku"
+    },
+    {
+     "type": "par",
+     "num": "34",
+     "path": "par_34",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_34/ust_1",
+       "text": "Do wykonywania swoich zadań Sejmik powołuje komisje stałe, określając ich skład osobowy i przedmiot działalności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_34/ust_2",
+       "text": "Sejmik może powołać komisje doraźne, określając ich skład osobowy, zakres i przedmiot działania oraz czas funkcjonowania. Komisja doraźna ulega rozwiązaniu po wykonaniu zadania, do którego została powołana, lub w terminie określonym w uchwale o jej powołaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_34/ust_3",
+       "text": "Komisje działają wyłącznie w okresie kadencji Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "35",
+     "path": "par_35",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_35/ust_1",
+       "text": "Komisje podlegają wyłącznie Sejmikowi jako jego struktury wewnętrzne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_35/ust_2",
+       "text": "Komisje działają na podstawie planów pracy, zatwierdzonych przez Sejmik w drodze uchwały w terminie dwóch miesięcy od daty przyjęcia planu pracy Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_35/ust_3",
+       "text": "Plany pracy komisji są opracowywane na podstawie planów sesji Sejmiku oraz własnej koncepcji działania, gwarantującej wykonywanie zadań Sejmiku w zakresie należącym do przedmiotu działania komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_35/ust_4",
+       "text": "Komisje wykonują zadania wskazane przez Sejmik.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_35/ust_5",
+       "text": "Plany pracy komisji mogą być modyfikowane w ciągu roku kalendarzowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_35/ust_6",
+       "text": "Komisje składają Sejmikowi okresowe sprawozdania ze swej działalności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "36",
+     "path": "par_36",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_36/ust_1",
+       "text": "Członkiem komisji może zostać tylko radny województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_36/ust_2",
+       "text": "Radny obowiązany jest pracować przynajmniej w jednej komisji, lecz nie więcej niż w dwóch.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_36/ust_3",
+       "text": "Komisja powinna się składać z 5 do 9 osób.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_36/ust_4",
+       "text": "W posiedzeniach komisji mogą uczestniczyć, z głosem doradczym, przewodniczący i wiceprzewodniczący Sejmiku, członkowie Zarządu, radni nie będący członkami danej komisji oraz osoby zaproszone przez przewodniczących komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "37",
+     "path": "par_37",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_37/ust_1",
+       "text": "Pracą komisji kieruje przewodniczący, a pod jego nieobecność — wiceprzewodniczący komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_37/ust_2",
+       "text": "Wyboru przewodniczących, wiceprzewodniczących oraz członków komisji dokonuje Sejmik w drodze uchwały, podjętej zwykłą większością głosów, w głosowaniu jawnym, w obecności co najmniej połowy ustawowego składu Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_37/ust_3",
+       "text": "Odwołania przewodniczących i wiceprzewodniczących oraz zmiany składów komisji dokonuje Sejmik w drodze uchwały, podjętej zwykłą większością głosów, w głosowaniu jawnym, w obecności co najmniej połowy ustawowego składu Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "38",
+     "path": "par_38",
+     "text": "W Sejmiku działają następujące komisje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_38/pkt_1",
+       "text": "Komisja Rewizyjna,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_38/pkt_2",
+       "text": "Komisja Budżetu, Finansów i Mienia Województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_38/pkt_3",
+       "text": "Komisja Współpracy Samorządowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_38/pkt_4",
+       "text": "Komisja Ochrony Środowiska i Gospodarki Wodnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_38/pkt_5",
+       "text": "Komisja Rodziny, Zdrowia i Spraw Społecznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_38/pkt_6",
+       "text": "Komisja Rozwoju, Rolnictwa i Gospodarki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_38/pkt_7",
+       "text": "Komisja Edukacji, Nauki i Postępu Technicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_38/pkt_8",
+       "text": "Komisja Kultury i Komunikacji Społecznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_38/pkt_9",
+       "text": "Komisja Polityki Regionalnej i Współpracy Zagranicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "39",
+     "path": "par_39",
+     "text": "Do zadań komisji w zakresie spraw, do których zostały powołane, należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_39/pkt_1",
+       "text": "udział w tworzeniu programów i planów województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_39/pkt_2",
+       "text": "opiniowanie projektów uchwał Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_39/pkt_3",
+       "text": "występowanie z inicjatywą uchwałodawczą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_39/pkt_4",
+       "text": "ocena informacji i sprawozdań składanych przez Zarząd, wojewódzkie samorządowe jednostki organizacyjne i inne jednostki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_39/pkt_5",
+       "text": "składanie wniosków do Zarządu za pośrednictwem przewodniczącego Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_39/pkt_6",
+       "text": "inspirowanie i opiniowanie kontaktów zagranicznych Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_39/pkt_7",
+       "text": "inicjowanie i opiniowanie współpracy z organizacjami samorządowymi, agendami rządowymi oraz organizacjami pozarządowymi na poziomie regionalnym i międzyregionalnym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_39/pkt_8",
+       "text": "inicjowanie promocji osiągnięć i walorów województwa opolskiego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_39/pkt_9",
+       "text": "inspirowanie nowych rozwiązań i pobudzanie aktywności społecznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_39/pkt_10",
+       "text": "współpraca z innymi komisjami Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "40",
+     "path": "par_40",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_40/ust_1",
+       "text": "Przewodniczący komisji organizuje jej pracę, zwołuje posiedzenia i ustala ich porządek oraz listę osób zaproszonych do udziału w posiedzeniu komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_40/ust_2",
+       "text": "Komisja może, w uzasadnionych przypadkach, korzystać z porad, opinii i ekspertyz osób posiadających wiedzę fachową w zakresie związanym z przedmiotem działania komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_40/ust_3",
+       "text": "W przypadku gdy skorzystanie z opinii ekspertów wymaga zawarcia umowy i dokonania wypłaty wynagrodzenia ze środków województwa, przewodniczący komisji przedstawia sprawę przewodniczącemu Sejmiku, który kieruje wniosek do Zarządu celem zawarcia stosownej umowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_40/ust_4",
+       "text": "Do obowiązków przewodniczącego komisji w szczególności należy:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_40/ust_4/pkt_1",
+         "text": "terminowe przygotowanie projektu planu pracy komisji,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_40/ust_4/pkt_2",
+         "text": "sprawne prowadzenie posiedzenia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_40/ust_4/pkt_3",
+         "text": "formułowanie na piśmie wniosków, opinii i stanowisk podejmowanych przez komisję,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_40/ust_4/pkt_4",
+         "text": "współpraca z przewodniczącym Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_40/ust_4/pkt_5",
+         "text": "współpraca z Zarządem.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "41",
+     "path": "par_41",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_41/ust_1",
+       "text": "Posiedzenie komisji jest ważne, jeżeli uczestniczy w nim co najmniej 50% składu komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_41/ust_2",
+       "text": "Wnioski i opinie komisje podejmują zwykłą większością głosów w głosowaniu jawnym, a w przypadku równej liczby głosów rozstrzygający jest głos przewodniczącego obrad.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_41/ust_3",
+       "text": "Na życzenie zainteresowanych członków komisji wnioski i opinie muszą zawierać ich zdania odrębne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_41/ust_4",
+       "text": "Obsługę techniczną i biurową komisji zapewnia Zarząd przy pomocy wyodrębnionej komórki Urzędu Marszałkowskiego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "42",
+     "path": "par_42",
+     "text": "W sprawach należących do właściwości dwóch lub więcej komisji komisje te współdziałają ze sobą; w szczególności odbywają wspólne posiedzenia pod przewodnictwem jednego z przewodniczących komisji, wskazanego przez przewodniczącego Sejmiku, oraz formułują wspólne opinie i wnioski.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "43",
+     "path": "par_43",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_43/ust_1",
+       "text": "Posiedzenia komisji odbywają się w siedzibie Sejmiku lub mogą mieć charakter wyjazdowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_43/ust_2",
+       "text": "Zawiadomienia o posiedzeniu komisji powinny być wysyłane w terminie siedmiu dni przed posiedzeniem. W przypadkach koniecznych dopuszcza się telefoniczne powiadomienie radnych o posiedzeniu komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_43/ust_3",
+       "text": "Do pisemnego zawiadomienia o posiedzeniu dołącza się niezbędne materiały.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_43/ust_4",
+       "text": "O terminie i miejscu posiedzenia przewodniczący komisji powiadamia przewodniczącego Sejmiku, Zarząd i właściwą komórkę Urzędu Marszałkowskiego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_43/ust_5",
+       "text": "Z posiedzenia komisji sporządza się protokół, który podpisuje przewodniczący obrad.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "44",
+     "path": "par_44",
+     "text": "Zarząd lub Marszałek ustosunkowują się do pisemnych wniosków komisji, w terminie nie dłuższym niż 30 dni.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "45",
+     "path": "par_45",
+     "text": "W skład Komisji Rewizyjnej wchodzą radni, przedstawiciele wszystkich klubów. Przewodniczący Sejmiku, wiceprzewodniczący, Marszałek oraz członkowie Zarządu będący radnymi nie wchodzą w skład Komisji Rewizyjnej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "46",
+     "path": "par_46",
+     "text": "Komisja Rewizyjna opiniuje na piśmie wykonanie budżetu województwa i występuje z wnioskiem do Sejmiku w sprawie udzielenia lub nieudzielenia absolutorium Zarządowi. Wniosek ten podlega zaopiniowaniu przez Regionalną Izbę Obrachunkową w Opolu. Komisja Rewizyjna sporządza opinię w terminie 21 dni po otrzymaniu sprawozdania Zarządu z wykonania budżetu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "47",
+     "path": "par_47",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_47/ust_1",
+       "text": "Komisja Rewizyjna opiniuje na piśmie wniosek o odwołanie Zarządu lub poszczególnych jego członków z innej przyczyny niż nieudzielenie absolutorium.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_47/ust_2",
+       "text": "Przedmiotową opinię Komisja Rewizyjna wydaje w ciągu 10 dni po otrzymaniu wniosku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "48",
+     "path": "par_48",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_48/ust_1",
+       "text": "Komisja Rewizyjna kontroluje działalność Zarządu oraz wojewódzkich samorządowych jednostek organizacyjnych w zakresie:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_48/ust_1/pkt_1",
+         "text": "wykonywania uchwał Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_48/ust_1/pkt_2",
+         "text": "wywiązywania się z zadań ustawowych i statutowych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_48/ust_1/pkt_3",
+         "text": "działalności finansowej i gospodarczej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_48/ust_1/pkt_4",
+         "text": "dokonywania przekształceń w strukturze organizacyjno-prawnej wojewódzkich jednostek samorządowych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_48/ust_1/pkt_5",
+         "text": "realizacji wniosków i zaleceń pokontrolnych.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_48/ust_2",
+       "text": "Działalność kontrolna prowadzona jest pod kątem legalności, celowości, gospodarności, rzetelności i sprawności organizacyjnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "49",
+     "path": "par_49",
+     "text": "Komisja Rewizyjna bada skargi na działalność Zarządu i Marszałka, w trybie Kodeksu postępowania administracyjnego, i przygotowuje informacje Sejmikowi w tym zakresie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "50",
+     "path": "par_50",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_50/ust_1",
+       "text": "Komisja Rewizyjna przeprowadza kontrole na podstawie rocznego planu kontroli, a ponadto:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_50/ust_1/pkt_1",
+         "text": "na polecenie Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_50/ust_1/pkt_2",
+         "text": "na wniosek przewodniczącego Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_50/ust_1/pkt_3",
+         "text": "z własnej inicjatywy.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_50/ust_2",
+       "text": "Roczny plan kontroli powinien obejmować co najmniej przedmiot, podmiot i termin kontroli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_50/ust_3",
+       "text": "Roczny plan kontroli może być uzupełniany w ciągu roku kalendarzowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "51",
+     "path": "par_51",
+     "text": "Komisja Rewizyjna przeprowadza następujące rodzaje kontroli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/pkt_1",
+       "text": "kompleksowe — obejmujące całość lub znaczną część działalności kontrolowanej jednostki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/pkt_2",
+       "text": "problemowe — obejmujące wybrane zagadnienia lub zagadnienia stanowiące niewielki fragment działalności kontrolowanej jednostki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_51/pkt_3",
+       "text": "sprawdzające — obejmujące wykonanie zaleceń pokontrolnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "52",
+     "path": "par_52",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_52/ust_1",
+       "text": "Komisja Rewizyjna może działać poprzez zespoły kontrolujące, w których skład wchodzi co najmniej dwóch członków Komisji Rewizyjnej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_52/ust_2",
+       "text": "Komisja Rewizyjna zawiadamia Marszałka o terminie kontroli, jej rodzaju i składzie zespołu kontrolującego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_52/ust_3",
+       "text": "Skład zespołu kontrolującego powinien być adekwatny do zakresu kontroli i nie może liczyć mniej niż dwie osoby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_52/ust_4",
+       "text": "Zarząd, poszczególni członkowie Zarządu, a także, w zakresie swej właściwości, dyrektorzy jednostek organizacyjnych Urzędu Marszałkowskiego i kierownicy wojewódzkich samorządowych jednostek organizacyjnych są obowiązani udzielać wszelkich informacji oraz udostępniać materiały i dokumenty do pracy Komisji Rewizyjnej lub zespołu kontrolującego, chyba że przepisy prawa stanowią inaczej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_52/ust_5",
+       "text": "Komisja Rewizyjna nie może ingerować w toczące się postępowanie w indywidualnej sprawie, rozstrzyganej w drodze decyzji administracyjnej lub postanowienia administracyjnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "53",
+     "path": "par_53",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_53/ust_1",
+       "text": "Kontrole przeprowadzane są na podstawie pisemnego upoważnienia wydanego przez przewodniczącego Komisji Rewizyjnej, określającego kontrolowaną jednostkę, zakres kontroli i okres objęty kontrolą, osoby upoważnione do przeprowadzenia kontroli i kierownika zespołu kontrolującego, a także termin jej przeprowadzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_53/ust_2",
+       "text": "Kontrolujący są obowiązani, przed przystąpieniem do kontroli, okazać kierownikowi kontrolowanej jednostki upoważnienie, o którym mowa w ust. 1, oraz dokumenty stwierdzające tożsamość.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "54",
+     "path": "par_54",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_54/ust_1",
+       "text": "Postępowanie kontrolne przeprowadza się w sposób umożliwiający bezstronne i rzetelne ustalenie stanu faktycznego oraz ocenę kontrolowanej działalności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_54/ust_2",
+       "text": "Stan faktyczny ustala się na podstawie dowodów zebranych w toku kontroli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_54/ust_3",
+       "text": "Jako dowód może być wykorzystane wszystko, co nie jest sprzeczne z prawem, a w szczególności: dokumenty, wyniki oględzin, zeznania świadków, opinie biegłych oraz pisemne wyjaśnienia i oświadczenia pracowników kontrolowanych jednostek.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_54/ust_4",
+       "text": "W razie powzięcia w toku kontroli uzasadnionego podejrzenia popełnienia przestępstwa, kontrolujący niezwłocznie zawiadamia o tym przewodniczącego Komisji Rewizyjnej i przewodniczącego Sejmiku. Dalsze postępowanie w tym zakresie określają odrębne przepisy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "55",
+     "path": "par_55",
+     "text": "Kierownik kontrolowanej jednostki jest obowiązany zapewnić warunki i środki niezbędne dla prawidłowego przeprowadzenia kontroli, w tym przedkładać na żądanie kontrolujących dokumenty i materiały niezbędne do przeprowadzenia kontroli, udzielać ustnych i pisemnych wyjaśnień, umożliwić kontrolującym wstęp do obiektów i pomieszczeń kontrolowanej jednostki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "56",
+     "path": "par_56",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_56/ust_1",
+       "text": "Zespół kontrolujący sporządza niezwłocznie z przeprowadzonej kontroli — najpóźniej w ciągu 30 dni od daty jej zakończenia — protokół pokontrolny.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_56/ust_2",
+       "text": "Przedstawiciele kontrolowanej jednostki, którzy odmawiają podpisania protokołu, są obowiązani niezwłocznie złożyć pisemne wyjaśnienie co do przyczyn odmowy. W razie odmowy podpisania protokołu lub złożenia wyjaśnień co do przyczyn odmowy, fakt ten odnotowuje się w protokole pokontrolnym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_56/ust_3",
+       "text": "W przypadku gdy część zespołu kontrolującego odmawia podpisania protokołu pokontrolnego, informują oni o tym fakcie, w formie pisemnych wyjaśnień, przewodniczącego Komisji Rewizyjnej. Wyjaśnienia te stanowią załącznik do protokołu pokontrolnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "57",
+     "path": "par_57",
+     "text": "Protokół pokontrolny powinien zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_57/pkt_1",
+       "text": "nazwę kontrolowanej jednostki i jej adres,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_57/pkt_2",
+       "text": "imię i nazwisko kontrolujących i datę upoważnienia do przeprowadzenia kontroli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_57/pkt_3",
+       "text": "datę rozpoczęcia i zakończenia czynności kontrolnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_57/pkt_4",
+       "text": "określenie zakresu kontroli i okresu objętego kontrolą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_57/pkt_5",
+       "text": "imię i nazwisko kierownika kontrolowanej jednostki, osób udzielających informacji oraz innych osób, gdy jest to niezbędne z uwagi na charakter kontroli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_57/pkt_6",
+       "text": "przebieg i wyniki czynności kontrolnych, a w szczególności zaistniałe nieprawidłowości, z uwzględnieniem ich przyczyn i skutków wraz ze wskazaniem osób odpowiedzialnych za ich powstanie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_57/pkt_7",
+       "text": "ewentualne wnioski i zalecenia pokontrolne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_57/pkt_8",
+       "text": "w przypadku sporządzenia załączników, które stanowią część składową protokołu — ich wyszczególnienie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_57/pkt_9",
+       "text": "informacje o pouczeniu kierownika kontrolowanej jednostki o możliwości zgłoszenia uwag do wyników kontroli i treści protokołu przed jego podpisaniem oraz zgłoszenia, w ciągu 7 dni od daty podpisania protokołu, zastrzeżeń co do treści protokołu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_57/pkt_10",
+       "text": "dane o liczbie egzemplarzy sporządzonego protokołu i jego rozdzielniku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_57/pkt_11",
+       "text": "podpisy kontrolujących i kierownika jednostki kontrolowanej lub jego zastępcy, a w przypadku gdy kontrola dotyczyła zagadnień finansowych — również głównego księgowego lub jego zastępcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "58",
+     "path": "par_58",
+     "text": "Komisja Rewizyjna przedstawia Sejmikowi wyniki kontroli, a w przypadku kontroli wojewódzkich samorządowych jednostek organizacyjnych — także Zarządowi.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "59",
+     "path": "par_59",
+     "text": "Do zakresu działań komisji stałych należą w szczególności następujące sprawy i problemy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_59/pkt_1",
+       "text": "Komisja Budżetu, Finansów i Mienia Województwa: — opracowanie, uchwalanie, realizacja budżetu i jego zmiany, — finanse województwa, — wykorzystywanie środków pomocowych z Unii Europejskiej i innych źródeł, — mienie województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_59/pkt_2",
+       "text": "Komisja Współpracy Samorządowej: — bezpieczeństwo publiczne i obronność, — problematyka kontaktów z samorządami gminnymi i powiatowymi województwa oraz współpracy z samorządami innych województw, — współpraca z ogólnopolską reprezentacją sejmików oraz stowarzyszeniami samorządowymi, — problematyka dotycząca rozwoju samorządności oraz popularyzacja osiągnięć samorządowych, — ocena postępowania radnego i rozstrzyganie sporów koleżeńskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_59/pkt_3",
+       "text": "Komisja Ochrony Środowiska i Gospodarki Wodnej: — ochrona środowiska, — wykorzystanie zasobów naturalnych, — gospodarka leśna, — gospodarka wodna, — zabezpieczenia przeciwpowodziowe, — ochrona i rekultywacja gruntów, — ochrona przyrody,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_59/pkt_4",
+       "text": "Komisja Rodziny, Zdrowia i Spraw Społecznych: — stan zdrowia mieszkańców województwa, — usługi medyczne, — pomoc społeczna, — problematyka funkcjonowania rodzin oraz zagrożenia społeczne, w tym problemy dotyczące ubóstwa, — ochrona praw konsumentów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_59/pkt_5",
+       "text": "Komisja Rozwoju, Rolnictwa i Gospodarki: — rozwój gospodarczy regionu, — rozwój rolnictwa, przemysłu rolno-spożywczego i obszarów wiejskich, — drogownictwo i komunikacja, — rynek pracy i zwalczanie bezrobocia, — infrastruktura techniczna województwa, — inwestycje wojewódzkie, — przekształcenia własnościowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_59/pkt_6",
+       "text": "Komisja Edukacji, Nauki i Postępu Technicznego: — oświata, — edukacja pomaturalna i szkolnictwo wyższe w województwie, — wychowanie młodzieży, — sfera nauki i postępu technicznego, — problematyka ośrodków edukacyjnych i naukowo-badawczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_59/pkt_7",
+       "text": "Komisja Kultury i Komunikacji Społecznej: — działalność kulturalna, w tym funkcjonowanie jednostek kultury, — współpraca ze środowiskami twórczymi, — ochrona zabytków, — sztuka ludowa, — wspieranie amatorskiego ruchu kulturalnego, — środki masowego przekazu, — sport i turystyka,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_59/pkt_8",
+       "text": "Komisja Polityki Regionalnej i Współpracy Zagranicznej: — strategia rozwoju regionalnego i planowanie przestrzenne, — współpraca województwa na poziomie regionalnym, — kontakty regionalne, — kontakty zagraniczne Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "60",
+     "path": "par_60",
+     "text": "Postanowienia Statutu o komisjach stałych Sejmiku stosuje się odpowiednio do komisji doraźnych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział V",
+     "text": "Radni"
+    },
+    {
+     "type": "par",
+     "num": "61",
+     "path": "par_61",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_61/ust_1",
+       "text": "Radny przed objęciem mandatu składa ślubowanie następującej treści:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Uroczyście ślubuję rzetelnie i sumiennie wykonywać obowiązki wobec Narodu Polskiego, strzec suwerenności i interesów Państwa Polskiego, czynić wszystko dla pomyślności Ojczyzny, wspólnoty samorządowej województwa i dobra obywateli, przestrzegać Konstytucji i innych praw Rzeczypospolitej Polskiej”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Ślubowanie odbywa się w ten sposób, że po odczytaniu roty wywołani kolejno radni wstają i wypowiadają słowo „ślubuję”."
+        },
+        {
+         "type": "text",
+         "text": "Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_61/ust_2",
+       "text": "Odmowa złożenia ślubowania oznacza zrzeczenie się mandatu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_61/ust_3",
+       "text": "Radny nieobecny na pierwszej sesji oraz radny, który uzyskał mandat w czasie trwania kadencji, składa ślubowanie na pierwszej sesji, na której jest obecny.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_61/ust_4",
+       "text": "Na pierwszej sesji ślubowanie przyjmuje najstarszy wiekiem radny — senior.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_61/ust_5",
+       "text": "Radny otrzymuje legitymację Sejmiku, która ma wyłącznie charakter informacyjny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "62",
+     "path": "par_62",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_62/ust_1",
+       "text": "Radny nie jest związany instrukcjami wyborców. Radny województwa w swojej działalności jest obowiązany kierować się interesami państwa polskiego i wojewódzkiej wspólnoty samorządowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_62/ust_2",
+       "text": "W związku z wykonywaniem mandatu radny korzysta z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_62/ust_3",
+       "text": "Radny utrzymuje stałą więź z mieszkańcami województwa, przyjmuje ich wnioski, postulaty i uwagi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_62/ust_4",
+       "text": "Radny jest obowiązany brać czynny udział w pracach organów samorządu województwa oraz wojewódzkich samorządowych jednostek organizacyjnych, do których został wybrany lub desygnowany.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_62/ust_5",
+       "text": "Radnemu przysługuje prawo do zwolnienia z pracy zawodowej, w celu umożliwienia osobistego udziału w pracach Sejmiku, jego komisji oraz Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_62/ust_6",
+       "text": "Rozwiązanie z radnym stosunku pracy wymaga uprzedniej zgody Sejmiku. Sejmik odmówi zgody na rozwiązanie stosunku pracy z radnym, jeżeli podstawą rozwiązania tego stosunku są zdarzenia związane z wykonywaniem mandatu radnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "63",
+     "path": "par_63",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_63/ust_1",
+       "text": "Radny ma prawo do występowania na forum Sejmiku, komisji i klubów radnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_63/ust_2",
+       "text": "Radny lub grupa radnych może zgłaszać zapytania i interpelacje do przewodniczącego Sejmiku, Marszałka i Zarządu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "64",
+     "path": "par_64",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_64/ust_1",
+       "text": "Zapytania składa się ustnie w sprawach prostych dotyczących aktualnych problemów województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_64/ust_2",
+       "text": "Odpowiedź na zapytania jest udzielana bezpośrednio na sesji. Jeżeli udzielenie odpowiedzi ustnie na danej sesji jest niemożliwe, odpowiedzi udziela się pisemnie w terminie 14 dni od zakończenia sesji. Jeden egzemplarz odpowiedzi przekazuje się przewodniczącemu Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_64/ust_3",
+       "text": "Treść zapytań i odpowiedzi nie może być przedmiotem dyskusji na sesji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "65",
+     "path": "par_65",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_65/ust_1",
+       "text": "Interpelacje składa się w sprawach o istotnym znaczeniu dla województwa i jego mieszkańców.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_65/ust_2",
+       "text": "Interpelacja powinna być sformułowana na piśmie, podpisana, powinna wskazywać adresata i zawierać krótki opis sprawy będącej przedmiotem interpelacji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_65/ust_3",
+       "text": "Interpelacje mogą być składane w każdym czasie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_65/ust_4",
+       "text": "Interpelacje złożone zgodnie z ustalonymi zasadami przewodniczący Sejmiku przekazuje niezwłocznie adresatowi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_65/ust_5",
+       "text": "Adresat interpelacji jest obowiązany, w terminie 30 dni od daty jej otrzymania, udzielić pisemnej odpowiedzi, a kopię odpowiedzi przesłać przewodniczącemu Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_65/ust_6",
+       "text": "Jeżeli udzielona odpowiedź jest dla składającego interpelację niezadowalająca, ma on prawo zwrócić się o udzielenie dodatkowych wyjaśnień.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_65/ust_7",
+       "text": "Informacja o złożonych interpelacjach przekazywana jest radnym na każdej sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "par_65/ust_8",
+       "text": "Na wniosek radnego nad treścią udzielonej odpowiedzi może być przeprowadzona dyskusja na sesji Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "66",
+     "path": "par_66",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_66/ust_1",
+       "text": "Mandatu radnego województwa nie można łączyć z mandatem radnego powiatu, radnego gminy, funkcją wojewody oraz zatrudnieniem na stanowiskach urzędniczych w urzędach rządowej administracji zespolonej i niezespolonej na obszarze województwa opolskiego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_66/ust_2",
+       "text": "Ograniczenia w prowadzeniu działalności gospodarczej przez radnego oraz w zatrudnieniu radnego określają odrębne przepisy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_66/ust_3",
+       "text": "Radny nie może brać udziału w głosowaniu w sprawach dotyczących wykorzystywania mienia wojewódzkiego, jeżeli dotyczy to jego interesu prawnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_66/ust_4",
+       "text": "Radny składa przewodniczącemu Sejmiku oświadczenie majątkowe, określone odrębnymi przepisami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "67",
+     "path": "par_67",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_67/ust_1",
+       "text": "Radnemu przysługują diety oraz zwrot kosztów podróży służbowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_67/ust_2",
+       "text": "Diety nie mogą przekraczać wysokości określonej w odrębnych przepisach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_67/ust_3",
+       "text": "Wysokość i sposób wypłaty diet oraz zwrotu kosztów podróży służbowych określa Sejmik, z uwzględnieniem postanowień ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VI",
+     "text": "Kluby radnych"
+    },
+    {
+     "type": "par",
+     "num": "68",
+     "path": "par_68",
+     "text": "Radni mają prawo zrzeszać się w klubach w celu wyrażania na forum Sejmiku wspólnego stanowiska, przedstawiania propozycji i wniosków, wyrażania swoich poglądów oraz w celu współpracy z organizacjami i partiami politycznymi.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "69",
+     "path": "par_69",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_69/ust_1",
+       "text": "Klub mogą utworzyć co najmniej trzej radni, którzy swoje przystąpienie do klubu zgłosili na piśmie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_69/ust_2",
+       "text": "O powstaniu klubu jego władze informują przewodniczącego Sejmiku, przedkładając jednocześnie skład osobowy członków i władz klubu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_69/ust_3",
+       "text": "Władze klubu mają obowiązek poinformować przewodniczącego Sejmiku o zmianach w składzie osobowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_69/ust_4",
+       "text": "Przewodniczący Sejmiku o fakcie powołania klubu informuje Sejmik na najbliższej sesji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_69/ust_5",
+       "text": "Na forum Sejmiku kluby są reprezentowane przez przewodniczącego klubu, jego zastępcę lub uprawnionego radnego — członka klubu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "70",
+     "path": "par_70",
+     "text": "Kluby mają prawo do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_70/pkt_1",
+       "text": "inicjatywy uchwałodawczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_70/pkt_2",
+       "text": "wyrażania opinii na sesjach i posiedzeniach komisji Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_70/pkt_3",
+       "text": "wnoszenia interpelacji, zapytań i składania wniosków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_70/pkt_4",
+       "text": "informowania opinii publicznej o stanowisku klubu w rozpatrywanych przez Sejmik sprawach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "71",
+     "path": "par_71",
+     "text": "Przewodniczący Sejmiku stwarza możliwości funkcjonowania klubów radnych, a obsługę techniczno-biurową zapewnia Zarząd.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VII",
+     "text": "Zarząd Województwa Opolskiego"
+    },
+    {
+     "type": "par",
+     "num": "72",
+     "path": "par_72",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_72/ust_1",
+       "text": "Zarząd jest organem wykonawczym województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_72/ust_2",
+       "text": "Po upływie kadencji Sejmiku Zarząd działa do dnia wyboru nowego Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_72/ust_3",
+       "text": "Zarząd jest powoływany i odwoływany zgodnie z ustawą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "73",
+     "path": "par_73",
+     "text": "W skład Zarządu, liczącego pięć osób, wchodzą: Marszałek jako jego przewodniczący, dwaj wiceprzewodniczący oraz dwaj członkowie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "74",
+     "path": "par_74",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_74/ust_1",
+       "text": "Zarząd wykonuje zadania należące do samorządu województwa, nie zastrzeżone na rzecz Sejmiku i wojewódzkich samorządowych jednostek organizacyjnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_74/ust_2",
+       "text": "Do zadań Zarządu należy w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_74/ust_2/pkt_1",
+         "text": "przygotowywanie projektów uchwał Sejmiku oraz materiałów na sesję Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_74/ust_2/pkt_2",
+         "text": "wykonywanie uchwał Sejmiku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_74/ust_2/pkt_3",
+         "text": "gospodarowanie mieniem województwa, w tym wykonywanie praw z akcji i udziałów posiadanych przez województwo,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_74/ust_2/pkt_4",
+         "text": "przygotowywanie projektu i wykonywanie budżetu województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_74/ust_2/pkt_5",
+         "text": "dysponowanie celowymi rezerwami budżetowymi,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_74/ust_2/pkt_6",
+         "text": "przygotowywanie projektów strategii rozwoju województwa, planu zagospodarowania przestrzennego i programów wojewódzkich oraz ich wykonywanie,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_74/ust_2/pkt_7",
+         "text": "organizowanie współpracy ze strukturami samorządu regionalnego w Polsce i w innych krajach oraz z międzynarodowymi zrzeszeniami regionalnymi,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_74/ust_2/pkt_8",
+         "text": "kierowanie, koordynowanie i kontrolowanie wojewódzkich samorządowych jednostek organizacyjnych, w tym powoływanie i odwoływanie ich kierowników,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_74/ust_2/pkt_9",
+         "text": "uchwalanie regulaminu organizacyjnego Urzędu Marszałkowskiego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_74/ust_2/pkt_10",
+         "text": "zapewnienie obsługi dla wykonywania zadań przez Sejmik, przewodniczącego, komisje, radnych i kluby,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_74/ust_2/pkt_11",
+         "text": "przygotowywanie i przedkładanie Sejmikowi, dwa razy w ciągu roku kalendarzowego, sprawozdań Zarządu z działalności finansowej oraz realizacji wieloletnich programów wojewódzkich i strategii rozwoju województwa.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_74/ust_3",
+       "text": "Zarząd wykonuje zadania województwa przy pomocy Urzędu Marszałkowskiego i wojewódzkich samorządowych jednostek organizacyjnych, a także pełnomocników Zarządu do określonych zadań.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_74/ust_4",
+       "text": "Zarząd wydaje przynajmniej raz na kwartał biuletyn. Koncepcję programową oraz tryb jego wydawania określa Sejmik.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_74/ust_5",
+       "text": "Tryb kontroli wewnętrznej Urzędu Marszałkowskiego i wojewódzkich samorządowych jednostek organizacyjnych określa regulamin organizacyjny Urzędu Marszałkowskiego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "75",
+     "path": "par_75",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_75/ust_1",
+       "text": "Pracę Zarządu organizuje Marszałek.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_75/ust_2",
+       "text": "Marszałek ustala podział zadań pomiędzy członków Zarządu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "76",
+     "path": "par_76",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_76/ust_1",
+       "text": "Zarząd obraduje kolegialnie i podejmuje rozstrzygnięcia na posiedzeniach zwoływanych przez Marszałka w miarę potrzeby, jednak nie rzadziej niż raz na dwa tygodnie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_76/ust_2",
+       "text": "W razie nieobecności Marszałka posiedzenie zwołuje i prowadzi upoważniony przez niego wiceprzewodniczący Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_76/ust_3",
+       "text": "Posiedzenia Zarządu są prawomocne, jeśli uczestniczy w nich co najmniej połowa składu Zarządu, a o terminie posiedzenia i porządku obrad zostali powiadomieni wszyscy członkowie Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_76/ust_4",
+       "text": "W posiedzeniach Zarządu uczestniczy skarbnik województwa z głosem doradczym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_76/ust_5",
+       "text": "Przewodniczący Sejmiku lub wyznaczony przez niego wiceprzewodniczący może uczestniczyć w posiedzeniach Zarządu z głosem doradczym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_76/ust_6",
+       "text": "Harmonogram posiedzeń oraz projekt porządku obrad Zarządu Marszałek przekazuje do wiadomości przewodniczącemu Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "77",
+     "path": "par_77",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_77/ust_1",
+       "text": "Zarząd rozstrzyga w formie uchwał sprawy należące do jego kompetencji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_77/ust_2",
+       "text": "W przypadkach określonych przepisami szczegółowymi Zarząd podejmuje decyzje lub postanowienia.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zarząd może również zajmować stanowisko i wyrażać opinie."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_77/ust_3",
+       "text": "Inicjatywa uchwałodawcza przysługuje osobom wchodzącym w skład Zarządu oraz skarbnikowi województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_77/ust_4",
+       "text": "Uchwały Zarządu zapadają zwykłą większością głosów w obecności co najmniej połowy ustawowego składu Zarządu w głosowaniu jawnym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_77/ust_5",
+       "text": "W przypadku równej liczby głosów rozstrzyga głos Marszałka.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_77/ust_6",
+       "text": "Uchwały podpisują wszyscy członkowie Zarządu biorący udział w głosowaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_77/ust_7",
+       "text": "Decyzje wydane przez Zarząd w sprawach z zakresu administracji publicznej podpisuje Marszałek. W decyzji wymienia się imiona i nazwiska członków Zarządu, którzy brali udział w wydaniu decyzji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "78",
+     "path": "par_78",
+     "text": "Projekty uchwał przedstawione na posiedzeniu Zarządu muszą zawierać opinię radcy prawnego i akceptację nadzorującego daną dziedzinę członka Zarządu oraz skarbnika województwa, jeżeli podjęcie uchwały wywoła skutki finansowe.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "79",
+     "path": "par_79",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_79/ust_1",
+       "text": "Posiedzenia Zarządu są protokołowane.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_79/ust_2",
+       "text": "Członek Zarządu może zgłosić na piśmie stanowisko odrębne, które dołącza się do protokołu, jako jego część składową.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_79/ust_3",
+       "text": "Zarząd przyjmuje protokół na następnym posiedzeniu, a podpisują go wszyscy członkowie Zarządu biorący udział w posiedzeniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_79/ust_4",
+       "text": "Protokoły są przechowywane w Urzędzie Marszałkowskim.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "80",
+     "path": "par_80",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_80/ust_1",
+       "text": "Zarząd składa Sejmikowi, na każdej sesji zwyczajnej, sprawozdanie z bieżącej działalności, które stanowi załącznik do protokołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_80/ust_2",
+       "text": "Prawo wglądu w dokumenty Zarządu przysługuje przewodniczącemu Sejmiku i Komisji Rewizyjnej, a pozostałym komisjom Sejmiku — na wniosek złożony na ręce Marszałka za pośrednictwem przewodniczącego Sejmiku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "81",
+     "path": "par_81",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_81/ust_1",
+       "text": "Marszałek organizuje pracę Zarządu i Urzędu Marszałkowskiego. Kieruje bieżącymi sprawami województwa oraz reprezentuje województwo na zewnątrz.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_81/ust_2",
+       "text": "W sprawach nie cierpiących zwłoki, związanych z bezpośrednim zagrożeniem interesu publicznego, zagrażających bezpośrednio zdrowiu i życiu oraz w sprawach mogących spowodować znaczne straty materialne Marszałek podejmuje niezbędne czynności należące do właściwości Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_81/ust_3",
+       "text": "Czynności podjęte w tym trybie wymagają przedstawienia do zatwierdzenia na najbliższym posiedzeniu Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_81/ust_4",
+       "text": "Marszałek wydaje zarządzenia wewnętrzne w sprawach organizacyjnych Urzędu Marszałkowskiego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "82",
+     "path": "par_82",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_82/ust_1",
+       "text": "Decyzje w indywidualnych sprawach z zakresu administracji publicznej, nie zastrzeżone przepisami prawnymi do kompetencji Zarządu, wydaje Marszałek.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_82/ust_2",
+       "text": "Marszałek może upoważnić wiceprzewodniczących Zarządu, pozostałych członków Zarządu, pracowników Urzędu Marszałkowskiego oraz kierowników wojewódzkich samorządowych jednostek organizacyjnych do wydawania w jego imieniu decyzji, o których mowa w ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_82/ust_3",
+       "text": "Tryb odwołania od decyzji, o których mowa w ust. 1 i 2, określają odrębne przepisy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "83",
+     "path": "par_83",
+     "text": "Marszałek przedstawia wojewodzie uchwały Sejmiku oraz uchwały Zarządu podlegające nadzorowi w ciągu 7 dni od dnia ich podjęcia. W tym samym terminie Marszałek przedstawia Regionalnej Izbie Obrachunkowej w Opolu uchwały objęte zakresem nadzoru Izby.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "84",
+     "path": "par_84",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_84/ust_1",
+       "text": "Wiceprzewodniczący Zarządu wykonują zadania powierzone im przez Marszałka.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_84/ust_2",
+       "text": "Wiceprzewodniczący Zarządu, wskazany przez Marszałka, sprawuje funkcję przewodniczącego Zarządu w razie nieobecności lub niemożności pełnienia obowiązków przez Marszałka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "85",
+     "path": "par_85",
+     "text": "Do obowiązków członków Zarządu należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_85/pkt_1",
+       "text": "realizacja zadań wynikających z uchwał Sejmiku i Zarządu w zakresie ustalonym przez Marszałka,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_85/pkt_2",
+       "text": "operatywna współpraca z nadzorowanymi komórkami organizacyjnymi Urzędu Marszałkowskiego i wojewódzkimi samorządowymi jednostkami organizacyjnymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_85/pkt_3",
+       "text": "nadzór nad przygotowaniem na posiedzenia Zarządu materiałów i uchwał w zakresie powierzonych kompetencji i zadań,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_85/pkt_4",
+       "text": "reprezentowanie Zarządu na zewnątrz w sprawach powierzonych przez Marszałka,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_85/pkt_5",
+       "text": "bieżąca współpraca z radnymi Sejmiku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_85/pkt_6",
+       "text": "udział w sesjach Sejmiku i posiedzeniach komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VIII",
+     "text": "Wojewódzkie samorządowe jednostki organizacyjne"
+    },
+    {
+     "type": "par",
+     "num": "86",
+     "path": "par_86",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_86/ust_1",
+       "text": "W celu wykonywania swoich zadań województwo tworzy wojewódzkie samorządowe jednostki organizacyjne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_86/ust_2",
+       "text": "Wojewódzkie samorządowe jednostki organizacyjne to:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_86/ust_2/pkt_1",
+         "text": "wojewódzkie jednostki organizacyjne bez osobowości prawnej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_86/ust_2/pkt_2",
+         "text": "wojewódzkie osoby prawne.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "87",
+     "path": "par_87",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_87/ust_1",
+       "text": "Wojewódzkie samorządowe jednostki organizacyjne mogą być tworzone, likwidowane i reorganizowane na podstawie uchwały Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_87/ust_2",
+       "text": "Sejmik nadaje lub zatwierdza statuty, a także zmiany statutów, wojewódzkich samorządowych jednostek organizacyjnych i wyposaża je w majątek.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_87/ust_3",
+       "text": "W przypadku likwidacji wojewódzkiej samorządowej jednostki organizacyjnej, Sejmik decyduje o przeznaczeniu mienia znajdującego się w użytkowaniu tej jednostki.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_87/ust_4",
+       "text": "Zasady określone w ust. 1—3 stosuje się, o ile przepis szczególny nie stanowi inaczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "88",
+     "path": "par_88",
+     "text": "Zarząd prowadzi wykaz wojewódzkich samorządowych jednostek organizacyjnych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "89",
+     "path": "par_89",
+     "text": "W posiedzeniach komisji konkursowych, powoływanych przez Zarząd, do wyboru kandydata na kierownika wojewódzkiej samorządowej jednostki organizacyjnej bierze udział, z możliwością wyrażania opinii, przedstawiciel merytorycznej komisji Sejmiku, wskazany przez tę komisję.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IX",
+     "text": "Pracownicy samorządowi"
+    },
+    {
+     "type": "par",
+     "num": "90",
+     "path": "par_90",
+     "text": "Pracownikami samorządowymi są osoby zatrudnione w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_90/pkt_1",
+       "text": "Urzędzie Marszałkowskim,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_90/pkt_2",
+       "text": "wojewódzkich samorządowych jednostkach organizacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "91",
+     "path": "par_91",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_91/ust_1",
+       "text": "Marszałek jest kierownikiem Urzędu Marszałkowskiego, zwierzchnikiem służbowym pracowników tego Urzędu i kierowników wojewódzkich samorządowych jednostek organizacyjnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_91/ust_2",
+       "text": "Funkcję pracodawcy samorządowego w stosunku do Marszałka pełni przewodniczący Sejmiku, na zasadach określonych odrębną uchwałą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "92",
+     "path": "par_92",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_92/ust_1",
+       "text": "Pracownicy samorządowi są zatrudnieni:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_92/ust_1/pkt_1",
+         "text": "na podstawie stosunku pracy z wyboru — członkowie Zarządu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_92/ust_1/pkt_2",
+         "text": "na podstawie powołania — skarbnik województwa (główny księgowy budżetu województwa),",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_92/ust_1/pkt_3",
+         "text": "na podstawie umowy o pracę — pozostali pracownicy samorządowi.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_92/ust_2",
+       "text": "Podstawą do nawiązania stosunku pracy z wyboru z członkami Zarządu jest akt wyboru.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_92/ust_3",
+       "text": "Stosunek pracy z wyboru ustaje wraz z wygaśnięciem mandatu, z zastrzeżeniem postanowień § 72 ust. 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_92/ust_4",
+       "text": "Podstawą powołania lub odwołania skarbnika województwa jest odpowiednio akt powołania i odwołania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "93",
+     "path": "par_93",
+     "text": "Status prawny pracowników samorządowych określa ustawa z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. Nr 21, poz. 124 i Nr 43, poz. 253, z 1994 r. Nr 98, poz. 471, z 1997 r. Nr 9, poz. 43 i Nr 28, poz. 153, z 1998 r. Nr 162, poz. 1118 i 1126 oraz z 2000 r. Nr 12, poz. 136 i Nr 26, poz. 306).",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział X",
+     "text": "Mienie województwa"
+    },
+    {
+     "type": "par",
+     "num": "94",
+     "path": "par_94",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_94/ust_1",
+       "text": "Mieniem województwa jest własność i inne prawa majątkowe nabyte przez województwo lub inne wojewódzkie osoby prawne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_94/ust_2",
+       "text": "Wojewódzkimi osobami prawnymi, poza województwem, są samorządowe jednostki organizacyjne, którym ustawy przyznają wprost taki status, oraz te osoby prawne, które mogą być tworzone na podstawie odrębnych ustaw wyłącznie przez województwo.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_94/ust_3",
+       "text": "Województwo jest w stosunkach cywilnoprawnych podmiotem praw i obowiązków, które dotyczą mienia województwa, nie należącego do innych wojewódzkich osób prawnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "95",
+     "path": "par_95",
+     "text": "Nabycie i zbycie mienia województwa następuje na zasadach określonych w ustawach.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "96",
+     "path": "par_96",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_96/ust_1",
+       "text": "Prawa majątkowe województwa, nie należące do innych wojewódzkich osób prawnych, wykonuje Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_96/ust_2",
+       "text": "Kierownicy wojewódzkich samorządowych jednostek organizacyjnych, nie mających osobowości prawnej, działają jednoosobowo w sprawach majątkowych na podstawie pełnomocnictwa udzielonego przez Zarząd.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "97",
+     "path": "par_97",
+     "text": "Gospodarowanie mieniem województwa, w tym wykonywanie praw z akcji i udziałów posiadanych przez województwo, należy do zadań Zarządu, z zastrzeżeniem postanowień Statutu dotyczących wyłącznej kompetencji Sejmiku.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "98",
+     "path": "par_98",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_98/ust_1",
+       "text": "Oświadczenia woli, w imieniu województwa, składają łącznie Marszałek lub wiceprzewodniczący Zarządu i członek Zarządu na podstawie uchwały Zarządu, z zastrzeżeniem poniższych postanowień.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_98/ust_2",
+       "text": "Marszałek albo upoważniony pisemnie przez Marszałka inny członek Zarządu może składać jednoosobowo oświadczenia woli związane z prowadzeniem bieżącej działalności Urzędu Marszałkowskiego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_98/ust_3",
+       "text": "Zarząd może upoważnić pracowników Urzędu Marszałkowskiego do składania oświadczeń woli związanych z prowadzeniem bieżącej działalności województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_98/ust_4",
+       "text": "Czynność prawna, z której wynika zobowiązanie pieniężne, wymaga do jej skuteczności kontrasygnaty skarbnika województwa — głównego księgowego budżetu województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_98/ust_5",
+       "text": "Skarbnik województwa — główny księgowy budżetu województwa, który odmówi kontrasygnaty, dokonuje jej jednak na pisemne polecenie Marszałka, informując równocześnie o tym przewodniczącego Sejmiku oraz Regionalną Izbę Obrachunkową w Opolu, z zastrzeżeniem ust. 6.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_98/ust_6",
+       "text": "Skarbnikowi województwa — głównemu księgowemu budżetu województwa, w przypadku określonym w ust. 5, nie wolno dokonać kontrasygnaty, gdy wykonanie polecenia według jego przekonania stanowiłoby przestępstwo lub groziło niepowetowanymi stratami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_98/ust_7",
+       "text": "Osoby wymienione w ust. 1 mogą udzielić pełnomocnictwa do prowadzenia spraw województwa, co obejmuje również składanie oświadczeń woli w imieniu województwa, w ramach zastępstwa procesowego. Zasady i zakres działania pełnomocnika w takim wypadku określają odrębne przepisy i pełnomocnictwo.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "99",
+     "path": "par_99",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_99/ust_1",
+       "text": "Wojewódzkie osoby prawne samodzielnie decydują, w granicach ustaw, o sposobie wykonywania należących do nich praw majątkowych, z tym że nieodpłatne rozporządzenie mieniem oraz zbycie:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_99/ust_1/pkt_1",
+         "text": "nieruchomości służącej do powszechnego użytku lub bezpośredniego zaspokajania potrzeb publicznych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_99/ust_1/pkt_2",
+         "text": "przedmiotów posiadających szczególną wartość naukową, historyczną, kulturalną lub przyrodniczą",
+         "children": [
+          {
+           "type": "text",
+           "text": "— wymaga zgody Zarządu w formie uchwały."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_99/ust_2",
+       "text": "Zgody Zarządu wymaga także zmiana przeznaczenia składników mienia określonego w ust. 1 pkt 1 i 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_99/ust_3",
+       "text": "Uchwały Zarządu, o których mowa w ust. 1 i 2, podlegają nadzorowi, o którym mowa w ustawie o samorządzie województwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "100",
+     "path": "par_100",
+     "text": "Województwo nie ponosi odpowiedzialności za zobowiązania innych wojewódzkich osób prawnych, chyba że przepis szczególny stanowi inaczej. Inne wojewódzkie osoby prawne nie ponoszą odpowiedzialności za zobowiązania województwa.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział XI",
+     "text": "Finanse województwa"
+    },
+    {
+     "type": "par",
+     "num": "101",
+     "path": "par_101",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_101/ust_1",
+       "text": "Budżet województwa jest uchwalany w formie uchwały budżetowej na rok budżetowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_101/ust_2",
+       "text": "Rok budżetowy obejmuje rok kalendarzowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_101/ust_3",
+       "text": "Budżet województwa jest rocznym planem:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_101/ust_3/pkt_1",
+         "text": "dochodów i wydatków oraz przychodów i rozchodów województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_101/ust_3/pkt_2",
+         "text": "przychodów i wydatków:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_101/ust_3/pkt_2/lit_a",
+           "text": "zakładów budżetowych, gospodarstw pomocniczych jednostek budżetowych i środków specjalnych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_101/ust_3/pkt_2/lit_b",
+           "text": "funduszy celowych województwa.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_101/ust_4",
+       "text": "Uchwała budżetowa może określać, oprócz limitów wydatków na okres roku budżetowego, limity wydatków na wieloletnie programy inwestycyjne, ujmowane w wykazie stanowiącym załącznik do uchwały budżetowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_101/ust_5",
+       "text": "Uchwała budżetowa stanowi podstawę gospodarki finansowej województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_101/ust_6",
+       "text": "Zamieszczenie w budżecie województwa wydatków na określone cele nie stanowi podstawy zobowiązań wobec osób trzecich oraz roszczeń osób trzecich wobec województwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "102",
+     "path": "par_102",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_102/ust_1",
+       "text": "Dochody budżetu województwa określa ustawa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_102/ust_2",
+       "text": "Wydatki budżetu województwa są przeznaczone na realizację zadań określonych w ustawach, w szczególności na:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_102/ust_2/pkt_1",
+         "text": "zadania własne województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_102/ust_2/pkt_2",
+         "text": "zadania z zakresu administracji rządowej i inne zadania zlecone województwu ustawami,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_102/ust_2/pkt_3",
+         "text": "zadania przejęte przez województwo do realizacji w drodze umowy lub porozumienia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_102/ust_2/pkt_4",
+         "text": "zadania realizowane wspólnie z innymi jednostkami samorządu terytorialnego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_102/ust_2/pkt_5",
+         "text": "pomoc rzeczową lub finansową dla innych jednostek samorządu terytorialnego, określoną przez Sejmik.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "103",
+     "path": "par_103",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_103/ust_1",
+       "text": "Różnica między dochodami a wydatkami budżetu województwa stanowi odpowiednio nadwyżkę budżetu województwa lub deficyt budżetu województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_103/ust_2",
+       "text": "Deficyt budżetu województwa może być pokryty przychodami pochodzącymi:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_103/ust_2/pkt_1",
+         "text": "ze sprzedaży papierów wartościowych wyemitowanych przez województwo,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_103/ust_2/pkt_2",
+         "text": "z kredytów zaciąganych w bankach krajowych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_103/ust_2/pkt_3",
+         "text": "z pożyczek,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_103/ust_2/pkt_4",
+         "text": "z prywatyzacji majątku województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_103/ust_2/pkt_5",
+         "text": "z nadwyżki budżetu województwa z lat ubiegłych.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_103/ust_3",
+       "text": "Maksymalną wysokość deficytu województwa określa ustawa o finansach publicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "104",
+     "path": "par_104",
+     "text": "Na zasadach określonych w ustawie o finansach publicznych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_104/pkt_1",
+       "text": "w budżecie województwa mogą być tworzone rezerwy celowe i rezerwa ogólna,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_104/pkt_2",
+       "text": "z budżetu województwa mogą być udzielane dotacje przedmiotowe i podmiotowe z zachowaniem postanowień § 9 ust. 3 pkt 8.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "105",
+     "path": "par_105",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_105/ust_1",
+       "text": "Przygotowanie projektu uchwały budżetowej wraz z objaśnieniami, a także inicjatywa w sprawie zmian tej uchwały, należą do wyłącznej kompetencji Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_105/ust_2",
+       "text": "Zarząd opracowuje informację o stanie mienia komunalnego i przedkłada Sejmikowi wraz z projektem budżetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "106",
+     "path": "par_106",
+     "text": "Sejmik ustala, w drodze uchwały, tryb prac nad projektem uchwały budżetowej, określając w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_106/pkt_1",
+       "text": "terminy obowiązujące w toku prac nad projektem budżetu województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_106/pkt_2",
+       "text": "obowiązki wojewódzkich samorządowych jednostek organizacyjnych w toku prac nad projektem budżetu województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_106/pkt_3",
+       "text": "wymaganą szczegółowość projektu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_106/pkt_4",
+       "text": "materiały informacyjne, które Zarząd powinien przedstawić wraz z projektem uchwały budżetowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "107",
+     "path": "par_107",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_107/ust_1",
+       "text": "Sejmik uchwala budżet przed rozpoczęciem roku budżetowego, a w szczególnie uzasadnionych przypadkach — nie później niż do dnia 31 marca roku budżetowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_107/ust_2",
+       "text": "Do czasu uchwalenia budżetu, jednak nie później niż do dnia 31 marca roku budżetowego, podstawą gospodarki finansowej jest projekt budżetu przedstawiony przez Zarząd Sejmikowi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_107/ust_3",
+       "text": "Bez zgody Zarządu Sejmik nie może wprowadzić w projekcie budżetu województwa zmian powodujących zmniejszenie dochodów lub zwiększenie wydatków i jednocześnie zwiększenie deficytu budżetu województwa albo zmian powodujących zwiększenie przewidywanych dochodów bez jednoczesnego ustanowienia nowych źródeł dochodów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_107/ust_4",
+       "text": "W przypadku nieuchwalenia budżetu w terminie, o którym mowa w ust. 1, Regionalna Izba Obrachunkowa w Opolu, w terminie do dnia 30 kwietnia roku budżetowego, ustala budżet województwa w zakresie obowiązkowych zadań własnych oraz zadań zleconych. Do dnia ustalenia budżetu przez Regionalną Izbę Obrachunkową w Opolu podstawą gospodarki finansowej jest projekt uchwały, o którym mowa w ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_107/ust_5",
+       "text": "W przypadku gdy dochody i wydatki państwa określa ustawa o prowizorium budżetowym, Sejmik na wniosek Zarządu może uchwalić prowizorium budżetowe województwa na okres objęty prowizorium budżetowym państwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "108",
+     "path": "par_108",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_108/ust_1",
+       "text": "Za prawidłowe wykonanie budżetu województwa odpowiada Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_108/ust_2",
+       "text": "Zarząd sprawuje nadzór nad realizacją określonych uchwałą budżetową dochodów i wydatków budżetu województwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "109",
+     "path": "par_109",
+     "text": "Gospodarka środkami finansowymi znajdującymi się w dyspozycji samorządu województwa jest jawna. Wymóg jawności jest spełniany między innymi przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_109/pkt_1",
+       "text": "zachowanie jawności debaty budżetowej i debaty nad wykonaniem budżetu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_109/pkt_2",
+       "text": "opublikowanie uchwały budżetowej oraz sprawozdań z wykonania budżetu województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_109/pkt_3",
+       "text": "podawanie do publicznej wiadomości pełnego wykazu kwot dotacji udzielanych z budżetu województwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "110",
+     "path": "par_110",
+     "text": "Czynności prawnych, polegających na zaciąganiu kredytów i pożyczek oraz udzielaniu pożyczek, poręczeń i gwarancji oraz emisji papierów wartościowych, dokonują dwaj członkowie Zarządu, wskazani w uchwale Zarządu. Dla ważności tych czynności konieczna jest kontrasygnata skarbnika.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "111",
+     "path": "par_111",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_111/ust_1",
+       "text": "Bankową obsługę budżetu województwa wykonuje bank wybrany przez Sejmik w trybie określonym w przepisach o zamówieniach publicznych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_111/ust_2",
+       "text": "Zasady wykonywania obsługi bankowej określa umowa zawarta między Zarządem a bankiem.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_111/ust_3",
+       "text": "Sejmik może upoważnić Zarząd do lokowania wolnych środków budżetowych na rachunkach w innych bankach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_111/ust_4",
+       "text": "Zarząd może, w granicach upoważnień zawartych w uchwale budżetowej, zaciągać kredyty bankowe w wybranych przez siebie bankach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "112",
+     "path": "par_112",
+     "text": "Dyspozycja środkami pieniężnymi województwa jest oddzielona od jej kasowego wykonania.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "113",
+     "path": "par_113",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_113/ust_1",
+       "text": "Zarząd przedstawia Sejmikowi i Regionalnej Izbie Obrachunkowej w Opolu informację o przebiegu wykonania budżetu za I półrocze do 31 sierpnia każdego roku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_113/ust_2",
+       "text": "Zakres i formę informacji określa Sejmik.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_113/ust_3",
+       "text": "Opinię do informacji przedstawia Sejmikowi Komisja Budżetu, Finansów i Mienia Województwa do 30 września każdego roku, po zapoznaniu się z opiniami innych komisji stałych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "114",
+     "path": "par_114",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_114/ust_1",
+       "text": "Zarząd przedstawia Sejmikowi roczne sprawozdanie z wykonania budżetu do 31 marca następnego roku, w szczegółowości nie mniejszej niż w uchwale budżetowej. Sprawozdanie to Zarząd przesyła Regionalnej Izbie Obrachunkowej w Opolu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_114/ust_2",
+       "text": "Sejmik rozpatruje sprawozdanie roczne z wykonania budżetu do 30 kwietnia roku następnego i podejmuje uchwałę w sprawie udzielenia absolutorium Zarządowi, z zachowaniem postanowień Statutu dotyczących Komisji Rewizyjnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział XII",
+     "text": "Współpraca zagraniczna"
+    },
+    {
+     "type": "par",
+     "num": "115",
+     "path": "par_115",
+     "text": "Sejmik uchwala „Priorytety współpracy zagranicznej województwa”, określające:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_115/pkt_1",
+       "text": "główne cele współpracy zagranicznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_115/pkt_2",
+       "text": "priorytety geograficzne przyszłej współpracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_115/pkt_3",
+       "text": "zamierzenia co do przystępowania do międzynarodowych zrzeszeń regionalnych,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "116",
+     "path": "par_116",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_116/ust_1",
+       "text": "Współpraca województwa ze społecznościami regionalnymi innych państw prowadzona jest zgodnie z prawem wewnętrznym, polityką zagraniczną państwa i jego międzynarodowymi zobowiązaniami, w granicach zadań i kompetencji województwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_116/ust_2",
+       "text": "Województwo uczestniczy w działalności międzynarodowych instytucji i zrzeszeń regionalnych oraz jest w nich reprezentowane na zasadach określonych przez prawo.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "117",
+     "path": "par_117",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_117/ust_1",
+       "text": "Uchwały podejmowane w sprawach określonych w § 115 i 116, dla swej ważności, wymagają zgody ministra właściwego do spraw zagranicznych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_117/ust_2",
+       "text": "Uchwały, o których mowa w ust. 1, zapadają bezwzględną większością głosów ustawowego składu Sejmiku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_117/ust_3",
+       "text": "Uchwały oraz zawarte umowy o współpracy regionalnej przesyłane są do ministra właściwego do spraw zagranicznych oraz ministra właściwego do spraw administracji publicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział XIII",
+     "text": "Akty prawa miejscowego stanowionego przez Sejmik"
+    },
+    {
+     "type": "par",
+     "num": "118",
+     "path": "par_118",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_118/ust_1",
+       "text": "Na podstawie upoważnień udzielonych w ustawach Sejmik stanowi akty prawa miejscowego obowiązujące na obszarze województwa lub jego części, a w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_118/ust_1/pkt_1",
+         "text": "Statut Województwa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_118/ust_1/pkt_2",
+         "text": "zasady gospodarowania mieniem wojewódzkim,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_118/ust_1/pkt_3",
+         "text": "zasady i tryb korzystania z wojewódzkich obiektów i urządzeń użyteczności publicznej.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_118/ust_2",
+       "text": "Przewodniczący Sejmiku podpisuje akty prawa miejscowego, przyjęte przez Sejmik, niezwłocznie po ich uchwaleniu i kieruje do publikacji w „Dzienniku Urzędowym Województwa Opolskiego”, z tym że Statut Województwa i jego zmiany przewodniczący kieruje do publikacji również w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_118/ust_3",
+       "text": "Publikacji w „Dzienniku Urzędowym Województwa Opolskiego” podlega także uchwała budżetowa województwa oraz sprawozdanie z wykonania budżetu województwa, a także inne akty i dokumenty, których wymóg publikacji w tym dzienniku jest przewidziany prawem. Dokumenty te do publikacji kieruje Marszałek.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_118/ust_4",
+       "text": "Akty prawa miejscowego wchodzą w życie po upływie 14 dni od dnia ogłoszenia, chyba że ustawa lub akt prawa miejscowego stanowi inaczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział XIV",
+     "text": "Tytuły i odznaki"
+    },
+    {
+     "type": "par",
+     "num": "119",
+     "path": "par_119",
+     "text": "Sejmik województwa ma prawo nadawania tytułu „Honorowego Obywatela Województwa Opolskiego”. Taki tytuł może być nadawany za wybitne zasługi dla województwa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "120",
+     "path": "par_120",
+     "text": "Marszałek województwa nadaje indywidualne i zbiorowe odznaki „Zasłużonemu Opolszczyźnie”. Odznaki nadawane są osobom, które w istotny i wyróżniający się sposób przyczyniły się do rozwoju województwa, powiatu, gminy oraz jednostki, w której pracują lub działają.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "121",
+     "path": "par_121",
+     "text": "Zasady nadawania tytułu honorowego, o którym mowa w § 119, oraz odznak, o których mowa w § 120, określa Sejmik w odrębnej uchwale. Do uchwały załącza się wzory odznak ustanawianych w trybie określonym w odrębnych przepisach.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "122",
+     "path": "par_122",
+     "text": "Zarząd może ustanawiać i przyznawać tytuły, dyplomy branżowe oraz nagrody indywidualne i zbiorowe na podstawie ustalonych przez siebie regulaminów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "123",
+     "path": "par_123",
+     "text": "Przyznane odznaczenia i tytuły oraz nagrody podaje się do publicznej wiadomości.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział XV",
+     "text": "Przepis końcowy"
+    },
+    {
+     "type": "par",
+     "num": "124",
+     "path": "par_124",
+     "text": "Zmiany Statutu są uchwalane i ogłaszane w trybie przewidzianym dla uchwalenia i ogłoszenia Statutu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załączniki do Statutu Województwa Opolskiego Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 17 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ POWIATÓW WOJEWÓDZTWA OPOLSKIEGO"
+    },
+    {
+     "type": "text",
+     "text": "Powiat brzeski — z siedzibą władz w Brzegu"
+    },
+    {
+     "type": "text",
+     "text": "obejmujący:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "miasto: Brzeg",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "gminy: Brzeg Grodków Lewin Brzeski Lubsza Olszanka",
+     "children": [
+      {
+       "type": "text",
+       "text": "Powiat głubczycki — z siedzibą władz w Głubczycach"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Baborów Branice Głubczyce Kietrz"
+      },
+      {
+       "type": "text",
+       "text": "Powiat kędzierzyńsko-kozielski — z siedzibą władz w Kędzierzynie-Koźlu"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "miasto: Kędzierzyn-Koźle",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "gminy: Bierawa Cisek Pawłowiczki Polska Cerekiew Reńska Wieś",
+     "children": [
+      {
+       "type": "text",
+       "text": "Powiat kluczborski — z siedzibą władz w Kluczborku"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Byczyna Kluczbork Lasowice Wielkie Wołczyn"
+      },
+      {
+       "type": "text",
+       "text": "Powiat krapkowicki — z siedzibą władz w Krapkowicach"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Gogolin Krapkowice Strzeleczki Walce Zdzieszowice"
+      },
+      {
+       "type": "text",
+       "text": "Powiat namysłowski — z siedzibą władz w Namysłowie"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Domaszowice Namysłów Pokój Świerczów Wilków"
+      },
+      {
+       "type": "text",
+       "text": "Powiat nyski — z siedzibą władz w Nysie"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Głuchołazy Kamiennik Korfantów Łambinowice Nysa Otmuchów Paczków Pakosławice Skoroszyce"
+      },
+      {
+       "type": "text",
+       "text": "Powiat oleski — z siedzibą władz w Oleśnie"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Dobrodzień Gorzów Śląski Olesno Praszka Radłów Rudniki Zębowice"
+      },
+      {
+       "type": "text",
+       "text": "Powiat opolski — z siedzibą władz w Opolu"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Chrząstowice Dąbrowa Dobrzeń Wielki Komprachcice Łubniany Murów Niemodlin Ozimek Popielów Prószków Tarnów Opolski Tułowice Turawa"
+      },
+      {
+       "type": "text",
+       "text": "Powiat prudnicki — z siedzibą władz w Prudniku"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Biała Głogówek Lubrza Leśnica Prudnik Strzelce Opolskie Ujazd Powiat strzelecki — z siedzibą władz w Strzelcach Zawadzkie Opolskich"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący: * * *"
+      },
+      {
+       "type": "text",
+       "text": "gminy: Izbicko Miasto: Jemielnica Kolonowskie Opole — miasto na prawach powiatu."
+      },
+      {
+       "type": "text",
+       "text": "WYKAZ GMIN WOJEWÓDZTWA OPOLSKIEGO"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Baborów 37. Murów 2. Biała 38. Namysłów 3. Bierawa 39. Niemodlin 4. Branice 40. Nysa 5. Brzeg 41. Olesno 6. Brzeg m. 42. Olszanka 7. Byczyna 43. Opole m. 8. Chrząstowice 44. Otmuchów 9. Cisek 45. Ozimek 10. Dąbrowa 46. Paczków 11. Dobrodzień 47. Pakosławice 12. Dobrzeń Wielki 48. Pawłowiczki 13. Domaszowice 49. Pokój 14. Głogówek 50. Polska Cerekiew 15. Głubczyce 51. Popielów 16. Głuchołazy 52. Praszka 17. Gogolin 53. Prószków 18. Gorzów Śląski 54. Prudnik 19. Grodków 55. Radłów 20. Izbicko 56. Reńska Wieś 21. Jemielnica 22. Kamiennik 57. Rudniki 23. Kędzierzyn-Koźle m. 58. Skoroszyce 24. Kietrz 59. Strzelce Opolskie 25. Kluczbork 60. Strzeleczki 26. Kolonowskie 61. Świerczów 27. Komprachcice 62. Tarnów Opolski 28. Korfantów 63. Tułowice 29. Krapkowice 64. Turawa 30. Lasowice Wielkie 65. Ujazd 31. Leśnica 66. Walce 32. Lewin Brzeski 67. Wilków 33. Lubrza 68. Wołczyn 34. Lubsza 69. Zawadzkie 35. Łambinowice 70. Zdzieszowice 36. Łubniany 71. Zębowice",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

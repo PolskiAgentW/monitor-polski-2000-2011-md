@@ -1,0 +1,629 @@
+{
+ "eli": "MP/2005/1136",
+ "title": "Zarządzenie Nr 131 Prezesa Rady Ministrów z dnia 12 grudnia 2005 r. w sprawie nadania statutu Ministerstwu Finansów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/1136/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 131 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 grudnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Finansów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Finansów nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 136 Prezesa Rady Ministrów z dnia 28 grudnia 2004 r. w sprawie nadania statutu Ministerstwu Finansów (M. P. Nr 56, poz. 955).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: K. Marcinkiewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 131 Prezesa Rady Ministrów z dnia 12 grudnia 2005 r. (poz. 1136)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA FINANSÓW"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Finansów zapewnia obsługę Ministra Finansów właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 31 października 2005 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 220, poz. 1887), do spraw:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/pkt_1",
+       "text": "budżetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "finansów publicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/pkt_3",
+       "text": "instytucji finansowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa Finansów wchodzą następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Gabinet Polityczny Ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Departament Administracji Podatkowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Departament Budżetu Państwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Budżetu Resortu i Spraw Majątkowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Departament Ceł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Certyfikacji i Poświadczeń Środków z Unii Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "Departament do Spraw Dyscypliny Finansów Publicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Departament do Spraw Informatyzacji Resortu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Departament do Spraw Restrukturyzacji Finansów Publicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "Departament Finansowania Bezpieczeństwa Państwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/pkt_11",
+       "text": "Departament Finansowania Sfery Budżetowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/pkt_12",
+       "text": "Departament Finansów Gospodarki Narodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/pkt_13",
+       "text": "Departament Finansów Samorządu Terytorialnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/pkt_14",
+       "text": "Departament Gier Losowych i Zakładów Wzajemnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/pkt_15",
+       "text": "Departament Gwarancji i Poręczeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_2/pkt_16",
+       "text": "Departament Informacji Finansowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_2/pkt_17",
+       "text": "Departament Instytucji Finansowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_2/pkt_18",
+       "text": "Departament Instytucji Płatniczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_2/pkt_19",
+       "text": "Departament Integracji Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_2/pkt_20",
+       "text": "Departament Kontroli Celno-Akcyzowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_2/pkt_21",
+       "text": "Departament Kontroli Skarbowej I;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_2/pkt_22",
+       "text": "Departament Kontroli Skarbowej II;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_2/pkt_23",
+       "text": "Departament Koordynacji Kontroli Finansowej i Audytu Wewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "par_2/pkt_24",
+       "text": "Departament Należności i Zobowiązań Finansowych Państwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "par_2/pkt_25",
+       "text": "Departament Organizacji Służby Celnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "par_2/pkt_26",
+       "text": "Departament Podatków Bezpośrednich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "par_2/pkt_27",
+       "text": "Departament Podatków Lokalnych i Katastru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "28",
+       "path": "par_2/pkt_28",
+       "text": "Departament Podatków Pośrednich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "29",
+       "path": "par_2/pkt_29",
+       "text": "Departament Podatku Akcyzowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "30",
+       "path": "par_2/pkt_30",
+       "text": "Departament Polityki Finansowej, Analiz i Statystyki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "31",
+       "path": "par_2/pkt_31",
+       "text": "Departament Polityki Regionalnej i Rolnictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "32",
+       "path": "par_2/pkt_32",
+       "text": "Departament Polityki Zagranicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "33",
+       "path": "par_2/pkt_33",
+       "text": "Departament Prawny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "34",
+       "path": "par_2/pkt_34",
+       "text": "Departament Rachunkowości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "35",
+       "path": "par_2/pkt_35",
+       "text": "Departament Wymiany Informacji o VAT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "36",
+       "path": "par_2/pkt_36",
+       "text": "Biuro Administracyjno-Finansowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "37",
+       "path": "par_2/pkt_37",
+       "text": "Biuro Audytu Wewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "38",
+       "path": "par_2/pkt_38",
+       "text": "Biuro Kadr i Szkolenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "39",
+       "path": "par_2/pkt_39",
+       "text": "Biuro Komunikacji Społecznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "40",
+       "path": "par_2/pkt_40",
+       "text": "Biuro Kontroli Wewnętrznej i Ochrony Informacji Niejawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "41",
+       "path": "par_2/pkt_41",
+       "text": "Sekretariat Ministra.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra Finansów zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "w zakresie działu budżet:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_1/lit_a",
+         "text": "Departament Budżetu Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "Departament Finansowania Bezpieczeństwa Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/pkt_1/lit_c",
+         "text": "Departament Finansowania Sfery Budżetowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/pkt_1/lit_d",
+         "text": "Departament Finansów Gospodarki Narodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/pkt_1/lit_e",
+         "text": "Departament Finansów Samorządu Terytorialnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/pkt_1/lit_f",
+         "text": "Departament Gwarancji i Poręczeń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/pkt_1/lit_g",
+         "text": "Departament Należności i Zobowiązań Finansowych Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/pkt_1/lit_h",
+         "text": "Departament Polityki Finansowej, Analiz i Statystyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/pkt_1/lit_i",
+         "text": "Departament Polityki Regionalnej i Rolnictwa;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "w zakresie działu finanse publiczne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_2/lit_a",
+         "text": "Departament Administracji Podatkowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_2/lit_b",
+         "text": "Departament Ceł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/pkt_2/lit_c",
+         "text": "Departament Certyfikacji i Poświadczeń Środków z Unii Europejskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/pkt_2/lit_d",
+         "text": "Departament do Spraw Restrukturyzacji Finansów Publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/pkt_2/lit_e",
+         "text": "Departament Gier Losowych i Zakładów Wzajemnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/pkt_2/lit_f",
+         "text": "Departament Instytucji Płatniczej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/pkt_2/lit_g",
+         "text": "Departament Kontroli Celno-Akcyzowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/pkt_2/lit_h",
+         "text": "Departament Kontroli Skarbowej I,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/pkt_2/lit_i",
+         "text": "Departament Kontroli Skarbowej II,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/pkt_2/lit_j",
+         "text": "Departament Koordynacji Kontroli Finansowej i Audytu Wewnętrznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_3/pkt_2/lit_k",
+         "text": "Departament Organizacji Służby Celnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_3/pkt_2/lit_l",
+         "text": "Departament Podatków Bezpośrednich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_3/pkt_2/lit_m",
+         "text": "Departament Podatków Lokalnych i Katastru,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_3/pkt_2/lit_n",
+         "text": "Departament Podatków Pośrednich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "par_3/pkt_2/lit_o",
+         "text": "Departament Podatku Akcyzowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "p",
+         "path": "par_3/pkt_2/lit_p",
+         "text": "Departament Polityki Zagranicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "r",
+         "path": "par_3/pkt_2/lit_r",
+         "text": "Departament Wymiany Informacji o VAT;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "w zakresie działu instytucje finansowe:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_3/lit_a",
+         "text": "Departament Instytucji Finansowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_3/lit_b",
+         "text": "Departament Informacji Finansowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/pkt_3/lit_c",
+         "text": "Departament Rachunkowości.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister Finansów.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1414."
+ }
+}

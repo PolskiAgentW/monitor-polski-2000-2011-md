@@ -1,0 +1,79 @@
+{
+ "eli": "MP/2004/887",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 30 listopada 2004 r. o sprostowaniu błędu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/887/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 listopada 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "o sprostowaniu błędu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. Nr 62, poz. 718, z późn. zm.[^1]) w obwieszczeniu Ministra Sprawiedliwości z dnia 20 sierpnia 2004 r. w sprawie ogłoszenia wykazu zarejestrowanych kancelarii notarialnych (M.P. Nr 37, poz. 659):"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w pkt VII „Okręg Sądu Apelacyjnego w Poznaniu” lp. 159 powinna mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "„159 Matyja Małgorzata, Matyja Mirosław — s.c. Żary”",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w pkt VIII „Okręg Sądu Apelacyjnego w Rzeszowie” zamiast wyrazów:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "„Matyja Mirosław — s.c. Żary 1 Karaś Roman Brzozów”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "powinny być wyrazy:"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "„1 Karaś Roman Brzozów”",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 46, poz. 499, z 2002 r. Nr 74, poz. 676 i Nr 113, poz. 984, z 2003 r. Nr 65, poz. 595 oraz z 2004 r. Nr 96, poz. 959."
+ }
+}

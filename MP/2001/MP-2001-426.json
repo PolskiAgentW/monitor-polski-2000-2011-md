@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2001/426",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 26 lipca 2001 r. w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powołanych dla przeprowadzenia wyborów do Sejmu i do Senatu Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/426/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 lipca 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powołanych dla przeprowadzenia wyborów do Sejmu i do Senatu Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 1 pkt 5 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pieczęcie komisji wyborczych sporządzane są według następujących wzorów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pieczęcią okręgowej komisji wyborczej jest pieczęć okrągła o średnicy 35 mm, z napisem określającym nazwę i siedzibę komisji ustaloną w załączniku nr 1 do ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786), z zastrzeżeniem, że:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— pieczęcią Okręgowej Komisji Wyborczej w Warszawie, właściwej dla okręgu wyborczego nr 19 do Sejmu i okręgu wyborczego nr 18 do Senatu, jest pieczęć, o której mowa wyżej, z dodaniem po nazwie komisji cyfry „I”, — pieczęcią Okręgowej Komisji Wyborczej w Warszawie, właściwej dla okręgu wyborczego nr 20 do Sejmu i okręgu wyborczego nr 19 do Senatu, jest pieczęć, o której mowa wyżej, z dodaniem po nazwie komisji cyfry „II”,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pieczęcią obwodowej komisji wyborczej jest pieczęć okrągła o średnicy 25 mm, z napisem określającym nazwę i siedzibę komisji oraz numer obwodu głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 7 sierpnia 1995 r. w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych, stosowanych w wyborach do Sejmu oraz w wyborach do Senatu Rzeczypospolitej Polskiej (Monitor Polski Nr 42, poz. 492).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

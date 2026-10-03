@@ -1,0 +1,77 @@
+{
+ "eli": "MP/2010/637",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 21 czerwca 2010 r. w sprawie zarządzenia druku kart do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w ponownym głosowaniu w dniu 4 lipca 2010 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/637/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 czerwca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zarządzenia druku kart do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w ponownym głosowaniu w dniu 4 lipca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 1 pkt 3 w związku z art. 46, art. 47 i art. 70 ust. 1 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 72, poz. 467) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Zarządza się druk kart do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w ponownym głosowaniu w dniu 4 lipca 2010 r. — w brzmieniu załącznika do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Karty do głosowania drukuje się jednostronnie na papierze koloru białego, w formacie 148 x 210 mm (A5), w nakładzie odpowiadającym liczbie wyborców wpisanych do spisów wyborców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie uchwały powierza się Sekretarzowi Państwowej Komisji Wyborczej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 21 czerwca 2010 r. (poz. 637)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,321 @@
+{
+ "eli": "MP/2009/638",
+ "title": "Zarządzenie Nr 3 Prezesa Rady Ministrów z dnia 14 stycznia 2009 r. w sprawie Międzyresortowego Zespołu do Spraw Dwustronnych Umów o Popieraniu i Ochronie Inwestycji",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/638/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 3 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 stycznia 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Międzyresortowego Zespołu do spraw Dwustronnych Umów o Popieraniu i Ochronie Inwestycji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Międzyresortowy Zespół do spraw Dwustronnych Umów o Popieraniu i Ochronie Inwestycji, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W skład Zespołu wchodzą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przewodniczący — podsekretarz stanu w Ministerstwie Gospodarki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "członkowie wyznaczeni przez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "Ministra Gospodarki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "Ministra Skarbu Państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_2/lit_c",
+       "text": "Ministra Spraw Zagranicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_2/lit_d",
+       "text": "Ministra Finansów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_2/lit_e",
+       "text": "Sekretarza Komitetu Integracji Europejskiej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_2/pkt_2/lit_f",
+       "text": "Prezesa Prokuratorii Generalnej Skarbu Państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_2/pkt_2/lit_g",
+       "text": "Prezesa Rządowego Centrum Legislacji;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "sekretarz Zespołu, wyznaczony przez przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Zespół zajmuje się wydawaniem rekomendacji odnośnie do spraw dotyczących polityki traktatowej Rzeczypospolitej Polskiej w zakresie negocjowania nowych i modyfikacji istniejących dwustronnych umów o popieraniu i wzajemnej ochronie inwestycji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Zadaniem Zespołu jest w szczególności przedstawienie rekomendacji odnośnie do stanowiska Rady Ministrów wobec następujących zagadnień:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "zasadność utrzymywania w mocy umów o popieraniu i wzajemnej ochronie inwestycji wiążących Rzeczpospolitą Polską z państwami członkowskimi Unii Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "dostosowanie do prawa Unii Europejskiej umów o popieraniu i wzajemnej ochronie inwestycji wiążących Rzeczpospolitą Polską z państwami niebędącymi członkami Unii Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "zidentyfikowanie państw, z którymi Rzeczpospolita Polska powinna zawrzeć w przyszłości nowe umowy o popieraniu i wzajemnej ochronie inwestycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "wypracowanie modelowych rozwiązań kluczowych postanowień, jakie powinny być zawarte w negocjowanych umowach o popieraniu i wzajemnej ochronie inwestycji w celu dostosowania tych umów do aktualnych zobowiązań Rzeczypospolitej Polskiej i wyzwań gospodarczych z uwzględnieniem doświadczeń wynikających z dotychczasowych sporów powstałych w trakcie realizacji już zawartych takich umów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Wypracowane stanowisko zostanie przedstawione Komitetowi Europejskiemu Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przewodniczący:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "zwołuje posiedzenia Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "przewodniczy posiedzeniom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "wyznacza osobę prowadzącą posiedzenia Zespołu w przypadku swojej nieobecności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Szczegółowy tryb pracy Zespołu określa regulamin ustalony przez Zespół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przewodniczący po każdym posiedzeniu Zespołu informuje Komitet Europejski Rady Ministrów o przebiegu prac Zespołu i występujących problemach w realizacji zadań.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu realizacji zadań Zespołu przewodniczący może tworzyć grupy robocze, złożone z członków Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W pracach Zespołu lub jego grup roboczych mogą także brać udział osoby niebędące członkami Zespołu, zaproszone przez przewodniczącego, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "przedstawiciele innych ministerstw i instytucji, kompetentni w zakresie dziedzin omawianych w ramach prac Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "eksperci z dziedzin omawianych w ramach prac Zespołu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Organy administracji rządowej współpracują z Zespołem i udzielają pomocy w pracach Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Przewodniczący Zespołu może zwracać się do innych instytucji o udzielenie pomocy w pracach Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Posiedzenia Zespołu zwołuje przewodniczący z własnej inicjatywy lub na umotywowany wniosek członka Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Po zakończeniu każdego posiedzenia sporządza się protokół, który jest podpisywany przez przewodniczącego i sekretarza Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Obsługę Zespołu zapewnia Ministerstwo Gospodarki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104, z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600 oraz z 2008 r. Nr 227, poz. 1505."
+ }
+}

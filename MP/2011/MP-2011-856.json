@@ -1,0 +1,53 @@
+{
+ "eli": "MP/2011/856",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 31 sierpnia 2011 r. w sprawie maksymalnych stawek opłat produktowych na rok 2012",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/856/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 sierpnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie maksymalnych stawek opłat produktowych na rok 2012"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 3 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2007 r. Nr 90, poz. 607, z 2009 r. Nr 79, poz. 666 i Nr 215, poz. 1664 oraz z 2011 r. Nr 106, poz. 622), zwanej dalej „ustawą”, ogłasza się, że maksymalne stawki opłat produktowych na rok 2012 wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "d la opakowań wymienionych w załączniku nr 1 do ustawy — 4,45 zł za 1 kg;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "d la produktów wymienionych w poz. 1 w załączniku nr 3 do ustawy — 2,98 zł za 1 kg;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "d la produktów wymienionych w poz. 3 w załączniku nr 3 do ustawy — 2,98 zł za 1 kg dla opony nowej i używanej regenerowanej (bieżnikowanej) oraz 11,89 zł za 1 kg dla opony używanej nieregenerowanej (niebieżnikowanej).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: A. Kraszewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 216, poz. 1606)."
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "eli": "MP/2007/535",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 17 lipca 2007 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/535/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 lipca 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 2 sierpnia 2007 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: S. S. Skrzypek"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego zdnia 17 lipca 2007r. (poz. 535)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Średnica Wielkość Wartość Brzeg (bok) (w gra- (w milime- Stop emisji strona główna strona odwrotna mach) trach) (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części wizerunek or- Wizerunek Bazyliki Archi- Na boku ośmioła ustalony dla godła Rzeczypo- katedralnej pod wezwa- krotnie powtórzospolitej Polskiej. Z prawej strony niem św. Jana Chrzciciela ny napis: NBP, co napis: 2ZŁ. U góry półkolem na- w Przemyślu. U góry z le- drugi odwrócony pis: RZECZPOSPOLITA POLSKA wej strony półkolem na- o 180stopni, roz- 2 zł oraz oznaczenie roku emisji: 2007. pis: PRZEMYŚL. dzielony gwiazd- 8,15 27,0 CuAl5Zn5Sn1 1 100 000 Poniżej orła stylizowany fragment kami muru miejskiego z blankami oraz z bramą o rozwartych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 45 — 1330 — Poz. 535"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410."
+ }
+}

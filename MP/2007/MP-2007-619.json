@@ -1,0 +1,67 @@
+{
+ "eli": "MP/2007/619",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 22 sierpnia 2007 r. w sprawie maksymalnych stawek opłat produktowych na rok 2008",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/619/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 sierpnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie maksymalnych stawek opłat produktowych na rok 2008"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 3 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej (Dz. U. z 2007 r. Nr 90, poz. 607), zwanej dalej „ustawą”, ogłasza się, że maksymalne stawki opłat produktowych na rok 2008 wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dla opakowań wymienionych w załączniku nr 1 do ustawy — 4,10 zł za 1 kg;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dla produktów wymienionych w poz. 2 i 3 w załączniku nr 2 do ustawy — 68,32 zł za sztukę;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "dla produktów wymienionych w poz. 4 w załączniku nr 2 do ustawy — 6,83 zł za sztukę;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "dla produktów wymienionych w poz. 1 w załączniku nr 3 do ustawy — 2,74 zł za 1 kg;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "dla produktów wymienionych w poz. 3 w załączniku nr 3 do ustawy — 2,74 zł za 1 kg dla opony nowej i używanej regenerowanej (bieżnikowanej) oraz 10,93 zł za 1 kg dla opony używanej nieregenerowanej (niebieżnikowanej).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: J. Szyszko"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 131, poz. 922 oraz z 2007 r. Nr 38, poz. 246)."
+ }
+}

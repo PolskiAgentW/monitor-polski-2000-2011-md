@@ -1,0 +1,69 @@
+{
+ "eli": "MP/2002/337",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 6 maja 2002 r. w sprawie ustalenia wzorów, próby, masy i wielkości emisji monet nominalnej wartości 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/337/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 maja 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, próby, masy i wielkości emisji monet nominalnej wartości 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252 oraz z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, próbę, masę i wielkość emisji monet nominalnej wartości 10 zł i 200 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 27 maja 2002 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 6 maja 2002 r. (poz. 337)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 10 ZŁ I 200 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Masa Średnica Wielkość War- Cechy graficzne Brzeg Stop emisji tość (bok) (w gra- (w mili- (próba) (w sztumach) metrach) strona główna strona odwrotna kach)"
+    },
+    {
+     "type": "text",
+     "text": "Półpostać papieża Jana Paw- Postać papieża Jana ła II. Z lewej strony wizeru- Pawła II widoczna z tyłu nek orła ustalony dla godła na tle stylizowanej Bra- Rzeczypospolitej Polskiej. my Świętej Bazyliki św. W tle postać papieża Jana Piotra w Rzymie. U góry 10 zł Pawła II. U góry półkolem półkolem napis: PONTI- gładki 14,14 32,00 Ag 925/1000 80 000 napis: RZECZPOSPOLITA FEX MAXIMUS POLSKA 2002 * 10 ZŁ. U dołu półkolem napis: JAN PA- WEŁ II. Pod lewą łapą orła znak mennicy: MW Popiersie papieża Jana Paw- Postać papieża Jana ła II oraz faksymile jego pod- Pawła II widoczna z tyłu pisu. Z lewej strony wizeru- na tle stylizowanej Branek orła ustalony dla godła my Świętej Bazyliki św. Rzeczypospolitej Polskiej. Piotra w Rzymie. U góry 200 zł U góry półkolem napis: półkolem napis: PONTI- gładki 15,50 27,00 Au 900/1000 5 000 RZECZPOSPOLITA POLSKA FEX MAXIMUS 2002 * 200 ZŁ. U dołu półkolem napis: JAN PAWEŁ II. Pod lewą łapą orła znak mennicy: MW"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

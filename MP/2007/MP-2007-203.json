@@ -1,0 +1,55 @@
+{
+ "eli": "MP/2007/203",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 6 marca 2007 r. nr 110-17-2007 o zmianie postanowienia w sprawie odwołania Ambasadora Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/203/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 marca 2007 r. nr 110-17-2007"
+  },
+  {
+   "type": "text",
+   "text": "o zmianie postanowienia w sprawie odwołania Ambasadora Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 133 ust. 1 pkt 2 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. w związku z wnioskiem Ministra Spraw Zagranicznych postanawia się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 29 grudnia 2006 r. nr Z. 110-57-2006 w sprawie odwołania Ambasadora Rzeczypospolitej Polskiej otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Na podstawie art. 133 ust. 1 pkt 2 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. odwołuję Pana Michała RADLICKIEGO z dniem 30 czerwca 2007 r. ze stanowiska Ambasadora Nadzwyczajnego i Pełnomocnego Rzeczypospolitej Polskiej w Republice Malty oraz Republice San Marino.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem podpisania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: L. Kaczyński"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: J. Kaczyński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

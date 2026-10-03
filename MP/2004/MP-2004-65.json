@@ -1,0 +1,1425 @@
+{
+ "eli": "MP/2004/65",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 31 grudnia 2003 r. w sprawie wykonania przepisów ustawy o postępowaniu z substancjami zubożającymi warstwę ozonową",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/65/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 grudnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykonania przepisów ustawy o postępowaniu z substancjami zubożającymi warstwę ozonową"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 2 marca 2001 r. o postępowaniu z substancjami zubożającymi warstwę ozonową (Dz. U. Nr 52, poz. 537 i Nr 100, poz. 1085 oraz z 2003 r. Nr 56, poz. 497)[^2] ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "listę państw będących stronami Protokołu montrealskiego, stanowiącą załącznik nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "listę państw będących stronami Protokołu montrealskiego wraz z jego poprawkami, stanowiącą załącznik nr 2 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "listę państw będących stronami Protokołu montrealskiego i Poprawek londyńskich, uznanych za rozwijające się, które mają przyznany 10-letni okres opóźnienia w realizacji zaleceń Protokołu, stanowiącą załącznik nr 3 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "wykaz współczynnika ODP obowiązującego dla poszczególnych substancji kontrolowanych, stanowiący załącznik nr 4 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "obowiązujący harmonogram redukcji zużycia poszczególnych substancji kontrolowanych, stanowiący załącznik nr 5 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "dozwolony w roku 2004 poziom zużycia poszczególnych substancji kontrolowanych, stanowiący załącznik nr 6 do obwieszczenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Środowiska: w z. K. Szamałek"
+    },
+    {
+     "type": "text",
+     "text": "Załączniki do obwieszczenia Ministra Środowiska z dnia 31 grudnia 2003 r. (poz. 65)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "LISTA PAŃSTW BĘDĄCYCH STRONAMI PROTOKOŁU MONTREALSKIEGO (według stanu na dzień 8 października 2003 r.)"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Albania 28. Chile 57. Holandia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Algierska Republika Ludowo-De- 29. Chiny 58. Honduras mokratyczna 30. Chorwacja 3. Angola 59. Indie 31. Cypr 4. Antigua i Barbuda 32. Czad 60. Indonezja 5. Arabia Saudyjska 33. Czechy 61. Iran 6. Argentyna 34. Dania 62. Irlandia 7. Armenia 35. Dominika 63. Islandia 8. Australia 36. Dżibuti 9. Austria 64. Izrael 37. Egipt 10. Azerbejdżan 38. Ekwador 65. Jamajka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "Bahamy 39. Estonia 66. Japonia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "Bahrajn 40. Etiopia 67. Jemen 13. Bangladesz 41. Fidżi 68. Jordania 14. Barbados 42. Filipiny 69. Jugosławia 15. Belgia 43. Finlandia 16. Belize 44. Francja 70. Kamerun",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Benin 45. Gabon 71. Kambodża",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Białoruś 46. Gambia 72. Kanada 19. Boliwia 47. Ghana 73. Katar 20. Bośnia i Hercegowina 48. Grecja 49. Grenada 74. Kazachstan 21. Botswana 22. Brazylia 50. Gruzja 75. Kenia 23. Brunei 51. Gujana 76. Kiribati 24. Bułgaria 52. Gwatemala 77. Kolumbia 25. Burkina Faso 53. Gwinea 78. Komory 26. Burundi 54. Gwinea Bissau 55. Haiti 79. Kongo 27. Była Jugosłowiańska Republika Macedonii 56. Hiszpania 80. Kongo Demokratyczne",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "81",
+   "path": "ust_81",
+   "text": "Koreańska Republika Ludowo- 115. Niger 151. Sudan -Demokratyczna 116. Nigeria 152. Surinam 82. Kostaryka 117. Nikaragua 153. Syria 83. Kuba 118. Norwegia 154. Szwajcaria 84. Kuwejt 119. Nowa Zelandia 155. Szwecja 85. Kirgistan 120. Oman 156. Tajlandia 86. Laos 121. Pakistan 157. Tanzania 87. Liban 122. Palau 158. Tadżykistan 88. Lesotho 123. Panama 159. Togo 89. Liberia 124. Papua-Nowa Gwinea 160. Tonga 90. Libijska Arabska Dżamahirija 125. Paragwaj 161. Trynidad i Tobago Ludowo-Socjalistyczna 126. Peru 162. Tunezja 91. Liechtenstein 127. Polska 163. Turcja 92. Litwa 128. Portugalia 164. Turkmenistan 93. Luksemburg 129. Republika Dominikańska 165. Tuvalu 94. Łotwa 130. Republika Korei 166. Uganda 95. Madagaskar 131. Republika Południowej Afryki 167. Ukraina 96. Malawi 132. Republika Środkowoafrykań- 168. Unia Europejska 97. Malediwy ska 169. Urugwaj 98. Malezja 133. Rosja (Federacja Rosyjska) 170. Uzbekistan 99. Mali 134. Rumunia 171. Vanuatu 100. Malta 135. Rwanda 172. Węgry 101. Maroko 136. Salwador 137. Samoa Zachodnie 173. Wenezuela 102. Mauretania 138. Senegal 174. Wietnam 103. Mauritius 139. Sierra Leone 175. Włochy 104. Meksyk 140. Seszele 176. Wybrzeże Kości Słoniowej 105. Mikronezja 141. Singapur 177. Wyspy Marshalla 106. Mołdawia 142. Słowacja 178. Wyspy Salomona 107. Monako 143. Słowenia 179. Wyspy Świętego Tomasza 108. Mongolia i Książęca 109. Mozambik 144. Somalia 180. Zambia 110. Myanmar 145. Sri Lanka 181. Zielony Przylądek 111. Namibia 146. St. Kitts i Nevis 182. Zimbabwe 112. Nauru 147. St. Lucia 183. Zjednoczone Emiraty Arabskie 113. Nepal 148. St. Vincent i Grenadyny 184. Zjednoczone Królestwo Wiel- 114. Niemcy (Republika Federalna 149. Stany Zjednoczone (USA) kiej Brytanii i Irlandii Północ- Niemiec) 150. Suazi (Swaziland) nej",
+   "children": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 2"
+    },
+    {
+     "type": "text",
+     "text": "LISTA PAŃSTW BĘDĄCYCH STRONAMI PROTOKOŁU MONTREALSKIEGO WRAZ Z JEGO POPRAWKAMI (według stanu na dzień 8 października 2003 r.)"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1 Lista państw będących stronami Protokołu montrealskiego oraz Poprawek londyńskich"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Algierska Republika Ludowo- 2. Antigua i Barbuda 4. Argentyna",
+   "children": [
+    {
+     "type": "text",
+     "text": "-Demokratyczna 3. Arabia Saudyjska 5. Australia"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Austria 49. Gwinea Bissau 91. Maroko",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Azerbejdżan 50. Haiti 92. Mauritius",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Bahamy 51. Hiszpania 93. Meksyk",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Bahrajn 52. Holandia 94. Mikronezja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "Bangladesz 53. Honduras 95. Mołdawia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "Barbados 54. Indie 96. Monako",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "Belgia 55. Indonezja 97. Mongolia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "Belize 56. Iran 98. Mozambik",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "14",
+   "path": "ust_14",
+   "text": "Benin 57. Irlandia 99. Myanmar",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "15",
+   "path": "ust_15",
+   "text": "Białoruś 58. Islandia 100. Namibia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "16",
+   "path": "ust_16",
+   "text": "Boliwia 59. Izrael 101. Nepal",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Botswana 60. Jamajka 102. Niemcy (Republika Federalna 18. Bośnia i Hercegowina 61. Japonia Niemiec) 19. Brazylia 62. Jemen 103. Niger 20. Bułgaria 63. Jordania 104. Nigeria 21. Burkina Faso 64. Kamerun 105. Nikaragua 22. Burundi 65. Kanada 106. Norwegia 23. Była Jugosłowiańska Republika 66. Katar 107. Nowa Zelandia Macedonii 108. Oman 67. Kazachstan 24. Chile 109. Pakistan 68. Kenia 25. Chiny 110. Palau 69. Kirgistan 26. Chorwacja 111. Panama 70. Kolumbia 27. Cypr 112. Papua-Nowa Gwinea 71. Komory 28. Czad 113. Paragwaj 72. Kongo 29. Czechy 114. Peru 73. Kongo Demokratyczne 30. Dania 115. Polska 74. Koreańska Republika Ludowo- 31. Dominika -Demokratyczna 116. Portugalia 32. Dżibuti 75. Kostaryka 117. Republika Dominikańska 33. Egipt 76. Kuba 118. Republika Korei 34. Ekwador 77. Kuwejt 119. Republika Południowej Afryki 35. Estonia 78. Liban 120. Rosja (Federacja Rosyjska) 36. Fidżi 79. Liberia 121. Rumunia 37. Filipiny 80. Libijska Arabska Dżamahirija 122. Salwador 38. Finlandia Ludowo-Socjalistyczna 123. Samoa Zachodnie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "39",
+   "path": "ust_39",
+   "text": "Francja 81. Liechtenstein 124. Senegal",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "40",
+   "path": "ust_40",
+   "text": "Gabon 82. Litwa 125. Sierra Leone",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "41",
+   "path": "ust_41",
+   "text": "Gambia 83. Luksemburg 126. Singapur",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "42",
+   "path": "ust_42",
+   "text": "Ghana 84. Łotwa 127. Słowacja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "43",
+   "path": "ust_43",
+   "text": "Grecja 85. Madagaskar 128. Słowenia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "44",
+   "path": "ust_44",
+   "text": "Grenada 86. Malawi 129. Somalia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "45",
+   "path": "ust_45",
+   "text": "Gruzja 87. Malediwy 130. Sri Lanka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "46",
+   "path": "ust_46",
+   "text": "Gujana 88. Malezja 131. St. Kitts i Nevis",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "47",
+   "path": "ust_47",
+   "text": "Gwatemala 89. Mali 132. St. Lucia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "48",
+   "path": "ust_48",
+   "text": "Gwinea 90. Malta 133. St. Vincent i Grenadyny",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "134",
+   "path": "ust_134",
+   "text": "Stany Zjednoczone (USA) 146. Turcja 158. Włochy",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "135",
+   "path": "ust_135",
+   "text": "Sudan 147. Turkmenistan 159. Wybrzeże Kości Słoniowej",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "136",
+   "path": "ust_136",
+   "text": "Syria 148. Tuvalu 160. Wyspy Marshalla",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "137",
+   "path": "ust_137",
+   "text": "Seszele 149. Uganda 161. Wyspy Salomona 138. Szwajcaria 150. Ukraina 162. Wyspy Świętego Tomasza 139. Szwecja 151. Unia Europejska i Książęca",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "140",
+   "path": "ust_140",
+   "text": "Tajlandia 152. Urugwaj 163. Zambia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "141",
+   "path": "ust_141",
+   "text": "Tanzania 153. Uzbekistan 164. Zielony Przylądek 142. Tadżykistan 154. Vanuatu 165. Zimbabwe 143. Togo 155. Węgry 166. Zjednoczone Królestwo Wiel- 144. Trynidad i Tobago 156. Wenezuela kiej Brytanii i Irlandii Północ-",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "145",
+   "path": "ust_145",
+   "text": "Tunezja 157. Wietnam nej",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tabela 2 Lista państw będących stronami Protokołu montrealskiego, Poprawek londyńskich i Poprawek kopenhaskich"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Algierska Republika Ludowo- 25. Chorwacja 51. Indie -Demokratyczna 26. Cypr 52. Iran",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Antigua i Barbuda 27. Czad 53. Irlandia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Arabia Saudyjska 28. Czechy 54. Islandia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Argentyna 29. Dania 55. Izrael",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Australia 30. Dżibuti 56. Jamajka 31. Egipt 57. Japonia 6. Austria 32. Ekwador 58. Jemen 7. Azerbejdżan 33. Estonia 59. Jordania 8. Bahamy 60. Kamerun 34. Fidżi 9. Bahrajn 61. Kanada 35. Filipiny 10. Bangladesz 62. Katar 36. Finlandia 11. Barbados 63. Kenia 37. Francja 12. Belgia 64. Kirgistan 38. Gabon 13. Belize 65. Kolumbia 39. Ghana 14. Benin 66. Komory 40. Grecja 15. Bośnia i Hercegowina 67. Kongo 41. Grenada 16. Boliwia 68. Kongo Demokratyczne 42. Gruzja 17. Botswana 69. Koreańska Republika Ludowo- 43. Gujana -Demokratyczna 18. Brazylia 44. Gwinea Bissau 70. Kostaryka 19. Bułgaria 20. Burkina Faso 45. Gwatemala 71. Kuba 21. Burundi 46. Haiti 72. Kuwejt 22. Była Jugosłowiańska Republika 47. Hiszpania 73. Liban Macedonii 48. Holandia 74. Liberia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "23",
+   "path": "ust_23",
+   "text": "Chile 49. Honduras 75. Liechtenstein",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "24",
+   "path": "ust_24",
+   "text": "Chiny 50. Indonezja 76. Litwa",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "77",
+   "path": "ust_77",
+   "text": "Luksemburg 103. Papua-Nowa Gwinea 129. Szwecja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "78",
+   "path": "ust_78",
+   "text": "Łotwa 104. Paragwaj 130. Tajlandia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "79",
+   "path": "ust_79",
+   "text": "Madagaskar 105. Peru 131. Tanzania",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "80",
+   "path": "ust_80",
+   "text": "Malawi 106. Polska 132. Togo",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "81",
+   "path": "ust_81",
+   "text": "Malediwy 107. Portugalia 133. Trynidad i Tobago",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "82",
+   "path": "ust_82",
+   "text": "Mali 108. Republika Dominikańska 134. Tunezja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "83",
+   "path": "ust_83",
+   "text": "Malezja 109. Republika Korei 135. Turcja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "84",
+   "path": "ust_84",
+   "text": "Maroko 110. Republika Południowej Afryki 136. Tuvalu 85. Mauritius 111. Rumunia 137. Uganda 86. Meksyk 112. Salwador 138. Ukraina 87. Mikronezja 113. Samoa Zachodnie 139. Unia Europejska 88. Mołdawia 114. Senegal 140. Urugwaj 89. Monako 115. Sierra Leone 141. Uzbekistan 90. Mongolia 116. Seszele 142. Vanuatu 91. Mozambik 143. Węgry 117. Singapur 92. Namibia 144. Wenezuela 118. Słowacja 93. Niemcy (Republika Federalna 145. Wietnam Niemiec) 119. Słowenia 120. Somalia 146. Włochy 94. Niger 121. Sri Lanka 147. Wybrzeże Kości Słoniowej 95. Nigeria 122. St. Kitts i Nevis 148. Wyspy Marshalla 96. Nikaragua 123. St. Lucia 149. Wyspy Salomona 97. Norwegia 124. St. Vincent i Grenadyny 150. Wyspy Świętego Tomasza 98. Nowa Zelandia i Książęca 99. Oman 125. Stany Zjednoczone (USA) 151. Zielony Przylądek 100. Pakistan 126. Sudan 152. Zimbabwe 101. Palau 127. Syria 153. Zjednoczone Królestwo Wiel- 102. Panama 128. Szwajcaria kiej Brytanii i Irlandii Północnej",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tabela 3 Lista państw będących stronami Protokołu montrealskiego, Poprawek londyńskich, Poprawek kopenhaskich oraz Poprawek montrealskich"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Antigua i Barbuda 14. Była Jugosłowiańska Republika 26. Gabon 2. Argentyna Macedonii 27. Grenada",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Australia 15. Chile 28. Gruzja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Austria 16. Chorwacja 29. Gujana",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Azerbejdżan 17. Cypr 30. Gwatemala",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Bahrajn 18. Czad 31. Gwinea Bissau",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Bangladesz 19. Czechy 32. Haiti",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Barbados 20. Dania 33. Hiszpania",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Boliwia 21. Dżibuti 34. Holandia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "Bośnia i Hercegowina 22. Estonia 35. Indie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "Bułgaria 23. Egipt 36. Iran",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "Burkina Faso 24. Finlandia 37. Islandia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "Burundi 25. Francja 38. Izrael",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "39",
+   "path": "ust_39",
+   "text": "Japonia 61. Niemcy (Republika Federalna 85. St. Lucia 40. Jemen Niemiec) 86. Syria 41. Jordania 62. Niger 87. Szwajcaria 63. Nigeria 42. Kanada 88. Szwecja 64. Norwegia 43. Kenia 89. Tajlandia 65. Nowa Zelandia 44. Kirgistan 66. Palau 90. Tanzania 45. Kolumbia 67. Panama 91. Togo 46. Komory 68. Paragwaj 92. Trynidad i Tobago",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "47",
+   "path": "ust_47",
+   "text": "Kongo 69. Polska 93. Tunezja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "48",
+   "path": "ust_48",
+   "text": "Kuwejt 70. Portugalia 94. Tuvalu",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "49",
+   "path": "ust_49",
+   "text": "Koreańska Republika Ludowo- 71. Republika Korei 95. Uganda -Demokratyczna 72. Rumunia 96. Unia Europejska",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "50",
+   "path": "ust_50",
+   "text": "Liban 73. Salwador 97. Urugwaj 51. Luksemburg 74. Samoa Zachodnie 98. Wenezuela 52. Łotwa 75. Senegal 99. Węgry 53. Madagaskar 76. Seszele 100. Włochy 77. Sierra Leone 54. Mali 101. Wyspy Marshalla 78. Singapur 55. Malediwy 79. Słowacja 102. Wyspy Salomona 56. Malezja 80. Słowenia 103. Wyspy Świętego Tomasza 57. Mauritius i Książęca 81. Somalia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "58",
+   "path": "ust_58",
+   "text": "Mikronezja 82. Sri Lanka 104. Zielony Przylądek",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "59",
+   "path": "ust_59",
+   "text": "Monako 83. Stany Zjednoczone (USA) 105. Zjednoczone Królestwo Wiel- 60. Mongolia 84. St. Kitts i Nevis kiej Brytanii i Irlandii Północnej",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tabela 4 Lista państw będących stronami Protokołu montrealskiego, Poprawek londyńskich, Poprawek kopenhaskich, Poprawek montrealskich oraz Poprawek pekińskich"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Barbados 19. Kanada 36. Senegal",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Bułgaria 20. Komory 37. Seszele",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Burkina Faso 21. Kongo 38. Sierra Leone",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Burundi 22. Koreańska Republika Ludowo- 39. Słowacja 5. Chile -Demokratyczna 40. Słowenia 23. Luksemburg 6. Chorwacja 41. Somalia 24. Madagaskar 7. Czechy 42. Sri Lanka 25. Malediwy 8. Dania 43. St. Lucia 26. Malezja 9. Finlandia 44. Szwajcaria 27. Mauritius 10. Francja 45. Szwecja 28. Mikronezja 11. Gabon 46. Tanzania 29. Monako 12. Gwatemala 47. Togo 30. Niemcy (Republika Federalna 13. Gwinea Bissau Niemiec) 48. Unia Europejska",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "14",
+   "path": "ust_14",
+   "text": "Hiszpania 31. Norwegia 49. Urugwaj",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "15",
+   "path": "ust_15",
+   "text": "Holandia 32. Nowa Zelandia 50. Węgry 16. Indie 33. Palau 51. Zielony Przylądek 17. Japonia 34. Panama 52. Zjednoczone Królestwo Wiel- 18. Jordania 35. Samoa Zachodnie kiej Brytanii i Irlandii Północnej",
+   "children": []
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "LISTA PAŃSTW BĘDĄCYCH STRONAMI PROTOKOŁU MONTREALSKIEGO I POPRAWEK LONDYŃSKICH, UZNANYCH ZA ROZWIJAJĄCE SIĘ, KTÓRE MAJĄ PRZYZNANY 10-LETNI OKRES OPÓŹNIENIA W REALIZACJI ZALECEŃ PROTOKOŁU (według stanu na dzień 8 października 2003 r.)"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Albania 32. Filipiny 63. Kuba",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Algierska Republika Ludowo-De- 33. Gabon 64. Kuwejt mokratyczna 34. Gambia 65. Laos 3. Angola 35. Ghana 66. Lesotho 4. Antigua i Barbuda 36. Grenada 67. Liban 5. Arabia Saudyjska 37. Gruzja 68. Liberia 6. Argentyna 38. Gujana 69. Libijska Arabska Dżamahirija 7. Armenia Ludowo-Socjalistyczna 39. Gwatemala 8. Bahamy 70. Madagaskar 40. Gwinea 9. Bahrajn 71. Malawi 41. Gwinea Bissau 10. Bangladesz 72. Malediwy 42. Haiti 11. Barbados 73. Malezja 43. Honduras 12. Belize 74. Mali 44. Indie 13. Benin 75. Malta 45. Indonezja 14. Boliwia 76. Maroko 46. Iran 15. Bośnia i Hercegowina 77. Mauretania 47. Jamajka 16. Botswana 78. Mauritius 48. Jemen 17. Brazylia 79. Meksyk 49. Jordania 18. Brunei 80. Mikronezja 50. Jugosławia 19. Burkina Faso 81. Mołdawia 51. Kambodża 20. Burundi 82. Mongolia 52. Kamerun 21. Chile 83. Mozambik 53. Katar 22. Chiny 84. Myanmar 54. Kenia 23. Chorwacja 85. Namibia 55. Kirgistan 24. Cypr 86. Nauru 56. Kiribati 25. Czad 87. Nepal 57. Kolumbia 26. Dominika 88. Niger 58. Komory 27. Dżibuti 89. Nigeria 59. Kongo 28. Egipt 90. Nikaragua 60. Kongo Demokratyczne 29. Ekwador 91. Oman 61. Koreańska Republika Ludowo- 30. Etiopia -Demokratyczna 92. Pakistan",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Fidżi 62. Kostaryka 93. Palau",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "94",
+     "path": "ust_94",
+     "text": "Panama 110. Somalia 126. Turcja",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "95",
+     "path": "ust_95",
+     "text": "Papua-Nowa Gwinea 111. Surinam 127. Tuvalu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "96",
+     "path": "ust_96",
+     "text": "Paragwaj 112. Sri Lanka 128. Uganda",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "97",
+     "path": "ust_97",
+     "text": "Peru 113. St. Kitts i Nevis 129. Urugwaj",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "98",
+     "path": "ust_98",
+     "text": "Republika Dominikańska 114. St. Lucia 130. Vanuatu 99. Republika Korei 115. St. Vincent i Grenadyny 131. Wenezuela 100. Republika Południowej Afryki 116. Suazi (Swaziland) 132. Wietnam 101. Republika Środkowoafrykań- 117. Sudan ska 133. Wybrzeże Kości Słoniowej 102. Rumunia 118. Surinam 134. Wyspy Marshalla",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "103",
+     "path": "ust_103",
+     "text": "Rwanda 119. Syria 135. Wyspy Salomona",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "104",
+     "path": "ust_104",
+     "text": "Salwador 120. Tajlandia 136. Wyspy Świętego Tomasza 105. Samoa Zachodnie 121. Tanzania i Książęca",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "106",
+     "path": "ust_106",
+     "text": "Senegal 122. Togo 137. Zambia",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "107",
+     "path": "ust_107",
+     "text": "Sierra Leone 123. Tonga 138. Zielony Przylądek",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "108",
+     "path": "ust_108",
+     "text": "Seszele 124. Trynidad i Tobago 139. Zimbabwe",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "109",
+     "path": "ust_109",
+     "text": "Singapur 125. Tunezja 140. Zjednoczone Emiraty Arabskie",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ WSPÓŁCZYNNIKA ODP OBOWIĄZUJĄCEGO DLA POSZCZEGÓLNYCH SUBSTANCJI KONTROLOWANYCH"
+    },
+    {
+     "type": "text",
+     "text": "ANEKS A do Protokołu montrealskiego"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA SUBSTANCJA POTENCJAŁ NISZCZENIA OZONU"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA I"
+    },
+    {
+     "type": "text",
+     "text": "CFCl₃ CFC-11 1,0"
+    },
+    {
+     "type": "text",
+     "text": "CF₂Cl₂ CFC-12 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₂F₃Cl₃ CFC-113 0,8"
+    },
+    {
+     "type": "text",
+     "text": "C₂F₄Cl₂ CFC-114 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₂F₅Cl CFC-115 0,6"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA II"
+    },
+    {
+     "type": "text",
+     "text": "CF₂BrCl Halon-1211 3,0"
+    },
+    {
+     "type": "text",
+     "text": "CF₃Br Halon-1301 10,0"
+    },
+    {
+     "type": "text",
+     "text": "C₂F₄Br₂ Halon-2402 6,0"
+    },
+    {
+     "type": "text",
+     "text": "ANEKS B do Protokołu montrealskiego"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA SUBSTANCJA POTENCJAŁ NISZCZENIA OZONU"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA I"
+    },
+    {
+     "type": "text",
+     "text": "CF₃Cl CFC-13 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₂FCl₅ CFC-111 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₂F₂Cl₄ CFC-112 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃FCl₇ CFC-211 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃F₂Cl₆ CFC-212 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃F₃Cl₅ CFC-213 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃F₄Cl₄ CFC-214 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃F₅Cl₃ CFC-215 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃F₆Cl₂ CFC-216 1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃F₇Cl CFC-217 1,0"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA II"
+    },
+    {
+     "type": "text",
+     "text": "CCl Tetrachlorek węgla 1,1 ⁴ (czterochlorek węgla)"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA III"
+    },
+    {
+     "type": "text",
+     "text": "C H Cl 1,1,1-trichloroetan 0,1 ²³³ (metylochloroform) ANEKS C do Protokołu montrealskiego"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA SUBSTANCJA LICZBA IZOMERÓW POTENCJAŁ NISZCZENIA OZONU +"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA I"
+    },
+    {
+     "type": "text",
+     "text": "CHFCl₂ (HCFC-21) ++ 1 0,04 CHF₂Cl (HCFC-22) ++ 1 0,055 CH₂FCl (HCFC-31) 1 0,02"
+    },
+    {
+     "type": "text",
+     "text": "C₂HFCl₄ (HCFC-121) 2 0,01—0,04"
+    },
+    {
+     "type": "text",
+     "text": "C₂HF₂Cl₃ (HCFC-122) 3 0,02—0,08"
+    },
+    {
+     "type": "text",
+     "text": "C₂HF₃Cl₂ (HCFC-123) 3 0,02—0,06"
+    },
+    {
+     "type": "text",
+     "text": "CHCl CF (HCFC-123) — 0,02 2 3 ++ C₂HF₄Cl (HCFC-124) 2 0,02—0,04"
+    },
+    {
+     "type": "text",
+     "text": "CHFClCF₃ (HCFC-124) ++ — 0,022 C₂H₂FCl₃ (HCFC-131) 3 0,007—0,05"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₂F₂Cl₂ (HCFC-132) 4 0,008—0,05"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₂F₃Cl (HCFC-133) 3 0,02—0,06"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₃FCl₂ (HCFC-141) 3 0,005—0,07"
+    },
+    {
+     "type": "text",
+     "text": "CH CFCl (HCFC-141b) — 0,11 3 2 ++ C₂H₃F₂Cl (HCFC-142) 3 0,008—0,07"
+    },
+    {
+     "type": "text",
+     "text": "CH CF Cl (HCFC-142b) — 0,065 3 2 ++ C₂H₄FCl (HCFC-151) 2 0,003—0,005"
+    },
+    {
+     "type": "text",
+     "text": "C₃HFCl₆ (HCFC-221) 5 0,015—0,07"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₂Cl₅ (HCFC-222) 9 0,01—0,09"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₃Cl₄ (HCFC-223) 12 0,01—0,08"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₄Cl₃ (HCFC-224) 12 0,01—0,09"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₅Cl₂ (HCFC-225) 9 0,02—0,07"
+    },
+    {
+     "type": "text",
+     "text": "CF CF CHCl (HCFC-225ca) — 0,025 3 2 2 ++ CF ClCF CHClF (HCFC-225cb) — 0,033 C₃HF₆Cl (HCFC-226) 5 0,02—0,10"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂FCl₅ (HCFC-231) 9 0,05—0,09"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₂Cl₄ (HCFC-232) 16 0,008—0,010"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₃Cl₃ (HCFC-233) 18 0,007—0,23"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₄Cl₂ (HCFC-234) 16 0,01—0,28"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₅Cl (HCFC-235) 9 0,03—0,52"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃FCl₄ (HCFC-241) 12 0,004—0,09"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃F₂Cl₃ (HCFC-242) 18 0,005—0,13"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃F₃Cl₂ (HCFC-243) 18 0,007—0,12"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃F₄Cl (HCFC-244) 12 0,009—0,14"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₄FCl₃ (HCFC-251) 12 0,001—0,01"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₄F₂Cl₂ (HCFC-252) 16 0,005—0,04"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₄F₃Cl (HCFC-253) 12 0,003—0,03"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₅FCl₂ (HCFC-261) 9 0,002—0,02"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₅F₂Cl (HCFC-262) 9 0,002—0,02"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₆FCl (HCFC-271) 5 0,001—0,03 ANEKS C do Protokołu montrealskiego"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA SUBSTANCJA LICZBA IZOMERÓW POTENCJAŁ NISZCZENIA OZONU +"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA II"
+    },
+    {
+     "type": "text",
+     "text": "CHFBr₂ 1 1,00"
+    },
+    {
+     "type": "text",
+     "text": "CHF₂Br HBFC-22B1 1 0,74"
+    },
+    {
+     "type": "text",
+     "text": "CH₂FBr 1 0,73"
+    },
+    {
+     "type": "text",
+     "text": "C₂HFBr₄ 2 0,3—0,8"
+    },
+    {
+     "type": "text",
+     "text": "C₂HF₂Br₃ 3 0,5—1,8"
+    },
+    {
+     "type": "text",
+     "text": "C₂HF₃Br₂ 3 0,4—1,6"
+    },
+    {
+     "type": "text",
+     "text": "C₂HF₄Br 2 0,7—1,2"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₂FBr₃ 3 0,1—1,1"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₂F₂Br₂ 4 0,2—1,5"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₂F₃Br 3 0,7—1,6"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₃FBr₂ 3 0,1—1,7"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₃F₂Br 3 0,2—1,1"
+    },
+    {
+     "type": "text",
+     "text": "C₂H₄FBr 2 0,07—0,1"
+    },
+    {
+     "type": "text",
+     "text": "C₃HFBr₆ 5 0,3—1,5"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₂Br₅ 9 0,2—1,9"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₃Br₄ 12 0,3—1,8"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₄Br₃ 12 0,5—2,2"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₅Br₂ 9 0,9—2,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃HF₆Br 5 0,7—3,3"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂FBr₅ 9 0,1—1,9"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₂Br₄ 16 0,2—2,1"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₃Br₃ 18 0,2—5,6"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₄Br₂ 16 0,3—7,5"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₂F₅Br 8 0,9—1,4"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃FBr₄ 12 0,08—1,9"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃F₂Br₃ 18 0,1—3,1"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃F₃Br₂ 18 0,1—2,5"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₃F₄Br 12 0,3—4,4"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₄FBr₃ 12 0,03—0,3"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₄F₂Br₂ 16 0,1—1,0"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₄F₃Br 12 0,07—0,8"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₅FBr₂ 9 0,04—0,4"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₅F₂Br 9 0,07—0,8"
+    },
+    {
+     "type": "text",
+     "text": "C₃H₆FBr 5 0,2—0,7 ANEKS D do Protokołu montrealskiego"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA SUBSTANCJA POTENCJAŁ NISZCZENIA OZONU"
+    },
+    {
+     "type": "text",
+     "text": "GRUPA I"
+    },
+    {
+     "type": "text",
+     "text": "CH₃Br Bromometan (bromek metylu) 0,6"
+    },
+    {
+     "type": "text",
+     "text": "* + Jeżeli podany jest zakres ODP, to: i) dla celów Protokołu powinna być brana pod uwagę wartość najwyższa, ii) oznacza, że wartości graniczne są oparte na szacunkach i są mniej pewne, iii) dotyczy grupy izomerów, iv) wyższa wartość ODP dotyczy izomeru z najwyższą wartością ODP, niższa wartość ODP dotyczy izomeru z najniższą wartością ODP. Jeżeli podana jest jedna wartość ODP, oznacza to, że została obliczona na podstawie pomiarów laboratoryjnych. ++ Dotyczy najczęściej spotykanych w handlu substancji kontrolowanych."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 5"
+    },
+    {
+     "type": "text",
+     "text": "OBOWIĄZUJĄCY HARMONOGRAM REDUKCJI ZUŻYCIA POSZCZEGÓLNYCH SUBSTANCJI KONTROLOWANYCH"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dla substancji z Aneksu A Protokołu montrealskiego",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa I"
+      },
+      {
+       "type": "text",
+       "text": "Substancje: CFC(R) * -11, CFC-12, CFC-113, CFC-114, CFC-115"
+      },
+      {
+       "type": "text",
+       "text": "Zakaz produkcji i zużycia od początku 1996 r., z wyjątkami określonymi w ustawie."
+      },
+      {
+       "type": "text",
+       "text": "Grupa II"
+      },
+      {
+       "type": "text",
+       "text": "Substancje: Halon-1211, Halon-1301, Halon-2402"
+      },
+      {
+       "type": "text",
+       "text": "Zakaz produkcji i zużycia od początku 1994 r., z wyjątkami określonymi w ustawie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Dla substancji z Aneksu B Protokołu montrealskiego",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa I"
+      },
+      {
+       "type": "text",
+       "text": "Substancje: CFCs(R) * -13, CFC-111, CFC-112, CFC-211, CFC-212, CFC-213, CFC-214, CFC-215, CFC-216, CFC-217"
+      },
+      {
+       "type": "text",
+       "text": "Zakaz produkcji i zużycia od początku 1996 r., z wyjątkami określonymi w ustawie."
+      },
+      {
+       "type": "text",
+       "text": "Grupa II"
+      },
+      {
+       "type": "text",
+       "text": "Substancja: tetrachlorek węgla (czterochlorek węgla)"
+      },
+      {
+       "type": "text",
+       "text": "Zakaz produkcji i zużycia od początku 1996 r., z wyjątkami określonymi w ustawie."
+      },
+      {
+       "type": "text",
+       "text": "Grupa III"
+      },
+      {
+       "type": "text",
+       "text": "Substancja: 1,1,1-trichloroetan (metylochloroform)"
+      },
+      {
+       "type": "text",
+       "text": "Zakaz produkcji i zużycia od początku 1996 r., z wyjątkami określonymi w ustawie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Dla substancji z Aneksu C Protokołu montrealskiego",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa I Substancje: HCFC(R) * -21, HCFC-22, HCFC-31, HCFC-121, HCFC-122, HCFC-123, HCFC-123 ** , HCFC-124, HCFC-124 ** , HCFC-131, HCFC-132, HCFC-133, HCFC-141, HCFC-141b, HCFC-142, HCFC-142b, HCFC-151, HCFC-221, HCFC-222, HCFC-223, HCFC-224, HCFC-225, HCFC-225ca, HCFC-225cb, HCFC-226, HCFC-231, HCFC-232, HCFC-233, HCFC-234, HCFC-235, HCFC-241, HCFC-242, HCFC-243, HCFC-244, HCFC-251, HCFC-252, HCFC-253, HCFC-261, HCFC-262, HCFC-271."
+      },
+      {
+       "type": "text",
+       "text": "Zużycie substancji HCFCs od początku 1996 r. w okresach rocznych nie może przekroczyć sumy wielkości zużycia tych substancji w 1989 r. oraz 2,8 % wielkości zużycia substancji: CFCs-11, CFC-12, CFC-113, CFC-114, CFC-115 w 1989 r."
+      },
+      {
+       "type": "text",
+       "text": "Obliczony, przy powyższym założeniu, poziom odniesienia do redukcji substancji HCFCs w Polsce wynosi 194,6 tony ODP."
+      },
+      {
+       "type": "text",
+       "text": "W roku 2004 obowiązuje 35 % redukcji zużycia substancji HCFCs w stosunku do poziomu odniesienia. Substancje HCFCs mogą być obecnie stosowane tylko w następujących przypadkach:"
+      },
+      {
+       "type": "text",
+       "text": "— kiedy inne, bardziej odpowiednie dla środowiska substancje alternatywne lub technologie nie są dostępne,"
+      },
+      {
+       "type": "text",
+       "text": "— tylko w zamian za substancje CFCs, halony, tetrachlorek węgla i 1,1,1-trichloroetan, z wyjątkiem rzadkich przypadków ochrony ludzkiego zdrowia i życia,"
+      },
+      {
+       "type": "text",
+       "text": "— minimalizując zubożenie warstwy ozonowej i spełniając inne wymogi ekologiczne oraz dotyczące bezpieczeństwa i warunków technicznych."
+      },
+      {
+       "type": "text",
+       "text": "Grupa II"
+      },
+      {
+       "type": "text",
+       "text": "Substancje HBFCs * Zakaz produkcji i zużycia od początku 1996 r., z wyjątkami określonymi w ustawie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Dla substancji z Aneksu E Protokołu montrealskiego",
+     "children": [
+      {
+       "type": "text",
+       "text": "Substancja: Bromometan (bromek metylu):"
+      },
+      {
+       "type": "text",
+       "text": "Wielkość zużycia bromometanu redukowana jest w odniesieniu do wielkości jego zużycia w 1991 r. W Polsce w 1991 r. zużycie bromometanu wynosiło 120 ton ODP."
+      },
+      {
+       "type": "text",
+       "text": "W roku 2004 obowiązuje 70 % redukcji w stosunku do poziomu odniesienia. Redukcji nie podlega jednak bromometan stosowany w zabiegach kwarantannowych i przedwysyłkowych."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 6"
+      },
+      {
+       "type": "text",
+       "text": "DOZWOLONY W ROKU 2004 POZIOM ZUŻYCIA POSZCZEGÓLNYCH SUBSTANCJI KONTROLOWANYCH"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dla substancji kontrolowanych określonych w załącznikach nr 1, 2 i 4 do ustawy z dnia 2 marca 2001 r. o postępowaniu z substancjami zubożającymi warstwę ozonową, zwanej dalej „ustawą”",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "Substancje kontrolowane, określone w załącznikach nr 1, 2 i 4 do ustawy, zgodnie z art. 14 ust. 2 ustawy, mogą być przywożone z zagranicy do zastosowania jako substancje nieodzownego zużycia, w ilościach, które określają decyzje Stron Protokołu montrealskiego, po uzyskaniu pozwolenia ministra właściwego do spraw gospodarki.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "Substancje kontrolowane, określone w załącznikach nr 1, 2 i 4 do ustawy, mogą być przywożone z zagranicy do zastosowań wymienionych w art. 14 ust. 3 ustawy, po uzyskaniu pozwolenia ministra właściwego do spraw gospodarki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Dla substancji kontrolowanych określonych w załączniku nr 3 do ustawy",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "Substancje kontrolowane, określone w załączniku nr 3 do ustawy, mogą być przywożone z zagranicy do zastosowań wymienionych w art. 13 ust. 2 ustawy, po uzyskaniu pozwolenia ministra właściwego do spraw gospodarki.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "Oprócz zastosowań wymienionych w art. 13 ust. 2 ustawy, substancje kontrolowane, określone w załączniku nr 3 do ustawy, mogą być przywożone z zagranicy lub wywożone za granicę na podstawie pozwoleń wydawanych przez ministra właściwego do spraw gospodarki, w odniesieniu do obowiązującego poziomu zużycia w danym roku.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poziom zużycia substancji HCFCs dla Polski w roku 2004 wynosi 126,5 tony ODP. *"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Dla substancji kontrolowanych określonych w załączniku nr 5 do ustawy",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "Substancje kontrolowane, określone w załączniku nr 5 do ustawy, mogą być przywożone z zagranicy do zastosowań wymienionych w art. 13 ust. 2 ustawy, po uzyskaniu pozwolenia ministra właściwego do spraw gospodarki.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "Oprócz zastosowań wymienionych w art. 13 ust. 2 ustawy, substancje kontrolowane, określone w załączniku nr 5 do ustawy, mogą być przywożone z zagranicy lub wywożone za granicę na podstawie pozwoleń wydawanych przez ministra właściwego do spraw gospodarki, w odniesieniu do obowiązującego poziomu zużycia w danym roku.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poziom zużycia bromometanu dla Polski w roku 2004 wynosi 36 ton ODP.*"
+        },
+        {
+         "type": "text",
+         "text": "Bromometan do zastosowań kwarantannowych i przedwysyłkowych nie wchodzi w zakres powyższego poziomu."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 85, poz. 766).",
+  "2": "W związku z przystąpieniem Polski do Unii Europejskiej, ustawa ta będzie obowiązywać do dnia 30 kwietnia 2004 r. Od dnia 1 maja 2004 r. będzie obowiązywać bezpośrednio rozporządzenie nr 2037/2000 Parlamentu Europejskiego i Rady z dnia 29 czerwca 2000 r. w sprawie substancji zubożających warstwę ozonową oraz odpowiednio dostosowane regulacje krajowe. 2 2 ++ ** CFCs — skrót od chlorofluorocarbons HCFCs — skrót od hydrochlorofluorocarbons HBFCs — skrót od hydrobromofluorocarbons R — oznakowanie wg PN-90/M-04611 ** oznacza izomery — patrz załącznik nr 4 do obwieszczenia * W okresie od dnia 1 stycznia 2004 r. do dnia 30 kwietnia 2004 r. poziom zużycia wynosi 1/3. Od dnia 1 maja 2004 r. obowiązywać będzie limit zużycia określony na podstawie rozporządzenia Rady nr 2037/2000."
+ }
+}

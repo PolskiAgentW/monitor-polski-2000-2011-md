@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2008/697",
+ "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 6 października 2008 r. o wolnym stanowisku komornika sądowego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/697/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 października 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "o wolnym stanowisku komornika sądowego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2006 r. Nr 167, poz. 1191, z późn. zm.[^1]) obwieszcza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Do obsadzenia pozostają:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "stanowisko komornika sądowego w rewirze przy Sądzie Rejonowym w Gorzowie Wielkopolskim po odwołanym komorniku Dariuszu Sebastianie Matoszko prowadzącym kancelarię w Gorzowie Wielkopolskim przy ul. Wełniany Rynek 18. Osoba, która zostanie powołana na stanowisko komornika, przejmie prowadzenie spraw dotychczas prowadzonych i niezakończonych przez tego komornika.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wnioski o powołanie na to stanowisko należy składać do Prezesa Sądu Apelacyjnego w Szczecinie w terminie 1 miesiąca od daty ogłoszenia niniejszego obwieszczenia;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stanowisko komornika sądowego w rewirze przy Sądzie Rejonowym w Sandomierzu po zmarłym komorniku Dorocie Malinowskiej prowadzącej kancelarię w Sandomierzu przy ul. Koseły 22. Osoba, która zostanie powołana na stanowisko komornika, przejmie prowadzenie spraw dotychczas prowadzonych i niezakończonych przez tego komornika.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wnioski o powołanie na to stanowisko należy składać do Prezesa Sądu Apelacyjnego w Krakowie w terminie 1 miesiąca od daty ogłoszenia niniejszego obwieszczenia;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "stanowisko komornika sądowego w rewirze przy Sądzie Rejonowym w Otwocku.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wnioski o powołanie na to stanowisko należy składać do Prezesa Sądu Apelacyjnego w Warszawie w terminie 1 miesiąca od daty ogłoszenia niniejszego obwieszczenia."
+    },
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości: w z. M. Cichosz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 25, poz. 162, Nr 44, poz. 288, Nr 85, poz. 571 i Nr 112, poz. 769."
+ }
+}

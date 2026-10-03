@@ -1,0 +1,62 @@
+{
+ "eli": "MP/2000/284",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 10 maja 2000 r. w sprawie kierunków prywatyzacji PKO BP, BGŻ oraz PZU S.A.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/284/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 maja 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kierunków prywatyzacji PKO BP, BGŻ oraz PZU S.A."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Interes gospodarczy i społeczny Polski wymaga, aby dalsza prywatyzacja banków, w tym PKO BP i BGŻ, przebiegała w sposób zgodny z intencją społeczeństwa i Sejmu Rzeczypospolitej Polskiej oraz w sposób zabezpieczający polską rację stanu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W związku z powyższym Sejm Rzeczypospolitej Polskiej zwraca się do Rządu RP, aby w terminie 3 miesięcy, licząc od daty podjęcia uchwały, przedstawił Sejmowi RP zasady, jakie będą obowiązywały przy prywatyzacji banków, w tym PKO BP i BGŻ.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wobec licznych wątpliwości co do działalności kierownictwa PZU S.A. w zakresie podejmowania inicjatyw gospodarczych, w tym wchodzenia do spółek oraz zamierzonej prywatyzacji, Sejm RP zwraca się do Rządu RP, aby w terminie 3 miesięcy, licząc od daty podjęcia uchwały, przedłożył Sejmowi RP założenia całkowitej prywatyzacji PZU S.A.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem jej podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Płażyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,53 @@
+{
+ "eli": "MP/2006/685",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 22 września 2006 r. nr 113-45-06 o zmianie w składzie Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/685/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 września 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "nr 113-45-06"
+  },
+  {
+   "type": "text",
+   "text": "o zmianie w składzie Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r., na wniosek Prezesa Rady Ministrów, z dniem 22 września 2006 r.:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "odwołuję Pana Stanisława Mateusza KLUZĘ ze składu Rady Ministrów, z urzędu Ministra Finansów,",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "powołuję Panią Zytę Janinę GILOWSKĄ w skład Rady Ministrów, na urzędy Wiceprezesa Rady Ministrów i Ministra Finansów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: L. Kaczyński Prezes Rady Ministrów:"
+    },
+    {
+     "type": "text",
+     "text": "J. Kaczyński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

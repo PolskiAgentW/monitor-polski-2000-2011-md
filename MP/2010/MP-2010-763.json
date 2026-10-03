@@ -1,0 +1,162 @@
+{
+ "eli": "MP/2010/763",
+ "title": "Zarządzenie Nr 57 Prezesa Rady Ministrów z dnia 10 sierpnia 2010 r. w sprawie nadania statutu Urzędowi do Spraw Cudzoziemców",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/763/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 57 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 sierpnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Urzędowi do Spraw Cudzoziemców"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 142 ust. 4 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Urzędowi do Spraw Cudzoziemców nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 82 Prezesa Rady Ministrów z dnia 3 sierpnia 2007 r. w sprawie nadania statutu Urzędowi do Spraw Cudzoziemców (M. P. Nr 48, poz. 567 i Nr 58, poz. 661).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 57 Prezesa Rady Ministrów z dnia 10 sierpnia 2010 r. (poz. 763)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT URZĘDU DO SPRAW CUDZOZIEMCÓW"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Urząd do Spraw Cudzoziemców, zwany dalej „Urzędem”, jest urzędem administracji rządowej obsługującym Szefa Urzędu do Spraw Cudzoziemców, zwanego dalej „Szefem Urzędu”, działającym pod jego bezpośrednim kierownictwem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Urzędem kieruje Szef Urzędu przy pomocy zastępców Szefa Urzędu, dyrektora generalnego i kierowników komórek organizacyjnych wymienionych w § 3.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "W skład Urzędu wchodzą następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "Departament Legalizacji Pobytu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "Departament Pomocy Socjalnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "Departament Postępowań Uchodźczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "Biuro Finansów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/pkt_5",
+       "text": "Biuro Informatyki i Ewidencji Cudzoziemców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/pkt_6",
+       "text": "Biuro Logistyki i Pomocy Zagranicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/pkt_7",
+       "text": "Biuro Prawne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/pkt_8",
+       "text": "Biuro Współpracy Międzynarodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/pkt_9",
+       "text": "Wydział Kadr, Szkolenia i Organizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/pkt_10",
+       "text": "W ydział Kontroli i Ochrony Informacji Niejawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/pkt_11",
+       "text": "S amodzielne Stanowisko do spraw Audytu Wewnętrznego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170, z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112, Nr 216, poz. 1367, Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 95, poz. 790 oraz z 2010 r. Nr 81, poz. 531 i Nr 96, poz. 620."
+ }
+}

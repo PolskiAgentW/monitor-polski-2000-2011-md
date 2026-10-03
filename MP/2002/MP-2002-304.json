@@ -1,0 +1,322 @@
+{
+ "eli": "MP/2002/304",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 8 maja 2002 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/304/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 maja 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (Monitor Polski z 1998 r. Nr 44, poz. 618, z 1999 r. Nr 11, poz. 150 i Nr 23, poz. 331, z 2000 r. Nr 9, poz. 177, Nr 21, poz. 428 i Nr 42, poz. 804, z 2001 r. Nr 37, poz. 586, Nr 38, poz. 613 i Nr 44, poz. 708 oraz z 2002 r. Nr 9, poz. 162) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 8 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Do podstawowych obowiązków posła należy w szczególności:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) udział w głosowaniach podczas posiedzeń Sejmu i w komisjach sejmowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) stosowanie się do wynikających z Regulaminu Sejmu poleceń Marszałka Sejmu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 11 w ust. 1 w pkt 13 na końcu dodaje się wyrazy „w tym o użyciu w razie konieczności Straży Marszałkowskiej,”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "dodaje się art. 23a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 23a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W przypadku uniemożliwiania przez posła pracy Sejmu lub jego organów, a w szczególności zaistnienia sytuacji, o której mowa w art. 101 ust. 4, Prezydium Sejmu może podjąć uchwałę o obniżeniu uposażenia lub diety parlamentarnej posła, w wysokości nieprzekraczającej 1/2 uposażenia poselskiego lub pełnej diety parlamentarnej miesięcznie na okres nie dłuższy niż 3 miesiące.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Od uchwały o obniżeniu uposażenia lub diety parlamentarnej, o której mowa w ust. 1, posłowi przysługuje, w terminie 7 dni od dnia doręczenia uchwały, wniosek o ponowne rozpatrzenie sprawy przez Prezydium Sejmu. Prezydium Sejmu ponownie rozpatruje sprawę po zasięgnięciu opinii Konwentu Seniorów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Potrącenia dokonuje się nie wcześniej niż po upływie 7 dni od dnia podjęcia uchwały o obniżeniu uposażenia lub diety parlamentarnej, o której mowa w ust. 1, albo po ponownym rozpatrzeniu sprawy, o którym mowa w ust. 2. Informacje dotyczące potrąceń są jawne.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "dodaje się art. 24a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 24a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W przypadku wykluczenia posła z posiedzenia Sejmu, w trybie art. 101 ust. 5, Marszałek Sejmu zarządza obniżenie jego uposażenia poselskiego lub diety parlamentarnej na zasadach, o których mowa w art. 24 ust. 1 pkt 1 i ust. 3—7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku, o którym mowa w ust. 1, Prezydium Sejmu może podjąć uchwałę o obniżeniu posłowi uposażenia w wysokości nieprzekraczającej 1/2 uposażenia poselskiego lub o utracie prawa do pełnej diety parlamentarnej, na okres do 6 miesięcy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Od uchwały, o której mowa w ust. 2, posłowi przysługuje, w terminie 7 dni od dnia doręczenia uchwały, wniosek o ponowne rozpatrzenie sprawy przez Prezydium Sejmu. Prezydium Sejmu ponownie rozpatruje sprawę po zasięgnięciu opinii Konwentu Seniorów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Potrącenia dokonuje się nie wcześniej niż po upływie 7 dni od dnia podjęcia uchwały, o której mowa w ust. 2, albo po ponownym rozpatrzeniu sprawy, o którym mowa w ust. 3. Informacje dotyczące potrąceń są jawne.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 74g:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_5/lit_a",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Kandydat na członka Komisji lub członek Komisji może wnieść do Marszałka Sejmu umotywowane zastrzeżenie dotyczące członkostwa w Komisji innego kandydata. Zastrzeżenie takie wstrzymuje dokonanie wyboru Komisji przez Sejm.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_5/lit_b",
+       "text": "dodaje się ust. 4a—4f w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4a. Kandydat, w stosunku do którego wniesiono zastrzeżenie lub klub poselski zgłaszający tego kandydata, w terminie 7 dni od dnia przekazania zastrzeżenia, może złożyć do Marszałka Sejmu wyjaśnienie w sprawie wniesionego zastrzeżenia.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4b. Prezydium Sejmu po zapoznaniu się z zastrzeżeniem i wyjaśnieniem, w drodze uchwały, może uznać zastrzeżenie:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) za zasadne,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) za niezasadne.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4c. W przypadku, o którym mowa w ust. 4b pkt 1, Prezydium Sejmu zwraca się do uprawnionych o niezwłoczne zgłoszenie nowej kandydatury na członka Komisji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4d. W przypadku, o którym mowa w ust. 4b pkt 2, Prezydium Sejmu przedstawia wnoszącemu zastrzeżenie swoje stanowisko i wzywa go do wycofania zastrzeżenia. W przypadku podtrzymania zastrzeżenia, wnoszący je, w terminie 7 dni, informuje o tym Marszałka Sejmu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4e. Jeżeli w terminie określonym w ust. 4d nie wpłynie ponowne zastrzeżenie, Prezydium Sejmu przedkłada Sejmowi wniosek w sprawie wyboru na członków Komisji kandydatów, o których mowa w ust. 2.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4f. Prezydium Sejmu, pomimo wpłynięcia w terminie ponownego zastrzeżenia, może przedłożyć Sejmowi wniosek w sprawie wyboru Komisji, z uwzględnieniem zastrzeżonej kandydatury. Jeżeli Sejm nie dokona wyboru Komisji, uprawnieni ponownie zgłaszają, na podstawie ust. 2, kandydatów na jej członków.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_5/lit_c",
+       "text": "w ust. 5 wyrazy „ust. 5a” zastępuje się wyrazami „ust. 4f i ust. 5a”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_5/lit_d",
+       "text": "w ust. 5a wyrazy „w ust. 4” zastępuje się wyrazami „w ust. 4c”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_5/lit_e",
+       "text": "dodaje się ust. 7 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„7. W przypadku podjęcia wobec członka Komisji uchwały, o której mowa w art. 22 ust. 1, art. 23 ust. 1, art. 24a ust. 1 i 2 lub art. 74k ust. 1, od której w terminie nie wniesiono odwołania albo którą odpowiednio Sejm albo Prezydium Sejmu utrzymało w mocy — poseł traci członkostwo w Komisji. W takim przypadku przepisy ust. 1—5b stosuje się odpowiednio.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 74i dodaje się ust. 5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5. W posiedzeniu Komisji nie bierze udziału członek Komisji, którego sprawa jest rozpatrywana, z zastrzeżeniem art. 74j.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 81:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_7/lit_a",
+       "text": "dotychczasową treść oznacza się jako ust. 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_7/lit_b",
+       "text": "dodaje się ust. 2—6 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Przewodniczący komisji po uprzednim zwróceniu uwagi ma prawo przywołać posła «do porządku», jeżeli uniemożliwia on prowadzenie obrad.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. W przypadku niezastosowania się przez posła do polecenia przewodniczącego komisji, o którym mowa w ust. 2, przewodniczący komisji ma prawo ponownie przywołać posła «do porządku», stwierdzając, że uniemożliwia on prowadzenie obrad.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Przewodniczący komisji ma prawo podjąć decyzję o wykluczeniu posła z posiedzenia komisji, jeżeli poseł nadal uniemożliwia prowadzenie obrad i na tym samym posiedzeniu został już upomniany w trybie ust. 3; poseł wykluczony z posiedzenia komisji jest obowiązany natychmiast opuścić salę, w której odbywa się posiedzenie komisji. Jeżeli poseł nie opuści sali, w której odbywa się posiedzenie komisji, przewodniczący komisji zarządza przerwę w obradach.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Od decyzji przewodniczącego komisji poseł może odwołać się do prezydium komisji, które niezwłocznie rozstrzyga sprawę. Do czasu ostatecznego rozstrzygnięcia sprawy poseł nie bierze udziału w posiedzeniu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6. O sposobie załatwienia odwołania prezydium komisji niezwłocznie zawiadamia komisję, jednak nie później niż na następnym posiedzeniu. Decyzja prezydium komisji jest ostateczna.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 101:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_8/lit_a",
+       "text": "ust. 3 i 4 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Marszałek Sejmu po uprzednim zwróceniu uwagi ma prawo przywołać posła «do porządku», jeżeli uniemożliwia on prowadzenie obrad.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. W przypadku niezastosowania się przez posła do polecenia Marszałka Sejmu, o którym mowa w ust. 3, Marszałek Sejmu ma prawo ponownie przywołać posła «do porządku», stwierdzając, że uniemożliwia on prowadzenie obrad.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_8/lit_b",
+       "text": "w ust. 5 wyrazy „nadal zakłóca porządek obrad i na tym samym posiedzeniu został już przywołany «do porządku z zapisaniem do protokołu» ” zastępuje się wyrazami „nadal uniemożliwia prowadzenie obrad i na tym samym posiedzeniu został już upomniany w trybie ust. 4”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Borowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,179 @@
+{
+ "eli": "MP/2004/734",
+ "title": "Uchwała Nr 226 Rady Ministrów z dnia 21 września 2004 r. zmieniająca uchwałę - Regulamin pracy Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/734/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 226 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 września 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę — Regulamin pracy Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 49 Rady Ministrów z dnia 19 marca 2002 r. — Regulamin pracy Rady Ministrów (M. P. Nr 13, poz. 221 i Nr 30, poz. 482) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 7:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. 1 po wyrazie „zawiadamiają” dodaje się wyrazy „, z zastrzeżeniem ust. 1a,”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Zamiar ustanowienia programu wieloletniego zgodnie z odrębnymi przepisami wymaga uzyskania zgody Prezesa Rady Ministrów, po uprzednim przedstawieniu przez organ wnioskujący założeń programu wieloletniego.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "w ust. 2 wyrazy „Przepisu ust. 1” zastępuje się wyrazami „Przepisów ust. 1 i 1a”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "po § 7 dodaje się § 7a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 7a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Założenia programu wieloletniego powinny zawierać szczegółową analizę celów realizowanych w poszczególnych latach, uwzględniającą sposób ich realizacji i określenie łącznych nakładów, w tym z budżetu państwa, przeznaczonych na realizację programu oraz wskazywać, czy program jest:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zgodny z Narodowym Planem Rozwoju określonym w odrębnych przepisach oraz służy realizacji podstawowych celów wynikających z tego Planu lub — w odniesieniu do innych celów strategicznych, w tym w zakresie obronności i bezpieczeństwa państwa — zgodny z tymi celami,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) realizowany przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Założenia powinny również określać maksymalny możliwy limit zwiększeń wydatków w danej części budżetowej wynikający z realizacji programu wieloletniego, o ile brak dodatkowych środków finansowych zagraża realizacji innych ważnych zadań realizowanych przez organ wnioskujący.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przy opracowywaniu założeń należy kierować się zasadą niezwiększania wydatków w danej części budżetowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Założenia są opiniowane przez Rządowe Centrum Studiów Strategicznych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 29:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "dotychczasowa treść otrzymuje oznaczenie ust. 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "dodaje się ust. 2 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Minister realizujący lub koordynujący wykonanie programu wieloletniego ustanowionego na podstawie odrębnych przepisów przedstawia Radzie Ministrów coroczne informacje o stopniu wykonania celów i zadań ujętych w programie wieloletnim wraz ze szczegółowym określeniem sposobu wykorzystania środków finansowych, które zostały przeznaczone na ich wykonywanie.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 50:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "w ust. 1 po wyrazie „kieruje” dodaje się wyrazy „ , z zastrzeżeniem ust. 1a”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Projekt stanowiska Rządu do pozarządowego projektu ustawy ustanawiającego program wieloletni zgodnie z odrębnymi przepisami jest opracowywany przez właściwego ministra po porozumieniu z ministrem właściwym do spraw budżetu.”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem powzięcia i podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

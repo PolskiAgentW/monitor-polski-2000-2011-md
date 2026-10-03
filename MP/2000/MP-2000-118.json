@@ -1,0 +1,94 @@
+{
+ "eli": "MP/2000/118",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 20 stycznia 2000 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet wartości 2 zł i 200 zł oraz terminu wprowadzenia ich do obiegu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/118/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 stycznia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 200 zł oraz terminu wprowadzenia ich do obiegu."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938 i z 1998 r. Nr 160, poz. 1063) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł i 200 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 16 lutego 2000 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: H. Gronkiewicz-Waltz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 20 stycznia 2000 r. (poz. 118)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚC∑ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ I 200 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wartość"
+    },
+    {
+     "type": "text",
+     "text": "strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części wizerunek orła ustalony dla godła Rze- W centralnej części czypospolitej Pol- widoczne w zależskiej. Wokół orła de- ności od kąta pakoracyjny relief. trzenia stylizowane: U góry półkolem na- księżyc i gwiazdy 2 zł pis: RZECZPOSPO- oraz oznaczenie ro- LITA POLSKA, u do- ku: 2000 lub słońce łu półkolem ozna- i oznaczenie roku: czenie roku emisji: 2001. W otoku na- 2000 oraz napis: 2 pis: 2000 LAT ZŁOTE. Pod lewą łapą orła znak mennicy: MW"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części stylizowany wizeru- Stylizowana komnek kuli ziemskiej pozycja fragmenoraz orbit. Poniżej tów: zapisu liczb oznaczenie roku w systemie dwójkoemisji: 2000. Powy- wym, obwodu drużej z lewej strony wi- kowanego, czą- 200 zł zerunek orła ustalo- steczki DNA oraz ny dla godła Rzeczy- zderzenia cząstek pospolitej Polskiej. elementarnych. Na W otoku napis: wewnętrznym pier- RZECZPOSPOLITA ścieniu monety na- POLSKA 200 ZŁ. pis: ROK 2000 Pod lewą łapą orła znak mennicy: MW Masa Średni- Wielkość Brzeg (w gra- ca (w Stop emisji (bok) mach) milime- (próba) (w sztutrach) kach)"
+    },
+    {
+     "type": "text",
+     "text": "na boku napis: NARO- pierścień: DOWY CuAl5Zn5Sn1 BANK 8,31 27,0 2.000.000 POLSKI rdzeń: rozdzielony CuNi 25 gwiazdką"
+    },
+    {
+     "type": "text",
+     "text": "pierścień zewnętrzny: Au 900/1000"
+    },
+    {
+     "type": "text",
+     "text": "gładki 13,60 27,0 pierścień 6.000 wewnętrzny: Ag 925/1000"
+    },
+    {
+     "type": "text",
+     "text": "rdzeń: Au 900/1000"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

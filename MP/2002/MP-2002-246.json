@@ -1,0 +1,295 @@
+{
+ "eli": "MP/2002/246",
+ "title": "Zarządzenie Nr 49 Prezesa Rady Ministrów z dnia 15 kwietnia 2002 r. w sprawie nadania statutu Ministerstwu Zdrowia.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/246/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 49 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 kwietnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Zdrowia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 1999 r. Nr 82, poz. 929, z 2000 r. Nr 120, poz. 1268 oraz z 2001 r. Nr 102, poz. 1116 i Nr 154, poz. 1799 i 1800) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Zdrowia nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: L. Miller"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 49 Prezesa Rady Ministrów z dnia 15 kwietnia 2002 r. (poz. 246)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA ZDROWIA"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Zdrowia zapewnia obsługę Ministra Zdrowia, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2001 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 122, poz. 1346), do spraw zdrowia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa Zdrowia wchodzą następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Gabinet Polityczny Ministra,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Biuro Ministra,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Departament Polityki Zdrowotnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Polityki Lekowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Departament Analiz i Systemów Finansowania Ochrony Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Nauki i Szkolnictwa Wyższego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "Departament Organizacji Ochrony Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Departament do Spraw Pracowników Ochrony Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Departament Akredytacji i Monitorowania Jakości w Ochronie Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "Departament Nadzoru i Kontroli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/pkt_11",
+       "text": "Departament Integracji Europejskiej i Współpracy z Zagranicą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/pkt_12",
+       "text": "Departament Budżetu, Finansów i Inwestycji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/pkt_13",
+       "text": "Departament Prawny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/pkt_14",
+       "text": "Departament Spraw Obronnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/pkt_15",
+       "text": "Biuro Prasy i Promocji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_2/pkt_16",
+       "text": "Biuro Dyrektora Generalnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_2/pkt_17",
+       "text": "Biuro Kadr,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_2/pkt_18",
+       "text": "Biuro Administracyjno-Gospodarcze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_2/pkt_19",
+       "text": "Samodzielny Wydział Ochrony Informacji Niejawnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_2/pkt_20",
+       "text": "Samodzielne Stanowisko Pracy do Spraw Audytu Wewnętrznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra w zakresie działu — zdrowie zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "Departament Polityki Zdrowotnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "Departament Polityki Lekowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "Departament Analiz i Systemów Finansowania Ochrony Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "Departament Nauki i Szkolnictwa Wyższego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/pkt_5",
+       "text": "Departament Organizacji Ochrony Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/pkt_6",
+       "text": "Departament do Spraw Pracowników Ochrony Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/pkt_7",
+       "text": "Departament Akredytacji i Monitorowania Jakości w Ochronie Zdrowia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Minister sprawuje bezpośredni nadzór nad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "Gabinetem Politycznym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "Samodzielnym Wydziałem Ochrony Informacji Niejawnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Dyrektor Generalny sprawuje bezpośredni nadzór nad Samodzielnym Stanowiskiem Pracy do Spraw Audytu Wewnętrznego.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

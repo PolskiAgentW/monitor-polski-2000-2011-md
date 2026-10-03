@@ -1,0 +1,78 @@
+{
+ "eli": "MP/2005/911",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 3 listopada 2005 r. w sprawie wyboru Trybunału Stanu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/911/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 listopada 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wyboru Trybunału Stanu"
+  },
+  {
+   "type": "text",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie art. 199 ust. 1 Konstytucji Rzeczypospolitej Polskiej, dokonuje wyboru następujących osób do Trybunału Stanu:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zastępców Przewodniczącego Trybunału Stanu: — Dariusza Kijowskiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "— Jana Olszewskiego — Sylweriusza Marcina Królaka"
+    },
+    {
+     "type": "text",
+     "text": "— Stanisława Owczarka — Michała Lizaka"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "członków Trybunału Stanu: — Jacka Marię Majchrowskiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "— Lecha Adamczyka — Janusza Margasińskiego"
+    },
+    {
+     "type": "text",
+     "text": "— Andrzeja Buczkowskiego — Romana Nowosielskiego"
+    },
+    {
+     "type": "text",
+     "text": "— Jana Cichonia — Krzysztofa Śmieję"
+    },
+    {
+     "type": "text",
+     "text": "— Henryka Dzido — Krzysztofa Bogdana Śniegockiego"
+    },
+    {
+     "type": "text",
+     "text": "— Różę Żarską — Andrzeja Grabińskiego"
+    },
+    {
+     "type": "text",
+     "text": "— Ewę Gruza"
+    },
+    {
+     "type": "text",
+     "text": "— Jana Marię Jackowskiego Marszałek Sejmu: M. Jurek"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,83 @@
+{
+ "eli": "MP/2004/570",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 19 lipca 2004 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 10 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/570/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 lipca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 10 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł i 10 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 28 lipca 2004 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 19 lipca 2004 r. (poz. 570)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ i 10 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wartość strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony Wizerunek kotwidla godła Rzeczypospo- cy — symbolu litej Polskiej, po bokach Polski Walczącej orła oznaczenie roku na murze z cegieł. emisji: 20-04, pod orłem W otoku napis 60. napis: ZŁ 2 ZŁ, w otoku ROCZNICA PO- 2 zł napis: RZECZPOSPOLI- WSTANIA WAR- TA POLSKA poprzedzo- S Z AW S K I E G O . ny oraz zakończony sze- U dołu półkolem ścioma perełkami. Pod napis: 1944— lewą łapą orła znak 2004 poprzedzomennicy: MW ny oraz zakończony perełką"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek kotwicy — symbolu Polski Walczącej na murze z cegieł. Portret powstań- Na jej tle, u góry z pra- ca na tle muru wej strony wizerunek z cegieł. W otoku orła ustalony dla godła napis: 60. ROCZ- Rzeczypospolitej Pol- NICA POWSTA- 10 zł skiej. Z lewej strony pół- NIA WARSZAW- kolem napis: RZECZPO- SKIEGO. U dołu SPOLITA, z prawej: POL- półkolem napis: SKA oraz oznaczenie ro- 1944—2004 poku emisji: 2004. U dołu przedzony oraz z lewej strony na tle ra- zakończony kwamienia kotwicy napis: dracikiem 10 ZŁ. Pod lewą łapą orła znak mennicy: MW Masa Śred- Wiel- Brzeg (w nica kość (bok) gra- (w mili- Stop/próba emisji mach) me- (w sztutrach) kach)"
+    },
+    {
+     "type": "text",
+     "text": "Na boku ośmiokrotnie powtórzony napis: NBP, co drugi od- 8,15 27,0 CuAl5Zn5Sn1 900 000 wrócony o 180 stopni, rozdzielony gwiazdkami"
+    },
+    {
+     "type": "text",
+     "text": "gładki 14,14 32,0 Ag 925/1000 92 000"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800, z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178, z 2003 r. Nr 65, poz. 594, Nr 137, poz. 1303, Nr 209, poz. 2035 i Nr 228, poz. 2260 oraz z 2004 r. Nr 116, poz. 1205 i Nr 121, poz. 1262."
+ }
+}

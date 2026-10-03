@@ -1,0 +1,85 @@
+{
+ "eli": "MP/2006/828",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 15 listopada 2006 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/828/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 listopada 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398 oraz z 2006 r. Nr 157, poz. 1119) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 22 listopada 2006 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 15 listopada 2006 r. (poz. 828)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ, 10 ZŁ I 200 ZŁ 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Nad orłem W centralnej części stylipółkolem i z prawej stro- zowany wizerunek panny napis: RZECZPOSPO- cernego drużynnika kon- LITA POLSKA oraz ozna- nego z obnażonym mieczenie roku emisji: 2006. czem oraz w tle cień 10 zł Poniżej orła z prawej pancernego drużynnika strony napis: 10 ZŁ oraz konnego trzymającego z lewej strony wizerunki włócznię. U góry z pradwóch grotów włóczni wej strony ukośnie nana drzewcach. Pod lewą pis: JEŹDZIEC/PIASTOW- łapą orła znak mennicy: SKI. MW."
+    },
+    {
+     "type": "text",
+     "text": "Z lewej strony wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Z prawej strony wizerunek rękojeści miecza W centralnej części stylikoronacyjnego władców zowany wizerunek pan- Polski „Szczerbca” na tle cernego drużynnika konmotywu z tej rękojeści. nego z obnażonym mie- 200 zł Z prawej strony oznacze- czem oraz w tle jego nie roku emisji: 2006. cień. Z lewej strony pół- U góry z prawej strony kolem napis: JEŹDZIEC półkolem napis: RZECZ- PIASTOWSKI. POSPOLITA POLSKA. U dołu napis: 200 ZŁ. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "4 5 6 7 8"
+    },
+    {
+     "type": "text",
+     "text": "długość: 22,0 mm gładki 14,14 szero- Ag 925/1000 62 000 kość: 32,0 mm"
+    },
+    {
+     "type": "text",
+     "text": "gładki 15,50 27,0 Au 900/1000 10 000"
+    },
+    {
+     "type": "text",
+     "text": "Śred- Wielkość Cechy graficzne Masa nica War- (w gra- (w mili- emisji tość Brzeg (bok) Stop/próba (w sztustrona główna strona odwrotna mach) me- kach) trach) 1 2 3 4 5 6 7 8 Wizerunek orła ustalony dla godła Rzeczypospoli- Na boku tej Polskiej, po bokach W centralnej części styli- ośmiokrotnie orła oznaczenie roku zowany wizerunek pan- powtórzony emisji: 20–06, pod orłem cernego drużynnika kon- napis: NBP, napis: ZŁ 2 ZŁ, w otoku 2 zł nego uzbrojonego we co drugi 8,15 27,0 CuAl5Zn5Sn1 1 000 000 napis: RZECZPOSPOLITA włócznię, miecz oraz tar- odwrócony POLSKA, poprzedzony czę. W otoku napis: JEŹ- o 180 stopni oraz zakończony sześcio- DZIEC PIASTOWSKI. rozdzielony ma perełkami. Pod lewą gwiazdkami. łapą orła znak mennicy: MW."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

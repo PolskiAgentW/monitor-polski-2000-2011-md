@@ -1,0 +1,195 @@
+{
+ "eli": "MP/2011/541",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 6 czerwca 2011 r. w sprawie warunków technicznych głosowania korespondencyjnego w obwodach głosowania utworzonych za granicą",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/541/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 czerwca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych głosowania korespondencyjnego w obwodach głosowania utworzonych za granicą"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 68 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, Nr 26, poz. 134, Nr 94, poz. 550 i Nr 102, poz. 588) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Warunki techniczne głosowania korespondencyjnego w obwodach głosowania utworzonych za granicą określa załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem 1 sierpnia 2011 r. i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 6 czerwca 2011 r. (poz. 541)"
+    },
+    {
+     "type": "text",
+     "text": "WARUNKI TECHNICZNE GŁOSOWANIA KORESPONDENCYJNEGO W OBWODACH GŁOSOWANIA ZA GRANICĄ"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Konsul przed przekazaniem pakietów wyborczych, o których mowa w art. 65 § 1 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, Nr 26, poz. 134, Nr 94, poz. 550 i Nr 102, poz. 588), opieczętowuje swoją pieczęcią oraz pieczęcią wyznaczonej obwodowej komisji wyborczej karty do głosowania przeznaczone do doręczenia wyborcom, którzy zgłosili, zgodnie z wymogami powołanej ustawy, zamiar głosowania korespondencyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Pakiet wyborczy powinien być doręczony w taki sposób, aby zapewniona była jego nienaruszalność. Pakiet wyborczy może być doręczony jako przesyłka listowa rejestrowana, przyjmowana za potwierdzeniem nadania lub w inny sposób dostarczony wyborcy za pokwitowaniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Konsul po otrzymaniu kopert zwrotnych od wyborców głosujących korespondencyjnie przechowuje je w sposób uniemożliwiający dostęp do nich osób nieupoważnionych. W miarę możliwości przesyłki przechowuje się w kasie pancernej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "W przeddzień głosowania, a jeżeli głosowanie przeprowadzane jest w ciągu dwóch dni — w przeddzień pierwszego dnia głosowania, konsul przekazuje właściwej obwodowej komisji wyborczej, wraz z innymi dokumentami niezbędnymi do przeprowadzenia głosowania, otrzymane do tego dnia koperty zwrotne. Z czynności przekazania kopert zwrotnych obwodowa komisja sporządza protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "W lokalu wyborczym w dniu głosowania (dniach głosowania) znajdują się dwie urny. Jedna urna przeznaczona jest na karty do głosowania wrzucane przez wyborców głosujących osobiście w lokalu wyborczym, i druga, w której znajdują się koperty na kartę do głosowania. Przez cały czas głosowania obie urny znajdują się w lokalu wyborczym pod nadzorem członków komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "W przypadku głosowania przeprowadzanego w ciągu dwóch dni, w czasie przerwy w głosowaniu pomiędzy pierwszym a drugim dniem głosowania, urnę z kopertami na kartę do głosowania zabezpiecza się na takich samych zasadach jak urnę przeznaczoną na karty do głosowania wrzucane przez wyborców głosujących osobiście w lokalu wyborczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "W dniu głosowania, a jeżeli głosowanie przeprowadzane jest w ciągu dwóch dni — w pierwszym dniu głosowania, w miarę możliwości przed jego rozpoczęciem, komisja otwiera koperty zwrotne i sprawdza, czy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_7/pkt_1",
+       "text": "w kopercie zwrotnej znajduje się podpisane przez wyborcę oświadczenie o osobistym i tajnym oddaniu głosu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_7/pkt_2",
+       "text": "koperta na kartę do głosowania jest zaklejona.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jeżeli spełnione są powyższe warunki, komisja odnotowuje w rubryce spisu „Uwagi”, że wyborca głosował korespondencyjnie, a zaklejoną kopertę na kartę do głosowania komisja wrzuca do urny przeznaczonej wyłącznie do tego celu. Oświadczenie o osobistym i tajnym oddaniu głosu komisja dołącza do spisu wyborców. Przed wrzuceniem kopert na kartę do głosowania do urny komisja sprawdza, czy urna ta jest pusta. Po wrzuceniu kopert na kartę do głosowania komisja zamyka urnę, opieczętowuje ją, zakleja i opieczętowuje wlot urny. Puste koperty zwrotne komisja pakuje w pakiet, opisuje go i odkłada. Pakiet ten pozostaje w dokumentacji komisji."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Jeżeli którykolwiek z warunków wymienionych w pkt 7 nie jest spełniony, komisja odkłada kopertę zwrotną wraz z zawartością, segregując odłożone koperty według naruszeń powyższych warunków. Osobno odkłada się także koperty zwrotne zawierające niezaklejone przez wyborców koperty na kartę do głosowania, w których nie znajduje się karta do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_2/ust_9",
+     "text": "Komisja pakuje osobno w pakiety (według naruszeń warunków określonych w pkt 7) koperty wraz z kartami, opisuje je i odkłada. Pakiety te pozostają w dokumentacji komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_2/ust_10",
+     "text": "W trakcie głosowania, po zaklejeniu i opieczętowaniu wlotu urny na koperty na kartę do głosowania, naruszenie pieczęci i odklejenie wlotu urny jest możliwe wyłącznie w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_10/pkt_1",
+       "text": "przekazania przez konsula kolejnych przesyłek od wyborców głosujących korespondencyjnie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_10/pkt_2",
+       "text": "d ostarczenia koperty zwrotnej osobiście przez wyborcę.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Po otrzymaniu koperty zwrotnej komisja postępuje w sposób wskazany w pkt 7—9, z tym że jeżeli kopertę zwrotną dostarczył wyborca osobiście, komisja w jego obecności otwiera kopertę zwrotną i na podstawie jego dokumentu tożsamości sprawdza, czy w kopercie zwrotnej znajduje się podpisane przez tego wyborcę oświadczenie o osobistym i tajnym oddaniu głosu. Ponadto komisja sprawdza, czy koperta na kartę do głosowania jest zaklejona. Jeżeli któryś z wymienionych warunków nie jest spełniony, komisja wzywa wyborcę do usunięcia stwierdzonej wady."
+        },
+        {
+         "type": "text",
+         "text": "Po wrzuceniu koperty na kartę do głosowania do urny jej wlot ponownie zakleja się i opieczętowuje."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_2/ust_11",
+     "text": "P o zakończeniu głosowania komisja w pierwszej kolejności otwiera urnę na koperty na kartę do głosowania, wyjmuje znajdujące się w niej koperty, otwiera każdą z nich, wyjmuje karty do głosowania z kopert i ustala ich liczbę, odrębnie w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej . Liczby te powinny odpowiadać liczbie adnotacji w rubryce spisu „Uwagi”, że wyborca głosował korespondencyjnie. Różnica jest możliwa tylko w przypadku, gdy koperta na kartę była pusta lub w kopercie znajdowała się wyłącznie karta do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej lub wyłącznie karta do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej. Sytuacje te komisja opisuje w protokole głosowania w punkcie „Inne uwagi”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_2/ust_12",
+     "text": "N astępnie komisja przystępuje do wykonywania pozostałych czynności wynikających z odrębnej uchwały Państwowej Komisji Wyborczej w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu pracy w przygotowaniu i przeprowadzeniu głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, w tym ustalenia sposobu przekazania w depozyt dokumentów z głosowania oraz pieczęci.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_2/ust_13",
+     "text": "Jeżeli konsul po zakończeniu głosowania otrzymał koperty zwrotne, a także pakiety wyborcze niedostarczone wyborcy na wskazany przez niego adres, wówczas pakuje je w odrębne pakiety, opisuje i przechowuje w depozycie do czasu stwierdzenia ważności wyborów przez Sąd Najwyższy. Do postępowania z tymi dokumentami po stwierdzeniu ważności wyborów stosuje się odpowiednio przepisy dotyczące postępowania z dokumentami przekazanymi konsulowi w depozyt przez obwodową komisję wyborczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "par_2/ust_14",
+     "text": "Jeżeli konsul otrzyma przesyłki, gdy dokumentacja nie znajduje się już w depozycie, konsul informuje o tym dyrektora Delegatury Krajowego Biura Wyborczego w Warszawie i po uzyskaniu jego zgody niszczy je, a protokół zniszczenia przekazuje dyrektorowi Delegatury Krajowego Biura Wyborczego w Warszawie.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

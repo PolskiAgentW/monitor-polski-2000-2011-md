@@ -1,0 +1,128 @@
+{
+ "eli": "MP/2011/689",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 28 lipca 2011 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/689/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 lipca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2009 r. Nr 5, poz. 47, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 70c:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Do zgłoszenia, o którym mowa w art. 70b ust. 1, załącza się:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) w przypadku gdy podmiot dokonujący zgłoszenia występuje w ramach zawodowej działalności lobbingowej — zaświadczenie albo oświadczenie o wpisie do rejestru podmiotów wykonujących zawodową działalność lobbingową,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) w przypadku gdy podmiot dokonujący zgłoszenia występuje na rzecz osoby prawnej zarejestrowanej w Krajowym Rejestrze Sądowym — wyciąg z Krajowego Rejestru Sądowego albo oświadczenie o wpisie do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym, dotyczące tej osoby prawnej.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "po ust. 4 dodaje się ust. 4a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4a. Składający oświadczenie, o którym mowa w ust. 4 pkt 1 lub 2, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "w ust. 6 wyrazy „ust. 3 i 4” zastępuje się wyrazami „ust. 3—4a”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 201b:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Do wniosku, o którym mowa w ust. 2, osoba, o której mowa w ust. 1, załącza swoje zdjęcie, zaświadczenie albo oświadczenie o wpisie podmiotu, który reprezentuje, do rejestru podmiotów wykonujących zawodową działalność lobbingową oraz upoważnienie do jego reprezentowania, a także oświadczenie wskazujące podmioty, na rzecz których wykonuje tę działalność.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "po ust. 5 dodaje się ust. 5a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5a. Składający oświadczenia, o których mowa w ust. 5, jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: G. Schetyna"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M. P. z 2009 r. Nr 81, poz. 998, z 2010 r. Nr 10, poz. 87, Nr 79, poz. 972 i Nr 100, poz. 1174 oraz z 2011 r. Nr 13, poz. 136, Nr 18, poz. 186 i Nr 33, poz. 387."
+ }
+}

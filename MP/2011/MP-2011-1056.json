@@ -1,0 +1,106 @@
+{
+ "eli": "MP/2011/1056",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 listopada 2011 r. w sprawie wyboru Trybunału Stanu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/1056/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 listopada 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wyboru Trybunału Stanu"
+  },
+  {
+   "type": "text",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie art. 199 ust. 1 Konstytucji Rzeczypospolitej Polskiej, dokonuje wyboru następujących osób do Trybunału Stanu:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zastępcy przewodniczącego Trybunału Stanu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— Józefa Adama MEDYKA;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "członków Trybunału Stanu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— Lecha ADAMCZYKA,"
+    },
+    {
+     "type": "text",
+     "text": "— Piotra Łukasza ANDRZEJEWSKIEGO,"
+    },
+    {
+     "type": "text",
+     "text": "— Kazimierza BARCZYKA,"
+    },
+    {
+     "type": "text",
+     "text": "— Anny BOGUCKIEJ-SKOWROŃSKIEJ,"
+    },
+    {
+     "type": "text",
+     "text": "— Grzegorza GÓRSKIEGO, — Pawła Tomasza JANDY,"
+    },
+    {
+     "type": "text",
+     "text": "— Dariusza Ryszarda KIJOWSKIEGO,"
+    },
+    {
+     "type": "text",
+     "text": "— Sylweriusza Marcina KRÓLAKA,"
+    },
+    {
+     "type": "text",
+     "text": "— Janusza Krzysztofa ŁOMŻY,"
+    },
+    {
+     "type": "text",
+     "text": "— Mariusza MUSZYŃSKIEGO,"
+    },
+    {
+     "type": "text",
+     "text": "— Romany ORLIKOWSKIEJ-WROŃSKIEJ,"
+    },
+    {
+     "type": "text",
+     "text": "— Pawła ŚLIWY,"
+    },
+    {
+     "type": "text",
+     "text": "— Andrzeja WOSIŃSKIEGO,"
+    },
+    {
+     "type": "text",
+     "text": "— Jolanty ZAJDEL-SARNOWICZ,"
+    },
+    {
+     "type": "text",
+     "text": "— Eleonory ZIELIŃSKIEJ."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: E. Kopacz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

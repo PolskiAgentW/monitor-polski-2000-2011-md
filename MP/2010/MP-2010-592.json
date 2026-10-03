@@ -1,0 +1,109 @@
+{
+ "eli": "MP/2010/592",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 24 maja 2010 r. w sprawie wzoru karty do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/592/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 maja 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzoru karty do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 18 pkt 4 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 72, poz. 467) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Karta do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej drukowana jest jednostronnie na papierze koloru białego formatu A-4 lub A-5 w zależności od liczby zarejestrowanych kandydatów, jednakowym rodzajem i wielkością czcionki dla nazwisk i imion wszystkich kandydatów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Karta do głosowania ma pośrodku, w górnej części karty, napis: „Karta do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu .................. Kandydaci na Prezydenta Rzeczypospolitej Polskiej”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Nazwiska i imiona kandydatów umieszczone są na karcie do głosowania w kolejności alfabetycznej i poprzedzone są kolejnym numerem i kratką przeznaczoną na postawienie znaku „X” oznaczającego głos oddany na danego kandydata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Na karcie do głosowania, w jej dolnej części, umieszczona jest informacja o sposobie głosowania i warunkach ważności głosu, po prawej stronie drukuje się odcisk pieczęci Państwowej Komisji Wyborczej, a po lewej stronie — oznaczenie miejsca na umieszczenie pieczęci obwodowej komisji wyborczej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wzór karty do głosowania stanowi załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W przypadku ponownego głosowania, o którym mowa w art. 8b ust. 1 i 2 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej, karta do głosowania ma format A-5 i jest sporządzana według wzoru określonego w § 2, z tym że napis w górnej części karty ma brzmienie: „Karta do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej. Ponowne głosowanie w dniu ................... Kandydaci na Prezydenta Rzeczypospolitej Polskiej”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 4 września 2000 r. w sprawie wzoru karty do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej (M. P. Nr 27, poz. 550 oraz z 2005 r. Nr 58, poz. 786).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 24 maja 2010 r. (poz. 592)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

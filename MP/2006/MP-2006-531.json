@@ -1,0 +1,977 @@
+{
+ "eli": "MP/2006/531",
+ "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 12 lipca 2006 r. w sprawie ogłoszenia wykazu walut wymienialnych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/531/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 lipca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia wykazu walut wymienialnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ustawy z dnia 27 lipca 2002 r. — Prawo dewizowe (Dz. U. Nr 141, poz. 1178, z 2003 r. Nr 228, poz. 2260 oraz z 2004 r. Nr 91, poz. 870 i Nr 173, poz. 1808) ogłasza się, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Walutami wymienialnymi są waluty obce, wymienione w załączniku do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Obwieszczenie obowiązuje od dnia 1 sierpnia 2006 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: w z. J. Pruski"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do obwieszczenia Prezesa Narodowego Banku Polskiego z dnia 12 lipca 2006 r. (poz. 531)"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ WALUT WYMIENIALNYCH"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "ariary — MGA (Madagaskar)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "balboa — PAB (Panama)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "bat — THB (Tajlandia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "boliwar — VEB (Wenezuela)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "boliwiano — BOB (Boliwia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_2/pkt_6",
+     "text": "cedi — GHC (Ghana)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_2/pkt_7",
+     "text": "colon kostarykański — CRC",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "ust_2/pkt_8",
+     "text": "colon salwadorski — SVC",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "ust_2/pkt_9",
+     "text": "cordoba oro — NIO (Nikaragua)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "ust_2/pkt_10",
+     "text": "dalasi — GMD (Gambia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "ust_2/pkt_11",
+     "text": "denar — MKD (Macedonia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "ust_2/pkt_12",
+     "text": "dinar algierski — DZD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "ust_2/pkt_13",
+     "text": "dinar bahrajski — BHD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "ust_2/pkt_14",
+     "text": "dinar jordański — JOD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "ust_2/pkt_15",
+     "text": "dinar kuwejcki — KWD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "ust_2/pkt_16",
+     "text": "dinar libijski — LYD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "ust_2/pkt_17",
+     "text": "dinar — CSD (Serbia i Czarnogóra)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "ust_2/pkt_18",
+     "text": "dinar sudański — SDD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "ust_2/pkt_19",
+     "text": "dinar tunezyjski — TND",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "ust_2/pkt_20",
+     "text": "dirham marokański — MAD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "ust_2/pkt_21",
+     "text": "dirham ZEA — AED (Zjednoczone Emiraty Arabskie)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "ust_2/pkt_22",
+     "text": "dolar amerykański — USD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "ust_2/pkt_23",
+     "text": "dolar australijski — AUD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "ust_2/pkt_24",
+     "text": "dolar bahamski — BSD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "ust_2/pkt_25",
+     "text": "dolar barbadoski — BBD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "ust_2/pkt_26",
+     "text": "dolar belizeński — BZD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "ust_2/pkt_27",
+     "text": "dolar brunejski — BND",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "ust_2/pkt_28",
+     "text": "dolar Fidżi — FJD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "ust_2/pkt_29",
+     "text": "dolar gujański — GYD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "ust_2/pkt_30",
+     "text": "dolar Hongkongu — HKD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "31",
+     "path": "ust_2/pkt_31",
+     "text": "dolar jamajski — JMD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "32",
+     "path": "ust_2/pkt_32",
+     "text": "dolar kanadyjski — CAD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "33",
+     "path": "ust_2/pkt_33",
+     "text": "dolar namibijski — NAD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "34",
+     "path": "ust_2/pkt_34",
+     "text": "dolar nowozelandzki — NZD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "35",
+     "path": "ust_2/pkt_35",
+     "text": "dolar singapurski — SGD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "36",
+     "path": "ust_2/pkt_36",
+     "text": "dolar Trynidadu i Tobago — TTD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "37",
+     "path": "ust_2/pkt_37",
+     "text": "dolar wschodniokaraibski — XCD (Anguilla, Antigua i Barbuda, Dominika, Grenada, Montserrat, Saint Kitts i Nevis, Saint Lucia, Saint Vincent i Grenadyny)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "38",
+     "path": "ust_2/pkt_38",
+     "text": "dolar Wysp Salomona — SBD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "39",
+     "path": "ust_2/pkt_39",
+     "text": "dolar Zimbabwe — ZWD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "40",
+     "path": "ust_2/pkt_40",
+     "text": "dong — VND (Wietnam)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "41",
+     "path": "ust_2/pkt_41",
+     "text": "dram armeński — AMD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "42",
+     "path": "ust_2/pkt_42",
+     "text": "escudo Republiki Zielonego Przylądka — CVE",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "43",
+     "path": "ust_2/pkt_43",
+     "text": "euro — EUR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "44",
+     "path": "ust_2/pkt_44",
+     "text": "forint — HUF (Węgry)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "45",
+     "path": "ust_2/pkt_45",
+     "text": "frank CFA BCEAO — XOF (Benin, Burkina Faso, Gwinea Bissau, Mali, Niger, Senegal, Togo, Wybrzeże Kości Słoniowej)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "46",
+     "path": "ust_2/pkt_46",
+     "text": "frank CFA BEAC — XAF (Czad, Gabon, Gwinea Równikowa, Kamerun, Kongo, Republika Środkowoafrykańska)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "47",
+     "path": "ust_2/pkt_47",
+     "text": "frank Dżibuti — DJF",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "48",
+     "path": "ust_2/pkt_48",
+     "text": "frank gwinejski — GNF",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "49",
+     "path": "ust_2/pkt_49",
+     "text": "frank Komorów — KMF",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "50",
+     "path": "ust_2/pkt_50",
+     "text": "frank kongijski — CDF (Demokratyczna Republika Konga)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "51",
+     "path": "ust_2/pkt_51",
+     "text": "frank rwandyjski — RWF",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "52",
+     "path": "ust_2/pkt_52",
+     "text": "frank szwajcarski — CHF",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "53",
+     "path": "ust_2/pkt_53",
+     "text": "funt cypryjski — CYP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "54",
+     "path": "ust_2/pkt_54",
+     "text": "funt egipski — EGP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "55",
+     "path": "ust_2/pkt_55",
+     "text": "funt libański — LBP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "56",
+     "path": "ust_2/pkt_56",
+     "text": "funt szterling — GBP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "57",
+     "path": "ust_2/pkt_57",
+     "text": "gourde — HTG (Haiti)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "58",
+     "path": "ust_2/pkt_58",
+     "text": "guarani — PYG (Paragwaj)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "59",
+     "path": "ust_2/pkt_59",
+     "text": "dolar surinamski — SRD",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "60",
+     "path": "ust_2/pkt_60",
+     "text": "gulden Antyli Holenderskich — ANG",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "61",
+     "path": "ust_2/pkt_61",
+     "text": "gulden arubański — AWG",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "62",
+     "path": "ust_2/pkt_62",
+     "text": "hrywna — UAH (Ukraina)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "63",
+     "path": "ust_2/pkt_63",
+     "text": "jen — JPY (Japonia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "64",
+     "path": "ust_2/pkt_64",
+     "text": "kina — PGK (Papua-Nowa Gwinea)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "65",
+     "path": "ust_2/pkt_65",
+     "text": "korona czeska — CZK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "66",
+     "path": "ust_2/pkt_66",
+     "text": "korona duńska — DKK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "67",
+     "path": "ust_2/pkt_67",
+     "text": "korona estońska — EEK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "68",
+     "path": "ust_2/pkt_68",
+     "text": "korona islandzka — ISK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "69",
+     "path": "ust_2/pkt_69",
+     "text": "korona norweska — NOK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "70",
+     "path": "ust_2/pkt_70",
+     "text": "korona słowacka — SKK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "71",
+     "path": "ust_2/pkt_71",
+     "text": "korona szwedzka — SEK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "72",
+     "path": "ust_2/pkt_72",
+     "text": "kuna chorwacka — HRK",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "73",
+     "path": "ust_2/pkt_73",
+     "text": "kwacha — MWK (Malawi)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "74",
+     "path": "ust_2/pkt_74",
+     "text": "kwacha — ZMK (Zambia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "75",
+     "path": "ust_2/pkt_75",
+     "text": "lari — GEL (Gruzja)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "76",
+     "path": "ust_2/pkt_76",
+     "text": "lej Mołdawii — MDL",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "77",
+     "path": "ust_2/pkt_77",
+     "text": "lempira — HNL (Honduras)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "78",
+     "path": "ust_2/pkt_78",
+     "text": "leone — SLL (Sierra Leone)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "79",
+     "path": "ust_2/pkt_79",
+     "text": "lew bułgarski — BGN",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "80",
+     "path": "ust_2/pkt_80",
+     "text": "lilangeni Suazi — SZL",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "81",
+     "path": "ust_2/pkt_81",
+     "text": "lira maltańska — MTL",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "82",
+     "path": "ust_2/pkt_82",
+     "text": "lira turecka — TRY",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "83",
+     "path": "ust_2/pkt_83",
+     "text": "lit litewski — LTL",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "84",
+     "path": "ust_2/pkt_84",
+     "text": "loti — LSL (Lesotho)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "85",
+     "path": "ust_2/pkt_85",
+     "text": "łat łotewski — LVL",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "86",
+     "path": "ust_2/pkt_86",
+     "text": "nowy manat azerbejdżański — AZN",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "87",
+     "path": "ust_2/pkt_87",
+     "text": "nowy izraelski szekel — ILS",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "88",
+     "path": "ust_2/pkt_88",
+     "text": "nowy lej rumuński — RON",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "89",
+     "path": "ust_2/pkt_89",
+     "text": "nuevo sol — PEN (Peru)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "90",
+     "path": "ust_2/pkt_90",
+     "text": "ouguiya — MRO (Mauretania)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "91",
+     "path": "ust_2/pkt_91",
+     "text": "pa’anga — TOP (Tonga)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "92",
+     "path": "ust_2/pkt_92",
+     "text": "peso argentyńskie — ARS",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "93",
+     "path": "ust_2/pkt_93",
+     "text": "peso chilijskie — CLP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "94",
+     "path": "ust_2/pkt_94",
+     "text": "peso dominikańskie — DOP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "95",
+     "path": "ust_2/pkt_95",
+     "text": "peso filipińskie — PHP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "96",
+     "path": "ust_2/pkt_96",
+     "text": "peso kolumbijskie — COP",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "97",
+     "path": "ust_2/pkt_97",
+     "text": "peso meksykańskie — MXN",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "98",
+     "path": "ust_2/pkt_98",
+     "text": "peso urugwajskie — UYU",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "99",
+     "path": "ust_2/pkt_99",
+     "text": "pula — BWP (Botswana)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "100",
+     "path": "ust_2/pkt_100",
+     "text": "quetzal — GTQ (Gwatemala)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "101",
+     "path": "ust_2/pkt_101",
+     "text": "rand — ZAR (Republika Południowej Afryki)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "102",
+     "path": "ust_2/pkt_102",
+     "text": "real brazylijski — BRL",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "103",
+     "path": "ust_2/pkt_103",
+     "text": "rial irański — IRR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "104",
+     "path": "ust_2/pkt_104",
+     "text": "rial jemeński — YER",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "105",
+     "path": "ust_2/pkt_105",
+     "text": "rial katarski — QAR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "106",
+     "path": "ust_2/pkt_106",
+     "text": "rial omański — OMR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "107",
+     "path": "ust_2/pkt_107",
+     "text": "rial saudyjski — SAR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "108",
+     "path": "ust_2/pkt_108",
+     "text": "riel — KHR (Kambodża)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "109",
+     "path": "ust_2/pkt_109",
+     "text": "ringgit malezyjski — MYR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "110",
+     "path": "ust_2/pkt_110",
+     "text": "rubel białoruski — BYR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "111",
+     "path": "ust_2/pkt_111",
+     "text": "rubel rosyjski — RUB",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "112",
+     "path": "ust_2/pkt_112",
+     "text": "rupia — IDR (Indonezja)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "113",
+     "path": "ust_2/pkt_113",
+     "text": "rupia indyjska — INR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "114",
+     "path": "ust_2/pkt_114",
+     "text": "rupia Mauritiusa — MUR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "115",
+     "path": "ust_2/pkt_115",
+     "text": "rupia nepalska — NPR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "116",
+     "path": "ust_2/pkt_116",
+     "text": "rupia pakistańska — PKR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "117",
+     "path": "ust_2/pkt_117",
+     "text": "rupia seszelska — SCR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "118",
+     "path": "ust_2/pkt_118",
+     "text": "rupia Sri Lanki — LKR",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "119",
+     "path": "ust_2/pkt_119",
+     "text": "som — KGS (Kirgistan)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "120",
+     "path": "ust_2/pkt_120",
+     "text": "somoni — TJS (Tadżykistan)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "121",
+     "path": "ust_2/pkt_121",
+     "text": "sum uzbecki — UZS",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "122",
+     "path": "ust_2/pkt_122",
+     "text": "szyling kenijski — KES",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "123",
+     "path": "ust_2/pkt_123",
+     "text": "szyling tanzański — TZS",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "124",
+     "path": "ust_2/pkt_124",
+     "text": "szyling ugandyjski — UGX",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "125",
+     "path": "ust_2/pkt_125",
+     "text": "taka — BDT (Bangladesz)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "126",
+     "path": "ust_2/pkt_126",
+     "text": "tala — WST (Samoa)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "127",
+     "path": "ust_2/pkt_127",
+     "text": "tenge — KZT (Kazachstan)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "128",
+     "path": "ust_2/pkt_128",
+     "text": "tolar — SIT (Słowenia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "129",
+     "path": "ust_2/pkt_129",
+     "text": "tugrik — MNT (Mongolia)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "130",
+     "path": "ust_2/pkt_130",
+     "text": "vatu — VUV (Vanuatu)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "131",
+     "path": "ust_2/pkt_131",
+     "text": "won — KRW (Korea Południowa)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "132",
+     "path": "ust_2/pkt_132",
+     "text": "yuan renminbi — CNY (Chiny)",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

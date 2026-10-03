@@ -1,0 +1,74 @@
+{
+ "eli": "MP/2002/226",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 25 marca 2002 r. w sprawie wzoru pieczęci komisarza wyborczego.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/226/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 marca 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzoru pieczęci komisarza wyborczego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 1 pkt 4 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. Nr 95, poz. 602 i Nr 160, poz. 1060, z 2001 r. Nr 45, poz. 497 i Nr 89, poz. 971 oraz z 2002 r. Nr 23, poz. 220) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Pieczęcią komisarza wyborczego jest pieczęć okrągła o średnicy 35 mm, zawierająca w otoku napis „Komisarz Wyborczy”, pośrodku zaś nazwę miasta stanowiącego jego siedzibę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Pieczęcią komisarzy wyborczych w Kielcach i Opolu jest pieczęć, o której mowa w ust. 1, z dodaniem po nazwie miasta cyfry „I” lub „II” odpowiednio do właściwości terytorialnej określonej w załączniku nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 25 marca 2002 r. w sprawie określenia właściwości terytorialnej komisarzy wyborczych, właściwości rzeczowej w zakresie wykonywania czynności o charakterze ogólnowojewódzkim oraz trybu pracy komisarzy wyborczych (Monitor Polski Nr 13, poz. 225).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do postępowań w sprawach wyborczych i referendalnych wszczętych przed wejściem w życie niniejszej uchwały stosuje się dotychczasowe przepisy o wzorach pieczęci wojewódzkiego komisarza wyborczego i zastępcy wojewódzkiego komisarza wyborczego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 12 sierpnia 1998 r. w sprawie wzorów pieczęci wojewódzkiego komisarza wyborczego i zastępcy wojewódzkiego komisarza wyborczego oraz terytorialnych i obwodowych komisji wyborczych (Monitor Polski Nr 27, poz. 386) w części dotyczącej wzorów pieczęci wojewódzkiego komisarza wyborczego i zastępcy wojewódzkiego komisarza wyborczego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

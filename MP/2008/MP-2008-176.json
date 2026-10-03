@@ -1,0 +1,70 @@
+{
+ "eli": "MP/2008/176",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 13 litego 2008 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/176/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lutego 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 5 marca 2008 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 13 lutego 2008 r. (poz. 176)"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Śred- Wielkość War- Brzeg Masa nica emisji tość (bok) (w gra- (w mi- Stop/próba (w sztustrona główna strona odwrotna mach) lime- kach) trach)"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części Wizerunek Ratusza wizerunek orła ustalo- w Łowiczu. Z lewej ny dla godła Rzeczy- i z prawej strony stylipospolitej Polskiej. zowane wizerunki Z prawej strony na- drzew. U dołu stylizo- Na boku pis: 2 ZŁ. U góry pół- wany wizerunek fragośmiokrotnie kolem napis: RZECZ- mentu wycinanki łopowtórzony POSPOLITA POLSKA wickiej. U góry półkonapis: NBP, oraz oznaczenie roku lem napis: ŁOWICZ. 2 zł co drugi 8,15 27,0 CuAl5Zn5Sn1 1 100 000 emisji: 2008. Poniżej odwrócony orła stylizowany frago 180 stopni, ment muru miejskierozdzielony go z blankami oraz gwiazdkami z bramą o rozwartych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410."
+ }
+}

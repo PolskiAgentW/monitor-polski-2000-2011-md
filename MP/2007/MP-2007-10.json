@@ -1,0 +1,71 @@
+{
+ "eli": "MP/2007/10",
+ "title": "Obwieszczenie Ministra Transportu z dnia 29 grudnia 2006 r. w sprawie wysokości maksymalnych stawek opłat za przejazd 1 km autostrady na rok 2007",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/10/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA TRANSPORTU[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 grudnia 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości maksymalnych stawek opłat za przejazd 1 km autostrady na rok 2007"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 37e ust. 4 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.[^2]) ogłasza się maksymalne stawki opłat za przejazd 1 km autostrady pobieranych przez Generalnego Dyrektora Dróg Krajowych i Autostrad w okresie nieobjętym umową o budowę i eksploatację albo wyłącznie eksploatację autostrady płatnej, na rok 2007, zawarte w załączniku do obwieszczenia."
+  },
+  {
+   "type": "text",
+   "text": "Minister Transportu: w z. P. Stomma"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Transportu z dnia 29 grudnia 2006 r. (poz. 10)",
+   "body": [
+    {
+     "type": "text",
+     "text": "MAKSYMALNE STAWKI OPŁAT ZA PRZEJAZD 1 KM AUTOSTRADY"
+    },
+    {
+     "type": "text",
+     "text": "Kategorie Opis kategorii Stawka za 1 km w zł"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria 0 Motocykle 0,11"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria 1 Pojazdy samochodowe o dwóch osiach 0,23"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria 2 Pojazdy samochodowe o dwóch osiach, z których co najmniej 0,34 jedna wyposażona jest w koło bliźniacze, pojazdy samochodowe o dwóch osiach z przyczepami"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria 3 Pojazdy samochodowe o trzech osiach, pojazdy samochodo- 0,49 we o dwóch osiach, z których co najmniej jedna wyposażona jest w koło bliźniacze z przyczepami"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria 4 Pojazdy samochodowe o więcej niż trzech osiach, pojazdy sa- 0,78 mochodowe o trzech osiach z przyczepami, pojazdy samochodowe o więcej niż trzech osiach z przyczepami"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria 5 Pojazdy niemieszczące się w kategoriach od 1 do 4 oraz pojaz- (10 x stawka dy, których wymiary albo nacisk osi lub ciężar przekraczają dla kat. 1) normy określone w przepisach o ruchu drogowym"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Transportu kieruje działem administracji rządowej — transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Transportu (Dz. U. Nr 131, poz. 923).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440 oraz z 2006 r. Nr 12, poz. 61."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "eli": "MP/2000/344",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 24 maja 2000 r. w sprawie ustalenia wzoru karty do głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej IV kadencji wybranego w dniu 21 września 1997 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/344/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 maja 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru karty do głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej IV kadencji wybranego w dniu 21 września 1997 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 97 ust. 4 ustawy z dnia 28 maja 1993 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej (Dz. U. Nr 45, poz. 205, z 1995 r. Nr 132, poz. 640, z 1997 r. Nr 47, poz. 297, Nr 70, poz. 443, Nr 88, poz. 554, Nr 98, poz. 604, Nr 121, poz. 770 i Nr 141, poz. 943 oraz z 1999 r. Nr 49, poz. 483) i art. 1 ust. 1 ustawy z dnia 10 maja 1991 r. — Ordynacja wyborcza do Senatu Rzeczypospolitej Polskiej (Dz. U. z 1994 r. Nr 54, poz. 224 oraz z 1997 r. Nr 70, poz. 443 i Nr 98, poz. 604) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Karta do głosowania na kandydata na senatora w wyborach uzupełniających do Senatu IV kadencji wybranego w dniu 27 września 1997 r. drukowana jest na papierze koloru białego, jednakowym w danym okręgu wyborczym rodzajem i wielkością czcionki dla wszystkich kandydatów na senatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Karta do głosowania w wyborach uzupełniających do Senatu ma format A-4 lub A-5, w zależności od liczby zarejestrowanych kandydatów na senatora. W razie stosowania karty formatu A-4, nazwiska kandydatów na senatora mogą być umieszczone w więcej niż jednej pionowej kolumnie. Numerację przy nazwiskach kandydatów rozpoczyna się od górnej części kolumny nazwisk umieszczonej po lewej stronie karty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Karta do głosowania w górnej części z lewej strony opatrzona jest oznaczeniem „Okręg wyborczy obejmujący obszar województwa ............ istniejącego do dnia 31 grudnia 1998 r.”, a pośrodku, w górnej części karty, umieszczony jest napis „Karta do głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej w dniu ....... . Kandydaci na senatora”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Nazwiska i imiona zarejestrowanych kandydatów umieszczone są na karcie do głosowania w kolejności alfabetycznej. Pod nazwiskiem każdego z kandydatów umieszcza się nazwę lub skrót nazwy statutowego organu partii bądź komitetu wyborczego utworzonego przez wyborców lub komitetu wyborczego koalicji, który zgłosił kandydata. Druk nazwy wykonuje się mniejszą czcionką, jednakową dla wszystkich nazw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "Na karcie do głosowania w jej dolnej części jest umieszczona informacja o sposobie głosowania i warunkach ważności głosu oraz po prawej stronie jest umieszczony w procesie druku odcisk pieczęci okręgowej komisji wyborczej, a po lewej stronie — oznaczenie miejsca na odcisk pieczęci obwodowej komisji wyborczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_1/ust_6",
+     "text": "Wzór karty do głosowania w wyborach uzupełniających do Senatu stanowi załącznik do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 24 maja 2000 r. (poz. 344)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,340 @@
+{
+ "eli": "MP/2008/846",
+ "title": "Zarządzenie Nr 146 Prezesa Rady Ministrów z dnia 23 grudnia 2008 r. w sprawie nadania statutu Urzędowi Ochrony Konkurencji i Konsumentów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/846/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 146 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 grudnia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Urzędowi Ochrony Konkurencji i Konsumentów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 34 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Urzędowi Ochrony Konkurencji i Konsumentów nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 65 Prezesa Rady Ministrów z dnia 20 czerwca 2007 r. w sprawie nadania statutu Urzędowi Ochrony Konkurencji i Konsumentów (M. P. Nr 39, poz. 451).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 stycznia 2009 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 146 Prezesa Rady Ministrów z dnia 23 grudnia 2008 r. (poz. 846)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT URZĘDU OCHRONY KONKURENCJI I KONSUMENTÓW"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Urząd Ochrony Konkurencji i Konsumentów, zwany dalej „Urzędem”, jest urzędem administracji rządowej obsługującym Prezesa Urzędu Ochrony Konkurencji i Konsumentów, zwanego dalej „Prezesem”, działającym zgodnie z jego zarządzeniami, decyzjami i wytycznymi oraz pod jego bezpośrednim kierownictwem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Prezes kieruje Urzędem przy pomocy wiceprezesów, dyrektora generalnego, dyrektorów komórek organizacyjnych wymienionych w § 4 ust. 1 oraz dyrektorów delegatur Urzędu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Zakres czynności osób wymienionych w ust. 1, z wyłączeniem dyrektora generalnego, ustala Prezes.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Prezes może upoważnić osoby, o których mowa w ust. 1, a także innych pracowników Urzędu do podejmowania decyzji, w określonych sprawach, w jego imieniu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Prezes, po zawiadomieniu Prezesa Rady Ministrów, może tworzyć komisje, rady i zespoły jako organy opiniodawcze lub doradcze o charakterze stałym lub doraźnym, określając ich nazwę, skład, zakres zadań i tryb pracy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "W skład Centrali Urzędu wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "Sekretariat Prezesa;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "Biuro Dyrektora Generalnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_1/pkt_3",
+         "text": "Departament Prawny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_1/pkt_4",
+         "text": "Departament Analiz Rynku;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_4/ust_1/pkt_5",
+         "text": "Departament Ochrony Konkurencji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_4/ust_1/pkt_6",
+         "text": "Departament Kontroli Koncentracji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_4/ust_1/pkt_7",
+         "text": "Departament Monitorowania Pomocy Publicznej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_4/ust_1/pkt_8",
+         "text": "Departament Polityki Konsumenckiej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_4/ust_1/pkt_9",
+         "text": "Departament Nadzoru Rynku;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_4/ust_1/pkt_10",
+         "text": "Departament Inspekcji Handlowej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_4/ust_1/pkt_11",
+         "text": "Departament Współpracy z Zagranicą i Komunikacji Społecznej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "12",
+         "path": "par_4/ust_1/pkt_12",
+         "text": "Departament Budżetu i Administracji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "13",
+         "path": "par_4/ust_1/pkt_13",
+         "text": "Samodzielne Stanowisko do spraw Ochrony Informacji Niejawnych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "14",
+         "path": "par_4/ust_1/pkt_14",
+         "text": "Samodzielne Stanowisko do spraw Audytu Wewnętrznego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "15",
+         "path": "par_4/ust_1/pkt_15",
+         "text": "Specjalistyczne Laboratorium Badania Paliw i Produktów Chemii Gospodarczej z siedzibą w Bydgoszczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "16",
+         "path": "par_4/ust_1/pkt_16",
+         "text": "Specjalistyczne Laboratorium Badania Zabawek z siedzibą w Lublinie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "17",
+         "path": "par_4/ust_1/pkt_17",
+         "text": "Specjalistyczne Laboratorium Produktów Włókienniczych i Analizy Instrumentalnej z siedzibą w Łodzi;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "18",
+         "path": "par_4/ust_1/pkt_18",
+         "text": "Laboratorium Kontrolno-Analityczne z siedzibą w Katowicach;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "19",
+         "path": "par_4/ust_1/pkt_19",
+         "text": "Laboratorium Kontrolno-Analityczne z siedzibą w Kielcach;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "20",
+         "path": "par_4/ust_1/pkt_20",
+         "text": "Laboratorium Kontrolno-Analityczne z siedzibą w Olsztynie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "21",
+         "path": "par_4/ust_1/pkt_21",
+         "text": "Laboratorium Kontrolno-Analityczne z siedzibą w Poznaniu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "22",
+         "path": "par_4/ust_1/pkt_22",
+         "text": "Laboratorium Kontrolno-Analityczne z siedzibą w Warszawie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "23",
+         "path": "par_4/ust_1/pkt_23",
+         "text": "Laboratorium Kontrolno-Analityczne z siedzibą we Wrocławiu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Prezesowi podlegają delegatury Urzędu, których siedziby oraz właściwość miejscową i rzeczową określają odrębne przepisy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań oraz tryb pracy Centrali i delegatur Urzędu określa regulamin organizacyjny nadany przez Prezesa na wniosek dyrektora generalnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_4/ust_4",
+       "text": "Spory kompetencyjne między komórkami organizacyjnymi Centrali Urzędu rozstrzyga Prezes.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Prezes może tworzyć w Centrali Urzędu, na czas określony, zespoły do wykonywania zadań wykraczających poza zakres zadań poszczególnych komórek organizacyjnych Centrali i delegatur Urzędu, określając ich nazwę, skład, zakres zadań i tryb pracy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Przy Urzędzie działa Gospodarstwo Pomocnicze jako jednostka wyodrębniona pod względem organizacyjnym i finansowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Nadzór nad Gospodarstwem Pomocniczym sprawuje dyrektor generalny.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_6/ust_3",
+       "text": "Organizację wewnętrzną, szczegółowy zakres zadań oraz tryb pracy Gospodarstwa Pomocniczego określają odrębne przepisy oraz regulamin wewnętrzny zatwierdzony przez dyrektora generalnego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206 oraz z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505."
+ }
+}

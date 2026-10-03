@@ -1,0 +1,47 @@
+{
+ "eli": "MP/2007/377",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 8 maja 2007 r. w sprawie średniej krajowej przychodów gminnych i powiatowych funduszy ochrony środowiska i gospodarki wodnej w 2006 r. przypadających na jednego mieszkańca",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/377/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 maja 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie średniej krajowej przychodów gminnych i powiatowych funduszy ochrony środowiska i gospodarki wodnej w 2006 r. przypadających na jednego mieszkańca"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 404 ust. 2 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm.[^2]) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "średnia krajowa przychodów gminnych funduszy ochrony środowiska i gospodarki wodnej w 2006 r. przypadających na jednego mieszkańca wyniosła 14,95 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "średnia krajowa przychodów powiatowych funduszy ochrony środowiska i gospodarki wodnej w 2006 r. przypadających na jednego mieszkańca wyniosła 4,25 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: J. Szyszko"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 131, poz. 922 oraz z 2007 r. Nr 38, poz. 246).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 169, poz. 1199, Nr 170, poz. 1217 i Nr 249, poz. 1832 oraz z 2007 r. Nr 21, poz. 124, Nr 75, poz. 493 i Nr 88, poz. 587."
+ }
+}

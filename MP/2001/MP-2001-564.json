@@ -1,0 +1,59 @@
+{
+ "eli": "MP/2001/564",
+ "title": "Zarządzenie Nr 100 Prezesa Rady Ministrów z dnia 10 października 2001 r. w sprawie utraty mocy niektórych zarządzeń Prezesa Rady Ministrów, ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej \"Monitor Polski\".",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/564/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 100 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 października 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utraty mocy niektórych zarządzeń Prezesa Rady Ministrów, ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. z 1999 r. Nr 82, poz. 929, z 2000 r. Nr 120, poz. 1268 i z 2001 r. Nr 102, poz. 1116) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Tracą moc:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zarządzenie nr 47 Prezesa Rady Ministrów z dnia 16 czerwca 1997 r. w sprawie powołania Międzyresortowego Zespołu do Spraw Rewaloryzacji Miast Historycznych (Monitor Polski Nr 36, poz. 345),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zarządzenie nr 106 Prezesa Rady Ministrów z dnia 3 października 1997 r. w sprawie powołania Międzyresortowego Zespołu do Spraw Migracji (Monitor Polski Nr 73, poz. 692 i z 2000 r. Nr 24, poz. 506).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Buzek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

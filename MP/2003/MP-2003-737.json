@@ -1,0 +1,786 @@
+{
+ "eli": "MP/2003/737",
+ "title": "Postanowienie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 29 września 2003 r. w sprawie ustalenia występowania nadmiernego przywozu na polski obszar celny zapałek",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/737/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 września 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia występowania nadmiernego przywozu na polski obszar celny zapałek"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 27 ust. 1 i 2 ustawy z dnia 11 kwietnia 2001 r. o ochronie przed nadmiernym przywozem towarów na polski obszar celny (Dz. U. Nr 43, poz. 477, z późn. zm[^2]), ustala się, że przywóz na polski obszar celny zapałek jest nadmierny i wyrządza poważną szkodę przemysłowi krajowemu."
+  },
+  {
+   "type": "text",
+   "text": "I. Opis stanu faktycznego"
+  },
+  {
+   "type": "text",
+   "text": "W dniu 31 marca 2003 r. do Ministra Gospodarki, Pracy i Polityki Społecznej wpłynął kompletny wniosek o wszczęcie postępowania ochronnego w związku z nadmiernym przywozem na polski obszar celny zapałek. Wniosek spełniał wymogi określone w art. 11 ust. 2 ustawy z dnia 11 kwietnia 2001 r. o ochronie przed nadmiernym przywozem towarów na polski obszar celny, zwanej dalej „ustawą”. Wniosek złożyło przedsiębiorstwo państwowe Czechowickie Zakłady Przemysłu Zapałczanego z siedzibą w Czechowicach-Dziedzicach, występujące na rzecz przemysłu krajowego. Wniosek poparły „POLMATCH” Zakłady Przemysłu Zapałczanego w Sianowie. Wnioskodawca postępowania stanowił przemysł krajowy w rozumieniu art. 4 ust. 1 pkt 5 ustawy oraz spełnił wymóg określony w art. 11 ust. 1 pkt 1 w zakresie minimalnego udziału w produkcji krajowej, który upoważniał go do złożenia wniosku na rzecz przemysłu krajowego."
+  },
+  {
+   "type": "text",
+   "text": "Po dokonaniu analizy zawartych we wniosku danych, Minister Gospodarki, Pracy i Polityki Społecznej uznał wniosek za zasadny i postanowieniem z dnia 29 kwietnia 2003 r. wszczął postępowanie ochronne przed nadmiernym przywozem na polski obszar celny zapałek (M. P. Nr 23, poz. 338)."
+  },
+  {
+   "type": "text",
+   "text": "II. Towar objęty postępowaniem"
+  },
+  {
+   "type": "text",
+   "text": "Towar objęty postępowaniem ochronnym to zapałki składające się z drewnianego patyczka, zaimpregnowanego środkiem zapobiegającym całkowitemu spaleniu się drewna i żarzeniu się patyczka, zaparafinowanego od strony łebka, oraz mieszaniny"
+  },
+  {
+   "type": "text",
+   "text": "Wskaźnik składników stanowiących masę zapalającą łebka zapałki."
+  },
+  {
+   "type": "text",
+   "text": "Zapałki są klasyfikowane w Polskiej Scalonej Nomenklaturze Towarowej Handlu Zagranicznego (PCN) według kodu 3605 00 00 0 i opisane jako: „Zapałki, inne niż artykuły pirotechniczne objęte pozycją 3604”."
+  },
+  {
+   "type": "text",
+   "text": "III. Metoda oraz czynniki, które uwzględniono przy dokonaniu ustaleń w przedmiocie wyrządzenia poważnej szkody przez wzrost przywozu towaru objętego postępowaniem ochronnym"
+  },
+  {
+   "type": "text",
+   "text": "Analiza szkody wyrządzonej przemysłowi krajowemu opiera się na następujących danych:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "wielkość produkcji przemysłu krajowego — dane Głównego Urzędu Statystycznego (GUS) — czyli pełne dane dotyczące produkcji przemysłu krajowego,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "poziom sprzedaży przemysłu krajowego, poziom sprzedaży eksportowej oraz stopień wykorzystania zdolności produkcyjnych opiera się na zbiorczych danych udostępnionych przez 4 producentów krajowych (wszyscy znani producenci krajowi),",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "analiza wielkości zatrudnienia, wydajności pracy, udział zapasów w produkcji krajowej, poziom zysków i strat, cen opiera się wyłącznie na danych wnioskodawcy. Dane te są reprezentatywne dla przemysłu krajowego, gdyż nawet sam wnioskodawca, z uwagi na wielkość produkcji, stanowi przemysł krajowy w rozumieniu art. 4 ust. 1 pkt 5 ustawy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wyjaśnienie"
+    },
+    {
+     "type": "text",
+     "text": "Konsumpcja krajowa (kilogramy) Sprzedaż krajowa wszystkich producentów + import"
+    },
+    {
+     "type": "text",
+     "text": "Import (kilogramy) Wielkość importu towaru (wg CIHZ)"
+    },
+    {
+     "type": "text",
+     "text": "Dynamika importu (rok poprzedni = 100) Procentowy wzrost importu w stosunku do poprzedniego okresu"
+    },
+    {
+     "type": "text",
+     "text": "Udział importu w konsumpcji krajowej (%) (Import/konsumpcja krajowa) * 100 %"
+    },
+    {
+     "type": "text",
+     "text": "Cena jednostkowa importu Wartość importu/wielkość importu + cło + marża (PLN/kilogram)"
+    },
+    {
+     "type": "text",
+     "text": "Udział importu w produkcji krajowej (%) (Import/produkcja krajowa) * 100 %"
+    },
+    {
+     "type": "text",
+     "text": "Wykorzystanie mocy produkcyjnych (%) (Produkcja/wielkość mocy produkcyjnych) * 100 %"
+    },
+    {
+     "type": "text",
+     "text": "Produkcja krajowa (kilogramy) Wielkość produkcji przemysłu krajowego (wg GUS)"
+    },
+    {
+     "type": "text",
+     "text": "Sprzedaż krajowa (kilogramy) Wielkość sprzedaży przemysłu krajowego na rynek krajowy"
+    },
+    {
+     "type": "text",
+     "text": "Sprzedaż eksportowa Wielkość sprzedaży na eksport"
+    },
+    {
+     "type": "text",
+     "text": "Stopa zysku Rzeczywista stopa zysku lub straty zarówno w ogólnej produkcji, jak i w produkcji towaru krajowego"
+    },
+    {
+     "type": "text",
+     "text": "Wydajność Wielkość produkcji (tys. szt.) przypadająca na 1 zatrudnionego W analizie relacji cen towarów importowanych i krajowych towarów podobnych lub bezpośrednio konkurencyjnych zastosowano następujące wskaźniki:"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Wielkość podcięcia cenowego wskazuje, o ile niższa lub wyższa jest średnia cena w imporcie od średniej ceny krajowej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Podcięcie cenowe liczone jako relacja różnicy między średnią ceną krajowego towaru podobnego a średnią ceną towaru objętego postępowaniem do ceny krajowego towaru podobnego wyrażone jest w procentach."
+    },
+    {
+     "type": "text",
+     "text": "Podcięcie cenowe obliczone zgodnie z wzorem:"
+    },
+    {
+     "type": "text",
+     "text": " cena krajowego towaru podobnego – cena towaru objętego postępowaniem   • 100  cena krajowego towaru podobnego  "
+    },
+    {
+     "type": "text",
+     "text": "Cena towaru objętego postępowaniem = wartość towaru (PLN) dzielona przez jego ilość (kg) + cło + marża"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Zaniżenie ceny liczone jako relacja różnicy między ceną konstruowaną krajowego towaru podobnego a średnią ceną towaru objętego postępowaniem do ceny konstruowanej krajowego towaru podobnego wyrażone jest w procentach.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zaniżenie ceny obliczone zgodnie z wzorem:   cena konstruowana krajowego towaru podobnego – cena towaru objętego postępowaniem   • 100  cena konstruowana krajowego towaru podobnego "
+    },
+    {
+     "type": "text",
+     "text": "Cena konstruowana towaru krajowego = koszty produkcji + rozsądny zysk"
+    },
+    {
+     "type": "text",
+     "text": "IV. Okres badany"
+    },
+    {
+     "type": "text",
+     "text": "W postępowaniu ochronnym za okres badany przyjęto okres od 1 stycznia 1999 r. do 31 grudnia 2002 r."
+    },
+    {
+     "type": "text",
+     "text": "V. Ustalenia faktyczne dotyczące wielkości i cen przywozu towaru objętego postępowaniem"
+    },
+    {
+     "type": "text",
+     "text": "Podstawę ustaleń faktycznych w postępowaniu w zakresie przywozu i cen towaru objętego postępowaniem stanowiły informacje zawarte we wniosku o wszczęcie postępowania, informacje będące w posiadaniu Ministra Gospodarki, Pracy i Polityki Społecznej pochodzące z Centrum Informacji Gospodarczej Ministerstwa Gospodarki, Pracy i Polityki Społecznej oparte o dane Centrum Informatyki Handlu Zagranicznego oraz dane zebrane podczas spotkania wyjaśniającego ze stronami postępowania, które odbyło się w dniu 10 lipca 2003 r. w Ministerstwie Gospodarki, Pracy i Polityki Społecznej."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przywóz na polski obszar celny towaru objętego postępowaniem",
+   "children": [
+    {
+     "type": "text",
+     "text": "W toku postępowania ustalono, że w latach 1999, 2000, 2001, 2002 nastąpił zwiększony przywóz zapałek na polski obszar celny."
+    },
+    {
+     "type": "text",
+     "text": "W ujęciu bezwzględnym, w okresie badanym, przywóz zapałek kształtował się następująco: w 1999 r. — 44 688 kg, w 2000 r. — 255 558 kg, w 2001 r. — 510 009 kg, w 2002 r. — 1 078 826 kg."
+    },
+    {
+     "type": "text",
+     "text": "Import zapałek w 2002 r. był ponad 24-krotnie większy niż w 1999 r. Ponadto import zapałek na polski obszar celny w pierwszym kwartale 2003 r. wzrósł o 55,4 % w porównaniu do pierwszego kwartału 2002 r. I kwartał 2002 r. — 217 894 kg, I kwartał 2003 r. — 338 504 kg."
+    },
+    {
+     "type": "text",
+     "text": "Z powyższego wynika, iż trend wzrostowy w przywozie jest kontynuowany."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Udział przywozu ogółem w produkcji i konsumpcji krajowej",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wielkość przywozu zapałek ogółem w odniesieniu do produkcji i konsumpcji krajowej systematycznie wzrastała."
+    },
+    {
+     "type": "text",
+     "text": "W okresie badanym udział importu zapałek w produkcji krajowej wynosił: w 1999 r. — 0,48 %, w 2000 r. — 2,99 %, w 2001 r. — 6,45 %, w 2002 r. — 15,80 %."
+    },
+    {
+     "type": "text",
+     "text": "Udział importu zapałek w produkcji krajowej w 2000 r. w porównaniu z 1999 r. był większy o 2,51 punktu procentowego; w 2001 r. w porównaniu z 2000 r. był większy o 3,46 punktu procentowego, a w 2002 r. w porównaniu z 2001 r. był większy o 9,35 punktu procentowego."
+    },
+    {
+     "type": "text",
+     "text": "Udział importu zapałek w konsumpcji krajowej wynosił: w 1999 r. — 0,54 %, w 2000 r. — 3,34 %, w 2001 r. — 7,08 %, w 2002 r. — 15,58 %."
+    },
+    {
+     "type": "text",
+     "text": "Udział importu zapałek w konsumpcji krajowej w 2000 r. w porównaniu z 1999 r. był większy o 2,8 punktu procentowego; w 2001 r. w porównaniu z 2000 r. był większy o 3,74 punktu procentowego, a w 2002 r. w porównaniu z 2001 r. był większy o 8,5 punktu procentowego."
+    },
+    {
+     "type": "text",
+     "text": "Powyższe dane wskazują, iż w okresie badanym przywóz na polski obszar celny towaru, w stosunku do którego wszczęte zostało postępowanie ochronne, wzrósł znacząco zarówno w ilościach bezwzględnych, jak i w odniesieniu do produkcji i konsumpcji krajowej towaru podobnego."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Ceny towaru objętego postępowaniem",
+   "children": [
+    {
+     "type": "text",
+     "text": "W toku postępowania Minister Gospodarki, Pracy i Polityki Społecznej ustalił, że od 2000 r. ceny importowanych zapałek były niższe od cen towaru podobnego wytwarzanego w Polsce i kształtowały się następująco:"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 10,25 zł/kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 3,92 zł/kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 3,84 zł/kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 3,39 zł/kg."
+    },
+    {
+     "type": "text",
+     "text": "Ceny zapałek produkcji krajowej w okresie badanym wynosiły (rok poprzedni = 100):"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 100,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 96,9,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 104,4,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 97,7."
+    },
+    {
+     "type": "text",
+     "text": "Od 2000 r. wystąpiło podcięcie cenowe, które w 2002 r. przekroczyło znacznie 18 %. Uniemożliwiło to przemysłowi krajowemu konkurowanie z zapałkami z importu."
+    },
+    {
+     "type": "text",
+     "text": "Wskaźnik zaniżenia cen zapałek produkcji krajowej wystąpił od 2000 r. W 2002 r. wskaźnik zaniżenia ceny przekroczył znacznie 25 %."
+    },
+    {
+     "type": "text",
+     "text": "Powyższe wskazuje, iż import zapałek na polski obszar celny ma charakter importu nadmiernego w rozumieniu art. 3 ustawy. Świadczy o tym przede wszystkim stały wzrost importu, zwiększenie się jego udziału w rynku krajowym i krajowej produkcji. Świadczą o tym także ceny, po jakich import ten jest realizowany: od 2000 r. występuje podcięcie cenowe i zaniżenie ceny, które najwyższy poziom osiągnęło w ostatnim roku okresu badanego."
+    },
+    {
+     "type": "text",
+     "text": "VI. Analiza szkody wyrządzonej przemysłowi krajowemu"
+    },
+    {
+     "type": "text",
+     "text": "W oparciu o dane z wniosku o wszczęcie postępowania ochronnego Minister Gospodarki, Pracy i Polityki Społecznej przeprowadził analizę sytuacji przemysłu krajowego. Analiza ta obejmowała badanie: wielkości produkcji, stopnia wykorzystania zdolności produkcyjnych, wydajności pracy, stanu zapasów, stanu zatrudnienia, poziomu sprzedaży, zysków i strat i udziału w rynku krajowym."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Wielkość produkcji",
+   "children": [
+    {
+     "type": "text",
+     "text": "W okresie badanym produkcja krajowa zapałek stale spadała i kształtowała się następująco:"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 9 220 500 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 8 555 000 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 7 908 000 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 6 829 000 kg."
+    },
+    {
+     "type": "text",
+     "text": "Produkcja krajowa w 2000 r. w stosunku do 1999 r. spadła o 7,2 %; w 2001 r. w stosunku do 2000 r. o 7,6 %, a w 2002 r. w stosunku do 2001 r. o 13,64 %. W 2002 r. produkcja krajowa była niższa o 26 % niż w 1999 r."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Stopień wykorzystania zdolności produkcyjnych",
+   "children": [
+    {
+     "type": "text",
+     "text": "Stopień wykorzystania zdolności produkcyjnych w okresie badanym kształtował się następująco:"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 41,6 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 42,5 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 46 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 41,8 %."
+    },
+    {
+     "type": "text",
+     "text": "Utrzymywanie stopnia wykorzystania mocy produkcyjnych na tym samym poziomie przy spadku poziomu produkcji jest wynikiem ograniczania mocy produkcyjnych przez przemysł krajowy."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Wydajność pracy",
+   "children": [
+    {
+     "type": "text",
+     "text": "W okresie badanym wydajność na jednego pracownika wynosiła (rok poprzedni = 100):"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 100,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 106,7,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 100,9,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 93."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Udział zapasów w produkcji wynosił:",
+   "children": [
+    {
+     "type": "text",
+     "text": "w 1999 r. — 4,5 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 4,6 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 3,5 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 4,2 %."
+    },
+    {
+     "type": "text",
+     "text": "Udział zapasów w produkcji krajowej utrzymywał się zasadniczo na tym samym poziomie. W ilościach bezwzględnych zapasy zmniejszały się wraz ze spadkiem produkcji."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Zatrudnienie w przemyśle krajowym",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zatrudnienie w przemyśle krajowym zmniejszało się w okresie badanym. Spadek tego wskaźnika kształtował się następująco (rok poprzedni = 100):"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 100,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 91,2,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 100,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 94,5."
+    },
+    {
+     "type": "text",
+     "text": "Zatrudnienie pracowników bezpośrednio związanych z produkcją towaru podobnego wynosiło (rok poprzedni = 100):"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 100,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 88,2,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 99,5,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 90,4."
+    },
+    {
+     "type": "text",
+     "text": "W okresie badanym liczba pracowników zatrudnionych w przemyśle krajowym zmniejszyła się o 13,8 %. Spadek zatrudnienia bezpośrednio przy produkcji towaru podobnego wyniósł 20,7 %."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Zyski i straty",
+   "children": [
+    {
+     "type": "text",
+     "text": "W okresie badanym stopa zysku netto w produkcji towaru podobnego zmniejszała się. W ostatnim roku tego okresu krajowa produkcja zapałek zaczęła przynosić straty."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Poziom sprzedaży",
+   "children": [
+    {
+     "type": "text",
+     "text": "W okresie badanym sprzedaż na kraj przemysłu krajowego wynosiła:"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 8 193 426 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 7 397 315 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 6 706 666 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 5 845 929 kg."
+    },
+    {
+     "type": "text",
+     "text": "Sprzedaż krajowa w 2000 r. w stosunku do 1999 r. spadła o 9,7 %; w 2001 r. w stosunku do 2000 r. o 9,3 %, zaś w 2002 r. w stosunku do 2001 r. o 12,8 %. W 2002 r. sprzedaż krajowa była niższa o 28,7 % niż w 1999 r."
+    },
+    {
+     "type": "text",
+     "text": "Sprzedaż eksportowa wynosiła:"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 964 244 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 1 031 021 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 1 306 721 kg,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 1 292 085 kg."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Udział sprzedaży przemysłu krajowego w konsumpcji krajowej",
+   "children": [
+    {
+     "type": "text",
+     "text": "W okresie badanym odnotowano znaczący spadek udziału sprzedaży krajowej produktu w krajowym rynku. Udział sprzedaży przemysłu krajowego w konsumpcji krajowej zapałek w okresie badanym wynosił:"
+    },
+    {
+     "type": "text",
+     "text": "w 1999 r. — 99,46 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2000 r. — 96,66 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2001 r. — 92,93 %,"
+    },
+    {
+     "type": "text",
+     "text": "w 2002 r. — 84,42 %."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Podsumowanie",
+   "children": [
+    {
+     "type": "text",
+     "text": "Powyższa analiza wskazuje na pogorszenie się sytuacji przemysłu krajowego. W okresie badanym pogorszyła się większość wskaźników obrazujących stan przemysłu krajowego."
+    },
+    {
+     "type": "text",
+     "text": "VII. Analiza związku przyczynowego pomiędzy importem a szkodą, jaką poniósł przemysł krajowy"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie powyższej analizy przywozu na polski obszar celny zapałek oraz analizy sytuacji przemysłu krajowego stwierdzono istnienie związku przyczynowego między nadmiernym importem a szkodą, jaką ponosi przemysł krajowy wytwarzający produkt podobny. Świadczy o tym przede wszystkim fakt zbieżnego w czasie, gwałtownego wzrostu importu zapałek po cenach niższych niż krajowe oraz spadkowych trendów wskaźników dotyczących sytuacji przemysłu krajowego. Jest to widoczne w całym okresie badanym, kiedy to wzrostowi przywozu towarzyszył spadek sprzedaży zapałek produkcji krajowej, który w konsekwencji prowadził do ograniczania produkcji i mocy produkcyjnych, które w 2002 r. spadły do poziomu najniższego w całym okresie badanym. Nastąpił spadek zatrudnienia ogółem i bezpośrednio przy produkcji zapałek."
+    },
+    {
+     "type": "text",
+     "text": "Minister Gospodarki, Pracy i Polityki Społecznej przeprowadził również analizę czynników innych niż import, które mogły mieć wpływ na pogorszenie się sytuacji przemysłu krajowego, a mianowicie spadku konsumpcji krajowej spowodowanego m.in. importem zapalniczek oraz spadkiem populacji palących. Analiza ta wykazała, iż pomimo spadającej konsumpcji — udział importu w konsumpcji wzrastał systematycznie w całym okresie badanym."
+    },
+    {
+     "type": "text",
+     "text": "VIII. Proponowany środek ochronny i przewidywane skutki jego wprowadzenia"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie przeprowadzonej analizy, w celu naprawienia szkody, jaką wskutek nadmiernego importu poniósł przemysł krajowy, oraz w celu zapobieżenia w przyszłości szkodzie trudnej do naprawienia proponuje się wprowadzenie ostatecznego środka ochronnego w formie opłaty celnej dodatkowej w wysokości 20 % od wartości celnej towaru na okres do 30 kwietnia 2004 r. Wysokość dodatkowej opłaty celnej została określona na podstawie wskaźnika zaniżenia ceny, który od 2002 r. znacznie przekracza 25 %."
+    },
+    {
+     "type": "text",
+     "text": "Jednocześnie proponuje się ustanowienie wielkości przywozu nieobjętego opłatą celną dodatkową w wysokości średniej z trzech ostatnich lat. Proponowany środek ochronny umożliwi przemysłowi krajowemu pomyślne zakończenie realizacji programu dostosowawczego mającego na celu zapewnienie konkurencyjności tego przemysłu, przy zachowaniu konkurencji na rynku zapałek. W dotychczasowym postępowaniu nie stwierdzono istnienia żadnych okoliczności, z których wynikałoby, że wprowadzenie środka ochronnego będzie sprzeczne z interesem publicznym."
+    },
+    {
+     "type": "text",
+     "text": "IX. Ocena programu dostosowawczego przemysłu krajowego"
+    },
+    {
+     "type": "text",
+     "text": "Przemysł krajowy realizuje program dostosowawszy mający zapewnić konkurencyjność tego przemysłu poprzez m.in.:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_9/lit_a",
+     "text": "obniżanie kosztów zużycia tektury na pudełka i obniżenie gramatury stosowanych tektur oraz zastosowanie tektur tańszych o obniżonej jakości,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_9/lit_b",
+     "text": "obniżanie kosztów zużycia surowców chemicznych wchodzących w skład mas do wytwarzania łebków zapałek i potarki oraz klejenia pudełek i opakowań,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_9/lit_c",
+     "text": "obniżanie kosztów zużycia drewna zapałczanego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ponadto przemysł krajowy w ramach zapewnienia konkurencyjności dąży do zaprzestania zakupów energii cieplnej z zewnątrz w drodze modernizacji zakładowej sieci cieplnej oraz procesu spalania. W trakcie realizacji są również działania mające na celu obniżenie kosztów robocizny poprzez zmechanizowanie fazy przesyłu pudełek zapałek do zespołu pakującego w opakowania zbiorcze oraz zakup i zainstalowanie urządzenia pakującego zapałki w opakowania zbiorcze z folii termokurczliwej."
+      },
+      {
+       "type": "text",
+       "text": "Dzięki podjętym działaniom oszczędnościowym przemysł krajowy obniża sukcesywnie ceny zapałek, jednakże stale rośnie import zapałek oferowanych po coraz niższych cenach."
+      },
+      {
+       "type": "text",
+       "text": "Zahamowanie nadmiernego przywozu zapałek i tym samym umożliwienie krajowemu producentowi ww. towaru uzyskiwania lepszych wyników ekonomicznych wraz z prowadzonymi równolegle procesami oszczędnościowymi pozwoli na utworzenie w Polsce konkurencyjnego przemysłu zapałczanego, spełniającego wymagania odbiorców tych wyrobów zarówno pod względem jakościowym, jak i cenowym."
+      },
+      {
+       "type": "text",
+       "text": "X. Lista znanych przedsiębiorców stanowiących przemysł krajowy wytwarzający zapałki"
+      },
+      {
+       "type": "text",
+       "text": "— Czechowickie Zakłady Przemysłu Zapałczanego,"
+      },
+      {
+       "type": "text",
+       "text": "— Częstochowskie Zakłady Przemysłu Zapałczanego S.A.,"
+      },
+      {
+       "type": "text",
+       "text": "— „POLMATCH” Zakłady Przemysłu Zapałczanego w Sianowie,"
+      },
+      {
+       "type": "text",
+       "text": "— Bystrzyckie Zakłady Przemysłu Zapałczanego (w likwidacji)."
+      },
+      {
+       "type": "text",
+       "text": "XI. Podstawy prawne dokonanych ustaleń"
+      },
+      {
+       "type": "text",
+       "text": "Minister Gospodarki, Pracy i Polityki Społecznej przeprowadził analizę czynników mających wpływ na sytuację przemysłu krajowego zgodnie z art. 20 ust. 1 ustawy. Minister Gospodarki, Pracy i Polityki Społecznej zbadał:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_9/pkt_1",
+     "text": "wielkość i tempo przywozu w wielkościach bezwzględnych oraz w odniesieniu do produkcji krajowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_9/pkt_2",
+     "text": "udział w rynku krajowym towarów objętych postępowaniem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_9/pkt_3",
+     "text": "ceny towaru objętego postępowaniem ochronnym, w tym ich relację do cen towaru podobnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_9/pkt_4",
+     "text": "zmiany dotyczące produkcji i rynku krajowego w zakresie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— wielkości produkcji,"
+      },
+      {
+       "type": "text",
+       "text": "— stopnia wykorzystania zdolności produkcyjnych,"
+      },
+      {
+       "type": "text",
+       "text": "— wydajności,"
+      },
+      {
+       "type": "text",
+       "text": "— stanu zapasów,"
+      },
+      {
+       "type": "text",
+       "text": "— zatrudnienia,"
+      },
+      {
+       "type": "text",
+       "text": "— zysków i strat,"
+      },
+      {
+       "type": "text",
+       "text": "— poziomu sprzedaży,"
+      },
+      {
+       "type": "text",
+       "text": "— udziału w rynku krajowym,"
+      },
+      {
+       "type": "text",
+       "text": "— cen krajowego towaru podobnego."
+      },
+      {
+       "type": "text",
+       "text": "W wyniku analizy Minister Gospodarki, Pracy i Polityki Społecznej stwierdził, że w całym okresie badanym nastąpił gwałtowny wzrost przywozu zapałek na polski obszar celny. Wzrost ten jest nadmierny w rozumieniu art. 3 ustawy. Przywóz towaru objętego postępowaniem przyczynił się do pogorszenia sytuacji przemysłu krajowego, który znalazł się w stanie krytycznym."
+      },
+      {
+       "type": "text",
+       "text": "Minister Gospodarki, Pracy i Polityki Społecznej zgodnie z art. 20 ust. 3 ustawy zbadał również inne niż przywóz czynniki, które mogły wyrządzić poważną szkodę przemysłowi krajowemu, i nie stwierdził istnienia takich czynników."
+      },
+      {
+       "type": "text",
+       "text": "Minister Gospodarki, Pracy i Polityki Społecznej nie stwierdził istnienia żadnych okoliczności, z których wynikałoby, że wprowadzenie ostatecznego środka ochronnego wobec towaru objętego postępowaniem będzie sprzeczne z interesem publicznym."
+      },
+      {
+       "type": "text",
+       "text": "W związku z powyższym Minister Gospodarki, Pracy i Polityki Społecznej postanowił jak w sentencji."
+      },
+      {
+       "type": "text",
+       "text": "Postanowienie wchodzi w życie z dniem ogłoszenia. Pouczenie"
+      },
+      {
+       "type": "text",
+       "text": "Na niniejsze postanowienie stronie nie służy zażalenie."
+      },
+      {
+       "type": "text",
+       "text": "Na podstawie art. 27 ust. 3 ustawy na niniejsze postanowienie stronie zainteresowanej służy skarga do Naczelnego Sądu Administracyjnego, którą zgodnie z art. 35 ust. 1 ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368, z późn. zm.) należy wnieść w terminie 30 dni od dnia wejścia w życie niniejszego postanowienia. Skargę w podanym terminie należy wnieść bezpośrednio do Sądu. Wniesienie skargi nie wstrzymuje wykonania zaskarżonego postanowienia."
+      },
+      {
+       "type": "text",
+       "text": "Minister Gospodarki, Pracy i Polityki Społecznej: J. Hausner"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki, Pracy i Polityki Społecznej kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 stycznia 2003 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki, Pracy i Polityki Społecznej (Dz. U. Nr 1, poz. 5).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 123, poz. 1352 oraz z 2002 r. Nr 125, poz. 1063, Nr 153, poz.1271 i Nr 188, poz. 1572."
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "eli": "MP/2000/347",
+ "title": "Obwieszczenie Ministra Finansów z dnia 29 maja 2000 r. w sprawie ogłoszenia kwot i relacji, o których mowa w art. 12 ust. 1 ustawy o finansach publicznych.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/347/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 maja 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia kwot i relacji, o których mowa w art. 12 ust. 1 ustawy o finansach publicznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255 oraz z 2000 r. Nr 6, poz. 69 i Nr 12, poz. 136), w oparciu o dostępne dane, ogłasza się za rok budżetowy 1999:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwoty:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "państwowego długu publicznego — 274 019,1 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez podmioty sektora finansów publicznych — 19 544,0 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "długu Skarbu Państwa — 264 370,3 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa — 18 565,0 mln zł,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "relacja do produktu krajowego brutto:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "kwoty państwowego długu publicznego wyniosła 44,41%,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "łącznej kwoty państwowego długu publicznego powiększonej o kwotę przewidywanych wypłat z tytułu poręczeń i gwarancji udzielonych przez podmioty sektora finansów publicznych wyniosła 45,75%,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "kwoty długu Skarbu Państwa wyniosła 42,84%,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "łącznej kwoty długu Skarbu Państwa powiększonej o kwotę przewidywanych wypłat z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa wyniosła 44,17%.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Finansów: w z. J. Bauc"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

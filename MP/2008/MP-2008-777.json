@@ -1,0 +1,58 @@
+{
+ "eli": "MP/2008/777",
+ "title": "Zarządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 31 października 2008 r. zmieniające zarządzenie w sprawie nadania statutu Polskiemu Instytutowi Sztuki Filmowej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/777/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 października 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Polskiemu Instytutowi Sztuki Filmowej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 2 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. Nr 132, poz. 1111, z 2006 r. Nr 249, poz. 1832, z 2007 r. Nr 50, poz. 331 oraz z 2008 r. Nr 180, poz. 1112) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Polskiego Instytutu Sztuki Filmowej, stanowiącym załącznik do zarządzenia Ministra Kultury z dnia 2 września 2005 r. w sprawie nadania statutu Polskiemu Instytutowi Sztuki Filmowej (M. P. Nr 52, poz. 722 oraz z 2006 r. Nr 67, poz. 690), w § 2 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„10) przygotowywanie na potrzeby własne oraz administracji publicznej, szczególnie dla ministra, corocznych raportów z dziedziny objętej zakresem działalności Instytutu; tematyka i zakres corocznych raportów uzgadniane są z ministrem;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "11) inicjowanie i prowadzenie projektów badawczych, opracowywanie i zlecanie analiz i ekspertyz służących diagnozie oraz prognozowaniu kierunków rozwoju dziedziny objętej zakresem działania Instytutu.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Kultury i Dziedzictwa Narodowego: B. Zdrojewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej — kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. Nr 216, poz. 1595)."
+ }
+}

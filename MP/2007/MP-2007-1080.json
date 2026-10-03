@@ -1,0 +1,80 @@
+{
+ "eli": "MP/2007/1080",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2007 r. w sprawie powołania Komisji Śledczej do zbadania okoliczności tragicznej śmierci byłej posłanki Barbary Blidy",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/1080/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 grudnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Komisji Śledczej do zbadania okoliczności tragicznej śmierci byłej posłanki Barbary Blidy"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 111 ust. 1 Konstytucji Rzeczypospolitej Polskiej oraz art. 1 i 2 ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej (Dz. U. Nr 35, poz. 321 oraz z 2005 r. Nr 122, poz. 1023) Sejm Rzeczypospolitej Polskiej uchwala, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Sejm Rzeczypospolitej Polskiej powołuje Komisję Śledczą do zbadania okoliczności tragicznej śmierci byłej posłanki Barbary Blidy, zwaną dalej „Komisją”.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do zakresu działania Komisji należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "zbadanie legalności i zgodności z obowiązującymi procedurami czynności przeprowadzanych w domu byłej posłanki Barbary Blidy przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego w dniu 25 kwietnia 2007 r.;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "ocena prawidłowości działań funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, których zadaniem było przygotowanie i zapewnienie właściwego przebiegu w dniu 25 kwietnia 2007 r. czynności Agencji Bezpieczeństwa Wewnętrznego związanych z osobą byłej posłanki Barbary Blidy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "zbadanie legalności działań prokuratury w postępowaniu zmierzającym do przedstawienia zarzutów byłej posłance Barbarze Blidzie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W skład Komisji wchodzi 7 członków.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

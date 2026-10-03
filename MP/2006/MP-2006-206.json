@@ -1,0 +1,348 @@
+{
+ "eli": "MP/2006/206",
+ "title": "Zarządzenie Ministra Transportu i Budownictwa z dnia 28 lutego 2006 r. w sprawie powołania Rady Programowej do spraw programu wieloletniego \"Rozwój telekomunikacji i poczty w dobie społeczeństwa informacyjnego\"",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/206/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA TRANSPORTU I BUDOWNICTWA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 lutego 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Rady Programowej do spraw programu wieloletniego „Rozwój telekomunikacji i poczty w dobie społeczeństwa informacyjnego”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 4 pkt 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Powołuje się Radę Programową do spraw programu wieloletniego „Rozwój telekomunikacji i poczty w dobie społeczeństwa informacyjnego”, zwaną dalej „Radą”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Rada jest organem pomocniczym Ministra Transportu i Budownictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład Rady wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "przewodniczący — podsekretarz stanu w Ministerstwie Transportu i Budownictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "członkowie — przedstawiciele:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_2/lit_a",
+         "text": "Ministra Gospodarki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_2/lit_b",
+         "text": "Ministra Pracy i Polityki Społecznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_2/lit_c",
+         "text": "Ministra Rozwoju Regionalnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_2/lit_d",
+         "text": "Ministra Finansów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_1/pkt_2/lit_e",
+         "text": "Ministra Spraw Wewnętrznych i Administracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_1/pkt_2/lit_f",
+         "text": "Ministra Obrony Narodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_1/pkt_2/lit_g",
+         "text": "Ministra Edukacji i Nauki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_1/pkt_2/lit_h",
+         "text": "Ministra Zdrowia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_1/pkt_2/lit_i",
+         "text": "Ministra Środowiska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_1/pkt_2/lit_j",
+         "text": "Ministra Rolnictwa i Rozwoju Wsi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/ust_1/pkt_2/lit_k",
+         "text": "Ministra Kultury i Dziedzictwa Narodowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/ust_1/pkt_2/lit_l",
+         "text": "Ministra Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_2/ust_1/pkt_2/lit_m",
+         "text": "Ministra Transportu i Budownictwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_2/ust_1/pkt_2/lit_n",
+         "text": "Prezesa Urzędu Komunikacji Elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "par_2/ust_1/pkt_2/lit_o",
+         "text": "Prezesa Urzędu Ochrony Konkurencji i Konsumentów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "p",
+         "path": "par_2/ust_1/pkt_2/lit_p",
+         "text": "Prezesa Głównego Urzędu Statystycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "q",
+         "path": "par_2/ust_1/pkt_2/lit_q",
+         "text": "Prezesa Głównego Urzędu Miar,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "r",
+         "path": "par_2/ust_1/pkt_2/lit_r",
+         "text": "Prezesa Polskiego Komitetu Normalizacyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "s",
+         "path": "par_2/ust_1/pkt_2/lit_s",
+         "text": "Prezesa Polskiej Akademii Nauk,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "t",
+         "path": "par_2/ust_1/pkt_2/lit_t",
+         "text": "Dyrektora Instytutu Łączności — Państwowego Instytutu Badawczego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przewodniczący może zaprosić do udziału w pracach Rady, na prawach członka, przedstawiciela Krajowej Rady Radiofonii i Telewizji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Do zadań Rady należy opracowywanie opinii, wniosków i analiz związanych z realizacją programu wieloletniego „Rozwój telekomunikacji i poczty w dobie społeczeństwa informacyjnego”, zwanego dalej „Programem”, a w szczególności w sprawach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "ustalenia priorytetowych kierunków prac objętych Programem i wyboru mieszczących się w ich zakresie zadań przewidzianych do realizacji w danym roku, zwanych dalej „zadaniami”, oraz podziału środków finansowych przeznaczonych na realizację zadań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "zatwierdzenia planu realizacyjnego zadań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "dokonania oceny merytorycznej i finansowej stopnia wykonania zadań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "zatwierdzenia raportu końcowego z realizacji Programu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przewodniczący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "zwołuje posiedzenia Rady;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "przewodniczy posiedzeniom Rady;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "wyznacza osobę prowadzącą posiedzenia Rady, w przypadku swojej nieobecności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu realizacji zadań Rada może tworzyć podzespoły i grupy robocze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W pracach Rady, w tym w podzespołach i grupach roboczych, mogą brać udział osoby niebędące członkami Rady, zaproszone przez przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Szczegółowy tryb pracy Rady określa regulamin, uchwalony przez Radę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Obsługę administracyjno-biurową Rady zapewnia urząd obsługujący ministra właściwego do spraw łączności.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Traci moc zarządzenie Ministra Infrastruktury z dnia 5 stycznia 2005 r. w sprawie powołania Rady Programowej do spraw programu wieloletniego „Rozwój telekomunikacji i poczty w dobie społeczeństwa informacyjnego” (M. P. Nr 3, poz. 31).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Transportu i Budownictwa: J. Polaczek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Transportu i Budownictwa kieruje działem administracji rządowej — łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 31 października 2005 r. w sprawie szczegółowego zakresu działania Ministra Transportu i Budownictwa (Dz. U. Nr 220, poz. 1900).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104."
+ }
+}

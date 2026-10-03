@@ -1,0 +1,82 @@
+{
+ "eli": "MP/2006/777",
+ "title": "Zarządzenie Prezesa Narodowego Banku polskiego z dnia 25 października 2006 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 100 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/777/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 października 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 100 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U."
+  },
+  {
+   "type": "text",
+   "text": "z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398 oraz z 2006 r. Nr 157, poz. 1119) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł, 10 zł i 100 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 6 listopada 2006 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 25 października 2006 r. (poz. 777)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ, 10 ZŁ I 100 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Średnica Wielkość War- Brzeg emisji (w gra- (w mili- Stop/próba tość (bok) (w sztustrona główna strona odwrotna mach) metrach) kach)"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczy- Na boku Popiersie kanclerza pospolitej Polskiej, po ośmiokrotbokach orła oznaczenie Jana Łaskiego, z pra- nie wej strony stylizoroku emisji: 2006, pod powtórzony wany wizerunek księorłem napis: ZŁ 2 ZŁ, napis: NBP, 2 zł gi ze zwisającą pie- 8,15 27,0 CuAl5Zn5Sn1 1 000 000 w otoku napis: RZECZ- co drugi częcią. U góry półko- POSPOLITA POLSKA, odwrócony lem napis: 500-LECIE poprzedzony oraz zakoń- o 180 stopni, WYDANIA STATUTU czony sześcioma pereł- rozdzielony ŁASKIEGO kami. Pod lewą łapą or- gwiazdkami ła znak mennicy: MW"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części stylizowany wizerunek fragmentu drze- Z prawej strony wizeru- worytu przedstawianek orła ustalony dla jący króla Aleksangodła Rzeczypospolitej dra Jagiellończyka Polskiej, z lewej strony siedzącego na tronie wizerunek wagi. Poni- oraz kanclerza Jana żej stylizowany wizeru- Łaskiego trzymająnek księgi ze zwisają- cego statut i tłok 10 zł cą pieczęcią oraz napis: gładki 14,14 32,0 Ag 925/1000 57 000 pieczętny. Powyżej 10 ZŁ. Powyżej orła tronu półkolem nai wagi oznaczenie roku pis: 500-LECIE WY- emisji: 2006. U góry DANIA STATUTU półkolem napis: RZECZ- ŁASKIEGO. W otoku POSPOLITA POLSKA. stylizowane wize- Pod lewą łapą orła znak runki 23 herbów: mennicy: MW państwa, lenn i ziem składających się na Królestwo Polskie"
+    },
+    {
+     "type": "text",
+     "text": "U góry wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Poniżej stylizowany wi- Wizerunek kanclezerunek księgi ze zwi- rza Jana Łaskiego sającą pieczęcią oraz trzymającego księgę. Z lewej strony na 100 zł napis: 100 ZŁ. Z lewej gładki 8,0 21,0 Au 900/1000 9 000 strony księgi oznacze- stylizowanej tablicy nie roku emisji: 2006. napis: 500-LECIE WY- U góry półkolem napis: DANIA STATUTU RZECZPOSPOLITA POL- ŁASKIEGO SKA. Pod lewą łapą orła znak mennicy: MW"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

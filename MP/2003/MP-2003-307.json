@@ -1,0 +1,114 @@
+{
+ "eli": "MP/2003/307",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 kwietnia 2003 r. w sprawie ustalenia wzorów protokołów głosowania i protokołu o wyniku referendum",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/307/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 kwietnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów protokołów głosowania i protokołu o wyniku referendum"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 30 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. Nr 57, poz. 507) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się do stosowania w referendum ogólnokrajowym polegającym na udzieleniu pozytywnej lub negatywnej odpowiedzi na postawione pytanie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 1 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzór protokołu głosowania na obszarze właściwości komisarza wyborczego, stanowiący załącznik nr 2 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wzór protokołu o wyniku referendum, stanowiący załącznik nr 3 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 17 kwietnia 2003 r. (poz. 307)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR Załącznik nr 1"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR Załącznik nr 2"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

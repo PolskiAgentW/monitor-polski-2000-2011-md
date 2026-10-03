@@ -1,0 +1,842 @@
+{
+ "eli": "MP/2010/926",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 27 września 2010 r. w sprawie wytycznych dla terytorialnych komisji wyborczych dotyczących wykonywania zadań do dnia głosowania w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz w bezpośrednich wyborach wójtów, burmistrzów i prezydentów miast, zarządzonych na dzień 21 listopada 2010 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/926/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 września 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wytycznych dla terytorialnych komisji wyborczych dotyczących wykonywania zadań do dnia głosowania w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz w bezpośrednich wyborach wójtów, burmistrzów i prezydentów miast, zarządzonych na dzień 21 listopada 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 2 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190) w związku z art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191) i art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wytyczne dla terytorialnych komisji wyborczych dotyczące wykonywania zadań do dnia głosowania w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz w bezpośrednich wyborach wójtów, burmistrzów i prezydentów miast, zarządzonych na dzień 21 listopada 2010 r., stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 27 września 2010 r. (poz. 926)"
+    },
+    {
+     "type": "text",
+     "text": "WYTYCZNE DLA TERYTORIALNYCH KOMISJI WYBORCZYCH DOTYCZĄCE WYKONYWANIA ZADAŃ DO DNIA GŁOSOWANIA W WYBORACH DO RAD GMIN, RAD POWIATÓW I SEJMIKÓW WOJEWÓDZTW, RADY M.ST. WARSZAWY I RAD DZIELNIC M.ST. WARSZAWY ORAZ W BEZPOŚREDNICH WYBORACH WÓJTÓW, BURMISTRZÓW I PREZYDENTÓW MIAST, ZARZĄDZONYCH NA DZIEŃ 21 LISTOPADA 2010 R."
+    },
+    {
+     "type": "text",
+     "text": "Ilekroć w niniejszych wytycznych jest mowa o:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Ordynacji wyborczej — należy przez to rozumieć ustawę z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "ustawie o wyborze wójta — należy przez to rozumieć ustawę z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "ustawie warszawskiej — należy przez to rozumieć ustawę z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "terytorialnych komisjach wyborczych — należy przez to rozumieć wojewódzkie, powiatowe, gminne oraz dzielnicowe komisje wyborcze w m.st. Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "gminnych komisjach wyborczych — należy przez to rozumieć także komisje miejskie w gminach o statusie miasta oraz Miejską Komisję Wyborczą i dzielnicowe komisje wyborcze w m.st. Warszawie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. P ierwsze posiedzenia terytorialnych komisji wyborczych. Organizacja pracy terytorialnych komisji wyborczych"
+      },
+      {
+       "type": "text",
+       "text": "Terytorialne komisje wyborcze podejmują działania niezwłocznie po powołaniu, w szczególności odbywają pierwsze posiedzenia, poświęcone określeniu swoich zadań i obowiązków oraz ustaleniu organizacji pracy."
+      },
+      {
+       "type": "text",
+       "text": "Pierwsze posiedzenie wojewódzkich komisji wyborczych organizują komisarze wyborczy wykonujący czynności o charakterze ogólnowojewódzkim, wymienieni w załączniku nr 2 do uchwały Państwowej Komisji Wyborczej z dnia 25 marca 2002 r. w sprawie określenia właściwości terytorialnej komisarzy wyborczych, właściwości rzeczowej w zakresie wykonywania czynności o charakterze ogólnowojewódzkim oraz trybu pracy komisarzy wyborczych (M. P. Nr 13, poz. 225 i Nr 37, poz. 589, z 2004 r. Nr 6, poz. 114 oraz z 2010 r. Nr 68, poz. 856)."
+      },
+      {
+       "type": "text",
+       "text": "Pierwsze posiedzenia powiatowych i gminnych komisji wyborczych organizują, z upoważnienia komisarza wyborczego, odpowiednio starostowie oraz wójtowie, burmistrzowie i prezydenci miast."
+      },
+      {
+       "type": "text",
+       "text": "Komisje: wojewódzka i powiatowa oraz miejska w miastach na prawach powiatu dokonują wyboru zastępcy przewodniczącego komisji; przewodniczącymi tych komisji są z urzędu sędziowie powołani przez komisarzy wyborczych. Gminna komisja wyborcza wybiera na pierwszym posiedzeniu ze swego składu przewodniczącego komisji i jego zastępcę (art. 17 ust. 3 i 6 Ordynacji wyborczej)."
+      },
+      {
+       "type": "text",
+       "text": "Tryb wyboru przewodniczącego i zastępcy przewodniczącego komisji określa regulamin terytorialnych komisji wyborczych ustalony w załączniku nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 4 września 2006 r. w sprawie regulaminów terytorialnych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do rad gmin, rad powiatów i sejmików województw (M. P. Nr 61, poz. 642)."
+      },
+      {
+       "type": "text",
+       "text": "Terytorialna komisja wyborcza ustala na pierwszym posiedzeniu plan działań w zakresie przyjmowania zgłoszeń i rejestracji list kandydatów na radnych, które mogą być dokonywane niezwłocznie po jej powołaniu. W planie określa się harmonogram dyżurów dla przyjmowania zgłoszeń, uwzględniając, że z reguły większy napływ zgłoszeń następuje w okresie bezpośrednio poprzedzającym upływ terminu do ich dokonania. Termin ten upływa w dniu 22 października 2010 r. o godz. 24⁰⁰ (art. 101 ust. 1 Ordynacji wyborczej). Dyżury powinny być pełnione codziennie w czasie dogodnym dla zgłaszających. Informację o miejscu, dniach i godzinach dyżurów podaje się do publicznej wiadomości, w sposób zwyczajowo przyjęty, a także wywiesza się w siedzibie komisji oraz zamieszcza w Biuletynie Informacji Publicznej organu obsługującego komisję."
+      },
+      {
+       "type": "text",
+       "text": "Gminna komisja wyborcza, organizując pracę w zakresie przyjmowania zgłoszeń list kandydatów na radnych, uwzględnia przyjmowanie zgłoszeń kandydatów na wójta, burmistrza i prezydenta miasta."
+      },
+      {
+       "type": "text",
+       "text": "II. Przyjmowanie zgłoszeń list kandydatów na radnych"
+      },
+      {
+       "type": "text",
+       "text": "Wykonując czynności związane z przyjmowaniem dokumentów zgłoszenia list kandydatów na radnych, terytorialna komisja wyborcza bada, czy zgłoszenia spełniają warunki określone w Ordynacji wyborczej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Kandydatów na radnych zgłasza się zawsze w formie list kandydatów, nawet wówczas, gdy lista obejmuje jedną kandydaturę (art. 95 ust. 2 Ordynacji wyborczej). Listy zgłasza się w okręgach wyborczych. Komitet wyborczy może zgłosić w każdym okręgu wyborczym tylko jedną listę kandydatów. Kandydat może być zgłoszony tylko jeden raz, w jednym okręgu wyborczym, na jednej liście. Kandydować można tylko do jednej rady (art. 8 ust. 1, art. 98 ust. 1 i 3 Ordynacji wyborczej).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kandydatem na radnego do danej rady może być obywatel polski, który:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "najpóźniej w dniu wyborów kończy 18 lat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "stale zamieszkuje na obszarze działania rady, do której kandyduje;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "jest wpisany do rejestru wyborców w gminie na obszarze działania danej rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "nie był karany za przestępstwo umyślne ścigane z oskarżenia publicznego prawomocnym wyrokiem sądu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "nie wydano wobec niego prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "nie wydano wobec niego prawomocnego orzeczenia sądu stwierdzającego utratę prawa wybieralności z powodu złożenia nieprawdziwego oświadczenia lustracyjnego (art. 5, art. 7 ust. 1 i 2 Ordynacji wyborczej).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Kandydatem na radnego do rady gminy może być również mający prawo wybierania obywatel Unii Europejskiej niebędący obywatelem polskim, jeżeli nie był karany na obszarze Rzeczypospolitej Polskiej za przestępstwo umyślne ścigane z oskarżenia publicznego i nie wydano wobec niego prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego oraz nie został pozbawiony praw wyborczych w kraju członkowskim Unii Europejskiej, którego jest obywatelem (art. 6a ust. 1, art. 7 ust. 2 i 3 Ordynacji wyborczej)."
+        },
+        {
+         "type": "text",
+         "text": "Kandydować do danej rady mogą też osoby wchodzące w skład komitetów wyborczych, a także pełniące funkcje pełnomocników wyborczych lub finansowych komitetów wyborczych, jeżeli posiadają prawo wybieralności do tej rady."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Liczba radnych wybieranych w okręgach wyborczych oraz kandydatów zgłaszanych na liście w wyborach do rad jednostek samorządu terytorialnego wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "w wyborach do rad gmin:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_2/pkt_1/lit_a",
+         "text": "w gminach do 20 tys. mieszkańców — w okręgu wybiera się od 1 do 5 radnych. Na liście kandydatów w danym okręgu można zgłosić najwyżej tylu kandydatów, ile mandatów jest w tym okręgu: np. w okręgu 3-mandatowym można zgłosić listę z 1, 2 lub 3 kandydatami (art. 90 ust. 1 i art. 98 ust. 2 pkt 1 Ordynacji wyborczej),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_2/pkt_1/lit_b",
+         "text": "w gminach powyżej 20 tys. mieszkańców, a także w miastach na prawach powiatu, w tym w m.st. Warszawie oraz w dzielnicach m.st. Warszawy, w okręgu wybiera się od 5 do 8 radnych. Na liście kandydatów w okręgu może być zgłoszonych nie mniej niż 5 kandydatów i nie więcej niż dwukrotność liczby radnych wybieranych w danym okręgu. Np. w okręgu 6-mandatowym można zgłosić listę co najmniej z 5 kandydatami, a najwięcej z 12 kandydatami (art. 90 ust. 2 i art. 98 ust. 2 pkt 2 Ordynacji wyborczej);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "w wyborach do rad powiatów w okręgu wybiera się od 3 do 10 radnych. Na liście kandydatów w danym okręgu może być zgłoszonych nie mniej niż 3 kandydatów i nie więcej niż dwukrotność liczby radnych wybieranych w tym okręgu. Np. w okręgu 6-mandatowym można zgłosić listę co najmniej z 3 kandydatami, a najwięcej z 12 kandydatami (art. 98 ust. 2 pkt 2, art. 133 ust. 1 i art. 140 ust. 1 Ordynacji wyborczej);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "w wyborach do sejmików województw w okręgu wybiera się od 5 do 15 radnych. Na liście kandydatów w danym okręgu może być zgłoszonych nie mniej niż 5 kandydatów, a najwięcej dwukrotność liczby radnych wybieranych w tym okręgu. Np. w okręgu 7-mandatowym można zgłosić listę co najmniej z 5 kandydatami, a najwięcej z 14 kandydatami (art. 98 ust. 2 pkt 2, art. 164 ust. 1 pkt 1 i art. 165 ust. 1 Ordynacji wyborczej).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Zgłoszenie każdej listy kandydatów powinno być poparte podpisami wyborców:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "do rady gminy w gminie do 20 tys. mieszkańców — nie mniej niż 25 wyborców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "do rady gminy w gminie powyżej 20 tys. mieszkańców, rady dzielnicy m.st. Warszawy i rady w mieście na prawach powiatu — nie mniej niż 150 wyborców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "do rady powiatu — nie mniej niż 200 wyborców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "do sejmiku województwa — nie mniej niż 300 wyborców",
+       "children": [
+        {
+         "type": "text",
+         "text": "(art. 100 ust. 1, art. 140 ust. 2, art. 165 ust. 2 Ordynacji wyborczej, art. 1 ust. 1 i art. 7 ust. 2 ustawy warszawskiej)."
+        },
+        {
+         "type": "text",
+         "text": "Poparcia danej liście mogą udzielić wyborcy stale zamieszkali na obszarze działania tej rady, do której lista jest zgłaszana (przepisy ustawy nie wymagają zamieszkiwania na obszarze okręgu wyborczego, w którym lista jest zgłaszana). Wzór wykazu osób popierających listę kandydatów określa rozporządzenie Prezesa Rady Ministrów z dnia 30 sierpnia 2002 r. w sprawie wzoru wykazu osób popierających listę kandydatów do rad gmin, rad powiatów i sejmików województw (Dz. U. Nr 139, poz. 1168)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Prawo do zgłoszenia list mają komitety wyborcze, które uzyskały od właściwego organu wyborczego, tj. Państwowej Komisji Wyborczej bądź komisarza wyborczego, potwierdzenie przyjęcia zawiadomienia o utworzeniu komitetu wyborczego (art. 99 ust. 4 Ordynacji wyborczej).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zgłoszenia listy kandydatów dokonuje się w następującym trybie:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_4/pkt_1",
+       "text": "zgłoszenie, podpisane przez pełnomocnika wyborczego komitetu lub przez osobę przez niego upoważnioną, doręcza się właściwej terytorialnej komisji wyborczej najpóźniej w 30. dniu przed dniem wyborów, tj. 22 października 2010 r. do godz. 24⁰⁰ (art. 101 ust. 1 i 2 Ordynacji wyborczej);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_4/pkt_2",
+       "text": "terytorialna komisja obowiązana jest również przyjąć i rozpatrzyć zgłoszenie nadesłane pocztą lub dostarczone przez inną osobę niż pełnomocnik, jeżeli zostało ono dostarczone w terminie określonym w art. 101 ust. 1 Ordynacji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_4/pkt_3",
+       "text": "p rzyjmowanie dokumentów zgłoszenia komisja może powierzyć wyznaczonym osobom ze swojego składu bądź utworzonym w tym celu zespołom. Przyjmujący zgłoszenie sprawdzają w obecności zgłaszającego, czy zostało ono złożone przez uprawnioną osobę i czy zawiera pełne dane i dokumenty przewidziane w art. 99 i 100, 140 ust. 2 lub art. 165 ust. 2 Ordynacji wyborczej; numerują i opatrują pieczęcią komisji arkusze wykazu podpisów, odnotowują datę i godzinę oraz liczbę porządkową wpływu, a następnie wydają potwierdzenie przyjęcia zgłoszenia, na formularzu ustalonym w załączniku nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 18 września 2006 r. w sprawie ustalenia wzoru potwierdzenia zgłoszenia do rejestracji listy kandydatów na radnych i wzoru protokołu rejestracji listy kandydatów na radnych do rady gminy, rady powiatu i sejmiku województwa (M. P. Nr 66, poz. 676 oraz z 2010 r. Nr 68, poz. 855).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Po dokonaniu zgłoszenia niedopuszczalne jest uzupełnienie listy lub zmiana kandydatów albo ich kolejności na liście (art. 101 ust. 4 Ordynacji wyborczej)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Niezwłocznie po przyjęciu dokumentów zgłoszenia, nie później jednak niż w ciągu 3 dni, terytorialna komisja wyborcza bada je w regulaminowym składzie i ustala, czy zgłoszenie spełnia ustawowe wymogi, tj. czy zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_5/pkt_1",
+       "text": "nazwę i adres komitetu wyborczego, nazwę rady i numer okręgu, w którym lista jest zgłaszana, oraz nazwisko i adres pełnomocnika wyborczego komitetu, a gdy zgłoszenia dokonuje osoba upoważniona przez pełnomocnika — również udzielone jej upoważnienie. Dokumenty składane przez pełnomocnika komitetu wyborczego lub upoważnioną przez niego osobę powinny być, w zależności od ich charakteru, albo uwierzytelnione przez pełnomocnika, albo przedłożone w oryginale. Zamiast oryginałów dokumentów pełnomocnik komitetu może złożyć kopię (kserokopię) dokumentu poświadczoną za zgodność z oryginałem. Poświadczenia za zgodność z oryginałem może dokonać pełnomocnik komitetu wyborczego lub upoważniona przez niego osoba, wpisując na kopii dokumentu potwierdzenie zgodności z oryginałem, swoje imię i nazwisko oraz składając podpis. Jeżeli zgłoszenia dokonuje upoważniona osoba i nie składa terytorialnej komisji wyborczej oryginału upoważnienia, powinna ona złożyć kopię upoważnienia i okazać komisji oryginał. Uwierzytelnienia kopii dokonuje terytorialna komisja wyborcza, bowiem upoważnienia nie może potwierdzić osoba, której upoważnienia udzielono.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Dopuszczalne jest stwierdzenie przez terytorialną komisję wyborczą, na podstawie wykazu przyjętych przez właściwy organ wyborczy zawiadomień o utworzeniu komitetu wyborczego, czy zgłoszenia dokonuje pełnomocnik danego komitetu; w takim przypadku komisja może odstąpić od żądania przedłożenia dokumentu o powołaniu danej osoby na pełnomocnika wyborczego;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_5/pkt_2",
+       "text": "dane zgłoszonych kandydatów — ich nazwiska, imiona, wiek (liczba lat) i miejsce zamieszkania (miejscowość) oraz — w razie złożenia wniosku w tej sprawie — oznaczenie kandydata nazwą lub skrótem nazwy partii lub organizacji popierającej tego kandydata; informacja ta będzie podana w obwieszczeniach o zarejestrowanych listach kandydatów. Wniosek (oświadczenie) w tej sprawie może być wniesiony tylko wraz ze zgłoszeniem, a fakt udzielenia poparcia potwierdza na piśmie właściwy statutowy organ danej partii lub organizacji. Kandydatura może być oznaczona nazwą lub skrótem nazwy jednej tylko partii lub organizacji, a oznaczenie nie może przekraczać 40 znaków drukarskich, wliczając spacje (art. 99 ust. 3 Ordynacji wyborczej).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jeżeli kandydaci na liście wymienieni są w kolejności alfabetycznej, osoba zgłaszająca listę powinna złożyć terytorialnej komisji wyborczej informację, że taka kolejność została ustalona przez komitet. Informacja ta może być zawarta w zgłoszeniu;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_5/pkt_3",
+       "text": "wskazanie skrótu nazwy komitetu wyborczego, którym zarejestrowana lista będzie oznaczona na urzędowych obwieszczeniach i kartach do głosowania (art. 109 ust. 5 i art. 114 Ordynacji wyborczej); w przypadku niepodania skrótu nazwy komitetu wyborczego terytorialna komisja wyborcza ustala jego brzmienie, korzystając z systemu informatycznego dostarczonego przez Krajowe Biuro Wyborcze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_5/pkt_4",
+       "text": "wykaz podpisów wyborców popierających zgłoszenie listy. Wykaz podpisów poparcia na każdą listę powinien obejmować podpisy w liczbie wskazanej w pkt II.3. Poparcia mogą udzielić wyborcy, którzy stale zamieszkują na obszarze tej rady, do której lista jest zgłaszana (art. 5 i 7 Ordynacji wyborczej). Wyborca może udzielić poparcia zgłoszeniom list w różnych okręgach do danej rady. Sprawdzając wykaz podpisów, komisja bada, czy jest on sporządzony zgodnie z wzorem ustalonym w rozporządzeniu, o którym mowa w pkt II.3. W szczególności bada, czy lista kandydatów w wykazie obejmuje te same nazwiska kandydatów co lista umieszczona w zgłoszeniu. Nie stanowi podstawy do kwestionowania wykazu podpisów objęcie nim większej liczby kandydatów niż zgłoszonych na liście. Niedopuszczalne jest natomiast umieszczenie na liście innych kandydatów niż na wykazie podpisów. Wykaz podpisów powinien zawierać wszystkie elementy ustalone we wzorze. Część wstępna wykazu wraz z listą kandydatów musi znajdować się na każdej karcie wykazu z podpisami. Wykaz może być natomiast sporządzony dwustronnie, przy czym pierwsza strona powinna odpowiadać treścią wzorowi ustalonemu przez Prezesa Rady Ministrów, zaś druga strona może być kontynuacją rubryk tabeli „Osoby popierające listę kandydatów” przy zachowaniu kolejności numeracji w rubryce „Lp.”. Wykaz nie może być przedstawiony w formie kopii, a także nie może składać się z części doklejanych. Wadą jest przedłożenie wykazu w dwóch częściach: osobno listy kandydatów i osobno danych identyfikujących osoby popierające oraz ich podpisy. Adres zamieszkania powinien obejmować nazwę miejscowości, nazwę ulicy, nr domu, numer mieszkania. W miejscowościach, w których nie ma ulic, adres powinien zawierać nazwę miejscowości i numer posesji. Podawanie kodu pocztowego nie jest konieczne. Podanie numeru lokalu dotyczy tylko budynków wielomieszkaniowych. Brak danych lub niepełne określenie adresu zamieszkania spowoduje uznanie poparcia za złożone wadliwie. Uznaje się za prawidłowo udzielone poparcie, gdy zamiast wskazania pełnego brzmienia nazwy miejscowości w rubryce „Adres zamieszkania” popierający posłuży się powszechnie używanym i jednoznacznie rozumianym skrótem tej nazwy, jeżeli inne dane dotyczące adresu zamieszkania (nazwa ulicy, nr domu, nr lokalu) zostały podane zgodnie z wymaganiami. Za prawidłowo udzielone poparcie uznaje się również takie, w którym zamiast dokładnego podania adresu zamieszkania w rubryce na to przeznaczonej postawiono znak odnośnika do adresu wskazanego w pozycji bezpośrednio wyżej umieszczonej w wykazie podpisów, jeżeli osoby wymienione w tych pozycjach noszą to samo nazwisko, co wskazywałoby, iż są członkami rodziny wspólnie zamieszkałymi pod tym samym adresem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_5/pkt_5",
+       "text": "p isemną zgodę każdego kandydata na kandydowanie w wyborach zarządzonych na 21 listopada 2010 r. wraz z oświadczeniem o posiadaniu prawa wybieralności (biernego prawa wyborczego do danej rady). W oświadczeniu tym konieczne jest wskazanie przez kandydata numeru okręgu wyborczego, w którym będzie kandydował, oraz nazwy komitetu wyborczego, który zgłasza jego kandydaturę. Zgoda na kandydowanie powinna zawierać imię (imiona), nazwisko, wiek (ustawowy wymóg spełnia podanie daty urodzenia kandydata lub jego wieku w latach), numer ewidencyjny PESEL (w przypadku obywatela Unii Europejskiej niebędącego obywatelem polskim może to być również numer paszportu lub innego dokumentu stwierdzającego tożsamość), własnoręczny podpis kandydata i datę. Komisja uznaje złożone przez kandydata oświadczenie o posiadaniu prawa wybieralności za wiarygodny dowód uprawniający do kandydowania. W przypadku powzięcia w tym zakresie uzasadnionych wątpliwości komisja kieruje, na podstawie art. 6 ust. 1 pkt 9 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2008 r. Nr 50, poz. 292, z późn. zm.), zapytanie w sprawie karalności tego kandydata. Zapytanie kieruje się do właściwego miejscowo punktu informacyjnego Biura Informacyjnego Krajowego Rejestru Karnego (w trybie i w sposób określony w rozporządzeniu Ministra Sprawiedliwości z dnia 7 listopada 2003 r. w sprawie udzielania informacji o osobach oraz o podmiotach zbiorowych na podstawie danych zgromadzonych w Krajowym Rejestrze Karnym (Dz. U. Nr 198, poz. 1930, z późn. zm.)). Komisja jest zwolniona od uiszczenia opłaty za wydanie z Rejestru informacji (art. 24 ust. 1 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym). W przypadku otrzymania informacji potwierdzającej karalność kandydata, komisja odmawia przyjęcia zgłoszenia tej kandydatury.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Karalność kandydata ocenia się według stanu na dzień wyborów. W przypadku prawomocnego skazania za przestępstwo umyślne ścigane z oskarżenia publicznego pozbawienie prawa wybieralności następuje na czas określony okresem ewidencjonowania w rejestrze skazanych (Krajowym Rejestrze Karnym). Natomiast w przypadku warunkowego umorzenia postępowania karnego, pozbawienie biernego prawa wyborczego następuje na okres próby, wskazany w wyroku warunkowo umarzającym postępowanie. Oznacza to, że osoby, wobec których zapadł prawomocny wyrok skazujący za przestępstwo umyślne, ścigane z oskarżenia publicznego, nie mają biernego prawa wyborczego w okresie, w którym są wpisane do ewidencji Krajowego Rejestru Karnego. Natomiast osoby, wobec których warunkowo umorzono postępowanie karne za przestępstwo umyślne ścigane z oskarżenia publicznego, nie mają biernego prawa wyborczego w okresie próby wskazanym przez sąd w warunkowym umorzeniu postępowania;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_5/pkt_6",
+       "text": "oświadczenia wszystkich kandydatów (z wyjątkiem kandydatów — obywateli Unii Europejskiej niebędących obywatelami polskimi oraz kandydatów będących obywatelami polskimi urodzonych po dniu 31 lipca 1972 r.), dotyczące pracy lub służby w organach bezpieczeństwa państwa lub współpracy z tymi organami w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. Oświadczenia muszą być złożone według wzoru stanowiącego załącznik nr 1a do ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944—1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.). Kandydaci, którzy w związku z pełnieniem lub ubieganiem się o funkcję publiczną złożyli oświadczenie według wskazanego wyżej wzoru po dniu 13 września 2007 r., zamiast oświadczenia składają informację o złożeniu oświadczenia, według wzoru stanowiącego załącznik nr 2a do powołanej ustawy. Natomiast kandydaci, którzy złożyli oświadczenie lustracyjne przed tą datą, zobowiązani są do ponownego złożenia oświadczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_5/pkt_7",
+       "text": "o świadczenia kandydatów — obywateli Unii Europejskiej niebędących obywatelami polskimi wskazujące ich obywatelstwo, adres i okres stałego zamieszkania na terytorium Rzeczypospolitej Polskiej oraz ostatni adres zamieszkania w państwie członkowskim Unii Europejskiej, którego są obywatelami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_5/pkt_8",
+       "text": "z aświadczenia dotyczące kandydatów — obywateli Unii Europejskiej niebędących obywatelami polskimi, wydane przez właściwy organ państwa członkowskiego Unii Europejskiej, którego kandydat jest obywatelem, że nie pozbawiono go prawa wybieralności w tym państwie lub że organ ten nie posiada informacji o pozbawieniu go tego prawa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_5/pkt_9",
+       "text": "p otwierdzenie poparcia udzielonego kandydatom przez partie polityczne lub organizacje.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Komisja czuwa nad prawidłowym oznaczeniem poszczególnych kandydatów na zgłoszonej liście nazwą lub skrótem nazwy partii lub organizacji popierającej kandydaturę. W szczególności bada, czy poparcie jest potwierdzone pisemnie przez właściwy statutowy organ partii lub organizacji, uwzględniając, że kandydat może być popierany tylko przez jeden podmiot. Oznaczenia dotyczące poparcia kandydatów będą umieszczone na obwieszczeniach, nie będą natomiast umieszczone na karcie do głosowania. Komisja sprawdza ponadto, czy oznaczenia poszczególnych kandydatów nie przekraczają 40 znaków drukarskich, wliczając spacje (art. 99 ust. 3 Ordynacji wyborczej).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Jeżeli dokumenty zgłoszenia i wykaz osób popierających zgłoszenie spełniają ustawowo określone warunki, terytorialna komisja wyborcza sporządza niezwłocznie w trzech egzemplarzach protokół rejestracji listy kandydatów na formularzu według wzoru stanowiącego załącznik nr 2 do uchwały Państwowej Komisji Wyborczej, powołanej w pkt II.4.3. Jeden egzemplarz protokołu komisja doręcza zgłaszającemu, a drugi przekazuje niezwłocznie komisarzowi wyborczemu (art. 107 ust. 1 Ordynacji wyborczej). Komisja nie jest uprawniona do dokonywania jakichkolwiek zmian — poza zmianami wynikającymi z odmowy rejestracji zgłoszenia listy w części, o czym mowa w pkt II.9 — w kolejności kandydatów na liście określonej w zgłoszeniu, nawet jeżeli kolejność ta jest kolejnością alfabetyczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Po sporządzeniu protokołu terytorialna komisja wyborcza niezwłocznie przekazuje oświadczenia i informacje, o których mowa w pkt II.5.6., do Oddziałowego Biura Lustracyjnego Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu właściwego ze względu na miejsce zamieszkania kandydata (art. 107 ust. 2 Ordynacji wyborczej).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_2/ust_9",
+     "text": "Jeżeli terytorialna komisja stwierdzi wady zgłoszenia inne niż dotyczące wykazu osób popierających, wskazuje je w uchwale i wzywa pełnomocnika do ich usunięcia w terminie 3 dni. Wady te mogą dotyczyć np. braku lub niepełnych danych w oświadczeniu o zgodzie na kandydowanie, braku lub niepełnych danych w oświadczeniach lustracyjnych kandydatów lub w informacjach o uprzednim złożeniu oświadczenia itp. Jeżeli wskazane wady nie zostaną usunięte w wyznaczonym przez komisję terminie, komisja odmawia rejestracji zgłoszenia w całości lub co do poszczególnych kandydatów. W razie odmowy rejestracji w odniesieniu do niektórych kandydatów zgłoszenie rejestruje się w zakresie nieobjętym odmową, o ile liczba kandydatów nieobjętych odmową nie jest niższa niż minimalna wymagana liczba kandydatów na liście. Uchwałę w tej sprawie doręcza się zgłaszającemu i przesyła komisarzowi wyborczemu (art. 106 Ordynacji wyborczej); w uchwale należy zawrzeć pouczenie o przysługującym pełnomocnikowi odwołaniu do komisarza wyborczego w terminie 3 dni od daty jej doręczenia. Także w razie stwierdzenia, że nazwa lub skrót nazwy komitetu wyborczego podane w zgłoszeniu różnią się od nazwy lub skrótu nazwy wynikających z postanowienia właściwego organu wyborczego o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego, komisja wzywa pełnomocnika do usunięcia tej wady w ciągu 3 dni, a w razie jej nieusunięcia odmawia rejestracji listy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_2/ust_10",
+     "text": "Jeżeli zgłoszenie listy kandydatów nie uzyskało wymaganego ustawowo poparcia wyborców, terytorialna komisja podejmuje uchwałę o odmowie przyjęcia zgłoszenia listy, wskazując ustalone wady, i zwraca pełnomocnikowi zgłoszenie, czyniąc o tym stosowną adnotację w prowadzonym rejestrze zgłoszeń.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pełnomocnik może ponownie dokonać zgłoszenia listy w terminie do dnia 22 października 2010 r. do godz. 24⁰⁰."
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli zgłoszenie listy zostało dokonane w takim terminie, że usunięcie stwierdzonych wad dotyczących wykazu podpisów nie jest możliwe w terminie ustalonym dla dokonywania zgłoszeń, komisja podejmuje uchwałę o odmowie rejestracji zgłoszenia; uchwałę przekazuje się niezwłocznie pełnomocnikowi. W uchwale zamieszcza się pouczenie o przysługującym uprawnieniu do wniesienia skargi do właściwego sądu okręgowego w terminie 3 dni od daty jej doręczenia. Dokumentacja zgłoszenia pozostaje w posiadaniu komisji (art. 105 Ordynacji wyborczej)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_2/ust_11",
+     "text": "Jeżeli w danym okręgu wyborczym do dnia 22 października 2010 r. do godz. 24⁰⁰ nie zgłoszono żadnej listy kandydatów lub została zgłoszona tylko jedna lista kandydatów, a liczba zgłoszonych na niej kandydatów jest równa bądź mniejsza od liczby radnych wybieranych w danym okręgu, komisja wyborcza wzywa niezwłocznie, przez rozplakatowanie obwieszczeń, do dokonania dodatkowych zgłoszeń w terminie 5 dni od dnia rozplakatowania obwieszczenia (art. 108 ust. 1 Ordynacji wyborczej).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jeżeli mimo dodatkowego terminu na dokonanie zgłoszeń w okręgu wyborczym nie została zgłoszona i zarejestrowana żadna lista kandydatów na radnych, wyborów w tym okręgu nie przeprowadza się. Właściwa terytorialna komisja wyborcza powiadamia o tym niezwłocznie wyborców, informując w obwieszczeniu o przyczynach nieprzeprowadzania wyborów (art. 108 ust. 2 Ordynacji wyborczej)."
+      },
+      {
+       "type": "text",
+       "text": "III. Nadawanie numerów listom kandydatów"
+      },
+      {
+       "type": "text",
+       "text": "Wszystkie zarejestrowane listy kandydatów oznacza się numerami."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Procedura przyznawania numerów rozpocznie się w Państwowej Komisji Wyborczej, która najpóźniej w dniu 27 października 2010 r. przyzna w drodze losowania jednolite numery listom kandydatów w wyborach do sejmików województw tych komitetów, które mają zarejestrowane listy w ponad połowie okręgów w wyborach do wszystkich sejmików województw. Zgodnie z art. 64n ust. 2 Ordynacji wyborczej, komitet wyborczy, aby spełnić warunek, musi zarejestrować listę kandydatów w każdym z 16 województw, a ich łączna liczba musi być większa od liczby stanowiącej połowę wszystkich okręgów wyborczych we wszystkich województwach. Informację o nadanych numerach Państwowa Komisja Wyborcza poda bezzwłocznie do publicznej wiadomości oraz zawiadomi o nich komisarzy wyborczych wykonujących czynności o charakterze ogólnowojewódzkim, którzy przypisują te numery (przyznane przez Państwową Komisję Wyborczą) zarejestrowanym na obszarze danego województwa listom kandydatów tego komitetu do rad powiatów i rad gmin (art. 64o ust. 1 i 2 Ordynacji wyborczej).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Komisarz wyborczy wykonujący czynności o charakterze ogólnowojewódzkim po ustaleniu, listy których komitetów wyborczych do sejmiku województwa zostały zarejestrowane w więcej niż jednym okręgu wyborczym na obszarze województwa, przyznaje listom tych komitetów w drodze losowania jednolite numery rozpoczynające się od następnego numeru po ostatnim numerze nadanym przez Państwową Komisję Wyborczą. Komisarz wyborczy ustala następnie, które komitety wyborcze zarejestrowały listy kandydatów do sejmiku województwa w jednym okręgu wyborczym, i przyznaje listom tych komitetów w drodze losowania numery następujące po numerach już nadanych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komisarz wyborczy w dalszej kolejności ustala, czy komitety wyborcze, które mają zarejestrowane listy kandydatów do sejmiku województwa w jednym lub więcej okręgach wyborczych, mają także zarejestrowane w ponad połowie okręgów na obszarze województwa listy kandydatów do rad powiatów i rad miast na prawach powiatu. W takim wypadku komisarz przyznaje jednolite numery, takie same jak nadane listom do sejmiku województwa, wszystkim listom tych komitetów do rad powiatów i rad gmin. Przyznania numerów komisarz dokonuje do dnia 29 października 2010 r. i niezwłocznie podaje do wiadomości publicznej informację o przyznanych numerach list oraz zawiadamia o nich pozostałych komisarzy wyborczych na obszarze województwa (art. 64n ust. 2 i art. 64o ust. 3 i 4 Ordynacji wyborczej)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Komisarz wyborczy wykonujący czynności na obszarze części województwa po otrzymaniu informacji o numerach list kandydatów przyznanych przez komisarza o właściwości ogólnowojewódzkiej ustala te komitety wyborcze, które zarejestrowały listy kandydatów do rad powiatów w więcej niż jednym okręgu wyborczym na obszarze tego powiatu, i przyznaje listom tych komitetów w drodze losowania, odrębnie dla każdego powiatu, jednolity numer następujący po numerach nadanych przez komisarza o właściwości ogólnowojewódzkiej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komisarz wyborczy ustala następnie, których komitetów wyborczych listy kandydatów w wyborach do rad powiatów zostały zarejestrowane w jednym okręgu wyborczym na obszarze danego powiatu, i przyznaje tym listom w drodze losowania numery następujące po numerach wcześniej przyznanych przez siebie."
+      },
+      {
+       "type": "text",
+       "text": "Komisarz wyborczy ustala z kolei, czy komitety wyborcze, które mają zarejestrowane listy kandydatów w co najmniej jednym okręgu wyborczym w wyborach do rady powiatu, zarejestrowały także listy kandydatów w ponad połowie okręgów wyborczych do wszystkich rad gmin na obszarze tego powiatu. W takim wypadku wszystkim listom kandydatów takich komitetów zarejestrowanym w wyborach do rad gmin na obszarze danego powiatu komisarz przyznaje jednolity numer, taki sam jak został przyznany listom tych komitetów do rady powiatu."
+      },
+      {
+       "type": "text",
+       "text": "Przyznania numerów komisarz wyborczy dokonuje do dnia 2 listopada 2010 r. (termin przedłużony zgodnie z art. 205 ust. 2 Ordynacji wyborczej) i niezwłocznie podaje do wiadomości publicznej informację o przyznanych numerach oraz zawiadamia o nich gminne komisje wyborcze na obszarze swojej właściwości (art. 64n ust. 3 i art. 64o ust. 5 i 6 Ordynacji wyborczej)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Gminna komisja wyborcza przyznaje numery listom kandydatów zarejestrowanym tylko do rady gminy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komisja ustala, które komitety zarejestrowały swoje listy w więcej niż jednym okręgu, lecz nie spełniły warunków uprawniających do otrzymania jednolitego numeru, i listom tym nadaje, w drodze losowania, numer następujący po ostatnim numerze nadanym listom przez komisarza wyborczego."
+      },
+      {
+       "type": "text",
+       "text": "Pozostałym listom zarejestrowanym w jednym okręgu wyborczym komisja nadaje w drodze losowania kolejne numery następujące po już nadanych. Informacje o przyznanych numerach list kandydatów gminna komisja wyborcza podaje niezwłocznie do publicznej wiadomości (art. 64o ust. 7 i 8 Ordynacji wyborczej)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "O terminie i miejscu losowania numerów list odpowiednio Państwowa Komisja Wyborcza, właściwy komisarz wyborczy i gminna komisja wyborcza powiadamiają właściwych pełnomocników komitetów wyborczych. Z przebiegu losowania, o którym mowa w pkt 1—3, sporządza się protokół. Gminna komisja wyborcza w sprawie przyznania numerów listom kandydatów podejmuje uchwałę.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Sporządzenie obwieszczenia o zarejestrowanych listach kandydatów"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Po zarejestrowaniu wszystkich list kandydatów właściwa terytorialna komisja wyborcza sporządza obwieszczenie o zarejestrowanych listach kandydatów do danej rady, według okręgów wyborczych, umieszczając listy w kolejności przyznanych im numerów. W obwieszczeniu podaje się numery list, skróty nazw komitetów wyborczych, nazwiska i imiona kandydatów (w kolejności jak w zarejestrowanej liście), ich wiek i miejsce zamieszkania (miejscowość, nie adres). Przy nazwiskach kandydatów umieszcza się nazwę lub skrót nazwy partii lub organizacji popierającej danego kandydata oraz treść części A oświadczeń lustracyjnych kandydatów stwierdzających fakt ich pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Treść oświadczeń lustracyjnych kandydatów, którzy złożyli informację o uprzednim złożeniu oświadczenia, komisja ustala w Oddziałowym Biurze Lustracyjnym Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu właściwym ze względu na miejsce zamieszkania kandydata. Zapytania do Oddziałowego Biura Lustracyjnego należy przesyłać faksem. Zapytanie powinno zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "d okładny adres komisji wyborczej, numer telefonu i numer faksu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "n azwisko i imię przewodniczącego komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "n azwisko, imię oraz numer PESEL kandydata, którego zapytanie dotyczy. Zapytania do Oddziałowego Biura Lustracyjnego kieruje się wyłącznie w przypadku, gdy kandydat złożył informację o uprzednim złożeniu (po dniu 13 września 2007 r.) oświadczenia lustracyjnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "W przypadku gdy obwieszczenie składa się z kilku arkuszy (w szczególności w dużych jednostkach samorządu terytorialnego), dopuszczalne jest wywieszenie w danym okręgu wyborczym wyciągu z tego obwieszczenia obejmującego dane dotyczące tego okręgu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Druk i rozplakatowanie obwieszczeń zapewniają odpowiednio wójtowie (burmistrzowie, prezydenci miast), starostowie i marszałkowie województw. Obwieszczenia podaje się do publicznej wiadomości do dnia 8 listopada 2010 r. (termin przedłużony zgodnie z art. 205 ust. 2 Ordynacji wyborczej). Jeden egzemplarz obwieszczenia każda komisja przesyła komisarzowi wyborczemu (art. 109 ust. 5 i 6 w związku z art. 99 ust. 3 Ordynacji wyborczej).",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Zmiany w zarejestrowanych listach kandydatów"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Komisja wyborcza może dokonywać zmian w zarejestrowanych listach kandydatów z zachowaniem następujących reguł:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "komisja skreśla z listy kandydata, który:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_1/lit_a",
+         "text": "zmarł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_1/lit_b",
+         "text": "utracił prawo wybieralności (tzn. został pozbawiony praw publicznych prawomocnym orzeczeniem sądu, pozbawiony praw wyborczych orzeczeniem Trybunału Stanu, ubezwłasnowolniony prawomocnym orzeczeniem sądu, został ukarany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego, został wydany wobec niego prawomocny wyrok warunkowo umarzający postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego, zostało wydane wobec niego prawomocne orzeczenie sądu stwierdzające utratę prawa wybieralności z powodu złożenia nieprawdziwego oświadczenia lustracyjnego),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_1/lit_c",
+         "text": "jest zgłoszony jako kandydat do więcej niż jednej rady (sejmiku), w więcej niż jednym okręgu lub na więcej niż jednej liście kandydatów. Jeżeli terytorialna komisja wyborcza stwierdzi, że zgłoszony do niej (zarejestrowany przez nią) kandydat został zarejestrowany do dwóch lub więcej rad, w dwóch lub więcej okręgach lub na dwóch lub więcej listach, wówczas pozostaje on na tej liście, która została zgłoszona jako pierwsza, a z pozostałych zarejestrowanych list jest skreślany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_1/lit_d",
+         "text": "złożył na piśmie oświadczenie o wycofaniu zgody na kandydowanie, przy czym skuteczne oświadczenie kandydata o wycofaniu zgody na kandydowanie może być złożone nie później niż 14. dnia przed dniem wyborów, co oznacza, że w przypadku gdy kandydat wycofa zgodę na kandydowanie po tym terminie, jest on skreślany z listy, ale nie pociąga to za sobą konieczności unieważnienia rejestracji listy, jeżeli liczba kandydatów spadła poniżej ustawowego minimum (chyba że na liście nie pozostaje nazwisko żadnego kandydata) — art. 110 ust. 3a Ordynacji wyborczej.",
+         "children": [
+          {
+           "type": "text",
+           "text": "W przypadku kandydującego obywatela Unii Europejskiej niebędącego obywatelem polskim, komisja ponadto skreśla go z listy kandydatów, jeżeli złożył nieprawdziwe oświadczenie, że posiada prawo wybieralności."
+          },
+          {
+           "type": "text",
+           "text": "(art. 110 ust. 1 Ordynacji wyborczej)"
+          },
+          {
+           "type": "text",
+           "text": "O skreśleniu kandydata z listy komisja zawiadamia niezwłocznie właściwego pełnomocnika;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "jeżeli skreślenie kandydata nastąpiło z powodu jego śmierci, a w wyniku skreślenia liczba kandydatów w okręgu wyborczym (na wszystkich listach w tym okręgu) jest równa lub mniejsza od liczby radnych wybieranych w tym okręgu, komisja informuje pełnomocnika, że może zgłosić nowego kandydata. Uzupełnienie listy kandydatów dopuszczalne jest najpóźniej w 10. dniu przed wyborami, tj. w dniu 12 listopada 2010 r. (termin przedłużony zgodnie z art. 205 ust. 2 Ordynacji wyborczej). Do zgłoszenia takiego kandydata nie jest wymagane złożenie wykazu podpisów poparcia. Skreślenie kandydata z innych przyczyn nie uprawnia do uzupełnienia listy (art. 110 ust. 2 Ordynacji wyborczej);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "komisja unieważnia rejestrację listy, jeżeli pozostanie na niej mniej kandydatów niż minimalna wymagana ich liczba, a także jeżeli komitet wyborczy zgłaszający listę powiadomi komisję bądź właściwy organ wyborczy o swoim rozwiązaniu (art. 110 ust. 3 i 5 Ordynacji wyborczej).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Skreślenia i uzupełnienia listy komisja dokonuje w formie uchwały. O unieważnieniu listy oraz skreśleniu kandydata i zgłoszeniu nowego kandydata powiadamia się wyborców w formie obwieszczenia (art. 110 ust. 4 Ordynacji wyborczej). Jeśli wykonanie obwieszczenia przed dniem wyborów jest niemożliwe, należy zapewnić umieszczenie o tym informacji w lokalach wyborczych. Jeden egzemplarz obwieszczenia lub informacji przesyła się niezwłocznie komisarzowi wyborczemu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Postępowanie komisji w wypadkach nieprzeprowadzania głosowania"
+      },
+      {
+       "type": "text",
+       "text": "Właściwa terytorialna komisja wyborcza, w razie ustalenia, że liczba zarejestrowanych w okręgu wyborczym kandydatów na radnych jest równa lub mniejsza od liczby radnych wybieranych w tym okręgu, stwierdza to w formie uchwały oraz sporządza niezwłocznie obwieszczenie zawierające informację, że w okręgu tym, z powodu wyżej wskazanego, głosowanie nie będzie przeprowadzane, a za wybranych uznaje się zarejestrowanych kandydatów. W przypadku zaś, gdyby liczba kandydatów była mniejsza od liczby mandatów, pozostałe mandaty pozostają nieobsadzone (art. 188 Ordynacji wyborczej)."
+      },
+      {
+       "type": "text",
+       "text": "VII. Przyjmowanie zgłoszeń kandydatów na wójta, burmistrza, prezydenta miasta"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Prawo do zgłoszenia kandydata na wójta (burmistrza, prezydenta miasta) mają te same komitety wyborcze, które zostały utworzone dla zgłoszenia list kandydatów na radnych, z tym że uprawnienie to przysługuje tylko takiemu komitetowi, który spełnił warunki z art. 7 ust. 2 ustawy o wyborze wójta (zarejestrował kandydatów na radnych do danej rady gminy w co najmniej połowie okręgów wyborczych w tej gminie, a liczba zarejestrowanych kandydatów w każdym z tych okręgów jest równa lub większa niż liczba wybieranych w tym okręgu radnych). Przy ustalaniu tych danych należy mieć na uwadze, że ustawowy wymóg zarejestrowania kandydatów w liczbie nie mniejszej niż liczba mandatów odnosi się do każdego okręgu i nie może być odnoszony do łącznej liczby kandydatów na radnych w kilku okręgach wyborczych. W wyborach wójta przeprowadzanych łącznie z wyborami do rad nie mają zastosowania przepisy art. 7 ust. 4 ustawy o wyborze wójta dotyczące poparcia kandydatury podpisami wyborców.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komitet wyborczy dokonuje zgłoszenia kandydata na wójta po zarejestrowaniu list kandydatów na radnych, najpóźniej w 25. dniu przed dniem wyborów, tj. 27 października 2010 r. do godz. 24⁰⁰ (art. 7 ust. 3 ustawy o wyborze wójta)."
+      },
+      {
+       "type": "text",
+       "text": "Zgłoszenia kandydata właściwej gminnej (miejskiej) komisji wyborczej dokonuje pełnomocnik komitetu wyborczego bądź osoba przez niego upoważniona. W dokumencie zgłoszenia podaje się: nazwę i adres komitetu wyborczego, nazwisko, imię i adres pełnomocnika bądź osoby upoważnionej oraz dane o kandydacie: nazwisko, imię — imiona, wiek, wykształcenie, miejsce zamieszkania (miejscowość), nazwę partii, której członkiem jest kandydat (bądź stwierdzenie, że nie jest członkiem partii politycznej). Zgłaszający może także wnosić o oznaczenie kandydata nazwą partii politycznej bądź organizacji popierającej kandydata; oznaczenie takie nie może liczyć więcej niż 40 znaków drukarskich. Oznaczenie poparcia wymaga pisemnego potwierdzenia organu statutowego danej partii lub organizacji."
+      },
+      {
+       "type": "text",
+       "text": "Zgłaszający może ponadto wnosić o oznaczenie kandydata na kartach do głosowania nazwą lub skrótem nazwy komitetu wyborczego. W przypadku gdy osoba zgłaszająca kandydata nie złożyła takiego wniosku, gminna komisja wyborcza powinna wskazać tej osobie możliwość wyboru oznaczenia kandydata. Należy przy tym pamiętać, że oznaczenie to może zawierać co najwyżej 40 znaków drukarskich (wliczając spacje). Jeżeli osoba zgłaszająca kandydata wniesie o oznaczenie kandydatury nazwą komitetu wyborczego, która nie spełnia tego wymogu, wówczas należy wezwać komitet wyborczy do usunięcia wady zawiadomienia. System informatyczny dostarczony przez Krajowe Biuro Wyborcze umożliwi wpisanie skrótu nazwy komitetu wyborczego (w przypadku wyboru takiego oznaczenia przez osobę zgłaszającą kandydata) w protokole rejestracji kandydata w miejscu opisanym „nazwa komitetu wyborczego”."
+      },
+      {
+       "type": "text",
+       "text": "W zgłoszeniu podaje się numery okręgów wyborczych, w których komitet wyborczy zarejestrował listy kandydatów na radnych z liczbą kandydatów nie mniejszą od liczby radnych wybieranych w tych okręgach."
+      },
+      {
+       "type": "text",
+       "text": "Do zgłoszenia dołącza się:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "oświadczenie kandydata o wyrażeniu zgody na kandydowanie i posiadaniu prawa wybieralności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "oświadczenie kandydata (z wyjątkiem kandydatów urodzonych po dniu 31 lipca 1972 r.) dotyczące pracy lub służby w organach bezpieczeństwa państwa lub współpracy z tymi organami w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. Oświadczenie musi być złożone według wzoru stanowiącego załącznik nr 1a do ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944—1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.). Kandydat, który w związku z pełnieniem lub ubieganiem się o funkcję publiczną złożył oświadczenie według wskazanego wyżej wzoru po dniu 13 września 2007 r., zamiast oświadczenia składa informację o złożeniu oświadczenia, według wzoru stanowiącego załącznik nr 2a do powołanej ustawy. Natomiast kandydat, który złożył oświadczenie lustracyjne przed tą datą, zobowiązany jest do ponownego złożenia oświadczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "jeżeli zgłoszenia dokonuje osoba upoważniona przez pełnomocnika — upoważnienie wydane przez pełnomocnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "jeśli kandydat jest popierany przez partię lub organizację — pisemne potwierdzenie poparcia przez właściwy organ statutowy tej partii lub organizacji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Komisja, przyjmując dokumenty zgłoszenia kandydata, sprawdza, czy zgłoszenie zostało dokonane przez uprawniony komitet wyborczy i czy dokumenty zgłoszenia zawierają wymagane dane i są kompletne. Sprawdza w szczególności, czy kandydat ma prawo wybieralności i najpóźniej w dniu głosowania kończy 25 lat, pamiętając, że kandydatem nie może być osoba karana za przestępstwo umyślne ścigane z oskarżenia publicznego, wobec której wydano prawomocny wyrok warunkowo umarzający postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego, wobec której wydano prawomocne orzeczenie sądu stwierdzające utratę prawa wybieralności z powodu złożenia nieprawdziwego oświadczenia lustracyjnego, pozbawiona praw publicznych prawomocnym orzeczeniem sądowym, pozbawiona praw wyborczych prawomocnym orzeczeniem Trybunału Stanu, ubezwłasnowolniona prawomocnym orzeczeniem sądowym."
+        },
+        {
+         "type": "text",
+         "text": "Komisja ma także na uwadze, że obywatele Unii Europejskiej niebędący obywatelami polskimi nie mają prawa wybieralności w wyborach wójta."
+        },
+        {
+         "type": "text",
+         "text": "Posiadanie prawa wybieralności kandydat na wójta obowiązany jest stwierdzić w oświadczeniu o wyrażeniu zgody na kandydowanie. Komisja uznaje złożone przez kandydata oświadczenie o posiadaniu prawa wybieralności jako wiarygodny dowód uprawniający do kandydowania. W przypadku zaś powzięcia w tym zakresie uzasadnionych wątpliwości komisja postępuje w sposób określony w pkt II.5.5."
+        },
+        {
+         "type": "text",
+         "text": "Komisja potwierdza przyjęcie zgłoszenia na formularzu stanowiącym załącznik nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 18 września 2006 r. w sprawie ustalenia wzoru potwierdzenia zgłoszenia do rejestracji kandydata i wzoru protokołu rejestracji kandydata na wójta, burmistrza i prezydenta miasta (M. P. Nr 66, poz. 675 oraz z 2010 r. Nr 68, poz. 854)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli zgłoszenie spełnia wymagane ustawowo warunki, komisja dokonuje niezwłocznie, nie później jednak niż w ciągu 3 dni od przyjęcia zgłoszenia, rejestracji kandydata, sporządzając w trzech egzemplarzach protokół rejestracji, na formularzu określonym w załączniku nr 2 powołanej w pkt VII.1 uchwały Państwowej Komisji Wyborczej. Protokół doręcza się pełnomocnikowi komitetu oraz przesyła komisarzowi wyborczemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Po sporządzeniu protokołu terytorialna komisja wyborcza niezwłocznie przekazuje oświadczenie lustracyjne kandydata lub informację o uprzednim złożeniu oświadczenia lustracyjnego do Oddziałowego Biura Lustracyjnego Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu właściwego ze względu na miejsce zamieszkania kandydata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Stwierdzając wady formalne dokumentu zgłoszenia, dotyczące np. błędnej pisowni danych zawartych w zgłoszeniu, niekompletnej dokumentacji itp. — komisja wyborcza wzywa zgłaszającego do ich usunięcia w terminie 3 dni. Jeżeli w tym terminie wady nie zostaną usunięte, odmawia rejestracji zgłoszenia kandydata; uchwałę o odmowie rejestracji doręcza się zgłaszającemu i przesyła komisarzowi wyborczemu. Od uchwały przysługuje prawo odwołania do komisarza wyborczego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komisja terytorialna odmawia rejestracji zgłoszenia, jeżeli nie spełnia ono któregokolwiek z warunków przewidzianych w art. 7 ust. 2 ustawy o wyborze wójta, tj. gdy komitet nie dokonał rejestracji list kandydatów na radnych w co najmniej połowie okręgów wyborczych w danej gminie lub nie zarejestrował na tych listach wymaganej liczby kandydatów. Komisja odmawia rejestracji także w razie odmowy złożenia przez kandydata oświadczenia o posiadaniu prawa wybieralności bądź w przypadku udokumentowania braku tego prawa, a także w razie odmowy złożenia oświadczenia lustracyjnego lub informacji o uprzednim złożeniu takiego oświadczenia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Jeżeli w terminie na zgłaszanie kandydatów, tj. do dnia 27 października 2010 r. do godz. 24⁰⁰, nie został zgłoszony żaden kandydat lub zgłoszono tylko jednego kandydata, komisja wzywa niezwłocznie, przez rozplakatowanie obwieszczeń, do dokonania dodatkowych zgłoszeń w terminie 5 dni od dnia rozplakatowania obwieszczeń; wówczas o 5 dni od dnia rozplakatowania obwieszczeń ulega przedłużeniu termin zgłaszania kandydatów (art. 11 ust. 1 ustawy o wyborze wójta).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jeśli mimo tego postępowania w terminie nie zostanie zarejestrowany żaden kandydat — bezpośrednich wyborów wójta w tej gminie nie przeprowadza się. Terytorialna komisja wyborcza niezwłocznie powiadamia wyborców o przyczynach nieprzeprowadzania wyborów, przez rozplakatowanie obwieszczenia (art. 11 ust. 2 ustawy o wyborze wójta i art. 108 ust. 2 Ordynacji wyborczej)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Wybory są przeprowadzane także w razie zarejestrowania tylko jednego kandydata na wójta (burmistrza, prezydenta). Fakt zarejestrowania tylko jednego kandydata komisja stwierdza w podjętej uchwale, którą podaje się do wiadomości publicznej w sposób zapewniający możliwie powszechne poinformowanie wyborców. W takiej sytuacji kandydata uważa się za wybranego, jeżeli uzyskał w głosowaniu więcej niż połowę ważnie oddanych głosów (art. 11 ust. 3 ustawy o wyborze wójta).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Po zakończeniu procedury rejestracji zgłoszeń komisja sporządza listę zarejestrowanych kandydatów na wójta (burmistrza, prezydenta). Listę sporządza się w kolejności alfabetycznej nazwisk kandydatów, z podaniem ich nazwisk i imion, wieku, wykształcenia, miejsca zamieszkania (miejscowość, nie adres) oraz nazw lub skrótów komitetów wyborczych zgłaszających kandydatów, nazwy partii, do której należy dany kandydat, nazwy lub skrótu nazwy partii lub organizacji popierającej danego kandydata oraz treści części A oświadczeń lustracyjnych kandydatów stwierdzających fakt ich pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Treść oświadczeń lustracyjnych kandydatów, którzy złożyli informacje o uprzednim złożeniu oświadczenia, komisja ustala w sposób wskazany w pkt IV.2."
+      },
+      {
+       "type": "text",
+       "text": "Ustalenia listy komisja dokonuje w formie uchwały. Informację o zarejestrowanych kandydatach wraz z danymi o kandydatach komisja podaje następnie do wiadomości wyborców, przez rozplakatowanie obwieszczeń w terminie do dnia 8 listopada 2010 r. (art. 10 ustawy o wyborze wójta, termin przedłużony zgodnie z art. 205 ust. 2 Ordynacji wyborczej)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Komisja skreśla kandydata z listy kandydatów, jeżeli wycofał on na piśmie zgodę na kandydowanie albo zostało stwierdzone, że kandydat nie posiada prawa wybieralności, bądź nie ukończy w dniu głosowania 25 lat lub kandyduje na wójta w innej gminie, albo gdy kandydat zmarł. Informację o skreśleniu komisja podaje do publicznej wiadomości.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jeśli skreślenia kandydata dokonano z powodu śmierci kandydata, komisja informuje pełnomocnika komitetu, który zgłosił tego kandydata, o możliwości zgłoszenia nowego kandydata. Komisja rejestruje zgłoszenie wniesione w terminie i spełniające warunki przewidziane w ustawie, uzupełniając listę o tego kandydata. Uzupełnienia listy dokonuje się w terminie do dnia 8 listopada 2010 r. (art. 12 ustawy o wyborze wójta, termin przedłużony zgodnie z art. 205 ust. 2 Ordynacji wyborczej)."
+      },
+      {
+       "type": "text",
+       "text": "W wypadku skreślenia kandydata z innych przyczyn niż śmierć kandydata, prawo do zgłoszenia nowego kandydata nie przysługuje."
+      },
+      {
+       "type": "text",
+       "text": "Komisja dokonuje unieważnienia rejestracji kandydata i skreślenia kandydata zgłoszonego przez komitet wyborczy, który uległ rozwiązaniu w trybie art. 64l ust. 2 Ordynacji wyborczej. Informację o skreśleniu z listy i przyczynach skreślenia komisja podaje w formie obwieszczenia do wiadomości publicznej. Jeżeli skreślenie nastąpiło bezpośrednio przed wyborami i nie jest możliwe sporządzenie obwieszczeń — informację o tym wywiesza się w lokalach wyborczych wraz z informacją o sposobie głosowania, jeżeli na karcie do głosowania będzie umieszczone nazwisko skreślonego kandydata. W takim wypadku na kartach do głosowania nie dokonuje się żadnych skreśleń, uzupełnień ani innych zmian dotyczących kandydatów."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1087, z 2006 r. Nr 249, poz. 1826 i 1828 oraz z 2009 r. Nr 95, poz. 787."
+ }
+}

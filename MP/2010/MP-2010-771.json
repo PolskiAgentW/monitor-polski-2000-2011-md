@@ -1,0 +1,188 @@
+{
+ "eli": "MP/2010/771",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 5 sierpnia 2010 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/771/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 sierpnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2010 r. Nr 39, poz. 542) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 27a ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Przewodniczący Komisji Regulaminowej, Etyki i Spraw Senatorskich przesyła niezwłocznie senatorowi objętemu wnioskiem odpis wstępnego wniosku, informując go o prawie do złożenia pisemnych wyjaśnień w terminie 30 dni od dnia jego otrzymania oraz o innych uprawnieniach przysługujących mu w postępowaniu przed komisją.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 27b ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Komisja Regulaminowa, Etyki i Spraw Senatorskich przedstawia Senatowi sprawozdanie z przeprowadzonego postępowania wraz z wnioskiem o pociągnięcie do odpowiedzialności konstytucyjnej senatora lub o umorzenie postępowania w sprawie. Wraz ze sprawozdaniem komisja przedstawia Senatowi kandydata na oskarżyciela spośród senatorów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 85d otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 85d. S prawozdanie, o którym mowa w art. 80 ust. 2, przygotowywane jest w terminie nie dłuższym niż 45 dni.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 92:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_4/lit_a",
+       "text": "w ust. 1 uchyla się pkt 2,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_4/lit_b",
+       "text": "w ust. 2 dodaje się pkt 3 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) dwóch członków Rady Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 93 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Wniosek w sprawie wyboru lub powołania poszczególnych osób na stanowiska państwowe określone w art. 92 ust. 1 i ust. 2 pkt 1 i 2 zgłosić może grupa co najmniej 7 senatorów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 94 w ust. 2 pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) przed upływem kadencji organów lub członków organów, o których mowa wart. 92 ust. 1 i ust. 2 pkt 1 i 2,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 95 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Jeżeli w głosowaniu nie dokonano wyboru lub powołania wymaganej liczby członków organów państwowych, o których mowa w art. 92 ust. 1 i ust. 2 pkt 1 i 2, senatorom przysługuje prawo ponownego zgłaszania kandydatur w terminie 7 dni od daty głosowania. Art. 93 i 94 ust. 1, 3 i 4 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "po art. 95 dodaje się art. 95a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 95a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Marszałek Senatu zwraca się do właściwej komisji o zaopiniowanie kandydatów na członków Rady Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, przedstawionych przez zgromadzenie elektorów. Komisja przedstawia Senatowi opinie sformułowane w oparciu o przeprowadzone przesłuchania kandydatów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Marszałek Senatu informuje przewodniczącego zgromadzenia elektorów o niepowołaniu wymaganej liczby członków Rady.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przypadku nieprzedstawienia w terminie przez zgromadzenie elektorów wymaganej liczby kandydatów na członków Rady albo ustania członkostwa w Radzie przed upływem kadencji, Senat powołuje członków Rady z odpowiednim zastosowaniem art. 93—95.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 96 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Odwołanie członków organów państwowych, o których mowa w art. 92 ust. 2, następuje wyłącznie w przypadkach określonych w odpowiednich ustawach. Marszałek Senatu przedstawia Senatowi projekt uchwały w tej sprawie.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,89 @@
+{
+ "eli": "MP/2011/503",
+ "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 27 maja 2011 r. zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/503/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA ZARZĄDU NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 maja 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Zarządu Narodowego Banku Polskiego z dnia 10 kwietnia 1998 r. w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M. P. Nr 12, poz. 203, z późn. zm.[^2]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "po § 1 dodaje się § 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 1a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Członek Zarządu realizuje politykę ustaloną przez Zarząd.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Członek Zarządu reprezentuje w swoich wystąpieniach stanowisko zgodne z ustaleniami przyjętymi przez Zarząd.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 4 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Materiały przygotowane do rozpatrzenia na posiedzeniach Zarządu wymagają zatwierdzenia przez Prezesa NBP lub właściwego wiceprezesa NBP.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Zarządu"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Narodowego Banku Polskiego: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317, z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164, z 2010 r. Nr 109, poz. 709 i Nr 257, poz. 1724 oraz z 2011 r. Nr 75, poz. 398 i Nr 117, poz. 676.",
+  "2": "Zmiany wymienionej uchwały zostały ogłoszone w M. P. z 2001 r. Nr 7, poz. 116 i Nr 35, poz. 568, z 2005 r. Nr 58, poz. 787, z 2007 r. Nr 14, poz. 143 i Nr 58, poz. 660 oraz z 2009 r. Nr 5, poz. 45."
+ }
+}

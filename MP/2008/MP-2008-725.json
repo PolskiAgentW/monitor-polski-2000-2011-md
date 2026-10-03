@@ -1,0 +1,115 @@
+{
+ "eli": "MP/2008/725",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 14 października 2008 r. w sprawie stawek opłat za usunięcie drzew i krzewów oraz kar za zniszczenie zieleni na rok 2009",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/725/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 października 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek opłat za usunięcie drzew i krzewów oraz kar za zniszczenie zieleni na rok 2009"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 85 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880, z późn. zm.[^2]) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "maksymalne stawki opłat za usuwanie drzew, za jeden centymetr obwodu pnia mierzonego na wysokości 130 cm, określone w załączniku nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stawki opłat dla poszczególnych rodzajów i gatunków drzew, określone w załączniku nr 2 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "stawkę za usunięcie jednego metra kwadratowego powierzchni pokrytej krzewami w wysokości 222,54 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "stawki kar za zniszczenie jednego metra kwadratowego terenu zieleni w wysokości:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "dla trawników — 51,18 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "dla kwietników — 439,51 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M. Nowicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Środowiska z dnia 14 października 2008 r. (poz. 725)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "MAKSYMALNE STAWKI OPŁAT ZA USUWANIE DRZEW, ZA JEDEN CENTYMETR OBWODU PNIA MIERZONEGO NA WYSOKOŚCI 130 CM"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "* STAWKI OPŁAT DLA POSZCZEGÓLNYCH RODZAJÓW I GATUNKÓW DRZEW"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienie:"
+    },
+    {
+     "type": "text",
+     "text": "* Za usunięcie drzew rodzajów i gatunków innych niż określone w załączniku do obwieszczenia stawki ustala się jak dla drzew o podobnej wartości przyrodniczej, wymienionych w tym załączniku."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 216, poz. 1606).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2007 r. Nr 75, poz. 493, Nr 176, poz. 1238 i Nr 181, poz. 1286 oraz z 2008 r. Nr 154, poz. 958."
+ }
+}

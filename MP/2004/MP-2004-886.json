@@ -1,0 +1,183 @@
+{
+ "eli": "MP/2004/886",
+ "title": "Zarządzenie Nr 110 Prezesa Rady Ministrów z dnia 6 grudnia 2004 r. w sprawie nadania statutu Urzędowi Zamówień Publicznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/886/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 110 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 grudnia 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Urzędowi Zamówień Publicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 152 ust. 4 ustawy z dnia 29 stycznia 2004 r. — Prawo zamówień publicznych (Dz. U. Nr 19, poz. 177, Nr 96, poz. 959, Nr 116, poz. 1207 i Nr 145, poz. 1537) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Urzędowi Zamówień Publicznych nadaje się statut stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2002 r. w sprawie nadania statutu Urzędowi Zamówień Publicznych (M. P. Nr 34, poz. 537).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 110 Prezesa Rady Ministrów z dnia 6 grudnia 2004 r. (poz. 886)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT URZĘDU ZAMÓWIEŃ PUBLICZNYCH"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Urząd Zamówień Publicznych, zwany dalej „Urzędem”, działa na podstawie ustawy z dnia 29 stycznia 2004 r. — Prawo zamówień publicznych (Dz. U. Nr 19, poz. 177, Nr 96, poz. 959, Nr 116, poz. 1207 i Nr 145, poz. 1537).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Urząd zapewnia obsługę Prezesa Urzędu Zamówień Publicznych, zwanego dalej „Prezesem”, i działa zgodnie z jego zarządzeniami, wytycznymi, decyzjami i poleceniami oraz pod jego bezpośrednim nadzorem i kierownictwem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Prezes kieruje Urzędem przy pomocy wiceprezesów, dyrektora generalnego, dyrektorów departamentów, dyrektorów biur oraz dyrektora sekretariatu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Prezes może upoważnić osoby, o których mowa w ust. 1, oraz innych pracowników Urzędu zatrudnionych na stanowiskach kierowniczych do podejmowania decyzji w imieniu Prezesa w określonych przez niego sprawach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Prezes może tworzyć rady i zespoły, jako organy doradcze i opiniodawcze, określając ich nazwę, skład osobowy, zakres i tryb działania.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "W skład Urzędu wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_1/pkt_1",
+         "text": "Sekretariat Prezesa;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_1/pkt_2",
+         "text": "Departament Prawny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_1/pkt_3",
+         "text": "Departament Kontroli;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_1/pkt_4",
+         "text": "Departament Szkoleń i Wydawnictw;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_5/ust_1/pkt_5",
+         "text": "Departament Współpracy Międzynarodowej, Studiów i Analiz;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_5/ust_1/pkt_6",
+         "text": "Biuro Odwołań;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_5/ust_1/pkt_7",
+         "text": "Biuro Organizacyjno-Finansowe;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_5/ust_1/pkt_8",
+         "text": "Samodzielne Stanowisko do Spraw Audytu Wewnętrznego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych oraz tryb pracy Urzędu określa regulamin organizacyjny nadany przez Prezesa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

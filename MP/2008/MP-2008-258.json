@@ -1,0 +1,175 @@
+{
+ "eli": "MP/2008/258",
+ "title": "Zarządzenie Nr 32 Prezesa Rady Ministrów z dnia 27 marca 2008 r. zmieniające zarządzenie w sprawie Komitetu Rady Ministrów do Spraw Informatyzacji i Łączności",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/258/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 32 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 marca 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie Komitetu Rady Ministrów do Spraw Informatyzacji i Łączności"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 1 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 24 Prezesa Rady Ministrów z dnia 7 marca 2007 r. w sprawie Komitetu Rady Ministrów do Spraw Informatyzacji i Łączności (M. P. Nr 16, poz. 184 i Nr 52, poz. 604) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. W skład Komitetu wchodzą:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) przewodniczący — minister właściwy do spraw informatyzacji;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) wiceprzewodniczący — w randze sekretarza lub podsekretarza stanu w Ministerstwie Spraw Wewnętrznych i Administracji, wskazany przez ministra właściwego do spraw informatyzacji;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) członkowie:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) Szef Kancelarii Prezesa Rady Ministrów lub wyznaczony przez niego sekretarz lub podsekretarz stanu w Kancelarii Prezesa Rady Ministrów,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) wyznaczeni przez właściwych ministrów sekretarze lub podsekretarze stanu, po jednym z każdego ministerstwa,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) sekretarz lub podsekretarz stanu wyznaczony przez Sekretarza Komitetu Integracji Europejskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) Prezes lub Wiceprezes Urzędu Zamówień Publicznych,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "e) Prezes lub Wiceprezes Urzędu Komunikacji Elektronicznej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "f) Prezes lub Wiceprezes Głównego Urzędu Statystycznego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "g) Pełnomocnik Rządu do Spraw Rządowego Programu Rozwoju Zintegrowanego Systemu Informacji o Nieruchomościach,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "h) Pełnomocnik Rządu do Spraw Przygotowania Organów Administracji Państwowej do Współpracy z Systemem Informacyjnym Schengen II (SIS II) i Systemem Informacji Wizowej (VIS),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "i) Przewodniczący Zespołu do Spraw Zagospodarowania Granicy Państwowej.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "dodaje się ust. 4 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. W przypadku nieobecności przewodniczącego pracami Komitetu kieruje wiceprzewodniczący.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Komitet koordynuje pracę organów administracji rządowej w zakresie realizacji Planu Informatyzacji Państwa, o którym mowa w art. 5 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565 oraz z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501).”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "dodaje się ust. 3 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Komitet rozpatruje także inne niż określone w ust. 1 i 2 sprawy powierzone mu przez Radę Ministrów lub Prezesa Rady Ministrów.”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600."
+ }
+}

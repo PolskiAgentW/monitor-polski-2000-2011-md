@@ -1,0 +1,91 @@
+{
+ "eli": "MP/2009/492",
+ "title": "Obwieszczenie Ministra Finansów z dnia 15 maja 2009 r. w sprawie ogłoszenia kwot, o których mowa w art. 15 ust. 1 ustawy o finansach publicznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/492/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 maja 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia kwot, o których mowa w art. 15 ust. 1 ustawy o finansach publicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15 ust. 1 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. z 2005 r. Nr 249, poz. 2104, z późn. zm.[^1]), w oparciu o dostępne dane, ogłasza się za rok budżetowy 2008:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwoty:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "państwowego długu publicznego — 597 796,9 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "długu Skarbu Państwa — 569 945,9 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez jednostki sektora finansów publicznych — 33 488,0 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa — 31 540,3 mln zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "że relacja do produktu krajowego brutto:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "kwoty państwowego długu publicznego wyniosła 47,0 %,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "kwoty długu Skarbu Państwa wyniosła 44,8 %.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Finansów: w z. D. Radziwiłł"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 62, poz. 504, Nr 72, poz. 619 i Nr 79, poz. 666."
+ }
+}

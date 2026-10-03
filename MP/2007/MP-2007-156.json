@@ -1,0 +1,103 @@
+{
+ "eli": "MP/2007/156",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 22 lutego 2007 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/156/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 lutego 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2002 r. Nr 54, poz. 741, z 2004 r. Nr 15, poz. 232 i Nr 18, poz. 302, z 2005 r. Nr 65, poz. 894, Nr 71, poz. 975 i Nr 84, poz. 1201 oraz z 2006 r. Nr 21, poz. 232, Nr 36, poz. 392 i Nr 85, poz. 859) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 92 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Senat wybiera i odwołuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dwóch senatorów do składu Krajowej Rady Sądownictwa,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dwóch członków Kolegium Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 93 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Senator może udzielić poparcia co najwyżej jednemu kandydatowi do Krajowej Rady Radiofonii i Telewizji, dwóm kandydatom do Krajowej Rady Sądownictwa, dwóm kandydatom do Kolegium Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz trzem kandydatom do Rady Polityki Pieniężnej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 96 ust. 1 i 2 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Odwołanie członków organu państwowego, o którym mowa w art. 92 ust. 1 pkt 1, może nastąpić na złożony do Marszałka wniosek grupy co najmniej 7 senatorów. Do wniosku dołącza się uzasadnienie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Odwołanie członków organów państwowych, o których mowa w art. 92 ust. 1 pkt 2 i ust. 2, następuje wyłącznie w przypadkach określonych w odpowiednich ustawach. Marszałek Senatu przedstawia Senatowi projekt uchwały w tej sprawie.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Niezwłocznie po ogłoszeniu ustawy z dnia 14 lutego 2007 r. o zmianie ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944—1990 oraz treści tych dokumentów i ustawy o Instytucie Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. Nr 25, poz. 162) Marszałek Senatu ustali i poda do wiadomości senatorów początek i koniec terminu na składanie wniosków w sprawie wyboru poszczególnych osób w skład Kolegium Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, tak aby okres składania wniosków był nie krótszy niż 14 dni.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia, z tym że przepisy art. 92 ust. 1 oraz art. 96 ust. 1 i 2 uchwały, o której mowa w art. 1, w brzmieniu nadanym niniejszą uchwałą, stosuje się od dnia wejścia w życie ustawy, o której mowa w art. 2.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Marszałek Senatu: w z. M. Płażyński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

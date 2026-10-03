@@ -1,0 +1,620 @@
+{
+ "eli": "MP/2005/1120",
+ "title": "Uchwała Centralnej Komisji Do Spraw Stopni i Tytułów z dnia 24 października 2005 r. w sprawie określenia dziedzin oraz dyscyplin naukowych i artystycznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/1120/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA CENTRALNEJ KOMISJI DO SPRAW STOPNI I TYTUŁÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 października 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia dziedzin nauki i dziedzin sztuki oraz dyscyplin naukowych i artystycznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595 oraz z 2005 r. Nr 164, poz. 1365) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Dziedzinami nauki i dziedzinami sztuki oraz wchodzącymi w ich skład dyscyplinami naukowymi i artystycznymi są:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Nauki biologiczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "biochemia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "biofizyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "biologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "biotechnologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_1/pkt_5",
+       "text": "ekologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_1/pkt_6",
+       "text": "mikrobiologia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Nauki chemiczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "biochemia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "biotechnologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "chemia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "technologia chemiczna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Nauki ekonomiczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_3/pkt_1",
+       "text": "ekonomia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_3/pkt_2",
+       "text": "nauki o zarządzaniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_3/pkt_3",
+       "text": "towaroznawstwo.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Nauki farmaceutyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "Nauki fizyczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_5/pkt_1",
+       "text": "astronomia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_5/pkt_2",
+       "text": "biofizyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_5/pkt_3",
+       "text": "fizyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_5/pkt_4",
+       "text": "geofizyka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_1/ust_6",
+     "text": "Nauki humanistyczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_6/pkt_1",
+       "text": "archeologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_6/pkt_2",
+       "text": "bibliologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_6/pkt_3",
+       "text": "etnologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_6/pkt_4",
+       "text": "filozofia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_6/pkt_5",
+       "text": "historia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_6/pkt_6",
+       "text": "historia sztuki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/ust_6/pkt_7",
+       "text": "językoznawstwo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/ust_6/pkt_8",
+       "text": "kulturoznawstwo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_1/ust_6/pkt_9",
+       "text": "literaturoznawstwo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_1/ust_6/pkt_10",
+       "text": "nauki o polityce; 8) elektrotechnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_1/ust_6/pkt_11",
+       "text": "nauki o poznaniu i komunikacji społecznej; 9) geodezja i kartografia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_1/ust_6/pkt_12",
+       "text": "nauki o sztuce; 10) górnictwo i geologia inżynierska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_1/ust_6/pkt_13",
+       "text": "nauki o zarządzaniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_1/ust_6/pkt_11",
+       "text": "informatyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_1/ust_6/pkt_14",
+       "text": "pedagogika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_1/ust_6/pkt_15",
+       "text": "psychologia; 12) inżynieria chemiczna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_1/ust_6/pkt_16",
+       "text": "religioznawstwo; 13) inżynieria materiałowa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_1/ust_6/pkt_17",
+       "text": "socjologia. 14) inżynieria środowiska;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_1/ust_7",
+     "text": "Nauki leśne: 15) mechanika;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_7/pkt_1",
+       "text": "drzewnictwo; 16) metalurgia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_7/pkt_2",
+       "text": "leśnictwo.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_1/ust_7/pkt_17",
+       "text": "technologia chemiczna;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_1/ust_8",
+     "text": "Nauki matematyczne: 18) telekomunikacja;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_8/pkt_1",
+       "text": "informatyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_1/ust_8/pkt_19",
+       "text": "transport;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_8/pkt_2",
+       "text": "matematyka.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_1/ust_8/pkt_20",
+       "text": "włókiennictwo.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_1/ust_9",
+     "text": "Nauki medyczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_9/pkt_1",
+       "text": "biologia medyczna; 15. Nauki teologiczne.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_9/pkt_2",
+       "text": "medycyna; 16. Nauki weterynaryjne.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_9/pkt_3",
+       "text": "stomatologia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "par_1/ust_17",
+     "text": "Nauki wojskowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_1/ust_10",
+     "text": "Nauki o kulturze fizycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_1/ust_11",
+     "text": "Nauki o Ziemi: 18. Sztuki filmowe.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_11/pkt_1",
+       "text": "geofizyka; 19. Sztuki muzyczne:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_11/pkt_2",
+       "text": "geografia; 1) dyrygentura;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_11/pkt_3",
+       "text": "geologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_11/pkt_2",
+       "text": "instrumentalistyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_11/pkt_4",
+       "text": "oceanologia.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_11/pkt_3",
+       "text": "kompozycja i teoria muzyki;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_1/ust_12",
+     "text": "Nauki prawne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_12/pkt_1",
+       "text": "nauka o administracji; 4) reżyseria dźwięku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_12/pkt_2",
+       "text": "prawo; 5) rytmika i taniec;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_12/pkt_3",
+       "text": "prawo kanoniczne. 6) wokalistyka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_1/ust_13",
+     "text": "Nauki rolnicze: 20. Sztuki plastyczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_13/pkt_1",
+       "text": "agronomia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_13/pkt_2",
+       "text": "inżynieria rolnicza; 1) sztuki piękne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_13/pkt_3",
+       "text": "kształtowanie środowiska; 2) sztuki użytkowe.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_13/pkt_4",
+       "text": "ogrodnictwo;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "par_1/ust_21",
+     "text": "Sztuki teatralne.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_21/pkt_5",
+       "text": "rybactwo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_21/pkt_6",
+       "text": "technologia żywności i żywienia; § 2. Traci moc uchwała Centralnej Komisji do",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/ust_21/pkt_7",
+       "text": "zootechnika. Spraw Stopni i Tytułów z dnia 23 czerwca 2003 r. 14. Nauki techniczne: w sprawie określenia dziedzin nauki i dziedzin sztuki 1) architektura i urbanistyka; oraz dyscyplin naukowych i artystycznych (M. P. Nr 40, poz. 586).",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_21/pkt_2",
+       "text": "automatyka i robotyka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_21/pkt_3",
+       "text": "biocybernetyka i inżynieria biomedyczna; § 3. Uchwała wchodzi w życie z dniem ogłoszenia.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_21/pkt_4",
+       "text": "biotechnologia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_21/pkt_5",
+       "text": "budowa i eksploatacja maszyn;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_21/pkt_6",
+       "text": "budownictwo; Przewodniczący Centralnej Komisji do Spraw Stopni",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/ust_21/pkt_7",
+       "text": "elektronika; i Tytułów: J. Tazbir",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,53 @@
+{
+ "eli": "MP/2003/259",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 2 kwietnia 2003 r. nr 113-8-03 o zmianie w składzie Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/259/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 kwietnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "nr 113-8-03"
+  },
+  {
+   "type": "text",
+   "text": "o zmianie w składzie Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Na odstawie art. 161 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483), na wniosek Prezesa Rady Ministrów, z dniem 2 kwietnia 2003 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "odwołuję Pana Sławomira CYTRYCKIEGO ze składu Rady Ministrów, z urzędu Ministra Skarbu Państwa,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "powołuję Pana Piotra CZYŻEWSKIEGO w skład Rady Ministrów, na urząd Ministra Skarbu Państwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: L. Miller"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

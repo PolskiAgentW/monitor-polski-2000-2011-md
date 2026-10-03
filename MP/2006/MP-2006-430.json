@@ -1,0 +1,49 @@
+{
+ "eli": "MP/2006/430",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 30 maja 2006 r. w sprawie oceny działalności Zarządu Narodowego Banku Polskiego w zakresie realizacji założeń polityki pieniężnej na rok 2005",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/430/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 maja 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie oceny działalności Zarządu Narodowego Banku Polskiego w zakresie realizacji założeń polityki pieniężnej na rok 2005"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pozytywnie ocenia się działalność Zarządu Narodowego Banku Polskiego w zakresie realizacji założeń polityki pieniężnej na rok 2005.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: L. Balcerowicz"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie Rady Polityki Pieniężnej: J. Czekaj, D. Filar, S. Nieckarz, M. Noga, S. Owsiak, M. Pietrewicz, A. Sławiński, H. Wasilewska-Trenkner, A. Wojtyna"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

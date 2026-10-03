@@ -1,0 +1,175 @@
+{
+ "eli": "MP/2010/678",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 14 lipca 2010 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł, upamiętniających 90. rocznicę Bitwy Warszawskiej, oraz terminów wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/678/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 lipca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł, upamiętniających 90. rocznicę Bitwy Warszawskiej, oraz terminów wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wzór, próbę, masę i wielkość emisji monety nominalnej wartości 20 zł, określone w załączniku nr 1 do zarządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku nr 2 do zarządzenia",
+     "children": [
+      {
+       "type": "text",
+       "text": "— upamiętniających 90. rocznicę Bitwy Warszawskiej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Monetę, o której mowa w § 1 pkt 1, wprowadza się do obiegu z dniem 12 sierpnia 2010 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Monetę, o której mowa w § 1 pkt 2, wprowadza się do obiegu z dniem 9 sierpnia 2010 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: M. Belka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 14 lipca 2010 r. (poz. 678)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, PRÓBA, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 20 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Wartość 20 zł"
+    },
+    {
+     "type": "text",
+     "text": "Cechy strona Z prawej strony wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Pod nim graficzne główna napis: 20 ZŁ. Po lewej stronie orła prostopadle napis: RZECZPOSPOLITA POLSKA 2010. Z lewej strony, na tle stylizowanego fragmentu mapy, wizerunek twarzy Józefa Piłsudskiego z profilu. U dołu napis: 15.VIII.1920 r. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "strona Z lewej strony napis: 1920. Po jego prawej stronie prostopadle napis: 90. ROCZNICA odwrotna BITWY WARSZAWSKIEJ. Z prawej strony stylizowany wizerunek żołnierza polskiego z karabinem, na tle fragmentu obrazu Jerzego Kossaka „Cud nad Wisłą”."
+    },
+    {
+     "type": "text",
+     "text": "Brzeg gładki (bok)"
+    },
+    {
+     "type": "text",
+     "text": "Masa 28,28 (w gramach)"
+    },
+    {
+     "type": "text",
+     "text": "Średnica 38,61 (w milimetrach)"
+    },
+    {
+     "type": "text",
+     "text": "Próba Ag 925/1000 oraz farba: różne odcienie bieli, czerwieni, zieleni, niebieskiego, brązu, szarości"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość emisji 50 000 (w sztukach)"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Wartość 2 zł"
+    },
+    {
+     "type": "text",
+     "text": "Cechy strona Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Po bokach orła oznaczegraficzne główna nie roku emisji: 20-10, pod orłem napis: ZŁ 2 ZŁ. W otoku napis: RZECZPOSPOLITA POLSKA, poprzedzony oraz zakończony sześcioma perełkami. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "strona Centralnie stylizowany wizerunek słupa granicznego, z godłem państwowym używaodwrotna nym w latach wojny polsko-bolszewickiej. Na jego tle, u dołu, stylizowany wizerunek żołnierza na koniu, trzymającego lancę z proporczykiem. Z lewej strony słupa granicznego napis: EUROPA, z prawej strony wizerunek fragmentu sierpa i młota. Z lewej strony półkolem napis: BITWA WARSZAWSKA 1920. U dołu, z prawej strony, półkolem napis: 90. ROCZNICA."
+    },
+    {
+     "type": "text",
+     "text": "Brzeg Na boku ośmiokrotnie powtórzony napis: NBP, co drugi odwrócony o 180 stopni, roz- (bok) dzielony gwiazdkami"
+    },
+    {
+     "type": "text",
+     "text": "Masa 8,15 (w gramach)"
+    },
+    {
+     "type": "text",
+     "text": "Średnica 27,0 (w milimetrach)"
+    },
+    {
+     "type": "text",
+     "text": "Stop CuAI5Zn5Sn1"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość emisji 1 200 000 (w sztukach)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317, z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164 oraz z 2010 r. Nr 109, poz. 709."
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "eli": "MP/2004/779",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 28 października 2004 r. w sprawie stawek opłat za usunięcie drzew i krzewów oraz kar za zniszczenie zieleni na rok 2005",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/779/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 października 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek opłat za usunięcie drzew i krzewów oraz kar za zniszczenie zieleni na rok 2005"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 85 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "maksymalne stawki opłat za usuwanie drzew za jeden centymetr obwodu pnia mierzonego na wysokości 130 cm, określone w załączniku nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stawki opłat dla poszczególnych rodzajów i gatunków drzew, określone w załączniku nr 2 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "stawkę za usunięcie jednego metra kwadratowego powierzchni pokrytej krzewami w wysokości 204 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "stawki kar za zniszczenie jednego metra kwadratowego terenu zieleni w wysokości:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "dla trawników — 46,92 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "dla kwietników — 402,90 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: J. Swatoń"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Środowiska z dnia 28 października 2004 r. (poz. 779)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "MAKSYMALNE STAWKI OPŁAT ZA USUWANIE DRZEW ZA JEDEN CENTYMETR OBWODU PNIA MIERZONEGO NA WYSOKOŚCI 130 CM"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość obwodu pnia Stawki opłat Lp. w cm w zł"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 do 25 1 275,40"
+    },
+    {
+     "type": "text",
+     "text": "2 od 26 do 50 1 418,20"
+    },
+    {
+     "type": "text",
+     "text": "3 od 51 do 100 1 652,80"
+    },
+    {
+     "type": "text",
+     "text": "4 od 101 do 200 1 020,00"
+    },
+    {
+     "type": "text",
+     "text": "5 od 201 do 300 1 530,00"
+    },
+    {
+     "type": "text",
+     "text": "6 od 301 do 500 2 142,00"
+    },
+    {
+     "type": "text",
+     "text": "7 od 501 do 700 2 754,00"
+    },
+    {
+     "type": "text",
+     "text": "8 powyżej 700 3 570,00"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "STAWKI OPŁAT DLA POSZCZEGÓLNYCH RODZAJÓW I GATUNKÓW DRZEW *"
+    },
+    {
+     "type": "text",
+     "text": "Stawki w zł za 1 cm obwodu pnia drzewa Lp. Rodzaje, gatunki i odmiany drzew mierzonego na wysokości 130 cm"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Topola, olsza, klon jesionolistny, wierzba, czeremcha amerykańska, grochodrzew 11,04"
+    },
+    {
+     "type": "text",
+     "text": "2 Kasztanowiec, morwa, jesion amerykański, czeremcha zwyczajna, świerk pospolity, sosna zwyczajna, daglezja, modrzew, brzoza brodawkowata i omszona 30,01"
+    },
+    {
+     "type": "text",
+     "text": "3 Dąb, buk, grab, lipa, choina, iglicznia, głóg — forma drzewiasta, jarząb, jesion wyniosły, klon z wyjątkiem klonu jesionolistnego, gatunki i odmiany ozdobne jabłoni, śliwy, wiśni i orzecha, leszczyna turecka, brzoza (pozostałe gatunki i odmiany), jodła pospolita, świerk (pozostałe gatunki i odmiany), sosna (pozostałe gatunki i odmiany), żywotnik (wszystkie gatunki), platan klonolistny, wiąz, cyprysik 73,00"
+    },
+    {
+     "type": "text",
+     "text": "4 Jodła (pozostałe gatunki i odmiany), tulipanowiec, magnolia, korkowiec, miłorząb, metasekwoja, cis, cypryśnik, bożodrzew 275,40"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 134, poz. 1438). Objaśnienie * Za usunięcie drzew rodzajów i gatunków innych niż określone w załączniku do obwieszczenia stawki ustala się jak dla drzew o podobnej wartości przyrodniczej, wymienionych w tym załączniku."
+ }
+}

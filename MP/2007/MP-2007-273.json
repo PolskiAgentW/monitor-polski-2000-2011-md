@@ -1,0 +1,141 @@
+{
+ "eli": "MP/2007/273",
+ "title": "Komunikat Nr 4/2007/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 11 kwietnia 2007 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/273/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT NR 4/2007/(DOKE) PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 kwietnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych — stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762 oraz z 2004 r. Nr 173, poz. 1808) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762 oraz z 2004 r. Nr 173, poz. 1808) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Oficjalnie Wspieranych Kredytów Eksportowych z dnia 1 kwietnia 1978 r.; minimalne stopy wyznaczane są przez",
+   "children": [
+    {
+     "type": "text",
+     "text": "Waluta kraju Okres spłaty"
+    },
+    {
+     "type": "text",
+     "text": "1 2 ≤ 5 lat dolar amerykański > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "dolar australijski"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat dolar kanadyjski > 5 do 8,5 lat > 8,5 lat stopy CIRR (stopy referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stopy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników ww. Porozumienia OECD; stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 kwietnia 2007 r. do dnia 14 maja 2007 r. dla niżej wymienionych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "text",
+     "text": "Symbol waluty Stopa CIRR"
+    },
+    {
+     "type": "text",
+     "text": "3 4"
+    },
+    {
+     "type": "text",
+     "text": "5,51 USD 5,48 5,50"
+    },
+    {
+     "type": "text",
+     "text": "AUD 7,09"
+    },
+    {
+     "type": "text",
+     "text": "4,94 CAD 4,95 4,98 1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "dolar nowozelandzki NZD 7,61"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 4,92 euro > 5 do 8,5 lat EUR 4,93 > 8,5 lat 4,95"
+    },
+    {
+     "type": "text",
+     "text": "forint węgierski HUF 8,37"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 3,42 frank szwajcarski > 5 do 8,5 lat CHF 3,52 > 8,5 lat 3,61"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 6,24 funt brytyjski > 5 do 8,5 lat GBP 6,10 > 8,5 lat 5,97"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 1,91 jen japoński > 5 do 8,5 lat JPY 2,17 > 8,5 lat 2,35"
+    },
+    {
+     "type": "text",
+     "text": "korona czeska CZK 4,32"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 5,11 korona duńska > 5 do 8,5 lat DKK 5,08 > 8,5 lat 5,09"
+    },
+    {
+     "type": "text",
+     "text": "korona norweska NOK 5,61"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 4,75 korona szwedzka > 5 do 8,5 lat SEK 4,81 > 8,5 lat 4,81"
+    },
+    {
+     "type": "text",
+     "text": "won koreański KRW 5,82"
+    },
+    {
+     "type": "text",
+     "text": "złoty polski PLN 6,00"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: W. Kuryłek — 947 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

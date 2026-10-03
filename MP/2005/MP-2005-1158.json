@@ -1,0 +1,54 @@
+{
+ "eli": "MP/2005/1158",
+ "title": "Oświadczenie rządowe z dnia 17 października 2005 r. w sprawie utraty mocy obowiązującej umów normujących stosunki handlowe w związku z przystąpieniem Rzeczypospolitej Polskiej do Unii Europejskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/1158/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OŚWIADCZENIE RZĄDOWE"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 października 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utraty mocy obowiązującej umów normujących stosunki handlowe w związku z przystąpieniem Rzeczypospolitej Polskiej do Unii Europejskiej"
+  },
+  {
+   "type": "text",
+   "text": "Podaje się niniejszym do wiadomości, że na podstawie uchwały Rady Ministrów nr 141/2002 z dnia 4 lipca 2002 r. w sprawie wypowiedzenia Umowy handlowej między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Tunezji oraz Umowy handlowej między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Panamy zostały wypowiedziane przez Rzeczpospolitą Polską następujące umowy:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Umowa handlowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Tunezji, sporządzona w Warszawie dnia 18 listopada 1992 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umowa utraciła moc obowiązującą z dniem 4 stycznia 2003 r."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Umowa handlowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Panamy, sporządzona w Panamie, w Republice Panamy, dnia 14 listopada 1994 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umowa utraciła moc obowiązującą z dniem 17 stycznia 2003 r."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki i Pracy: J. Piechota"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

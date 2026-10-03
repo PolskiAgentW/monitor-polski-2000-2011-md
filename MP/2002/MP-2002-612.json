@@ -1,0 +1,66 @@
+{
+ "eli": "MP/2002/612",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 sierpnia 2002 r. w sprawie rejestru upoważnionych jednostek certyfikujących.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/612/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 sierpnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie rejestru upoważnionych jednostek certyfikujących."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 ust. 7 i 8 ustawy z dnia 16 marca 2001 r. o rolnictwie ekologicznym (Dz. U. Nr 38, poz. 452) ogłasza się rejestr upoważnionych jednostek certyfikujących, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: J. Kalinowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 sierpnia 2002 r. (poz. 612)",
+   "body": [
+    {
+     "type": "text",
+     "text": "REJESTR UPOWAŻNIONYCH JEDNOSTEK CERTYFIKUJĄCYCH"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa jednostki i jej Numer identyfikacyjny Lp. siedziba Zakres upoważnienia nadany w upoważnieniu jednostce certyfikującej"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "1 Polskie Centrum Badań Przeprowadzanie kontroli, wydawanie i cofanie RE-01/2002/PL i Certyfikacji Biuro ds. Ba- certyfikatów zgodności w zakresie: dań i Certyfikacji Oddział w Pile, 64-920 Piła, ul. Śnia- 1) produkcji rolnej oraz pozyskiwania dziko rodeckich 5 snących roślin lub ich części,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przetwórstwa produktów rolnictwa ekologicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wprowadzania do obrotu produktów rolnictwa ekologicznego pochodzących z zagranicy.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

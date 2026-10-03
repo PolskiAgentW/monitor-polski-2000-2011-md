@@ -1,0 +1,71 @@
+{
+ "eli": "MP/2011/149",
+ "title": "Uchwała Centralnej Komisji do Spraw Stopni i Tytułów z dnia 28 stycznia 2011 r. zmieniająca uchwałę w sprawie określenia dziedzin nauki i dziedzin sztuki oraz dyscyplin naukowych i artystycznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/149/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA CENTRALNEJ KOMISJI DO SPRAW STOPNI I TYTUŁÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 stycznia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie określenia dziedzin nauki i dziedzin sztuki oraz dyscyplin naukowych i artystycznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595, z 2005 r. Nr 164, poz. 1365 oraz z 2010 r. Nr 96, poz. 620 i Nr 182, poz. 1228) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Centralnej Komisji do Spraw Stopni i Tytułów z dnia 24 października 2005 r. w sprawie określenia dziedzin nauki i dziedzin sztuki oraz dyscyplin naukowych i artystycznych (M. P. Nr 79, poz. 1120, z 2008 r. Nr 97, poz. 843 oraz z 2010 r. Nr 46, poz. 636) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w dziedzinie nauki 6. Nauki humanistyczne dodaje się dyscypliny naukowe:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„9a) nauki o bezpieczeństwie;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9b) nauki o obronności;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "skreśla się dziedzinę naukową 17. Nauki wojskowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Centralnej Komisji do Spraw Stopni i Tytułów: T. Kaczorek"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

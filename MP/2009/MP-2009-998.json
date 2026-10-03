@@ -1,0 +1,68 @@
+{
+ "eli": "MP/2009/998",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 17 grudnia 2009 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/998/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 grudnia 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2009 r. Nr 5, poz. 47) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 42 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. W sprawach dotyczących zgodności przepisów rozpatrywanych projektów ustaw z prawem Unii Europejskiej obowiązkowe jest zasięganie opinii ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej. Termin przedstawienia opinii przez ministra określa komisja.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 152 w ust. 5 w zdaniu pierwszym wyrazy „Komitet Integracji Europejskiej” zastępuje się wyrazami „ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 153 w ust. 1 w zdaniu drugim wyrazy „Komitetu Integracji Europejskiej” zastępuje się wyrazami „ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem 1 stycznia 2010 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

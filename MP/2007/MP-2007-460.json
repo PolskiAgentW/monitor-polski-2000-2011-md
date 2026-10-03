@@ -1,0 +1,74 @@
+{
+ "eli": "MP/2007/460",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 25 czerwca 2007 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/460/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 czerwca 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U."
+  },
+  {
+   "type": "text",
+   "text": "z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 4 lipca 2007 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 25 czerwca 2007 r. (poz. 460)"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Śred- Wielkość War- Masa nica emisji Brzeg (bok) (w gra- (w mi- Stop tość mach) lime- (w sztustrona główna strona odwrotna kach) trach)"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części Wizerunek Zamku Na boku wizerunek orła usta- Książąt Pomorskich ośmiokrotnie lony dla godła Rze- w Słupsku. Z lewej powtórzony czypospolitej Polskiej. i z prawej strony sty- napis: NBP, Z prawej strony na- lizowane wizerunki co drugi 8,15 27,0 CuAl5Zn5Sn1 1 100 000 pis: 2 ZŁ. U góry pół- drzew. U góry z pra- odwrócony kolem napis: RZECZ- wej strony półkolem o 180 stopni, POSPOLITA POLSKA napis: SŁUPSK. rozdzielony oraz oznaczenie roku gwiazdkami. 2 zł emisji: 2007. Poniżej orła stylizowany fragment muru miejskiego z blankami oraz z bramą o rozwartych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410."
+ }
+}

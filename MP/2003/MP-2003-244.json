@@ -1,0 +1,843 @@
+{
+ "eli": "MP/2003/244",
+ "title": "Porozumienie między Rządem Rzeczypospolitej Polskiej, Rządem Republiki Czeskiej, Rządem Republiki Węgierskiej oraz Rządem Republiki Słowackiej dotyczące współpracy w zakresie modernizacji śmigłowca Mi-24, podpisane w Piesztanach dnia 30 maja 2002 r.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/244/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POROZUMIENIE"
+  },
+  {
+   "type": "text",
+   "text": "między Rządem Rzeczypospolitej Polskiej, Rządem Republiki Czeskiej, Rządem Republiki Węgierskiej oraz Rządem Republiki Słowackiej dotyczące współpracy w zakresie modernizacji śmigłowca Mi-24,"
+  },
+  {
+   "type": "text",
+   "text": "podpisane w Piesztanach dnia 30 maja 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "Przekład"
+  },
+  {
+   "type": "text",
+   "text": "Wstęp"
+  },
+  {
+   "type": "text",
+   "text": "Rząd Rzeczypospolitej Polskiej, Rząd Republiki Czeskiej, Rząd Republiki Węgierskiej oraz Rząd Republiki Słowackiej, zwane dalej Stronami, mając na uwadze korzyść z wzajemnej współpracy w obszarze modernizacji sprzętu wojskowego własnych Sił Zbrojnych,"
+  },
+  {
+   "type": "text",
+   "text": "mając na celu pomoc dla przemysłu w swoich krajach poprzez współpracę międzynarodową,"
+  },
+  {
+   "type": "text",
+   "text": "uzgodniły, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 1"
+  },
+  {
+   "type": "text",
+   "text": "Cel"
+  },
+  {
+   "type": "text",
+   "text": "Celem tego porozumienia jest ustanowienie głównych zasad i postanowień dotyczących współpracy pomiędzy stronami podczas modernizacji śmigłowca Mi-24."
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 2"
+  },
+  {
+   "type": "text",
+   "text": "Definicje"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Modernizacja śmigłowca Mi-24 oznacza przedłużenie resursów do 35 lat, rozwinięcie nowej wersji śmigłowca Mi-24 zgodnie ze wspólnymi wymaganiami taktyczno-technicznymi wzajemnie uzgodnionymi przez Strony, skonstruowanie prototypu nowej wersji śmigłowca i jego testy, przygotowanie konstrukcyjnej, produkcyjnej, technicznej oraz uzupełniającej dokumentacji technicznej i instrukcji dla zapewnienia ciągłej zdatności połączenia z systemem kierowania wsparcia technicznego i szkoleniem personelu oraz certyfikację zakończonej nowej wersji poprzez nadanie uzupełnienia do certyfikatu o zdatności do lotu (określonego jako „uzupełniający certyfikat typu”). Prototyp śmigłowca będzie zbudowany zgodnie ze wspólnymi wymaganiami grupy V-4 odnośnie do modernizacji śmigłowca Mi-24 uzgodnionymi przez Narodowych Dyrektorów ds. Uzbrojenia (dalej zwanymi „NAD”) w dniu 31 stycznia 2002 r. w m. Trenczyn.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Generalny Integrator Projektu oznacza przedsiębiorcę wybranego przez Polskę zgodnie z polskimi regulacjami prawnymi i zaaprobowanego przez Komitet Sterujący, który będzie odpowiedzialny za realizację modernizacji śmigłowca Mi-24. Generalny Integrator Projektu zapewni:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "współpracę z pierwotnym wykonawcą śmigłowca Mi-24 w kwestii wydłużenia resursów i zabezpieczenia wydania orzeczeń dalszej kwalifikacji do lotu i dostawy części zamiennych dla Mi-24;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "kooperację działań Integratora Uzbrojenia i Awioniki, dostawcy prototypu zmodernizowanego śmigłowca Mi-24 i innych podwykonawców z położeniem nacisku na włączenie przemysłów uczestniczących stron w możliwie największym stopniu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "badania i certyfikację nowej wersji śmigłowca Mi-24;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "techniczne wsparcie dostawców zmodernizowanych śmigłowców Mi-24 ze strony uczestniczących krajów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Integrator Uzbrojenia i Awioniki oznacza przedsiębiorcę wybranego przez Polskę w przetargu międzynarodowym, który odpowiadać będzie przed Generalnym Integratorem Projektu za integrację uzbrojenia i awioniki w zmodernizowanym śmigłowcu Mi-24.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "Dostawca prototypu zmodernizowanego śmigłowca Mi-24 oznacza przedsiębiorcę, który będzie budował prototyp zmodernizowanego śmigłowca Mi-24. Dostawca prototypu będzie wybrany przez Generalnego Integratora Projektu. Generalny Integrator Projektu może działać jako dostawca prototypu.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "Dostawca zmodernizowanego śmigłowca Mi-24 oznacza przedsiębiorcę wybranego przez każdą ze Stron zgodnie z prawnymi uregulowaniami tych krajów, który będzie realizować modernizację śmigłowców Mi-24 zgodnie z potrzebami każdej ze Stron.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "Kontrakt oznacza porozumienie zgodne z prawem gospodarczym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 3"
+    },
+    {
+     "type": "text",
+     "text": "Organizacja"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Zasadnicze decyzje podczas współpracy Stron na podstawie tego porozumienia podejmowane będą jednomyślnie przez Komitet Sterujący składający się z Narodowych Dyrektorów ds. Uzbrojenia. Kompetencje Komitetu Sterującego zostaną sprecyzowane przez Strony w szczegółowych ustaleniach i zapisach umownych.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Koordynacja działań prowadzonych w ramach modernizacji śmigłowca Mi-24 przez poszczególne Strony będzie zapewniona poprzez odpowiednio upoważnionych Dyrektorów Programu. Kompetencje Dyrektorów Programu odnośnie do koordynacji na szczeblu międzynarodowym będą określone w odrębnym porozumieniu technicznym.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Organizacja współpracy podczas modernizacji śmigłowca Mi-24 będzie określona bardziej szczegółowo w odrębnym porozumieniu technicznym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 4"
+    },
+    {
+     "type": "text",
+     "text": "Wybór Integratora Uzbrojenia i Awioniki oraz zawarcie kontraktu"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Dokumentacja konieczna do przeprowadzenia przetargu międzynarodowego na Integratora Uzbrojenia i Awioniki będzie przygotowana przez Polskę. Dokumentacja ta musi być zaaprobowana przez Komitet Sterujący przed ogłoszeniem przetargu międzynarodowego.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Przetarg międzynarodowy na Integratora Uzbrojenia i Awioniki będzie przeprowadzony przez Polskę zgodnie z polskimi regulacjami prawnymi.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Złożone oferty zostaną ocenione przez komisję składającą się z przedstawicieli NAD. Wybrany oferent musi zostać zatwierdzony jednomyślnie przez Komitet Sterujący.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "Kontrakt będzie zawierany pomiędzy zaaprobowanym zwycięzcą oraz Generalnym Integratorem Projektu zgodnie z polskimi regulacjami prawnymi. Kontrakt może zostać zawarty tylko po zaaprobowaniu jego zakresu i warunków.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "Kontrakt będzie zawarty zgodnie z następującymi zasadami:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_5/lit_a",
+     "text": "każda ze Stron będzie mieć prawo do monitorowania przebiegu poszczególnych etapów realizacji kontraktu oraz do zatwierdzenia zakończenia tych etapów, jak również rozpoczęcia następnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_5/lit_b",
+     "text": "pełna dokumentacja dotycząca uzbrojenia i awioniki musi być zweryfikowana przez każdą ze Stron przed oficjalnym przekazaniem Polsce;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_5/lit_c",
+     "text": "dokumentacja dotycząca uzbrojenia i awioniki zostanie napisana w języku angielskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "Harmonogram realizacji kontraktu i inne szczegóły będą określone w porozumieniu technicznym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 5"
+    },
+    {
+     "type": "text",
+     "text": "Prototyp, dokumentacja, dodatkowy certyfikat kwalifikacji, własność materialna i intelektualna"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Polska pożyczy jeden śmigłowiec Mi-24 dostawcy prototypu, który zostanie zmodernizowany zgodnie ze specyfikacjami nowej wersji.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Pełna dokumentacja przygotowana przez Generalnego Integratora Projektu oraz Integratora Uzbrojenia i Awioniki, dodatkowy typ certyfikatu, jak również pełna własność intelektualna wytworzona lub wchodząca w zakres modernizacji śmigłowca będzie wspólną własnością wszystkich Stron. Udział każdej ze Stron w tej wspólnej własności będzie wynosił 25%.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Cała wartość materiałowa użyta dla prototypu będzie własnością Polski i będzie przez Polskę opłacona.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "Posiadaczem i nadzorcą pełnej dokumentacji i dodatkowego typu certyfikatu będzie Generalny Integrator Projektu, który będzie je dostarczał do każdej ze Stron oraz zapewniał ich aktualną wersję. W razie gdy Generalny Integrator Projektu zrezygnuje z funkcji posiadania i nadzorowania pełnej dokumentacji i dodatkowego typu certyfikatu, wtedy strona polska zagwarantuje, że dokumentacja ta i dodatkowy typ certyfikatu będzie przeniesiony do kolejnego podmiotu desygnowanego przez Komitet Sterujący bez jakichkolwiek żądań.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 6"
+    },
+    {
+     "type": "text",
+     "text": "Sprawy finansowe"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Pełne koszty realizacji prototypu zmodernizowanego śmigłowca Mi-24 w wysokości zatwierdzonej przez Komitet Sterujący zostaną pokryte przez Polskę. Pozostałe Strony zapłacą Polsce 25% tych kosztów, z wyjątkiem kosztów, o których mowa w artykule 5 ustęp 3. Udziały Stron będą opłacane kolejno po zakończeniu każdego z etapów modernizacji Mi-24. Zakończenie każdego etapu musi być zaaprobowane przez Komitet Sterujący. Konkretne wartości, etapy modernizacji śmigłowca Mi-24 i sposób zapłaty będą określone w odrębnym porozumieniu technicznym.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Każda Strona pokryje swoje własne wydatki związane z projektem modernizacji śmigłowca Mi-24, szczególnie te związane ze specyficznymi wymaganiami narodowymi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 7"
+    },
+    {
+     "type": "text",
+     "text": "Produkcja seryjna"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Strony będą również współpracować podczas produkcji seryjnej zmodernizowanych śmigłowców Mi-24 dla potrzeb swoich Sił Zbrojnych, co będzie realizowane przez dostawców modernizacji śmigłowców Mi-24. Generalny Integrator Projektu zapewni pomoc dostawcom modernizacji śmigłowca Mi-24 zgodnie z artykułem 2 ustęp 2 litera d). Pomoc ta może także obejmować wspólne nabywanie poszczególnych komponentów i sprzętu używanego podczas produkcji seryjnej przez wszystkie Strony. Szczegóły i inne formy współpracy podczas produkcji seryjnej będą ujęte w odrębnym porozumieniu technicznym. Ceny komponentów i sprzętu muszą być ujednolicone i możliwie najniższe dla każdej ze Stron.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Strony powinny zawrzeć odrębne porozumienie techniczne określające procedury, według których Strony będą realizowały produkcję seryjną modernizowanego śmigłowca Mi-24 dla stron trzecich zgodnie ze wspólnie posiadaną dokumentacją.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 8"
+    },
+    {
+     "type": "text",
+     "text": "Cła, podatki i opłaty"
+    },
+    {
+     "type": "text",
+     "text": "Cła, podatki i opłaty, które mogą być nałożone zgodnie z tym porozumieniem, będą uregulowane poprzez regulacje prawne uczestniczących krajów. Strony skorzystają ze wszystkich możliwości, jakie stwarzają regulacje prawne i zawarte umowy w poszczególnych państwach, aby zredukować finansowe obciążenia wynikające z opłacenia ceł, podatków i dokonania opłat przez inne Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 9"
+    },
+    {
+     "type": "text",
+     "text": "Ochrona informacji niejawnych"
+    },
+    {
+     "type": "text",
+     "text": "Ochrona informacji niejawnych będzie przeprowadzana według prawnych regulacji rządów Stron i stosownych porozumień międzynarodowych, łącznie z porozumieniem NATO C-M (55)15 (Final)."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 10"
+    },
+    {
+     "type": "text",
+     "text": "Zapewnienie jakości"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Zapewnienie jakości podczas wdrażania tego porozumienia będzie zagwarantowane przez regulacje prawne uczestniczących państw; podstawą będzie STANAG 4107 oraz odpowiednie umowy międzynarodowe dotyczące zapewnienia jakości.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Wspólne sprawy dotyczące zapewnienia jakości będą określone w odrębnym porozumieniu technicznym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 11"
+    },
+    {
+     "type": "text",
+     "text": "Prawa własności intelektualnej"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Podczas wdrażania tego porozumienia Strony będą przestrzegać innych praw własności intelektualnej wszystkich Stron, jak również stron trzecich, których nie dotyczy to porozumienie zgodnie z regulacjami prawnymi uczestniczących Stron i prawem międzynarodowym.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Odrębne porozumienie techniczne określi sposób załatwienia wspólnych praw własności intelektualnej podczas wdrażania tego porozumienia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 12"
+    },
+    {
+     "type": "text",
+     "text": "Język roboczy"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Językiem roboczym podczas oficjalnych dyskusji pomiędzy Stronami będzie język angielski. Wszystkie wspólne oficjalne dokumenty, łącznie z dokumentacją przetargową i kontraktową, zostaną zapisane również w języku angielskim.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Inny język może być używany przez Strony podczas współpracy dwustronnej za wspólną zgodą.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 13"
+    },
+    {
+     "type": "text",
+     "text": "Rozstrzyganie sporów"
+    },
+    {
+     "type": "text",
+     "text": "Spory, które mogą zaistnieć pomiędzy Stronami podczas wdrażania lub interpretacji tego porozumienia, będą rozstrzygane na drodze negocjacji. Najpierw negocjacje mające na celu rozstrzygnięcie sporu będą prowadzone przez Dyrektorów Programu. Jeśli oni nie będą w stanie rozstrzygnąć sporu, sprawa przekazana zostanie Narodowym Dyrektorom ds. Uzbrojenia. Jeśli oni też nie rozstrzygną, negocjacje rozpoczną przedstawiciele Stron na szczeblu rządowym. Jeśli rozstrzygnięcie sporu poprzez negocjacje nie będzie możliwe, Strony mogą uciec się do innego sposobu rozstrzygnięcia sporu, zwykle w ramach prawa międzynarodowego."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 14"
+    },
+    {
+     "type": "text",
+     "text": "Żądania"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Żądania, które mogą zrodzić się podczas wdrażania tego porozumienia, będą rozwiązywane przez Strony zgodnie z regulacjami prawnymi uczestniczących państw i prawem międzynarodowym.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Postanowienia ustępu 1 nie wyłączają innych sposobów podejścia do żądań, które mogą być wskazane w odrębnym porozumieniu technicznym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 15"
+    },
+    {
+     "type": "text",
+     "text": "Porozumienia techniczne"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Porozumienia techniczne dla wdrażania poszczególnych aspektów tego porozumienia będą zawierane na poziomie Narodowych Dyrektorów ds. Uzbrojenia. Narodowi Dyrektorzy mogą delegować upoważnienie do zawarcia porozumienia w specyficznych obszarach na Dyrektorów Programu.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Jeśli jakieś szczególne przedsięwzięcie, które jest poza kompetencjami NAD, wymaga określenia, wtedy zawarte będzie specjalne porozumienie pomiędzy Stronami lub Ministerstwami Obrony Stron.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Wejście w życie, czas trwania i wypowiedzenie porozumień technicznych określonych w tym porozumieniu będą ustalone w ich konkretnych postanowieniach.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 16"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienia końcowe"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Porozumienie to wejdzie w życie po podpisaniu przez Strony, kiedy Strony wzajemnie powiadomią się o spełnieniu wewnętrznych wymogów prawnych niezbędnych, aby to porozumienie mogło wejść w życie.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Porozumienie to będzie obowiązywało przez czas nieokreślony. Może być ono wypowiedziane w każdym czasie po wspólnym uzgodnieniu przez wszystkie Strony.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Każda ze Stron ma prawo jednostronnie wypowiedzieć to porozumienie w formie pisemnej poprzez pisemną notę dostarczoną do każdej Strony tego samego dnia. Ważność porozumienia w stosunku do tej Strony wygasa po 6 miesiącach od daty dostarczenia noty wypowiedzenia. Takie jednostronne wypowiedzenie nie wpływa jednakże na zobowiązania tej Strony wynikające z porozumień technicznych.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "Do porozumienia mogą być wprowadzane poprawki po wspólnej pisemnej zgodzie wszystkich Stron.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Sporządzono w 4 oryginalnych egzemplarzach w języku angielskim i podpisano w Piesztanach 30 maja 2002 r."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "AGREEMENT"
+    },
+    {
+     "type": "ocr",
+     "text": "among the Government of the Republic of Połand, the Government of the Czech Republic, the Government of the Republic of Hungary and the Government of the Slovak Republic concerning Co-operation during the Mi-24 Helicopter Modernisation"
+    },
+    {
+     "type": "ocr",
+     "text": "Preamble"
+    },
+    {
+     "type": "ocr",
+     "text": "The Government of the Republic of Poland, the Government of the Czech Republic, the Government of the Republic of Hungary, and the Government of the Slovak Republic, hereinafter referred to as \"the Parties\","
+    },
+    {
+     "type": "ocr",
+     "text": "Having in mind the benefit of mutual co-operation in the field of modernisation of their armed forces’ military equipment, ."
+    },
+    {
+     "type": "ocr",
+     "text": "Aiming at the support of industry in their countries through international co-operation,"
+    },
+    {
+     "type": "ocr",
+     "text": "Have agreed on the following:"
+    },
+    {
+     "type": "ocr",
+     "text": "Article 1 Purpose"
+    },
+    {
+     "type": "ocr",
+     "text": "The purpose of this Agreement is to establish main principles and rules for co-operation among the Parties during the Mi-24 helicopter modernisation."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 2 Definitions"
+    },
+    {
+     "type": "ocr",
+     "text": "1) \"The Mi-24 helicopter modernisation\" means the Mi-24 helicopter life-cycle extension for 35 years, development of the new version of the Mi-24 helicopter according to the common tactical and technical requirements mutually agreed by the Parties, construction of the prototype of the new version of helicopter and its tests, development of construction, production and technical and accompanying technical documentation and instructions for continued airworthiness, dealing with the system of logistic support control and personnel training, and certification of the new version finished by issuing the supplemental type certificate of airworthiness (hereinafter referred to as \"the supplemental type certificate\"). The prototype of helicopter will be built in accordance with requirements stated in the V-4 Common Requirements for Modernised Mi-24 Helicopters agreed by the National Armaments Directors (hereinafter referred to as \"the NADs\") on January 31, 2002. in Trenćin."
+    },
+    {
+     "type": "ocr",
+     "text": "2) \"The General Project Integrator\" means a legal entity selected by Poland in accordance with the Polish legal regulations and approved by the Steering Committee that will be responsible for the implementation of the Mi-24 helicopter modernisation. The General Project Integrator will ensure:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) co-operation with original manufacturer in the issue of the Mi-24 helicopter life-cycle extension and provision of supplies of Instructions for Continued Airworthiness and spare parts in the scope of the Mi-24; i"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b) co-ordination of activities of the Armaments and Avionics Integrator, the supplier of the Mi-24 helicopter modernisation prototype, and other subcontractors with emphasis on involvement of industries of the Parties' states as much as possible;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) tests and certification of the new version of the Mi-24 helicopter;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) technical support of suppliers of the Mi-24 helicopters modernisation from al! the Parties states."
+    },
+    {
+     "type": "ocr",
+     "text": "3) \"The Armaments and Avionics Integrator\" means a legal entity selected by Poland in international tender that will be responsible to the General Project Integrator for integration of armaments and avionics of the Mi-24 helicopter modernisation."
+    },
+    {
+     "type": "ocr",
+     "text": "4) \"The supplier of the Mi-24 helicopter modernisation prototype\" means a legal entity that will construct the prototype of the Mi-24 helicopter modernisation. The supplier of the prototype will be selected by the General Project Integrator. The General Project Integrator can act as the supplier of the prototype."
+    },
+    {
+     "type": "ocr",
+     "text": "5) \"The supplier of the Mi-24 helicopters modernisation\" means a legal entity selected by each of the Parties in accordance with their states' legal regulations that will realize the Mi-24 helicopters modernisation according to the needs of each Party."
+    },
+    {
+     "type": "ocr",
+     "text": "6) \"Contract\" means an agreement under commercial law."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 3 Organization"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Fundamental decisions during co-operation of the Parties under this Agreement will be taken unanimously by the Steering Committee composed of the NADs. Competencies of the Steering Committee will be specified in more detail by the Parties in the Terms of Reference."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Co-ordination of activities conducted by the individual Parties within the Mi-24 helicopter modernisation in their countries will be ensured by properly authorized Program Directors. Competencies of the Program Directors for co-ordination on the international level will be determined in a separate technical arrangement."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Organization of co-operation during the Mi-24 helicopter modernisation will be determined in more detail in a separate technical arrangement."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 4 Selection of the Armaments and Avionics Integrator and Conclusion of Contract"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Documentation necessary to issue international tender for the Armaments and Avionics Integrator will be developed by Poland. That documentation must be approved by the Steering Committee before issuing the international tender."
+    },
+    {
+     "type": "ocr",
+     "text": "2) International tender for the Armaments and Avionics Integrator will be issued by Poland in accordance with the Polish legal regulations."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Submitted bids will be evaluated by a committee constituted by representatives of the NADs. The selected bidder must be approved by the Steering Committee unanimously."
+    },
+    {
+     "type": "ocr",
+     "text": "4) Contract will be concluded between the approved winner and the General Project Integrator in accordance with the Polish legal regulations. Contract can be concluded only after the Steering Committee has approved its terms and conditions."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "5) Contract will be concluded in accordance with the following principles:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) all the Parties will be entitled to monitor the course of individual phases of the contract realisation and to approve a completion of those phases as well as commencing the further phases-of the contract realisation;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) all documentation concerning armaments and avionics (complete know-how) must be verified by all the Parties before acceptance by Poland;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) the documentation concerning armaments and avionics will be written in the English language."
+    },
+    {
+     "type": "ocr",
+     "text": "6) Time schedule of the contract realisation and othér details will be stated in technical arrangement."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 5 The Prototype, Documentation, the Supplemental Type Certificate, Material and Intellectual Property"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Poland will lend one Mi-24 helicopter to the supplier of the prototype, which will be modernised in accordance with the specifications of the new version."
+    },
+    {
+     "type": "ocr",
+     "text": "2) All documentation developed by the General Project Integrator and the Armaments and Avionics Integrator (know-how), the Supplemental Type Certificate, and also all intellectual property produced or coming into being in accordance with the Mi-24 helicopter modernisation will be common property of all the Parties. Share of each Party within this joint ownership will be 25%."
+    },
+    {
+     "type": "ocr",
+     "text": "3) All material property used for prototype will be owned and paid by the Polish Party."
+    },
+    {
+     "type": "ocr",
+     "text": "4) Holder and keeper of all documentation and the Supplemental Type Certificate will be the General Project Integrator that will provide them to all the Parties and ensure that they are updated. Should the General Project Integrator resign as the holder and keeper of all documentation and the Supplemental Type Certificate, then the Polish Party will guarantee that this documentation and the Supplemental Type Certificate will be transferred to the succeeding entity designated by the Steering Committee without any claims."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 6 Financial Matters"
+    },
+    {
+     "type": "ocr",
+     "text": "1) All costs of the realisation of the prototype of the modernised Mi-24 helicopter in amount approved by the Steering Committee will be paid by Poland. Other Parties will pay to Poland 25% of these costs except for those determined in Article 5, paragraph 3. Share of these Parties will be paid step by step in accordance with finished phases of the Mi-24 helicopter modernisation. Completion of each phase must be approved by the Steering Committee. Specific amounts, phases of the Mi-24 helicopter modernisation and method of payment will be stated in a separate technical arrangement."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Each Party will pay their own expenses relating to the Mi-24 helicopter modernisation project. especially those related to specific national requirements."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Article 7 Serial Production"
+    },
+    {
+     "type": "ocr",
+     "text": "1) The Parties will also co-operate during serial production of the modernised Mi-24 helicopters for needs of their armed forces, which will be realized by suppliers of the Mi-24 helicopters modernisation. The General Project Integrator will provide the suppliers of the Mi-24 helicopters modernisation with support according to Article 2, paragraph 2, letter d), This support could also include joint acquisition of components and equipment used during serial production by all the Parties. Details and other forms of co-operation during serial production will be stated in a separate technical arrangement. The prices of the components and equipment must be unified and as low as possible for all the Parties."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Parties shall conclude a separate technical arrangement setting out the procedures to be followed in case any of the Parties wishes to realize serial production of the modernised Mi-24 helicopter for third parties in accordance with the commonly owned documentation."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 8 Duties, Taxes and Charges"
+    },
+    {
+     "type": "ocr",
+     "text": "Duties, taxes and charges, which may be assessed in accordance with this Agreement. will be regulated by the legal regulations of the Parties’ states. The Parties will take advantage of all opportunities provided by the legal regulations of the Parties’ states and treaties in order to reduce the financial burden resulting from the payment of those duties, taxes and charges by the other Parties."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 9 Protection of Classified Information"
+    },
+    {
+     "type": "ocr",
+     "text": "Protection of classified information will be governed by the legal regulations of the Parties' states and appropriate international agreements, including the NATO agreement C-M (55) 15 (Final)."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 10 Quality Assurance"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Quality assurance during implementation of this Agreement will be governed by the legal regulations of the Parties’ states, the principles of the STANAG 4107 and relevant international agreements concerning quality assurance."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Common matters concerning quality assurance will be determined in a separate technical arrangement."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 11 Intellectual Property Rights"
+    },
+    {
+     "type": "ocr",
+     "text": "1) During implementation of this Agreement the Parties will observe other intellectual property rights of all the Parties as well as those of third parties not governed by this Agreement in accordance with the legal regulations of the Parties' states and international law."
+    },
+    {
+     "type": "ocr",
+     "text": "2) A separate technical arrangement will determine the handling of common intellectual property rights during the implementation of this Agreement."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Article 12 Working Language"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Working language during official discussions among the Parties will be the English language. All common official documents including tender documents and contracts will be written in the English language as well."
+    },
+    {
+     "type": "ocr",
+     "text": "2) A different language may be used by the Parties during bilateral co-operation after mutual consent."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 13 Settlement of Disputes"
+    },
+    {
+     "type": "ocr",
+     "text": "Disputes, which may arise among the Parties during implementation or interpretation of this Agreement, will be settled through negotiations. Negotiations aiming to settle a dispute will be conducted by the Program Directors in the first instance. In the absence of the settlement the issue shall be escalated to the NADs of the Parties. If they do not reach a settlement, negotiations will be started by representatives of the Parties on the governmental level. If settlement of a dispute through negotiations is not possible, the Parties may have recourse to any other way of dispute settlement usuał in the international law."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 14 Claims"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Claims, which may arise during the implementation of this Agreement, will be dealt with by the Parties in accordance with the legal regulations of the Parties' states and international law."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Provision of paragraph 1 does not exclude different ways of dealing with claims, which may be established in a separate technical arrangement."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 15 Technical Arrangements"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Technical arrangements for implementation of individual aspects of this Agreement will be concluded at the NADs' level. The NADs may delegate the authority'to conclude technical arrangements for specific areas to the Program Directors."
+    },
+    {
+     "type": "ocr",
+     "text": "2) If any specific issue outside the authority of the NADs is to be determined. then a special treaty among the Parties or Ministries of Defence of the Parties' states is to be concluded."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Entry into force, duration, and termination of technical arrangements stipulated in this Agreement will be determined in their specific provisions."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 16 Final Provisions"
+    },
+    {
+     "type": "ocr",
+     "text": "1) This Agreement will enter into force following the signature by the Parties, when the Parties mutually notify each other on the fulfilment of the internal legal requirements necessary for this Agreement to enter into force."
+    },
+    {
+     "type": "ocr",
+     "text": "2) This Agreement will remain in effect for an indefinite period of time. It can be terminated at any time after mutual written consent of all the Parties."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "3) Either Party is entitled to unilaterally terminate this Agreement by a written notice delivered to the other Parties on the same day. Validity of the Agreement towards such Party expires six months after date of delivery of the termination notice. Such unilateral termination, however. does not affect obligations of this Party resulting from technical arrangements."
+    },
+    {
+     "type": "ocr",
+     "text": "4) This Agreement may be amended with the joint written consent of all the Parties."
+    },
+    {
+     "type": "ocr",
+     "text": "Done in four original copies in the English language and signed in Pieśtany on 30th May, 2002."
+    },
+    {
+     "type": "ocr",
+     "text": "| j ll _ For the Government of the For the Government-ef- | Republic of Poland asa 7 Czech Republic Co"
+    },
+    {
+     "type": "ocr",
+     "text": "For the Government of the Republic of Hungary Slovak Republic"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

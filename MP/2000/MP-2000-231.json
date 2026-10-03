@@ -1,0 +1,45 @@
+{
+ "eli": "MP/2000/231",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 11 kwietnia 2000 r. uchylająca uchwałę w sprawie tempa kroczącej dewaluacji.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/231/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 kwietnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "uchylająca uchwałę w sprawie tempa kroczącej dewaluacji."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938 i z 1998 r. Nr 160, poz. 1063) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchyla się uchwałę Rady Polityki Pieniężnej z dnia 24 marca 1999 r. w sprawie tempa kroczącej dewaluacji (Monitor Polski Nr 11, poz. 161).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia z mocą od dnia 12 kwietnia 2000 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: H. Gronkiewicz-Waltz Członkowie Rady Polityki Pieniężnej: B. Grabowski, C. Józefiak, W. Łączkowski, J. Pruski, D. Rosati, G. Wójtowicz, W. Ziółkowska"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,60 @@
+{
+ "eli": "MP/2001/53",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 15 stycznia 2001 r. w sprawie wzorów pieczęci wojewódzkich, powiatowych, gminnych i obwodowych komisji do spraw referendum lokalnego.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/53/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 stycznia 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów pieczęci wojewódzkich, powiatowych, gminnych i obwodowych komisji do spraw referendum lokalnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 49 ust. 5 ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pieczęcie komisji do spraw referendum lokalnego sporządzane są według następujących wzorów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pieczęcią wojewódzkiej, powiatowej i gminnej komisji do spraw referendum lokalnego jest pieczęć okrągła o średnicy 35 mm, z napisem określającym nazwę i siedzibę komisji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pieczęcią obwodowej komisji do spraw referendum lokalnego jest pieczęć okrągła o średnicy 35 mm, z napisem określającym nazwę, siedzibę komisji i numer obwodu głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

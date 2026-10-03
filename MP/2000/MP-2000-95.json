@@ -1,0 +1,60 @@
+{
+ "eli": "MP/2000/95",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 5 listopada 1999 r. o zmianie postanowienia o nadaniu orderów i odznaczeń.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/95/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Rej. 171/99"
+  },
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 listopada 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie postanowienia o nadaniu orderów i odznaczeń."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450) postanawia się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W postanowieniu Prezydenta Rzeczypospolitej Polskiej z dnia 15 lipca 1999 r. (Monitor Polski Nr 33, poz. 507) o nadaniu orderów i odznaczeń wprowadza się następującą zmianę:",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM WIELKIM ORDERU ODRODZENIA POLSKI"
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_1/ust_11",
+     "text": "Regulski Jerzy s. Janusza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem ogłoszenia z mocą od dnia 15 lipca 1999 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,76 @@
+{
+ "eli": "MP/2007/1082",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 20 grudnia 2007 r. w sprawie powołania Komisji Nadzwyczajnej \"Przyjazne Państwo\" do spraw związanych z ograniczaniem biurokracji",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/1082/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 grudnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Komisji Nadzwyczajnej „Przyjazne Państwo” do spraw związanych z ograniczaniem biurokracji"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie art. 19 ust. 1 Regulaminu Sejmu, powołuje Komisję Nadzwyczajną „Przyjazne Państwo” do spraw związanych z ograniczaniem biurokracji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zakresu działania Komisji, o której mowa w § 1, należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przegląd i analiza przepisów regulujących kwestie społeczne, ekonomiczne i gospodarcze w celu wskazania przepisów niejasnych, niespójnych, nieskutecznych, zbędnych lub nadmiernie regulujących;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "przygotowanie, w oparciu o przegląd i analizę przepisów określonych w pkt 1, tez dotyczących niezbędnych zmian w ustawodawstwie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "występowanie z inicjatywą ustawodawczą w celu realizacji tez, o których mowa w pkt 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Do zasad i trybu działania Komisji, o której mowa w § 1, stosuje się odpowiednio postanowienia rozdziału 1 i 14 działu II Regulaminu Sejmu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

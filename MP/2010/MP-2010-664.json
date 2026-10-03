@@ -1,0 +1,105 @@
+{
+ "eli": "MP/2010/664",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 5 lipca 2010 r. w sprawie wartości opałowych oraz średnich cen biokomponentów i paliw ciekłych w 2007 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/664/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 lipca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wartości opałowych oraz średnich cen biokomponentów i paliw ciekłych w 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. 2 ustawy z dnia 23 sierpnia 2007 r. o zmianie ustawy o podatku dochodowym od osób prawnych (Dz. U. Nr 165, poz. 1169) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "wartość opałową dla:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "bioetanolu — 26,7 MJ/kg,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "estru metylowego kwasów tłuszczowych — 37,7 MJ/kg,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "benzyn silnikowych bez dodatku biokomponentu stosowanych w pojazdach wyposażonych w silniki z zapłonem iskrowym — 42,6 MJ/kg,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "oleju napędowego bez dodatku biokomponentu stosowanego w pojazdach, ciągnikach rolniczych, a także maszynach nieporuszających się po drogach, wyposażonych w silniki z zapłonem samoczynnym — 42,9 MJ/kg;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "średnią cenę dla:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "bioetanolu — 2,81 tys. zł/t,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "estru metylowego kwasów tłuszczowych — 3,05 tys. zł/t,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "b enzyn silnikowych bez dodatku biokomponentu stosowanych w pojazdach wyposażonych w silniki z zapłonem iskrowym — 1,60 tys. zł/t,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "oleju napędowego bez dodatku biokomponentu stosowanego w pojazdach, ciągnikach rolniczych, a także maszynach nieporuszających się po drogach, wyposażonych w silniki z zapłonem samoczynnym — 1,78 tys. zł/t.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Gospodarki: w z. D. Bogdan"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 216, poz. 1593)."
+ }
+}

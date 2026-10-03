@@ -1,0 +1,88 @@
+{
+ "eli": "MP/2009/475",
+ "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 11 maja 2009 r. o zmianach wprowadzonych do Szczegółowego opisu priorytetów Programu Operacyjnego Pomoc Techniczna 2007-2013",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/475/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT MINISTRA ROZWOJU REGIONALNEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 maja 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianach wprowadzonych do Szczegółowego opisu priorytetów Programu Operacyjnego Pomoc Techniczna 2007—2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ust. 3 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658, z 2007 r. Nr 140, poz. 984, z 2008 r. Nr 216, poz. 1370 oraz z 2009 r. Nr 19, poz. 100) ogłasza się, co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zmieniona treść Szczegółowego opisu priorytetów Programu Operacyjnego Pomoc Techniczna 2007—2013 została zamieszczona na stronach internetowych administrowanych przez Ministerstwo Rozwoju Regionalnego pod adresem: http://www.popt.gov.pl/Dokumenty/Strony/Dokumenty.aspx;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "zmienioną treść Szczegółowego opisu priorytetów Programu Operacyjnego Pomoc Techniczna 2007—2013 stosuje się od dnia zatwierdzenia przez Ministra Rozwoju Regionalnego, tj. od dnia 20 kwietnia 2009 r.;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "zmiany wprowadzone do Szczegółowego opisu priorytetów Programu Operacyjnego Pomoc Techniczna 2007—2013 obejmują:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "Działanie 1.1 Wsparcie zatrudnienia, w którym rozszerzono listę beneficjentów o:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Urząd Zamówień Publicznych,"
+      },
+      {
+       "type": "text",
+       "text": "— organy administracji rządowej zajmujące się zagadnieniami obszarów Natura 2000 oraz ocen oddziaływania na środowisko,"
+      },
+      {
+       "type": "text",
+       "text": "— Urząd Ochrony Konkurencji i Konsumentów,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "Działanie 2.2 Infrastruktura informatyczna oraz Działanie 3.1 Funkcjonowanie instytucji zaangażowanych w realizację NSRO, w których rozszerzono listę beneficjentów o organy administracji rządowej zajmujące się zagadnieniami obszarów Natura 2000 oraz ocen oddziaływania na środowisko,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "Działanie 4.1 Promocja i informacja, w którym rozszerzono katalog działań, które mogą być realizowane w ramach Działania 4.1 Promocja i informacja o organizację warsztatów, wykładów i szkoleń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju Regionalnego: E. Bieńkowska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658, z 2007 r. Nr 140, poz. 984, z 2008 r. Nr 216, poz. 1370 oraz z 2009 r. Nr 19, poz. 100) minister właściwy do spraw rozwoju regionalnego jest Instytucją Zarządzającą Programem Operacyjnym Pomoc Techniczna 2007—2013. Minister Rozwoju Regionalnego kieruje działem administracji rządowej — rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju Regionalnego (Dz. U. Nr 216, poz. 1600)."
+ }
+}

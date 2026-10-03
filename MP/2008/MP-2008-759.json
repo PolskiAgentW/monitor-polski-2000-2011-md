@@ -1,0 +1,407 @@
+{
+ "eli": "MP/2008/759",
+ "title": "Zarządzenie Nr 125 Prezesa Rady Ministrów z dnia 12 listopada 2008 r. w sprawie Komitetu Sterującego do spraw Projektu Terminal LNG w Świnoujściu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/759/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 125 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 listopada 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Sterującego do spraw Projektu Terminal LNG w Świnoujściu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Powołuje się Komitet Sterujący do spraw Projektu Terminal LNG w Świnoujściu, zwany dalej „Komitetem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Komitet jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zadaniem Komitetu jest:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "zapewnienie koordynacji działań organów administracji rządowej oraz ich współdziałania z organami samorządu terytorialnego i innymi podmiotami uczestniczącymi w realizacji Projektu Terminal LNG w Świnoujściu, polegającego na budowie terminalu do regazyfikacji skroplonego gazu ziemnego (LNG) w Świnoujściu, budowie falochronu osłonowego portu zewnętrznego oraz stanowiska statkowego wraz z konstrukcją morską na potrzeby terminalu w porcie zewnętrznym Zespołu Portów Szczecin — Świnoujście;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "opracowywanie propozycji działań mających na celu realizację zadania, o którym mowa w pkt 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący — Minister Skarbu Państwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "po jednym przedstawicielu, w randze sekretarza stanu albo podsekretarza stanu, wyznaczonym przez:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— Szefa Kancelarii Prezesa Rady Ministrów,"
+          },
+          {
+           "type": "text",
+           "text": "— Ministra Gospodarki,"
+          },
+          {
+           "type": "text",
+           "text": "— Ministra Infrastruktury,"
+          },
+          {
+           "type": "text",
+           "text": "— Ministra Skarbu Państwa,"
+          },
+          {
+           "type": "text",
+           "text": "— Ministra Spraw Wewnętrznych i Administracji,"
+          },
+          {
+           "type": "text",
+           "text": "— Ministra Spraw Zagranicznych,"
+          },
+          {
+           "type": "text",
+           "text": "— Ministra Środowiska,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "Prezes Urzędu Regulacji Energetyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "Prezes Urzędu Zamówień Publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_2/lit_d",
+         "text": "Dyrektor Generalny Lasów Państwowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_2/lit_e",
+         "text": "Wojewoda Zachodniopomorski,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_2/lit_f",
+         "text": "Dyrektor Urzędu Morskiego w Szczecinie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_2/lit_g",
+         "text": "Marszałek Województwa Zachodniopomorskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_2/lit_h",
+         "text": "Prezydent Miasta Świnoujścia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_2/lit_i",
+         "text": "Prezes Zarządu spółki „ENEA” S.A. z siedzibą w Poznaniu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/ust_1/pkt_2/lit_j",
+         "text": "Prezes Zarządu spółki „Zakład Wodociągów i Kanalizacji” Sp. z o.o. z siedzibą w Świnoujściu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_3/ust_1/pkt_2/lit_k",
+         "text": "Prezes Zarządu spółki „Zarząd Morskich Portów Szczecin i Świnoujście” S.A. z siedzibą w Szczecinie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_3/ust_1/pkt_2/lit_l",
+         "text": "Prezes Zarządu spółki „Operator Gazociągów Przesyłowych GAZ-SYSTEM” S.A. z siedzibą w Warszawie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_3/ust_1/pkt_2/lit_m",
+         "text": "Prezes Zarządu spółki „Polskie Górnictwo Naftowe i Gazownictwo” S.A. z siedzibą w Warszawie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_3/ust_1/pkt_2/lit_n",
+         "text": "Prezes Zarządu spółki Polskie LNG Sp. z o.o. z siedzibą w Świnoujściu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "par_3/ust_1/pkt_2/lit_o",
+         "text": "dyrektor komórki organizacyjnej Ministerstwa Skarbu Państwa właściwej w zakresie nadzoru nad spółkami sektora gazowego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "sekretarz — osoba wskazana przez Ministra Skarbu Państwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Osoby, o których mowa w ust. 1 pkt 2 lit. g—n, stają się członkami Komitetu po wyrażeniu pisemnej zgody na udział w jego pracach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Osoby, o których mowa w ust. 1 pkt 2 lit. b—o, za zgodą przewodniczącego, mogą wyznaczyć do udziału w pracach Komitetu swoich przedstawicieli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Za zgodą przewodniczącego, w posiedzeniach Komitetu doraźnie mogą brać udział inne osoby niż wymienione w § 3, z głosem doradczym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "zwołuje posiedzenia Komitetu z własnej inicjatywy lub na wniosek co najmniej połowy członków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "przewodniczy posiedzeniom.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W razie nieobecności przewodniczącego posiedzenia Komitetu zwołuje oraz przewodniczy im osoba wyznaczona przez przewodniczącego spośród członków Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Zawiadomienia o miejscu, terminie i porządku posiedzenia Komitetu oraz materiały dotyczące posiedzenia przewodniczący albo osoba wyznaczona przez przewodniczącego, o której mowa w ust. 2, przesyła członkom pocztą (listem poleconym), faksem lub za pomocą elektronicznych nośników informatycznych, na co najmniej 2 dni przed posiedzeniem pod wskazanym do korespondencji adresem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W celu realizacji zadań Komitetu przewodniczący może:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "tworzyć zespoły i grupy robocze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "korzystać z pomocy doradców i ekspertów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Z posiedzenia Komitetu sekretarz sporządza protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przewodniczący składa Prezesowi Rady Ministrów kopie protokołów z posiedzeń Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Organy administracji rządowej współpracują z Komitetem i udzielają mu pomocy w realizacji jego zadań.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Komitet jest powołany na okres wykonywania zadań określonych w § 2, jednak nie dłuższy niż do dnia uzyskania wszystkich niezbędnych pozwoleń koniecznych do uruchomienia przemysłowej eksploatacji terminalu, o którym mowa w § 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Udział osób, o których mowa w § 3 i 4, lub ich przedstawicieli w pracach Komitetu jest nieodpłatny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Koszty delegacji członków Komitetu ponoszą właściwe jednostki delegujące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Obsługę prac Komitetu zapewnia Ministerstwo Skarbu Państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600."
+ }
+}

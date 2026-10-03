@@ -1,0 +1,149 @@
+{
+ "eli": "MP/2005/428",
+ "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 29 kwietnia 2005 r. zmieniająca uchwałę w sprawie zasad i warunków sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów, przeznaczonych na cele kolekcjonerskie oraz na inne cele",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/428/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA ZARZĄDU NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 kwietnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie zasad i warunków sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów, przeznaczonych na cele kolekcjonerskie oraz na inne cele"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 36 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Zarządu Narodowego Banku Polskiego z dnia 19 sierpnia 2004 r. w sprawie zasad i warunków sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów, przeznaczonych na cele kolekcjonerskie oraz na inne cele (M. P. Nr 37, poz. 655) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. NBP prowadzi sprzedaż wartości kolekcjonerskich, o których mowa w § 1 ust. 2, znajdujących się w ofercie NBP, w oddziałach okręgowych NBP i Departamencie Emisyjno-Skarbcowym, zwanym dalej „DES”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Oddziały okręgowe NBP i DES prowadzą sprzedaż wartości kolekcjonerskich, wymienionych w § 1 ust. 2:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) bankom lub innym przedsiębiorcom, których przedmiotem działania jest obrót wartościami numizmatycznymi lub kolekcjonerskimi,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) innym osobom prawnym oraz podmiotom nieposiadającym osobowości prawnej — na podstawie zawartych z nimi umów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Oddziały okręgowe NBP prowadzą sprzedaż wartości kolekcjonerskich, wymienionych w § 1 ust. 2 pkt 1 i 2 oraz pkt 3 lit. d, osobom fizycznym wyłącznie w kasach prowadzących sprzedaż wartości kolekcjonerskich, przez przyjęcie zapłaty i bezpośrednie wydanie tych wartości.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 4:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "ust. 1—3 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Zawarcie umowy, o której mowa w § 3 ust. 1, następuje przez jej podpisanie lub potwierdzenie złożonego zamówienia odpowiednio przez oddział okręgowy NBP lub DES.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Złożenie zamówienia w oddziale okręgowym NBP lub DES przez podmioty, o których mowa w § 3 ust. 1, na zakup wartości kolekcjonerskich, wymienionych w § 1 ust. 2 pkt 1, ujętych w „Technicznym planie emisji monet kolekcjonerskich”, podanym do publicznej wiadomości do dnia 30 kwietnia roku poprzedzającego planowaną emisję, powinno nastąpić do dnia 30 czerwca tego roku.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Zamówienia na wartości kolekcjonerskie, wymienione w § 1 ust. 2 pkt 1 i nieujęte w „Technicznym planie emisji monet kolekcjonerskich”, przyjmowane są do realizacji do wyczerpania zapasów, w terminie uzgodnionym odpowiednio przez oddziały okręgowe NBP lub DES z podmiotami, o których mowa w § 3 ust. 1, i realizowane w kolejności ich złożenia w NBP.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "ust. 6 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6. W uzasadnionych przypadkach dyrektor oddziału okręgowego NBP może podjąć decyzję o ograniczeniu sprzedaży danego rodzaju wartości kolekcjonerskich podmiotom, wymienionym w § 3 ust. 2.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 9 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Wydanie wartości kolekcjonerskich podmiotom wymienionym w § 3 ust. 1 następuje po wpłynięciu należności odpowiednio na rachunek bankowy oddziału okręgowego NBP lub DES.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: L. Balcerowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,53 @@
+{
+ "eli": "MP/2005/893",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 27 października 2005 r. w sprawie wyboru wicemarszałków Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/893/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 października 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wyboru wicemarszałków Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Senat Rzeczypospolitej Polskiej, na podstawie art. 110 ust. 1, w związku z art. 124 Konstytucji Rzeczypospolitej Polskiej, wybiera senatorów:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— Ryszarda LEGUTKĘ"
+    },
+    {
+     "type": "text",
+     "text": "— Macieja PŁAŻYŃSKIEGO — Krzysztofa PUTRĘ"
+    },
+    {
+     "type": "text",
+     "text": "na wicemarszałków Senatu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

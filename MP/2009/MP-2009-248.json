@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2009/248",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 23 marca 2009 r. zmieniająca uchwałę w sprawie wzoru karty do głosowania w wyborach do Parlamentu Europejskiego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/248/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 marca 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wzoru karty do głosowania w wyborach do Parlamentu Europejskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 157 ust. 4 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. Nr 190, poz. 1360 oraz z 2008 r. Nr 171, poz. 1056) w związku z art. 102 ustawy z dnia 23 stycznia 2004 r. — Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 8 marca 2004 r. w sprawie wzoru karty do głosowania w wyborach do Parlamentu Europejskiego (M. P. Nr 12, poz. 194) w § 1 wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Listy kandydatów na posłów umieszcza się w kolumnach oddzielonych linią pionową, a listy w kolumnach oddziela się linią poziomą, przeznaczając dla każdej listy jednakowe pole. Listy umieszcza się w kolumnach w kolejności numerów list, licząc od strony lewej do prawej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "po ust. 4 dodaje się ust. 4a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4a. Każda lista opatrzona jest oznaczeniem „Lista nr ........” oraz nazwą lub skrótem nazwy komitetu wyborczego, który zgłosił listę. Na liście umieszcza się w kolejności liczbę porządkową, po niej kratkę przeznaczoną na oddanie głosu oraz nazwisko i imię — imiona każdego kandydata.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

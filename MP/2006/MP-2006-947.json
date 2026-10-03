@@ -1,0 +1,117 @@
+{
+ "eli": "MP/2006/947",
+ "title": "Zarządzenie Nr 189 Prezesa Rady Ministrów z dnia 21 grudnia 2006 r. zmieniające zarządzenie w sprawie nadania statutu Prokuratorii Generalnej Skarbu Państwa",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/947/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 189 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 grudnia 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Prokuratorii Generalnej Skarbu Państwa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 ustawy z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. Nr 169, poz. 1417 i Nr 264, poz. 2205 oraz z 2006 r. Nr 170, poz. 1217 i Nr 218, poz. 1592) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 115 Prezesa Rady Ministrów z dnia 15 listopada 2005 r. w sprawie nadania statutu Prokuratorii Generalnej Skarbu Państwa (M. P. Nr 70, poz. 967 oraz z 2006 r. Nr 1, poz. 16 i Nr 13, poz. 178) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. 1 uchyla się pkt 15—17,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "ust. 2 i 3 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Departamenty i biura, o których mowa w ust. 1, dzielą się na stanowiska pracy oraz mogą dzielić się na wydziały lub samodzielne stanowiska pracy, tworzone przez Prezesa Prokuratorii Generalnej. Wydziały dzielą się na stanowiska pracy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. W skład Głównego Urzędu Prokuratorii Generalnej Skarbu Państwa mogą wchodzić również samodzielne wydziały oraz jednoosobowe i wieloosobowe samodzielne stanowiska pracy, tworzone przez Prezesa Prokuratorii Generalnej.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 4 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Komórki organizacyjne, o których mowa w ust. 1 pkt 1—3, dzielą się na stanowiska pracy.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "§ 10 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 10. Prezes Prokuratorii Generalnej może powierzyć starszemu radcy lub radcy Prokuratorii Generalnej funkcję wizytatora, określając zakres jego zadań. Z funkcji wizytatora Prezes Prokuratorii Generalnej może zwolnić w każdym czasie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 13 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Funkcję wicedyrektora departamentów i biur, o których mowa w § 3 ust. 1, oraz naczelnika wydziałów, o których mowa w § 3 ust. 2, powierza i zwalnia z tych funkcji Prezes Prokuratorii Generalnej.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Kaczyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

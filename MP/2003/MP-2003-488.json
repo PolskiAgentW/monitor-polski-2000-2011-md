@@ -1,0 +1,380 @@
+{
+ "eli": "MP/2003/488",
+ "title": "Zarządzenie Ministra Infrastruktury z dnia 30 czerwca 2003 r. w sprawie regulaminu Rady Ochrony i Ułatwień Lotnictwa Cywilnego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/488/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 czerwca 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie regulaminu Rady Ochrony i Ułatwień Lotnictwa Cywilnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 19 ust. 7 ustawy z dnia 3 lipca 2002 r. — Prawo lotnicze (Dz. U. Nr 130, poz. 1112) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się Regulamin Rady Ochrony i Ułatwień Lotnictwa Cywilnego, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: M. Pol"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Ministra Infrastruktury z dnia 30 czerwca 2003 r. (poz. 488)",
+   "body": [
+    {
+     "type": "text",
+     "text": "REGULAMIN RADY OCHRONY I UŁATWIEŃ LOTNICTWA CYWILNEGO"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Rada Ochrony i Ułatwień Lotnictwa Cywilnego, zwana dalej „Radą”, jest organem opiniodawczo-doradczym ministra właściwego do spraw transportu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Rada spośród swoich członków, zwykłą większością głosów, wybiera oprócz Przewodniczącego, także Wiceprzewodniczącego oraz Sekretarza.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Przewodniczący Rady kieruje pracami Rady, a w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_2/pkt_1",
+         "text": "planuje, organizuje, zwołuje i prowadzi posiedzenia Rady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_2/pkt_2",
+         "text": "dokonuje podziału zadań pomiędzy członków Rady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_2/pkt_3",
+         "text": "może zwracać się o przygotowanie opinii do ekspertów w zakresie ochrony i ułatwień w lotnictwie cywilnym;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_2/pkt_4",
+         "text": "zaprasza gości i ekspertów na posiedzenia Rady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_2/ust_2/pkt_5",
+         "text": "przedstawia ministrowi właściwemu do spraw transportu coroczne sprawozdanie z prac Rady oraz przekazuje je do wiadomości Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu oraz Prezesowi Urzędu Lotnictwa Cywilnego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "W przypadku nieobecności Przewodniczącego Rady, jej posiedzenia prowadzi Wiceprzewodniczący Rady.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Rada obraduje na posiedzeniach zwykłych zwoływanych przez Przewodniczącego w terminach określonych w planie pracy Rady lub nadzwyczajnych, zwoływanych na wniosek co najmniej połowy składu Rady.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Posiedzenia zwykłe zwoływane są nie rzadziej niż dwa razy w roku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Przewodniczący Rady może, z własnej inicjatywy lub na wniosek członka Rady, zwołać posiedzenie Rady w innym niż określony w planie pracy Rady terminie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_3/ust_4",
+       "text": "W uzasadnionych przypadkach posiedzenie Rady zwołuje się w trybie pilnym. W zawiadomieniu o posiedzeniu określa się dodatkowo przyczynę zwołania posiedzenia w tym trybie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Zawiadomienia o terminie, miejscu i porządku posiedzenia Rady są przekazywane członkom Rady i innym osobom zaproszonym na posiedzenie nie później niż na 7 dni przed wyznaczonym terminem posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "W przypadku zwołania posiedzenia, o którym mowa w § 3 ust. 3 i 4, zawiadomienie o terminie posiedzenia Rady, wraz z porządkiem obrad, powinno być doręczone uczestnikom posiedzenia niezwłocznie po podjęciu przez Przewodniczącego Rady decyzji o zwołaniu posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Przewodniczący Rady może w trakcie posiedzenia wprowadzić do porządku obrad sprawy nieprzewidziane wcześniej w tym porządku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Rada wyraża swoje stanowisko w formie ocen lub opinii.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Ustalenie stanowiska Rady dokonuje się w drodze uzgodnienia. W przypadku gdy osiągnięcie uzgodnienia jest niemożliwe, Przewodniczący Rady przeprowadza głosowanie. O treści stanowiska decyduje większość głosów, a w razie równej liczby głosów rozstrzyga głos Przewodniczącego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_5/ust_3",
+       "text": "Członkowie Rady mogą zgłosić do protokołu zdanie odrębne w stosunku do przyjętego stanowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Z posiedzenia Rady sporządza się protokół, który podpisują członkowie Rady.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Protokół powinien zawierać w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_6/ust_2/pkt_1",
+         "text": "porządek obrad;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_6/ust_2/pkt_2",
+         "text": "listę obecności osób biorących udział w posiedzeniu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_6/ust_2/pkt_3",
+         "text": "wnioski osób biorących udział w posiedzeniu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_6/ust_2/pkt_4",
+         "text": "przyjęte przez Radę oceny i opinie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_6/ust_2/pkt_5",
+         "text": "dokumenty stanowiące przedmiot obrad.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_6/ust_3",
+       "text": "Protokół podpisują Przewodniczący Rady i Sekretarz Rady.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_6/ust_4",
+       "text": "Prawo wglądu do protokołu mają osoby wchodzące w skład Rady oraz inne osoby upoważnione przez Przewodniczącego Rady.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_6/ust_5",
+       "text": "Przewodniczący Rady może, na pisemny wniosek członka Rady, przesłać protokół podmiotom wskazanym we wniosku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Sekretarz Rady prowadzi obsługę organizacyjną i techniczną prac Rady oraz wykonuje zadania zlecone mu przez Radę lub Przewodniczącego Rady.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Do zadań Sekretarza Rady należy:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_2/pkt_1",
+         "text": "przygotowywanie projektów planów pracy Rady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_2/pkt_2",
+         "text": "koordynacja przygotowania oraz dostarczenia materiałów i projektów dokumentów przeznaczonych do rozpatrzenia przez Radę;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_7/ust_2/pkt_3",
+         "text": "informowanie członków Rady oraz innych uczestników posiedzenia Rady o terminie posiedzenia oraz o porządku obrad;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_7/ust_2/pkt_4",
+         "text": "sporządzanie protokołów posiedzeń Rady i przedstawianie ich do podpisu Przewodniczącemu Rady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_7/ust_2/pkt_5",
+         "text": "gromadzenie i przechowywanie dokumentacji Rady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_7/ust_2/pkt_6",
+         "text": "zapewnianie właściwego przygotowania i sprawnej obsługi posiedzeń Rady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_7/ust_2/pkt_7",
+         "text": "sporządzanie projektu rocznego sprawozdania z działalności Rady i przedstawienie go Przewodniczącemu Rady.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Obsługę organizacyjno-biurową Rady zapewnia urząd obsługujący ministra właściwego do spraw transportu.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej — transport, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2002 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. Nr 32, poz. 302 oraz z 2003 r. Nr 19, poz. 165)."
+ }
+}

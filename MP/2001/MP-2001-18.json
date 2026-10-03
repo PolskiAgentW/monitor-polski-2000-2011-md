@@ -1,0 +1,106 @@
+{
+ "eli": "MP/2001/18",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 27 grudnia 2000 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł oraz terminu wprowadzenia ich do obiegu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/18/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 grudnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł oraz terminu wprowadzenia ich do obiegu."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063 oraz z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł i 20 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 21 lutego 2001 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: H. Gronkiewicz-Waltz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 27 grudnia 2000 r. (poz. 18)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ I 20 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne"
+    },
+    {
+     "type": "text",
+     "text": "Wartość"
+    },
+    {
+     "type": "text",
+     "text": "strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczypospolitej Pol- Stylizowana mapa skiej, po bokach or- Europy z oznaczoła oznaczenie roku nym gwiazdkami emisji: 20-01, pod Masa Średnica Wielkość Brzeg (w gra- (w mili- Stop emisji (bok) mach) metrach) (próba) (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "Na boku ośmiokrotnie powtószlakiem burszty- rzony napis: orłem napis: ZŁ 2 nowym. Z lewej NBP, co dru- 2 zł ZŁ, w otoku napis: 8,15 27,0 CuAl5Zn5Sn1 500 000 strony denar z wi- gi odwróco- RZECZPOSPOLITA zerunkiem Nerona. POLSKA poprze- U góry półkolem dzony oraz zakoń- napis: SZLAK czony sześcioma ny o 180 stopni, rozdzielony BURSZTYNOWY gwiazdkami perełkami. Pod lewą łapą orła znak mennicy: MW"
+    },
+    {
+     "type": "text",
+     "text": "Z lewej strony wizerunek orła usta- Stylizowana mapa lony dla godła Rze- Europy z oznaczoczypospolitej Pol- nym gwiazdkami skiej. Z prawej stro- szlakiem bursztyny napis: 20 ZŁ. Po- nowym. U góry 20 zł niżej dwa srebrne bursztyn, poniżej naczynia rzymskie. denar z wizerun- Wokół napis: kiem Nerona. Z le- RZECZPOSPOLITA wej strony półko- POLSKA 2001. Pod lem napis: SZLAK lewą łapą orła znak BURSZTYNOWY mennicy: MW Ag 925/1000 gładki 28,28 38,61 oksydowane 30 000 oraz bursztyn"
+    },
+    {
+     "type": "text",
+     "text": "19"
+    },
+    {
+     "type": "text",
+     "text": "OBWIESZCZENIE MINISTRA GOSPODARKI"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 21 grudnia 2000 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie wysokości kwoty przeciętnego miesięcznego wynagrodzenia w kopalniach węgla kamiennego w trzecim kwartale 2000 r."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 35 ust. 2 ustawy z dnia 26 listo- iż wysokość przeciętnego miesięcznego wynagrodzepada 1998 r. o dostosowaniu górnictwa węgla kamien- nia w kopalniach węgla kamiennego w trzecim kwartanego do funkcjonowania w warunkach gospodarki ryn- le 2000 r. wyniosła 2 899,92 zł. kowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. Nr 162, poz. 1112) ogłasza się, Minister Gospodarki: w z. A. Karbownik"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,49 @@
+{
+ "eli": "MP/2003/427",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 27 maja 2003 r. w sprawie oceny działalności Zarządu Narodowego Banku Polskiego w zakresie realizacji założeń polityki pieniężnej w 2002 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/427/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 maja 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie oceny działalności Zarządu Narodowego Banku Polskiego w zakresie realizacji założeń polityki pieniężnej w 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800, z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178 oraz z 2003 r. Nr 65, poz. 594) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pozytywnie ocenia się działalność Zarządu Narodowego Banku Polskiego w zakresie realizacji założeń polityki pieniężnej w 2002 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: L. Balcerowicz"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie Rady Polityki Pieniężnej: M. Dąbrowski, B. Grabowski, C. Józefiak, J. Krzyżewski, W. Łączkowski, J. Pruski, D. Rosati, G. Wójtowicz, W. Ziółkowska"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

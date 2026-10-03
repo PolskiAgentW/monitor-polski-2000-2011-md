@@ -1,0 +1,761 @@
+{
+ "eli": "MP/2000/667",
+ "title": "Obwieszczenie Ministra Transportu i Gospodarki Morskiej z dnia 29 września 2000 r. w sprawie ogłoszenia zmian w statucie przedsiębiorstwa państwowego \"Polskie Koleje Państwowe\".",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/667/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 września 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia zmian w statucie przedsiębiorstwa państwowego „Polskie Koleje Państwowe”."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 5 ustawy z dnia 6 lipca 1995 r. o przedsiębiorstwie państwowym „Polskie Koleje Państwowe” (Dz. U. Nr 95, poz. 474, z 1996 r. Nr 147, poz. 687, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 591, Nr 104, poz. 661 i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1120) ogłasza się zmiany w statucie przedsiębiorstwa państwowego „Polskie Koleje Państwowe” stanowiącym załącznik do obwieszczenia Ministra Transportu i Gospodarki Morskiej z dnia 29 października 1996 r. w sprawie ogłoszenia statutu przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Monitor Polski Nr 77, poz. 709 oraz z 1998 r. Nr 9, poz. 180 i Nr 41, poz. 571), zatwierdzone przeze mnie w dniu dzisiejszym. Zmiany w statucie stanowią załącznik do niniejszego obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Transportu i Gospodarki Morskiej: J. Widzyk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Transportu i Gospodarki Morskiej z dnia 29 września 2000 r. (poz. 667)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZMIANY W STATUCIE PRZEDSIĘBIORSTWA PAŃSTWOWEGO „POLSKIE KOLEJE PAŃSTWOWE”"
+    },
+    {
+     "type": "text",
+     "text": "W statucie przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, stanowiącym załącznik do obwieszczenia Ministra Transportu i Gospodarki Morskiej z dnia 29 października 1996 r. w sprawie ogłoszenia statutu przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Monitor Polski Nr 77, poz. 709 oraz z 1998 r. Nr 9, poz. 180 i Nr 41, poz. 571), wprowadza się następujące zmiany:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w § 2 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. PKP otrzymuje dotacje z budżetu państwa na zasadach określonych w odrębnych przepisach.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w § 4 skreśla się wyrazy „ , z uwzględnieniem przepisów rozdziału 4 ustawy o PKP”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5. PKP prowadzi rachunkowość na zasadach określonych w odrębnych przepisach, z uwzględnieniem przepisów rozdziału 3 ustawy z dnia 27 czerwca 1997 r. o transporcie kolejowym (Dz. U. Nr 96, poz. 591, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 84, poz. 934 i z 2000 r. Nr 84, poz. 948).”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "w § 6:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_4/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. PKP w trybie i na zasadach określonych odrębnymi przepisami zapewnia sprawny i bezpieczny przewóz osób i rzeczy oraz ochronę mienia na obszarze kolejowym.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_4/lit_b",
+       "text": "w ust. 3 dodaje się pkt 5 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5) tworzenia, przekształcenia i likwidacji publicznych zakładów opieki zdrowotnej, w tym publicznych zakładów opieki zdrowotnej wykonujących zadania odpowiednie do zadań służby medycyny pracy, na zasadach określonych w odrębnych przepisach.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "w § 8 w ust. 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "skreśla się pkt 4,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "pkt 9 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„9) zatwierdzanie projektów likwidacji linii kolejowych lub ich części — po uzyskaniu opinii sejmiku województwa i rad powiatów, na obszarze których przebiega ta linia, w przypadku zaś odcinka linii kolejowej przebiegającego wyłącznie na terenie jednego powiatu — po uzyskaniu opinii rady tego powiatu,”",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_5/lit_c",
+       "text": "skreśla się pkt 13, 15 i 16;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "w § 8 w ust. 2 w pkt 8, w § 11 w ust. 1 w pkt 4 i w § 21 w ust. 2 wyraz „ECU” zastępuje się wyrazem „EURO”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "§ 12 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 12.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Podział terytorialny sieci kolejowej PKP określa załącznik nr 1 do statutu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Ze względów techniczno-eksploatacyjnych obszar działania jednostek organizacyjnych PKP określają odpowiednie zarządzenia i regulaminy wewnętrzne PKP.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "§ 14 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 14. W PKP działają wykonawcze jednostki organizacyjne PKP podległe bezpośrednio jednostkom organizacyjnym, o których mowa w § 13 pkt 2, tworzone, łączone i likwidowane na zasadach określonych w rozdziale 6 statutu, stosownie do przedmiotu działalności i potrzeb PKP.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "skreśla się § 15;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "w § 16 wyrazy „w § 13, 14 i 15,” zastępuje się wyrazami „w § 13 i 14,”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "§ 20 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 20. Kierownicy jednostek organizacyjnych, o których mowa w § 13 pkt 2, mogą tworzyć, łączyć i likwidować podległe im wykonawcze jednostki organizacyjne za zgodą Zarządu PKP.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "w § 27 skreśla się pkt 3;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "załącznik nr 1 do statutu otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Podział terytorialny sieci kolejowej PKP",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Nazwa jednostki Obszar działania organizacyjnej województwo powiat, gmina",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zakład podlaskie powiaty: augustowski, białostocki, bielski, grajewski, Infrastruktury hajnowski, moniecki, sejneński, sokólski, suwalski, Kolejowej wysokomazowiecki, zambrowski w Białymstoku miasta na prawach powiatu: Białystok, Łomża, Suwałki powiat łomżyński: część gminy Śniadowo powiat siemiatycki: gminy: Nurzec-Stacja, Siemiatycze, Milejczyce, część gminy Mielnik",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "warmińsko-mazurskie powiat ełcki: część gminy Prostki 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zakład 1 śląskie powiaty: myszkowski, zawierciański, będziński Infrastruktury miasta na prawach powiatu: Dąbrowa Górnicza, Kolejowej Częstochowa w Częstochowie powiat częstochowski: gminy: Janów, Kamienica Polska, Kłomnice, Koniecpol, Kruszyna, Lelów, Mykanów, Olsztyn, Poczesna, Przyrów, Rędziny powiat tarnogórski: część gminy Ożarowice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "łódzkie powiat radomszczański: część gminy Radomsko powiat pajęczański: gminy: Nowa Brzeźnica, Strzelce Wielkie, Pajęczno, Rząśnia małopolskie powiat olkuski: miasto Sławków",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Zakład pomorskie powiaty: bytowski, chojnicki, człuchowski, kartuski, Infrastruktury kościerski, kwidzyński, lęborski, malborski, gdański, Kolejowej nowodworski, pucki, słupski, tczewski, wejherowski w Gdańsku miasta na prawach powiatu: Gdańsk, Gdynia, Słupsk, Sopot powiat starogardzki: gminy: Bobowo, Kaliska, Skórcz, Lubichowo, Skarszewy, Smętowo Graniczne, Zblewo, Starogard Gdański, część gminy Osieczna",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zachodniopomorskie powiat szczecinecki: część gminy Biały Bór powiat sławieński: część gminy Sławno",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "warmińsko-mazurskie powiat elbląski: część gminy Gronowo Elbląskie powiat iławski: gmina Kisielice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "kujawsko-pomorskie powiat grudziądzki: część gminy Rogóźno",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Zakład śląskie powiaty: gliwicki, wodzisławski, rybnicki, mikołowski Infrastruktury miasta na prawach powiatu: Gliwice, Żory, Kolejowej Rybnik, Ruda Śląska, Jastrzębie-Zdrój, w Gliwicach części miast na prawach powiatu: Bytom, Katowice, Zabrze powiat cieszyński: gmina Zebrzydowice powiat pszczyński: gminy: Suszec, Pawłowice powiat raciborski: gminy: Krzanowice, Krzyżanowice, Nędza, części gmin: Pietrowice Wielkie, Kuźnia Raciborska",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "opolskie powiat głubczycki: część gminy Kietrz",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Zakład lubuskie powiaty: gorzowski, sulęciński, słubicki, świebodziński, Infrastruktury krośnieński, zielonogórski, żarski Kolejowej miasta na prawach powiatu: Gorzów Wielkopolski, w Gorzowie Zielona Góra Wielkopolskim powiat międzyrzecki: gminy: Międzyrzecz, Bledzew, Skwierzyna, Pszczew, części gmin: Przytoczna, Trzciel powiat strzelecko-drezdenecki: gminy: Stare Kurowo, Zwierzyn, część gminy Drezdenko powiat nowosolski: gminy: Kolsko, Otyń, Nowa Sól, Kożuchów, Nowe Miasteczko, Bytom Odrzański, Siedlisko, część gminy Sława powiat żagański: gminy: Brzeźnica, Małomice, Żagań, Niegosławice, Szprotawa, część gminy Iłowa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Zakład śląskie powiaty: bielski, żywiecki, tyski Infrastruktury miasta na prawach powiatu: Bielsko-Biała, Tychy, Kolejowej Mysłowice, Jaworzno, Sosnowiec, w Katowicach części miast na prawach powiatu: Katowice, Chorzów powiat cieszyński: gminy: Goleszów, Skoczów, Chybie, Strumień powiat pszczyński: gminy: Pszczyna, Kobiór, Goczałkowice-Zdrój",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "małopolskie powiat oświęcimski: część gminy Kęty powiat olkuski: miasto Bukowno 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Zakład świętokrzyskie cały obszar województwa Infrastruktury Kolejowej mazowieckie powiat grójecki: gmina Nowe Miasto n. Pilicą w Kielcach powiat żyrardowski: gmina Radziejowice, część gminy Mszczonów powiat grodziski: części gmin: Jaktorów, Grodzisk Mazowiecki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "łódzkie powiat opoczyński: gminy: Żarnów, Paradyż, części gmin: Białaczów, Sławno, Opoczno, Poświętne, Drzewica powiat tomaszowski: gmina Rzeczyca powiat rawski: gminy: Cielądz, Biała Rawska powiat skierniewicki: gmina Kowiesy",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podkarpackie powiat tarnobrzeski: gminy: Baranów Sandomierski, Gorzyce miasto na prawach powiatu Tarnobrzeg powiat mielecki: część gminy Padew Narodowa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "śląskie powiat zawierciański: gmina Szczekociny",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Zakład zachodniopomorskie powiaty: koszaliński, białogardzki, świdwiński, Infrastruktury kołobrzeski Kolejowej miasto na prawach powiatu Koszalin w Koszalinie powiat szczecinecki: gminy: Barwice, Borne Sulinowo, Grzmiąca, Szczecinek, część gminy Biały Bór powiat stargardzki: gminy: Łobez, Węgorzyno, część gminy Chociwel powiat gryficki: gmina Trzebiatów powiat wałecki: gminy: Wałcz, Tuczno, Mirosławiec, powiat sławieński: gminy: Darłowo, Malechowo, część gminy Sławno powiat drawski: gminy: Czaplinek, Złocieniec, Drawsko Pomorskie, Ostrowice, Wierzchowo, część gminy Kalisz Pomorski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wielkopolskie powiat złotowski: gmina Okonek",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Zakład małopolskie powiaty: dąbrowski, brzeski, bocheński, chrzanowski, Infrastruktury wielicki, miechowski Kolejowej miasta na prawach powiatu: Kraków, Tarnów w Krakowie powiat olkuski: gminy: Olkusz, Bolesław, Klucze, Wolbrom powiat oświęcimski: gminy: Brzeszcze, Przeciszów, Zator, Chełmek, Oświęcim powiat tarnowski: gminy: Żabno, Wierzchosławice, Wojnicz, część gminy Tarnów powiat wadowicki: gminy: Spytkowice, Brzeźnica powiat krakowski: gminy: Zabierzów, Krzeszowice, Słomniki, Kocmyrzów-Luborzyca, Zielonki, część gminy Skawina",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podkarpackie powiat dębicki: część gminy Czarna",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10. Zakład lubelskie powiaty: hrubieszowski, zamojski, tomaszowski, Infrastruktury biłgorajski, janowski, kraśnicki, lubelski, świdnicki, Kolejowej krasnostawski, rycki, chełmski, łęczyński, włodawski, w Lublinie lubartowski, puławski, parczewski powiat łukowski: gmina Krzywda, części gmin: Stanin, Łuków powiat radzyński: gminy: Ulan-Majorat, Radzyń Podlaski, Wohyń",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podkarpackie powiat lubaczowski: gmina Narol, część gminy Horyniec",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "mazowieckie powiat garwoliński: gminy: Trojanów, Sobolew, Łaskarzew, część gminy Garwolin 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11. Zakład łódzkie powiaty: piotrkowski, bełchatowski, łaski, zduńskowolski, Infrastruktury pabianicki, łódzki wschodni, poddębicki, zgierski Kolejowej miasta na prawach powiatu: Skierniewice, Łódź, w Łodzi Piotrków Trybunalski powiat łęczycki: gminy: Łęczyca, Witonia, Świnice Warckie powiat radomszczański: gminy: Dobryszyce, Gomunice, Kamieńsk, Gidle, część gminy Radomsko powiat łowicki: gminy: Domaniewice, Łyszkowice, części gmin: Nieborów, Łowicz powiat opoczyński: części gmin: Białaczów, Sławno, Opoczno, Poświętne, Drzewica powiat skierniewicki: gminy: Skierniewice, Maków, Godzianów, Lipce Reymontowskie, Słupia powiat tomaszowski: gminy: Ujazd, Lubochnia, Rokiciny, Tomaszów Mazowiecki, Będków, Inowłódz powiat kutnowski: część gminy Kutno powiat sieradzki: gminy: Wróblew, Sieradz, część gminy Błaszki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12. Zakład małopolskie powiaty: gorlicki, nowosądecki, limanowski, nowotarski, Infrastruktury suski, tatrzański Kolejowej miasto na prawach powiatu Nowy Sącz w Nowym Sączu powiat tarnowski: gminy: Pleśna, Tuchów, Gromnik, Ciężkowice, część gminy Tarnów powiat wadowicki: gminy: Wadowice, Tomice, Andrychów, Mucharz, Stryszów, Kalwaria Zebrzydowska powiat krakowski: część gminy Skawina powiat oświęcimski: część gminy Kęty",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13. Zakład warmińsko-mazurskie powiaty: bartoszycki, braniewski, giżycki, kętrzyński, Infrastruktury lidzbarski, mrągowski, nidzicki, nowomiejski, olec- Kolejowej ko-gołdapski, olsztyński, ostródzki, piski, szczycieński w Olsztynie miasta na prawach powiatu: Olsztyn, Elbląg powiat elbląski: gminy: Elbląg, Młynary, Pasłęk, Tolkmicko, część gminy Gronowo Elbląskie powiat iławski: gminy: Iława, Lubawa, Susz, Zalewo powiat ełcki: gminy: Ełk, Stare Juchy, część gminy Prostki powiat działdowski: gminy: Iłowo-Osada, Działdowo, Płośnica, Rybno, część gminy Lidzbark",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "mazowieckie powiat mławski: gminy: Wiśniewo, Stupsk powiat ciechanowski: gminy: Regimin, Ciechanów, Sońsk powiat pułtuski: gmina Świercze",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14. Zakład opolskie powiaty: kluczborski, namysłowski, nyski, opolski, Infrastruktury prudnicki, kędzierzyńsko-kozielski, krapkowicki Kolejowej miasto na prawach powiatu Opole w Opolu powiat głubczycki: gminy: Głubczyce, Baborów, Branice, część gminy Kietrz powiat oleski: gminy: Olesno, Zębowice, Dobrodzień, Radłów, Gorzów Śląski, Praszka, część gminy Rudniki powiat brzeski: gminy: Lewin Brzeski, Olszanka, Brzeg, części gmin: Grodków, Lubsza powiat strzelecki: gminy: Leśnica, Strzelce Opolskie, Izbicko, Ujazd, Kolonowskie, część gminy Zawadzkie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wielkopolskie powiat kępiński: część gminy Łęka Opatowska",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "dolnośląskie powiat oławski: część gminy Oława powiat ząbkowicki: części gmin: Ziębice, Kamieniec Ząbkowicki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "śląskie powiat raciborski: części gmin: Pietrowice Wielkie, Kuźnia Raciborska 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15. Zakład wielkopolskie powiaty: kaliski, ostrzeszowski, ostrowski, krotoszyński, Infrastruktury leszczyński, gostyński, jarociński, pleszewski, śremski, Kolejowej kościański, wolsztyński, grodziski w Ostrowie powiat wrzesiński: gmina Miłosław Wielkopolskim powiat średzki: część gminy Nowe Miasto n. Wartą powiat rawicki: gminy: Jutrosin, Miejska Górka, Bojanowo, część gminy Rawicz powiat poznański: gmina Mosina, część gminy Stęszew powiat kępiński: gminy: Perzów, Bralin, Baranów, Trzcinica, Rychtal, Kępno, część gminy Łęka Opatowska",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "lubuskie powiat nowosolski: gminy: Szlichtyngowa, Wschowa, część gminy Sława",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "łódzkie powiat wieruszowski powiat sieradzki: część gminy Błaszki powiat wieluński: część gminy Biała",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "dolnośląskie powiat górowski powiat milicki: część gminy Cieszków",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16. Zakład wielkopolskie powiaty: nowotomyski, obornicki, gnieźnieński, Infrastruktury szamotulski, pilski, chodzieski, międzychodzki, Kolejowej złotowski, wągrowiecki w Poznaniu miasta na prawach powiatu: Poznań, Konin powiat słupecki: gminy: Strzałkowo, Słupca powiat koniński: gminy: Kramsk, Golina, Kazimierz Biskupi powiat kolski: gminy: Koło, Osiek Mały, część gminy Grzegorzew powiat średzki: gminy: Środa Wielkopolska, Krzykosy, część gminy Nowe Miasto n. Wartą powiat poznański: gminy: Kórnik, Kostrzyn, Swarzędz, Pobiedziska, Buk, Dopiewo, Komorniki, Rokietnica, Suchy Las, Czerwonak, Murowana Goślina, część gminy Stęszew powiat wrzesiński: gminy: Września, Nekla powiat czarnkowsko-trzcianecki: gminy: Czarnków, Trzcianka, Połajewo, Lubasz, Wieleń, Drawsko, część gminy Krzyż Wielkopolski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "kujawsko-pomorskie powiat żniński: gmina Janowiec Wielkopolski powiat nakielski: część gminy Kcynia powiat mogileński: część gminy Mogilno",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "lubuskie powiat strzelecko-drezdenecki: część gminy Drezdenko powiat międzyrzecki: części gmin: Przytoczna, Trzciel",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zachodniopomorskie powiat wałecki: gmina Człopa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17. Zakład podkarpackie powiaty: bieszczadzki, jarosławski, jasielski, Infrastruktury kolbuszowski, sanocki, krośnieński, Kolejowej ropczycko-sędziszowski, rzeszowski, strzyżowski, w Rzeszowie łańcucki, przemyski, przeworski, mielecki, leżajski, niżański, tarnobrzeski, stalowowolski powiat lubaczowski: gminy: Lubaczów, Oleszyce, część gminy Horyniec powiat dębicki: gmina Dębica, część gminy Czarna powiat mielecki: gminy: Przecław, Mielec, Tuszów Narodowy, część gminy Padew Narodowa 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18. Zakład mazowieckie powiaty: siedlecki, sokołowski, węgrowski, ostrowski, Infrastruktury łosicki, wyszkowski, ostrołęcki, przasnyski Kolejowej powiat miński: gminy: Dębe Wielkie, Mińsk Mazowiecki, w Siedlcach Cegłów, Stanisławów, Siennica, Mrozy, część gminy Halinów powiat żyrardowski: części gmin: Puszcza Mariańska, Mszczonów powiat otwocki: gmina Karczew, części gmin: Kołbiel, Osieck, Celestynów powiat grójecki: gmina Tarczyn powiat piaseczyński: gmina Góra Kalwaria powiat garwoliński: gminy: Parysów, Borowie, część gminy Garwolin powiat wołomiński: gmina Jadów, części gmin: Radzymin, Klembów, Tłuszcz, Poświętne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "lubelskie powiat bialski powiat łukowski: gminy: Stoczek Łukowski, Trzebieszów, części gmin: Stanin, Łuków powiat radzyński: gmina Kąkolewnica Wschodnia",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podlaskie powiat łomżyński: gmina Łomża, część gminy Śniadowo powiat siemiatycki: część gminy Mielnik",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19. Zakład zachodniopomorskie powiaty: choszczeński, goleniowski, gryfiński, kamieński, Infrastruktury pyrzycki, myśliborski Kolejowej miasta na prawach powiatu: Szczecin, Świnoujście w Szczecinie powiat gryficki: gminy: Gryfice, Karnice, Płoty, Resko, Rewal, Brojce powiat drawski: część gminy Kalisz Pomorski powiat stargardzki: gminy: Dobrzany, Dolice, Kobylanka, Suchań, Stargard Szczeciński, Marianowo, część gminy Chociwel",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "lubuskie powiat strzelecko-drezdenecki: gmina Dobiegniew",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wielkopolskie powiat czarnkowsko-trzcianecki: część gminy Krzyż Wielkopolski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20. Zakład śląskie powiaty: kłobucki, lubliniecki Infrastruktury miasto na prawach powiatu: Siemianowice Śląskie, Kolejowej części miast na prawach powiatu: Bytom, Chorzów, w Tarnowskich Zabrze Górach powiat częstochowski: gmina Blachownia powiat tarnogórski: część gminy Ożarowice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "opolskie powiat oleski: część gminy Rudniki powiat strzelecki: część gminy Zawadzkie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "łódzkie powiat wieluński: gminy: Pątnów, Wieluń, część gminy Biała powiat pajęczański: gminy: Działoszyn, Kiełczygłów, Siemkowice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "21. Zakład kujawsko-pomorskie powiaty: włocławski, radziejowski, inowrocławski, Infrastruktury aleksandrowski, toruński, bydgoski, sępoleński, Kolejowej tucholski, świecki, chełmiński, wąbrzeski, brodnicki, w Toruniu golubsko-dobrzyński, rypiński miasta na prawach powiatu: Bydgoszcz, Grudziądz, Toruń, Włocławek powiat nakielski: gminy: Szubin, Sadki, Mrocza, Nakło n. Notecią, część gminy Kcynia powiat mogileński: gminy: Dąbrowa, Strzelno, Jeziora Wielkie, część gminy Mogilno 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "powiat żniński: gminy: Barcin, Żnin powiat grudziądzki: gminy: Grudziądz, Gruta, Łasin, Radzyń Chełmiński, Świecie n. Osą, część gminy Rogóźno powiat lipnowski: gminy: Kikół, Lipno, część gminy Skępe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wielkopolskie powiat koniński: gmina Wierzbinek powiat kolski: gminy: Babiak, Dąbie, Olszówka, część gminy Grzegorzew powiat wągrowiecki: gminy: Damasławek, Wapno, powiat słupecki: gmina Orchowo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "łódzkie powiat łęczycki: gmina Świnice Warckie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pomorskie powiat starogardzki: część gminy Osieczna",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "warmińsko-mazurskie powiat działdowski: część gminy Lidzbark",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22. Zakład dolnośląskie powiaty: świdnicki, dzierżoniowski, kłodzki, strzeliński, Infrastruktury wałbrzyski, kamiennogórski, jeleniogórski Kolejowej miasta na prawach powiatu: Wałbrzych, Jelenia Góra w Wałbrzychu powiat złotoryjski: gmina Wojcieszów powiat lubański: gmina Olszyna powiat wrocławski: gminy: Żórawina, Sobótka, Jordanów Śląski, część gminy Kobierzyce powiat średzki: część gminy Udanin powiat lwówecki: gminy: Wleń, Lubomierz, Gryfów Śląski, część gminy Lwówek Śląski powiat jaworski: miasto Jawor, gminy: Mściwojów, Paszowice, Bolków, część gminy Wądroże Wielkie powiat ząbkowicki: gminy: Ciepłowody, Ząbkowice Śląskie, Złoty Stok, części gmin: Ziębice, Kamieniec Ząbkowicki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "opolskie powiat brzeski: część gminy Grodków",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "23. Zakład mazowieckie powiaty: warszawski, warszawski zachodni, Infrastruktury nowodworski, legionowski, pruszkowski, białobrzeski, Kolejowej kozienicki, sierpecki, radomski, przysuski, gostyniński, w Warszawie płocki, płoński, sochaczewski, szydłowiecki powiat grójecki: gminy: Chynów, Warka powiat grodziski: gmina Baranów, części gmin: Grodzisk Mazowiecki, Jaktorów powiat piaseczyński: gminy: Piaseczno, Lesznowola, Prażmów powiat wołomiński: gmina Wołomin, części gmin: Radzymin, Tłuszcz, Poświętne, Klembów powiat miński: część gminy Halinów powiat otwocki: części gmin: Osieck, Kołbiel, Celestynów powiat garwoliński: gmina Pilawa powiat żyrardowski: gmina Wiskitki, część gminy Puszcza Mariańska",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "łódzkie powiat skierniewicki: gmina Bolimów powiat łowicki: gmina Zduny, części gmin: Nieborów, Łowicz powiat kutnowski: gminy: Bedlno, Żychlin, Krzyżanów, Strzelce, Krośniewice, Nowe Ostrowy, część gminy Kutno",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wielkopolskie powiat kolski: gminy: Chodów, Kłodawa, część gminy Grzegorzew",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "kujawsko-pomorskie powiat lipnowski: część gminy Skępe 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "24. Zakład dolnośląskie powiaty: trzebnicki, wołowski, głogowski, polkowicki, Infrastruktury legnicki, lubiński, bolesławiecki, zgorzelecki, lubański Kolejowej miasto na prawach powiatu Wrocław we Wrocławiu powiat oleśnicki: gminy: Oleśnica, Bierutów, Dobroszyce, Syców, Twardogóra, Dziadowa Kłoda, Międzybórz powiat złotoryjski: gminy: Złotoryja, Zagrodno, Pielgrzymka, Świerzawa powiat średzki: gminy: Środa Śląska, Miękinia, Malczyce, część gminy Udanin powiat wrocławski: gminy: Kąty Wrocławskie, Święta Katarzyna, Czernica, Długołęka, Żórawina, część gminy Kobierzyce powiat oławski: gmina Jelcz-Laskowice, część gminy Oława powiat lwówecki: część gminy Lwówek Śląski powiat jaworski: gmina Męcinka, część gminy Wądroże Wielkie powiat milicki: gminy: Krośnice, Milicz, część gminy Cieszków",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "lubuskie powiat żagański: część gminy Iłowa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wielkopolskie powiat rawicki: część gminy Rawicz",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "opolskie powiat brzeski: część gminy Lubsza",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "25. Zakład lubelskie powiaty: hrubieszowski, zamojski, biłgorajski Eksploatacji Linii Hutniczo- podkarpackie powiaty: niżański, stalowowolski, tarnobrzeski, -Siarkowej kolbuszowski, mielecki w Zamościu świętokrzyskie powiaty: staszowski, buski, kielecki, pińczowski, jędrzejowski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "małopolskie powiaty: miechowski, olkuski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "26. Zakład Szybkiej pomorskie powiat wejherowski: gmina Rumia Kolei Miejskiej miasta na prawach powiatu: Gdańsk, Gdynia, Sopot w Trójmieście z siedzibą w Gdyni",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "27. Dyrekcja Kolei dolnośląskie powiaty: milicki, trzebnicki Dojazdowych kujawsko-pomorskie powiaty: aleksandrowski, radziejowski, włocławski, żniński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "lubelskie powiaty: hrubieszowski, opolski, puławski, tomaszowski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "łódzkie powiaty: kutnowski, łęczycki, łódzki wschodni, piotrkowski, rawski, skierniewicki, zgierski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "małopolskie powiaty: krakowski, miechowski, proszowicki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "mazowieckie powiaty: ciechanowski, grójecki, makowski, mławski, nowodworski, piaseczyński, przasnyski, pułtuski, radomski, sochaczewski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podkarpackie powiaty: przeworski, rzeszowski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "śląskie powiaty: gliwicki, raciborski, tarnogórski miasta na prawach powiatu: Bytom, Chorzów, Gliwice, Katowice, Piekary Śląskie, Ruda Śląska, Siemianowice Śląskie, Świętochłowice, Zabrze 1 2 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "świętokrzyskie powiaty: buski, jędrzejowski, kielecki, opatowski, pińczowski, sandomierski, staszowski, starachowicki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "warmińsko-mazurskie powiat ełcki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wielkopolskie powiaty: gnieźnieński, grodziski, jarociński, kaliski, kolski, koniński, kościański, krotoszyński, nowotomyski, pleszewski, słupecki, szamotulski, turecki, średzki miasto na prawach powiatu Kalisz",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zachodniopomorskie powiaty: białogardzki, choszczeński, goleniowski, gryficki, kamieński, kołobrzeski, koszaliński, stargardzki miasto na prawach powiatu Koszalin",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jednostki organizacyjne wymienione w pkt 1—24 podlegają bezpośrednio Dyrekcji Infrastruktury Kolejowej w Warszawie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "załącznik nr 3 do statutu otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Wykaz jednostek organizacyjnych PKP podległych bezpośrednio Zarządowi PKP",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Dyrekcja Infrastruktury Kolejowej w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Dyrekcja Przewozów Pasażerskich w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Dyrekcja Kolejowych Przewozów Towarowych CARGO w Katowicach",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Dyrekcja Elektroenergetyki Kolejowej w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Dyrekcja Teleinformatyki Kolejowej w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Dyrekcja Nieruchomości w Gdańsku",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Dyrekcja Gospodarki Mieszkaniowej w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Dyrekcja Zakupów i Sprzedaży „Ferpol” w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Dyrekcja Kolei Dojazdowych w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Dyrekcja Kolejowej Służby Zdrowia w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Kolejowa Agencja Aktywizacji Zawodowej w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Centrum Szkolenia i Doskonalenia Kadr Kolejnictwa w Warszawie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Komenda Straży Ochrony Kolei w Poznaniu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) Państwowe Koleje Linowe w Zakopanem",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) Zakład Szybkiej Kolei Miejskiej w Trójmieście w Gdyni",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) Zakład Eksploatacji Linii Hutniczo-Siarkowej w Zamościu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17) Biuro Kontroli Dochodów w Olsztynie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18) Biuro Kontroli Dochodów w Krakowie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "w załączniku nr 4 do statutu skreśla się pkt 1 i 4—7.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

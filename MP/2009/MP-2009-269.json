@@ -1,0 +1,371 @@
+{
+ "eli": "MP/2009/269",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 23 marca 2009 r. w sprawie wielkości średniego dziennego przywozu netto ropy naftowej i produktów naftowych, średniej dziennej produkcji paliw, średniego dziennego wewnętrznego zużycia ropy naftowej i produktów naftowych w 2008 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/269/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 marca 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wielkości średniego dziennego przywozu netto ropy naftowej i produktów naftowych, średniej dziennej produkcji paliw, średniego dziennego wewnętrznego zużycia ropy naftowej i produktów naftowych w 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. Nr 52, poz. 343, z 2008 r. Nr 157, poz. 976 oraz z 2009 r. Nr 3, poz. 11) ogłasza się wielkości średniego dziennego przywozu netto ropy naftowej i produktów naftowych, średniej dziennej produkcji paliw, średniego dziennego wewnętrznego zużycia ropy naftowej i produktów naftowych w 2008 r., zawarte w załączniku do obwieszczenia."
+  },
+  {
+   "type": "text",
+   "text": "Minister Gospodarki: w z. J. Strzelec-Łobodzińska"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do obwieszczenia Ministra Gospodarki z dnia 23 marca 2009 r. (poz. 269)"
+  },
+  {
+   "type": "text",
+   "text": "WIELKOŚCI ŚREDNIEGO DZIENNEGO PRZYWOZU NETTO ROPY NAFTOWEJ I PRODUKTÓW NAFTOWYCH, ŚREDNIEJ DZIENNEJ PRODUKCJI PALIW, ŚREDNIEGO DZIENNEGO WEWNĘTRZNEGO ZUŻYCIA ROPY NAFTOWEJ I PRODUKTÓW NAFTOWYCH W 2008 R."
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Średni dzienny przywóz netto ropy naftowej i produktów naftowych w 2008 r. dla poszczególnych surowców oraz produktów wytwarzanych z ropy naftowej wyniósł:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "dla ropy naftowej 56,12 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "dla olejów ropy naftowej i olejów otrzymywanych z minerałów bitumicznych, surowych (do przeprowadzania procesu specyficznego) 1,93 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_1/pkt_3",
+     "text": "dla benzyn silnikowych i materiałów pędnych do silników lotniczych 0,90 tys. ton (1,21 tys. m³), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/pkt_3/lit_a",
+       "text": "benzyny silnikowe 0,93 tys. ton (1,25 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/pkt_3/lit_b",
+       "text": "benzyny lotnicze –0,03 tys. ton (–0,04 tys. m³);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_1/pkt_4",
+     "text": "dla olejów napędowych do silników i materiałów pędnych do silników lotniczych na bazie nafty oraz olejów pozostałych napędowych 3,67 tys. ton (4,32 tys. m³), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/pkt_4/lit_a",
+       "text": "oleje napędowe do silników 5,99 tys. ton (7,19 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/pkt_4/lit_b",
+       "text": "oleje napędowe pozostałe –0,50 tys. ton (–0,60 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/pkt_4/lit_c",
+       "text": "materiały pędne do silników lotniczych na bazie nafty –1,82 tys. ton (–2,27 tys. m³);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_1/pkt_5",
+     "text": "dla ciężkich olejów opałowych –3,09 tys. ton (–3,15 tys. m³);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_1/pkt_6",
+     "text": "dla gazu płynnego (LPG) 5,21 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_1/pkt_7",
+     "text": "dla gazu rafineryjnego 0,00 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "ust_1/pkt_8",
+     "text": "dla benzyn lakierniczych –0,37 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "ust_1/pkt_9",
+     "text": "dla asfaltów –0,93 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "ust_1/pkt_10",
+     "text": "dla parafin, wazelin, wosków 0,17 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "ust_1/pkt_11",
+     "text": "dla koksu naftowego 0,08 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "ust_1/pkt_12",
+     "text": "dla środków smarowych 0,16 tys. ton.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Średnia dzienna produkcja paliw w 2008 r. wyniosła:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "dla benzyn silnikowych i materiałów pędnych do silników lotniczych 11,09 tys. ton (14,90 tys. m³), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_1/lit_a",
+       "text": "benzyny silnikowe 11,05 tys. ton (14,85 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_1/lit_b",
+       "text": "benzyny lotnicze 0,04 tys. ton (0,05 tys. m³);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "dla olejów napędowych do silników i materiałów pędnych do silników lotniczych na bazie nafty oraz olejów pozostałych napędowych 28,99 tys. ton (34,92 tys. m³), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_2/lit_a",
+       "text": "oleje napędowe do silników 22,44 tys. ton (26,94 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_2/lit_b",
+       "text": "oleje napędowe pozostałe 3,97 tys. ton (4,77 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_2/lit_c",
+       "text": "materiały pędne do silników lotniczych na bazie nafty 2,58 tys. ton (3,21 tys. m³);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "dla ciężkich olejów opałowych 4,86 tys. ton (4,95 tys. m³);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "dla gazu płynnego (LPG) 0,84 tys. ton.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Średnie dzienne wewnętrzne zużycie ropy naftowej i produktów naftowych w 2008 r. wyniosło:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_3/pkt_1",
+     "text": "dla ropy naftowej 56,84 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "dla olejów ropy naftowej i olejów otrzymywanych z minerałów bitumicznych, surowych (do przeprowadzania procesu specyficznego) 2,99 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_3/pkt_3",
+     "text": "dla benzyn silnikowych i materiałów pędnych do silników lotniczych 11,68 tys. ton (15,69 tys. m³), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/pkt_3/lit_a",
+       "text": "benzyny silnikowe 11,67 tys. ton (15,68 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/pkt_3/lit_b",
+       "text": "benzyny lotnicze 0,01 tys. ton (0,01 tys. m³);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_3/pkt_4",
+     "text": "dla olejów napędowych do silników i materiałów pędnych do silników lotniczych na bazie nafty oraz olejów pozostałych napędowych z wyłączeniem znakowanych i barwionych na podstawie odrębnych przepisów olejów do silników statków morskich 32,76 tys. ton (39,36 tys. m³), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/pkt_4/lit_a",
+       "text": "oleje napędowe do silników 28,62 tys. ton (34,36 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/pkt_4/lit_b",
+       "text": "oleje napędowe pozostałe 3,41 tys. ton (4,09 tys. m³),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/pkt_4/lit_c",
+       "text": "materiały pędne do silników lotniczych na bazie nafty 0,73 tys. ton (0,91 tys. m³);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_3/pkt_5",
+     "text": "dla ciężkich olejów opałowych z wyłączeniem znakowanych i barwionych na podstawie odrębnych przepisów olejów do silników statków morskich 1,55 tys. ton (1,58 tys. m³);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_3/pkt_6",
+     "text": "dla gazu płynnego (LPG) 6,05 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_3/pkt_7",
+     "text": "dla gazu rafineryjnego 0,06 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "ust_3/pkt_8",
+     "text": "dla benzyn lakierniczych 0,09 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "ust_3/pkt_9",
+     "text": "dla asfaltów 3,32 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "ust_3/pkt_10",
+     "text": "dla parafin, wazelin, wosków 0,36 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "ust_3/pkt_11",
+     "text": "dla koksu naftowego 0,08 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "ust_3/pkt_12",
+     "text": "dla środków smarowych 0,71 tys. ton.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 216, poz. 1593)."
+ }
+}

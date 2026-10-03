@@ -1,0 +1,67 @@
+{
+ "eli": "MP/2010/527",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 4 maja 2010 r. w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powołanych dla wyboru Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/527/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 maja 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powołanych dla wyboru Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 18 pkt 1 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 72, poz. 467) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pieczęcie komisji wyborczych sporządzane są według następujących wzorów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pieczęcią okręgowej komisji wyborczej jest pieczęć okrągła o średnicy 35 mm, z napisem określającym nazwę, numer i siedzibę okręgowej komisji wyborczej, ustalone uchwałą Państwowej Komisji Wyborczej z dnia 23 kwietnia 2010 r. w sprawie określenia terytorialnego zasięgu działania oraz siedzib okręgowych komisji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 20 czerwca 2010 r. (M. P. Nr 30, poz. 407);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pieczęcią obwodowej komisji wyborczej jest pieczęć okrągła o średnicy 25 mm, z napisem określającym nazwę i siedzibę obwodowej komisji wyborczej oraz numer obwodu głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 25 lipca 2005 r. w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powołanych dla wyboru Prezydenta Rzeczypospolitej Polskiej (M. P. Nr 45, poz. 615).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

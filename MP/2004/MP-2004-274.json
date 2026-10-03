@@ -1,0 +1,447 @@
+{
+ "eli": "MP/2004/274",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 29 marca 2004 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w wyborach posłów do Parlamentu Europejskiego, zarządzonych na dzień 13 czerwca 2004 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/274/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w wyborach posłów do Parlamentu Europejskiego, zarządzonych na dzień 13 czerwca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ustawy z dnia 23 stycznia 2004 r. — Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Technika elektroniczna w wyborach posłów do Parlamentu Europejskiego jest wykorzystywana w następującym zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "przez pełnomocników rejonowych komisji wyborczych przy sprawdzaniu arytmetycznej poprawności ustalonych wyników głosowania w obwodach głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "przez rejonowe komisje wyborcze:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "przy sprawdzaniu arytmetycznej poprawności ustalonych wyników głosowania w obwodach głosowania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "przy ustalaniu wyników głosowania na obszarze ich właściwości terytorialnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "do sumowania danych liczbowych, o których w mowa w art. 111 ust. 1 ustawy z dnia 23 stycznia 2004 r. — Ordynacja wyborcza do Parlamentu Europejskiego, przekazywanych przez obwodowe komisje wyborcze w trybie i na zasadach określonych odrębnie;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "przez okręgowe komisje wyborcze przy ustalaniu wyników głosowania w okręgu wyborczym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "przez Państwową Komisję Wyborczą przy ustalaniu wyników głosowania i wyników wyborów, z uwzględnieniem następujących czynności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "ustalenie wyników głosowania w skali kraju i stwierdzenie, które listy okręgowe komitetów wyborczych spełniają warunek uprawniający do uczestniczenia w podziale mandatów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "dokonanie podziału wszystkich mandatów pomiędzy uprawnione komitety wyborcze,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_4/lit_c",
+       "text": "ustalenie liczby mandatów przypadających poszczególnym listom okręgowym komitetów wyborczych, które uzyskały mandaty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_4/lit_d",
+       "text": "ustalenie, którzy kandydaci uzyskują mandaty;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "do przekazywania danych z protokołów głosowania oraz danych, o których mowa w pkt 2 lit. c, za pośrednictwem sieci elektronicznego przekazywania danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunkiem korzystania przez pełnomocników rejonowych komisji wyborczych, rejonowe komisje wyborcze i okręgowe komisje wyborcze z techniki elektronicznej jest używanie wyłącznie oprogramowania zaakceptowanego przez Państwową Komisję Wyborczą.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "System informatyczny wspomagający rejonowe i okręgowe komisje wyborcze przy ustalaniu wyników głosowania umożliwia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "wprowadzenie i przechowywanie danych o obwodach głosowania i o okręgach wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wprowadzenie i przechowywanie informacji o okręgowych listach kandydatów na posłów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "wprowadzenie i przechowywanie danych zawartych w protokołach głosowania w obwodach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "ustalenie wyników głosowania na obszarach należących do właściwości terytorialnej poszczególnych rejonowych komisji wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "sporządzenie wydruków kontrolnych zawierających dane z protokołów głosowania w poszczególnych obwodach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "sporządzenie, w formie wydruku, projektu protokołu głosowania w rejonie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "sporządzenie, w formie wydruku, projektu protokołu głosowania w okręgu wyborczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_1/pkt_8",
+       "text": "przechowywanie danych zawartych w protokołach głosowania w rejonie i w okręgu wyborczym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W systemie informatycznym jest realizowana funkcja kontroli zgodności arytmetycznej wprowadzonych danych z protokołów obwodowych komisji wyborczych oraz funkcja eliminacji błędów przy wprowadzaniu danych z tych protokołów, przez porównanie dwukrotnie wprowadzonych tych samych danych na dwóch różnych stanowiskach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "System informatyczny umożliwia Państwowej Komisji Wyborczej dostęp do wszystkich danych liczbowych wprowadzonych do systemu przez rejonowe i okręgowe komisje wyborcze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Rejonowe i okręgowe komisje wyborcze korzystają z systemu informatycznego przy pomocy powołanych przez siebie pełnomocników do spraw obsługi informatycznej, podległych służbowo przewodniczącym komisji, które ich powołały. Pełnomocnicy do spraw obsługi informatycznej nadzorują pracę zespołów, w których skład wchodzą kierownicy operatorów i operatorzy. Zadania pełnomocników do spraw obsługi informatycznej określa załącznik do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Obsługę informatyczną Państwowej Komisji Wyborczej zapewnia Kierownik Krajowego Biura Wyborczego za pośrednictwem Zespołu Prawnego i Organizacji Wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Obsługę systemu informatycznego rejonowych i okręgowych komisji wyborczych oraz techniczne warunki pracy pełnomocnikom do spraw obsługi informatycznej i zespołom operatorów zapewnia Kierownik Krajowego Biura Wyborczego za pośrednictwem dyrektorów delegatur.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Szczegółowe zadania kierowników operatorów i operatorów ustala dyrektor delegatury po uzgodnieniu odpowiednio z rejonową lub okręgową komisją wyborczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przesyłanie z rejonowych komisji wyborczych do okręgowych komisji wyborczych i z okręgowych komisji wyborczych do Państwowej Komisji Wyborczej danych obejmujących wyniki głosowania odbywa się przy wykorzystaniu publicznej sieci elektronicznego przekazywania danych, z zapewnieniem bezpieczeństwa komunikacji i autoryzacji oraz poprawności i integralności przekazanych danych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 29 marca 2004 r. (poz. 274)"
+    },
+    {
+     "type": "text",
+     "text": "ZADANIA PEŁNOMOCNIKÓW DO SPRAW OBSŁUGI INFORMATYCZNEJ REJONOWYCH I OKRĘGOWYCH KOMISJI WYBORCZYCH"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Pełnomocnicy do spraw obsługi informatycznej rejonowych i okręgowych komisji wyborczych, zwani dalej „pełnomocnikami ds. obsługi informatycznej”, są powoływani przez właściwe komisje i przy wykonywaniu powierzonych im zadań podlegają przewodniczącemu komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Do zadań merytorycznych pełnomocnika ds. obsługi informatycznej należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "nadzór nad wprowadzaniem i aktualizowaniem w systemie informatycznym danych dotyczących obwodów głosowania oraz liczby uprawnionych do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "nadzór nad wprowadzaniem i aktualizowaniem danych dotyczących okręgowych list kandydatów na posłów do Parlamentu Europejskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "nadzór nad wprowadzaniem do systemu informatycznego w trakcie głosowania danych, o których mowa w § 1 pkt 2 lit. c uchwały, na obszarze właściwości terytorialnej rejonowej komisji wyborczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Do zadań technicznych pełnomocnika ds. obsługi informatycznej komisji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "zapewnienie sprawnego przygotowania instalacji systemu (przy pomocy serwisanta), w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_3/pkt_1/lit_a",
+         "text": "zapewnienie, we współpracy z dyrektorem delegatury, odpowiedniej liczby komputerów oraz wykonanie odizolowanej sieci lokalnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_3/pkt_1/lit_b",
+         "text": "sprawdzenie poprawności działania sprzętu komputerowego i telekomunikacyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_3/pkt_1/lit_c",
+         "text": "ścisłe przestrzeganie zaleceń dotyczących konfiguracji systemu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_6/ust_3/pkt_1/lit_d",
+         "text": "instalacja aplikacji obsługi wyborów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_6/ust_3/pkt_1/lit_e",
+         "text": "współpraca z serwisantami lokalnymi i kierownikiem operatorów;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "nadzór nad przygotowaniem technicznym pomieszczeń, w których będzie umiejscowiony i eksploatowany sprzęt komputerowy i telekomunikacyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "zapewnienie zasilania energetycznego o odpowiedniej mocy dla używanego sprzętu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_3/pkt_4",
+       "text": "zapewnienie wykonania instalacji systemu, sieci lokalnej z drukarką i wydzielonego komputera poczty elektronicznej w pomieszczeniach przeznaczonych na informatyczną obsługę wyborów, zgodnie z harmonogramem prac przedwyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_3/pkt_5",
+       "text": "nadzór nad instalacją i sprzętem w zakresie usuwania ewentualnych usterek i awarii w oparciu o plan ciągłości działania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_3/pkt_6",
+       "text": "skompletowanie niezbędnych materiałów eksploatacyjnych i nośników informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_3/pkt_7",
+       "text": "znajomość instrukcji obsługi aplikacji systemu informatycznego i przeszkolenie personelu do obsługi tego systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_6/ust_3/pkt_8",
+       "text": "zabezpieczenie systemu informatycznego przed nieuprawnionym dostępem, a w szczególności zarządzanie prawami dostępu użytkowników oraz zabezpieczenie haseł dostępu do systemu informatycznego w oparciu o politykę bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_6/ust_3/pkt_9",
+       "text": "zapewnienie wykonywania kopii bezpieczeństwa systemu (zgodnie z instrukcją serwisową);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_6/ust_3/pkt_10",
+       "text": "prowadzenie dziennika zdarzeń, w którym są odnotowywane wszelkie wykonane instalacje, poprawki oraz wykryte i usunięte usterki i awarie, wykonane kopie bezpieczeństwa oraz zmiany haseł użytkowników, a także cząstkowe i końcowe transmisje, transmisje próbne, testy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_6/ust_3/pkt_11",
+       "text": "organizacja pracy zmianowej personelu serwisującego oraz grupy operatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_6/ust_3/pkt_12",
+       "text": "nadzór administracyjny nad powierzonym sprzętem, nośnikami informacji i dokumentacją, a w szczególności zabezpieczenie materiałów, dokumentacji, dziennika zdarzeń i nośników informacji oraz przekazanie ich przewodniczącemu lub sekretarzowi okręgowej lub rejonowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_6/ust_3/pkt_13",
+       "text": "realizacja ustalonego przez Krajowe Biuro Wyborcze planu ciągłości działania, a także przeszkolenie członków zespołu obsługi informatycznej w zakresie planu ciągłości działania.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,54 @@
+{
+ "eli": "MP/2005/671",
+ "title": "Obwieszczenie Ministra Finansów z dnia 11 sierpnia 2005 r. w sprawie wysokości kwot wymienionych w art. 41 par. 1 i w art. 112 par. 1 pkt 3 ustawy - Ordynacja podatkowa",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/671/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 sierpnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości kwot wymienionych w art. 41 § 1 i w art. 112 § 1 pkt 3 ustawy — Ordynacja podatkowa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 119 § 2 ustawy z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199) ogłasza się, że w roku 2006 wysokość:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwoty, o której mowa w art. 41 § 1 ustawy — Ordynacja podatkowa, wynosi 10 400 zł;",
+   "children": [
+    {
+     "type": "text",
+     "text": "———————[^1] Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "kwoty, o której mowa w art. 112 § 1 pkt 3 ustawy — Ordynacja podatkowa, wynosi 15 700 zł.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. E. Suchocka-Roguska"
+    },
+    {
+     "type": "text",
+     "text": "rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 134, poz. 1427)."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

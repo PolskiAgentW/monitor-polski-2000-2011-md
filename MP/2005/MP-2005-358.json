@@ -1,0 +1,77 @@
+{
+ "eli": "MP/2005/358",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 20 kwietnia 2005 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 10 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/358/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 kwietnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 10 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł i 10 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 27 kwietnia 2005 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 20 kwietnia 2005 r. (poz. 358)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ I 10 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Masa Śred- Wiel- Cechy graficzne nica kość War- Brzeg (w (w mili- Stop/próba emisji tość (bok) gra- me- (w sztumach) strona główna strona odwrotna trach) kach)"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4 5 6 7 8"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla Na boku Na tle ozdobnego ośmiokrotgodła Rzeczypospolitej Polreliefu wizerunek nie powtóskiej, po bokach orła oznarewersu monety rzony napis: czenie roku emisji: 20-05, 2 zł z 1936 r. z ża- NBP, co pod orłem napis: ZŁ 2 ZŁ, 2 zł glowcem. U dołu drugi od- 8,15 27,0 CuAl5Zn5Sn1 950 000 w otoku napis: RZECZPO- z lewej strony wrócony SPOLITA POLSKA, poprzepółkolem napis: o 180 stopdzony oraz zakończony sze- DZIEJE ZŁOTE- ni, rozdzieścioma perełkami. Pod lewą GO. lony łapą orła znak mennicy: MW. gwiazdkami"
+    },
+    {
+     "type": "text",
+     "text": "U góry: z prawej strony wizerunek orła ustalony dla godła Wizerunek rewer- Rzeczypospolitej Polskiej, su monety 5 zł z lewej strony półkolem na- z 1936 r. z żaglow- Na boku pis: RZECZPOSPOLITA / POL- cem. Na tle napis: SKA. Poniżej z lewej strony ozdobnego relie- 75-LECIE wizerunek awersu monety fu fragment styli- CHRZTU 10 zł 14,14 32,0 Ag 925/1000 61 000 5 zł z 1936 r., z prawej strony zowanej róży wia- „DARU PO- wizerunek żaglowca „Dar Po- trów i trzy gwiaz- MORZA”, morza”. Poniżej żaglowca dy. U dołu, z le- rozdzielony oznaczenie roku emisji: 2005. wej strony półko- gwiazdką U dołu napis: 10 ZŁ. Pod le- lem napis: DZIE- wą łapą orła znak mennicy: JE ZŁOTEGO. MW."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

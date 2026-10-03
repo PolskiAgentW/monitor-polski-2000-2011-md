@@ -1,0 +1,121 @@
+{
+ "eli": "MP/2011/1185",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 22 grudnia 2011 r. o sprostowaniu błędów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/1185/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 grudnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "o sprostowaniu błędów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) prostuje się następujące błędy:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "tytuł uchwały Sejmu Rzeczypospolitej Polskiej w sprawie wyboru sekretarzy Sejmu ogłoszonej w M. P. z 2011 r. Nr 104, poz. 1043 powinien mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 17 listopada 2011 r. w sprawie wyboru sekretarzy Sejmu”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "tytuł uchwały Sejmu Rzeczypospolitej Polskiej w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej ogłoszonej w M. P. z 2011 r. Nr 104, poz. 1044 powinien mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 17 listopada 2011 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "tytuł postanowienia Marszałka Sejmu Rzeczypospolitej Polskiej w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 2 z siedzibą Okręgowej Komisji Wyborczej w Wałbrzychu ogłoszonym w M. P. z 2011 r. Nr 104, poz. 1045 powinien mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 listopada 2011 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 2 z siedzibą Okręgowej Komisji Wyborczej w Wałbrzychu”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "tytuł postanowienia Marszałka Sejmu Rzeczypospolitej Polskiej w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 9 z siedzibą Okręgowej Komisji Wyborczej w Łodzi ogłoszonym w M. P. z 2011 r. Nr 104, poz. 1046 powinien mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Postanowienia Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 listopada 2011 r. w sprawie obsadzenia wygasłego mandatu w okręgu wyborczym nr 9 z siedzibą Okręgowej Komisji Wyborczej w Łodzi”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "tytuł uchwały Sejmu Rzeczypospolitej Polskiej w sprawie wyboru Trybunału Stanu ogłoszonej w M. P. z 2011 r. Nr 105, poz. 1056 powinien mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 17 listopada 2011 r. w sprawie wyboru Trybunału Stanu”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "tytuł uchwały Sejmu Rzeczypospolitej Polskiej w sprawie wotum zaufania dla Rady Ministrów ogłoszonej w M. P. z 2011 r. Nr 105, poz. 1057 powinien mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 listopada 2011 r. w sprawie wotum zaufania dla Rady Ministrów”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "tytuł uchwały Sejmu Rzeczypospolitej Polskiej w sprawie wyboru członka Trybunału Stanu ogłoszonej w M. P. z 2011 r. Nr 105, poz. 1058 powinien mieć brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 listopada 2011 r. w sprawie wyboru członka Trybunału Stanu”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

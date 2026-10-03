@@ -1,0 +1,108 @@
+{
+ "eli": "MP/2011/136",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 4 lutego 2011 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/136/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 lutego 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2009 r. Nr 5, poz. 47, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 26 w ust. 1 skreśla się wyrazy „członków Kolegium Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "po art. 26 dodaje się art. 26a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 26a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm powołuje członków Rady Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu spośród kandydatów przedstawionych przez zgromadzenie elektorów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku nieprzedstawienia przez zgromadzenie elektorów wymaganej liczby kandydatów w terminie lub ustania członkostwa w Radzie przed upływem kadencji, członków Rady Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu powołuje Sejm. Przepisy art. 30 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 28 w ust. 1 i 2 wyrazy „Kolegium Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu” zastępuje się wyrazami „Rady Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 30 w ust. 4 i 5 wyrazy „art. 26—29” zastępuje się wyrazami „art. 26, 27—29”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "po art. 30 dodaje się art. 30a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 30a. Marszałek Sejmu zwraca się do właściwej komisji sejmowej o zaopiniowanie kandydatów na członków Rady Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu. Przepisy art. 30 ust. 4 i 6—9 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 31 w ust. 1 skreśla się wyrazy „, z tym że powołanie i odwołanie Prezesa Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu następuje większością 3/5 głosów”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Marszałek Sejmu: w z. E. Kierzkowska"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M. P. z 2009 r. Nr 81, poz. 998 oraz z 2010 r. Nr 10, poz. 87, Nr 79, poz. 972 i Nr 100, poz. 1174."
+ }
+}

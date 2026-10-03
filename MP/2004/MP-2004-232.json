@@ -1,0 +1,301 @@
+{
+ "eli": "MP/2004/232",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 19 marca 2004 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/232/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2002 r. Nr 54, poz. 741) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 20 po ust. 1 dodaje się ust. 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a. Przepisu ust. 1 nie stosuje się do członków Prezydium Senatu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 22:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. W razie przeszkody uniemożliwiającej senatorowi udział w posiedzeniu Senatu, Zgromadzenia Narodowego lub jego organu powinien on pisemnie usprawiedliwić swoją nieobecność w terminie 14 dni od dnia nieobecności na posiedzeniu, przesyłając pismo do Marszałka Senatu, a w przypadku posiedzenia komisji — do przewodniczącego komisji.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "po ust. 2 dodaje się ust. 2a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a. Usprawiedliwionymi przeszkodami uniemożliwiającymi senatorowi udział w posiedzeniu Senatu, komisji, Zgromadzenia Narodowego lub jego organu, a także w głosowaniu na posiedzeniu Senatu są:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) choroba,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) konieczność opieki nad chorym,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) wyjazd zagraniczny lub krajowy związany ze sprawowaniem mandatu, akceptowany przez Marszałka Senatu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) zbieg posiedzeń komisji, których senator jest członkiem, jeżeli brał udział w jednym z tych posiedzeń,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) urlop udzielony senatorowi przez Prezydium Senatu na podstawie art. 23,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) inne ważne przeszkody.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "ust. 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Nieobecność senatora bez usprawiedliwienia na:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) dwóch posiedzeniach Senatu w ciągu roku,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) trzech posiedzeniach komisji w ciągu roku,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) posiedzeniu Zgromadzenia Narodowego lub jego organu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "podlega rozpatrzeniu w trybie art. 25.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_2/lit_d",
+       "text": "dodaje się ust. 8 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8. Prezydium Senatu określi tryb składania i rozpatrywania usprawiedliwień z tytułu nieobecności senatora na posiedzeniu Senatu, komisji, Zgromadzenia Narodowego lub jego organu i niewzięcia udziału w głosowaniu na posiedzeniu Senatu oraz tryb postępowania w przypadku braku usprawiedliwienia w tym zakresie.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 26 i 27 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 26.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wniosek o wyrażenie przez Senat zgody na pociągnięcie senatora do odpowiedzialności karnej Marszałek Senatu przekazuje Komisji Regulaminowej, Etyki i Spraw Senatorskich, która po rozpatrzeniu wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Senat rozpatruje sprawozdanie Komisji Regulaminowej, Etyki i Spraw Senatorskich bez przeprowadzania dyskusji. Senator, którego dotyczy wniosek, może złożyć wyjaśnienia, a senatorom przysługuje prawo zadawania pytań w tej sprawie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli po nadaniu biegu wnioskowi, a przed podjęciem przez Senat uchwały w tej sprawie, upłynie kadencja Senatu, postępowanie w tej sprawie toczy się nadal w Senacie następnej kadencji, o ile senator, którego dotyczy ten wniosek, został wybrany na tę kadencję, przy czym:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wszystkie dotychczasowe czynności pozostają w mocy, z zastrzeżeniem pkt 2,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) termin na dokonanie czynności w związku z rozpatrywaniem wniosku, przerwany wskutek upływu kadencji Senatu, biegnie na nowo od dnia złożenia ślubowania przez senatora, którego dotyczy ten wniosek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) jeżeli Komisja Regulaminowa, Etyki i Spraw Senatorskich Senatu ubiegłej kadencji uchwaliła sprawozdanie, o którym mowa w ust. 1, Przewodniczący Komisji Regulaminowej, Etyki i Spraw Senatorskich Senatu następnej kadencji przedstawia to sprawozdanie w terminie 30 dni od dnia złożenia ślubowania przez senatora, którego dotyczy wniosek.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 27.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Do postępowania w sprawie wniosku o wyrażenie przez Senat zgody na pociągnięcie senatora do odpowiedzialności za wykroczenia, w sprawie wniosku o wyrażenie przez Senat zgody na pociągnięcie senatora do cywilnej odpowiedzialności sądowej za działalność wchodzącą w zakres sprawowania mandatu, która narusza prawa osób trzecich, a także w sprawie wniosku o wyrażenie przez Senat zgody na zatrzymanie lub aresztowanie senatora przepisy art. 26 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do postępowania w sprawie wniosku o zażądanie przez Senat zawieszenia postępowania karnego wszczętego przed dniem wyboru na senatora przepisy art. 26 ust. 1 i 2 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "art. 37 i 38 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 37.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Uzyskiwanie informacji o działalności Senatu i jego organów odbywa się zgodnie z przepisami ustawy o dostępie do informacji publicznej i jest realizowane poprzez:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wcześniejsze informowanie opinii publicznej o posiedzeniach Senatu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wstęp na posiedzenia Senatu i komisji senackich,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) udostępnianie druków senackich, protokołów i sprawozdań stenograficznych z posiedzeń Senatu, protokołów i zapisów stenograficznych z posiedzeń komisji senackich, a także innych dokumentów i informacji związanych z działalnością Senatu i jego organów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Udostępnianie dokumentów i innych informacji, o których mowa w ust. 1 pkt 3, odbywa się poprzez zamieszczenie ich w sieci teleinformatycznej. Informacje niezamieszczone w sieci teleinformatycznej udostępniane są na wniosek.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Dokumenty i inne informacje, o których mowa w ust. 1 pkt 3, mogą być również udostępniane poprzez wyłożenie, wywieszenie lub zainstalowanie urządzenia umożliwiającego zapoznanie się z nimi w miejscach ogólnie dostępnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Decyzje w sprawie odmowy udostępnienia informacji publicznej oraz umorzenia postępowania o udostępnienie informacji publicznej wydaje Szef Kancelarii Senatu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Marszałek Senatu określa, w drodze zarządzenia, sposób uzyskiwania informacji publicznej w trybie, o którym mowa w ust. 1 pkt 2 i 3, w szczególności miejsce i czas jej uzyskiwania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 38. Informacje o planowanym posiedzeniu Senatu oraz przewidywanym porządku obrad przekazywane są agencjom informacyjnym.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w załączniku do uchwały pkt 8 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8) Komisji Regulaminowej, Etyki i Spraw Senatorskich — rozpatrywanie wniosków dotyczących immunitetu parlamentarnego, czynności związane z wnioskiem o pociągnięcie do odpowiedzialności konstytucyjnej senatora przed Trybunałem Stanu, warunki wykonywania mandatu senatorskiego, wygaśnięcie mandatu, rozpatrywanie zarzutów niewykonywania przez senatora obowiązków senatorskich i zachowania nieodpowiadającego godności senatora oraz innych spraw z zakresu etyki senatorskiej, analizowanie oświadczeń senatorów o stanie majątkowym i przedstawianie wyników analizy Prezydium Senatu, działalność biur senatorskich, wyrażanie opinii w sprawach określonych w Regulaminie Senatu dotyczących w szczególności wykładni i stosowania Regulaminu, dokonywanie analiz skarg i wniosków kierowanych do Senatu i jego organów oraz rozpatrywanie spraw wynikających z funkcjonowania Kancelarii Senatu;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej uchwały stosuje się przepisy uchwały, o której mowa w art. 1, w brzmieniu nadanym niniejszą uchwałą, z wyjątkiem postępowań w sprawach, o których mowa w art. 22 ust. 2a, w brzmieniu nadanym niniejszą uchwałą, do których stosuje się przepisy dotychczasowe.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Marszałek Senatu: w z. K. Kutz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

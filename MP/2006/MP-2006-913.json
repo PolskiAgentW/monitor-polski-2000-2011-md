@@ -1,0 +1,80 @@
+{
+ "eli": "MP/2006/913",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 21 listopada 2006 r. w sprawie granicznych kwot przychodu dla 2006 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/913/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 listopada 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2006 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.[^1]) ogłasza się, że kwoty graniczne przychodu dla 2006 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "20 732,70 zł — co stanowi sumę kwot przychodu odpowiadających 70 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— 1 643,10 zł — od 1 stycznia 2006 r. do 28 lutego 2006 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 1 770,10 zł — od 1 marca 2006 r. do 31 maja 2006 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 1 771,20 zł — od 1 czerwca 2006 r. do 31 sierpnia 2006 r., — 1 699,10 zł — od 1 września 2006 r. do 30 listopada 2006 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 1 725,30 zł — od 1 grudnia 2006 r. do 31 grudnia 2006 r.;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "38 503,40 zł — co stanowi sumę kwot przychodu odpowiadających 130 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— 3 051,50 zł — od 1 stycznia 2006 r. do 28 lutego 2006 r., — 3 287,30 zł — od 1 marca 2006 r. do 31 maja 2006 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 3 289,30 zł — od 1 czerwca 2006 r. do 31 sierpnia 2006 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 3 155,50 zł — od 1 września 2006 r. do 30 listopada 2006 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— 3 204,10 zł — od 1 grudnia 2006 r. do 31 grudnia 2006 r."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: A. Wiktorow"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534."
+ }
+}

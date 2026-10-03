@@ -1,0 +1,283 @@
+{
+ "eli": "MP/2001/615",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 24 października 2001 r. w sprawie zmiany Regulaminu Senatu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/615/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 października 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (Monitor Polski z 2000 r. Nr 8, poz. 170) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 7 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Senat wybiera wicemarszałków spośród kandydatów zgłoszonych przez co najmniej 10 senatorów, w głosowaniu tajnym, podejmując uchwałę bezwzględną większością głosów. Do wyboru wicemarszałków stosuje się przepis art. 6 ust. 2.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 8 w ust. 1 w pkt 17, 18 i 19, w art. 9 w pkt 1, w art. 12 w ust. 4, w art. 14 w ust. 1 i 2, w art. 18 w ust. 3, w art. 22 w ust. 7, w art. 24 w ust. 1, w art. 25 w ust. 1 i 2, w art. 26 w ust. 1, w art. 28 w ust. 1, w art. 40, w art. 47 w ust. 6 oraz w art. 101 użyte w różnych przypadkach wyrazy „Komisja Regulaminowa i Spraw Senatorskich” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Komisja Regulaminowa, Etyki i Spraw Senatorskich”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 8 w ust. 1 w pkt 17 wyrazy „Komisji Spraw Emigracji i Polaków za Granicą” zastępuje się wyrazami „Komisji Emigracji i Polaków za Granicą”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 15 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Ustanawia się następujące komisje stałe:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Emigracji i Polaków za Granicą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Gospodarki i Finansów Publicznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Kultury i Środków Przekazu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Nauki, Edukacji i Sportu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Obrony Narodowej i Bezpieczeństwa Publicznego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Ochrony Środowiska,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Polityki Społecznej i Zdrowia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Regulaminową, Etyki i Spraw Senatorskich,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Rolnictwa i Rozwoju Wsi,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Samorządu Terytorialnego i Administracji Państwowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Skarbu Państwa i Infrastruktury,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Spraw Zagranicznych i Integracji Europejskiej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Ustawodawstwa i Praworządności.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 58 w ust. 3 po zdaniu pierwszym dodaje się zdanie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Za zgodą Prezydium Senatu komisja może wybrać ze swego składu więcej niż jednego zastępcę przewodniczącego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 72 w ust. 1 i w art. 79 w ust. 1 wyrazy „Komisji Ustawodawczej” zastępuje się wyrazami „Komisji Ustawodawstwa i Praworządności”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 73:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_7/lit_a",
+       "text": "w ust. 2 wyrazy „Komisji Gospodarki Narodowej” zastępuje się wyrazami „Komisji Gospodarki i Finansów Publicznych”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_7/lit_b",
+       "text": "w ust. 3 wyrazy „Komisję Gospodarki Narodowej” zastępuje się wyrazami „Komisję Gospodarki i Finansów Publicznych”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "załącznik do uchwały otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Załącznik do uchwały Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "PRZEDMIOTOWY ZAKRES DZIAŁANIA KOMISJI SENACKICH",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przedmiotem działania komisji są w szczególności sprawy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Komisji Emigracji i Polaków za Granicą — więzi z krajem, Polaków i osób polskiego pochodzenia zamieszkałych za granicą i ich sytuacja prawna, inicjowanie i koordynacja współpracy środowisk polonijnych, ochrona dziedzictwa polskiej kultury i historii za granicą oraz opiniowanie dla Prezydium Senatu planu i wykonania zadań zleconych przez Prezydium Senatu w zakresie opieki nad Polonią i Polakami za granicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Komisji Gospodarki i Finansów Publicznych — bieżąca i perspektywiczna polityka gospodarcza państwa, restrukturyzacja gospodarki, system finansowy państwa (w tym polityka pieniężna, budżet, kredyty, bankowość, polityka podatkowa i celna), fundusze celowe, ubezpieczenia, działania antymonopolistyczne, rynek kapitałowy, stosunki gospodarcze z zagranicą, turystyka, geologia, górnictwo i energetyka;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Komisji Kultury i Środków Przekazu — kultura i sztuka, rozwój twórczości, upowszechnianie kultury, ochrona dziedzictwa kulturalnego, współpraca kulturalna z zagranicą, organizacja instytucji kulturalnych, polityka informacyjna państwa;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Komisji Nauki, Edukacji i Sportu — organizacja i rozwój badań naukowych, system kształcenia i wychowania, system doskonalenia zawodowego nauczycieli i kadry naukowej, opieka nad dziećmi i młodzieżą, organizacja instytucji naukowych i oświatowych, współpraca naukowa z zagranicą, kultura fizyczna i sport;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Komisji Obrony Narodowej i Bezpieczeństwa Publicznego — obronność i bezpieczeństwo państwa, przemysł zbrojeniowy, działalność i funkcjonowanie sił zbrojnych oraz służb publicznych związanych z bezpieczeństwem publicznym, inne sprawy związane z bezpieczeństwem publicznym;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Komisji Ochrony Środowiska — ochrona i kształtowanie środowiska, ochrona zasobów naturalnych, gospodarka wodna, leśnictwo i gospodarka leśna, łowiectwo, edukacja ekologiczna, gospodarka finansowa państwa w zakresie ochrony środowiska, atomistyka i ochrona radiologiczna, współpraca z zagranicą w zakresie ekologii;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Komisji Polityki Społecznej i Zdrowia — polityka socjalna państwa, system ubezpieczeń społecznych, bezpieczeństwo i higiena pracy, ochrona zdrowia, prawna ochrona rodziny oraz problemy ekonomiczne, mieszkaniowe i wychowawczo-kulturowe rodziny;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Komisji Regulaminowej, Etyki i Spraw Senatorskich — rozpatrywanie wniosku o wyrażenie zgody przez Senat na pociągnięcie senatora do odpowiedzialności karnej, aresztowanie lub zatrzymanie, warunki wykonywania mandatu senatorskiego, wygaśnięcie mandatu, rozpatrywanie zarzutów niewykonywania przez senatora obowiązków senatorskich i zachowania nieodpowiadającego godności senatora oraz innych spraw z zakresu etyki senatorskiej, analizowanie oświadczeń senatorów o stanie majątkowym i przedstawianie wyników analizy Prezydium Senatu, działalność biur senatorskich, wyrażanie opinii w sprawach określonych w Regulaminie Senatu dotyczących m.in. wykładni i stosowania Regulaminu, dokonywanie analiz skarg i wniosków kierowanych do Senatu i jego organów oraz rozpatrywanie spraw wynikających z funkcjonowania Kancelarii Senatu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Komisji Rolnictwa i Rozwoju Wsi — produkcja rolnicza, przetwórstwo artykułów rolnych, rynek rolny, restrukturyzacja oraz modernizacja rolnictwa i jego otoczenia, wielofunkcyjny rozwój wsi, infrastruktura terenów wiejskich, problemy finansowe rolnictwa oraz przemysłu przetwórczego i przemysłu pracującego na rzecz rolnictwa, handel zagraniczny artykułami rolnymi i żywnościowymi, kształtowanie własności rolniczej, problemy socjalne ludności rolniczej, organizacje i instytucje rolnicze, kreowanie rynku na nowe produkty i usługi rolnictwa;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Komisji Samorządu Terytorialnego i Administracji Państwowej — organizacja i funkcjonowanie struktur samorządu terytorialnego, rozwój regionalny, finanse samorządu terytorialnego, gospodarka mieniem komunalnym, funkcjonowanie organów administracji państwowej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Komisji Skarbu Państwa i Infrastruktury — sprawy Skarbu Państwa, zasady kształtowania stosunków własnościowych i przekształcenia własnościowe, działalność przedsiębiorstw państwowych, gospodarka przestrzenna i mieszkaniowa, łączność, budownictwo, transport i gospodarka morska;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Komisji Spraw Zagranicznych i Integracji Europejskiej — polityka zagraniczna państwa, kontakty międzyparlamentarne i międzynarodowe stosunki gospodarcze, integracja europejska, dostosowanie polskiego ustawodawstwa do prawa Unii Europejskiej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Komisji Ustawodawstwa i Praworządności — rozpatrywanie inicjatyw ustawodawczych Senatu, działalność i funkcjonowanie służb publicznych związanych z wymiarem sprawiedliwości, prawa i wolności obywatelskie i ich instytucjonalne gwarancje, przestrzeganie prawa, przestrzeganie praw człowieka, inne sprawy związane z wymiarem sprawiedliwości.”",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Komisja Regulaminowa i Spraw Senatorskich, powołana uchwałą Senatu w dniu 20 października 2001 r., z dniem wejścia w życie niniejszej uchwały staje się Komisją Regulaminową, Etyki i Spraw Senatorskich.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: L. Pastusiak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

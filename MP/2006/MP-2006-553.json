@@ -1,0 +1,57 @@
+{
+ "eli": "MP/2006/553",
+ "title": "Zarządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2006 r. zmieniające zarządzenie w sprawie powołania Rady Programowej do \"Zagospodarowania przejętego mienia i rekultywacji terenów zdegradowanych przez wojska Federacji Rosyjskiej\"",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/553/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lipca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie powołania Rady Programowej do „Zagospodarowania przejętego mienia i rekultywacji terenów zdegradowanych przez wojska Federacji Rosyjskiej”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 4 pkt 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 maja 2002 r. w sprawie powołania Rady Programowej do „Zagospodarowania przejętego mienia i rekultywacji terenów zdegradowanych przez wojska Federacji Rosyjskiej” (M. P. Nr 24, poz. 403) w § 1 w ust. 2 pkt 1 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„1) Sekretarz Stanu albo Podsekretarz Stanu w ministerstwie obsługującym ministra właściwego do spraw wewnętrznych, jako Przewodniczący Rady,”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: L. Dorn"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319."
+ }
+}

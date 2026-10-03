@@ -1,0 +1,75 @@
+{
+ "eli": "MP/2006/441",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 5 czerwca 2006 r. w sprawie maksymalnych stawek opłat produktowych na rok 2007",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/441/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 czerwca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie maksymalnych stawek opłat produktowych na rok 2007"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 3 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej (Dz. U. Nr 63, poz. 639, z późn. zm.[^2]), zwanej dalej „ustawą”, ogłasza się, że maksymalne stawki opłat produktowych na rok 2007 wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dla opakowań wymienionych w załączniku nr 1 do ustawy — 4,02 zł za 1 kg;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dla produktów wymienionych w poz. 2 i 3 w załączniku nr 2 do ustawy — 67,05 zł za sztukę;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "dla produktów wymienionych w poz. 4 w załączniku nr 2 do ustawy — 6,70 zł za sztukę;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "dla produktów wymienionych w poz. 1 w załączniku nr 3 do ustawy — 2,69 zł za 1 kg;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "dla produktów wymienionych w poz. 2 w załączniku nr 3 do ustawy — 4,02 zł za sztukę;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "dla produktów wymienionych w poz. 3 w załączniku nr 3 do ustawy — 2,69 zł za 1 kg dla opony nowej i używanej regenerowanej (bieżnikowanej) oraz 10,73 zł za 1 kg dla opony używanej nieregenerowanej (niebieżnikowanej).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: J. Szyszko"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 31 października 2005 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 220, poz. 1899).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 7, poz. 78, z 2004 r. Nr 96, poz. 959 i Nr 121, poz. 1263 oraz z 2005 r. Nr 33, poz. 291, Nr 175, poz. 1458 i Nr 180, poz. 1495."
+ }
+}

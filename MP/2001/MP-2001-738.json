@@ -1,0 +1,188 @@
+{
+ "eli": "MP/2001/738",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 7 grudnia 2001 r. w sprawie walut obcych określonych jako wymienialne.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/738/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Monitor Polski N r 45 — 1201 — Poz. 737 i 738"
+  },
+  {
+   "type": "text",
+   "text": "za wybitne zasługi w działalności na rzecz turystyki za wybitne zasługi w działalności społecznej na rzecz iochrony przyrody ochrony przeciwpożarowej"
+  },
+  {
+   "type": "ust",
+   "num": "147",
+   "path": "ust_147",
+   "text": "Kosik Stanisław Dominik, 151. Dezor Zofia, 152. Masztalerz Stanisław, 153. Wieczorek Alojzy, za wybitne zasługi dla obrony cywilnej za wybitne zasługi wdziałalności na rzecz rozwoju rze- 148. Okoński Jerzy Józef, miosła",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi dla rozwoju budownictwa 154. Skrzypczak Kazimierz,"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "149",
+   "path": "ust_149",
+   "text": "Sierzputowski Stefan, za wybitne zasługi w działalności społecznej na rzecz osób niewidomych iniedowidzących za wybitne zasługi dla rozwoju przemysłu cukrowniczego, za działalność na rzecz społeczności lokalnej 155. Drozd Henryk Jan.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "150",
+   "path": "ust_150",
+   "text": "Cyrklaff Henryk Jerzy, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski",
+   "children": [
+    {
+     "type": "text",
+     "text": "738"
+    },
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+    },
+    {
+     "type": "text",
+     "text": "zdnia 7 grudnia 2001 r."
+    },
+    {
+     "type": "text",
+     "text": "wsprawie walut obcych określonych jako wymienialne."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 2 ust. 3 ustawy zdnia 18 grudnia 2) eskudo portugalskie — PTE — do dnia 28 lutego 1998 r. — Prawo dewizowe (Dz. U. Nr 160, poz. 1063, 2002 r., z1999 r. Nr 83, poz. 931 iz2000 r. Nr 103, poz. 1099) zarządza się, co następuje: 3) frank belgijski — BEF — do dnia 28 lutego 2002 r.,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Określa się następujące waluty obce jako wa- 4) frank francuski — FRF — do dnia 17 lutego 2002 r., luty wymienialne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_1/pkt_5",
+       "text": "frank luksemburski — LUF — do dnia 28 lutego 1) dolar amerykański — USD, 2002 r.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "dolar australijski — AUD, 6) funt irlandzki — IEP — do dnia 9 lutego 2002 r.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "dolar kanadyjski — CAD, 7) gulden holenderski — NLG — do dnia 27 stycznia 2002 r.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "euro — EUR,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/ust_1/pkt_8",
+       "text": "lir włoski — ITL — do dnia 28 lutego 2002 r.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_1/pkt_5",
+       "text": "forint węgierski — HUF,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_1/ust_1/pkt_9",
+       "text": "marka fińska — FIM — do dnia 28 lutego 2002 r., 6) frank szwajcarski — CHF, 10)marka niemiecka — DEM — do dnia 31 grudnia 7) funt brytyjski — GBP, 2001 r.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/ust_1/pkt_8",
+       "text": "jen japoński —JPY, 11)peseta hiszpańska — ESP — do dnia 28 lutego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_1/ust_1/pkt_9",
+       "text": "korona czeska — CZK, 2002r.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_1/ust_1/pkt_10",
+       "text": "korona duńska — DKK, 12)szyling austriacki — ATS — do dnia 28 lutego 2002r.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_1/ust_1/pkt_11",
+       "text": "korona estońska — EEK,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie Prezesa Narodowego 12) korona norweska — NOK, Banku Polskiego z dnia 31 grudnia 1998 r. w sprawie wykazu walut obcych będących walutami wymienial- 13) korona szwedzka — SEK, nymi (Monitor Polski z 1999 r. Nr 2, poz. 11 i z 2000 r.",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "międzynarodowa jednostka pieniężna emitowana Nr2, poz.36). przez Międzynarodowy Fundusz Walutowy — SDR.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi wżycie zdniem ogłosze- 2. Walutami wymienialnymi do określonego termi- nia. nu są następujące waluty obce:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "drachma grecka — GRD — do dnia 28 lutego 2002r., Prezes Narodowego Banku Polskiego: L. Balcerowicz",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

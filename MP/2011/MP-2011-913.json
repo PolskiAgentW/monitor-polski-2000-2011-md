@@ -1,0 +1,2795 @@
+{
+ "eli": "MP/2011/913",
+ "title": "Zarządzenie Prezesa Najwyższej Izby Kontroli z dnia 1 września 2011 r. w sprawie postępowania kontrolnego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/913/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NAJWYŻSZEJ IZBY KONTROLI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 września 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie postępowania kontrolnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 65 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zarządzenie reguluje zadania kontrolerów Najwyższej Izby Kontroli w postępowaniu kontrolnym oraz szczegółowe zasady przygotowywania kontroli, dokumentowania czynności kontrolnych, sporządzania protokołu kontroli, wystąpienia pokontrolnego i informacji o wynikach przeprowadzonych kontroli, a także rozpatrywania zastrzeżeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w zarządzeniu jest mowa o;",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawie — rozumie się przez to ustawę z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "właściwej jednostce kontrolnej — rozumie się przez to kontrolną jednostkę organizacyjną (departament lub delegaturę) przeprowadzającą postępowanie kontrolne w jednostce kontrolowanej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "kontroli koordynowanej — rozumie się przez to kontrolę wykonywaną według jednego programu lub tematyki przez więcej niż jedną kontrolną jednostkę organizacyjną;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "jednostce koordynującej kontrolę — rozumie się przez to kontrolną jednostkę organizacyjną, której zlecono zadanie przygotowania kontroli koordynowanej, w tym opracowania projektu programu lub tematyki, organizacji i koordynowania jej przebiegu oraz opracowania projektu informacji o wynikach przeprowadzonej kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "koordynatorze kontroli — rozumie się przez to kontrolera wyznaczonego do kierowania przygotowaniem i przebiegiem postępowania kontrolnego w kontroli koordynowanej oraz opracowania projektu informacji o wynikach przeprowadzonej kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "uczestniku kontroli koordynowanej — rozumie się przez to właściwą jednostkę kontrolną lub inny organ kontroli, rewizji, inspekcji biorący udział w kontroli koordynowanej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "jednostce kontrolowanej — rozumie się przez to organy i jednostki organizacyjne wymienione w art. 2 i 4 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zadania kontrolerów"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Dyrektor kontrolnej jednostki organizacyjnej w postępowaniu kontrolnym w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "organizuje pracę jednostki i kieruje jej działalnością;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "reprezentuje Najwyższą Izbę Kontroli wobec innych organów i instytucji w sprawach objętych czynnościami kontrolnymi i w granicach upoważnień udzielonych przez Prezesa Najwyższej Izby Kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "podejmuje czynności zapewniające prawidłowy i terminowy przebieg postępowania kontrolnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "wyznacza podległych kontrolerów do wykonania określonych czynności kontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "sprawuje nadzór nad wykonywaniem przez kontrolerów powierzonych im zadań, zwłaszcza nad przygotowaniem do przeprowadzenia kontroli i nad przestrzeganiem obowiązujących zasad i trybu przeprowadzania kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "w razie potrzeby przeprowadza kontrolę lub uczestniczy w poszczególnych czynnościach kontrolnych oraz w naradach pokontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "zapewnia rzetelne przedstawianie w wystąpieniach pokontrolnych oceny kontrolowanej działalności, a w razie stwierdzenia nieprawidłowości także uwag i wniosków w sprawie ich usunięcia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "wykonuje czynności w sprawie rozpatrywania zastrzeżeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "kieruje opracowywaniem informacji o wynikach przeprowadzonych kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "podejmuje działania zmierzające do wykorzystania uwag i wniosków przez adresatów wystąpień pokontrolnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Wicedyrektor kontrolnej jednostki organizacyjnej wykonuje zadania określone w § 3 w zakresie, w jakim zostały mu powierzone przez dyrektora.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Radca Prezesa Najwyższej Izby Kontroli realizuje w postępowaniu kontrolnym zadania wyznaczone przez Prezesa Najwyższej Izby Kontroli.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Doradca ekonomiczny i doradca techniczny:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "prowadzą badania analityczne określonych problemów, w tym analizę ryzyka wystąpienia nieprawidłowości, i opracowują wyniki tych badań, stanowiące podstawę proponowanych tematów kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "opracowują projekty i zgłaszają uwagi do projektów programów kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "pełnią funkcję koordynatora kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "przygotowują lub biorą udział w przygotowaniu narad związanych z procesem kontroli i udzielają kontrolerom pomocy w toku czynności kontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "sprawują w zakresie wyznaczonym przez dyrektora bieżący nadzór nad przebiegiem postępowania kontrolnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_6/pkt_6",
+     "text": "przeprowadzają w razie potrzeby kontrolę lub uczestniczą w czynnościach kontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_6/pkt_7",
+     "text": "w przypadku zgłoszenia zastrzeżeń do protokołu kontroli analizują i oceniają protokół oraz zebrane dowody z punktu widzenia zachowania zasad i trybu postępowania kontrolnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_6/pkt_8",
+     "text": "biorą udział w rozpatrywaniu zastrzeżeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_6/pkt_9",
+     "text": "uczestniczą w naradach pokontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_6/pkt_10",
+     "text": "analizują projekty wystąpień pokontrolnych, dokonują ich oceny i niezbędnej korekty;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_6/pkt_11",
+     "text": "przygotowują projekty informacji o wynikach przeprowadzonych kontroli i projekty innych opracowań pokontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_6/pkt_12",
+     "text": "dokonują analizy odpowiedzi na wystąpienia pokontrolne i przedstawiają ją dyrektorowi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_6/pkt_13",
+     "text": "wykonują inne zadania zlecone przez dyrektora.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Doradca prawny:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "informuje dyrektora kontrolnej jednostki organizacyjnej o zmianach stanu prawnego w zakresie działania jednostki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "uczestniczy w opracowaniu i opiniowaniu projektów programów kontroli, w szczególności dokonuje analiz prawnych i sporządza wykaz aktów prawnych dotyczących przedmiotu kontroli; w razie potrzeby opracowuje projekty programów kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "udziela pomocy prawnej kontrolerom uczestniczącym w postępowaniu kontrolnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "w razie potrzeby pełni funkcję koordynatora kontroli, a także przeprowadza kontrolę lub uczestniczy w czynnościach kontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "bierze udział w rozpatrywaniu zastrzeżeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_7/pkt_6",
+     "text": "opiniuje pod względem prawnym projekty wystąpień pokontrolnych, w szczególności w zakresie odpowiedzialności za ujawnione w toku kontroli nieprawidłowości oraz potrzeby zmiany obowiązującego prawa, dokonuje ich oceny i niezbędnej korekty;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_7/pkt_7",
+     "text": "opracowuje analizy prawne, a w razie potrzeby formułuje w projektach informacji o wynikach kontroli uwagi co do zmiany obowiązującego prawa; może także przygotowywać projekty informacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_7/pkt_8",
+     "text": "u czestniczy w opracowaniu projektów zawiadomień, o których mowa w art. 63 ustawy, i prowadzi ich ewidencję;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_7/pkt_9",
+     "text": "w ykonuje inne zadania zlecone przez dyrektora.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Kontroler wykonujący czynności kontrolne:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "p rzeprowadza kontrolę w jednostce kontrolowanej zgodnie z zasadami i trybem postępowania kontrolnego, programem kontroli i zaleceniami nadzorującego, efektywnie wykorzystuje czas przewidziany na przygotowanie się do kontroli oraz jej przeprowadzenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "d okonuje w sposób obiektywny ustaleń kontroli oraz rzetelnie je dokumentuje;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "s porządza dokumenty określone w przepisach niniejszego zarządzenia, w szczególności protokoły kontroli oraz projekty wystąpień pokontrolnych i zawiadomień, o których mowa w art. 63 ustawy; niezwłocznie informuje doradcę prawnego o ustaleniach kontroli uzasadniających sporządzenie takich zawiadomień;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "b ierze udział w rozpatrywaniu zastrzeżeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "d okonuje wstępnej oceny odpowiedzi na wystąpienia pokontrolne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "w ykonuje inne zadania w zakresie postępowania kontrolnego zlecone przez dyrektora.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Kierownik zespołu kontrolnego, każdorazowo wyznaczany przez dyrektora, oprócz wykonywania zadań, o których mowa w § 8, organizuje pracę zespołu, w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "d okonuje podziału zadań między członków zespołu i koordynuje ich działania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "z apewnia prawidłowe i terminowe przeprowadzanie kontroli przez zespół;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_9/pkt_3",
+     "text": "d ąży do rozstrzygnięcia rozbieżności między członkami zespołu, wynikłych na tle dokonanych ustaleń kontrolnych lub sposobu ujęcia ustaleń w protokole kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_9/pkt_4",
+     "text": "r eprezentuje zespół wobec kierownika jednostki kontrolowanej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Przygotowywanie kontroli"
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Najwyższa Izba Kontroli prowadzi działalność na podstawie rocznego planu pracy uchwalanego przez Kolegium Najwyższej Izby Kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Roczny plan pracy Najwyższej Izby Kontroli zawiera tematy kontroli podejmowanych na zlecenie Sejmu lub jego organów, na wniosek Prezydenta Rzeczypospolitej Polskiej, na wniosek Prezesa Rady Ministrów, a także podejmowanych przez Najwyższą Izbę Kontroli z własnej inicjatywy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Rezygnacja z tematu kontroli ujętego w rocznym planie pracy lub wprowadzenie nowego tematu kontroli wymaga uchwały Kolegium NIK. Wprowadzenie innych zmian w rocznym planie pracy jest możliwe za zgodą Prezesa Najwyższej Izby Kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "W razie potrzeby Najwyższa Izba Kontroli podejmuje, poza planem pracy, kontrole doraźne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Kontrole doraźne podejmuje się w szczególności w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "potrzeby niezwłocznego zbadania aktualnych zagadnień o szczególnym znaczeniu dla funkcjonowania państwa (kontrola specjalna);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "wstępnego badania określonych zagadnień dla opracowania projektu programu kontroli (kontrola rozpoznawcza);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "badania sposobu wykorzystania uwag i wniosków przez adresatów wystąpień pokontrolnych (kontrola sprawdzająca);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_2/pkt_4",
+       "text": "rozpatrywania skarg i wniosków (kontrola skargowa).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Decyzję o przeprowadzeniu kontroli specjalnej podejmuje Prezes Najwyższej Izby Kontroli, który wskazuje także jednostkę koordynującą lub przeprowadzającą tę kontrolę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Decyzję o przeprowadzeniu pozostałych kontroli doraźnych podejmuje dyrektor właściwej jednostki kontrolnej, za zgodą Prezesa lub upoważnionego wiceprezesa Najwyższej Izby Kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Dla kontroli ujętych w rocznym planie pracy opracowuje się programy kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Program kontroli przygotowuje jednostka koordynująca kontrolę lub właściwa jednostka kontrolna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Przy opracowywaniu programów kontroli uwzględnia się w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "wyniki wcześniejszych kontroli i kontroli rozpoznawczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "wyniki badań analitycznych określonych problemów oraz skarg i wniosków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "informacje pochodzące od organów lub jednostek, o których mowa w art. 2 i 4 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_13/pkt_4",
+     "text": "opinie naukowe i specjalistyczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W programach kontroli zamieszcza się informacje potrzebne do sprawnego przeprowadzenia kontroli oraz dokonania oceny kontrolowanej działalności, w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "oznaczenie kontroli (numer i temat);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "cel kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "wyniki analizy przedkontrolnej, tj. przedstawienie podstawowych problemów gospodarczych, finansowych i organizacyjnych związanych z przedmiotem kontroli, a także wskazanie szczególnych zagrożeń i możliwych nieprawidłowości w badanych obszarach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_14/pkt_4",
+     "text": "a nalizę stanu prawnego dotyczącego kontrolowanej działalności;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_14/pkt_5",
+     "text": "t ematykę kontroli, tj. szczegółowe określenie przedmiotowego i podmiotowego zakresu kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_14/pkt_6",
+     "text": "w skazówki metodyczne, tj. określenie sposobu i technik przeprowadzania kontroli, dokumentowania jej wyników oraz dokonania oceny kontrolowanej działalności, w tym dowodów niezbędnych do dokonania ustaleń i sposobu ich badania, powiązania tematyki z aktami normatywnymi, zasad doboru próby do kontroli, wzorów wykazów i zestawień oraz narzędzi do badań kontrolnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_14/pkt_7",
+     "text": "z ałożenia organizacyjne, tj. wskazanie jednostki koordynującej kontrolę, koordynatora kontroli i uczestników kontroli, podmiotów przewidzianych do kontroli, podziału zadań między uczestników kontroli, terminów poszczególnych faz postępowania kontrolnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_14/pkt_8",
+     "text": "w ykaz aktów prawnych dotyczących tematyki kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_14/pkt_9",
+     "text": "i nne informacje i załączniki stosownie do potrzeb.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Program kontroli oraz zmiany w programie zatwierdza Prezes lub upoważniony wiceprezes Najwyższej Izby Kontroli.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Dla kontroli doraźnej, o której mowa w § 11 ust. 2 pkt 1, tematykę kontroli opracowuje dyrektor właściwej jednostki kontrolnej lub dyrektor jednostki koordynującej tę kontrolę, a zatwierdza Prezes Najwyższej Izby Kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Dla kontroli doraźnej, o której mowa w § 11 ust. 2 pkt 2—4, tematykę kontroli zatwierdza dyrektor właściwej jednostki kontrolnej lub dyrektor jednostki koordynującej kontrolę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Zmiana tematyki kontroli, o której mowa w ust. 1, wymaga zgody Prezesa Najwyższej Izby Kontroli, a tematyki kontroli, o której mowa w ust. 2, dyrektora tej jednostki, który ją zatwierdził.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Imienne upoważnienia do przeprowadzenia kontroli wydawane są według wzoru określonego w załączniku nr 1 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Do kontroli spraw lub dokumentów zakwalifikowanych jako ściśle tajne odrębne upoważnienie wydaje Prezes Najwyższej Izby Kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Upoważnienia, o których mowa w ust. 1 i 2, oraz upoważnienia wydawane na podstawie odrębnych przepisów po ich wykorzystaniu załącza się do akt kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Druki upoważnień podlegają ścisłemu ewidencjonowaniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "W przypadkach kontroli prowadzonych przez Najwyższą Izbę Kontroli wspólnie z innymi organami kontroli, rewizji lub inspekcji przedstawiciele tych organów działają na podstawie upoważnień wydawanych przez te organy.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Dokumentowanie czynności kontrolnych. Protokół kontroli"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Kontroler dokumentuje przebieg i wyniki czynności kontrolnych w sposób określony w niniejszym rozdziale, zakładając i prowadząc w tym celu akta kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Akta kontroli obejmują w szczególności materiały dowodowe i inne dokumenty wymienione w niniejszym rozdziale.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Na początku każdego tomu akt zamieszcza się wykaz materiałów zawartych w danym tomie, wymieniając ich nazwy i cechy identyfikujące (numery, daty) oraz wskazując odpowiednie strony akt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Kontroler numeruje zapisane strony akt kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Kontroler udostępnia akta kontroli z zachowaniem przepisów o tajemnicy kontrolerskiej i innych tajemnicach ustawowo chronionych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Udostępniając akta kontroli kierownikowi jednostki kontrolowanej, kontroler musi uwzględnić cel kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Kontroler sporządza niezbędne odpisy dokumentów lub odpowiednie z nich wyciągi, a także zestawienia i obliczenia dokonywane na podstawie dokumentów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Żądanie od kierownika jednostki kontrolowanej wydania polecenia sporządzenia odpisów, wyciągów, zestawień lub obliczeń przez podległych mu pracowników może nastąpić tylko w przypadkach uzasadnionych potrzebami kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Jeżeli zachodzi potrzeba włączenia do akt kontroli określonego dokumentu lub jego części, kontroler włącza odpis, potwierdzony w sposób określony w art. 37 ust. 2 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Kontroler, zabezpieczając materiały dowodowe w sposób określony w art. 36 ust. 1 pkt 3 ustawy, wystawia pokwitowanie według wzoru określonego w załączniku nr 2 do zarządzenia i pozostawia je w jednostce kontrolowanej; kopię pokwitowania włącza do akt kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "W razie odmowy zwolnienia materiałów dowodowych spod zabezpieczenia (art. 36 ust. 2 ustawy) kontroler przedstawia wniosek wraz ze swoim stanowiskiem dyrektorowi właściwej jednostki kontrolnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Kontroler zwraca zabezpieczone materiały dowodowe po otrzymaniu pokwitowania, które włącza do akt kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "W razie zasięgania przez kontrolera informacji lub uzyskiwania wyjaśnień na podstawie art. 29 pkt 2 lit. f ustawy informacje lub wyjaśnienia powinny być utrwalone na piśmie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Kontroler sporządza protokół pobrania rzeczy według wzoru określonego w załączniku nr 3 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Jeżeli osoba uczestnicząca w pobraniu rzeczy odmawia podpisania protokołu lub nie może go podpisać, kontroler zamieszcza w protokole odpowiednią wzmiankę i opisuje podane przez osobę uczestniczącą w pobraniu rzeczy przyczyny odmowy lub niemożności podpisania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Kontroler sporządza protokół oględzin według wzoru określonego w załączniku nr 4 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Przepis § 24 ust. 2 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Załączniki do protokołu oględzin wymienione w art. 39 ust. 4 pkt 2 ustawy powinny być zabezpieczone w sposób uniemożliwiający zastąpienie ich innymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Kontroler sporządza protokół przyjęcia ustnych wyjaśnień według wzoru określonego w załączniku nr 5 do zarządzenia lub ustnego oświadczenia według wzoru określonego w załączniku nr 6 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Wyjaśnienia i oświadczenia mogą też być złożone na piśmie. Kontroler odmawia ich przyjęcia, jeżeli nie zostały podpisane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Kontroler wysyła wezwanie do osobistego stawienia się w charakterze świadka według wzoru określonego w załączniku nr 7 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Kontroler wydaje postanowienie o nałożeniu kary pieniężnej na świadka za niestawienie się bez uzasadnionej przyczyny na wezwanie według wzoru określonego w załączniku nr 8 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "Kontroler wydaje postanowienie o uchyleniu postanowienia o nałożeniu kary pieniężnej, o którym mowa w ust. 2, według wzoru określonego w załączniku nr 9 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_27/ust_4",
+     "text": "Kontroler sporządza protokół przesłuchania świadka według wzoru określonego w załączniku nr 10 do zarządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Dyrektor właściwej jednostki kontrolnej wydaje postanowienie o powołaniu biegłego według wzoru określonego w załączniku nr 11 do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Kontroler wydaje postanowienie o powołaniu specjalisty w danej dziedzinie wiedzy lub praktyki do udziału w czynnościach badawczych według wzoru określonego w załączniku nr 12 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Sporządzone przez kontrolera dokumenty, utrwalające przebieg czynności dokonanych przy udziale specjalisty, podpisują kontroler i specjalista.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Kontroler utrwala w notatce służbowej inne czynności podjęte w toku kontroli, a także zdarzenia, które mają istotne znaczenie dla ustaleń lub przebiegu kontroli.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Przekazanie przez kontrolera kierownikowi jednostki kontrolowanej informacji o stwierdzeniu bezpośredniego niebezpieczeństwa dla życia lub zdrowia ludzkiego albo niepowetowanej szkody w mieniu następuje zależnie od okoliczności ustnie lub pisemnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "W razie złożenia informacji, o której mowa w ust. 1, w formie ustnej kontroler utrwala ten fakt w notatce służbowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Informacja przekazana na piśmie oraz notatka służbowa, o której mowa w ust. 2, powinny zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_31/ust_3/pkt_1",
+       "text": "opis stwierdzonego stanu grożącego życiu lub zdrowiu ludzkiemu albo mieniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_31/ust_3/pkt_2",
+       "text": "dokładny czas przekazania informacji kierownikowi jednostki kontrolowanej lub innej właściwej osobie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_31/ust_4",
+     "text": "Kontroler powinien uzyskać i dołączyć do akt kontroli pisemne potwierdzenie przekazania kierownikowi jednostki kontrolowanej informacji, o której mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_31/ust_5",
+     "text": "Przepisy ust. 1—4 stosuje się odpowiednio w przypadkach, o których mowa w art. 51 ust. 3 i 4 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Z przebiegu zwołanej przez kontrolera w toku kontroli narady z pracownikami jednostki kontrolowanej sporządza się protokół, który powinien zawierać w szczególności informacje o celu, przebiegu i wyniku narady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Protokół sporządza pracownik właściwej jednostki kontrolnej, a podpisują go prowadzący naradę kontroler i protokolant; protokół załącza się do akt kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Dokonane w postępowaniu kontrolnym ustalenia kontroler opisuje w protokole kontroli w sposób uporządkowany, zwięzły i przejrzysty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Protokół kontroli powinien zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_2/pkt_1",
+       "text": "oznaczenie jednostki kontrolowanej, jej adres, imię i nazwisko kierownika oraz oznaczenie i adres jednostki nadrzędnej nad kontrolowaną, z uwzględnieniem zmian w okresie objętym kontrolą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_2/pkt_2",
+       "text": "imię i nazwisko oraz stanowisko służbowe kontrolera, nazwę właściwej jednostki kontrolnej delegującej kontrolera oraz numer i datę upoważnienia do kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_33/ust_2/pkt_3",
+       "text": "datę rozpoczęcia i zakończenia czynności kontrolnych w jednostce kontrolowanej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_33/ust_2/pkt_4",
+       "text": "określenie przedmiotowego zakresu kontroli i okresu objętego kontrolą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_33/ust_2/pkt_5",
+       "text": "opis stwierdzonego w wyniku kontroli stanu faktycznego ze wskazaniem na podstawy dokonanych ustaleń zawarte w aktach kontroli, w tym stwierdzonych nieprawidłowości, przyczyn ich powstania, zakresu i skutków oraz osób za nie odpowiedzialnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_33/ust_2/pkt_6",
+       "text": "wzmiankę o przekazaniu informacji, o których mowa w art. 51 ustawy, oraz wzmiankę o podjętych w związku z tym działaniach zapobiegających i ich skutkach do czasu zakończenia kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_33/ust_2/pkt_7",
+       "text": "w zmiankę o prawie, sposobie i terminie zgłoszenia zastrzeżeń co do ustaleń zawartych w protokole oraz o prawie odmowy podpisania protokołu, a także o prawie złożenia wyjaśnień, o których mowa w art. 59 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_33/ust_2/pkt_8",
+       "text": "w zmiankę o zgłoszeniu zastrzeżeń oraz o stanowisku zajętym wobec nich przez kontrolera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_33/ust_2/pkt_9",
+       "text": "o mówienie dokonanych w protokole poprawek, skreśleń i uzupełnień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_33/ust_2/pkt_10",
+       "text": "w zmiankę o doręczeniu egzemplarza protokołu kierownikowi jednostki kontrolowanej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_33/ust_2/pkt_11",
+       "text": "a dnotację o dokonaniu wpisu do księgi ewidencji kontroli, jeżeli taka księga jest prowadzona przez jednostkę kontrolowaną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_33/ust_2/pkt_12",
+       "text": "p odpisy kontrolera i kierownika jednostki kontrolowanej oraz miejsce i datę podpisania protokołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_33/ust_2/pkt_13",
+       "text": "p arafy kontrolera na każdej stronie protokołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_33/ust_2/pkt_14",
+       "text": "w razie odmowy podpisania protokołu — wzmiankę, o której mowa w art. 57 ust. 3 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "W przypadku gdy protokół zawiera informacje objęte tajemnicą ustawowo chronioną, zaopatruje się go w odpowiednią klauzulę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "Protokół kontroli sporządza się w dwóch egzemplarzach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_33/ust_5",
+     "text": "Jeden egzemplarz protokołu otrzymuje kierownik jednostki kontrolowanej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Wyjaśnienia, o których mowa w art. 59 ustawy, stanowią załącznik do protokołu kontroli.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Zgłaszanie i rozpatrywanie zastrzeżeń do protokołu kontroli"
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Przedstawiając kierownikowi jednostki kontrolowanej protokół kontroli, kontroler informuje go o przysługującym na mocy art. 55 ust. 1 oraz art. 57 ust. 1 ustawy prawie zgłoszenia umotywowanych zastrzeżeń do ustaleń zawartych w protokole oraz prawie odmowy podpisania protokołu kontroli.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Kontroler bada, czy zgłoszone zastrzeżenia spełniają warunki określone w art. 55 ust. 1 i 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Jeżeli zastrzeżenia nie spełniają warunków ustawowych, ponieważ zostały zgłoszone przez osobę nieuprawnioną, po upływie terminu, nie zostały umotywowane lub są niedopuszczalne z mocy ustawy, kontroler informuje o tym dyrektora właściwej jednostki kontrolnej, który odmawia przyjęcia zastrzeżeń i informuje o tym zgłaszającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Jeżeli nie zachodzą okoliczności, o których mowa w ust. 2, zastrzeżenia zgłoszone przez kierownika jednostki kontrolowanej do ustaleń zawartych w protokole kontroli poddawane są przez kontrolera analizie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_36/ust_4",
+     "text": "Jeżeli z analizy wynika potrzeba podjęcia dodatkowych czynności kontrolnych, kontroler je przeprowadza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_36/ust_5",
+     "text": "Jeżeli kontroler stwierdzi zasadność zastrzeżeń, dokonuje zmiany protokołu kontroli w ten sposób, że dołącza do niego stosowny tekst w brzmieniu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_5/pkt_1",
+       "text": "„Ustalenia na str. ….. skreśla się”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_5/pkt_2",
+       "text": "„Uzupełnienie do str. ….. protokołu kontroli”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_36/ust_5/pkt_3",
+       "text": "„Treść ustaleń na str. ….. otrzymuje brzmienie:”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_36/ust_6",
+     "text": "W razie nieuwzględnienia zastrzeżeń w całości lub w części kontroler przekazuje kierownikowi jednostki kontrolowanej swoje stanowisko na piśmie wraz z pouczeniem o prawie, sposobie i terminie zgłoszenia zastrzeżeń stosownie do art. 56 ust. 1 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Dyrektor właściwej jednostki kontrolnej odmawia przyjęcia zastrzeżeń do treści protokołu, zgłoszonych w trybie art. 56 ust. 1 ustawy, jeżeli nie spełniają one warunków ustawowych, ponieważ zostały zgłoszone przez osobę nieuprawnioną, po upływie terminu, nie zostały umotywowane lub są niedopuszczalne z mocy ustawy, i informuje o tym zgłaszającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Jeżeli nie zachodzą okoliczności, o których mowa w ust. 1, dyrektor właściwej jednostki kontrolnej niezwłocznie wyznacza skład komisji odwoławczej oraz protokolanta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "Jeżeli okoliczności, o których mowa w ust. 1, zostaną ujawnione po wyznaczeniu składu komisji odwoławczej, przyjęcia zastrzeżeń odmawia przewodniczący komisji i informuje o tym zgłaszającego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Przewodniczący komisji odwoławczej zarządza rozpatrzenie sprawy na posiedzeniu niejawnym, jeżeli uzna, że zgłoszone zastrzeżenia są w pełni uzasadnione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Komisja odwoławcza na posiedzeniu niejawnym może podjąć uchwałę, w której:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_38/ust_2/pkt_1",
+       "text": "uwzględnia zastrzeżenia w całości, nakazując kontrolerowi dokonanie w protokole kontroli odpowiednich zmian lub uzupełnień; może też wskazać na potrzebę ponownego przeprowadzenia kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_38/ust_2/pkt_2",
+       "text": "kieruje sprawę do rozpatrzenia na posiedzeniu jawnym, zarządzając w razie potrzeby przeprowadzenie dodatkowych czynności dowodowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Przed wyznaczeniem terminu posiedzenia jawnego przewodniczący komisji odwoławczej powołuje spośród jej członków referenta sprawy; referentem sprawy może być także przewodniczący komisji odwoławczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Referent sprawy analizuje treść zastrzeżeń, konfrontuje je z ustaleniami zawartymi w protokole kontroli, a w razie potrzeby przeprowadza czynności niezbędne do rozpatrzenia sprawy lub zwraca się do przewodniczącego o wyznaczenie do ich wykonania innego członka komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_39/ust_3",
+     "text": "Po przeprowadzeniu czynności, o których mowa w ust. 2, sporządza się notatkę służbową zawierającą wyniki dokonanych ustaleń i przedstawia się ją komisji odwoławczej w celu rozpatrzenia zastrzeżeń przez komisję w pełnym składzie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "O terminie posiedzenia jawnego zawiadamia się kierownika jednostki kontrolowanej i kontrolera. Obecność tych osób nie jest obowiązkowa; komisja może uznać udział kontrolera za konieczny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Na posiedzeniu jawnym, którym kieruje przewodniczący komisji, referent sprawy przedstawia zgłoszone zastrzeżenia oraz stanowisko kontrolera wobec nich, a także informuje o przeprowadzonych dodatkowych czynnościach dowodowych; jeżeli na posiedzeniu komisji obecni są kierownik jednostki kontrolowanej i kontroler, przewodniczący komisji udziela im głosu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Po wyjaśnieniu wszystkich kwestii związanych z rozpatrywaniem zastrzeżeń przewodniczący komisji odwoławczej zamyka posiedzenia jawne, po czym komisja odwoławcza podejmuje uchwałę o uwzględnieniu zastrzeżeń w całości lub w części albo o ich oddaleniu. Niezależnie od zgłoszonych zastrzeżeń, komisja może wskazać na potrzebę ponownego przeprowadzenia kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_42/ust_1",
+     "text": "Uchwały, o których mowa w § 38 ust. 2 pkt 1 oraz § 41 ust. 2, wraz z uzasadnieniem podpisują wszyscy członkowie komisji; członek komisji ma prawo zgłosić zdanie odrębne, zaznaczając to przy podpisywaniu uchwały. Zdanie odrębne wymaga uzasadnienia na piśmie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_42/ust_2",
+     "text": "Uchwałę wraz z uzasadnieniem przewodniczący komisji odwoławczej niezwłocznie przekazuje Prezesowi lub upoważnionemu wiceprezesowi Najwyższej Izby Kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Zatwierdzoną przez Prezesa lub upoważnionego wiceprezesa Najwyższej Izby Kontroli uchwałę komisji odwoławczej wraz z uzasadnieniem przewodniczący komisji przekazuje zgłaszającemu zastrzeżenia i kontrolerowi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Jeżeli ostateczna uchwała komisji odwoławczej uwzględnia zgłoszone zastrzeżenia w całości lub w części, kontroler dokonuje odpowiednich zmian i uzupełnień w protokole kontroli zgodnie z treścią uchwały; przepis § 36 ust. 5 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_44/ust_1",
+     "text": "Do rozpatrzenia zastrzeżeń przez komisję rozstrzygającą, o której mowa w art. 56 ust. 5 i 6 ustawy, stosuje się odpowiednio przepisy § 38—42 i § 43 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_44/ust_2",
+     "text": "Uchwałę komisji rozstrzygającej przewodniczący komisji doręcza wraz z uzasadnieniem zgłaszającemu zastrzeżenia i kontrolerowi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_45/ust_1",
+     "text": "Z posiedzenia komisji odwoławczej i rozstrzygającej sporządza się protokół, który podpisują przewodniczący komisji i protokolant.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_45/ust_2",
+     "text": "Dokumenty wytworzone lub zebrane w toku rozpatrywania zastrzeżeń włącza się do akt kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Wystąpienia pokontrolne"
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_46/ust_1",
+     "text": "Po podpisaniu protokołu kontroli kontroler opracowuje projekt wystąpienia pokontrolnego do kierownika jednostki kontrolowanej zawierającego ocenę kontrolowanej działalności, w tym osób odpowiedzialnych za tę działalność, a w razie stwierdzenia nieprawidłowości — także uwagi i wnioski w sprawie ich usunięcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_46/ust_2",
+     "text": "Jeżeli wyniki kontroli wskazują na konieczność podjęcia określonych czynności przez kierownika jednostki nadrzędnej nad jednostką kontrolowaną, kontroler opracowuje projekt wystąpienia pokontrolnego zawierającego ocenę kontrolowanej działalności oraz uwagi i wnioski dla jednostki nadrzędnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_46/ust_3",
+     "text": "Jeżeli stwierdzone w wyniku kontroli nieprawidłowości wskazują na konieczność podjęcia działań przez właściwe organy państwowe lub samorządowe, w szczególności w celu zmiany obowiązującego prawa, kontroler opracowuje projekt wystąpienia pokontrolnego do tych organów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_46/ust_4",
+     "text": "Ocenę, o której mowa w art. 60 ust. 3 ustawy, wraz ze szczegółowym uzasadnieniem, kontroler przedstawia w projekcie wystąpienia, o którym mowa w ust. 1—3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_46/ust_5",
+     "text": "Kontroler uzgadnia projekty wystąpień z właściwymi doradcami i przedstawia dyrektorowi właściwej jednostki kontrolnej do akceptacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_47/ust_1",
+     "text": "Wystąpienia pokontrolne podpisują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_47/ust_1/pkt_1",
+       "text": "Prezes Najwyższej Izby Kontroli — do Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu, Marszałka Senatu, Prezesa Rady Ministrów, Prezesa Narodowego Banku Polskiego oraz osób kierujących instytucjami, o których mowa w art. 4 ust. 1 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_47/ust_1/pkt_2",
+       "text": "wiceprezesi — do ministrów i kierowników urzędów centralnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_47/ust_1/pkt_3",
+       "text": "dyrektor generalny — do wojewodów i organów stopnia wojewódzkiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_47/ust_1/pkt_4",
+       "text": "dyrektorzy kontrolnych jednostek organizacyjnych — do wojewodów i organów stopnia wojewódzkiego oraz innych jednostek organizacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_47/ust_2",
+     "text": "Prezes Najwyższej Izby Kontroli może upoważnić innego kontrolera lub zastrzec dla siebie prawo do podpisania każdego wystąpienia pokontrolnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_47/ust_3",
+     "text": "Uprawnienie, o którym mowa w ust. 2, przysługuje wiceprezesowi Najwyższej Izby Kontroli w przypadkach określonych w ust. 1 pkt 3 i 4 oraz dyrektorowi generalnemu w przypadkach określonych w ust. 1 pkt 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Jeżeli zebrane w toku kontroli materiały uzasadniają podejrzenie popełnienia przestępstwa ściganego z urzędu, właściwa jednostka kontrolna sporządza zawiadomienie o popełnieniu przestępstwa i przekazuje je wraz z zebranymi materiałami dowodowymi właściwemu organowi powołanemu do ścigania przestępstw. Przepisy § 46 ust. 1 i 5 oraz § 47 stosuje się odpowiednio, z tym że projekt zawiadomienia dyrektor tej jednostki przekazuje do zaopiniowania departamentowi właściwemu w sprawach prawnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Zawiadomienie powinno zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_48/ust_2/pkt_1",
+       "text": "nazwę i adres jednostki kontrolowanej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_48/ust_2/pkt_2",
+       "text": "zwięzły opis stanu faktycznego z określeniem czasu, miejsca, okoliczności i przyczyn zdarzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_48/ust_2/pkt_3",
+       "text": "załączenie ujawnionych dowodów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_48/ust_2/pkt_4",
+       "text": "wzmiankę o obowiązku powiadomienia Najwyższej Izby Kontroli o wynikach postępowania przygotowawczego, na podstawie art. 63 ust. 2 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_48/ust_2/pkt_5",
+       "text": "w miarę możliwości: imię i nazwisko oraz stanowisko służbowe osoby ponoszącej odpowiedzialność za ujawnione nieprawidłowości, które wyczerpują znamiona przestępstwa ściganego z urzędu, wysokość powstałej szkody oraz propozycję kwalifikacji prawnej czynu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_48/ust_3",
+     "text": "Jeżeli w wyniku postępowania kontrolnego zostanie ujawnione wykroczenie lub inny czyn, za który ustawowo przewidziana jest odpowiedzialność, odpowiednie zawiadomienie opisujące ten czyn kieruje się do właściwego organu. Przepisy ust. 1 i 2 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_48/ust_4",
+     "text": "O przekazaniu zawiadomienia, o którym mowa w ust. 1 i 3, informuje się kierownika jednostki kontrolowanej lub nadrzędnej i właściwy organ państwowy lub samorządowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "Wystąpienia pokontrolne oraz zawiadomienia o popełnieniu przestępstwa lub innego czynu, za który ustawowo przewidziana jest odpowiedzialność, włącza się do akt kontroli.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Rozpatrywanie zastrzeżeń do wystąpień pokontrolnych"
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Dyrektor właściwej jednostki kontrolnej odmawia przyjęcia zastrzeżeń w sprawie ocen, uwag i wniosków zawartych w wystąpieniu pokontrolnym, zgłoszonych w trybie art. 61 ust. 1 ustawy, jeżeli nie spełniają one warunków ustawowych, ponieważ zostały zgłoszone przez osobę nieuprawnioną, po upływie terminu, nie zostały umotywowane lub są niedopuszczalne z mocy ustawy, i informuje o tym zgłaszającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Jeżeli nie zachodzą okoliczności, o których mowa w ust. 1, dyrektor właściwej jednostki kontrolnej niezwłocznie wyznacza skład komisji odwoławczej oraz protokolanta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_50/ust_3",
+     "text": "Jeżeli okoliczności, o których mowa w ust. 1, zostaną ujawnione po wyznaczeniu składu komisji odwoławczej, przyjęcia zastrzeżeń odmawia przewodniczący komisji i informuje o tym zgłaszającego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_50/ust_4",
+     "text": "Przewodniczący komisji odwoławczej zarządza rozpatrzenie sprawy na posiedzeniu niejawnym, jeżeli uzna, że zgłoszone zastrzeżenia są w pełni uzasadnione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_50/ust_5",
+     "text": "Komisja odwoławcza na posiedzeniu niejawnym może podjąć uchwałę, w której:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_50/ust_5/pkt_1",
+       "text": "uwzględnia zastrzeżenia w całości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_50/ust_5/pkt_2",
+       "text": "kieruje sprawę do rozpatrzenia na posiedzeniu jawnym.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_51/ust_1",
+     "text": "O terminie posiedzenia jawnego przewodniczący komisji odwoławczej zawiadamia wnoszącego zastrzeżenia, kontrolera i właściwych doradców. Obecność tych osób nie jest obowiązkowa; komisja może uznać udział kontrolera i doradców za konieczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_51/ust_2",
+     "text": "Komisja odwoławcza na posiedzeniu jawnym rozpatruje zastrzeżenia i podejmuje uchwałę, w której:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/ust_2/pkt_1",
+       "text": "oddala zastrzeżenia w zakresie, w jakim okażą się one bezzasadne lub nie mają wpływu na treść ocen, uwag lub wniosków zawartych w wystąpieniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/ust_2/pkt_2",
+       "text": "uwzględnia zastrzeżenia w całości lub w części i wnosi odpowiednie zmiany w treści wystąpienia pokontrolnego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_52/ust_1",
+     "text": "Uchwałę, o której mowa w § 50 ust. 5 pkt 1 oraz § 51 ust. 2, wraz z uzasadnieniem podpisują wszyscy członkowie komisji; członek komisji ma prawo zgłosić zdanie odrębne, zaznaczając to przy podpisywaniu uchwały. Zdanie odrębne wymaga uzasadnienia na piśmie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_52/ust_2",
+     "text": "Uchwałę wraz z uzasadnieniem przewodniczący komisji odwoławczej niezwłocznie przekazuje Prezesowi lub upoważnionemu wiceprezesowi Najwyższej Izby Kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "Przepisy § 51 i 52 stosuje się odpowiednio w przypadku rozpatrywania zastrzeżeń przez komisję rozstrzygającą.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "Ostateczną uchwałę komisji wraz z uzasadnieniem przekazuje się zgłaszającemu zastrzeżenia i dyrektorowi właściwej jednostki kontrolnej, a w przypadku gdy kopie wystąpienia otrzymały inne jednostki — także tym jednostkom.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "Z posiedzenia komisji odwoławczej i rozstrzygającej sporządza się protokół, który podpisują przewodniczący komisji i protokolant; dokumenty zebrane w toku rozpatrywania zastrzeżeń włącza się do akt kontroli.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_56/ust_1",
+     "text": "W przypadku zgłoszenia zastrzeżeń do wystąpienia pokontrolnego przekazanego przez Prezesa lub wiceprezesa Najwyższej Izby Kontroli dyrektor właściwej jednostki kontrolnej opracowującej wystąpienie dokonuje analizy zgłoszonych zastrzeżeń i przedkłada stanowisko Prezesowi lub wiceprezesowi Najwyższej Izby Kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_56/ust_2",
+     "text": "Prezes Najwyższej Izby Kontroli kieruje zgłoszone zastrzeżenia na posiedzenie Kolegium Najwyższej Izby Kontroli, przedstawiając wystąpienie pokontrolne i stanowisko, o którym mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_56/ust_3",
+     "text": "O terminie posiedzenia Kolegium zawiadamia się wnoszącego zastrzeżenia i dyrektora właściwej jednostki kontrolnej, a w razie potrzeby — inne osoby. Obecność tych osób nie jest obowiązkowa. Kolegium może uznać udział dyrektora właściwej jednostki kontrolnej za konieczny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Dyrektor właściwej jednostki kontrolnej dokonuje zmian w wystąpieniu pokontrolnym zgodnie z treścią uchwały w sprawie zastrzeżeń, podpisuje zmienione wystąpienie i przesyła je adresatowi z adnotacją wskazującą, że jest to ujednolicony tekst wystąpienia pokontrolnego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Informacje o wynikach przeprowadzonych kontroli"
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_58/ust_1",
+     "text": "Informację o wynikach przeprowadzonej kontroli opracowuje się w przypadku tematów kontroli zawartych w planach pracy. W uzasadnionych przypadkach Prezes NIK może zezwolić na odstąpienie od opracowania informacji o wynikach kontroli podejmowanej z własnej inicjatywy Najwyższej Izby Kontroli; może też zarządzić opracowanie informacji o wynikach kontroli doraźnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_58/ust_2",
+     "text": "Informację opracowuje jednostka koordynująca kontrolę, a w przypadku kontroli przeprowadzonej przez jedną jednostkę kontrolną — ta jednostka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_58/ust_3",
+     "text": "Projekt informacji przygotowuje koordynator kontroli, a w razie potrzeby wyznaczony przez dyrektora kontrolnej jednostki organizacyjnej inny kontroler i przedkłada do akceptacji dyrektorowi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_58/ust_4",
+     "text": "Dyrektor kontrolnej jednostki organizacyjnej przekazuje projekt informacji do zaopiniowania właściwym jednostkom kontrolnym, a następnie po zaakceptowaniu przez właściwego wiceprezesa przedkłada go Prezesowi Najwyższej Izby Kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_59/ust_1",
+     "text": "Informacja o wynikach przeprowadzonej kontroli zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_59/ust_1/pkt_1",
+       "text": "określenie celu kontroli, jej tematyki, czasu przeprowadzenia i okresu objętego badaniami, inicjatora kontroli, udziału w kontroli innych organów kontroli, rewizji, inspekcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_59/ust_1/pkt_2",
+       "text": "analizę stanu prawnego i uwarunkowań ekonomiczno-organizacyjnych dotyczących tematyki kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_59/ust_1/pkt_3",
+       "text": "istotne ustalenia kontroli ukazujące skalę stwierdzonych zjawisk, przyczyny ich powstania, skutki, jakie wywołują lub mogą wywołać w świetle kryteriów stosowanych w postępowaniu kontrolnym, zgodnie z art. 5 ustawy; ustalenia kontroli mogą być zobrazowane charakterystycznymi przykładami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_59/ust_1/pkt_4",
+       "text": "ogólną ocenę kontrolowanej działalności oraz wynikające z niej uwagi i wnioski, w szczególności co do stosowania lub dokonania zmian obowiązującego prawa bądź podjęcia określonych działań organizacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_59/ust_2",
+     "text": "Prezes Najwyższej Izby Kontroli może zarządzić opracowanie informacji w innym zakresie niż określony w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_60/ust_1",
+     "text": "Informację podpisują w kolejności dyrektor właściwej jednostki kontrolnej, właściwy wiceprezes oraz Prezes Najwyższej Izby Kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_60/ust_2",
+     "text": "Informację, o której mowa w art. 9 ustawy, może podpisać dyrektor właściwej jednostki kontrolnej lub dyrektor jednostki koordynującej kontrolę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "W razie otrzymania od naczelnego lub centralnego organu państwowego stanowiska do informacji, o którym mowa w art. 64 ust. 2 ustawy, projekt opinii do tego stanowiska przedstawia Prezesowi Najwyższej Izby Kontroli dyrektor właściwej jednostki kontrolnej, która opracowała informację, po zaakceptowaniu przez właściwego wiceprezesa.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 9",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "62",
+   "path": "par_62",
+   "text": "Zarządzenie wchodzi w życie z dniem 3 września 2011 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Najwyższej Izby Kontroli: J. Jezierski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do zarządzenia Prezesa Najwyższej Izby Kontroli z dnia 1 września 2011 r. (poz. 913) Załącznik nr 1 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "....................................................................... ............................... dnia ............................... (nazwa i adres właściwej jednostki kontrolnej) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "Upoważnienie nr ........"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 2 ust. .......... pkt ......, art. 4 ust. ....... * i art. 30 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701, z późn. zm.) upoważniam Panią/Pana *"
+    },
+    {
+     "type": "text",
+     "text": ".......................................................................................................................................................................................... (imię, nazwisko i stanowisko służbowe)"
+    },
+    {
+     "type": "text",
+     "text": "do przeprowadzenia kontroli ......................................................................................................................................... (oznaczenie kontroli)"
+    },
+    {
+     "type": "text",
+     "text": "w .................................................................................................................................................................................... . (nazwa i adres jednostki kontrolowanej)"
+    },
+    {
+     "type": "text",
+     "text": "Niniejsze upoważnienie jest ważne za okazaniem legitymacji służbowej."
+    },
+    {
+     "type": "text",
+     "text": "Ważność upoważnienia upływa z dniem .................................................................................................................... ."
+    },
+    {
+     "type": "text",
+     "text": "Ważność upoważnienia przedłuża się do dnia ........................................................................................................... ."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ ............................... dnia ............................... (nazwa i adres właściwej jednostki kontrolnej) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ (imię, nazwisko oraz stanowisko służbowe kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "Pokwitowanie zabrania z jednostki kontrolowanej zabezpieczonych materiałów dowodowych"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 36 ust. 1 pkt 3 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701, z późn. zm.) zabezpieczam następujące materiały dowodowe:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": ".....................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": ".....................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": ".....................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "przez ich zabranie z ...................................................................................................................................................... . (nazwa jednostki kontrolowanej)"
+      },
+      {
+       "type": "text",
+       "text": ".............................................."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ (nazwa i adres właściwej jednostki kontrolnej)"
+    },
+    {
+     "type": "text",
+     "text": "Protokół pobrania rzeczy"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 38 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231,"
+    },
+    {
+     "type": "text",
+     "text": "poz. 1701, z późn. zm.) .................................................................................................................................................... (imię, nazwisko i stanowisko służbowe kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "działając w obecności ...................................................................................................................................................., (imię, nazwisko oraz stanowisko służbowe osoby uczestniczącej w pobraniu rzeczy)"
+    },
+    {
+     "type": "text",
+     "text": "dokonał w dniu ..............................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "w ...................................................................................................................................................................................... (określenie miejsca pobrania rzeczy)"
+    },
+    {
+     "type": "text",
+     "text": "pobrania rzeczy w postaci ............................................................................................................................................ . (dokładny opis pobranej rzeczy)"
+    },
+    {
+     "type": "text",
+     "text": "Pobrana rzecz została zabezpieczona przez .................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................ . (sposób zabezpieczenia uniemożliwiający zastąpienie rzeczy inną)"
+    },
+    {
+     "type": "text",
+     "text": "................................... dnia ................................"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ ..........................................................."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ (nazwa i adres właściwej jednostki kontrolnej)"
+    },
+    {
+     "type": "text",
+     "text": "Protokół oględzin"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 39 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231,"
+    },
+    {
+     "type": "text",
+     "text": "poz. 1701, z późn. zm.) .................................................................................................................................................... (imię, nazwisko i stanowisko służbowe kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "działając w obecności ...................................................................................................................................................., (imię, nazwisko i stanowisko służbowe osoby uczestniczącej w oględzinach)"
+    },
+    {
+     "type": "text",
+     "text": "dokonał w dniu ..............................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "oględzin ..........................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................., (określenie obiektu, składników majątkowych, przebiegu czynności poddanych oględzinom)"
+    },
+    {
+     "type": "text",
+     "text": "w wyniku których ustalono, co następuje:"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................ ."
+    },
+    {
+     "type": "text",
+     "text": "W toku oględzin dokonano utrwalenia stanu ..............................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "za pomocą ......................................................................................................................................................................,"
+    },
+    {
+     "type": "text",
+     "text": "które stanowią załącznik do protokołu."
+    },
+    {
+     "type": "text",
+     "text": "........................................ dnia ...................................."
+    },
+    {
+     "type": "text",
+     "text": "............................................................................... ................................................"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ (nazwa i adres właściwej jednostki kontrolnej)"
+    },
+    {
+     "type": "text",
+     "text": "Protokół przyjęcia ustnych wyjaśnień"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 40 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231,"
+    },
+    {
+     "type": "text",
+     "text": "poz. 1701, z późn. zm.) .................................................................................................................................................... (imię, nazwisko i stanowisko służbowe kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "w dniu .............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "uprzedził ........................................................................................................................................................................... (imię, nazwisko oraz stanowisko służbowe składającego wyjaśnienia)"
+    },
+    {
+     "type": "text",
+     "text": "o treści art. 40 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli oraz przyjął od niego ustne"
+    },
+    {
+     "type": "text",
+     "text": "wyjaśnienia w sprawie .................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "o następującej treści:"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................ ."
+    },
+    {
+     "type": "text",
+     "text": "Przed podpisaniem składający wyjaśnienia zapoznał się z treścią protokołu."
+    },
+    {
+     "type": "text",
+     "text": "........................................ dnia .........................................."
+    },
+    {
+     "type": "text",
+     "text": ".................................................................... ...................................................................."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ (nazwa i adres właściwej jednostki kontrolnej)"
+    },
+    {
+     "type": "text",
+     "text": "Protokół przyjęcia ustnego oświadczenia"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 41 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231,"
+    },
+    {
+     "type": "text",
+     "text": "poz. 1701, z późn. zm.) .................................................................................................................................................... (imię, nazwisko i stanowisko służbowe kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "w dniu .............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "przyjął od .......................................................................................................................................................................... (imię i nazwisko składającego oświadczenie)"
+    },
+    {
+     "type": "text",
+     "text": "ustne oświadczenie w sprawie ......................................................................................................................................"
+    },
+    {
+     "type": "text",
+     "text": "o następującej treści:"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................ ."
+    },
+    {
+     "type": "text",
+     "text": "Przed podpisaniem składający oświadczenie zapoznał się z treścią protokołu."
+    },
+    {
+     "type": "text",
+     "text": "........................................ dnia .......................................... (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": ".................................................................... ...................................................................."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................. ............................... dnia ..................................... (nazwa i adres kontrolnej jednostki organizacyjnej) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": ".......................................................................................................................................................................................... (imię, nazwisko i stanowisko służbowe wzywającego)"
+    },
+    {
+     "type": "text",
+     "text": "Pani/Pan * .......................................................................................................................................................................... (imię i nazwisko wzywanego)"
+    },
+    {
+     "type": "text",
+     "text": ".......................................................................................................................................................................................... (dokładny adres)"
+    },
+    {
+     "type": "text",
+     "text": "Wezwanie"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 42 ust. 1, 2, 3 * ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701, z późn. zm.) wzywam Panią/Pana * do osobistego stawienia się w charakterze świadka w dniu"
+    },
+    {
+     "type": "text",
+     "text": "....................................... o godz. ............................ w .................................................................................................... (podać dokładnie miejsce stawienia się)"
+    },
+    {
+     "type": "text",
+     "text": "w celu złożenia zeznań w sprawie ............................................................................................................................... ."
+    },
+    {
+     "type": "text",
+     "text": "Uprzedzam Panią/Pana * , że zgodnie z art. 48 ust. 1 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli w razie niestawienia się na wezwanie bez uzasadnionej przyczyny może być na Panią/Pana * nałożona kara pieniężna w wysokości do 100/200 * zł."
+    },
+    {
+     "type": "text",
+     "text": "...................................................................."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ (nazwa i adres właściwej jednostki kontrolnej)"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................ (imię, nazwisko i stanowisko służbowe kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienie o nałożeniu kary pieniężnej"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 48 ust. 1 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r."
+    },
+    {
+     "type": "text",
+     "text": "Nr 231, poz. 1701, z późn. zm.) nakładam na Panią/Pana * ..........................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "zam. w .............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "karę pieniężną w wysokości .......................... zł (słownie złotych: ..............................................................................)"
+    },
+    {
+     "type": "text",
+     "text": "za niestawienie się bez uzasadnionej przyczyny na wezwanie w charakterze świadka w dniu ..............................."
+    },
+    {
+     "type": "text",
+     "text": "o godz. ......................................... w .............................................................................................................................. ."
+    },
+    {
+     "type": "text",
+     "text": "Od niniejszego postanowienia służy Pani/Panu * , w terminie 7 dni od daty jego otrzymania, zażalenie do dyrektora"
+    },
+    {
+     "type": "text",
+     "text": ".......................................................................................................................................................................................... (nazwa i adres jednostki organizacyjnej NIK delegującej kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "bezpośrednio lub za pośrednictwem wydającego niniejsze postanowienie."
+    },
+    {
+     "type": "text",
+     "text": "Złożenie zażalenia wstrzymuje wykonanie niniejszego postanowienia."
+    },
+    {
+     "type": "text",
+     "text": "Nałożoną karę pieniężną należy wpłacić w terminie 7 dni, licząc od dnia upływu terminu do złożenia zażalenia albo otrzymania ostatecznego postanowienia, do kasy"
+    },
+    {
+     "type": "text",
+     "text": ".........................................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "lub na konto ................................................................................................................................................................... ."
+    },
+    {
+     "type": "text",
+     "text": "Nieuiszczona w terminie kara pieniężna podlega egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji."
+    },
+    {
+     "type": "text",
+     "text": "........................................ dnia .......................................... ...................................................................."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 9",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................... (nazwa i adres właściwej jednostki kontrolnej)"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................... (imię, nazwisko i stanowisko służbowe uchylającego karę)"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienie o uchyleniu nałożonej kary pieniężnej"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 48 ust. 3, 4 * ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r."
+    },
+    {
+     "type": "text",
+     "text": "Nr 231, poz. 1701, z późn. zm.) uchylam postanowienie z dnia ..................................... o nałożeniu kary pieniężnej"
+    },
+    {
+     "type": "text",
+     "text": "na Panią/Pana * ................................................................................................................................................................"
+    },
+    {
+     "type": "text",
+     "text": ".......................................................................................................................................................................................... (imię, nazwisko i adres ukaranego)"
+    },
+    {
+     "type": "text",
+     "text": "za niestawienie się bez uzasadnionej przyczyny na wezwanie w charakterze świadka w dniu ..............................."
+    },
+    {
+     "type": "text",
+     "text": "o godz. ......................................... w .............................................................................................................................. ."
+    },
+    {
+     "type": "text",
+     "text": "........................................ dnia .......................................... .................................................................... (miejscowość) (podpis uchylającego karę)"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 10",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................... (nazwa i adres kontrolnej jednostki organizacyjnej)"
+    },
+    {
+     "type": "text",
+     "text": "Protokół przesłuchania świadka"
+    },
+    {
+     "type": "text",
+     "text": ".......................................................................................................................................................................................... (imię, nazwisko i stanowisko służbowe przesłuchującego)"
+    },
+    {
+     "type": "text",
+     "text": "działając na podstawie art. 42 ust. 1, 2 * ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r. Nr 231, poz. 1701, z późn. zm.), przesłuchał niżej wymienionego w charakterze świadka."
+    },
+    {
+     "type": "text",
+     "text": "Uprzedzony o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy (art. 233 Kodeksu karnego) i zapoznany z treścią art. 43—45 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli świadek zeznaje, co następuje:"
+    },
+    {
+     "type": "text",
+     "text": ".................................................................................................................... (imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": ".................................................................................................................... (imiona rodziców)"
+    },
+    {
+     "type": "text",
+     "text": ".................................................................................................................... (data i miejsce urodzenia)"
+    },
+    {
+     "type": "text",
+     "text": ".................................................................................................................... (miejsce zamieszkania)"
+    },
+    {
+     "type": "text",
+     "text": ".................................................................................................................... (zajmowane stanowisko (zajęcie))"
+    },
+    {
+     "type": "text",
+     "text": ".........................................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................ ."
+    },
+    {
+     "type": "text",
+     "text": "W protokole dokonano następujących sprostowań i uzupełnień:"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................ ."
+    },
+    {
+     "type": "text",
+     "text": "Przed podpisaniem świadek odczytał protokół/na żądanie świadka protokół został mu odczytany * ."
+    },
+    {
+     "type": "text",
+     "text": "........................................ dnia .........................................."
+    },
+    {
+     "type": "text",
+     "text": "............................................................. ............................................................."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 11",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................... .................................. dnia .......................................... (nazwa i adres właściwej jednostki kontrolnej) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienie o powołaniu biegłego"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 49 ust. 1 i 2 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r."
+    },
+    {
+     "type": "text",
+     "text": "Nr 231, poz. 1701, z późn. zm.) powołuję biegłego z dziedziny ..................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".........................................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "w osobie ..........................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "dla zbadania ..................................................................................................................................................................... (podać przedmiot i zakres badań)"
+    },
+    {
+     "type": "text",
+     "text": "oraz sporządzenia szczegółowego sprawozdania z przeprowadzonych badań i wydania na ich podstawie opinii"
+    },
+    {
+     "type": "text",
+     "text": "w terminie do dnia ................................................ ."
+    },
+    {
+     "type": "text",
+     "text": ".................................................................... (podpis dyrektora)"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 12",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższa Izba Kontroli"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................... ........................................ dnia .......................................... (nazwa i adres właściwej jednostki kontrolnej) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "................................................................................... (imię, nazwisko i stanowisko służbowe kontrolera)"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienie o powołaniu specjalisty do udziału w czynnościach badawczych"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 49 ust. 4 i 5 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2007 r."
+    },
+    {
+     "type": "text",
+     "text": "Nr 231, poz. 1701, z późn. zm.) powołuję specjalistę w dziedzinie ............................................................................."
+    },
+    {
+     "type": "text",
+     "text": "w osobie ........................................................................................................................................... do uczestniczenia"
+    },
+    {
+     "type": "text",
+     "text": "w dniu/dniach * ................................ w .......................................................................................................................... . (miejsce i przedmiot czynności badawczych, w których ma uczestniczyć specjalista)"
+    },
+    {
+     "type": "text",
+     "text": ".................................................................... (podpis kontrolera)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 209, poz. 1315, Nr 225, poz. 1502 i Nr 227, poz. 1505 oraz z 2010 r. Nr 182, poz. 1228, Nr 227, poz. 1482 i Nr 238, poz. 1578. (okrągła pieczęć) (pieczęć i podpis osoby wydającej upoważnienie) (okrągła pieczęć) (pieczęć i podpis osoby przedłużającej upoważnienie) * Niepotrzebne skreślić. (podpis kontrolera) Pouczenie: O zwolnieniu materiałów dowodowych spod zabezpieczenia decyduje kontroler, a w razie jego odmowy — dyrektor właściwej jednostki organizacyjnej Najwyższej Izby Kontroli (art. 36 ust. 2 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli). (miejscowość) (podpis osoby uczestniczącej w pobraniu rzeczy) (podpis kontrolera) (miejscowość) (podpis osoby uczestniczącej w oględzinach) (podpis kontrolera) (miejscowość) (podpis osoby składającej wyjaśnienia) (podpis kontrolera) (podpis osoby składającej oświadczenie) (podpis kontrolera) (podpis wzywającego) * Niepotrzebne skreślić. (podać nazwę i adres jednostki organizacyjnej NIK) (podać nazwę i nr konta) (miejscowość) (podpis kontrolera) * Niepotrzebne skreślić. * Niepotrzebne skreślić. (treść zeznań świadka) (miejscowość) (podpis przesłuchującego) (podpis świadka) * Niepotrzebne skreślić. * Niepotrzebne skreślić."
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "eli": "MP/2011/6",
+ "title": "Uchwała Nr 215 Rady Ministrów z dnia 21 grudnia 2010 r. zmieniająca uchwałę - Regulamin pracy Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/6/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 215 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 grudnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę — Regulamin pracy Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 49 Rady Ministrów z dnia 19 marca 2002 r. — Regulamin pracy Rady Ministrów (M. P. Nr 13, poz. 221, z późn. zm.[^1]) po § 11 dodaje się § 11a w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 11a.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Projekty założeń projektów ustaw oraz projekty aktów normatywnych oraz wszelkie dokumenty dotyczące prac nad tymi projektami udostępnia się w Biuletynie Informacji Publicznej Rządowego Centrum Legislacji.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Projekty i dokumenty, o których mowa w ust. 1, udostępniają:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) organ wnioskujący,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) s ekretarz Komitetu Rady Ministrów do Spraw Informatyzacji i Łączności, w zakresie wniesionych do rozpatrzenia przez Komitet Rady Ministrów do Spraw Informatyzacji i Łączności projektów aktów normatywnych i założeń projektów ustaw,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) sekretarz stałego komitetu Rady Ministrów, w zakresie wniesionych do rozpatrzenia przez stały komitet Rady Ministrów projektów aktów normatywnych i założeń projektów ustaw,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) sekretarz Komitetu do Spraw Europejskich, w zakresie wniesionych do rozpatrzenia przez Komitet do Spraw Europejskich projektów aktów normatywnych i założeń projektów ustaw,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5) P rezes Rządowego Centrum Legislacji, w zakresie skierowanych do rozpatrzenia przez Komisję Prawniczą projektów aktów normatywnych,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6) s ekretarz Rady Ministrów, w zakresie:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) wniesionych do rozpatrzenia przez Radę Ministrów projektów aktów normatywnych i założeń projektów ustaw,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) skierowanych do Sejmu projektów ustaw,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) skierowanych do podpisu Prezesa Rady Ministrów projektów rozporządzeń.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepis § 11a uchwały, o której mowa w § 1, w brzmieniu nadanym niniejszą uchwałą stosuje się do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "projektów ustaw, projektów rozporządzeń Rady Ministrów, projektów rozporządzeń Prezesa Rady Ministrów oraz projektów założeń projektów ustaw kierowanych do uzgodnień od dnia 1 lutego 2011 r.;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "projektów rozporządzeń ministrów kierowanych do uzgodnień od dnia 1 lipca 2011 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem 1 lutego 2011 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej uchwały zostały ogłoszone w M. P. z 2002 r. Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734, z 2005 r. Nr 55, poz. 757, z 2006 r. Nr 40, poz. 439, z 2009 r. Nr 20, poz. 246 oraz z 2010 r. Nr 5, poz. 47."
+ }
+}

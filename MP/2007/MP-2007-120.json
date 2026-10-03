@@ -1,0 +1,47 @@
+{
+ "eli": "MP/2007/120",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 15 lutego 2007 r. zmieniająca uchwałę w sprawie ustalenia wzorów kart do głosowania w wyborach wójtów, burmistrzów i prezydentów miast",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/120/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 lutego 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustalenia wzorów kart do głosowania w wyborach wójtów, burmistrzów i prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 5 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 2 października 2006 r. w sprawie ustalenia wzorów kart do głosowania w wyborach wójtów, burmistrzów i prezydentów miast (M. P. Nr 70, poz. 711) w § 2 po wyrazach „w § 1” stawia się kropkę, a wyrazy „i drukowana na papierze koloru różowego w formacie A-6.” skreśla się.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: w z. J. Kacprzak"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162."
+ }
+}

@@ -1,0 +1,475 @@
+{
+ "eli": "MP/2008/776",
+ "title": "Zarządzenie Nr 127 Prezesa Rady Ministrów z dnia 21 listopada 2008 r. w sprawie powołania Zespołu do współpracy przy realizacji zadań związanych z koordynacją uznawania kwalifikacji w zawodach regulowanych i działalnościach",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/776/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 127 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 listopada 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Zespołu do współpracy przy realizacji zadań związanych z koordynacją uznawania kwalifikacji w zawodach regulowanych i działalnościach"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 3 ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. Nr 63, poz. 394) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Powołuje się Zespół do współpracy z ministrem właściwym do spraw szkolnictwa wyższego albo osobą wyznaczoną do pełnienia funkcji koordynatora, zwanymi dalej „koordynatorem”, w sprawach związanych z uznawaniem kwalifikacji w zawodach regulowanych i działalnościach, zwany dalej „Zespołem”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "inicjowanie, przygotowywanie i uzgadnianie działań zapewniających jednolite stosowanie ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "analizowanie stosowania i skuteczności obowiązujących i projektowanych aktów prawnych określających wymogi dotyczące zawodów regulowanych i działalności;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "analizowanie przedstawianych przez koordynatora informacji o postępowaniach w sprawach uznawania kwalifikacji zawodowych, na podstawie informacji uzyskanych od właściwych organów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "opracowywanie projektów wniosków, propozycji i stanowisk dla celów współpracy między państwami członkowskimi Unii Europejskiej i Komisją Europejską w sprawach związanych z uznawaniem kwalifikacji zawodowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "współpraca z Biurem Uznawalności Wykształcenia i Wymiany Międzynarodowej, wykonującym zadania ośrodka informacji właściwego w sprawach związanych z uznawaniem kwalifikacji zawodowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "współpraca z organizacjami zawodowymi w zakresie działań zapewniających jednolite stosowanie ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "zapewnianie przepływu informacji w sprawach związanych z problematyką uznawania kwalifikacji w zawodach regulowanych i działalnościach do właściwych organów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "rozpatrywanie innych spraw związanych z systemem uznawania kwalifikacji zawodowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący — koordynator;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "członkowie wyznaczeni przez Ministra Sprawiedliwości oraz ministrów właściwych do spraw:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "administracji publicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "budownictwa, gospodarki przestrzennej i mieszkaniowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "finansów publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_2/lit_d",
+         "text": "gospodarki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_2/lit_e",
+         "text": "gospodarki morskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_2/lit_f",
+         "text": "gospodarki wodnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_2/lit_g",
+         "text": "instytucji finansowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_2/lit_h",
+         "text": "kultury fizycznej i sportu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_2/lit_i",
+         "text": "kultury i ochrony dziedzictwa narodowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/ust_1/pkt_2/lit_j",
+         "text": "łączności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_3/ust_1/pkt_2/lit_k",
+         "text": "oświaty i wychowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_3/ust_1/pkt_2/lit_l",
+         "text": "pracy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_3/ust_1/pkt_2/lit_m",
+         "text": "rynków rolnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_3/ust_1/pkt_2/lit_n",
+         "text": "środowiska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "par_3/ust_1/pkt_2/lit_o",
+         "text": "transportu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "p",
+         "path": "par_3/ust_1/pkt_2/lit_p",
+         "text": "turystyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "r",
+         "path": "par_3/ust_1/pkt_2/lit_r",
+         "text": "wewnętrznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "s",
+         "path": "par_3/ust_1/pkt_2/lit_s",
+         "text": "zabezpieczenia społecznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "t",
+         "path": "par_3/ust_1/pkt_2/lit_t",
+         "text": "zdrowia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W posiedzeniach Zespołu uczestniczą przedstawiciele Biura Uznawalności Wykształcenia i Wymiany Międzynarodowej, Naczelnej Rady Adwokackiej, Naczelnej Rady Aptekarskiej, Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych, Krajowej Rady Izby Architektów, Krajowej Rady Lekarsko-Weterynaryjnej i Krajowej Rady Radców Prawnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przewodniczący może zapraszać inne osoby do udziału w pracach Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Osoby, o których mowa w ust. 2, oraz osoby zaproszone do udziału w pracach Zespołu, o których mowa w ust. 3, nie mają prawa głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Pracami Zespołu kieruje przewodniczący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Do zadań przewodniczącego należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "zwoływanie posiedzeń Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "prowadzenie posiedzeń Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "ustalanie porządku posiedzeń Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_2/pkt_4",
+       "text": "planowanie i organizowanie pracy Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_2/pkt_5",
+       "text": "powoływanie grup roboczych, o których mowa w § 6.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Zespół wykonuje swoje zadania na posiedzeniach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Posiedzenia Zespołu są zwoływane z inicjatywy przewodniczącego albo na wniosek co najmniej połowy członków Zespołu, co najmniej dwa razy w roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Członkowie Zespołu oraz osoby, o których mowa w § 3 ust. 2 i 3, są powiadamiani pisemnie o miejscu, terminie i planowanym porządku posiedzenia Zespołu co najmniej 7 dni przed planowanym terminem posiedzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Przewodniczący może powoływać grupy robocze składające się z członków Zespołu lub osób, o których mowa w § 3 ust. 2 i 3, i powierzać im opracowywanie tematów i wykonywanie analiz niezbędnych do realizacji zadań Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W sprawach określonych w § 2 Zespół może podejmować uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Uchwały są podejmowane zwykłą większością głosów w obecności co najmniej połowy członków Zespołu. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Z posiedzeń Zespołu sporządza się protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Protokół podpisuje przewodniczący.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Obsługę administracyjną i kancelaryjną Zespołu wykonuje urząd obsługujący ministra właściwego do spraw szkolnictwa wyższego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Obsługa administracyjna i kancelaryjna Zespołu obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "przygotowywanie materiałów na posiedzenia Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "sporządzanie protokołów z posiedzeń Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "wykonywanie innych czynności związanych z działalnością Zespołu, w tym czynności technicznych i kancelaryjno-biurowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

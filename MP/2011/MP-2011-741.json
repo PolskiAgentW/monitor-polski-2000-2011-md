@@ -1,0 +1,499 @@
+{
+ "eli": "MP/2011/741",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 1 sierpnia 2011 r. w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/741/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 sierpnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 61g § 6 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Koperta na pakiet wyborczy powinna mieć rozmiar umożliwiający włożenie do niej, bez konieczności składania i zaginania, koperty zwrotnej, koperty na kartę do głosowania, formularza oświadczenia o osobistym i tajnym oddaniu głosu, instrukcji głosowania korespondencyjnego oraz nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Na kopercie na pakiet wyborczy umieszcza się pieczęć nagłówkową urzędu gminy, adres wyborcy, dla którego przeznaczony jest pakiet wyborczy, oznaczenie „PRZESYŁKA WYBORCZA” oraz informację o zwolnieniu z opłaty pocztowej. Na kopercie nie umieszcza się żadnych innych oznaczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W przypadku doręczania do wyborcy pakietu wyborczego przez upoważnionego pracownika urzędu gminy, na kopercie na pakiet wyborczy nie umieszcza się informacji o zwolnieniu z opłaty pocztowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Przepis ust. 2 zdanie drugie nie dotyczy pieczęci i adnotacji operatora publicznego, o którym mowa w art. 61f § 3 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy, zwanej dalej „Kodeksem wyborczym”, przyjmującego i doręczającego przesyłkę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "Koperty na pakiet wyborczy przekazywane przez daną gminę wyborcom głosującym korespondencyjnie nie mogą różnić się między sobą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_1/ust_6",
+     "text": "Wzór koperty na pakiet wyborczy stanowi załącznik nr 1 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Koperta zwrotna, o której mowa w art. 61g § 1 pkt 1 Kodeksu wyborczego, powinna mieć rozmiar umożliwiający włożenie do niej, bez konieczności składania i zaginania, koperty na kartę do głosowania oraz oświadczenia o osobistym i tajnym oddaniu głosu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Na kopercie zwrotnej umieszcza się adres obwodowej komisji wyborczej, dla której przeznaczona jest przesyłka, oznaczenie „PRZESYŁKA WYBORCZA” oraz informację o zwolnieniu z opłaty pocztowej. Na kopercie nie umieszcza się żadnych innych oznaczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Przepis ust. 2 zdanie drugie nie dotyczy pieczęci i adnotacji operatora publicznego, o którym mowa w § 1 ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Koperty zwrotne przekazywane przez daną gminę wyborcom głosującym korespondencyjnie nie mogą różnić się między sobą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Wzór koperty zwrotnej stanowi załącznik nr 2 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Koperta na kartę do głosowania, o której mowa w art. 61g § 1 pkt 3 Kodeksu wyborczego, ma, w zależności od przeprowadzanych wyborów oraz liczby i formatu stosowanych w nich kart do głosowania, rozmiar umożliwiający włożenie do niej, bez konieczności zaginania, kart do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Koperta na kartę do głosowania wykonywana jest w sposób uniemożliwiający, bez jej otwarcia, odczytanie treści znajdującej się wewnątrz karty do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Koperta na kartę do głosowania, w miarę możliwości, powinna być koloru białego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Na kopercie na kartę do głosowania umieszcza się oznaczenie „Koperta na kartę do głosowania”. Rodzaj i wielkość czcionki dla oznaczenia, o którym mowa w zdaniu pierwszym, musi być jednakowa dla wszystkich kopert. Na kopercie nie umieszcza się żadnych innych oznaczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Koperty na kartę do głosowania przekazywane przez daną gminę wyborcom głosującym korespondencyjnie nie mogą różnić się między sobą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_3/ust_6",
+     "text": "Wzór koperty na kartę do głosowania stanowi załącznik nr 3 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Oświadczenie o osobistym i tajnym oddaniu głosu, o którym mowa w art. 61g § 1 pkt 6 Kodeksu wyborczego, sporządza się na karcie koloru białego, formatu A-5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Urząd gminy przygotowuje druk oświadczenia, na którym umieszcza imię (imiona), nazwisko i numer ewidencyjny PESEL wyborcy oraz nazwę i datę przeprowadzanych wyborów, a także miejsce na wpisanie nazwy miejscowości, w której wyborca sporządza oświadczenie, i daty jego sporządzenia oraz miejsce na własnoręczny podpis wyborcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Wzór oświadczenia o osobistym i tajnym oddaniu głosu stanowi załącznik nr 4 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Instrukcję głosowania, o której mowa w art. 61g § 1 pkt 4 Kodeksu wyborczego, sporządza się na karcie formatu A-4, czcionką o rozmiarze nie mniejszym niż 14 pkt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W przypadku gdy pakiet wyborczy przesyłany jest do wyborcy, który wystąpił o przesłanie nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a, poza instrukcją głosowania, o której mowa w ust. 1, wyborcy przesyła się również tę instrukcję sporządzoną w alfabecie Braille’a.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Urząd gminy sporządza instrukcję głosowania zgodnie z pouczeniem zawartym we wzorze. Treść pouczenia pomija się w instrukcji przesyłanej wyborcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Wzór instrukcji głosowania stanowi załącznik nr 5 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: wz. K. Czaplicki"
+    },
+    {
+     "type": "text",
+     "text": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 1 sierpnia 2011 r. (poz. 741)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR KOPERTY NA PAKIET WYBORCZY"
+    },
+    {
+     "type": "text",
+     "text": "Przesyłka zwolniona z opłaty pocztowej na podstawie art. 61i § 3 Kodeksu wyborczego (Dz. U. Nr 21, poz. 112, z późn. zm.) *"
+    },
+    {
+     "type": "text",
+     "text": "(miejsce na pieczęć nagłówkową urzędu gminy)"
+    },
+    {
+     "type": "text",
+     "text": "PRZESYŁKA WYBORCZA"
+    },
+    {
+     "type": "text",
+     "text": "……………........................……...………….…"
+    },
+    {
+     "type": "text",
+     "text": "……………........................…………...………."
+    },
+    {
+     "type": "text",
+     "text": "………………........................………………...."
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR KOPERTY ZWROTNEJ"
+    },
+    {
+     "type": "text",
+     "text": "Przesyłka zwolniona z opłaty pocztowej na podstawie art. 61i § 3 Kodeksu wyborczego (Dz. U. Nr 21, poz. 112, z późn. zm.)"
+    },
+    {
+     "type": "text",
+     "text": "PRZESYŁKA WYBORCZA"
+    },
+    {
+     "type": "text",
+     "text": "Obwodowa Komisja Wyborcza Nr …......."
+    },
+    {
+     "type": "text",
+     "text": "w ……………………………................………."
+    },
+    {
+     "type": "text",
+     "text": "………………........................……………….... (adres obwodowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "……………........................…………...………."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 3"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR KOPERTY NA KARTĘ DO GŁOSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "Koperta na kartę do głosowania"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR OŚWIADCZENIA O OSOBISTYM I TAJNYM ODDANIU GŁOSU"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczenie o osobistym i tajnym oddaniu głosu"
+    },
+    {
+     "type": "text",
+     "text": "Ja, ……………………………...…..................................................….., * (imię-imiona i nazwisko wyborcy)"
+    },
+    {
+     "type": "text",
+     "text": "numer ewidencyjny PESEL *"
+    },
+    {
+     "type": "text",
+     "text": "oświadczam, że osobiście i w sposób tajny oddałem(-am) głos w wyborach ……………………………......………… * (nazwa przeprowadzanych wyborów)"
+    },
+    {
+     "type": "text",
+     "text": "zarządzonych na dzień ………………………………........…………… * . (data wyborów)"
+    },
+    {
+     "type": "text",
+     "text": "……………………, …………… ** (miejscowość, data)"
+    },
+    {
+     "type": "text",
+     "text": "…………………….…………… ** (podpis wyborcy)"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR INSTRUKCJI GŁOSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "Instrukcja głosowania"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wyborca otrzymuje pakiet wyborczy zawierający:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "zaadresowaną kopertę zwrotną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "kartę do głosowania * /karty do głosowania * ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "kopertę na kartę do głosowania * /na karty do głosowania * ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "oświadczenie o osobistym i tajnym oddaniu głosu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "niniejszą instrukcję.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Pakiet wyborczy, na żądanie wyborcy, może zawierać również nakładkę na kartę do głosowania sporządzoną w alfabecie Braille’a."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Na karcie do głosowania wyborca oddaje głos, w sposób określony w informacji znajdującej się w dolnej części karty do głosowania. Należy pamiętać, że znakiem „x” są dwie linie przecinające się w obrębie kratki przeznaczonej na oddanie głosu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Po oddaniu głosu należy kartę do głosowania * / karty do głosowania * umieścić w kopercie oznaczonej „Koperta na kartę do głosowania” i kopertę tę zakleić. Niezaklejenie koperty na kartę do głosowania spowoduje, że karta/karty do głosowania w niej się znajdujące nie będzie/będą uwzględniona/ne przy ustalaniu wyników głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zaklejoną kopertę na kartę do głosowania należy włożyć do koperty zwrotnej zaadresowanej na adres obwodowej komisji wyborczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Do koperty zwrotnej należy także włożyć oświadczenie o osobistym i tajnym oddaniu głosu. Przed włożeniem oświadczenia do koperty należy wpisać na nim miejscowość i datę jego sporządzenia oraz własnoręcznie je podpisać. Jeżeli wyborca nie może lub nie umie złożyć podpisu, oświadczenie podpisuje za niego inna osoba przez niego upoważniona, czyniąc o tym wzmiankę obok podpisu; w takim przypadku osoba upoważniona wpisuje również nazwę miejscowości i datę sporządzenia oświadczenia. Niewłożenie oświadczenia do koperty zwrotnej lub niepodpisanie go spowoduje, że karta do głosowania nie będzie uwzględniona przy ustalaniu wyników głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Kopertę zwrotną należy zakleić i nadać na adres obwodowej komisji wyborczej. Nadanie polega na przekazaniu koperty zwrotnej przedstawicielowi Poczty Polskiej, w miejscu zamieszkania wyborcy głosującego korespondencyjnie. Przedstawiciel Poczty Polskiej wyda wyborcy dowód nadania. Nadanie koperty zwrotnej może nastąpić nie później niż ostatniego roboczego dnia przed dniem wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Wyborca może, do czasu zakończenia głosowania, osobiście dostarczyć kopertę zwrotną do obwodowej komisji wyborczej, której adres znajduje się na kopercie zwrotnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W przypadku gdy w jednym dniu odbywają się więcej niż jedne wybory, w których wyborca zgłosił zamiar głosowania korespondencyjnego, wyborca otrzymuje — w jednej przesyłce — tyle pakietów wyborczych, w ilu wyborach głosuje korespondencyjnie. W takim przypadku czynności, o których mowa w instrukcji, należy wykonać odrębnie dla każdych z przeprowadzanych wyborów.",
+     "children": []
+    },
+    {
+     "type": "signature",
+     "text": "* Należy pamiętać, że jeżeli wyborca głosuje korespondencyjnie zarówno w wyborach do Sejmu Rzeczypospolitej Polskiej, jak i do Senatu Rzeczypospolitej Polskiej, wówczas karty do głosowania w tych wyborach wkłada do jednej koperty na karty do głosowania. *"
+    },
+    {
+     "type": "text",
+     "text": "Pouczenie dla urzędu gminy (nie drukować na instrukcji):"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W przypadku wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, jeżeli wyborca zadeklarował zamiar wzięcia udziału zarówno w wyborach do Sejmu, jak i do Senatu, w miejscach oznaczonych „*” należy wpisać treść w liczbie mnogiej, a w przypadku gdy zadeklarował zamiar wzięcia udziału tylko w wyborach do Sejmu lub tylko w wyborach do Senatu — w liczbie pojedynczej. Analogicznie należy postąpić w przypadku wyborów do organów jednostek samorządu terytorialnego. W przypadku wyborów Prezydenta Rzeczypospolitej Polskiej i wyborów do Parlamentu Europejskiego w miejscach tych należy wpisać treść w liczbie pojedynczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Punkt 8 instrukcji należy umieszczać tylko w przypadku, gdy w jednym dniu odbywają się więcej niż jedne wybory. Nie dotyczy to jednakże przypadku, gdy odbywają się wyłącznie wybory do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej lub wybory do organów jednostek samorządu terytorialnego. Zdanie oznaczone „ ** ” umieszcza się tylko w przypadku, gdy w tym samym dniu przeprowadzane są wybory do Sejmu i do Senatu oraz wybory Prezydenta Rzeczypospolitej Polskiej i/lub wybory do Parlamentu Europejskiego .",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889 i Nr 171, poz. 1016. (adres wyborcy) * Informacji nie umieszcza się w przypadku doręczania do wyborcy pakietu wyborczego przez upoważnionego pracownika urzędu gminy. * Wypełnia urząd gminy. ** Jeżeli wyborca nie może lub nie umie złożyć podpisu, oświadczenie podpisuje za niego inna osoba przez niego upoważniona, czyniąc o tym wzmiankę obok podpisu; w takim przypadku osoba upoważniona wpisuje również nazwę miejscowości i datę sporządzenia oświadczenia."
+ }
+}

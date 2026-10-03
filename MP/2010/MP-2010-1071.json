@@ -1,0 +1,140 @@
+{
+ "eli": "MP/2010/1071",
+ "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 1 grudnia 2010 r. zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1071/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 grudnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 143 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Kancelarii Prezydenta Rzeczypospolitej Polskiej stanowiącym załącznik do zarządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 28 marca 2006 r. w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej (M. P. Nr 49, poz. 526, z późn. zm.[^1]) w § 5 wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "uchyla się pkt 5,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "po pkt 5 dodaje się pkt 5a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5a) Biuro Projektów Programowych;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "uchyla się pkt 9,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "po pkt 9 dodaje się pkt 9a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„9a) Biuro Współpracy Instytucjonalnej;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "uchyla się pkt 11,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_1/lit_f",
+       "text": "pkt 16 i 17 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„16) Biuro Ochrony i Informatyki;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "17) Archiwum Prezydenta Rzeczypospolitej Polskiej.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Statutowymi komórkami organizacyjnymi Kancelarii kierują dyrektorzy.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej przeprowadzi reorganizację Kancelarii związaną ze zmniejszeniem liczby etatów i nową strukturą jej statutowych komórek organizacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionego zarządzenia zostały ogłoszone w M. P. z 2006 r. Nr 60, poz. 634 i Nr 69, poz. 704, z 2007 r. Nr 12, poz. 121, z 2008 r. Nr 4, poz. 44, z 2009 r. Nr 8, poz. 77 i Nr 21, poz. 264 oraz z 2010 r. Nr 72, poz. 914."
+ }
+}

@@ -1,0 +1,378 @@
+{
+ "eli": "MP/2005/858",
+ "title": "Zarządzenie Nr 100 Prezesa Rady Ministrów z dnia 20 października 2005 r. w sprawie utworzenia Zespołu do Spraw Światowej Organizacji Handlu (WTO)",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/858/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 100 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 października 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia Zespołu do Spraw Światowej Organizacji Handlu (WTO)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Zespół do Spraw Światowej Organizacji Handlu (WTO), zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do zadań Zespołu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "analizowanie stanu prac w ramach Światowej Organizacji Handlu (WTO), w tym w szczególności stanu negocjacji Nowej Rundy Wielostronnych Negocjacji Handlowych WTO;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "opiniowanie propozycji ramowego stanowiska Polski w sprawach prac WTO, w tym stanowiska w sprawie negocjacji Nowej Rundy Wielostronnych Negocjacji Handlowych WTO, a także proponowanie zmian w tych stanowiskach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "opiniowanie propozycji stanowisk cząstkowych, uzupełniających stanowiska, o których mowa w ust. 2, a także proponowanie zmian w tych stanowiskach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "wspomaganie Pełnomocnika Rządu do Spraw Światowej Organizacji Handlu (WTO).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zespół, realizując zadania, o których mowa w ust. 1, kieruje się „Stanowiskiem Polski w Negocjacjach Nowej Rundy Doha Światowej Organizacji Handlu”, przyjętym przez Radę Ministrów oraz stanowiskami cząstkowymi zatwierdzonymi przez stały komitet Rady Ministrów, właściwy w sprawach związanych z członkostwem Polski w Unii Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Przewodniczący Zespołu przedstawia do zatwierdzenia Radzie Ministrów propozycje zmian w stanowisku, o którym mowa w ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Przewodniczący Zespołu przedstawia Radzie Ministrów lub stałemu komitetowi Rady Ministrów właściwemu w sprawach związanych z członkostwem Polski w Unii Europejskiej do zatwierdzenia propozycje stanowisk cząstkowych oraz propozycje ich zmian, uzupełniających stanowisko, o którym mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący — Pełnomocnik Rządu do Spraw Światowej Organizacji Handlu (WTO) ustanowiony na podstawie odrębnych przepisów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "trzech wiceprzewodniczących:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "podsekretarz stanu w Ministerstwie Spraw Zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "podsekretarz stanu w Ministerstwie Rolnictwa i Rozwoju Wsi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "sekretarz lub podsekretarz stanu w Urzędzie Komitetu Integracji Europejskiej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "członkowie wyznaczeni przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "ministra właściwego do spraw gospodarki — 4 przedstawicieli, w tym sekretarz Zespołu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "ministra właściwego do spraw zagranicznych — 3 przedstawicieli,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_3/lit_c",
+         "text": "ministra właściwego do spraw rolnictwa — 2 przedstawicieli,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_3/lit_d",
+         "text": "ministra właściwego do spraw finansów publicznych — 1 przedstawiciel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_3/lit_e",
+         "text": "ministra właściwego do spraw Skarbu Państwa — 1 przedstawiciel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_3/lit_f",
+         "text": "ministra właściwego do spraw środowiska — 1 przedstawiciel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_3/lit_g",
+         "text": "Prezesa Urzędu Ochrony Konkurencji i Konsumentów — 1 przedstawiciel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_3/lit_h",
+         "text": "Prezesa Urzędu Zamówień Publicznych — 1 przedstawiciel",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_3/lit_i",
+         "text": "Sekretarza Komitetu Integracji Europejskiej — 1 przedstawiciel;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "Stały Przedstawiciel Rzeczypospolitej Polskiej przy Światowej Organizacji Handlu (WTO) w Genewie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "Przedstawiciel Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej w Brukseli, odpowiedzialny za problematykę WTO.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Sekretarzem Zespołu jest dyrektor Departamentu w Ministerstwie Gospodarki i Pracy, odpowiedzialny za udział Polski w pracach Światowej Organizacji Handlu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przewodniczący:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "zwołuje posiedzenia Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "przewodniczy posiedzeniom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "wyznacza osobę prowadzącą posiedzenia Zespołu, w przypadku swojej nieobecności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "ustala każdorazowo, w porozumieniu z ministrem właściwym do spraw zagranicznych, skład polskiej delegacji uczestniczącej w negocjacjach na forum Światowej Organizacji Handlu (WTO).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Z posiedzeń Zespołu sporządza się protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Szczegółowy tryb pracy Zespołu określa regulamin ustalony przez Przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Przewodniczący Zespołu składa Prezesowi Rady Ministrów roczne sprawozdania z działalności Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu realizacji zadania określonego w § 2 ust. 1, Zespół może tworzyć podzespoły i grupy robocze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W pracach podzespołów i grup roboczych, o których mowa w ust. 1, mogą brać udział osoby niebędące członkami Zespołu, zaproszone przez przewodniczącego Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Organy administracji rządowej są obowiązane do współdziałania i udzielania pomocy Zespołowi w realizacji jego zadań.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Obsługę Zespołu zapewnia Ministerstwo Gospodarki i Pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Traci moc zarządzenie nr 47 Prezesa Rady Ministrów z dnia 5 kwietnia 2002 r. w sprawie utworzenia Zespołu do Spraw Negocjacji w ramach Światowej Organizacji Handlu (WTO).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1414."
+ }
+}

@@ -1,0 +1,390 @@
+{
+ "eli": "MP/2009/196",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 10 marca 2009 r. w sprawie wzorów protokołów: głosowania w obwodzie oraz wyników głosowania w rejonie i w okręgu wyborczym, stosowanych w wyborach posłów do Parlamentu Europejskiego",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/196/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 marca 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów protokołów: głosowania w obwodzie oraz wyników głosowania w rejonie i w okręgu wyborczym, stosowanych w wyborach posłów do Parlamentu Europejskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 115 ust. 7, art. 121 ust. 7 i art. 123 ust. 8 ustawy z dnia 23 stycznia 2004 r. — Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 1 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzór protokołu wyników głosowania w rejonie, stanowiący załącznik nr 2 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wzór protokołu wyników głosowania w okręgu wyborczym, stanowiący załącznik nr 3 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 29 marca 2004 r. w sprawie wzorów protokołów: głosowania w obwodzie oraz wyników głosowania w rejonie i w okręgu wyborczym, stosowanych w wyborach posłów do Parlamentu Europejskiego (M. P. Nr 16, poz. 276).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zastępca Przewodniczącego Państwowej"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Komisji Wyborczej: J. Kacprzak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 10 marca 2009 r. (poz. 196) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ RER (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ ARE (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Razem"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem ”) równa się liczbie głosów ważnych oddanych na tę listę. Wyjątek od tej zasady moze dotyczyć listy, na której znajduje się nazwisko kandydata skreślonego z listy. Micjsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ — (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: LITTTI Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ ME (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem ”) równa się liczbie głosów ważnych oddanych na tę listę. Wyjątek od tej zasady może dotyczyć listy, na której znajduje się nazwisko kandydata skreślonego z listy."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "MI. UWAGI I ADNOTACJE"
+    },
+    {
+     "type": "ocr",
+     "text": "11. Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb z pkt 3 i 4a liczbą z pkt 2; jeżeli różnica nie występuje, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "12,7? Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt 5 a liczbą z pkt 3; jeżeli różnica nie występuje, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "13. W trakcie głosowania wydano następujące zarządzenia; jeżeli nie wydane, wpisać „brak zarządzeń”:"
+    },
+    {
+     "type": "ocr",
+     "text": "14.7? Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych zarzutów”; jeżeli nie ma, wpisać „zarzutów nie zgłoszono ':"
+    },
+    {
+     "type": "ocr",
+     "text": "15.7 Adnotacja o wniesieniu przez członków Komisji uwag z wymienieniem konkretnych zarzutów \"\"; jeżeli nie ma, wpisać ,,ZarzutGw nic ZgłoSZONo taaa csescsesececsssesenscceaessssasssuenssesassssssasesesassssasseeesaeeeaesceaessiateeeeaeeeess"
+    },
+    {
+     "type": "ocr",
+     "text": "16. Inne uwagi; jeżeli nie ma, wpisać „brak WWag”: aaa aaa ca"
+    },
+    {
+     "type": "ocr",
+     "text": "1) 2) Ba NN ON ON U NN AN O NN 10) 11)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) ay Niepotrzebne skreślić lub pominąć. Jeżeli treść dotycząca danego punkt protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. ' W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji wobec zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ EA (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | | Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Razem"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ A (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: (| ttt. Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "10."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) równa się liczbie głosów ważnych oddanych na tę listę. Wyjątck od tej zasady moze dotyczyć listy, na której znajduje się nazwisko kandydata skreślonego z listy. Miejsce na parafowanie strony przez członków Komisji obcenych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ OE (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | | Na poszczególnych kandydatów z tej listy oddane następujące liczby głosów ważnych."
+    },
+    {
+     "type": "ocr",
+     "text": "Razem"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ EEE (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: MEEN Na poszczególnych kandydatów z tej listy oddane następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Razem"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem ”) równa się liczbie głosów ważnych oddanych na tę listę. Wyjątck od tej zasady może dotyczyć listy, na której znajduje się nazwisko kandydata skreśloncgo z listy."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "11. Komisja stwierdza, że nie otrzymała w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych za granicą/na polskich statkach morskich”: Obwód nr ......... papi r |: oe cecccccecececesessseereeevececcecesessvstssucusssseeseeseessrseevsessererteessisiesavinatenss , Obwód nr ......... ZSICUZIOG oe ccscccceccceseessersrececscesncereseserereucaususseevsucrecatesevseesireresineterinessarteserits , tj. łącznie z ......... obwodów głosowania. Przyczyną nicuzyskania wyników głosowania było:"
+    },
+    {
+     "type": "ocr",
+     "text": "Zgodnie z art. 123 ust 2 Ordynacji wyborczej do Parlamentu Europejskiego głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczhie obwodów, w których przeprowadzono głosowanie. 12,7) Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych zarzutów; jeżeli nic ma, wpisać „zarzutów nic Zgłoszono aaa aaa ana"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko iimię — imiona, funkcja w Komisji) (podpis)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) ! Niepotrzebne skreślić lub pominąć. sk 8 . rm . EE . R ee . aoe ' Jeżeli treść nic mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w miejscu przeznaczonym na wpisanie adnotacji. wee) Wypełnia się, jeżeli okręgowa komisja wyborcza pełni funkcję rejonowej komisji wyborczej."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ ORO (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | | | | Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "10."
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ — (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: [| | tt. Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych: I pt} tt tt 2 P| tt ty tt"
+    },
+    {
+     "type": "ocr",
+     "text": "10."
+    },
+    {
+     "type": "ocr",
+     "text": "on"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) równa się liczbie głosów ważnych oddanych na tę listę. Wyjątek od tej zasady może dotyczyć listy, na której znajduje się nazwisko kandydata skreslonego z listy. Micjsce na parafowanic strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ ROC (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: || | ttt i Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr ............ EEE (nr listy) (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: | | | | Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) równa się liczbie głosów ważnych oddanych na tę lisię. Wyjątek od tej zasady może dotyczyć listy, na której znajduje się nazwiska kandydata skreślonego z listy."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. Il. Komisja stwierdza, że nie otrzymała w ciągu 24 godzin od zakończenia głosowania"
+    },
+    {
+     "type": "ocr",
+     "text": "2 1"
+    },
+    {
+     "type": "ocr",
+     "text": "12."
+    },
+    {
+     "type": "ocr",
+     "text": "amy"
+    },
+    {
+     "type": "ocr",
+     "text": "wyników głosowania z następujących obwodów głosowania utworzonych za granicą/na polskich statkach morskich ’: Obwód nr ......... ZSUCUAZIDA OE , Obwód nr ......... PASS Caral: ONE , tj. łącznie Z ......... obwodów głosowania. Przyczyną nicuzyskania wyników głosowania było:"
+    },
+    {
+     "type": "ocr",
+     "text": "Zgodnie z art. 123 ust. 2 Ordynacji wyborczej do Parlamentu Europejskicgo głosowanie w tych obwodach uznaje się za nicbyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie. Adnotacja o wniesieniu przez pełnomocników wyborczych lub osoby przez nich upoważnione uwag z wymienieniem konkretnych zarzutów; jeżeli nic ma, wpisać „zarzutów NIE ZPŁOSZONO 1 aaa"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko limię- imiona, funkcja w Komisji) (podpis)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) Niepotrzebne skreślić lub pominąć. \"Jeżeli treść nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w miejscu przeznaczonym na wpisanie adnotacji."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,99 @@
+{
+ "eli": "MP/2005/100",
+ "title": "Zarządzenie Nr 13 Prezesa Rady Ministrów z dnia 1 lutego 2005 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych i Administracji",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/100/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 13 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 lutego 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych i Administracji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199 i Nr 80, poz. 717 oraz z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 35 Prezesa Rady Ministrów z dnia 1 kwietnia 2004 r. w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych i Administracji (M. P. Nr 16, poz. 272 i Nr 56, poz. 954) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 1. Ministerstwo Spraw Wewnętrznych i Administracji, zwane dalej „ministerstwem”, zapewnia obsługę Ministra Spraw Wewnętrznych i Administracji właściwego, na postawie rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracj (Dz. U. Nr 134, poz. 1436 i Nr 283, poz. 2818 oraz z 2005 r. Nr 19, poz. 164), do spraw:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) administracji publicznej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wewnętrznych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) wyznań religijnych oraz mniejszości narodowych i etnicznych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 2 pkt 9 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„9) Departament Wyznań Religijnych oraz Mniejszości Narodowych i Etnicznych;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5. Obsługę zadań ministra, w zakresie działu wyznania religijne oraz mniejszości narodowe i etniczne, zapewnia w szczególności Departament Wyznań Religijnych oraz Mniejszości Narodowych i Etnicznych.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

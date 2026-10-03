@@ -1,0 +1,73 @@
+{
+ "eli": "MP/2005/634",
+ "title": "Zarządzenie Nr 75 Prezesa Rady Ministrów z dnia 3 sierpnia 2005 r. zmieniające zarządzenie w sprawie nadania statutu Agencji Bezpieczeństwa Wewnętrznego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/634/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 75 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 sierpnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Agencji Bezpieczeństwa Wewnętrznego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 74, poz. 676, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 73 Prezesa Rady Ministrów z dnia 26 czerwca 2002 r. w sprawie nadania statutu Agencji Bezpieczeństwa Wewnętrznego (M. P. Nr 26, poz. 432) w załączniku w § 3 w ust. 1 wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pkt 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2) Departament Przeciwdziałania Korupcji i Przestępczości Zorganizowanej,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "po pkt 2 dodaje się pkt 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a) Departament Przeciwdziałania Terroryzmowi,”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 19 września 2005 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i Nr 166, poz. 1609 oraz z 2004 r. Nr 109, poz. 1159, Nr 171, poz. 1800, Nr 267, poz. 2647 i Nr 273, poz. 2703."
+ }
+}

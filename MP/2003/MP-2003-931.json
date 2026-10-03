@@ -1,0 +1,148 @@
+{
+ "eli": "MP/2003/931",
+ "title": "Zarządzenie Nr 134 Prezesa Rady Ministrów z dnia 24 grudnia 2003 r. w sprawie nadania statutu Biuru Rzecznika Ubezpieczonych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/931/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 134 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 grudnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Biuru Rzecznika Ubezpieczonych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 2 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153 i Nr 170, poz. 1651) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Biuru Rzecznika Ubezpieczonych nadaje się statut stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 stycznia 2004 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: L. Miller"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 134 Prezesa Rady Ministrów z dnia 24 grudnia 2003 r. (poz. 931)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT BIURA RZECZNIKA UBEZPIECZONYCH"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Biuro Rzecznika Ubezpieczonych, zwane dalej „Biurem”, działa na podstawie ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153 i Nr 170, poz. 1651) oraz niniejszego statutu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Biuro działa pod bezpośrednim kierownictwem Rzecznika Ubezpieczonych, zwanego dalej „Rzecznikiem”.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Rzecznik kieruje Biurem przy pomocy Dyrektora Biura i jego Zastępcy oraz naczelników komórek organizacyjnych, o których mowa w § 4 ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Rzecznik może upoważnić osoby, o których mowa w ust. 1, oraz innych pracowników Biura zatrudnionych na stanowiskach koordynujących lub samodzielnych do działania w imieniu Rzecznika w określonych przez niego sprawach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "W skład Biura wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "Wydział Skarg i Interwencji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "Wydział Prawny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_1/pkt_3",
+         "text": "Wydział Edukacji i Informacji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_1/pkt_4",
+         "text": "Wydział Administracyjno-Finansowy.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych Biura oraz tryb pracy Biura określa regulamin organizacyjny nadany przez Rzecznika na wniosek Dyrektora Biura.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Spory kompetencyjne między komórkami organizacyjnymi Biura rozstrzyga Rzecznik.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

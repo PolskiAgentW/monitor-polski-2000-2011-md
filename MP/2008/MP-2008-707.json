@@ -1,0 +1,225 @@
+{
+ "eli": "MP/2008/707",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 15 października 2008 r. w sprawie wysokości stawek kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi oraz za przekroczenie dopuszczalnego poziomu hałasu, na rok 2009",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/707/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 października 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi oraz za przekroczenie dopuszczalnego poziomu hałasu, na rok 2009"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 291 ust. 2 oraz art. 312 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.[^2]) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górne jednostkowe stawki kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi, zawarte w załączniku nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowe stawki kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi, za:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "poszczególne substancje, w tym substancje wyrażone jako wskaźniki, za przekroczenie: — dopuszczalnej ilości i składu ścieków, z wyjątkiem zawiesiny łatwo opadającej, — minimalnej procentowej redukcji stężeń substancji w ściekach, — dopuszczalnej masy substancji w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu",
+     "children": [
+      {
+       "type": "text",
+       "text": "— zawarte w załączniku nr 2 do obwieszczenia,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "przekroczenie dopuszczalnej temperatury wprowadzanych ścieków, za jeden m³, zawarte w załączniku nr 3 do obwieszczenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "przekroczenie dopuszczalnego odczynu wprowadzanych ścieków, za jeden m³, zawarte w załączniku nr 4 do obwieszczenia;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "jednostkową stawkę kary za przekroczenie dopuszczalnej ilości zawiesiny łatwo opadającej, za jeden litr, wynoszącą 10,57 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "jednostkową stawkę kary za przekroczenie dopuszczalnego stopnia rozcieńczenia ścieków, eliminującego toksyczne oddziaływanie ścieków na ryby, za jeden m³, wynoszącą 10,57 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "jednostkową stawkę kary za przekroczenie dopuszczalnej ilości sztucznych substancji promieniotwórczych w ściekach, za jeden m³, wynoszącą 10,57 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "górną jednostkową stawkę kary za przekroczenie dopuszczalnego poziomu hałasu przenikającego do środowiska, za jeden dB przekroczenia, wynoszącą 54,14 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego poziomu hałasu, zawarte w załączniku nr 5 do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M. Nowicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Środowiska z dnia 15 października 2008 r. (poz. 707) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "GÓRNE JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE WARUNKÓW WPROWADZANIA ŚCIEKÓW DO WÓD LUB DO ZIEMI"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA JEDEN KILOGRAM SUBSTANCJI, W TYM SUBSTANCJI WYRAŻONYCH JAKO WSKAŹNIKI"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "20"
+    },
+    {
+     "type": "ocr",
+     "text": "2"
+    },
+    {
+     "type": "ocr",
+     "text": "Insektycydy z grupy węglowodorów chlorowanych 953,71 Insektycydy fosforoorganiczne i karbaminianowe 953,71 Absorbowalne związki chloroorganiczne — AOX 715,02 23| Antymon 715,02 24| Arsen 715,02 25| Chlor wolny 715,02 Chlor całkowity 715,02"
+    },
+    {
+     "type": "ocr",
+     "text": "28| Chrom*$ 715,02"
+    },
+    {
+     "type": "ocr",
+     "text": "31| Miedź 715,02"
+    },
+    {
+     "type": "ocr",
+     "text": "34 | Siarczki 715,02 35 | Srebro 715,02 36 | Aldehyd mrówkowy 572,24 37 | Chrom ogólny 572,24 38 | Bar 572,24"
+    },
+    {
+     "type": "ocr",
+     "text": "40| Bor 972,24 Cyjanki związane 572,24"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "43 | Cyna 572,24 44| Kobalt 572,24 Molibden 572,24 46 | Selen 572,24"
+    },
+    {
+     "type": "ocr",
+     "text": "Akrylonitryl 381,47 Fenole lotne (indeks fenolowy) 381,47 Kaprolaktam 381,47"
+    },
+    {
+     "type": "ocr",
+     "text": "58 | Rodanki 381,47 [80 Azot ogólny 21,79 62 | Azot azotanowy 21,79 Azot azotynowy 21,79"
+    },
+    {
+     "type": "ocr",
+     "text": "“"
+    },
+    {
+     "type": "ocr",
+     "text": "61"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 3"
+    },
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KARY ZA PRZEKROCZENIE DOPUSZCZALNEJ TEMPERATURY WPROWADZANYCH DO WÓD LUB DO ZIEMI ŚCIEKÓW"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KARY ZA PRZEKROCZENIE DOPUSZCZALNEGO ODCZYNU WPROWADZANYCH DO WÓD LUB DO ZIEMI ŚCIEKÓW"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 5"
+    },
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE DOPUSZCZALNEGO POZIOMU HAŁASU"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 216, poz. 1606).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958 i Nr 171, poz. 1056."
+ }
+}

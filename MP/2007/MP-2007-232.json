@@ -1,0 +1,69 @@
+{
+ "eli": "MP/2007/232",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 19 marca 2007 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/232/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 marca 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 4 kwietnia 2007 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: S. S. Skrzypek"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego zdnia 19 marca 2007 r. (poz. 232)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Średnica Wielkość Wartość Brzeg (bok) Masa (w milime- Stop emisji (w gramach) trach) (w sztukach) strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "2 zł W centralnej części wizerunek Wizerunek Kościoła Katedral- Na boku orła ustalony dla godła Rzeczy- nego pw. Wniebowzięcia NMP ośmiokrotpospolitej Polskiej. Z prawej w Gorzowie Wielkopolskim. nie powtóstrony napis: 2 ZŁ. Ugóry półko- Poniżej stylizowany fragment rzony napis: lem napis: RZECZPOSPOLITA trotuaru przy Kościele Kate- NBP, co drugi 8,15 27,0 CuAl5Zn5Sn1 1 000 000 POLSKA oraz oznaczenie roku dralnym. W otoku napis: odwrócony emisji: 2007. Poniżej orła stylizo- GORZÓW WIELKOPOLSKI o 180 stopni, wany fragment muru miejskie- rozdzielony go z blankami oraz z bramą gwiazdkami orozwartych wrotach, zuniesioną kratą wprześwicie. Pod lewą łapą orła znak mennicy: MW Monitor Polski Nr 19 — 693 — Poz. 232"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

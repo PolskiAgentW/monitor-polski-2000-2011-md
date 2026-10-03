@@ -1,0 +1,130 @@
+{
+ "eli": "MP/2010/787",
+ "title": "Zarządzenie Nr 60 Prezesa Rady Ministrów z dnia 19 sierpnia 2010 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/787/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr60 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "zdnia 19 sierpnia 2010r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie wsprawie nadania statutu Ministerstwu Nauki iSzkolnictwa Wyższego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996r. oRadzie Ministrów (Dz.U. z2003r. Nr24, poz.199, zpóźn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wzarządzeniu nr145 Prezesa Rady Ministrów z dnia 23 grudnia 2008 r. w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M. P. Nr97, poz.845) wzałączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Wskład Ministerstwa wchodzi Gabinet Polityczny Ministra oraz następujące komórki organizacyjne:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Departament Budżetu iFinansów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Departament Finansowania Szkół Wyższych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3)Departament Instrumentów Polityki Naukowej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4)Departament Kontroli iNadzoru;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5)Departament Legislacyjno-Prawny;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6)Departament Nadzoru iOrganizacji Szkolnictwa Wyższego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7)Departament Spraw Międzynarodowych iUznawalności Wykształcenia;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8)Departament Strategii;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9)Departament Systemów Informatycznych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Departament Wdrożeń iInnowacji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Biuro Dyrektora Generalnego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Biuro Ministra;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Biuro Ochrony.”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2)w§ 3 wpkt2 uchyla się lit. c."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi wżycie po upływie 14dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów:D. Tusk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104, z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600, z 2008 r. Nr 227, poz.1505, z2009r. Nr42, poz.337, Nr98, poz.817, Nr157, poz.1241iNr161, poz.1277 oraz z2010r.Nr57, poz.354."
+ }
+}

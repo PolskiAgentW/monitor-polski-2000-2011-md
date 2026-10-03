@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2008/248",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 17 marca 2008 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/248/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 marca 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia. ———————",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 21 kwietnia 2008 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
+    },
+    {
+     "type": "text",
+     "text": "¹⁾ Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 17 marca 2008 r. (poz. 248)"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Śred- Wielkość Cechy graficzne Masa nica War- Brzeg emisji (w gra- (w mili- Stop tość (bok) (w sztustrona główna strona odwrotna mach) me- kach) trach)"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Z prawej strony napis: 2 ZŁ. Na boku U góry półkolem na- Wizerunek Ratu- ośmiokrotnie pis: RZECZPOSPOLITA sza w Bielsku- powtórzony POLSKA oraz oznacze- -Białej. U góry napis: NBP, 2 zł nie roku emisji: 2008. stylizowany wi- co drugi 8,15 27,0 CuAl5Zn5Sn1 1 100 000 Poniżej orła stylizowa- zerunek chmur odwrócony ny fragment muru oraz napis: BIEL- o 180 stopni, miejskiego z blankami SKO/-BIAŁA. rozdzielony oraz z bramą o rozwar- gwiazdkami tych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

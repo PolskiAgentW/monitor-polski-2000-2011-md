@@ -1,0 +1,443 @@
+{
+ "eli": "MP/2006/387",
+ "title": "Zarządzenie Nr 81 Prezesa Rady Ministrów z dnia 22 maja 2006 r. w sprawie Międzyresortowego Zespołu do Spraw Oprogramowania Zasad Zatrudniania i Wynagradzania w Ochronie Zdrowia",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/387/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 81 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 maja 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Międzyresortowego Zespołu do Spraw Opracowania Zasad Zatrudniania i Wynagradzania w Ochronie Zdrowia"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Międzyresortowy Zespół do Spraw Opracowania Zasad Zatrudniania i Wynagradzania w Ochronie Zdrowia, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przeprowadzenie analizy obowiązujących regulacji prawnych dotyczących zasad zatrudniania i wynagradzania w ochronie zdrowia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "opracowanie na podstawie analizy, o której mowa w pkt 1, propozycji założeń rozwiązań legislacyjnych dotyczących zasad zatrudniania i wynagradzania w ochronie zdrowia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący — minister właściwy do spraw zdrowia albo wskazany przez niego sekretarz lub podsekretarz stanu w Ministerstwie Zdrowia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "członkowie — wyznaczeni przez właściwych ministrów sekretarz lub podsekretarz stanu w:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "Ministerstwie Finansów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "Ministerstwie Pracy i Polityki Społecznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "Ministerstwie Gospodarki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_2/lit_d",
+         "text": "Ministerstwie Nauki i Szkolnictwa Wyższego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_2/lit_e",
+         "text": "Ministerstwie Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_2/lit_f",
+         "text": "Ministerstwie Spraw Wewnętrznych i Administracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_2/lit_g",
+         "text": "Ministerstwie Obrony Narodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_2/lit_h",
+         "text": "Ministerstwie Skarbu Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_2/lit_i",
+         "text": "Ministerstwie Zdrowia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W pracach Zespołu mogą uczestniczyć na prawach członka wyznaczeni przez władze statutowe przedstawiciele:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "Niezależnego Samorządnego Związku Zawodowego Solidarność;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "Ogólnopolskiego Porozumienia Związków Zawodowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "Forum Związków Zawodowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "Konfederacji Pracodawców Polskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "Konfederacji Pracodawców Prywatnych Lewiatan;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "Związku Rzemiosła Polskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_2/pkt_7",
+       "text": "Business Centre Club — Związku Pracodawców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_2/pkt_8",
+       "text": "Naczelnej Rady Lekarskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_2/pkt_9",
+       "text": "Naczelnej Rady Pielęgniarek i Położnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_2/pkt_10",
+       "text": "Ogólnopolskiego Związku Zawodowego Lekarzy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przewodniczący Zespołu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "zwołuje posiedzenia Zespołu z własnej inicjatywy lub na wniosek co najmniej połowy członków Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "przewodniczy posiedzeniom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "wyznacza osobę prowadzącą posiedzenia Zespołu, w przypadku swojej nieobecności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W razie nieobecności przewodniczącego Zespołu posiedzenia zwołuje oraz przewodniczy im osoba wyznaczona przez przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Zawiadomienia o miejscu, terminie i porządku posiedzenia Zespołu oraz materiały dotyczące posiedzenia przewodniczący Zespołu przesyła członkom Zespołu pocztą (listem poleconym), faksem lub za pomocą elektronicznych nośników informatycznych, na co najmniej 2 dni przed posiedzeniem na wskazany do korespondencji adres.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu realizacji zadań przewodniczący Zespołu może tworzyć podzespoły i grupy robocze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W pracach Zespołu, podzespołów i grup roboczych, o których mowa w ust. 1, mogą brać udział osoby niebędące członkami Zespołu, zaproszone przez przewodniczącego Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przewodniczący Zespołu może zlecać wykonanie na rzecz Zespołu opinii i ekspertyz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W sprawach określonych w § 2 Zespół może podejmować uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Uchwały podejmowane są zwykłą większością głosów w obecności przewodniczącego Zespołu lub osoby przez niego wyznaczonej oraz co najmniej połowy pozostałych członków Zespołu. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Posiedzenia Zespołu są protokołowane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Organy administracji rządowej współpracują z Zespołem i udzielają mu pomocy w realizacji jego zadań.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Zespół jest powołany na okres wykonywania zadań określonych w § 2, jednak nie dłuższy niż do dnia 31 października 2006 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W terminie 7 dni od dnia zakończenia prac Zespołu przewodniczący składa Prezesowi Rady Ministrów sprawozdanie z realizacji zadań Zespołu, przyjęte przez Zespół w trybie określonym w § 6 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Przewodniczący Zespołu składa Prezesowi Rady Ministrów comiesięczne sprawozdania z realizacji zadań Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Udział w pracach Zespołu jest nieodpłatny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Koszty delegacji członków Zespołu ponoszą właściwe jednostki delegujące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Koszty opinii i ekspertyz sporządzanych na rzecz Zespołu finansowane są z budżetu państwa z części 46 — Zdrowie, działu 851 — Ochrona zdrowia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Obsługę Zespołu zapewnia Ministerstwo Zdrowia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zespół działa na podstawie niniejszego zarządzenia oraz przyjętego przez siebie regulaminu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: K. Marcinkiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319."
+ }
+}

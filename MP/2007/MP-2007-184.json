@@ -1,0 +1,278 @@
+{
+ "eli": "MP/2007/184",
+ "title": "Zarządzenie Nr 24 Prezesa Rady Ministrów z dnia 7 marca 2007 r. w sprawie Komitetu Rady Ministrów do Spraw Informatyzacji i Łączności",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/184/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 24 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 marca 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Rady Ministrów do Spraw Informatyzacji i Łączności"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 1 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Komitet Rady Ministrów do Spraw Informatyzacji i Łączności, zwany dalej „Komitetem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Komitet jest organem pomocniczym Rady Ministrów i Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "przewodniczący — Wiceprezes Rady Ministrów powoływany i odwoływany przez Prezesa Rady Ministrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "dwaj wiceprzewodniczący — w randze sekretarza lub podsekretarza stanu wskazani odpowiednio przez ministra właściwego do spraw informatyzacji i ministra właściwego do spraw finansów publicznych, powoływani i odwoływani przez przewodniczącego Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_3/lit_a",
+         "text": "wyznaczeni przez właściwych ministrów sekretarze lub podsekretarze stanu, po jednym z każdego ministerstwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_3/lit_b",
+         "text": "przedstawiciel Ministra-członka Rady Ministrów — Koordynatora Służb Specjalnych, Zbigniewa Wassermanna,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_3/lit_c",
+         "text": "sekretarz lub podsekretarz stanu wyznaczony przez Sekretarza Komitetu Integracji Europejskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_3/lit_d",
+         "text": "Szef Kancelarii Prezesa Rady Ministrów lub wyznaczony przez niego sekretarz lub podsekretarz stanu w Kancelarii Prezesa Rady Ministrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_1/pkt_3/lit_e",
+         "text": "Prezes lub Wiceprezes Urzędu Zamówień Publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_1/pkt_3/lit_f",
+         "text": "Prezes lub Wiceprezes Urzędu Komunikacji Elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_1/pkt_3/lit_g",
+         "text": "Prezes lub Wiceprezes Głównego Urzędu Statystycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_1/pkt_3/lit_h",
+         "text": "Pełnomocnik Rządu do Spraw Rządowego Programu Rozwoju Zintegrowanego Systemu Informacji o Nieruchomościach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_1/pkt_3/lit_i",
+         "text": "Pełnomocnik Rządu do Spraw Przygotowania Organów Administracji Państwowej do Współpracy z Systemem Informacyjnym Schengen II (SIS II) i Systemem Informacji Wizowej (VIS),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_1/pkt_3/lit_j",
+         "text": "Przewodniczący Zespołu do Spraw Zagospodarowania Granicy Państwowej.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Sekretarza Komitetu powołuje i odwołuje przewodniczący Komitetu spośród pracowników urzędu obsługującego ministra właściwego do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Jeżeli Prezes Rady Ministrów jest obecny na posiedzeniu Komitetu, przewodniczy temu posiedzeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do zadań Komitetu należy inicjowanie i opiniowanie projektów dokumentów rządowych w zakresie związanym z informatyzacją administracji publicznej, rozwojem społeczeństwa informacyjnego, łącznością, rejestrami publicznymi, zastosowaniem technologii informacyjnych w budowie gospodarki opartej na wiedzy oraz przygotowaniem organów administracji państwowej do współpracy z Systemem Informacyjnym Schengen (SIS) i Systemem Informacji Wizowej (VIS).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Komitet rozpatruje także inne niż określone w ust. 1 sprawy powierzone mu przez Radę Ministrów lub Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W posiedzeniach Komitetu stale lub doraźnie uczestniczą, bez prawa udziału w podejmowaniu rozstrzygnięć, osoby zaproszone przez Sekretarza tego Komitetu, jeżeli uzna on ich udział w posiedzeniu za niezbędny do wykonywania powierzonych im zadań służbowych albo do obsługi prac Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Sekretarz Komitetu informuje osoby, o których mowa w ust. 1, o zasadach uczestnictwa w posiedzeniu, w szczególności o rygorach wynikających z ochrony informacji niejawnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W pracach Komitetu uczestniczą przedstawiciele: Komendanta Głównego Policji, Szefa Agencji Bezpieczeństwa Wewnętrznego, Prezesa Urzędu Ochrony Konkurencji i Konsumentów oraz Zarządu Zakładu Ubezpieczeń Społecznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Przewodniczący Komitetu może zapraszać do udziału w pracach tego Komitetu, z głosem doradczym, również inne osoby niż określone w ust. 3, reprezentujące organy, instytucje lub organizacje właściwe w sprawach będących przedmiotem tych prac.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący Komitetu może, spośród członków Komitetu i osób określonych w § 4 ust. 1, 3 i 4, tworzyć zespoły zadaniowe w celu opracowania propozycji stanowiska Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przewodniczący Komitetu określa szczegółowe zadania, termin ich wykonania, zasady działania, skład osobowy i siedzibę zespołu zadaniowego oraz powołuje kierownika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Obsługę prac Komitetu zapewnia urząd obsługujący ministra właściwego do spraw informatyzacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W sprawach nieuregulowanych w niniejszym zarządzeniu stosuje się odpowiednio przepisy § 4—12 i 14—17 zarządzenia nr 77 Prezesa Rady Ministrów z dnia 27 czerwca 2002 r. w sprawie stałego komitetu Rady Ministrów (M. P. Nr 27, poz. 447, z późn. zm.[^2]).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania i podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Kaczyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600.",
+  "2": "Zmiany wymienionego zarządzenia zostały ogłoszone w M. P. z 2002 r. Nr 33, poz. 518, z 2005 r. Nr 18, poz. 297, Nr 62, poz. 857 i Nr 70, poz. 968 oraz z 2007 r. Nr 12, poz. 123."
+ }
+}

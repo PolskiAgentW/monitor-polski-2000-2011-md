@@ -1,0 +1,175 @@
+{
+ "eli": "MP/2008/385",
+ "title": "Zarządzenie Ministra Obrony Narodowej z dnia 28 maja 2008 r. w sprawie nadania statutu Służbie Wywiadu Wojskowego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/385/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA OBRONY NARODOWEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 maja 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Służbie Wywiadu Wojskowego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Służbie Wywiadu Wojskowego nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie Ministra Obrony Narodowej z dnia 20 października 2006 r. w sprawie nadania statutu Służbie Wywiadu Wojskowego (M. P. Nr 75, poz. 757 oraz z 2007 r. Nr 43, poz. 506).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Obrony Narodowej: B. Klich"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Ministra Obrony Narodowej z dnia 28 maja 2008 r. (poz. 385)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT SŁUŻBY WYWIADU WOJSKOWEGO"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Służba Wywiadu Wojskowego, zwana dalej „SWW”, działa na podstawie ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, aktów wykonawczych do tej ustawy, w tym niniejszego statutu, oraz innych obowiązujących przepisów ustawowych, zawierających zadania dla SWW.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "W skład SWW wchodzą następujące jednostki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_1/pkt_1",
+         "text": "Gabinet Szefa;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_1/pkt_2",
+         "text": "Departament I;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_1/pkt_3",
+         "text": "Departament II;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_1/pkt_4",
+         "text": "Departament III;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_2/ust_1/pkt_5",
+         "text": "Biuro Zagrożeń Globalnych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_2/ust_1/pkt_6",
+         "text": "Biuro Ochrony i Osłony;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_2/ust_1/pkt_7",
+         "text": "Biuro Administracyjno-Finansowe;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_2/ust_1/pkt_8",
+         "text": "Biuro Kadr;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_2/ust_1/pkt_9",
+         "text": "Biuro Prawne;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_2/ust_1/pkt_10",
+         "text": "Biuro Ewidencji i Archiwum;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_2/ust_1/pkt_11",
+         "text": "Samodzielny Audytor.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań jednostek organizacyjnych SWW określa regulamin organizacyjny SWW.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Szef SWW może powoływać zespoły o charakterze stałym lub doraźnym, określając ich nazwę, skład osobowy oraz szczegółowy zakres i tryb działania.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

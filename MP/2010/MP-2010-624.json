@@ -1,0 +1,56 @@
+{
+ "eli": "MP/2010/624",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 14 czerwca 2010 r. w sprawie wygaśnięcia kadencji wszystkich członków Krajowej Rady Radiofonii i Telewizji",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/624/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 czerwca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wygaśnięcia kadencji wszystkich członków Krajowej Rady Radiofonii i Telewizji"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na podstawie art. 12 ust. 5 w związku z ust. 4 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2004 r. Nr 253, poz. 2531, z późn. zm.[^1]) w związku z uchwałą Senatu Rzeczypospolitej Polskiej z dnia 28 maja 2010 r. w sprawie sprawozdania Krajowej Rady Radiofonii i Telewizji oraz uchwałą Sejmu Rzeczypospolitej Polskiej z dnia 10 czerwca 2010 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "w sprawie Sprawozdania Krajowej Rady Radiofonii i Telewizji z działalności w 2009 r. potwierdzam wygaśnięcie kadencji wszystkich członków Krajowej Rady Radiofonii i Telewizji z dniem 24 czerwca 2010 r."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem podpisania i podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Marszałek Sejmu wykonujący obowiązki"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezydenta Rzeczypospolitej Polskiej: B. Komorowski"
+  },
+  {
+   "type": "text",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 17, poz. 141, Nr 85, poz. 728 i Nr 267, poz. 2258, z 2006 r. Nr 51, poz. 377, Nr 83, poz. 574 i Nr 133, poz. 935, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 411, z 2009 r. Nr 18, poz. 97, Nr 115, poz. 965 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 146."
+ }
+}

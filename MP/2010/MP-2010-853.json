@@ -1,0 +1,417 @@
+{
+ "eli": "MP/2010/853",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 20 września 2010 r. w sprawie wytycznych dla komisarzy wyborczych dotyczących przyjmowania zawiadomień o utworzeniu komitetu wyborczego w wyborach do rad gmin, rad powiatów i sejmików województw zarządzonych na dzień 21 listopada 2010 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/853/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wytycznych dla komisarzy wyborczych dotyczących przyjmowania zawiadomień o utworzeniu komitetu wyborczego w wyborach do rad gmin, rad powiatów i sejmików województw zarządzonych na dzień 21 listopada 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 2 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wytyczne dla komisarzy wyborczych dotyczące przyjmowania zawiadomień o utworzeniu komitetu wyborczego w wyborach do rad gmin, rad powiatów i sejmików województw zarządzonych na dzień 21 listopada 2010 r., stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 20 września 2010 r. (poz. 853)"
+    },
+    {
+     "type": "text",
+     "text": "WYTYCZNE DLA KOMISARZY WYBORCZYCH DOTYCZĄCE PRZYJMOWANIA ZAWIADOMIEŃ O UTWORZENIU KOMITETU WYBORCZEGO W WYBORACH DO RAD GMIN, RAD POWIATÓW I SEJMIKÓW WOJEWÓDZTW ZARZĄDZONYCH NA DZIEŃ 21 LISTOPADA 2010 R."
+    },
+    {
+     "type": "text",
+     "text": "I. Złożenie zawiadomienia o utworzeniu komitetu wyborczego"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Komisarz wyborczy przyjmuje zawiadomienia o utworzeniu komitetu wyborczego dokonywane przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "organ stowarzyszenia (organizacji społecznej) uprawniony do reprezentowania stowarzyszenia (organizacji społecznej) na zewnątrz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "pełnomocnika wyborczego komitetu wyborczego wyborców",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "jeżeli komitet wyborczy zamierza zgłaszać kandydatów na radnych na obszarze nie więcej niż jednego województwa."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Komisarz wyborczy przyjmuje zawiadomienia od stowarzyszeń (organizacji społecznych) oraz komitetów wyborczych wyborców, które mają siedzibę na obszarze jego właściwości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Zawiadomienia mogą być składane do dnia 4 października 2010 r. w godzinach urzędowania; o dochowaniu terminu decyduje data złożenia zawiadomienia komisarzowi wyborczemu (art. 64e ust. 5 i art. 64f ust. 4, w związku z art. 205 Ordynacji wyborczej do rad gmin, rad powiatów i sejmików województw; dalej powoływane przepisy dotyczą tej ustawy). Zaleca się ustanowienie dyżuru dla przyjmowania zawiadomień w siedzibie komisarza wyborczego w dniu 2 października 2010 r. (sobota), trwającego nie krócej aniżeli 3 godziny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Informację o miejscu, dniach i godzinach składania zawiadomień podaje się do publicznej wiadomości w formie komunikatu przez wywieszenie w siedzibie komisarza wyborczego, a także w Biuletynie Informacji Publicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Przy przyjmowaniu dokumentów dotyczących zawiadomień o utworzeniu komitetu wyborczego komisarz wyborczy korzysta z dostarczonego przez Krajowe Biuro Wyborcze systemu informatycznego, za pomocą którego gromadzone są dane i tworzone są dokumenty wydawane przez komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Komisarz wyborczy może upoważnić inne osoby do przyjmowania dokumentów dotyczących zawiadomień.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Przyjmujący dokumenty sprawdza w obecności osoby upoważnionej do doręczenia zawiadomienia, czy zostało ono złożone przez uprawniony organ (w przypadku stowarzyszenia/organizacji społecznej) lub pełnomocnika wyborczego (w przypadku komitetu wyborczego wyborców) i czy spełnia warunki określone odpowiednio w art. 64e lub 64f, a następnie wydaje potwierdzenie złożenia zawiadomienia. Potwierdzenia nie wydaje się osobie nieposiadającej upoważnienia do doręczenia zawiadomienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Potwierdzenia złożenia zawiadomienia o utworzeniu komitetu wyborczego sporządzane są według wzorów określonych przez Państwową Komisję Wyborczą uchwałą z dnia 13 września 2006 r. w sprawie ustalenia wzorów wydawanych przez komisarzy wyborczych potwierdzeń złożenia zawiadomienia o utworzeniu komitetu wyborczego oraz o zamiarze zgłaszania kandydatów na radnych w wyborach do rad gmin, rad powiatów i sejmików województw (M. P. Nr 63, poz. 655).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_2/ust_9",
+     "text": "Niezwłocznie po otrzymaniu zawiadomienia, nie później jednak niż w ciągu 3 dni, komisarz wyborczy bada je i ustala, czy zawiadomienie spełnia ustawowe wymagania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zawiadomienie dokonywane przez stowarzyszenie (organizację społeczną) powinno zawierać następujące elementy:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_9/pkt_1",
+       "text": "nazwę komitetu wyborczego i obowiązkowo skrót nazwy komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_9/pkt_2",
+       "text": "adres siedziby komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_9/pkt_3",
+       "text": "numer ewidencyjny, pod którym stowarzyszenie (organizacja społeczna) jest wpisane do rejestru organizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_9/pkt_4",
+       "text": "imię (imiona), nazwisko, adres zamieszkania i numer ewidencyjny PESEL pełnomocnika wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_9/pkt_5",
+       "text": "imię (imiona), nazwisko, adres zamieszkania i numer ewidencyjny PESEL pełnomocnika finansowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_9/pkt_6",
+       "text": "nazwę województwa, w którym komitet zamierza zgłosić kandydatów na radnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Do zawiadomienia powinny być dołączone:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_9/pkt_1",
+       "text": "oświadczenie pełnomocnika wyborczego o przyjęciu pełnomocnictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_9/pkt_2",
+       "text": "oświadczenie pełnomocnika finansowego o przyjęciu pełnomocnictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_9/pkt_3",
+       "text": "uwierzytelniony odpis z właściwego rejestru organizacji (uwierzytelnienia kserokopii odpisu z rejestru może dokonać członek organu upoważnionego do reprezentowania organizacji na zewnątrz lub pełnomocnik wyborczy komitetu wyborczego; odpis musi być aktualny i wydany nie wcześniej niż dnia 1 stycznia 2010 r.);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_9/pkt_4",
+       "text": "wyciąg ze statutu stowarzyszenia (organizacji społecznej) wskazujący organ upoważniony do jego reprezentowania na zewnątrz (w przypadku stowarzyszeń zwykłych — wyciąg z regulaminu).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zawiadomienie podpisuje osoba lub osoby działające w imieniu organu stowarzyszenia (organizacji społecznej) uprawnionego do jego reprezentowania na zewnątrz."
+        },
+        {
+         "type": "text",
+         "text": "Komitety wyborcze mogą tworzyć wyłącznie stowarzyszenia i organizacje społeczne wpisane do właściwych rejestrów (art. 64e ust. 7 pkt 2)."
+        },
+        {
+         "type": "text",
+         "text": "W rozumieniu przepisów Ordynacji wyborczej organizacją społeczną nie są m.in. fundacje, rady osiedlowe, rady sołeckie, spółdzielnie mieszkaniowe. Nie są one zatem uprawnione do tworzenia komitetów wyborczych."
+        },
+        {
+         "type": "text",
+         "text": "Zawiadomienie dokonywane przez komitet wyborczy wyborców powinno zawierać następujące elementy:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_9/pkt_1",
+       "text": "n azwę komitetu wyborczego i obowiązkowo skrót nazwy komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_9/pkt_2",
+       "text": "a dres siedziby komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_9/pkt_3",
+       "text": "i mię (imiona), nazwisko, adres zamieszkania i numer ewidencyjny PESEL pełnomocnika wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_9/pkt_4",
+       "text": "i mię (imiona), nazwisko, adres zamieszkania i numer ewidencyjny PESEL pełnomocnika finansowego (nie dotyczy komitetu utworzonego jedynie w celu zgłoszenia kandydatów na radnych do rady gminy w gminie liczącej do 20 000 mieszkańców, o którym mowa w art. 64f ust. 8);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_9/pkt_5",
+       "text": "n azwę województwa, w którym komitet zamierza zgłosić kandydatów na radnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Do zawiadomienia powinny być dołączone:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_9/pkt_1",
+       "text": "o świadczenie o utworzeniu komitetu wyborczego wyborców złożone przez co najmniej 5 obywateli mających prawo wybierania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_9/pkt_2",
+       "text": "o świadczenia osób wchodzących w skład komitetu wyborczego wyborców o zapoznaniu się z treścią art. 64k;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_9/pkt_3",
+       "text": "o świadczenie pełnomocnika wyborczego o przyjęciu pełnomocnictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_9/pkt_4",
+       "text": "o świadczenie pełnomocnika finansowego o przyjęciu pełnomocnictwa (nie dotyczy komitetu, o którym mowa w art. 64f ust. 8);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_9/pkt_5",
+       "text": "w ykaz co najmniej 20 obywateli popierających utworzenie komitetu (nie dotyczy komitetu, o którym mowa w art. 64f ust. 8).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Utworzenie komitetu wyborczego wyborców nawet przez więcej niż 5 obywateli mających prawo wybierania nie zwalnia danego komitetu wyborczego od obowiązku zebrania co najmniej 20 podpisów innych obywateli popierających utworzenie komitetu."
+        },
+        {
+         "type": "text",
+         "text": "Pełnomocnik wyborczy i pełnomocnik finansowy komitetu wyborczego wyborców muszą wchodzić w skład tego komitetu wyborczego (art. 64f ust. 3)."
+        },
+        {
+         "type": "text",
+         "text": "Zawiadomienie podpisuje pełnomocnik wyborczy komitetu wyborczego wyborców."
+        },
+        {
+         "type": "text",
+         "text": "Należy zwrócić uwagę, że zgodnie z art. 203b, ilekroć przepisy wymagają podania numeru PESEL, wymóg ten, w odniesieniu do obywateli Unii Europejskiej niebędących obywatelami polskimi, może zostać spełniony również przez podanie numeru paszportu lub innego dokumentu stwierdzającego tożsamość."
+        },
+        {
+         "type": "text",
+         "text": "II. Sprawdzenie poprawności nazwy i skrótu nazwy komitetu wyborczego"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Komisarz wyborczy sprawdza, czy nazwa i skrót nazwy komitetu wyborczego spełniają wymogi określone w Ordynacji wyborczej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W systemie informatycznym dostarczonym przez Krajowe Biuro Wyborcze dostępna jest aktualizowana na bieżąco baza partii politycznych, prowadzona na podstawie zawiadomień otrzymywanych przez Państwową Komisję Wyborczą z Sądu Okręgowego w Warszawie (sądu rejestrowego). Na jej podstawie komisarz wyborczy sprawdza, czy skrót nazwy komitetu wyborczego wyborców różni się od nazw i skrótów nazw partii politycznych."
+      },
+      {
+       "type": "text",
+       "text": "Sprawdzenia, czy skrót nazwy komitetu wyborczego wyborców różni się od nazw i skrótów nazw organizacji, komisarz wyborczy dokonuje, w miarę potrzeby, korzystając z Krajowego Rejestru Sądowego."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto komisarz wyborczy sprawdza, czy nazwa komitetu wyborczego i skrót nazwy różnią się dostatecznie od nazw wszystkich komitetów, które wcześniej złożyły zawiadomienia Państwowej Komisji Wyborczej, oraz wszystkich komitetów, które złożyły zawiadomienia dotyczące udziału w wyborach do rad jednostek położonych na obszarze danego województwa, a w przypadku komitetów wyborczych utworzonych jedynie w celu zgłaszania kandydatów na radnych w gminie do 20 000 mieszkańców — na obszarze właściwości komisarza wyborczego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Podanie w zawiadomieniu nazwy i skrótu nazwy komitetu wyborczego niezgodnych z wymogami Ordynacji wyborczej stanowi wadę zawiadomienia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie stanowi wady zawiadomienia komitetu wyborczego stowarzyszenia (organizacji społecznej), wpisanego odpowiednio do rejestru prowadzonego przez właściwy organ, określenie w nim nazwy lub skrótu nazwy takich samych lub niedostatecznie różniących się od nazw lub skrótów nazw innych komitetów wyborczych stowarzyszeń (organizacji społecznych)."
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli komisarz wyborczy wydał wcześniej postanowienie o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego wyborców, w którym podano tę samą lub niedostatecznie różniącą się nazwę lub skrót nazwy od nazwy lub skrótu nazwy partii politycznej lub stowarzyszenia zarejestrowanego przez sąd, po porozumieniu z pełnomocnikiem wyborczym tego komitetu, zmienia postanowienie, określając w nim nową nazwę i/lub skrót nazwy komitetu."
+      },
+      {
+       "type": "text",
+       "text": "W razie braku porozumienia komisarz wyborczy uchyla postanowienie w sprawie przyjęcia zawiadomienia i wzywa pełnomocnika wyborczego komitetu wyborczego do usunięcia wady w terminie 3 dni (art. 64ia)."
+      },
+      {
+       "type": "text",
+       "text": "III. Postanowienia w sprawie zawiadomienia o utworzeniu komitetu wyborczego"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Po ustaleniu, że zawiadomienie spełnia wymogi Ordynacji wyborczej, komisarz wyborczy wydaje postanowienie o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego i zamiarze zgłaszania kandydatów na radnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W postanowieniu podaje się imię (imiona) pełnomocnika wyborczego i pełnomocnika finansowego komitetu wyborczego, nazwę i skrót nazwy komitetu wyborczego oraz jego adres. Ponadto postanowienie powinno zawierać następującą informację:"
+      },
+      {
+       "type": "text",
+       "text": "„Niniejsze postanowienie, zgodnie z art. 83d ust. 1 ustawy — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw, stanowi podstawę otwarcia rachunku bankowego, dokonania wpisu do Rejestru Gospodarki Narodowej (REGON) oraz nadania numeru identyfikacji podatkowej (NIP) na zasadach określonych w ewidencji i identyfikacji podatników i płatników.”. Postanowienie komisarz wyborczy wydaje w terminie 3 dni od doręczenia zawiadomienia i doręcza niezwłocznie pełnomocnikowi wyborczemu komitetu wyborczego.",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W razie stwierdzenia wad zawiadomienia komisarz wyborczy wydaje postanowienie o wezwaniu do usunięcia wad.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komisarz wyborczy, stwierdziwszy wady zawiadomienia, wzywa — w terminie 3 dni od doręczenia zawiadomienia — pełnomocnika wyborczego do ich usunięcia w terminie 3 dni, a jeśli wady nie zostaną usunięte w terminie — wydaje postanowienie w sprawie odmowy przyjęcia zawiadomienia o utworzeniu komitetu wyborczego i zamiarze zgłaszania kandydatów na radnych."
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli wada zawiadomienia polega na złożeniu wykazu podpisów obywateli mających prawo wybierania popierających utworzenie komitetu wyborczego zawierającego mniej niż 20 prawidłowo złożonych podpisów, komisarz wyborczy ustala sposób uzupełnienia wykazu podpisów odpowiednio do charakteru stwierdzonej wady, z tym że wykaz podpisów złożony wraz z zawiadomieniem nie może być przekazany pełnomocnikowi wyborczemu w celu uzupełnienia."
+      },
+      {
+       "type": "text",
+       "text": "Uzupełnienie wykazu podpisów o nowe podpisy może być dokonane tylko do czasu upływu terminu przewidzianego do składania zawiadomień o utworzeniu komitetu, tj. do dnia 4 października 2010 r. w godzinach urzędowania komisarza wyborczego. Jeśli ustalenia wad wykazu podpisów komisarz wyborczy dokonał po upływie ustawowego terminu dla przyjmowania zawiadomień lub gdy do upływu tego terminu pełnomocnik wyborczy nie dokonał uzupełnienia wykazu podpisów, komisarz wyborczy wydaje postanowienie w sprawie odmowy przyjęcia zawiadomienia."
+      },
+      {
+       "type": "text",
+       "text": "W postanowieniu w sprawie odmowy przyjęcia zawiadomienia podaje się uzasadnienie odmowy oraz pouczenie o przysługującym pełnomocnikowi wyborczemu komitetu wyborczego prawie odwołania do właściwego sądu okręgowego; postanowienie doręcza się niezwłocznie pełnomocnikowi wyborczemu (art. 64i ust. 2 i 3)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

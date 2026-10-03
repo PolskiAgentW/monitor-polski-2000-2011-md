@@ -1,0 +1,53 @@
+{
+ "eli": "MP/2008/163",
+ "title": "Zarządzenie Nr 12 Prezesa Rady Ministrów z dnia 13 lutego 2008 r. zmieniające zarządzenie w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/163/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 12 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lutego 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 54 ust. 2 ustawy z dnia 24 sierpnia 2006 r. o służbie cywilnej (Dz. U. Nr 170, poz. 1218, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 81 Prezesa Rady Ministrów z dnia 1 sierpnia 2007 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej (M. P. Nr 48, poz. 566) § 22 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 22. Sporządzenie opisów stanowisk pracy oraz przeprowadzenie wartościowania stanowisk pracy istniejących w urzędzie w dniu wejścia w życie zarządzenia nastąpi w terminie do dnia 31 maja 2008 r.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: w z. W. Pawlak"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592 i Nr 249, poz. 1832 oraz z 2007 r. Nr 25, poz. 162, Nr 123, poz. 847 i Nr 176, poz. 1242."
+ }
+}

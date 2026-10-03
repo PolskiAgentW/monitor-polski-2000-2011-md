@@ -1,0 +1,86 @@
+{
+ "eli": "MP/2010/238",
+ "title": "Zarządzenie Nr 29 Prezesa Rady Ministrów z dnia 16 kwietnia 2010 r. zmieniające zarządzenie w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/238/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 29 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 kwietnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 57 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417 i Nr 76, poz. 641) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Biura Rzecznika Praw Pacjenta, stanowiącym załącznik do zarządzenia nr 67 Prezesa Rady Ministrów z dnia 2 września 2009 r. w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta (M. P. Nr 57, poz. 778), wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1 ust. 2 i 3 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Rzecznik Praw Pacjenta, zwany dalej „Rzecznikiem”, kieruje biurem przy pomocy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) n ie więcej niż dwóch zastępców, zwanych dalej „zastępcami Rzecznika”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dyrektora generalnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Zakres zadań zastępców Rzecznika określa Rzecznik.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. W czasie nieobecności Rzecznika pracą biura kieruje zastępca Rzecznika wyznaczony przez Rzecznika.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

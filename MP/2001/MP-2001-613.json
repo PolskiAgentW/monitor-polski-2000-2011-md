@@ -1,0 +1,40 @@
+{
+ "eli": "MP/2001/613",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 października 2001 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/613/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 października 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (Monitor Polski z 1998 r. Nr 44, poz. 618, z 1999 r. Nr 11, poz. 150 i Nr 23, poz. 331, z 2000 r. Nr 9, poz. 177, Nr 21, poz. 428 i Nr 42, poz. 804 oraz z 2001 r. Nr 37, poz. 586) w art. 74a w ust. 1 wyrazy „siedmiu posłów” zastępuje się wyrazami „9 posłów”.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Borowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

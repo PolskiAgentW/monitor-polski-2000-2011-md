@@ -1,0 +1,67 @@
+{
+ "eli": "MP/2000/452",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 19 lipca 2000 r. w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powołanych dla wyboru Prezydenta Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/452/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 lipca 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powołanych dla wyboru Prezydenta Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 18 pkt 1 ustawy z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pieczęcie komisji wyborczych sporządzane są według następujących wzorów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pieczęcią okręgowej komisji wyborczej jest pieczęć okrągła o średnicy 35 mm, z napisem określającym nazwę i siedzibę komisji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pieczęcią obwodowej komisji wyborczej jest pieczęć okrągła o średnicy 25 mm, z napisem określającym nazwę i siedzibę komisji oraz numer obwodu głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 11 września 1995 r. w sprawie ustalenia wzorów pieczęci wojewódzkich i obwodowych komisji wyborczych powołanych dla wyboru Prezydenta Rzeczypospolitej Polskiej (Monitor Polski Nr 46, poz. 529).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

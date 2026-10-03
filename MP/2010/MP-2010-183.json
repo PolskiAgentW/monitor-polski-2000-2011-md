@@ -1,0 +1,47 @@
+{
+ "eli": "MP/2010/183",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 19 marca 2010 r. w sprawie wykazu akredytowanych jednostek certyfikujących uprawnionych do wydawania certyfikatów jakości biokomponentów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/183/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 marca 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu akredytowanych jednostek certyfikujących uprawnionych do wydawania certyfikatów jakości biokomponentów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 22 ust. 4 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. Nr 169, poz. 1199, z późn. zm.[^2]) ogłasza się, że akredytowanymi jednostkami certyfikującymi uprawnionymi do wydawania certyfikatów jakości biokomponentów są:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Instytut Paliw i Energii Odnawialnej — Jednostka Certyfikująca Wyroby z siedzibą w Warszawie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Instytut Techniczny Wojsk Lotniczych — Jednostka Certyfikująca Wyroby z siedzibą w Warszawie.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: W. Pawlak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 216, poz. 1593).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 217 i Nr 99, poz. 666, z 2009 r. Nr 3, poz. 11 oraz z 2010 r. Nr 21, poz. 104."
+ }
+}

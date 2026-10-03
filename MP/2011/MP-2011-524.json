@@ -1,0 +1,55 @@
+{
+ "eli": "MP/2011/524",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 30 maja 2011 r. nr 115-5-11 zmieniające postanowienie w sprawie nadania tytułu profesora",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/524/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 maja 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "nr 115-5-11"
+  },
+  {
+   "type": "text",
+   "text": "zmieniające postanowienie w sprawie nadania tytułu profesora"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595, z późn. zm.[^1]) postanawiam, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W postanowieniu Prezydenta Rzeczypospolitej Polskiej z dnia 18 kwietnia 2011 r. nr 115-3-11 w sprawie nadania tytułu profesora w części I. TYTUŁ NAUKOWY PROFESORA wiersz piąty w pozycji nauk technicznych zostaje skreślony.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem podpisania z mocą od dnia 18 kwietnia 2011 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: B. Komorowski"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: D. Tusk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 164, poz. 1365, z 2010 r. Nr 96, poz. 620 i Nr 182, poz. 1228 oraz z 2011 r. Nr 84, poz. 455."
+ }
+}

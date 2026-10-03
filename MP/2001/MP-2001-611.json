@@ -1,0 +1,44 @@
+{
+ "eli": "MP/2001/611",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 23 października 2001 r. w sprawie wyboru Trybunału Stanu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/611/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 października 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wyboru Trybunału Stanu."
+  },
+  {
+   "type": "text",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie art. 199 ust. 1 Konstytucji Rzeczypospolitej Polskiej, dokonuje wyboru następujących osób do Trybunału Stanu:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zastępców Przewodniczącego Trybunału Stanu: — Jacka Marię Majchrowskiego, — Ryszarda Skubisza,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "członków Trybunału Stanu: — Ryszarda Janusza Bendera, — Tadeusza Bieleckiego, — Stanisława Marię Estreicha, — Wojciecha Stanisława Geyera, — Andrzeja Jana Kalwasa, — Tadeusza Kiliana, — Artura Sławomira Korobowicza, — Władysława Mąciora, — Andrzeja Sandomierskiego, — Jana Feliksa Szyszko, — Krzysztofa Bogdana Śniegockiego, — Wojciecha Tomczyka, — Edwarda Wende, — Tadeusza de Virion, — Mariusza Zakręta, — Różę Żarską.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Borowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,58 @@
+{
+ "eli": "MP/2006/946",
+ "title": "Uchwała Rady Ministrów Nr 233 z dnia 29 grudnia 2006 r. w sprawie \"Krajowego planu gospodarki odpadami 2010\"",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/946/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY MINISTRÓW Nr 233"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 grudnia 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie „Krajowego planu gospodarki odpadami 2010”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 4 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. Nr 62, poz. 628, z późn. zm.[^1]) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchwala się „Krajowy plan gospodarki odpadami 2010”, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała nr 219 Rady Ministrów z dnia 29 października 2002 r. w sprawie krajowego planu gospodarki odpadami (M. P. z 2003 r. Nr 11, poz. 159).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem 1 stycznia 2007 r. i podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: w z. L. Dorn"
+    },
+    {
+     "type": "text",
+     "text": "(Załącznik do uchwały stanowi oddzielny załącznik do niniejszego numeru)"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 365, Nr 113, poz. 984 i Nr 199, poz. 1671, z 2003 r. Nr 7, poz. 78, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1208 i Nr 191, poz. 1956, z 2005 r. Nr 25, poz. 202, Nr 90, poz. 758, Nr 130, poz. 1087, Nr 175, poz. 1458 i 1462 i Nr 180, poz. 1495 oraz z 2006 r. Nr 50, poz. 360."
+ }
+}

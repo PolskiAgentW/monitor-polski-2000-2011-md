@@ -1,0 +1,67 @@
+{
+ "eli": "MP/2005/263",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2005 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/263/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 marca 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2002 r. Nr 23, poz. 398, z 2003 r. Nr 23, poz. 337 oraz z 2004 r. Nr 12, poz. 182) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 18 w ust. 1 po pkt 19 dodaje się pkt 19a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„19a) Równego Statusu Kobiet i Mężczyzn,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w załączniku do Regulaminu Sejmu Rzeczypospolitej Polskiej „Przedmiotowy zakres działania komisji sejmowych” po pkt 19 dodaje się pkt 19a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„19a) Równego Statusu Kobiet i Mężczyzn należą sprawy wynikające z konstytucyjnej zasady równych praw kobiet i mężczyzn, w tym przestrzeganie równych szans obu płci w politycznym, gospodarczym i społecznym życiu kraju;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: W. Cimoszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,227 @@
+{
+ "eli": "MP/2007/925",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 9 listopada 2007 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/925/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 listopada 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2002 r. Nr 54, poz. 741, z 2004 r. Nr 15, poz. 232 i Nr 18, poz. 302, z 2005 r. Nr 65, poz. 894, Nr 71, poz. 975 i Nr 84, poz. 1201, z 2006 r. Nr 21, poz. 232, Nr 36, poz. 392 i Nr 85, poz. 859 oraz z 2007 r. Nr 15, poz. 156 i Nr 48, poz. 565) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 15 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "uchyla się pkt 1a,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "pkt 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) Nauki, Edukacji i Sportu,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 54 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Marszałek Senatu nie poddaje pod głosowanie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wniosków do uchwały Sejmu, o której mowa w art. 72 ust. 1, wykraczających poza zakres określony w art. 72 ust. 3,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wniosków do projektu, o którym mowa w art. 85a ust. 3 pkt 1, wykraczających poza zakres określony w art. 85c.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "po dziale IX dodaje się dział IXa w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Dział IXa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wykonywanie orzeczeń Trybunału Konstytucyjnego",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 85a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Marszałek Senatu kieruje orzeczenie Trybunału Konstytucyjnego:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) o niezgodności ustawy lub jej części,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) o zgodności ustawy lub jej części, z którego treści wynika potrzeba dokonania zmian w ustawie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) sygnalizujące uchybienia i luki w prawie, których usunięcie jest niezbędne dla zapewnienia spójności systemu prawnego Rzeczypospolitej Polskiej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "do Komisji Ustawodawczej, zlecając jej zbadanie konieczności podjęcia działań ustawodawczych w tym zakresie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kierując orzeczenie Trybunału Konstytucyjnego do Komisji, Marszałek Senatu wyznacza jej termin na rozpatrzenie sprawy. Przewodniczący Komisji może wystąpić do Marszałka Senatu o przedłużenie tego terminu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Po rozpatrzeniu sprawy Komisja:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) składa do Marszałka Senatu wniosek o podjęcie inicjatywy ustawodawczej wraz z projektem ustawy wykonującej orzeczenie Trybunału Konstytucyjnego albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) informuje Marszałka Senatu o przyczynach niezłożenia wniosku o podjęcie inicjatywy ustawodawczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 85b. Marszałek Senatu może zwrócić się do właściwych organów państwa z wnioskiem o podjęcie współpracy w celu wykonania orzeczenia Trybunału Konstytucyjnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 85c. Projekt, o którym mowa w art. 85a ust. 3 pkt 1, oraz wnioski o wprowadzenie poprawek do tego projektu mogą obejmować wyłącznie zmiany zmierzające do wykonania orzeczenia Trybunału Konstytucyjnego oraz ich niezbędne konsekwencje.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 85d. Sprawozdanie, o którym mowa w art. 80 ust. 2, przygotowywane jest w terminie nie dłuższym niż 21 dni.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 85e. O wniesieniu do Sejmu inicjatywy ustawodawczej wykonującej orzeczenie Trybunału Konstytucyjnego Marszałek Senatu zawiadamia także Prezesa Trybunału Konstytucyjnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 85f. Do postępowania z projektami ustaw wykonujących orzeczenia Trybunału Konstytucyjnego stosuje się przepisy działu IX, chyba że przepisy niniejszego działu stanowią inaczej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "dotychczasowy dział IXa oznacza się jako dział IXb oraz dotychczasowy art. 85a oznacza się jako art. 85g;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_5/lit_a",
+       "text": "uchyla się pkt 1a,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_5/lit_b",
+       "text": "w pkt 2 wyrazy „ochrona dziedzictwa kulturalnego” zastępuje się wyrazami „ochrona dziedzictwa kulturowego”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_5/lit_c",
+       "text": "pkt 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) Komisji Nauki, Edukacji i Sportu — organizacja i rozwój badań naukowych, system kształcenia i wychowania, system doskonalenia zawodowego nauczycieli i kadry naukowej, sprawy dzieci i młodzieży, poradnictwo zawodowe dla młodzieży oraz przygotowanie absolwentów szkół średnich i wyższych do zatrudnienia, kultura fizyczna i sport, organizacja instytucji naukowych i oświatowych, współpraca naukowa z zagranicą;”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

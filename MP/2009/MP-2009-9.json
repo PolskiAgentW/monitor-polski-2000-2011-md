@@ -1,0 +1,1483 @@
+{
+ "eli": "MP/2009/9",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2008 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/9/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 grudnia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2002 r. Nr 23, poz. 398, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "art. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Pierwsze posiedzenie nowo wybranego Sejmu otwiera Marszałek-Senior powołany przez Prezydenta Rzeczypospolitej Polskiej spośród najstarszych wiekiem posłów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Marszałek-Senior pełni funkcję do wyboru Marszałka Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Podczas pierwszego posiedzenia Sejmu poseł zajmuje miejsce na sali obrad Sejmu według rozdziału miejsc ustalonego przez Marszałka-Seniora.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Przed wyborem Marszałka Sejmu mogą być rozpatrywane tylko wnioski formalne.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "uchyla się art. 3;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 4 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Sejm wybiera Marszałka Sejmu bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "art. 6 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm wybiera 20 sekretarzy Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kandydatów na sekretarzy Sejmu zgłasza Prezydium Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wybór sekretarzy Sejmu odbywa się łącznie, chyba że Sejm postanowi inaczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do odwołania sekretarza Sejmu stosuje się odpowiednio przepisy ust. 2 i 3.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "dodaje się art. 6a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 6a. W czasie pierwszego posiedzenia Sejmu ponadto Prezes Rady Ministrów składa dymisję Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w rozdziale 2 dodaje się art. 6b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 6b. Wygaśnięcie mandatu posła z powodu odmowy złożenia ślubowania albo uchylania się od złożenia ślubowania stwierdza Marszałek Sejmu po zasięgnięciu opinii Komisji Regulaminowej i Spraw Poselskich.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 7 w ust. 3 dodaje się zdanie drugie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Jego członkostwo w komisji wygasa z dniem powołania w skład Rady Ministrów lub powierzenia funkcji sekretarza stanu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "dodaje się art. 10a i 10b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 10a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm odwołuje Marszałka Sejmu na wniosek złożony przez co najmniej 46 posłów i imiennie wskazujący kandydata na Marszałka Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Sejm odwołuje i wybiera Marszałka Sejmu bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów, w jednym głosowaniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli złożono więcej niż jeden wniosek, o którym mowa w ust. 1, są one rozpatrywane łącznie, jednak poddanie ich pod głosowanie następuje oddzielnie według kolejności złożenia. W przypadku przyjęcia jednego z wniosków pozostałe wnioski nie podlegają głosowaniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Rozpatrzenie wniosku, o którym mowa w ust. 1, i poddanie go pod głosowanie następuje na najbliższym posiedzeniu Sejmu przypadającym po upływie 7 dni od dnia jego złożenia, nie później jednak niż w terminie 45 dni od dnia złożenia wniosku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Sejm odwołuje wicemarszałka Sejmu, na wniosek złożony przez co najmniej 15 posłów, bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 10b. W przypadku:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) śmierci Marszałka Sejmu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) rezygnacji z funkcji Marszałka Sejmu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— obowiązki Marszałka Sejmu wynikające z regulaminu Sejmu sprawuje najstarszy wiekiem wicemarszałek Sejmu do wyboru nowego Marszałka Sejmu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 18 w ust. 1 pkt 10 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„10) Kultury Fizycznej, Sportu i Turystyki,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "w art. 20 dodaje się ust. 4 i 5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Wniosek o odwołanie członka prezydium komisji może być rozpatrzony nie wcześniej niż 3 dnia i nie później niż 30 dnia od dnia jego złożenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Rezygnacja członka prezydium z funkcji następuje z dniem złożenia przez niego Marszałkowi Sejmu pisemnego oświadczenia w tej kwestii.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "dodaje się art. 33a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 33a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Projekt uchwały w sprawie ustanowienia danego roku rokiem osoby albo wydarzenia może być wniesiony do dnia 31 października poprzedniego roku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Projekt, o którym mowa w ust. 1, Marszałek Sejmu kieruje do pierwszego czytania do Komisji Kultury i Środków Przekazu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Komisja Kultury i Środków Przekazu do dnia 30 listopada przedstawia Sejmowi sprawozdania o projektach, o których mowa w ust. 1. Komisja może wnioskować o przyjęcie najwyżej trzech projektów, o których mowa w ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W szczególnie uzasadnionych przypadkach Marszałek Sejmu, po zasięgnięciu opinii Prezydium Sejmu, może wydłużyć terminy, o których mowa w ust. 1 i 3.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "w art. 34 ust. 8 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8. Projekty, co do których istnieje wątpliwość, czy nie są sprzeczne z prawem, w tym z prawem Unii Europejskiej lub podstawowymi zasadami techniki prawodawczej, Marszałek Sejmu, po zasięgnięciu opinii Prezydium Sejmu, może skierować celem wyrażenia opinii do Komisji Ustawodawczej. Komisja może większością 3/5 głosów w obecności co najmniej połowy członków Komisji zaopiniować projekt jako niedopuszczalny. Projektowi zaopiniowanemu jako niedopuszczalny Marszałek Sejmu może nie nadać dalszego biegu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "w art. 36:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_13/lit_a",
+       "text": "dodaje się ust. 1a—1c w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Wnioskodawca, do czasu rozpoczęcia pierwszego czytania, może wnieść autopoprawkę do przedłożonego projektu. Tekst autopoprawki jest wprowadzany do przedłożonego projektu bez konieczności jej głosowania.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1b. Do autopoprawki stosuje się odpowiednio przepisy art. 34.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1c. Autopoprawki nie można wnieść do projektu ustawy wniesionego na podstawie art. 118 ust. 2 Konstytucji.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_13/lit_b",
+       "text": "uchyla się ust. 5;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "w art. 40 dodaje się ust. 4 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. W przypadku skierowanych do komisji projektów połączonych tematycznie i rozpatrywanych w tym samym postępowaniu komisja może podjąć uchwałę o ich wspólnym rozpatrzeniu; komisja sporządza wspólne sprawozdanie o tych projektach.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "w art. 41 dodaje się ust. 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a. W skład podkomisji wchodzi co najmniej 5 posłów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "w art. 42 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. Poprawki po ich ustnym zgłoszeniu na posiedzeniu komisji lub podkomisji przedstawia się na piśmie przewodniczącemu komisji lub podkomisji. Poprawki powinny zawierać wynikające z nich konsekwencje dla tekstu projektu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "art_1/pkt_17",
+     "text": "w art. 43 w ust. 3 w zdaniu pierwszym skreśla się wyraz „ustawy”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_1/pkt_18",
+     "text": "w art. 44 w ust. 1 w pkt 1 skreśla się wyraz „ustawy”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_1/pkt_19",
+     "text": "w art. 45 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Prawo wnoszenia poprawek do projektów ustaw w czasie drugiego czytania przysługuje wnioskodawcy, grupie co najmniej 15 posłów, przewodniczącemu klubu lub koła lub upoważnionemu przez niego wiceprzewodniczącemu — w imieniu klubu lub koła oraz Radzie Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "art_1/pkt_20",
+     "text": "w art. 46 w ust. 1 skreśla się wyraz „ustawy”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "art_1/pkt_21",
+     "text": "uchyla się art. 49a;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "art_1/pkt_22",
+     "text": "w art. 70i w ust. 1 skreśla się zdanie trzecie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "art_1/pkt_23",
+     "text": "w dziale II dodaje się rozdział 3a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Rozdział 3a",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie z projektami ustaw o zmianie Konstytucji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86a. Do postępowania z projektami ustaw o zmianie Konstytucji stosuje się przepisy działu II rozdziału 1, 1a i 14, chyba że przepisy niniejszego rozdziału stanowią inaczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86b.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Do rozpatrzenia projektu ustawy o zmianie Konstytucji Sejm może powołać Komisję Nadzwyczajną.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Skład Komisji Nadzwyczajnej powinien odzwierciedlać reprezentację w Sejmie klubów i kół poselskich.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86c. Komisja, która rozpatruje projekt ustawy o zmianie Konstytucji, powołuje zespół stałych ekspertów, z których 1/3 wskazuje przedstawiciel wnioskodawcy projektu ustawy o zmianie Konstytucji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86d. W posiedzeniach Komisji, która rozpatruje projekt ustawy o zmianie Konstytucji, mogą uczestniczyć przedstawiciele Prezydenta, Rady Ministrów oraz Trybunału Konstytucyjnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86e. Komisja, która rozpatruje projekt ustawy o zmianie Konstytucji, może wystąpić do Marszałka Sejmu z wnioskiem o debatę na temat wybranych zagadnień dotyczących projektu ustawy o zmianie Konstytucji. Sejm rozstrzyga o wprowadzeniu debaty jako punktu porządku dziennego obrad najbliższego, po złożeniu wniosku, posiedzenia Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86f.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Poprawkę do projektu ustawy o zmianie Konstytucji może zgłosić w formie pisemnej, na posiedzeniu Komisji, która rozpatruje projekt ustawy o zmianie Konstytucji, grupa co najmniej 5 posłów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Propozycje poprawek odrzucone przez Komisję, po ich zgłoszeniu w formie pisemnej, na żądanie co najmniej 5 wnioskodawców, zamieszcza się w sprawozdaniu jako wnioski mniejszości; wniosek mniejszości powinien zawierać wynikające z tego wniosku konsekwencje dla tekstu projektu ustawy; do wniosku mniejszości wnioskodawcy dołączają uzasadnienie, które powinno wskazywać potrzebę i cel zmiany oraz jej przewidywane skutki prawne i społeczne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86g. Poselski projekt ustawy o zmianie Konstytucji uważa się za wycofany, jeżeli do czasu zakończenia drugiego czytania, na skutek cofnięcia poparcia, projekt popiera mniej niż 92 posłów spośród tych, którzy podpisali projekt przed jego wniesieniem.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86h. Przyjęcie sprawozdania przez Komisję, która rozpatruje projekt ustawy o zmianie Konstytucji, następuje większością 2/3 głosów w obecności co najmniej połowy członków Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86i. Drugie czytanie projektu ustawy o zmianie Konstytucji może odbyć się nie wcześniej niż czternastego dnia od dnia doręczenia posłom sprawozdania Komisji, która rozpatruje projekt ustawy o zmianie Konstytucji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86j. W razie zgłoszenia w drugim czytaniu poprawki lub wniosku projekt ustawy o zmianie Konstytucji kieruje się ponownie do Komisji, która rozpatrywała projekt ustawy o zmianie Konstytucji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 86k. Przyjęcie poprawki albo wniosku mniejszości do projektu ustawy o zmianie Konstytucji następuje większością co najmniej 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "art_1/pkt_24",
+     "text": "uchyla się art. 94;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "art_1/pkt_25",
+     "text": "art. 95 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 95.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Drugie czytanie projektu, o którym mowa w art. 87 ust. 1, może odbyć się nie wcześniej niż czternastego dnia od dnia doręczenia posłom sprawozdania Komisji Nadzwyczajnej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku zgłoszenia w drugim czytaniu poprawki albo wniosku projekt kieruje się ponownie do Komisji Nadzwyczajnej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "art_1/pkt_26",
+     "text": "w art. 106:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_26/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Projekty i plany, o których mowa w art. 105 pkt 1, Sejm kieruje do rozpatrzenia do Komisji Finansów Publicznych.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_26/lit_b",
+       "text": "dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Sprawozdania, o których mowa w art. 105 pkt 2, Marszałek Sejmu kieruje do rozpatrzenia do Komisji Finansów Publicznych.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "art_1/pkt_27",
+     "text": "w art. 112 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. W debacie nad programem działania i wnioskiem o udzielenie wotum zaufania Radzie Ministrów powołanej przez Prezydenta w trybie art. 154 ust. 1 Konstytucji, przedstawionymi przez Prezesa Rady Ministrów, Marszałek Sejmu, poza kolejnością mówców zapisanych do głosu, udziela głosu wyłącznie Prezesowi Rady Ministrów; po wyczerpaniu listy mówców i zadaniu pytań głos może zabrać wyłącznie Prezes Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "art_1/pkt_28",
+     "text": "w art. 114 dodaje się zdanie drugie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Przepisy art. 112 ust. 1 i 2 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "art_1/pkt_29",
+     "text": "w art. 115 dodaje się ust. 5a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5a. W debacie nad wnioskiem o wyrażenie wotum nieufności Marszałek Sejmu, poza kolejnością mówców zapisanych do głosu, udziela głosu wyłącznie Prezesowi Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "art_1/pkt_30",
+     "text": "w art. 116 dodaje się ust. 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a. W debacie nad wnioskiem o wyrażenie ministrowi wotum nieufności Marszałek Sejmu, poza kolejnością mówców zapisanych do głosu, udziela głosu wyłącznie Prezesowi Rady Ministrów oraz ministrowi, którego wniosek dotyczy.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "31",
+     "path": "art_1/pkt_31",
+     "text": "uchyla się art. 123;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "32",
+     "path": "art_1/pkt_32",
+     "text": "art. 124 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 124.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm zapoznaje się z:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) informacją Trybunału Konstytucyjnego o istotnych problemach wynikających z jego działalności i orzecznictwa oraz z uwagami Trybunału Konstytucyjnego o stwierdzonych uchybieniach i lukach w prawie, których usunięcie jest niezbędne dla zapewnienia spójności systemu prawnego Rzeczypospolitej Polskiej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) coroczną informacją Pierwszego Prezesa Sądu Najwyższego o działalności Sądu Najwyższego oraz o wynikających z niej istotnych problemach,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) informacją Krajowej Rady Sądownictwa z jej rocznej działalności oraz z postulatami co do aktualnych problemów i potrzeb wymiaru sprawiedliwości,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) coroczną informacją Rzecznika Praw Obywatelskich o jego działalności oraz o stanie przestrzegania wolności i praw człowieka i obywatela,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) coroczną informacją Rzecznika Praw Dziecka o jego działalności oraz z uwagami o stanie przestrzegania praw dziecka,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) rocznym sprawozdaniem Prezesa Narodowego Banku Polskiego z działalności Narodowego Banku Polskiego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Informacje, sprawozdania, uwagi i postulaty, o których mowa w ust. 1, doręcza się posłom.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Zapoznanie się przez Sejm z informacjami, sprawozdaniami, uwagami i postulatami, o których mowa w ust. 1, nie może nastąpić później niż w terminie 3 miesięcy od dnia ich doręczenia posłom.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "33",
+     "path": "art_1/pkt_33",
+     "text": "w art. 126:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_33/lit_a",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Przedkładane przez Prezesa Najwyższej Izby Kontroli sprawozdanie z działalności Najwyższej Izby Kontroli w roku ubiegłym rozpatruje Sejm; przed rozpatrzeniem tego sprawozdania Prezydium Sejmu przesyła je do zaopiniowania Komisji do Spraw Kontroli Państwowej oraz może przesłać je do ustosunkowania się właściwym komisjom sejmowym.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_33/lit_b",
+       "text": "dodaje się ust. 5 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Rozpatrzenie przez Sejm sprawozdania, o którym mowa w ust. 4, nie może nastąpić później niż w terminie 3 miesięcy od dnia jego doręczenia posłom.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "34",
+     "path": "art_1/pkt_34",
+     "text": "dodaje się art. 126a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 126a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm może rozpatrzyć informacje, sprawozdania i raporty z działalności instytucji i organów władzy państwowej inne niż te, o których mowa w art. 124—126, przedkładane na podstawie odrębnych przepisów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Informacje, sprawozdania i raporty, o których mowa w ust. 1, doręcza się posłom.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "35",
+     "path": "art_1/pkt_35",
+     "text": "w dziale II tytuł rozdziału 10 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Postępowanie w sprawach odpowiedzialności przed Trybunałem Stanu”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "36",
+     "path": "art_1/pkt_36",
+     "text": "art. 127 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 127. Komisja Odpowiedzialności Konstytucyjnej rozpatruje wstępne wnioski o pociągnięcie do odpowiedzialności przed Trybunałem Stanu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "37",
+     "path": "art_1/pkt_37",
+     "text": "w art. 128 uchyla się ust. 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "38",
+     "path": "art_1/pkt_38",
+     "text": "art. 129 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 129.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Komisja Odpowiedzialności Konstytucyjnej wraz ze sprawozdaniem przedstawia Sejmowi wnioski w sprawie wyboru przez Sejm oskarżycieli.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Komisja Odpowiedzialności Konstytucyjnej w przypadku, o którym mowa w art. 13a ustawy z dnia 26 marca 1982 r. o Trybunale Stanu (Dz. U. z 2002 r. Nr 101, poz. 925, z 2003 r. Nr 175, poz. 1692 oraz z 2004 r. Nr 25, poz. 219), przedstawia Sejmowi wniosek w sprawie wyboru przez Sejm oskarżyciela.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "39",
+     "path": "art_1/pkt_39",
+     "text": "uchyla się art. 130;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "40",
+     "path": "art_1/pkt_40",
+     "text": "w art. 133:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_40/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Komisja Regulaminowa i Spraw Poselskich rozpatruje przekazane przez Marszałka Sejmu wnioski w sprawie wyrażenia zgody na pociągnięcie posła do odpowiedzialności za przestępstwo lub wykroczenie albo aresztowanie bądź zatrzymanie.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_40/lit_b",
+       "text": "dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. W głosowaniu na posiedzeniu Komisji nad sprawozdaniem Komisji nie bierze udziału członek Komisji, którego dotyczy wniosek.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_40/lit_c",
+       "text": "uchyla się ust. 2—4,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_40/lit_d",
+       "text": "uchyla się ust. 7—9;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "41",
+     "path": "art_1/pkt_41",
+     "text": "w art. 134 wyrazy „przestępstwo naruszenia tajemnicy państwowej i służbowej” zastępuje się wyrazami „przestępstwo naruszenia tajemnicy państwowej lub służbowej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "42",
+     "path": "art_1/pkt_42",
+     "text": "w art. 141 uchyla się ust. 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "43",
+     "path": "art_1/pkt_43",
+     "text": "w art. 143 ust. 14 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„14. W przypadku utraty przez posła-członka Komisji członkostwa w klubie jego członkostwo w Komisji wygasa.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "44",
+     "path": "art_1/pkt_44",
+     "text": "w art. 144:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_44/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Posiedzenia Komisji Etyki Poselskiej, na których rozpatruje się sprawy wynikające z majątkowych oświadczeń poselskich, są zamknięte. Przepisu art. 154 ust. 1 nie stosuje się.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_44/lit_b",
+       "text": "dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Uchwały Komisji w sprawach, o których mowa w ust. 1, zapadają bezwzględną większością głosów w obecności co najmniej połowy liczby członków Komisji.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "45",
+     "path": "art_1/pkt_45",
+     "text": "w art. 145 w ust. 3 skreśla się zdanie trzecie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "46",
+     "path": "art_1/pkt_46",
+     "text": "w art. 147 w ust. 2 skreśla się zdanie drugie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "47",
+     "path": "art_1/pkt_47",
+     "text": "dodaje się art. 147a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 147a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Komisja Etyki Poselskiej uchwala projekt regulaminu Komisji określającego szczegółowy tryb działania i pracy Komisji oraz podejmowania przez nią rozstrzygnięć, w szczególności zasady sprawowania funkcji przewodniczącego Komisji i jego zastępcy oraz podawania do wiadomości publicznej uchwał Komisji, o których mowa w art. 147 ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Projekt regulaminu Komisji podlega zatwierdzeniu przez Marszałka Sejmu. Marszałek Sejmu zatwierdza albo odmawia zatwierdzenia projektu w całości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Komisja uchwala zatwierdzony projekt regulaminu Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Regulamin Komisji podlega udostępnieniu w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Do zmian regulaminu Komisji stosuje się przepisy ust. 1—4.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "48",
+     "path": "art_1/pkt_48",
+     "text": "art. 148 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 148. Z uwzględnieniem zmian wynikających z przepisów niniejszego rozdziału, do Komisji Etyki Poselskiej i posłów do niej wybranych stosuje się odpowiednio przepisy Regulaminu Sejmu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "49",
+     "path": "art_1/pkt_49",
+     "text": "w art. 152:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_49/lit_a",
+       "text": "w ust. 2 wyrazy „jednej czwartej” zastępuje się wyrazami „jednej trzeciej”, a wyrazy „14 dni” zastępuje się wyrazami „30 dni”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_49/lit_b",
+       "text": "w ust. 3 dodaje się zdanie trzecie w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Przepisu ust. 5 zdanie drugie nie stosuje się.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "50",
+     "path": "art_1/pkt_50",
+     "text": "w art. 154 w ust. 3 na końcu kropkę zastępuje się przecinkiem i dodaje się wyrazy „a także inne osoby.”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "51",
+     "path": "art_1/pkt_51",
+     "text": "w art. 156:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_51/lit_a",
+       "text": "dotychczasową treść oznacza się jako ust. 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_51/lit_b",
+       "text": "dodaje się ust. 2 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Przewodniczący komisji przyznaje klauzulę tajności dokumentom zawierającym tajemnicę służbową lub państwową wytworzonym na posiedzeniu zamkniętym komisji.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "52",
+     "path": "art_1/pkt_52",
+     "text": "w art. 158 uchyla się ust. 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "53",
+     "path": "art_1/pkt_53",
+     "text": "dodaje się art. 162a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 162a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wniosek komisji o przeprowadzenie kontroli przez Najwyższą Izbę Kontroli powinien zawierać cel i zakres zlecanej kontroli oraz wskazywać podmiot podlegający kontroli.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wniosek, o którym mowa w ust. 1, przedstawiany jest przez przewodniczącego komisji Marszałkowi Sejmu, który przesyła wniosek adresatowi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Marszałek Sejmu może zwrócić komisji uchwalony przez nią wniosek z umotywowanym zaleceniem ponownego rozpatrzenia sprawy; wniosek ponownie uchwalony przez komisję Marszałek Sejmu przesyła adresatowi.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "54",
+     "path": "art_1/pkt_54",
+     "text": "w art. 163 uchyla się ust. 3—5;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "55",
+     "path": "art_1/pkt_55",
+     "text": "dodaje się art. 163a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 163a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Uchwały komisji zapadają większością głosów w obecności co najmniej 1/3 liczby członków komisji, chyba że ustawa lub uchwała stanowi inaczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku zgłoszenia na posiedzeniu komisji wniosku w sprawie proceduralnej wniosek taki głosowany jest niezwłocznie. W przypadku uzyskania w głosowaniu nad wnioskiem równej liczby głosów, o przyjęciu albo o odrzuceniu uchwały w tej sprawie rozstrzyga głos prowadzącego obrady, jeżeli nie wstrzymał się on od głosu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przypadku gdy zaistniały wątpliwości, czy wskutek przyjętych poprawek nie zachodzą sprzeczności pomiędzy poszczególnymi przepisami projektu, komisja może, na wniosek członka komisji, podjąć w głosowaniu decyzję o powrocie do rozpatrywania danej sprawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do głosowania stosuje się odpowiednio przepisy art. 188 ust. 2 pkt 1 i ust. 3.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "56",
+     "path": "art_1/pkt_56",
+     "text": "w art. 165 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. W pracach podkomisji odpowiednie zastosowanie mają przepisy art. 149, 150, 151, 152 ust. 1, art. 154 ust. 1, 1a, 3 i 5, art. 155, 156 i art. 163a ust. 1.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "57",
+     "path": "art_1/pkt_57",
+     "text": "art. 166 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 166.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Z przebiegu każdego posiedzenia komisji sporządza się protokół, który stanowi urzędowe stwierdzenie przebiegu obrad.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Protokół obejmuje krótki opis przebiegu posiedzenia, a w załączniku zredagowany stylistycznie pełny zapis jego przebiegu. Do protokołu załącza się także listy obecności, teksty projektów, przyjętych sprawozdań, uchwał, opinii, dezyderatów oraz teksty poprawek zgłoszonych w formie pisemnej do projektów ustaw i uchwał, teksty przedłożonych odpowiedzi, informacji i innych materiałów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Członek komisji, a także inna osoba zabierająca głos w dyskusji, może zgłosić uwagi do protokołu; o ich przyjęciu lub odrzuceniu decyduje komisja. Protokół, do którego nie wniesiono zastrzeżeń, uważa się za przyjęty. Protokół podpisuje przewodniczący obradom komisji oraz sporządzający protokół.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W Systemie Informacyjnym Sejmu, o którym mowa w art. 201a, umieszcza się wskazany w ust. 2 pełny zapis przebiegu obrad.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "58",
+     "path": "art_1/pkt_58",
+     "text": "w art. 169 w ust. 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_58/lit_a",
+       "text": "pkt 14 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„14) coroczne informacje Rzecznika Praw Obywatelskich o jego działalności oraz o stanie przestrzegania wolności i praw człowieka i obywatela,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_58/lit_b",
+       "text": "dodaje się pkt 14a—14e w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„14a) coroczne informacje Pierwszego Prezesa Sądu Najwyższego o działalności Sądu Najwyższego oraz o wynikających z niej istotnych problemach,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "14b) informacje Krajowej Rady Sądownictwa z jej rocznej działalności oraz postulaty co do aktualnych problemów i potrzeb wymiaru sprawiedliwości,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "14c) coroczne informacje Rzecznika Praw Dziecka o jego działalności oraz uwagi o stanie przestrzegania praw dziecka,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "14d) roczne sprawozdania Prezesa Narodowego Banku Polskiego z działalności Narodowego Banku Polskiego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "14e) coroczne sprawozdania z działalności Krajowej Rady Radiofonii i Telewizji,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_58/lit_c",
+       "text": "pkt 15 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„15) okresowe informacje i sprawozdania z działalności instytucji i organów władzy państwowej innych niż te, o których mowa w pkt 12—14e i 15a, przedkładane na podstawie odrębnych przepisów,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "59",
+     "path": "art_1/pkt_59",
+     "text": "w art. 173:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_59/lit_a",
+       "text": "ust. 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Wnioski o uzupełnienie porządku dziennego mogą zgłaszać kluby, koła oraz grupy co najmniej 15 posłów, przedstawiając je Marszałkowi Sejmu w formie pisemnej do godziny 21⁰⁰ dnia poprzedzającego dzień rozpoczęcia posiedzenia Sejmu.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_59/lit_b",
+       "text": "w ust. 5 wyrazy „sześciu miesięcy” zastępuje się wyrazami „czterech miesięcy”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_59/lit_c",
+       "text": "dodaje się ust. 6 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6. Przepisów ust. 3—5 nie stosuje się do wniosku, o którym mowa w art. 10a ust. 1.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "60",
+     "path": "art_1/pkt_60",
+     "text": "w art. 176 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Sprawozdanie stenograficzne obejmuje zredagowany stylistycznie pełny zapis przebiegu obrad oraz załączniki — teksty interpelacji i zapytań poselskich oraz odpowiedzi na nie, zestawienia zgłoszonych w debacie poprawek do projektów ustaw i uchwał, imienne wykazy wyników głosowań oraz, z zastrzeżeniem art. 187a zdanie drugie, teksty wystąpień niewygłoszonych w danym punkcie porządku dziennego i teksty niewygłoszonych oświadczeń poselskich. Teksty niewygłoszone są oznakowane w sposób umożliwiający ich odróżnienie od tekstów wygłoszonych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "61",
+     "path": "art_1/pkt_61",
+     "text": "w art. 181 w ust. 2 uchyla się pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "62",
+     "path": "art_1/pkt_62",
+     "text": "w art. 182 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Prawo do zadania pytań przed każdym głosowaniem przysługuje jednemu posłowi z każdego klubu i koła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Posłowie, którzy zamierzają zadać pytanie, zapisują się do głosu u sekretarza Sejmu prowadzącego listę posłów zadających pytanie. Przepis art. 179 ust. 3 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "63",
+     "path": "art_1/pkt_63",
+     "text": "w art. 183 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Prezydium Sejmu określa środki służące przestrzeganiu limitu czasowego przysługującego posłowi na zadanie pytania oraz zasady zastosowania tych środków.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "64",
+     "path": "art_1/pkt_64",
+     "text": "w art. 184 dodaje się ust. 9 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„9. Prezydium Sejmu określa środki służące przestrzeganiu limitu czasowego przysługującego posłowi na wystąpienie poza porządkiem dziennym oraz zasady zastosowania tych środków.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "65",
+     "path": "art_1/pkt_65",
+     "text": "w art. 185 dodaje się ust. 4 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Prezydium Sejmu określa środki służące przestrzeganiu limitu czasowego przysługującego posłowi na wygłoszenie oświadczenia poselskiego oraz zasady zastosowania tych środków.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "66",
+     "path": "art_1/pkt_66",
+     "text": "dodaje się art. 187a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 187a. Poseł może na posiedzeniu, w którym uczestniczy, złożyć Marszałkowi Sejmu podpisany przez siebie tekst wystąpienia niewygłoszonego w danym punkcie porządku dziennego i tekst niewygłoszonego oświadczenia poselskiego. Marszałek Sejmu może wyrazić zgodę na opublikowanie takiego tekstu w sprawozdaniu stenograficznym z przebiegu posiedzenia Sejmu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "67",
+     "path": "art_1/pkt_67",
+     "text": "w art. 194 dodaje się ust. 4a i 4b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4a. Wybrana zostaje, z zastrzeżeniem ust. 4b, informacja, która uzyskała większość głosów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4b. Jeżeli wyborowi zostają poddane więcej niż 2 informacje, wybrana zostaje ta, która uzyskała bezwzględną większość głosów. Jeżeli bezwzględnej większości głosów nie uzyskała żadna z poddanych pod głosowanie informacji, przeprowadza się głosowanie ponowne, wykreślając z listy głosowanych informacji tę informację, która uzyskała najmniejszą liczbę głosów. Głosowania przeprowadza się do momentu, w którym wyborowi zostają poddane dwie informacje; w tym przypadku stosuje się przepis ust. 4a.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "68",
+     "path": "art_1/pkt_68",
+     "text": "dodaje się art. 204b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 204b.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Komisja Regulaminowa i Spraw Poselskich uchwala projekt regulaminu Komisji określającego szczegółowy tryb działania i pracy Komisji, w szczególności zasady dostępu do dokumentów dotyczących postępowania w sprawach o pociągnięcie posłów do odpowiedzialności za przestępstwa lub wykroczenia albo o aresztowanie bądź zatrzymanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Projekt regulaminu Komisji podlega zatwierdzeniu przez Marszałka Sejmu. Marszałek Sejmu zatwierdza albo odmawia zatwierdzenia projektu w całości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Komisja uchwala zatwierdzony projekt regulaminu Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Regulamin Komisji podlega udostępnieniu w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Do zmian regulaminu Komisji stosuje się przepisy ust. 1—4.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "69",
+     "path": "art_1/pkt_69",
+     "text": "w załączniku do uchwały — Regulamin Sejmu Rzeczypospolitej Polskiej „Przedmiotowy zakres działania komisji sejmowych”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_69/lit_a",
+       "text": "w pkt 1 skreśla się wyrazy „, a także geodezji i kartografii”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_69/lit_b",
+       "text": "w pkt 8 skreśla się wyrazy „, sprawy turystyki”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_69/lit_c",
+       "text": "w pkt 9 po wyrazach „i poczty” dodaje się wyrazy „oraz geodezji i kartografii”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_69/lit_d",
+       "text": "pkt 10 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„10) Kultury Fizycznej, Sportu i Turystyki należą sprawy kultury fizycznej, sportu oraz turystyki;”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Regulamin Komisji Etyki Poselskiej obowiązujący w dniu wejścia w życie niniejszej uchwały zachowuje moc do dnia wejścia w życie regulaminu Komisji Etyki Poselskiej uchwalonego na podstawie art. 147a Regulaminu Sejmu, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej uchwały.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 pkt 22, 42, 44 lit. a, 57, 60 i 66, które wchodzą w życie z dniem rozpoczęcia kadencji Sejmu następującej po kadencji, w czasie której uchwała weszła w życie.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M. P. z 2003 r. Nr 23, poz. 337, z 2004 r. Nr 12, poz. 182, z 2005 r. Nr 16, poz. 263, Nr 42, poz. 556, Nr 66, poz. 912 i Nr 76, poz. 1062, z 2006 r. Nr 15, poz. 194, z 2007 r. Nr 23, poz. 253 i Nr 87, poz. 943 oraz z 2008 r. Nr 53, poz. 469."
+ }
+}

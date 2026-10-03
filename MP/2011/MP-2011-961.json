@@ -1,0 +1,205 @@
+{
+ "eli": "MP/2011/961",
+ "title": "Obwieszczenie Ministra Finansów z dnia 19 października 2011 r. w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych w 2012 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/961/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 października 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych w 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 2 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2010 r. Nr 95, poz. 613, z późn. zm.[^2]) ogłasza się górne granice stawek kwotowych na rok 2012 określone w:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "art. 5 w ust. 1 w pkt 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, zwanej dalej „ustawą”, w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "lit. a — 0,84 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "lit. b — 4,33 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "lit. c — 0,43 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "art. 5 w ust. 1 w pkt 2 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "lit. a — 0,70 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "lit. b — 21,94 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "lit. c — 10,24 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "lit. d — 4,45 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "lit. e — 7,36 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "art. 10 w ust. 1 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "pkt 1 w: — lit. a — 779,68 zł, — lit. b — 1300,71 zł, — lit. c — 1560,84 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "pkt 2 — 2978,53 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "pkt 3 — 1820,96 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_3/lit_d",
+     "text": "pkt 4 w: — lit. a — 2302,20 zł, — lit. b — 2978,53 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_3/lit_e",
+     "text": "pkt 5 — 1560,84 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_3/lit_f",
+     "text": "pkt 6 w: — lit. a — 1820,96 zł, — lit. b — 2302,20 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_3/lit_g",
+     "text": "pkt 7 w: — lit. a — 1820,96 zł, — lit. b — 2302,20 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "art. 19 w pkt 1 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "lit. a — 728,64 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "lit. b — 2,08 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "lit. c — 2,96 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_4/lit_d",
+     "text": "lit. d — 4,09 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_4/lit_e",
+     "text": "lit. f — 115,31 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: J. Vincent-Rostowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 216, poz. 1592).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 96, poz. 620, Nr 225, poz. 1461 i Nr 226, poz. 1475 oraz z 2011 r. Nr 102, poz. 584, Nr 112, poz. 654 i Nr 171, poz. 1016."
+ }
+}

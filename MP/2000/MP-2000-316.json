@@ -1,0 +1,103 @@
+{
+ "eli": "MP/2000/316",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 13 maja 2000 r. w sprawie kwoty najniższej emerytury i renty, dodatku pielęgnacyjnego i dodatku dla sieroty zupełnej oraz kwot maksymalnych zmniejszeń emerytur lub rent.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/316/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 maja 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwoty najniższej emerytury i renty, dodatku pielęgnacyjnego i dodatku dla sieroty zupełnej oraz kwot maksymalnych zmniejszeń emerytur lub rent."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 94 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215 oraz z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118 i Nr 19, poz. 238) ogłasza się, iż od dnia 1 czerwca 2000 r.:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Kwoty najniższej emerytury i renty wynoszą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "470,51 zł miesięcznie — emerytura, renta rodzinna i renta dla osoby całkowicie niezdolnej do pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "361,92 zł miesięcznie — renta dla osoby częściowo niezdolnej do pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Kwoty dodatków do emerytury i renty wynoszą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "pielęgnacyjnego — 120,64 zł miesięcznie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "dla sieroty zupełnej — 226,75 zł miesięcznie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Kwoty maksymalnych zmniejszeń emerytur i rent w razie osiągania przychodu w kwocie przekraczającej 70% przeciętnego miesięcznego wynagrodzenia ogłoszonego za I kwartał 2000 r., nie wyższej jednak niż 130% tej kwoty, wynoszą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_3/pkt_1",
+     "text": "325,55 zł — dla emerytury lub renty z tytułu całkowitej niezdolności do pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "244,17 zł — dla renty z tytułu częściowej niezdolności do pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_3/pkt_3",
+     "text": "276,72 zł — dla renty rodzinnej, do której uprawniona jest jedna osoba.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: L. Gajek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

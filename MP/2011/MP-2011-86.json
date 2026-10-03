@@ -1,0 +1,591 @@
+{
+ "eli": "MP/2011/86",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 stycznia 2011 r. w sprawie wytycznych dla komisarzy wyborczych oraz terytorialnych i obwodowych komisji wyborczych, dotyczących przygotowania i przeprowadzenia wyborów do rad gmin, rad powiatów, sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast w toku kadencji w latach 2010-2014",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/86/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 stycznia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wytycznych dla komisarzy wyborczych oraz terytorialnych i obwodowych komisji wyborczych, dotyczących przygotowania i przeprowadzania wyborów do rad gmin, rad powiatów, sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast w toku kadencji w latach 2010—2014"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 2 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190), art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.[^1]) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wytyczne dla komisarzy wyborczych oraz terytorialnych i obwodowych komisji wyborczych, dotyczące przygotowania i przeprowadzania wyborów do rad gmin, rad powiatów, sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast w toku kadencji w latach 2010—2014, stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 17 stycznia 2011 r. (poz. 86)"
+    },
+    {
+     "type": "text",
+     "text": "WYTYCZNE DLA KOMISARZY WYBORCZYCH ORAZ TERYTORIALNYCH I OBWODOWYCH KOMISJI WYBORCZYCH, DOTYCZĄCE PRZYGOTOWANIA I PRZEPROWADZANIA WYBORÓW DO RAD GMIN, RAD POWIATÓW, SEJMIKÓW WOJEWÓDZTW, RADY M.ST. WARSZAWY I RAD DZIELNIC M.ST. WARSZAWY ORAZ WYBORÓW WÓJTÓW, BURMISTRZÓW I PREZYDENTÓW MIAST W TOKU KADENCJI W LATACH 2010—2014"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Ilekroć w niniejszych wytycznych jest mowa o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "Ordynacji wyborczej — należy przez to rozumieć ustawę z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "ustawie o wyborze wójta — należy przez to rozumieć ustawę z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "ustawie o samorządzie gminnym — należy przez to rozumieć ustawę z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.[^1]);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "radzie — należy przez to rozumieć radę gminy, radę powiatu, sejmik województwa, Radę m.st. Warszawy i rady dzielnic m.st. Warszawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "wójcie — należy przez to rozumieć także burmistrza i prezydenta miasta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "wyborach w toku kadencji — należy przez to rozumieć wybory ponowne, wybory uzupełniające, wybory przedterminowe i wybory do nowych rad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "wyborach ponownych — należy przez to rozumieć wybory ponowne do rad i wybory ponowne wójtów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "wyborach przedterminowych — należy przez to rozumieć wybory przedterminowe do rad i wybory przedterminowe wójtów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Wybory w toku kadencji przeprowadza się, stosując:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "odpowiednio wytyczne Państwowej Komisji Wyborczej ustalone dla wyborów przeprowadzonych w związku z upływem kadencji, z wyjątkiem wytycznych dotyczących przekazywania Państwowej Komisji Wyborczej danych o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania, w trakcie głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "wzory urzędowych formularzy i druków wyborczych ustalone dla wyborów przeprowadzanych w związku z upływem kadencji, z uwzględnieniem wzorów ustalonych uchwałą Państwowej Komisji Wyborczej z dnia 17 stycznia 2011 r. w sprawie ustalenia wzorów urzędowych formularzy oraz druków wyborczych stosowanych w wyborach ponownych, uzupełniających, przedterminowych, wyborach do nowych rad oraz w wyborach przedterminowych i wyborach ponownych wójtów, burmistrzów i prezydentów miast (M. P. Nr 9, poz. 85);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "wzory zgłoszenia kandydatów na członków komisji wyborczych ustalone uchwałą Państwowej Komisji Wyborczej z dnia 4 września 2006 r. w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy (M. P. Nr 61, poz. 641, z późn. zm.[^2]).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Druki ustalone dla wyborów w związku z upływem kadencji stosuje się po dokonaniu stosownych zmian redakcyjnych oraz zmian związanych z rodzajem wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "W wyborach w toku kadencji terytorialne i obwodowe komisje wyborcze oraz komisarze wyborczy mogą korzystać ze wspomagania informatycznego. Zasady korzystania ze wspomagania informatycznego określa odrębna uchwała.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. Zadania komisarzy wyborczych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Ogólne zadania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stosownie do uchwały Państwowej Komisji Wyborczej z dnia 25 marca 2002 r. w sprawie określenia właściwości terytorialnej komisarzy wyborczych, właściwości rzeczowej w zakresie wykonywania czynności o charakterze ogólnowojewódzkim oraz trybu pracy komisarzy wyborczych (M. P. Nr 13, poz. 225 i Nr 37, poz. 589, z 2004 r. Nr 6, poz. 114 oraz z 2010 r. Nr 68, poz. 856) zadania związane z przygotowaniem i przeprowadzeniem wyborów wykonują komisarze wyborczy zgodnie z ich właściwością terytorialną."
+      },
+      {
+       "type": "text",
+       "text": "W wyborach w toku kadencji nie są ustalane zbiorcze wyniki wyborów na obszarze województwa. W związku z tym podanie do publicznej wiadomości wyników wyborów (do rady lub wyborów wójta) oraz ogłoszenie obwieszczenia w wojewódzkim dzienniku urzędowym należy do kompetencji właściwego terytorialnie komisarza wyborczego."
+      },
+      {
+       "type": "text",
+       "text": "Komisarze wyborczy, zgodnie z właściwością terytorialną:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "współdziałają z wojewodą w sprawach związanych z zarządzeniem wyborów oraz w sprawach związanych z wygaśnięciem i obsadzeniem mandatów radnych, a także w sprawach związanych z wygaśnięciem mandatu wójta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "c zuwają nad prawidłowym wykonywaniem przez właściwe organy — stosownie do rodzaju wyborów — zadań wymienionych w art. 203a Ordynacji wyborczej (utworzenie obwodów głosowania, powołanie obwodowych komisji wyborczych, sporządzenie spisów wyborców, podział na okręgi wyborcze). Jeżeli zadania wyborcze wymienione w tym artykule nie są wykonywane w terminie, w sposób zgodny z prawem, po bezskutecznym upływie wyznaczonego terminu ich wykonania komisarz wyborczy wydaje postanowienie w sprawie wykonania zastępczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "s prawują nadzór nad przestrzeganiem prawa wyborczego, w tym nad zgodnością z prawem czynności wykonywanych przez terytorialne i obwodowe komisje wyborcze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "podają do publicznej wiadomości wyniki wyborów oraz ogłaszają je w wojewódzkim dzienniku urzędowym, a także wykonują inne czynności powierzone im przepisami prawa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "u czestniczą w postępowaniach w sprawach protestów wyborczych. Kopie orzeczeń sądów o nieważności wyborów lub nieważności wyboru radnego (wraz z uzasadnieniem) komisarze wyborczy przesyłają do Państwowej Komisji Wyborczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przyjmowanie zawiadomień o utworzeniu komitetu wyborczego",
+     "children": [
+      {
+       "type": "text",
+       "text": "W wyborach ponownych mogą uczestniczyć wyłącznie komitety wyborcze utworzone dla wyborów, przeciwko ważności których wniesiono zasadny protest. Udział innych komitetów wyborczych w takich wyborach jest dopuszczalny jedynie wówczas, jeżeli z orzeczenia sądu wynika, że należy powtórzyć również czynności związane z przyjmowaniem zawiadomień o utworzeniu komitetu wyborczego."
+      },
+      {
+       "type": "text",
+       "text": "W wyborach uzupełniających, wyborach przedterminowych oraz wyborach do nowych rad mogą uczestniczyć tylko komitety wyborcze utworzone dla zarządzonych wyborów do określonej rady lub wyborów wójta."
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli wybory przedterminowe w danej gminie są jednocześnie wyborami do rady i wyborami wójta, to utworzone dla udziału w tych wyborach komitety wyborcze mogą zgłaszać kandydatów na radnych i kandydatów na wójta."
+      },
+      {
+       "type": "text",
+       "text": "W wyborach uzupełniających, wyborach przedterminowych, wyborach do nowych rad wszystkie komitety wyborcze (w tym również komitety wyborcze partii politycznych i koalicyjne komitety wyborcze) zawiadamiają o swoim utworzeniu komisarza wyborczego, którego właściwość terytorialna obejmuje jednostkę samorządu terytorialnego, w której odbywają się wybory (art. 64j Ordynacji wyborczej)."
+      },
+      {
+       "type": "text",
+       "text": "Zawiadomienia o utworzeniu komitetu wyborczego muszą spełniać takie same wymogi jak zawiadomienia składane w wyborach przeprowadzanych w związku z upływem kadencji, z tym że:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "zawiadomienia składa się w terminie ustalonym w kalendarzu wyborczym stanowiącym załącznik odpowiednio do rozporządzenia Prezesa Rady Ministrów lub zarządzenia wojewody;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "komitety wyborcze wyborców nie zbierają podpisów wyborców popierających utworzenie komitetu wyborczego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Komisarze wyborczy wydają postanowienia w sprawie zawiadomienia o utworzeniu komitetu wyborczego, stosując odpowiednio art. 64i Ordynacji wyborczej."
+        },
+        {
+         "type": "text",
+         "text": "Komisarze wyborczy zwrócą uwagę, aby w kalendarzu wyborczym stanowiącym załącznik do zarządzenia wojewody o przeprowadzeniu wyborów ujęta była czynność dotycząca zawiadomienia komisarza wyborczego o utworzeniu komitetu wyborczego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Przyjmowanie sprawozdań finansowych komitetów wyborczych",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pełnomocnik finansowy każdego komitetu wyborczego uczestniczącego w wyborach uzupełniających, w wyborach przedterminowych oraz w wyborach nowych rad obowiązany jest do złożenia komisarzowi wyborczemu sprawozdania finansowego, o którym mowa w art. 84 ust. 2 Ordynacji wyborczej."
+      },
+      {
+       "type": "text",
+       "text": "Komitet wyborczy uczestniczący w wyborach ponownych, w których prowadzona jest kampania wyborcza (tj. gdy w wyborach ponownych przeprowadza się głosowanie), składa oddzielne sprawozdanie finansowe z wyborów poprzedzających wybory ponowne i oddzielne sprawozdanie finansowe o przychodach i wydatkach związanych z udziałem w wyborach ponownych. Sprawozdania finansowe z wyborów ponownych składa się właściwemu komisarzowi wyborczemu (art. 84 ust. 2a Ordynacji wyborczej)."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy komitet wyborczy nie pozyskiwał i nie wydatkował środków, pełnomocnik finansowy komitetu wyborczego może złożyć komisarzowi wyborczemu oświadczenie zastępujące sprawozdanie finansowe. Do postępowania z oświadczeniami stosuje się odpowiednio przepisy dotyczące sprawozdań finansowych."
+      },
+      {
+       "type": "text",
+       "text": "Komisarze wyborczy przyjmując sprawozdania finansowe, wykonują czynności, o których mowa w art. 84 ust. 6, art. 84a ust. 1—4a, 7 i 8, art. 84b ust. 2, art. 84c oraz art. 84d ust. 4 i 5 Ordynacji wyborczej."
+      },
+      {
+       "type": "text",
+       "text": "Wydatki komitetu wyborczego uczestniczącego w wyborach uzupełniających, przedterminowych lub w wyborach ponownych, w których prowadzona jest kampania wyborcza, są ograniczone limitami wydatków na kampanię wyborczą, wyliczonymi w sposób określony w art. 83e ust. 2 i 3 Ordynacji wyborczej (lub w art. 24 ust. 5 ustawy o wyborze wójta). Limit wydatków w wyborach uzupełniających i ponownych wylicza się, uwzględniając liczbę mandatów w okręgu, w którym komitet zarejestrował kandydatów, bez względu na liczbę mandatów podlegających obsadzeniu."
+      },
+      {
+       "type": "text",
+       "text": "Komisarze wyborczy przekazują Państwowej Komisji Wyborczej kserokopie sprawozdań finansowych złożonych przez komitety wyborcze partii politycznych i koalicyjne komitety wyborcze (bez załączonych do sprawozdań dokumentów) oraz postanowienia wydane w sprawie tych sprawozdań."
+      },
+      {
+       "type": "text",
+       "text": "II. Wybory ponowne"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Wybory przeprowadza się, poczynając od czynności wskazanej w postanowieniu sądu stwierdzającym nieważność wyborów lub nieważność wyboru radnego (art. 61 ust. 2 Ordynacji wyborczej). Jeżeli orzeczenie sądu nie zawiera wskazań co do czynności, od których należy ponowić postępowanie wyborcze, bądź budzi wątpliwości, czy dla przeprowadzenia wyborów powinny zostać powołane nowe komisje wyborcze lub sporządzone nowe spisy wyborców, komisarz wyborczy występuje do sądu o uzupełnienie postanowienia lub o rozstrzygnięcie wątpliwości co do jego treści (art. 351 § 1 i art. 352 Kodeksu postępowania cywilnego w związku z art. 61 ust. 2 i art. 63 ust. 1 i 2 Ordynacji wyborczej).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Odwołanie się w art. 62 ust. 2 Ordynacji wyborczej do odpowiedniego stosowania w wyborach ponownych art. 26 tej ustawy oznacza, że wojewoda wydaje zarządzenie o wyborach ponownych po zasięgnięciu opinii komisarza wyborczego. Wojewoda obowiązany jest zarządzić wybory w ciągu 7 dni od zakończenia postępowania sądowego (art. 62 ust. 1 Ordynacji wyborczej). Data tych wyborów musi przypadać w okresie 90 dni od dnia zakończenia postępowania sądowego, jednakże kalendarz wyborczy może przewidywać skrócone — w rozsądnym wymiarze — terminy wykonania niektórych czynności wyborczych. Komisarz wyborczy współdziała i zapewnia stosowną pomoc wojewodzie w sprawach związanych z zarządzeniem wyborów i ustaleniem czynności postępowania wyborczego. W kalendarzu wyborczym muszą być uwzględnione nie tylko te czynności, które wskazał w postanowieniu sąd, ale także inne, będące następstwem czynności wskazanych przez sąd (np. podanie do wiadomości wyborców informacji o numerze i granicach okręgu, siedzibie komisji, a także danych o kandydatach). Komisarze wyborczy udzielają potrzebnej pomocy komisjom wyborczym, organizując szkolenia, udzielając wyjaśnień prawnych oraz pomocy w sprawach organizacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Dla przeprowadzenia wyborów ponownych nie powołuje się nowych komisji, chyba że podstawą unieważnienia wyborów były zarzuty odnoszące się do komisji wyborczych (art. 63 ust. 1a i 2 Ordynacji wyborczej). W takim przypadku terytorialną komisję wyborczą powołuje się spośród kandydatów zgłoszonych przez pełnomocników tych komitetów wyborczych, które miały prawo zgłosić kandydatów w wyborach unieważnionych, a obwodowe komisje wyborcze — spośród kandydatów zgłoszonych przez pełnomocników tych komitetów wyborczych, które mają zarejestrowane listy kandydatów na radnych lub zarejestrowanego kandydata na wójta. Do powoływania komisji stosuje się zasady określone w wyżej wymienionej uchwale Państwowej Komisji Wyborczej z dnia 4 września 2006 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W skład nowej komisji wyborczej powołanej na wybory ponowne nie mogą wchodzić osoby, które były członkami rozwiązanej komisji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Głosowanie w wyborach ponownych przeprowadza się na podstawie tych samych spisów wyborców, które były sporządzone w związku z wyborami unieważnionymi, chyba że podstawą unieważnienia wyborów były nieprawidłowości w spisie wyborców; w takim przypadku sporządza się nowy spis wyborców.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Z uwagi na zmiany demograficzne spis wyborców sporządzony w związku z wyborami unieważnionymi musi być aktualizowany przed wyborami ponownymi. Jednakże aktualizacja ta może obejmować wyłącznie osoby, które pomiędzy wyborami unieważnionymi a wyborami ponownymi ukończyły 18 lat, oraz osoby, które w tym okresie zmarły lub utraciły czynne prawo wyborcze. Analogiczne zasady należy stosować w przypadku sporządzania nowych spisów wyborców na wybory ponowne."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Przy czynnościach wykonywanych w wyborach ponownych mogą być obecni pełnomocnicy komitetów wyborczych, których kandydaci kandydują w okręgu wyborczym, w którym czynności są powtarzane. Dotyczy to również mężów zaufania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Druki, formularze i inne dokumenty (karty do głosowania, protokoły sporządzane przez komisje wyborcze, obwieszczenia) należy oznaczyć adnotacją informującą, że dotyczą wyborów ponownych. Treść dokumentów sporządzanych w związku z wykonywaniem wskazanych przez sąd czynności wyborczych należy również dostosować do zakresu czynności wykonywanych w konkretnych wyborach, zapewniając ich spójność z treścią zarządzenia wojewody o wyborach ponownych. Oznacza to m.in., że wypełnia się tylko te części protokołów i zestawień, które zawierają informacje i dane dotyczące czynności przeprowadzonych w tych wyborach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Komisje wyborcze mają obowiązek wywieszenia jednego egzemplarza odpowiednio protokołu głosowania i protokołu z wyborów w miejscu łatwo dostępnym dla wyborców (art. 64 Ordynacji wyborczej). W celu zapewnienia wyborcom zrozumiałej informacji o zakresie wyborów ponownych komisja podaje w protokole, w rubryce „Uwagi” bądź w dołączonej do protokołu odrębnej notatce, wyjaśnienie o wykonanych czynnościach (dotyczy to np. ponownego losowania celem ustalenia, któremu kandydatowi przypada mandat, przeliczenia głosów itp.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Właściwy terytorialnie komisarz wyborczy sporządza obwieszczenie o wynikach przeprowadzonych wyborów ponownych i ogłasza je w wojewódzkim dzienniku urzędowym oraz podaje do wiadomości wyborców na obszarze działania rady, do której wybory były przeprowadzone.",
+     "children": [
+      {
+       "type": "text",
+       "text": "III. Wybory uzupełniające w gminach do 20 tys. mieszkańców"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Wybory uzupełniające zarządza się i przeprowadza w ciągu 3 miesięcy od daty stwierdzenia przez radę wygaśnięcia mandatu, a jeżeli uchwała rady o stwierdzeniu wygaśnięcia mandatu została zaskarżona do sądu administracyjnego i w wyniku wyroku sądu administracyjnego zachodzi konieczność przeprowadzenia wyborów uzupełniających — w ciągu 3 miesięcy od dnia uprawomocnienia się wyroku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zarządzenie wojewody o wyborach podaje się niezwłocznie do publicznej wiadomości i ogłasza w wojewódzkim dzienniku urzędowym najpóźniej w 60. dniu przed dniem wyborów; w zarządzeniu podaje się także liczbę wybieranych radnych. Ustawowe terminy wykonania czynności wyborczych nie mogą być skracane. Kalendarz wyborczy powinien obejmować wszystkie czynności wyborcze jak w wyborach związanych z upływem kadencji, z wyjątkiem nieodpłatnego rozpowszechniania audycji wyborczych (art. 76 ust. 2b Ordynacji wyborczej). W kalendarzu wyborczym należy wskazywać czynności dostosowane do przeprowadzanych wyborów, np. zamiast powołania terytorialnych komisji wyborczych — powołanie Gminnej Komisji Wyborczej w ............... .",
+     "children": [
+      {
+       "type": "text",
+       "text": "W wyborach uzupełniających wykonuje się takie same czynności jak w wyborach przeprowadzanych w związku z upływem kadencji, z uwzględnieniem zasad zawiadamiania o utworzeniu komitetów wyborczych wskazanych w pkt I.2 oraz zasad nadawania numerów zarejestrowanym listom kandydatów wskazanych w pkt III.4."
+      },
+      {
+       "type": "text",
+       "text": "Dla każdych wyborów uzupełniających są sporządzane nowe spisy wyborców. Komisje wyborcze powołuje się zgodnie z zasadami ustalonymi wyżej wskazaną uchwałą Państwowej Komisji Wyborczej z dnia 4 września 2006 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Komisja terytorialna sprawdza w czasie zgłoszenia list kandydatów na radnych, czy wykaz podpisów wyborców popierających zgłoszenie listy wyraźnie wskazuje, że dotyczy on wyborów uzupełniających do danej rady. Bada ponadto, czy na liście zgłoszono wymaganą liczbę kandydatów. Należy pamiętać, że stosownie do art. 98 ust. 2 pkt 1 Ordynacji wyborczej lista kandydatów może zawierać najwyżej tyle nazwisk, ilu radnych wybiera się w okręgu w konkretnych wyborach; np. jeżeli w wyborach uzupełniających w 4-mandatowym okręgu wybiera się 1 radnego, każda zgłoszona lista może zawierać tylko po 1 kandydacie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Komisja terytorialna nadaje, w terminie określonym w kalendarzu wyborczym, zarejestrowanym listom numery w drodze losowania, poczynając od numeru 1, stosując odpowiednio przepisy art. 64o ust. 7 i 8 Ordynacji wyborczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "W treści karty do głosowania komisja terytorialna zamieszcza informację, że jest to karta do głosowania w wyborach uzupełniających do danej rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Jeżeli w wyniku wyborów uzupełniających mandat nie zostanie obsadzony, wybory uzupełniające powtarza się między 6. a 9. miesiącem od daty wyborów uzupełniających, w których mandat został nieobsadzony (art. 193 ust. 2 Ordynacji wyborczej). W takiej sytuacji komisarz wyborczy występuje do wojewody o zarządzenie wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "W przypadku gdy w wyborach uzupełniających do rady gminy, mimo upływu terminu zawiadomienia komisarza wyborczego o utworzeniu komitetów wyborczych i zamiarze zgłaszania kandydatów na radnego, nie zgłosił się żaden komitet wyborczy i w związku z tym nie została powołana gminna komisja wyborcza, komisarz wyborczy na podstawie art. 12 ust. 1 pkt 1 i 8 Ordynacji wyborczej, w ramach sprawowania nadzoru, powinien wydać obwieszczenie o przyczynach nieprzeprowadzenia wyborów w okręgu z jednoczesną informacją, że zgodnie z art. 193 ust. 2 Ordynacji wyborczej wybory takie zostaną powtórzone między 6. a 9. miesiącem, licząc od daty tych wyborów. Obwieszczenie takie podlega opublikowaniu w wojewódzkim dzienniku urzędowym oraz podaniu do publicznej wiadomości wyborców poprzez rozplakatowanie na terenie właściwego okręgu wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Wyborów uzupełniających nie przeprowadza się, jeżeli ich data przypadałaby w okresie 6 miesięcy przed zakończeniem kadencji rady (art. 193 ust. 4 Ordynacji wyborczej).",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Uzupełnianie składów rad gmin w gminach powyżej 20 tys. mieszkańców, rad powiatów, sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W razie wygaśnięcia mandatu uzupełnienie składu rady następuje przez wstąpienie na opróżnione miejsce kandydata z tej samej listy, który w wyborach uzyskał kolejno największą liczbę głosów, a nie utracił prawa wybieralności. Gdyby natomiast dwaj kandydaci uzyskali równą liczbę głosów, mandat uzyskuje ten kandydat, którego nazwisko jest umieszczone na liście w pierwszej kolejności (art. 194 ust. 1 Ordynacji wyborczej).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli uzupełnienie składu rady w trybie art. 194 ust. 1 i 2 Ordynacji wyborczej nie było możliwe, w wyniku czego skład rady zmniejszył się o ponad 1/5, wojewoda zarządza wybory uzupełniające do tej rady. Informację o wystąpieniu takiej sytuacji komisarz wyborczy niezwłocznie przekazuje wojewodzie. W wyborach uzupełniających w gminach powyżej 20 tys. mieszkańców, w powiatach, w województwach, w m.st. Warszawie i w dzielnicach m.st. Warszawy stosuje się odpowiednio tryb postępowania omówiony w pkt III, z tym że numery zarejestrowanym listom nadają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "terytorialne komisje wyborcze — w wyborach do rad w gminach powyżej 20 tys. mieszkańców, w wyborach Rady m.st. Warszawy i wyborach do rad dzielnic m.st. Warszawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "właściwi terytorialnie komisarze wyborczy — w wyborach do rad powiatów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "komisarze wyborczy wykonujący zadania ogólnowojewódzkie — w wyborach do sejmików województw,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "stosując odpowiednio przepisy art. 64o Ordynacji wyborczej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "W podziale mandatów w wyborach uzupełniających w gminach powyżej 20 tys. mieszkańców, w powiatach, w województwach, w m.st. Warszawie i w dzielnicach m.st. Warszawy biorą udział listy kandydatów tych komitetów wyborczych, na których listy oddano w wyborach uzupełniających co najmniej 5 % ważnie oddanych głosów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Obowiązkiem komisarza wyborczego, zgodnie z art. 182 i 183 w związku z art. 194 ust. 1 i 2 Ordynacji wyborczej, jest podanie do publicznej wiadomości i ogłoszenie w wojewódzkim dzienniku urzędowym zmian w składach rad. Niezbędne jest w związku z tym bieżące współdziałanie komisarzy wyborczych z właściwymi radami, zapewniające systematyczne przekazywanie uchwał dotyczących zmian w składach rad, czuwanie nad poprawnością uchwał rad w tych sprawach oraz udzielanie potrzebnej pomocy prawnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Nie uzupełnia się składu rady oraz nie przeprowadza się wyborów uzupełniających, jeżeli do zakończenia kadencji rady zostało mniej niż 6 miesięcy (art. 194 ust. 1 zdanie trzecie i ust. 3 Ordynacji wyborczej).",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Wybory przedterminowe"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Wybory przedterminowe rady",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przygotowanie i przeprowadzenie wyborów przedterminowych odbywa się, zgodnie z art. 196 Ordynacji wyborczej, na zasadach i w trybie przepisów Ordynacji wyborczej, z zastosowaniem art. 26 ust. 1 tej ustawy."
+      },
+      {
+       "type": "text",
+       "text": "Wyborów przedterminowych nie przeprowadza się, jeżeli ich data przypadałaby w okresie 12 miesięcy przed zakończeniem kadencji rady (art. 196 ust. 3 Ordynacji wyborczej)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Wybory przedterminowe wójta",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przygotowanie i przeprowadzenie wyborów przedterminowych wójta odbywa się na zasadach określonych w ustawie o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta oraz w Ordynacji wyborczej (art. 28d ust. 1 ustawy o samorządzie gminnym)."
+      },
+      {
+       "type": "text",
+       "text": "Wybory przedterminowe wójta są zarządzane w sposób określony w art. 26 Ordynacji wyborczej."
+      },
+      {
+       "type": "text",
+       "text": "Jeśli w wyborach przedterminowych wybiera się tylko wójta, do zgłoszenia kandydata należy dołączyć wykaz podpisów wyborców popierających zgłoszenie co najmniej w liczbie wskazanej w art. 7 ust. 4 ustawy o wyborze wójta."
+      },
+      {
+       "type": "text",
+       "text": "Wzór wykazu osób popierających zgłoszenie kandydata na wójta stanowi załącznik do rozporządzenia Prezesa Rady Ministrów z dnia 20 listopada 2002 r. w sprawie wzoru wykazu osób popierających zgłoszenie kandydata na wójta, burmistrza albo prezydenta miasta w wyborach przedterminowych (Dz. U. Nr 197, poz. 1664)."
+      },
+      {
+       "type": "text",
+       "text": "W wyborach przedterminowych wójta przeprowadzanych łącznie z wyborami przedterminowymi rady lub z wyborami do nowej rady prawo zgłoszenia kandydatów mają komitety wyborcze, które zarejestrowały listy kandydatów na radnych w co najmniej połowie okręgów wyborczych w danej gminie, przy czym w każdym z tych okręgów liczba zarejestrowanych przez ten komitet kandydatów nie może być mniejsza od liczby radnych wybieranych w tym okręgu (art. 7 ust. 2 ustawy o wyborze wójta). Do zgłoszenia kandydatów na wójta nie dołącza się wówczas wykazu podpisów wyborców popierających zgłoszenie."
+      },
+      {
+       "type": "text",
+       "text": "Wyborów przedterminowych wójta nie przeprowadza się, jeżeli data tych wyborów miałaby przypaść w okresie 6 miesięcy przed zakończeniem kadencji wójta, jak również wtedy, gdy data wyborów miałaby przypaść w okresie dłuższym niż 6 a krótszym niż 12 miesięcy przed zakończeniem kadencji wójta i rada gminy w terminie 30 dni od dnia podjęcia uchwały stwierdzającej wygaśnięcie mandatu wójta podejmie uchwałę o nieprzeprowadzaniu wyborów (art. 28d ust. 2 ustawy o samorządzie gminnym)."
+      },
+      {
+       "type": "text",
+       "text": "VI. Wybory do nowych rad"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do przeprowadzenia wyborów do nowych rad stosuje się art. 26 Ordynacji wyborczej; wybory zarządza Prezes Rady Ministrów i są one przeprowadzane w ciągu 90 dni od dnia utworzenia jednostki samorządu terytorialnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Wyborów do nowych rad nie przeprowadza się, jeżeli ich data przypadałaby w okresie 6 miesięcy przed zakończeniem kadencji rad (art. 197 ust. 8 Ordynacji wyborczej).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Komisarze wyborczy są obowiązani systematycznie analizować zmiany w podziale terytorialnym i podejmować działania związane ze skutkami tych zmian. Współdziałają także z wojewodami w sprawach związanych z terminowym wykonaniem przez rady obowiązku podejmowania uchwał o wygaśnięciu mandatów, a także w sprawach związanych z zarządzeniem wyborów do rad w związku ze zmianami w podziale terytorialnym państwa.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1087, z 2006 r. Nr 249, poz. 1826 i 1828 oraz z 2009 r. Nr 95, poz. 787.",
+  "1_2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337, z 2007 r. Nr 48, poz. 327, Nr 138, poz. 974 i Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111 i Nr 223, poz. 1458, z 2009 r. Nr 52, poz. 420 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 142 i 146, Nr 40, poz. 230 i Nr 106, poz. 675.",
+  "2": "Zmiany wymienionej uchwały zostały ogłoszone w M. P. z 2006 r. Nr 68, poz. 701, z 2007 r. Nr 5, poz. 67 oraz z 2010 r. Nr 68, poz. 857 i Nr 73, poz. 928."
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "eli": "MP/2010/914",
+ "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 września 2010 r. zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/914/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 września 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 143 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Kancelarii Prezydenta Rzeczypospolitej Polskiej stanowiącym załącznik do zarządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 28 marca 2006 r. w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej (M. P. Nr 49, poz. 526, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Prezydent powołuje i odwołuje Szefa Kancelarii oraz sekretarzy i podsekretarzy stanu.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "ust. 3a otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3a. Szefa Kancelarii w czasie nieobecności zastępuje wyznaczony przez niego sekretarz lub podsekretarz stanu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W skład Kancelarii wchodzą następujące statutowe komórki organizacyjne:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Gabinet Prezydenta;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Biuro Prawa i Ustroju;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Biuro Kadr i Odznaczeń;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Biuro Spraw Zagranicznych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Biuro Doradców, Ekspertyz i Opinii;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Biuro Prasowe;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) B iuro do Spraw Wystąpień Prezydenta i Patronatów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) B iuro Obsługi Organizacyjnej Prezydenta;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Biuro Inicjatyw Społecznych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Biuro Listów i Opinii Obywatelskich;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Biuro Kultury, Nauki i Dziedzictwa Narodowego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Biuro Obywatelstw i Prawa Łaski;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Biuro Finansowe;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) Biuro Audytu Wewnętrznego i Kontroli;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) Biuro Administracyjne;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) Archiwum Prezydenta;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17) Biuro Ochrony.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Statutowymi komórkami organizacyjnymi Kancelarii kierują:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) komórkami organizacyjnymi, o których mowa w pkt 1—15 — dyrektorzy;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Archiwum Prezydenta — Kierownik Archiwum Prezydenta;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Biurem Ochrony — Pełnomocnik do spraw ochrony informacji niejawnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Szef Kancelarii może powierzyć kierowanie statutową komórką organizacyjną sekretarzowi stanu albo podsekretarzowi stanu sprawującemu nad nią nadzór merytoryczny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Część działalności gospodarczej i techniczno-remontowej może być prowadzona w formie gospodarstwa pomocniczego.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej przeprowadzi reorganizację Kancelarii związaną ze zmniejszeniem liczby etatów i nową strukturą jej statutowych komórek organizacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionego zarządzenia zostały ogłoszone w M. P. z 2006 r. Nr 60, poz. 634 i Nr 69, poz. 704, z 2007 r. Nr 12, poz. 121, z 2008 r. Nr 4, poz. 44 oraz z 2009 r. Nr 8, poz. 77 i Nr 21, poz. 264."
+ }
+}

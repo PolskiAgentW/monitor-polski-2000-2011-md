@@ -1,0 +1,51 @@
+{
+ "eli": "MP/2009/489",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 13 maja 2009 r. w sprawie przyjęcia sprawozdania z wykonania założeń polityki pieniężnej na rok 2008",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/489/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 maja 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przyjęcia sprawozdania z wykonania założeń polityki pieniężnej na rok 2008"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przyjmuje się sprawozdanie z wykonania założeń polityki pieniężnej na rok 2008.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: S.S. Skrzypek"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie Rady Polityki Pieniężnej: J. Czekaj, D. Filar, S. Nieckarz, M. Noga, S. Owsiak, M. Pietrewicz, A. Sławiński, H. Wasilewska-Trenker, A. Wojtyna"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317 oraz z 2009 r. Nr 69, poz. 589."
+ }
+}

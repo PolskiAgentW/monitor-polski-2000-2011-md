@@ -1,0 +1,69 @@
+{
+ "eli": "MP/2006/101",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 20 stycznia 2006 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/101/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 stycznia 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 7 lutego 2006 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 20 stycznia 2006 r. (poz. 101)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Śred- Wiel- War- Masa nica kość Brzeg (bok) (w gra- (w mi- Stop emisji tość strona główna strona odwrotna mach) lime- (w sztutrach) kach)"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Z prawej strony Stylizowany wizeru- Na boku ośnapis: 2 Zł. U góry półnek Kościoła pw. miokrotnie kolem napis: RZECZ- św. Mikołaja, poni- powtórzony POSPOLITA POLSKA żej stylizowany wi- napis: NBP, oraz oznaczenie roku 2 zł zerunek narzędzi co drugi od- 8,15 27,0 CuAl5Zn5Sn1 1 100 000 emisji: 2006. Poniżej orła górniczych z herbu w r ó c o n y stylizowany fragment Bochni. U góry pół- o 180 stopni, muru miejskiego z blankolem napis: BOCH- rozdzielony kami oraz z bramą o roz- NIA. gwiazdkami. wartych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

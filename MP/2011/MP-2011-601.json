@@ -1,0 +1,542 @@
+{
+ "eli": "MP/2011/601",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/601/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 czerwca 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 162 § 1 pkt 1 i 2 i § 2 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Uchwała określa warunki i sposób wykorzystania techniki elektronicznej oraz tryb przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej przy wykonywaniu zadań związanych z przeprowadzeniem wyborów przez organy wyborcze i organy jednostek samorządu terytorialnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przepisy uchwały stosuje się odpowiednio w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunkiem korzystania przez organy, o których mowa w § 1 ust. 1, z techniki elektronicznej jest używanie wyłącznie oprogramowania, które zapewnia Państwowa Komisja Wyborcza.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "System informatyczny wspomagający organy wyborcze w pracach przygotowawczych przed dniem wyborów oraz przy ustalaniu wyników głosowania i wyników wyborów umożliwia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "wprowadzenie i przechowywanie danych o obwodach głosowania i o okręgach wyborczych oraz o składach obwodowych i okręgowych komisji wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wprowadzenie i przechowywanie danych o liczbie wyborców, o liczbie udzielonych pełnomocnictw do głosowania, o liczbie wydanych zaświadczeń o prawie do głosowania oraz o liczbie wysłanych pakietów wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "wprowadzenie i przechowywanie danych o komitetach wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "wprowadzenie i przechowywanie informacji o listach kandydatów na posłów i o kandydatach na senatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "sporządzenie projektów obwieszczeń o zarejestrowanych listach kandydatów na posłów i o zarejestrowanych kandydatach na senatorów oraz projektów kart do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "przekazanie, w trakcie głosowania, danych o liczbie osób uprawnionych do głosowania ujętych w spisach wyborców oraz o liczbie wydanych wyborcom kart do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "wprowadzenie przez operatora obwodowej komisji wyborczej danych zawartych w protokole głosowania w obwodzie oraz przechowywanie tych danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_1/pkt_8",
+       "text": "sprawdzenie pod względem zgodności arytmetycznej poprawności ustalenia wyników głosowania w obwodzie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_8/lit_a",
+         "text": "na podstawie projektu protokołu głosowania — przez operatora obwodowej komisji wyborczej, bądź",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_8/lit_b",
+         "text": "na podstawie kopii protokołu głosowania (w przypadku obwodowych komisji wyborczych nieobjętych obsługą informatyczną) — przez pełnomocnika okręgowej komisji wyborczej, powołanego w trybie art. 173 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy, lub operatora obsługi informatycznej pełnomocnika okręgowej komisji wyborczej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_1/pkt_9",
+       "text": "przesłanie z obwodowej komisji wyborczej do okręgowej komisji wyborczej, bezpośrednio lub za pośrednictwem pełnomocnika okręgowej komisji wyborczej, danych o wynikach głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_1/pkt_10",
+       "text": "s porządzenie wydruków kontrolnych zawierających dane z protokołów głosowania w poszczególnych obwodach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/ust_1/pkt_11",
+       "text": "w eryfikację przez okręgową komisję wyborczą zgodności danych elektronicznych otrzymanych z obwodowej komisji wyborczej z protokołem głosowania dostarczonym przez obwodową komisję wyborczą bądź wykonanie czynności, o których mowa w pkt 7 i 8, na podstawie protokołu komisji obwodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_3/ust_1/pkt_12",
+       "text": "p rzesłanie zweryfikowanych przez okręgową komisję wyborczą wyników głosowania w obwodach do Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_3/ust_1/pkt_13",
+       "text": "u stalenie wyników głosowania i wyników wyborów w okręgach wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_3/ust_1/pkt_14",
+       "text": "s porządzenie, w formie wydruku, projektów protokołów głosowania i protokołów wyborów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_3/ust_1/pkt_15",
+       "text": "p rzekazanie przez okręgową komisję wyborczą wyników głosowania i wyników wyborów w okręgu wyborczym do Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_3/ust_1/pkt_16",
+       "text": "w eryfikację przez Państwową Komisję Wyborczą zgodności danych elektronicznych otrzymanych z okręgowej komisji wyborczej z danymi z protokołów wyników głosowania i wyników wyborów w okręgach wyborczych dostarczonymi przez komisje okręgowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_3/ust_1/pkt_17",
+       "text": "ustalenie przez Państwową Komisję Wyborczą zbiorczych wyników głosowania i wyników wyborów na obszarze kraju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_3/ust_1/pkt_18",
+       "text": "sporządzenie projektów obwieszczeń Państwowej Komisji Wyborczej o wynikach wyborów do Sejmu i o wynikach wyborów do Senatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_3/ust_1/pkt_19",
+       "text": "przechowywanie danych zawartych w protokołach głosowania w obwodach, w okręgach wyborczych i w skali kraju.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "System informatyczny zapewnia Państwowej Komisji Wyborczej wgląd we wszystkie dane liczbowe wprowadzone do systemu informatycznego przez obwodowe i okręgowe komisje wyborcze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "System informatyczny zapewnia przesyłanie danych obejmujących wyniki głosowania i wyniki wyborów za pośrednictwem sieci elektronicznego przekazywania danych, z zapewnieniem bezpieczeństwa komunikacji, autoryzacji oraz poprawności i integralności przekazanych danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Obsługę informatyczną Państwowej Komisji Wyborczej zapewnia Szef Krajowego Biura Wyborczego za pośrednictwem Zespołu Prawnego i Organizacji Wyborów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Obsługę okręgowej komisji wyborczej w zakresie eksploatacji systemu informatycznego zapewnia dyrektor właściwej delegatury Krajowego Biura Wyborczego za pośrednictwem pełnomocnika ds. obsługi informatycznej, podporządkowanego przewodniczącemu komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Pełnomocnik ds. obsługi informatycznej nadzoruje pracę zespołu, w którego skład wchodzą: kierownik operatorów, operatorzy i koordynator okręgowy odpowiedzialny za szkolenie koordynatorów gminnych wspomagających operatorów obsługujących obwodowe komisje wyborcze i za wsparcie techniczne oprogramowania do obsługi informatycznej obwodowych komisji wyborczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Techniczne warunki pracy pełnomocnika ds. obsługi informatycznej, zespołu operatorów i koordynatora okręgowego zapewnia Szef Krajowego Biura Wyborczego za pośrednictwem dyrektora delegatury.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Obsługę obwodowej komisji wyborczej w zakresie zastosowania systemu informatycznego niezbędnego dla wykonania czynności, o których mowa w § 3 ust. 1 pkt 7, 8 i 9, oraz udostępnienie niezbędnego sprzętu teleinformatycznego zapewnia wójt (burmistrz, prezydent miasta) w ramach zadania zleconego gminie, ustanawiając w tym celu operatora informatycznej obsługi komisji obwodowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zadania operatora, o którym mowa w ust. 1, może wykonywać członek obwodowej komisji wyborczej, w tym także osoba wskazana do składu tej komisji przez wójta (burmistrza, prezydenta miasta).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wójt (burmistrz, prezydent miasta) ustanawia koordynatora gminnego odpowiedzialnego za szkolenie operatorów obsługi informatycznej obwodowych komisji wyborczych i wsparcie techniczne obsługi informatycznej tych komisji oraz wykonanie zadań określonych w § 3 ust. 1 pkt 2 i 6.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Wójt (burmistrz, prezydent miasta) w ramach zadań zleconych gminie zapewnia, w porozumieniu z dyrektorem właściwej delegatury Krajowego Biura Wyborczego, udostępnienie sprzętu informatycznego niezbędnego dla wykonania zadań pełnomocnika okręgowej komisji wyborczej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Technika elektroniczna w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej jest wykorzystywana w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "przez Państwową Komisję Wyborczą w zakresie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_1/lit_a",
+       "text": "ewidencjonowania zawiadomień o utworzeniu komitetów wyborczych wyborców,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_1/lit_b",
+       "text": "wprowadzenia danych o składach osobowych oraz o siedzibach okręgowych komisji wyborczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_1/lit_c",
+       "text": "ustalenia zbiorczych wyników głosowania na listy kandydatów w skali kraju i stwierdzenia, które listy spełniają warunek uprawniający do uczestniczenia w podziale mandatów w okręgach wyborczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_7/pkt_1/lit_d",
+       "text": "sporządzenia dla okręgowych komisji wyborczych i przekazania zawiadomienia o listach kandydatów, które spełniają warunki uprawniające do uczestniczenia w podziale mandatów w okręgach wyborczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_7/pkt_1/lit_e",
+       "text": "sprawdzenia prawidłowości ustalenia wyników wyborów posłów i senatorów w okręgach wyborczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_7/pkt_1/lit_f",
+       "text": "sporządzenia projektu protokołu zbiorczych wyników głosowania na okręgowe listy kandydatów na posłów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_7/pkt_1/lit_g",
+       "text": "sporządzenia projektu obwieszczenia o wynikach wyborów do Sejmu Rzeczypospolitej Polskiej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_7/pkt_1/lit_h",
+       "text": "sporządzenia projektu obwieszczenia o wynikach wyborów do Senatu Rzeczypospolitej Polskiej;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "przez okręgową komisję wyborczą w zakresie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_2/lit_a",
+       "text": "wprowadzenia lub weryfikacji danych o podziale gmin na obwody głosowania oraz o liczbie wyborców wpisanych do spisów wyborców, o liczbie udzielonych pełnomocnictw do głosowania, o liczbie wydanych zaświadczeń o prawie do głosowania oraz o liczbie wysłanych pakietów wyborczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_2/lit_b",
+       "text": "wprowadzenia danych o listach kandydatów na posłów i o kandydatach na senatorów oraz sporządzenia projektów kart do głosowania i obwieszczeń o zarejestrowanych listach i kandydatach,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_2/lit_c",
+       "text": "kontroli poprawności ustalenia wyników głosowania w obwodach,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_7/pkt_2/lit_d",
+       "text": "wprowadzenia wyników głosowania ustalonych przez obwodowe komisje wyborcze nieobjęte wsparciem informatycznym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_7/pkt_2/lit_e",
+       "text": "ustalenia wyników głosowania w okręgu wyborczym do Sejmu i sporządzenia projektu protokołu wyników głosowania w okręgu wyborczym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_7/pkt_2/lit_f",
+       "text": "dokonania podziału mandatów pomiędzy uprawnione listy kandydatów, ustalenia wyników wyborów posłów w okręgu wyborczym i sporządzenia projektu protokołu wyników wyborów posłów w okręgu wyborczym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_7/pkt_2/lit_g",
+       "text": "ustalenia wyników głosowania i wyników wyborów senatora w okręgu wyborczym i sporządzenia projektu protokołu wyników głosowania i wyników wyborów senatora w okręgu wyborczym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_7/pkt_2/lit_h",
+       "text": "przekazania Państwowej Komisji Wyborczej danych z protokołów okręgowej komisji wyborczej za pośrednictwem sieci elektronicznego przekazywania danych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "przez pełnomocnika okręgowej komisji wyborczej przy sprawdzeniu arytmetycznej poprawności ustalonych wyników głosowania w obwodzie nieobjętym wsparciem informatycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "przy ustalaniu wyników głosowania w obwodzie oraz ich przesłaniu bezpośrednio przez obwodową komisję wyborczą (lub za pośrednictwem pełnomocnika okręgowej komisji wyborczej) w zakresie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_4/lit_a",
+       "text": "sprawdzenia arytmetycznej poprawności ustalonych wyników głosowania w obwodzie oraz sporządzenia projektu protokołów głosowania w obwodzie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_4/lit_b",
+       "text": "sporządzenia kopii danych o wynikach głosowania w obwodzie na elektronicznym nośniku danych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_4/lit_c",
+       "text": "przekazania właściwej okręgowej komisji wyborczej danych o wynikach głosowania w obwodzie za pośrednictwem sieci elektronicznego przekazywania danych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "w pracach przygotowawczych przed dniem wyborów w gminie, dla wprowadzenia do systemu informatycznego lub przekazania właściwej okręgowej komisji wyborczej danych o podziale gminy na obwody głosowania z określeniem liczby wyborców w obwodach, liczby wydanych zaświadczeń o prawie do głosowania, liczby udzielonych pełnomocnictw do głosowania, liczby wysłanych pakietów wyborczych oraz siedzib i składów obwodowych komisji wyborczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Szczegółowy zakres zadań osób uczestniczących w obsłudze informatycznej określi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "Szef Krajowego Biura Wyborczego — w odniesieniu do osób odpowiedzialnych za wsparcie informatyczne prac Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "dyrektor delegatury Krajowego Biura Wyborczego w porozumieniu z przewodniczącym okręgowej komisji wyborczej — w odniesieniu do pełnomocnika okręgowej komisji wyborczej, pełnomocnika ds. obsługi informatycznej, koordynatora okręgowego, kierownika operatorów i operatora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "wójt (burmistrz, prezydent miasta) — w odniesieniu do koordynatora gminnego, operatora informatycznej obsługi obwodowej komisji wyborczej i operatora obsługi informatycznej pełnomocnika okręgowej komisji wyborczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Szef Krajowego Biura Wyborczego opracuje i przekaże przewodniczącym okręgowych komisji wyborczych, dyrektorom delegatur Krajowego Biura Wyborczego oraz wójtom (burmistrzom, prezydentom miast) projekty zakresu zadań poszczególnych osób uczestniczących w obsłudze informatycznej okręgowych i obwodowych komisji wyborczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Uchwała wchodzi w życie z dniem 1 sierpnia 2011 r. i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588 i Nr 134, poz. 777."
+ }
+}

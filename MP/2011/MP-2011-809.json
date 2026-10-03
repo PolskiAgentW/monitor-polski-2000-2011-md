@@ -1,0 +1,90 @@
+{
+ "eli": "MP/2011/809",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 sierpnia 2011 r. w sprawie sposobu sporządzania i przekazania kart do głosowania dla obwodów głosowania utworzonych za granicą w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/809/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 sierpnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu sporządzania i przekazania kart do głosowania dla obwodów głosowania utworzonych za granicą w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 226 w związku z art. 258 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Niezwłocznie po ustaleniu przewidywanej liczby wyborców konsul zawiadamia, za pośrednictwem ministra właściwego do spraw zagranicznych, Okręgową Komisję Wyborczą w Warszawie I, właściwą dla dzielnicy Śródmieście m.st. Warszawy, zwaną dalej „Okręgową Komisją Wyborczą”, o liczbie potrzebnych kart do głosowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Minister właściwy do spraw zagranicznych, jeżeli jest to możliwe, zapewnia dostarczenie konsulom kart do głosowania wydrukowanych i przekazanych przez Okręgową Komisję Wyborczą.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Jeżeli do 16 dnia przed dniem wyborów konsulowi nie zostaną dostarczone karty do głosowania wydrukowane w kraju, konsul sporządza je w brzmieniu przekazanym przez Okręgową Komisję Wyborczą, według wzoru i w sposób określony w uchwale Państwowej Komisji Wyborczej z dnia 8 sierpnia 2011 r. w sprawie wzorów kart do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych za granicą i na polskich statkach morskich (M. P. Nr 80, poz. 804).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W przypadku, o którym mowa w ust. 1, na karcie, w miejscu przeznaczonym na pieczęć okręgowej komisji wyborczej, umieszcza się odcisk pieczęci konsula.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Konsul przekazuje obwodowej komisji wyborczej, za pokwitowaniem, otrzymane lub sporządzone przez siebie karty do głosowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W sprawach nieuregulowanych niniejszą uchwałą stosuje się odpowiednio przepisy uchwały Państwowej Komisji Wyborczej z dnia 17 sierpnia 2011 r. w sprawie sposobu drukowania kart do głosowania i sporządzania nakładek na karty do głosowania w alfabecie Braille’a oraz trybu ich przekazania obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r. (M. P. Nr 80, poz. 807).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: wz. K. Czaplicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889 i Nr 171, poz. 1016."
+ }
+}

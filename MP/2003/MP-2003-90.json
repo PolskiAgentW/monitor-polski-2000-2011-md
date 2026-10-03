@@ -1,0 +1,88 @@
+{
+ "eli": "MP/2003/90",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 16 stycznia 2003 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 20 zł i 100 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/90/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 stycznia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 20 zł i 100 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800 oraz z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł i 20 zł, określone w załączniku nr 1 do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ustala się wzór, próbę, masę i wielkość emisji monety nominalnej wartości 100 zł, określone w załączniku nr 2 do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Monety, o których mowa w § 1 i 2, wprowadza się do obiegu z dniem 5 lutego 2003 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 16 stycznia 2003 r. (poz. 90) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ I 20 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Średni- Wielkość War- Cechy graficzne Brzeg Masa ca Stop emisji tość (bok) (w gra- (w mi- (próba) (w sztumach) lime- kach) strona główna strona odwrotna trach) Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Pod orłem Na boku ośmiooznaczenie roku emisji: krotnie powtó- Wizerunek dwóch wę- 2003, poniżej napis: ZŁ 2 rzony napis: gorzy. U dołu półko- ZŁ. Po bokach łap orła NBP, co dru- 2 zł lem napis: WĘGORZ 8,15 27,0 CuAl5Zn5Sn1 450 000 wizerunki flagi państwo- gi odwrócony EUROPEJSKI Anguilla wej. U góry półkolem na- o 180 stopni, anguilla pis: RZECZPOSPOLITA rozdzielony POLSKA. Pod lewą łapą gwiazdkami orła znak mennicy: MW Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Pod orłem oznaczenie roku emisji: Na tle stylizowane- 2003, poniżej napis: ZŁ go globu wizerunki 20 zł 20 ZŁ. Po bokach łap orła dwóch węgorzy, larwy gładki 28,28 38,61 Ag 925/1000 28 000 wizerunki flagi państwo- węgorza oraz napis: wej. U góry półkolem na- Węgorz europejpis: RZECZPOSPOLITA ski/Anguilla anguilla POLSKA. Pod lewą łapą orła znak mennicy: MW"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, PRÓBA, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 100 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Średni- Wielkość War- Cechy graficzne Brzeg Masa ca Stop emisji tość (bok) (w gra- (w mi- (próba) (w sztumach) lime- kach) strona główna strona odwrotna trach) Wizerunek orła ustalony dla godła Rzeczypospo- Popiersie króla Władyslitej Polskiej, po bokach ława III Warneńczyka. Z orła oznaczenie roku lewej strony daty 100 zł emisji: 20-03, pod orłem panowania: 1434/1444. U gładki 8,0 21,0 Au 900/1000 2 000 napis: ZŁ 100 ZŁ, w otoku góry półkolem napis: napis: RZECZPOSPOLITA WŁADYSŁAW III WAR- POLSKA. Pod lewą łapą NEŃCZYK orła znak mennicy: MW"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

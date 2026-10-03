@@ -1,0 +1,196 @@
+{
+ "eli": "MP/2011/1196",
+ "title": "Zarządzenie Prezesa Rady Ministrów nr 107 z dnia 28 grudnia 2011 r. zmieniające zarządzenie w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/1196/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 107 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 grudnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do zarządzenia nr 172 Prezesa Rady Ministrów z dnia 22 listopada 2006 r. w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego (M. P. Nr 84, poz. 852, z późn. zm.[^2]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. U rzędem Komisji kieruje Przewodniczący Komisji przy pomocy zastępców Przewodniczącego oraz dyrektorów komórek organizacyjnych, o których mowa w § 4.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "uchyla się § 3;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "§ 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 4. W skład Urzędu Komisji wchodzą:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Departament Firm Inwestycyjnych i Infrastruktury Rynku Kapitałowego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Departament Funduszy Inwestycyjnych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Departament Nadzoru Obrotu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Departament Ofert Publicznych i Informacji Finansowej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Departament Licencji Bankowych i Instytucji Płatniczych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Departament Bankowości Komercyjnej i Specjalistycznej oraz Instytucji Płatniczych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Departament Bankowości Spółdzielczej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Departament Inspekcji Bankowych i Instytucji Płatniczych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Departament Regulacji Bankowych i Instytucji Płatniczych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) D epartament Licencji Ubezpieczeniowych i Emerytalnych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) D epartament Nadzoru Ubezpieczeniowego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) D epartament Nadzoru Inwestycji Emerytalnych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Departament Monitorowania Ryzyk;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) D epartament Inspekcji Ubezpieczeniowych i Emerytalnych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) Gabinet Komisji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) D epartament Prawny;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17) D epartament Zarządzania Zasobami Ludzkimi;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18) Departament Ochrony Klientów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19) Departament Komunikacji Społecznej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20) D epartament Analiz i Współpracy z Zagranicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "21) D epartament Administracji, Budżetu i Informatyki;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22) W ieloosobowe Samodzielne Stanowisko do spraw Kontroli Wewnętrznej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "23) P ełnomocnik ds. Ochrony Informacji Niejawnych.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 stycznia 2012 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328, z 2008 r. Nr 209, poz. 1317, Nr 228, poz. 1507 i Nr 231, poz. 1546, z 2009 r. Nr 42, poz. 341, Nr 77, poz. 649 i Nr 165, poz. 1316, z 2010 r. Nr 126, poz. 853 oraz z 2011 r. Nr 75, poz. 398, Nr 131, poz. 763, Nr 199, poz. 1175 i Nr 205, poz. 1208.",
+  "2": "Zmiany wymienionego zarządzenia zostały ogłoszone w M. P. z 2008 r. Nr 2, poz. 22, z 2009 r. Nr 59, poz. 803, z 2010 r. Nr 47, poz. 650 oraz z 2011 r. Nr 93, poz. 956."
+ }
+}

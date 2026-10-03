@@ -1,0 +1,164 @@
+{
+ "eli": "MP/2011/501",
+ "title": "Uchwała Nr 86 Rady Ministrów z dnia 27 maja 2011 r. zmieniająca uchwałę w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Opolskiego na lata 2007-2013",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/501/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 86 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 maja 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Opolskiego na lata 2007—2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712 i Nr 157, poz. 1241) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 86 Rady Ministrów z dnia 10 czerwca 2009 r. w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Opolskiego na lata 2007—2013 (M. P. Nr 38, poz. 581) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1 dodaje się ust. 3—5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Na realizację RPO w ramach Osi priorytetowej 3 przeznacza się inne niż określone w ust. 1 środki z budżetu państwa, które zostaną pokryte ze środków EFRR w ramach dostosowania technicznego, w kwocie 6 275 125 euro, co na dzień podjęcia uchwały wynosi 24 719 599,91 zł, według kursu Europejskiego Banku Centralnego z przedostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym podjęto uchwałę. Środki te zostaną przeznaczone na realizację uzgodnionego z Ministerstwem Rozwoju Regionalnego projektu z zakresu usuwania skutków powodzi w województwie opolskim, na terenie Gminy Cisek, z zastrzeżeniem ust. 4. Podział tych środków przedstawia się następująco:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Środki z budżetu Poziom państwa, które Środki wkładu Poziom wkładu Oś priorytetowa dofinansowania zostaną pokryte krajowego krajowego (%) EFRR (%) z EFRR (w euro) (w euro)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Gmina Cisek",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 85 6 275 125 — —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Oszczędności rozumiane jako dodatnie różnice kursowe bądź ewentualne oszczędności powstałe na skutek zmniejszenia wartości projektu, o którym mowa w ust. 3, zostaną przeznaczone na dofinansowanie projektów z zakresu usuwania skutków powodzi w województwie opolskim, na terenie Gminy Cisek, umieszczonych na liście rezerwowej. W przypadku braku projektów na liście rezerwowej oszczędności zostaną przeznaczone na realizację projektów z zakresu infrastruktury przeciwpowodziowej zlokalizowanych na terenie województwa opolskiego, z zastrzeżeniem ust. 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Ewentualny niedobór środków, o których mowa w ust. 3, powstały na skutek zmian kursowych w okresie od dnia podjęcia niniejszej uchwały do dnia podpisania preumowy bądź umowy o dofinansowanie projektu z zakresu usuwania skutków powodzi w województwie opolskim, na terenie Gminy Cisek, będzie finansowany z oszczędności, o których mowa w ust. 4, a w przypadku braku oszczędności, gdy wyżej wymieniony okres nie przekroczy 4 miesięcy — ze środków budżetu państwa.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Na realizację RPO przeznacza się inne niż określone w ust. 1, niepochodzące z EFRR, środki z budżetu państwa w kwocie 1 107 375 euro, co na dzień podjęcia uchwały wynosi 4 362 282,34 zł według kursu Europejskiego Banku Centralnego z przedostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym podjęto uchwałę. Środki te zostaną przeznaczone na realizację uzgodnionego z Ministerstwem Rozwoju Regionalnego projektu z zakresu usuwania skutków powodzi w województwie opolskim, na terenie Gminy Cisek, z zastrzeżeniem ust. 5. Podział tych środków przedstawia się następująco:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Środki z budżetu Poziom państwa, które Środki wkładu Poziom wkładu Oś priorytetowa dofinansowania zostaną pokryte krajowego krajowego (%) EFRR (%) z EFRR (w euro) (w euro)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4 5",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Gmina Cisek",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3 — — 15 1 107 375 ”",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "dodaje się ust. 3—6 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Środki, o których mowa w ust. 1 i 2, stanowią część wkładu krajowego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Środki, o których mowa w ust. 2, zostaną przeznaczone na finansowanie wkładu krajowego w ramach projektu z zakresu usuwania skutków powodzi w województwie opolskim, na terenie Gminy Cisek. Poziom wkładu krajowego ustalony dla osi priorytetowej, o której mowa w ust. 2, określa maksymalny procentowy udział budżetu państwa w finansowaniu wkładu krajowego w ramach tego projektu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Oszczędności powstałe na skutek zmniejszenia wartości projektu, z zakresu usuwania skutków powodzi w województwie opolskim, na terenie Gminy Cisek, zostaną zwrócone do budżetu państwa, z zastrzeżeniem ust. 6.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6. Ewentualny niedobór środków, o których mowa w ust. 2, powstały na skutek zmian kursowych w okresie od dnia podjęcia niniejszej uchwały do dnia podpisania preumowy bądź umowy o dofinansowanie projektu z zakresu usuwania skutków powodzi w województwie opolskim, na terenie Gminy Cisek, będzie finansowany z oszczędności, o których mowa w ust. 5, a w przypadku braku oszczędności, gdy wyżej wymieniony okres nie przekroczy 4 miesięcy — ze środków budżetu państwa.”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunkiem dofinansowania projektu, o którym mowa w § 1 niniejszej uchwały, jest dokonanie zmiany i realizacja kontraktu wojewódzkiego, o którym mowa w art. 20 ust. 5 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

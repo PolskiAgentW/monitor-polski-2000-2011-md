@@ -1,0 +1,137 @@
+{
+ "eli": "MP/2006/265",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2006 r. w sprawie powołania Komisji Śledczej do zbadania rozstrzygnięć dotyczących przekształceń kapitałowych i własnościowych w sektorze bankowym oraz działań organów nadzoru bankowego w okresie od 4 czerwca 1989 r. do 19 marca 2006 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/265/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 marca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Komisji Śledczej do zbadania rozstrzygnięć dotyczących przekształceń kapitałowych i własnościowych w sektorze bankowym oraz działań organów nadzoru bankowego w okresie od 4 czerwca 1989 r. do 19 marca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 111 ust. 1 Konstytucji Rzeczypospolitej Polskiej oraz art. 1 i 2 ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej (Dz. U. Nr 35, poz. 321 oraz z 2005 r. Nr 122, poz. 1023) Sejm Rzeczypospolitej Polskiej uchwala, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Powołuje się Komisję Śledczą do zbadania rozstrzygnięć dotyczących przekształceń kapitałowych i własnościowych w sektorze bankowym oraz działań organów nadzoru bankowego w okresie od 4 czerwca 1989 r. do 19 marca 2006 r., zwaną dalej „Komisją”.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do zakresu działania Komisji należy zbadanie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "prawidłowości i celowości działań Narodowego Banku Polskiego i Komisji Nadzoru Bankowego jako organów nadzoru bankowego w okresie od 4 czerwca 1989 r. do 19 marca 2006 r., w szczególności w zakresie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/pkt_1/lit_a",
+       "text": "udzielania zezwoleń na utworzenie banku oraz rozpoczęcie jego działalności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/pkt_1/lit_b",
+       "text": "udzielania zezwoleń na wykonywanie prawa głosu z akcji banków,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/pkt_1/lit_c",
+       "text": "rzetelności, w tym kompletności, materiałów przygotowywanych przez Generalny Inspektorat Nadzoru Bankowego na posiedzenia Komisji Nadzoru Bankowego w sprawach, o których mowa w lit. a i b,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/pkt_1/lit_d",
+       "text": "dokumentowania działań organów nadzoru bankowego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "kształtu systemu bankowego w Polsce w porównaniu z innymi krajami, w szczególności średnimi i dużymi krajami Unii Europejskiej i przyczyn tego stanu oraz wpływu organów nadzoru bankowego na ten stan, w tym w szczególności zbadanie struktury własnościowej banków działających w formie spółki akcyjnej w Polsce w porównaniu ze średnimi i dużymi krajami Unii Europejskiej i wpływu organów nadzoru bankowego oraz Prezesa Urzędu Ochrony Konkurencji i Konsumentów (dawniej Prezesa Urzędu Antymonopolowego) na ten stan;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "prawidłowości działania Zarządu Narodowego Banku Polskiego w zakresie dokonywanych przez niego ocen funkcjonowania systemu bankowego w Polsce;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_2/pkt_4",
+     "text": "kwestii ewentualnego konfliktu interesów między rolą Prezesa Narodowego Banku Polskiego jako Przewodniczącego Rady Polityki Pieniężnej i Przewodniczącego Komisji Nadzoru Bankowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_2/pkt_5",
+     "text": "działalności osób występujących w imieniu Komisji Nadzoru Bankowego, Generalnego Inspektoratu Nadzoru Bankowego, Urzędu Ochrony Konkurencji i Konsumentów (dawniej Urzędu Antymonopolowego), Komisji Papierów Wartościowych i Giełd oraz Ministerstwa Skarbu Państwa i Ministerstwa Finansów pod kątem ewentualnego występowania konfliktu interesów wpływającego na brak bezstronności przy dokonywaniu rozstrzygnięć przez te osoby;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_2/pkt_6",
+     "text": "działań ministrów oraz innych osób zajmujących kierownicze stanowiska państwowe w sprawach rozstrzygnięć dotyczących przekształceń kapitałowych i własnościowych w sektorze bankowym w okresie od 4 czerwca 1989 r. do 19 marca 2006 r.;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_2/pkt_7",
+     "text": "ewentualnego, nieuprawnionego wpływania przez osoby prywatne lub przedsiębiorców na działania, o których mowa w pkt 6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W skład Komisji wchodzi 10 członków.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Jurek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

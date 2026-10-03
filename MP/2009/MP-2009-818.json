@@ -1,0 +1,121 @@
+{
+ "eli": "MP/2009/818",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 23 września 2009 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/818/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 września 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2002 r. Nr 54, poz. 741, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 14 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Projekty uchwał w sprawie powołania i odwołania przewodniczącego komisji Komisja Regulaminowa, Etyki i Spraw Senatorskich przygotowuje i przedstawia Senatowi na wniosek odpowiedniej komisji, a projekt uchwały w sprawie odwołania przewodniczącego komisji — także w przypadku złożenia przez przewodniczącego Marszałkowi Senatu pisemnej rezygnacji z pełnionej funkcji, po zasięgnięciu opinii Konwentu Seniorów, z zastrzeżeniem ust. 4.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 53 ust. 6 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„6. Głosowanie w sprawach personalnych jest tajne, z wyłączeniem głosowań w sprawie składów komisji senackich oraz odwołania przewodniczącego komisji w przypadku złożenia przez niego Marszałkowi Senatu pisemnej rezygnacji z pełnionej funkcji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 58 w ust. 3 zdanie pierwsze otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Komisja wybiera ze swego składu i odwołuje zastępcę przewodniczącego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 62 w ust. 5 dodaje się zdanie drugie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„W sprawie odwołania zastępcy przewodniczącego komisji, w przypadku złożenia przez niego przewodniczącemu komisji pisemnej rezygnacji z pełnionej funkcji, przeprowadza się głosowanie jawne.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 91 w ust. 1 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) na powołanie i odwołanie Generalnego Inspektora Ochrony Danych Osobowych, Prezesa Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Prezesa Urzędu Komunikacji Elektronicznej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w załączniku do uchwały pkt 15 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„15) Komisji Ustawodawczej — ogólna problematyka legislacyjna i spójności prawa, rozpatrywanie zmian Konstytucji, regulacji kodeksowych, inicjatyw ustawodawczych i uchwałodawczych Senatu, analiza orzecznictwa Trybunału Konstytucyjnego i podejmowanie działań ustawodawczych mających na celu wykonanie wyroków Trybunału Konstytucyjnego;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M. P. z 2004 r. Nr 15, poz. 232 i Nr 18, poz. 302, z 2005 r. Nr 65, poz. 894, Nr 71, poz. 975 i Nr 84, poz. 1201, z 2006 r. Nr 21, poz. 232, Nr 36, poz. 392 i Nr 85, poz. 859, z 2007 r. Nr 15, poz. 156, Nr 48, poz. 565 i Nr 86, poz. 925 oraz z 2008 r. Nr 14, poz. 146 i Nr 90, poz. 781."
+ }
+}

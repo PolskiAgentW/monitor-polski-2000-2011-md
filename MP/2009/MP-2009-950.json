@@ -1,0 +1,45 @@
+{
+ "eli": "MP/2009/950",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 17 listopada 2009 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za III kwartał 2009 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/950/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKATPREZESA ZAKŁADUUBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "zdnia 17 listopada 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "wsprawie kwot przychodu odpowiadających 70% i130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za III kwartał 2009 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur irent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 1 ustawy z dnia 17 grudnia 1998 r. oemeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227) ogłasza się, że od dnia 1 grudnia 2009 r. kwota przychodu odpowiadająca:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "70 % przeciętnego miesięcznego wynagrodzenia ogłoszonego za III kwartał 2009 r. wynosi 2 179,70 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "130 % przeciętnego miesięcznego wynagrodzenia ogłoszonego za III kwartał 2009 r. wynosi 4 048,10 zł.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Zakładu Ubezpieczeń Społecznych:Z. Derdziuk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,170 @@
+{
+ "eli": "MP/2006/374",
+ "title": "Zarządzenie Nr 74 Prezesa Rady Ministrów z dnia 15 maja 2006 r. w sprawie nadania statutu Ministerstwu Gospodarki Morskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/374/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 74 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 maja 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Gospodarki Morskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Gospodarki Morskiej nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: K. Marcinkiewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 74 Prezesa Rady Ministrów z dnia 15 maja 2006 r. (poz. 374)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA GOSPODARKI MORSKIEJ"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Gospodarki Morskiej, zwane dalej „Ministerstwem”, zapewnia obsługę Ministra Gospodarki Morskiej, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 5 maja 2006 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej (Dz. U. Nr 76, poz. 539), do spraw gospodarki morskiej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa wchodzi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Gabinet Polityczny Ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "komórki organizacyjne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/pkt_2/lit_a",
+         "text": "Sekretariat Ministra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/pkt_2/lit_b",
+         "text": "Departament Transportu Morskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/pkt_2/lit_c",
+         "text": "Departament Bezpieczeństwa Morskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/pkt_2/lit_d",
+         "text": "Departament Funduszy Unijnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/pkt_2/lit_e",
+         "text": "Biuro Prawne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/pkt_2/lit_f",
+         "text": "Biuro Spraw Europejskich i Współpracy Międzynarodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/pkt_2/lit_g",
+         "text": "Biuro Dyrektora Generalnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/pkt_2/lit_h",
+         "text": "Biuro Administracyjno-Budżetowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/pkt_2/lit_i",
+         "text": "Biuro Spraw Obronnych i Ochrony Informacji Niejawnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Stanowisko do Spraw Audytu Wewnętrznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra zapewnia w szczególności Departament Transportu Morskiego oraz Departament Bezpieczeństwa Morskiego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319."
+ }
+}

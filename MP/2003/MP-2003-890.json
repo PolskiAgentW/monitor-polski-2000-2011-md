@@ -1,0 +1,120 @@
+{
+ "eli": "MP/2003/890",
+ "title": "Komunikat Nr 12/2003/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 10 grudnia 2003 r. w sprawie stałych stóp procentowych - CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/890/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT Nr 12/2003/(DOKE) PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 grudnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych — stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Wytycznych dla oficjalnie wspieranych kredytów eksportowych z dnia 1 kwietnia 1978 r.; minimalne stopy wyznaczane są przez stopy CIRR (stopy referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stopy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników ww. Porozumienia OECD; stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 grudnia 2003 r. do dnia 14 stycznia 2004 r. dla niżej wymienionych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "text",
+     "text": "Waluta kraju Okres spłaty Symbol waluty Stopa CIRR"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 3,45 dolar amerykański > 5 do 8,5 lat USD 4,29 > 8,5 lat 4,81"
+    },
+    {
+     "type": "text",
+     "text": "dolar australijski AUD 6,92"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 4,54 dolar kanadyjski > 5 do 8,5 lat CAD 5,12 > 8,5 lat 5,31"
+    },
+    {
+     "type": "text",
+     "text": "dolar nowozelandzki NZD 6,16"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 4,04 euro > 5 do 8,5 lat EUR 4,66 > 8,5 lat 5,01"
+    },
+    {
+     "type": "text",
+     "text": "forint węgierski HUF 10,20"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 2,54 frank szwajcarski > 5 do 8,5 lat CHF 3,18 > 8,5 lat 3,59"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 5,72 funt brytyjski > 5 do 8,5 lat GBP 5,94 > 8,5 lat 6,02"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 1,30 jen japoński > 5 do 8,5 lat JPY 1,63 > 8,5 lat 2,01"
+    },
+    {
+     "type": "text",
+     "text": "korona czeska CZK 4,43"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 4,36 korona duńska > 5 do 8,5 lat DKK 4,86 > 8,5 lat 5,22"
+    },
+    {
+     "type": "text",
+     "text": "korona norweska NOK 5,37"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat 5,12 korona szwedzka > 5 do 8,5 lat SEK 5.45 > 8,5 lat 5,74"
+    },
+    {
+     "type": "text",
+     "text": "won koreański KRW 6,17"
+    },
+    {
+     "type": "text",
+     "text": "złoty polski PLN 7,86"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: p. o. D. Chmielewska — 2847 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

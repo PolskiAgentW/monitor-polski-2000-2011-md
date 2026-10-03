@@ -1,0 +1,556 @@
+{
+ "eli": "MP/2006/194",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 24 lutego 2006 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/194/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 lutego 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2002 r. Nr 23, poz. 398, z 2003 r. Nr 23, poz. 337, z 2004 r. Nr 12, poz. 182 oraz z 2005 r. Nr 16, poz. 263, Nr 42, poz. 556, Nr 66, poz. 912 i Nr 76, poz. 1062) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 34 dodaje się ust. 4b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4b. Rada Ministrów przesyła wraz z wniesionym przez siebie projektem ustawy zgłoszenia podmiotów, które zgłosiły zainteresowanie pracami nad projektem ustawy w trybie ustawy z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. Nr 169, poz. 1414), dołączając jednocześnie informację o kolejności wniesienia tych zgłoszeń.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w dziale II dodaje się rozdział 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Rozdział 1a",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wysłuchanie publiczne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W odniesieniu do projektu ustawy może zostać przeprowadzone wysłuchanie publiczne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Uchwała w sprawie przeprowadzenia wysłuchania publicznego podejmowana jest przez komisję, do której projekt został skierowany do rozpatrzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Uchwała o przeprowadzeniu wysłuchania publicznego podejmowana jest na pisemny wniosek złożony komisji przez posła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Uchwała o przeprowadzeniu wysłuchania publicznego może zostać podjęta po zakończeniu pierwszego czytania projektu, a przed rozpoczęciem jego szczegółowego rozpatrywania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Uchwała o przeprowadzeniu wysłuchania publicznego zawiera w szczególności datę i godzinę przeprowadzenia wysłuchania publicznego. Uchwała oraz informacja dotycząca miejsca przeprowadzenia wysłuchania publicznego podlegają udostępnieniu w Systemie Informacyjnym Sejmu, co najmniej na 14 dni przed dniem wysłuchania publicznego, z zastrzeżeniem ust. 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W przypadku projektów, o których mowa w art. 71 ust. 1 i art. 105 pkt 1, uchwała oraz informacja dotycząca miejsca przeprowadzenia wysłuchania publicznego podlegają udostępnieniu w Systemie Informacyjnym Sejmu co najmniej na 3 dni przed dniem wysłuchania publicznego. Przepisu art. 70b ust. 1 nie stosuje się.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. W przypadku zgłoszenia wniosku o odrzucenie projektu ustawy wniosek ten zostaje rozstrzygnięty przed rozstrzygnięciem wniosku o przeprowadzenie wysłuchania publicznego. Wniosek o przeprowadzenie wysłuchania publicznego jest rozstrzygany jedynie w przypadku odrzucenia przez Sejm przedstawionego w sprawozdaniu komisji wniosku o odrzucenie projektu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70b.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Prawo wzięcia udziału w wysłuchaniu publicznym dotyczącym projektu ustawy mają podmioty, które po ogłoszeniu projektu w formie druku w trybie określonym w art. 35 ust. 1 zgłosiły do Sejmu, co najmniej na 10 dni przed dniem wysłuchania publicznego, zainteresowanie pracami nad projektem ustawy, z zastrzeżeniem ust. 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Prawo wzięcia udziału w wysłuchaniu publicznym dotyczącym projektu ustawy mają również podmioty, które zgłosiły w trybie przewidzianym w ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa zainteresowanie pracami nad projektem ustawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70c.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zgłoszenie, o którym mowa w art. 70b ust. 1, wnosi się do Marszałka Sejmu na urzędowym formularzu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zgłoszenie, o którym mowa w art. 70b ust. 1, podlega udostępnieniu w Systemie Informacyjnym Sejmu, z wyjątkiem adresu osoby fizycznej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Podmiot dokonujący zgłoszenia, o którym mowa w art. 70b ust. 1, podaje w zgłoszeniu:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) imię (imiona) i nazwisko oraz adres osoby uprawnionej do reprezentowania tego podmiotu w pracach nad projektem ustawy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) jeżeli występuje na rzecz osoby prawnej — nazwę i siedzibę tej osoby,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) jeżeli występuje na rzecz podmiotu innego niż osoba prawna — odpowiednio, jego imię i nazwisko oraz adres albo jego nazwę i siedzibę,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) interes, który w odniesieniu do danej regulacji zamierza chronić, oraz rozwiązanie prawne, o którego uwzględnienie będzie zabiegać.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do zgłoszenia, o którym mowa w art. 70b ust. 1, załącza się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w przypadku gdy podmiot dokonujący zgłoszenia występuje w ramach zawodowej działalności lobbingowej — zaświadczenie o wpisie do rejestru, o którym mowa w art. 11 ust. 8 ustawy z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w przypadku gdy podmiot dokonujący zgłoszenia występuje na rzecz osoby prawnej zarejestrowanej w Krajowym Rejestrze Sądowym — wyciąg z Krajowego Rejestru Sądowego dotyczący tej osoby prawnej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Podmioty, o których mowa w art. 70b ust. 1, które zgłosiły zainteresowanie pracami nad projektem ustawy, mają obowiązek poinformować niezwłocznie Marszałka Sejmu o zmianie danych, o których mowa w ust. 3 i 4. Zgłoszenia zmiany dokonuje się poprzez wypełnienie i wniesienie nowego formularza. Przepis ust. 2 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Zgłoszenie, o którym mowa w art. 70b ust. 1, które nie odpowiada warunkom określonym w ust. 3 i 4, uznaje się za bezskuteczne i nie podlega ono udostępnieniu w trybie określonym w ust. 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Wzór urzędowego formularza, o którym mowa w ust. 1, określa Marszałek Sejmu w drodze zarządzenia. Wzór ten podlega udostępnieniu w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70d.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Z przyczyn lokalowych lub technicznych prezydium komisji może ograniczyć liczbę podmiotów biorących udział w wysłuchaniu publicznym. Ograniczenie to powinno zostać dokonane w oparciu o uzasadnione kryterium zastosowane jednolicie wobec wszystkich podmiotów. Kryterium może stanowić w szczególności kolejność zgłoszeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku, o którym mowa w ust. 1, informacja o podmiotach dopuszczonych do udziału w wysłuchaniu publicznym podlega udostępnieniu w Systemie Informacyjnym Sejmu co najmniej na 2 dni przed dniem wysłuchania publicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70e.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Jeżeli ze względów lokalowych lub technicznych, w szczególności ze względu na liczbę osób chętnych do wzięcia udziału w wysłuchaniu publicznym, nie jest możliwe zorganizowanie wysłuchania publicznego:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) prezydium komisji może zmienić termin lub miejsce wysłuchania publicznego, podając w Systemie Informacyjnym Sejmu przyczyny tej zmiany oraz nowy termin lub miejsce wysłuchania publicznego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) komisja może odwołać wysłuchanie publiczne, podając w Systemie Informacyjnym Sejmu przyczyny odwołania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Prawo wzięcia udziału w wysłuchaniu publicznym, którego termin został zmieniony, mają jedynie te podmioty, które uprzednio zgłosiły, na zasadach określonych w art. 70b, zainteresowanie pracami nad projektem ustawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70f.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wysłuchanie publiczne odbywa się przed rozpoczęciem szczegółowego rozpatrywania projektu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wysłuchanie publiczne odbywa się tylko na jednym posiedzeniu komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Porządek dzienny posiedzenia komisji, na którym przeprowadza się wysłuchanie publiczne, nie może obejmować innych punktów porządku dziennego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70g.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przewodniczący komisji ustala kolejność oraz czas wystąpień podmiotów, które biorą udział w wysłuchaniu publicznym.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Na posiedzeniu, na którym przeprowadza się wysłuchanie publiczne, podmiot, o którym mowa w ust. 1, może wystąpić tylko raz.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przewodniczący komisji może przedłużyć czas wystąpienia podmiotu, o którym mowa w ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70h.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W szczególnie uzasadnionych przypadkach przewodniczący komisji może przerwać posiedzenie, na którym przeprowadza się wysłuchanie publiczne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. O dacie, godzinie i miejscu wznowienia posiedzenia postanawia przewodniczący komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Informację o terminie wznowienia posiedzenia podaje przewodniczący komisji na posiedzeniu komisji, o którym mowa w ust. 1, lub umieszcza się ją w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 70i.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Podmiot, który zgłosił zainteresowanie pracami nad projektem ustawy i bierze udział w wysłuchaniu publicznym, może na posiedzeniu, na którym przeprowadza się wysłuchanie publiczne, złożyć do protokołu tekst niewygłoszonego na posiedzeniu wystąpienia. Teksty niewygłoszone są oznakowane w protokole w sposób umożliwiający ich odróżnienie od tekstów wygłoszonych. Teksty niewygłoszone umieszczane są w biuletynie z posiedzenia komisji, który podlega udostępnieniu w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przepis ust. 1 stosuje się do podmiotów, które zgłosiły zainteresowanie pracami nad projektem ustawy i nie wzięły udziału w wysłuchaniu publicznym, z tym że złożenie tekstu może nastąpić do dnia wysłuchania publicznego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 73 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. W odniesieniu do pilnego projektu ustawy można przeprowadzić wysłuchanie publiczne, o którym mowa w rozdziale 1a.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 87 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Do postępowania z projektami kodeksów, projektami zmian kodeksów oraz z projektami przepisów wprowadzających kodeksy i ich zmian stosuje się przepisy działu II rozdziału 1, 1a i 14, chyba że przepisy niniejszego rozdziału stanowią inaczej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 95a ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Do postępowania z projektami ustaw mających na celu wykonanie prawa Unii Europejskiej, zwanymi dalej „projektami ustaw wykonujących prawo Unii Europejskiej”, stosuje się przepisy działu II rozdziału 1—3 i 14, chyba że przepisy niniejszego rozdziału stanowią inaczej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "art. 105 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 105. Sejm rozpatruje wniesione do Sejmu:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) projekty ustawy budżetowej oraz inne plany finansowe Państwa — w trybie przewidzianym w rozdziale 1 i 1a,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) sprawozdania z wykonania ustawy budżetowej i innych planów finansowych Państwa — w trybie przewidzianym w rozdziale 1",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— z uwzględnieniem zmian wynikających z niniejszego rozdziału.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 154 dodaje się ust. 2a—2d w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. W posiedzeniach komisji, na których rozpatrywane są projekty ustaw, mogą, z zastrzeżeniem ust. 2b, uczestniczyć osoby wykonujące zawodową działalność lobbingową oraz osoby uprawnione do reprezentowania podmiotu wykonującego zawodową działalność lobbingową. Mogą one zabierać głos w dyskusji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2b. Do osób, o których mowa w ust. 2a, przepisy art. 155 ust. 1—4 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2c. Do udziału osób, o których mowa w ust. 2a, w posiedzeniu, na którym przeprowadza się wysłuchanie publiczne, mają zastosowanie przepisy rozdziału 1a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2d. Osoby, o których mowa w ust. 2a, nie mają prawa uczestnictwa w posiedzeniach podkomisji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 199 dodaje się ust. 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Kancelaria Sejmu udostępnia informację publiczną w trybie określonym w dziale IVa.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "dodaje się art. 201a—201c w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 201a. Tworzy się System Informacyjny Sejmu, prowadzony w formie elektronicznej, przeznaczony do gromadzenia, przetwarzania i udostępniania danych związanych z działalnością Sejmu i jego organów oraz Kancelarii Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 201b.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Osobie wykonującej zawodową działalność lobbingową oraz osobie uprawnionej do reprezentowania podmiotu wykonującego zawodową działalność lobbingową przysługuje prawo wstępu do budynków pozostających w zarządzie Kancelarii Sejmu w zakresie umożliwiającym wykonywanie tej działalności.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Osobie, o której mowa w ust. 1, wydawana jest na jej wniosek okresowa karta wstępu. Okresowa karta wstępu wydawana jest na czas określony i upoważnia do korzystania z określonego wejścia oraz poruszania się we wskazanych rejonach budynków pozostających w zarządzie Kancelarii Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Osoba, o której mowa w ust. 1, jest obowiązana nosić okresową kartę wstępu w czasie przebywania w budynkach pozostających w zarządzie Kancelarii Sejmu, przypiętą do ubrania w miejscu umożliwiającym identyfikację.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Wniosek, o którym mowa w ust. 2, składany jest na urzędowym formularzu i zawiera następujące dane dotyczące podmiotu wykonującego zawodową działalność lobbingową:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) imię (imiona) i nazwisko oraz numer ewidencyjny PESEL osoby, o której mowa w ust. 1,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) informację dotyczącą interesu, który w odniesieniu do danej regulacji zamierza chronić.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Do wniosku, o którym mowa w ust. 2, osoba, o której mowa w ust. 1, załącza swoje zdjęcie, zaświadczenie o wpisie podmiotu, który reprezentuje, do rejestru podmiotów wykonujących zawodową działalność lobbingową oraz upoważnienie do jego reprezentowania, a także pisemne oświadczenie zawierające wskazanie podmiotów, na rzecz których wykonywana jest ta działalność.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Osoba, o której mowa w ust. 1, ma obowiązek poinformować o zmianie danych objętych wnioskiem, o którym mowa w ust. 2, w terminie 7 dni od dnia jej wystąpienia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Dane zawarte we wniosku, o którym mowa w ust. 2, oraz w załączonych dokumentach, o których mowa w ust. 5, z wyjątkiem numeru ewidencyjnego PESEL oraz adresu osoby fizycznej, podlegają udostępnieniu w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 201c.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Dokumenty, w szczególności propozycje rozwiązań prawnych oraz ekspertyzy i opinie prawne, mogą być przedkładane przez osoby, o których mowa w art. 201b ust. 1, jedynie komisji rozpatrującej dany projekt ustawy albo komisji właściwej ze względu na przedmiotowy zakres jej działania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Dokumenty, o których mowa w ust. 1, podlegają udostępnieniu w Systemie Informacyjnym Sejmu lub poprzez wskazanie ogólnodostępnego miejsca wyłożenia lub przechowywania tych dokumentów w Kancelarii Sejmu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "dodaje się dział IVa w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„DZIAŁ IVa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Dostęp do informacji publicznej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 202a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Informację publiczną Kancelaria Sejmu udostępnia poprzez ogłaszanie dokumentów i innych informacji w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Informacja publiczna może być udostępniana poprzez wskazanie ogólnodostępnego miejsca wyłożenia lub przechowywania informacji publicznej w Kancelarii Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Informacja publiczna, która nie została udostępniona w sposób, o którym mowa w ust. 1 lub 2, udostępniana jest przez Kancelarię Sejmu na pisemny wniosek. Wniosek może być przesłany za pośrednictwem Systemu Informacyjnego Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 202b. Do udostępniania informacji publicznej, o której mowa w art. 202a, stosuje się odpowiednio art. 12—15 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 202c.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Odmowy udostępnienia informacji publicznej oraz umorzenia postępowania o udostępnienie informacji, w przypadku określonym w art. 14 ust. 2 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej, dokonuje Szef Kancelarii Sejmu. Przepisy art. 16, art. 21 i art. 22 ustawy stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Strona niezadowolona z decyzji, o której mowa w ust. 1, może zwrócić się do Szefa Kancelarii Sejmu z wnioskiem o ponowne rozpatrzenie sprawy.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem 7 marca 2006 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Jurek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

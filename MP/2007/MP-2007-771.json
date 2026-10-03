@@ -1,0 +1,313 @@
+{
+ "eli": "MP/2007/771",
+ "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 25 września 2007 r. w sprawie szacunków wartości produktu krajowego brutto na jednego mieszkańca w latach 2003-2005",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/771/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZESA GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 września 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szacunków wartości produktu krajowego brutto na jednego mieszkańca w latach 2003—2005"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ust. 1 ustawy z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto (Dz. U. Nr 114, poz. 1188) ogłasza się szacunki wartości produktu krajowego brutto na jednego mieszkańca w latach 2003—2005 na poziomie województw (NTS2), ujęte w załączniku nr 1 do obwieszczenia, i szacunki wartości produktu krajowego brutto na jednego mieszkańca w latach 2003—2005 na poziomie podregionów (NTS3), ujęte w załączniku nr 2 do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Głównego Urzędu Statystycznego: J. Oleński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Prezesa Głównego Urzędu Statystycznego z dnia 25 września 2007 r. (poz. 771) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZACUNKI WARTOŚCI PRODUKTU KRAJOWEGO BRUTTO a NA JEDNEGO MIESZKAŃCA b W LATACH 2003—2005 NA POZIOMIE WOJEWÓDZTW (NTS2)"
+    },
+    {
+     "type": "text",
+     "text": "Województwa"
+    },
+    {
+     "type": "text",
+     "text": "1"
+    },
+    {
+     "type": "text",
+     "text": "Polska . . . . . . . . . . . . . . . . . . . . Dolnośląskie . . . . . . . . . . . . . . . Kujawsko-pomorskie . . . . . . . . Lubelskie . . . . . . . . . . . . . . . . . . Lubuskie . . . . . . . . . . . . . . . . . . Łódzkie . . . . . . . . . . . . . . . . . . . Małopolskie . . . . . . . . . . . . . . . . Mazowieckie . . . . . . . . . . . . . . . Opolskie . . . . . . . . . . . . . . . . . . Podkarpackie . . . . . . . . . . . . . . . Podlaskie . . . . . . . . . . . . . . . . . . Pomorskie . . . . . . . . . . . . . . . . . Śląskie . . . . . . . . . . . . . . . . . . . . Świętokrzyskie . . . . . . . . . . . . . Warmińsko-mazurskie . . . . . . . Wielkopolskie . . . . . . . . . . . . . . Zachodniopomorskie . . . . . . . ."
+    },
+    {
+     "type": "text",
+     "text": "a Ceny bieżące."
+    },
+    {
+     "type": "text",
+     "text": "2003–2005 w złotych"
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "24 019 24 619 21 293 16 651 21 322 22 097 20 533 37 340 19 881 16 770 17 962 23 544 26 341 18 401 18 636 25 561 22 429"
+    },
+    {
+     "type": "text",
+     "text": "b Ludność według stanu na 30 VI (z uwzględnieniem wyników Narodowego Spisu Powszechnego Ludności i Mieszkań 2002)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZACUNKI WARTOŚCI PRODUKTU KRAJOWEGO BRUTTO a NA JEDNEGO MIESZKAŃCA b W LATACH 2003—2005 NA POZIOMIE PODREGIONÓW (NTS3)"
+    },
+    {
+     "type": "text",
+     "text": "Województwa"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony"
+    },
+    {
+     "type": "text",
+     "text": "1"
+    },
+    {
+     "type": "text",
+     "text": "Polska . . . . . . . . . . . . . . . . . . . . Dolnośląskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "jeleniogórsko-wałbrzyski . . . legnicki . . . . . . . . . . . . . . . . . wrocławski . . . . . . . . . . . . . . . m. Wrocław . . . . . . . . . . . . . . Kujawsko-pomorskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "bydgoski . . . . . . . . . . . . . . . . toruńsko-włocławski . . . . . . . Lubelskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "bialskopodlaski . . . . . . . . . . . chełmsko-zamojski . . . . . . . . lubelski . . . . . . . . . . . . . . . . . . Lubuskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "gorzowski . . . . . . . . . . . . . . . . zielonogórski . . . . . . . . . . . . . Łódzkie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "łódzki . . . . . . . . . . . . . . . . . . . piotrkowsko-skierniewicki . . . m. Łódź . . . . . . . . . . . . . . . . . Małopolskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "krakowsko-tarnowski . . . . . . . nowosądecki . . . . . . . . . . . . . m. Kraków . . . . . . . . . . . . . . . Mazowieckie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "ciechanowsko-płocki . . . . . . . ostrołęcko-siedlecki . . . . . . . . warszawski . . . . . . . . . . . . . . . radomski . . . . . . . . . . . . . . . . m. Warszawa . . . . . . . . . . . . Opolskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregion:"
+    },
+    {
+     "type": "text",
+     "text": "opolski . . . . . . . . . . . . . . . . . . Podkarpackie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "rzeszowsko-tarnobrzeski . . . . krośnieńsko-przemyski . . . . ."
+    },
+    {
+     "type": "text",
+     "text": "2003–2005 w złotych"
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "24 019"
+    },
+    {
+     "type": "text",
+     "text": "19 276 31 339 19 092 34 245"
+    },
+    {
+     "type": "text",
+     "text": "22 812 19 833"
+    },
+    {
+     "type": "text",
+     "text": "14 325 14 385 18 482"
+    },
+    {
+     "type": "text",
+     "text": "21 297 21 337"
+    },
+    {
+     "type": "text",
+     "text": "18 525 19 917 28 880"
+    },
+    {
+     "type": "text",
+     "text": "16 662 14 173 36 918"
+    },
+    {
+     "type": "text",
+     "text": "25 254 17 112 23 257 17 704 70 460"
+    },
+    {
+     "type": "text",
+     "text": "19 881"
+    },
+    {
+     "type": "text",
+     "text": "18 641 14 470 1"
+    },
+    {
+     "type": "text",
+     "text": "Podlaskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "białostocko-suwalski . . . . . . . łomżyński . . . . . . . . . . . . . . . Pomorskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "słupski . . . . . . . . . . . . . . . . . . gdański . . . . . . . . . . . . . . . . . . Gdańsk-Gdynia-Sopot . . . . . . Śląskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "częstochowski . . . . . . . . . . . . bielsko-bialski . . . . . . . . . . . . . centralny śląski . . . . . . . . . . . rybnicko-jastrzębski . . . . . . . . Świętokrzyskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregion:"
+    },
+    {
+     "type": "text",
+     "text": "świętokrzyski . . . . . . . . . . . . . Warmińsko-mazurskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "elbląski . . . . . . . . . . . . . . . . . olsztyński . . . . . . . . . . . . . . . . ełcki . . . . . . . . . . . . . . . . . . . . Wielkopolskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "pilski . . . . . . . . . . . . . . . . . . . poznański . . . . . . . . . . . . . . . . kaliski . . . . . . . . . . . . . . . . . . . koniński . . . . . . . . . . . . . . . . . m. Poznań . . . . . . . . . . . . . . . Zachodniopomorskie"
+    },
+    {
+     "type": "text",
+     "text": "Podregiony:"
+    },
+    {
+     "type": "text",
+     "text": "szczeciński . . . . . . . . . . . . . . . koszaliński . . . . . . . . . . . . . . ."
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "18 828 15 471"
+    },
+    {
+     "type": "text",
+     "text": "18 327 17 582 34 438"
+    },
+    {
+     "type": "text",
+     "text": "21 336 24 337 28 426 23 206"
+    },
+    {
+     "type": "text",
+     "text": "18 401"
+    },
+    {
+     "type": "text",
+     "text": "17 439 21 174 15 418"
+    },
+    {
+     "type": "text",
+     "text": "19 963 22 892 19 055 19 564 48 538"
+    },
+    {
+     "type": "text",
+     "text": "23 761 19 953"
+    },
+    {
+     "type": "text",
+     "text": "Uwaga Dane z uwzględnieniem przeprowadzonej w 2007 r. rewizji rachunków narodowych wynikającej z dalszego dostosowywania do wymogów „ESA 1995” poprzez uwzględnienie stosownych rozporządzeń Rady i Komisji Wspólnot Europejskich. a Ceny bieżące. b Ludność według stanu na 30 VI (z uwzględnieniem wyników Narodowego Spisu Powszechnego Ludności i Mieszkań 2002). Uwaga Dane z uwzględnieniem przeprowadzonej w 2007 r. rewizji rachunków narodowych wynikającej z dalszego dostosowywania do wymogów „ESA 1995” poprzez uwzględnienie stosownych rozporządzeń Rady i Komisji Wspólnot Europejskich."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

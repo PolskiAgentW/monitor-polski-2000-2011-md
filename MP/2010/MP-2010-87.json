@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2010/87",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 lutego 2010 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/87/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 lutego 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2009 r. Nr 5, poz. 47 i Nr 81, poz. 998) w art. 26:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "ust. 1 i 2 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Sejm wybiera zastępców przewodniczącego i członków Trybunału Stanu, sędziów Trybunału Konstytucyjnego, członków Kolegium Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, członków Rady Polityki Pieniężnej, członków Krajowej Rady Radiofonii i Telewizji, a także posłów — członków Krajowej Rady Sądownictwa i posłów — członków Krajowej Rady Prokuratury.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wybór członków Trybunału Stanu odbywa się łącznie, chyba że Sejm postanowi inaczej. W tym samym trybie odbywa się wybór członków Rady Polityki Pieniężnej oraz posłów — członków Krajowej Rady Sądownictwa i posłów — członków Krajowej Rady Prokuratury.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Do wyboru uzupełniającego posłów — członków Krajowej Rady Sądownictwa i posłów — członków Krajowej Rady Prokuratury stosuje się odpowiednio ust. 3.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem 31 marca 2010 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

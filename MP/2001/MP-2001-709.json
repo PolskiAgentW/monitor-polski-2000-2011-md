@@ -1,0 +1,40 @@
+{
+ "eli": "MP/2001/709",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 29 listopada 2001 r. w sprawie odwołania wicemarszałka Sejmu Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/709/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 listopada 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie odwołania wicemarszałka Sejmu Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie art. 110 ust. 1 Konstytucji Rzeczypospolitej Polskiej, odwołuje posła Andrzeja Leppera ze stanowiska wicemarszałka Sejmu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Borowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

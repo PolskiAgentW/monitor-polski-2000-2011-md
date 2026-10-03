@@ -1,0 +1,60 @@
+{
+ "eli": "MP/2010/152",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 16 lutego 2010 r. nr 1131-4-2010 o powołaniu w skład Rady Polityki Pieniężnej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/152/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 lutego 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "nr 1131-4-2010"
+  },
+  {
+   "type": "text",
+   "text": "o powołaniu w skład Rady Polityki Pieniężnej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 227 ust. 5 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. w związku z art. 13 ust. 1 pkt 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317 oraz z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164), z dniem 19 lutego 2010 r. powołuję w skład Rady Polityki Pieniężnej:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Panią Zytę Janinę GILOWSKĄ",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Pana Adama GLAPIŃSKIEGO",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Pana Andrzeja KAŹMIERCZAKA",
+   "children": [
+    {
+     "type": "text",
+     "text": "na sześcioletnią kadencję."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Kaczyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,78 @@
+{
+ "eli": "MP/2005/558",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 8 lipca 2005 r. w sprawie zmian w składzie osobowym Komisji do Spraw Służb Specjalnych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/558/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 lipca 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmian w składzie osobowym Komisji do Spraw Służb Specjalnych"
+  },
+  {
+   "type": "text",
+   "text": "Sejm Rzeczypospolitej Polskiej wprowadza następujące zmiany:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 137 ust. 4 w związku z art. 137 ust. 1 Regulaminu Sejmu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "odwołuje się ze składu Komisji do Spraw Służb Specjalnych:"
+    },
+    {
+     "type": "text",
+     "text": "— posła Jacka Zdrojewskiego"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Na podstawie art. 20 ust. 1 w związku z art. 7 ust. 2 Regulaminu Sejmu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "odwołuje się ze składu Komisji Infrastruktury:"
+    },
+    {
+     "type": "text",
+     "text": "— posła Andrzeja Różańskiego"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Na podstawie art. 137 ust. 4 Regulaminu Sejmu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "wybiera się do składu Komisji do Spraw Służb Specjalnych:"
+    },
+    {
+     "type": "text",
+     "text": "— posła Andrzeja Różańskiego."
+    },
+    {
+     "type": "text",
+     "text": "Marszałek Sejmu: w z. T. Nałęcz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

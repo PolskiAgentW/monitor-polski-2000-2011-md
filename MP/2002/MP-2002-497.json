@@ -1,0 +1,938 @@
+{
+ "eli": "MP/2002/497",
+ "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Irlandii o przekazywaniu i przyjmowaniu osób przebywających na terytoriach ich państw bez zezwolenia, sporządzona w Warszawie dnia 12 maja 2001 r.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/497/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UMOWA"
+  },
+  {
+   "type": "text",
+   "text": "między Rządem Rzeczypospolitej Polskiej a Rządem Irlandii o przekazywaniu i przyjmowaniu osób przebywających na terytoriach ich państw bez zezwolenia,"
+  },
+  {
+   "type": "text",
+   "text": "sporządzona w Warszawie dnia 12 maja 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "Rząd Rzeczypospolitej Polskiej i Rząd Irlandii, zwane dalej „Umawiającymi się Stronami”,"
+  },
+  {
+   "type": "text",
+   "text": "kierując się chęcią poprawienia współpracy pomiędzy Umawiającymi się Stronami w celu zwalczania nielegalnej migracji,"
+  },
+  {
+   "type": "text",
+   "text": "pragnąc ułatwić przekazywanie i przyjmowanie oraz tranzyt osób przebywających bez zezwolenia na terytorium państwa drugiej Umawiającej się Strony,"
+  },
+  {
+   "type": "text",
+   "text": "w duchu współpracy i na zasadzie wzajemności,"
+  },
+  {
+   "type": "text",
+   "text": "uwzględniając postanowienia Konwencji dotyczącej statusu uchodźców, sporządzonej w Genewie dnia 28 lipca 1951 r., uzupełnionej Protokołem dotyczącym statusu uchodźców, sporządzonym w Nowym Jorku dnia 31 stycznia 1967 r.,"
+  },
+  {
+   "type": "text",
+   "text": "uzgodniły, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 1"
+  },
+  {
+   "type": "text",
+   "text": "Definicje"
+  },
+  {
+   "type": "text",
+   "text": "Dla celów niniejszej umowy stosuje się następujące definicje:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "„Cudzoziemiec”: osoba, która nie jest obywatelem ani polskim, ani irlandzkim;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "„Wiza”: ważne zezwolenie wydane przez właściwe organy jednej z Umawiających się Stron, upoważniające osobę do wjazdu na terytorium jej państwa i pobytu ciągłego przez czas określony zgodnie z przepisami prawa wewnętrznego Umawiającej się Strony wystawiającej wizę;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "„Zezwolenie na wjazd lub pobyt”: wiza lub ważne zezwolenie wydane przez właściwe organy jednej z Umawiających się Stron upoważniające osobę do wjazdu lub pobytu na terytorium jej państwa, zgodnie z przepisami prawa wewnętrznego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 2"
+    },
+    {
+     "type": "text",
+     "text": "Przyjmowanie obywateli Państw Umawiających się Stron"
+    },
+    {
+     "type": "text",
+     "text": "Każda z Umawiających się Stron, na wniosek drugiej Umawiającej się Strony, przyjmie bez formalności każdą osobę, która na terytorium państwa drugiej Umawiającej się Strony nie spełnia lub przestała spełniać obowiązujące warunki do wjazdu lub pobytu, o ile zostanie ustalone lub istnieje uzasadnione domniemanie, że posiada ona obywatelstwo państwa Strony wezwanej."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 3"
+    },
+    {
+     "type": "text",
+     "text": "Potwierdzenie obywatelstwa"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Obywatelstwo, zgodnie z artykułem 2, może być potwierdzone poprzez:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "paszport każdego rodzaju;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "dowody osobiste łącznie z dowodami tymczasowymi;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_1/lit_c",
+     "text": "dokumenty urzędowe wskazujące na obywatelstwo osoby zainteresowanej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Domniemanie obywatelstwa można ustalić na podstawie następujących dokumentów:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "książeczki wojskowej lub innego dokumentu wystawionego wojskowym;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "aktu urodzenia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_2/lit_c",
+     "text": "prawa jazdy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_2/lit_d",
+     "text": "książeczki żeglarskiej (wystawionej zgodnie z Konwencją Nr 108 Międzynarodowej Organizacji Pracy z dnia 13 marca 1958 r.);",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_2/lit_e",
+     "text": "jakiegokolwiek innego dokumentu wystawionego przez właściwe organy Strony wezwanej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "ust_2/lit_f",
+     "text": "dokumentów wymienionych w ustępie 1 oraz literach a)—e) niniejszego ustępu, jeżeli utraciły ważność;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "ust_2/lit_g",
+     "text": "fotokopii dokumentów wymienionych w ustępie 1 oraz literach a)—e) niniejszego ustępu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "ust_2/lit_h",
+     "text": "zeznań świadków lub oświadczenia osoby, która ma być przekazana, złożonego przed właściwymi organami lub sądem Strony wnioskującej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "ust_2/lit_i",
+     "text": "jakiegokolwiek innego dokumentu uznanego przez właściwe organy strony wezwanej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Jeżeli dowód obywatelstwa oparty na domniemaniu zostanie przedstawiony, Umawiające się Strony wzajemnie uznają obywatelstwo za ustalone, chyba że Strona wezwana wykaże błędność takiego dowodu.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "W przypadku braku dokumentów, o których mowa w ustępach 1 i 2, na wniosek Strony wnioskującej przedstawicielstwo dyplomatyczne Strony wezwanej przesłucha niezwłocznie osobę podlegającą przekazaniu w celu ustalenia jej obywatelstwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 4"
+    },
+    {
+     "type": "text",
+     "text": "Przyjmowanie cudzoziemców posiadających zezwolenie na wjazd lub pobyt"
+    },
+    {
+     "type": "text",
+     "text": "Postanowienia artykułu 2 stosuje się odpowiednio do cudzoziemców, którzy posiadają ważne zezwolenie na wjazd lub pobyt, wydane przez państwo Strony wezwanej."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 5"
+    },
+    {
+     "type": "text",
+     "text": "Przyjmowanie cudzoziemców nieposiadających zezwolenia na wjazd"
+    },
+    {
+     "type": "text",
+     "text": "Strona wezwana, na wniosek drugiej Umawiającej się Strony, przyjmie cudzoziemca, który nielegalnie wjechał na terytorium państwa drugiej Umawiającej się Strony, kiedy zostanie udowodnione lub zaistnieje uzasadnione domniemanie, iż cudzoziemiec przybył bezpośrednio z terytorium państwa Strony wezwanej."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 6"
+    },
+    {
+     "type": "text",
+     "text": "Przyjęcie osoby niewłaściwie przekazanej"
+    },
+    {
+     "type": "text",
+     "text": "Strona wnioskująca przyjmie osoby, o których mowa w artykułach 2, 4 i 5, z powrotem pod tymi samymi warunkami, jeżeli po późniejszym sprawdzeniu okaże się, że w chwili opuszczenia terytorium państwa Strony wnioskującej osoby te nie spełniały warunków, o których mowa w artykułach 2, 4 i 5."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 7"
+    },
+    {
+     "type": "text",
+     "text": "Terminy"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Strona wezwana niezwłocznie udzieli drugiej Umawiającej się Stronie odpowiedzi na wniosek o przyjęcie cudzoziemca, w każdym przypadku, najpóźniej w terminie piętnastu dni po dacie otrzymania wniosku.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Umawiająca się Strona, która zaakceptowała wniosek o przyjęcie osoby przebywającej bez ważnego zezwolenia na wjazd lub pobyt, przyjmie tę osobę najpóźniej w ciągu jednego miesiąca od daty akceptacji wniosku. Okres ten może zostać przedłużony na wniosek Strony wnioskującej.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Wniosek o przyjęcie cudzoziemca może być przedłożony Stronie wezwanej w ciągu jednego roku od wjazdu bez zezwolenia lub stwierdzenia utraty prawa pobytu na terytorium państwa Strony wnioskującej, w zależności od tego, która z tych okoliczności nastąpiła później.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 8"
+    },
+    {
+     "type": "text",
+     "text": "Tranzyt"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Każda z Umawiających się Stron, na wniosek drugiej Umawiającej się Strony, w uzgodnionym terminie przyjmie do przewozu tranzytowego przez terytorium swojego państwa cudzoziemca, jeżeli jest zapewnione przyjęcie tej osoby przez państwo docelowe lub państwo dalszego tranzytu.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Strona wezwana, w razie potrzeby, wyda bezpłatnie wizę tranzytową osobie konwojowanej i konwojentom, zgodnie z przepisami jej prawa wewnętrznego.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Każda z Umawiających się Stron odmówi wykonania przewozu tranzytowego pod konwojem, jeżeli cudzoziemiec w państwie docelowym lub państwie dalszego tranzytu może być poddany prześladowaniom lub skazany na karę śmierci, bądź istnieje zagrożenie jego życia lub wolności z powodów rasowych, religijnych, narodowościowych, przynależności do określonej grupy społecznej, czy też z powodu jego poglądów politycznych.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Strona wnioskująca ponosi całkowitą odpowiedzialność za cudzoziemca aż do chwili, gdy dotrze on do miejsca swego przeznaczenia. Strona wnioskująca może zwrócić się z prośbą do właściwych organów Strony wezwanej o zapewnienie eskortowania takiej osoby w czasie tranzytu przez terytorium jej państwa.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Umawiające się Strony dołożą wszelkich starań, aby ograniczyć wnioski o przewóz tranzytowy w stosunku do cudzoziemców, którzy nie mogą być przekazani bezpośrednio do państwa docelowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 9"
+    },
+    {
+     "type": "text",
+     "text": "Ochrona danych"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Dane niezbędne do realizacji niniejszej umowy mogą obejmować wyłącznie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "dane osoby, która ma być przyjęta lub przewożona, a w razie potrzeby dane członków jej rodziny, takie jak nazwisko, imię, imiona używane poprzednio, przezwisko lub pseudonim, datę i miejsce urodzenia, płeć oraz obecne i poprzednie obywatelstwa;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "dane zawarte w paszporcie, dokumencie podróży lub innym dokumencie stwierdzającym tożsamość;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_1/lit_c",
+     "text": "inne dane potrzebne do ustalenia tożsamości osoby;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_1/lit_d",
+     "text": "opis wszelkich zezwoleń na wjazd i pobyt, wydanych przez jedną z Umawiających się Stron lub państwo trzecie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_1/lit_e",
+     "text": "opis tras.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przekazywanie danych, w celu realizacji niniejszej umowy, następuje zgodnie z prawem wewnętrznym każdej z Umawiających się Stron.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Dane osobowe mogą być przekazywane jedynie do wiadomości właściwych organów każdej z Umawiających się Stron. Właściwe organy każdej z Umawiających się Stron zapewnią ochronę wszystkich informacji otrzymanych w związku z wykonywaniem niniejszej umowy, zgodnie z przepisami ich prawa wewnętrznego.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Przy przetwarzaniu danych osobowych przekazywanych w związku z wykonywaniem niniejszej umowy Umawiające się Strony będą przestrzegały następujących zasad:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_4/lit_a",
+     "text": "Strona otrzymująca, która otrzymała dane, może je wykorzystać jedynie w celach, dla których niniejsza umowa przewiduje przekazywanie takich danych, oraz przestrzegając warunków ustalonych przez Umawiającą się Stronę przekazującą dane;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_4/lit_b",
+     "text": "przekazane dane osobowe mogą być wykorzystywane jedynie przez władze sądowe, organy i służby realizujące zadania określone w niniejszej umowie; przekazywanie danych innym organom będzie możliwe jedynie po uprzednim uzyskaniu zgody Strony przekazującej, która przekazała te dane;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_4/lit_c",
+     "text": "Strona przekazująca dane jest zobowiązana zapewnić ich dokładność i kompletność; strona otrzymująca jest obowiązana zapewnić, aby dane te nie były przechowywane dłużej, niż jest to konieczne dla celów, dla których zostały one przekazane, a następnie zostały zniszczone;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_4/lit_d",
+     "text": "jeżeli Strona przekazująca dane stwierdzi z urzędu albo na wniosek zainteresowanej osoby, że przekazane zostały dane niewłaściwe lub dane, które nie powinny być przekazane, obowiązana jest do niezwłocznego powiadomienia o tym Strony otrzymującej dane; w takim przypadku Strona otrzymująca obowiązana jest do dokonania ich korekty lub zniszczenia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_4/lit_e",
+     "text": "Strona otrzymująca zobowiązana jest do ochrony uzyskanych informacji przed przypadkową utratą, niedozwolonym dostępem, zmianą lub ujawnieniem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 10"
+      },
+      {
+       "type": "text",
+       "text": "Koszty"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Koszty transportu osoby, o której mowa w artykułach 2, 4, 5 i 6, będą pokryte przez Stronę wnioskującą do granicy państwa Strony wezwanej, chyba że koszty te pokryje przewoźnik.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Koszty tranzytu, zgodnie z artykułem 8, do granicy państwa docelowego i w miarę potrzeby koszty transportu powrotnego będą pokryte przez Stronę wnioskującą.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 11"
+    },
+    {
+     "type": "text",
+     "text": "Wykonanie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Umawiające się Strony, w drodze wymiany not dyplomatycznych, przekażą sobie wzajemnie informacje o właściwych organach, które są odpowiedzialne za realizację niniejszej umowy. Umawiające się Strony informują się także nawzajem o zmianach dotyczących tych organów.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przedstawiciele właściwych organów określą między innymi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "przejścia graniczne, w których osoby objęte niniejszą umową będą przyjmowane;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "dane i dokumenty niezbędne przy przyjmowaniu i konwojowaniu osób oraz tryb wykonywania tych czynności;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_2/lit_c",
+     "text": "zasady i sposób opłacania kosztów, o których mowa w artykule 10;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_2/lit_d",
+     "text": "wzór wniosku o przyjęcie osoby przebywającej bez ważnego zezwolenia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_2/lit_e",
+     "text": "jakiekolwiek inne niezbędne czynności dla efektywnego wykonania niniejszej umowy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 12"
+      },
+      {
+       "type": "text",
+       "text": "Stosunek do innych umów międzynarodowych"
+      },
+      {
+       "type": "text",
+       "text": "Niniejsza umowa nie narusza praw i obowiązków każdej z Umawiających się Stron wynikających z wiążących je umów międzynarodowych."
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 13"
+      },
+      {
+       "type": "text",
+       "text": "Rozstrzyganie sporów"
+      },
+      {
+       "type": "text",
+       "text": "Spory dotyczące interpretacji lub stosowania niniejszej umowy będą rozstrzygane w drodze uzgodnień między właściwymi organami Umawiających się Stron. W razie nieosiągnięcia porozumienia spory będą rozstrzygane przez Umawiające się Strony na drodze dyplomatycznej."
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 14"
+      },
+      {
+       "type": "text",
+       "text": "Ocena realizacji"
+      },
+      {
+       "type": "text",
+       "text": "Realizacja niniejszej umowy może być wspólnie oceniana przez właściwe organy, o których mowa w artykule 11 ustęp 1, na wniosek jednego z tych organów."
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 15"
+      },
+      {
+       "type": "text",
+       "text": "Postanowienia końcowe"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem państwa każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not dyplomatycznych. Umowa niniejsza wchodzi w życie po upływie trzydziestu dni od dnia otrzymania noty późniejszej potwierdzającej takie przyjęcie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Każda z Umawiających się Stron może czasowo zawiesić wykonanie całości lub części niniejszej umowy, z wyjątkiem artykułu 2, mając na względzie porządek publiczny, zawiadamiając o tym w drodze notyfikacji drugą Umawiającą się Stronę. Zawieszenie to wejdzie w życie w dniu określonym w nocie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Umowa niniejsza zawarta jest na czas nieokreślony. Może być ona wypowiedziana przez każdą z Umawiających się Stron w drodze notyfikacji; w takim przypadku utraci ona moc po upływie dziewięćdziesięciu dni od dnia otrzymania noty.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Sporządzono w Warszawie dnia 12 maja 2001 r. w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym obydwa teksty są jednakowo autentyczne."
+    },
+    {
+     "type": "text",
+     "text": "Z upoważnienia Z upoważnienia Rządu Rzeczypospolitej Polskiej Rządu Irlandii"
+    },
+    {
+     "type": "text",
+     "text": "M. Biernacki J. O‘Donoghue"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "AGREEMENT"
+    },
+    {
+     "type": "ocr",
+     "text": "between the Government of the Republic of Poland and the Government of Ireland on transferring and readmitting persons who remain on the territory of their States without authorisation"
+    },
+    {
+     "type": "ocr",
+     "text": "The Government of the Republic of Poland and the Government of Ireland, hereinafter referred to as the Contracting Parties, . Desiring to improve co-operation between the two Contracting Parties in order to combat illegal migration; e Wishing to facilitate the readmission and transfer of persons residing without authorisation on the territories of the respective Contracting Parties; . In the spirit of co-operation and on a mutual basis; . Subject to the provisions of the Convention Relating to the Status of Refugees signed at Geneva on 28th day of July 1951, supplemented by the Protocol relating to the Status of Refugees signed done at New York on 31st day of January 1967, have agreed as follows:"
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 1 Definitions For the purpose of this Agreement, the following definitions shall apply:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) \"Foreign national\": a person who neither holds Polish or Irish citizenship;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) \"Visa\": a valid permit, issued by the competent authorities of a Contracting Party, which entitles a person to enter the territory of its State without interruption for a specified period of time in conformity with the national legal requirements of the visa issuing Contracting Party; \"Entry or Residence Permit\": visa or valid permit issued by the competent authorities of one of the Contracting Parties which entitles a person to enter or reside on the territory of its State in conformity with domestic law."
+    },
+    {
+     "type": "ocr",
+     "text": "c"
+    },
+    {
+     "type": "ocr",
+     "text": "—"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 2 Readmission of citizens of the States of the Contracting Parties"
+    },
+    {
+     "type": "ocr",
+     "text": "Each of the Contracting Parties, upon the request of the other Contracting Party, shall readmit without any formal procedures every person who does not meet or has ceased to meet the conditions of entry or residence that exist within the State of the other Contracting Party if it is determined, or if there is a justified presumption, that such a person is the citizen of the State of the requested Party."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 3 Proof of citizenship"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Proof of citizenship pursuant to Article 2 can be furnished through:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) passports of any kind;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) identity cards including temporary and provisional ones;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) official documents indicating the citizenship of the person concerned."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Presumed citizenship can be determined on the basis of the following documents:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) military identity cards and any other identity card issued to a military person;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) birth certificates;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) driving licences;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) seamens' registration books issued pursuant to the Convention No. 108 of the International Labour Organisation dated 13 March, 1958;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) any other document issued by the competent authorities of the requested Party;"
+    },
+    {
+     "type": "ocr",
+     "text": "f) documents mentioned in paragraph 1 or subparagraphs (a) - (e) of this paragraph if their validity has lapsed;"
+    },
+    {
+     "type": "ocr",
+     "text": "g) photocopies of the documents mentioned in paragraph 1 as well as documents mentioned in subparagraphs (a) - (e) of this paragraph;"
+    },
+    {
+     "type": "ocr",
+     "text": "h) Statements made by witnesses or statement made by a person who is subject to _ readmission before the competent authorities or in a court of the requesting Party;"
+    },
+    {
+     "type": "ocr",
+     "text": "i) any other documents recognised by the competent authorities of the requested Party"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Where presumed evidence of citizenship is furnished, the Contracting Parties shall mutually deem the citizenship to be established unless the requested Contracting Party has disproved it."
+    },
+    {
+     "type": "ocr",
+     "text": "- In the absence of the documents mentioned in paragraphs (1) and (2), upon the request of the requesting Party, the diplomatic representatives of the requested Party shall hear the person concerned without undue delay in order to establish his or her citizenship."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 4 Readmission of foreign nationals who have an entry or residence permit"
+    },
+    {
+     "type": "ocr",
+     "text": "The provisions of Article 2 shall be applied respectively to foreign nationals who have a valid entry or residence permit issued by the State of the requested Party."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 5 Readmission of foreign nationals who do not have an entry permit"
+    },
+    {
+     "type": "ocr",
+     "text": "Upon the request of the other Contracting Party, the requested Party shall admit a foreign national who has illegally entered the territory of the State of the other Contracting Party, when it is proved, or if there is a justified presumption, that the foreign national has arrived directly from the territory of the requested State ."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 6 Readmission of improperly transferred person"
+    },
+    {
+     "type": "ocr",
+     "text": "The requesting Party shall readmit the person referred to in Articles 2, 4 and 5 under the same conditions if, after subsequent verification, it is shown that, at the moment of leaving the territory of the State of the requesting Party, such person did not meet the conditions referred to in Articles 2, 4 and 5."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 7 Time limits"
+    },
+    {
+     "type": "ocr",
+     "text": "1. The requested Party shall without delay respond to the other Contracting Party's request for the readmission of a foreign national and, in any case, not later than fifteen days following receipt of the request."
+    },
+    {
+     "type": "ocr",
+     "text": "2. The Contracting Party which has accepted the request for admitting a person, who entered or resides without permission, shall readmit such person not later than one month from the date of accepting the request. This period of time may be extended upon the request of the requesting Party."
+    },
+    {
+     "type": "ocr",
+     "text": "3. The request for the readmission of a foreign national can be submitted to the requested Party within a one year period from the entry to the territory of the requesting Party without a valid permit or of confirming the loss of the right to reside on that territory whichever is the later."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 8 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "—"
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 8 Transit"
+    },
+    {
+     "type": "ocr",
+     "text": "Upon the request of the other Contracting Party, each of the Contracting Parties shall allow a foreign national to pass through the territory of its State for the purpose of transit to a third country at the time agreed upon if the reception of such person by the country of destination or another transit country is ensured."
+    },
+    {
+     "type": "ocr",
+     "text": "„If necessary, the requested Party shall issue a transit visa free-of-charge for an escorted person and that person's escort, in accordance with the provisions of its domestic law."
+    },
+    {
+     "type": "ocr",
+     "text": "Each of the Contracting Parties shall reject a request for the transit of an escorted person to the country of final destination, or to another transit country, if it considers that the foreign national may, in either country, be persecuted or subject to a conviction where the death penalty applies, or a threat is posed to such person's life or freedom for racial, religious or ethnic reasons, due to such person belonging to a particular social group or for political reasons."
+    },
+    {
+     "type": "ocr",
+     "text": ". The requesting Party shall take full responsibility for a foreign national until the moment of his or her arrival at the place of final destination. The requesting Party may request the competent authorities of the requested Party to secure the escort of such foreign national during transit through its territory. |"
+    },
+    {
+     "type": "ocr",
+     "text": ". The Contracting Parties shall endeavour to restrict transit applications to foreign nationals who cannot be returned to their country of final destination directly."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 9 Protection of data"
+    },
+    {
+     "type": "ocr",
+     "text": ". Data necessary to give effect to this Agreement may include exclusively the following:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data of the person to be received or transported, and, if necessary, the data of his or her family members such as surname, name, names previously used, nickname or pseudonym, date and place of birth, sex and the current and previous citizenship;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data contained in a passport, travel document or any other document that confirms his or her identity;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) other data necessary to determine the identity of the person;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) description of all the entry and residence permits issued by one of the Contracting Parties or a third state; €) route description."
+    },
+    {
+     "type": "ocr",
+     "text": "2. The transfer of data for the purposes of the implementation of this Agreement shall take Place in conformity with the national law of each of the Contracting Parties."
+    },
+    {
+     "type": "text",
+     "text": "4 ."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Personal data may only be communicated to the competent authorities of each Contracting Party. The competent authorities of each Contracting Party shall ensure the protection of all information received under this Agreement, in accordance with their national law."
+    },
+    {
+     "type": "ocr",
+     "text": "4, In the processing of the personal data transferred under this Agreement, the Contracting Parties shall obey the following rules:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) The receiving Party can use the data solely for the purposes of this Agreement while obeying the conditions set by the transferring Party;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) The transferred personal data can be used solely by the courts or bodies or services acting under this Agreement. The disclosure of this data to other bodies may only be * possible after receiving the permission of the transferring Party;"
+    },
+    {
+     "type": "ocr",
+     "text": "c) The transferring Party is obliged to ensure the accuracy and completeness of the data. The receiving Party is obliged to ensure that the data shall not be stored longer than necessary for the purposes for which it was transmitted and thereafter be destroyed;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) If the transferring Party discovers, either in the exercise of its functions or on the - request of the person to whom the data relates, that the data has not been properly transferred or should not have been transferred, it is obliged to inform the receiving Party without delay. In such a case, the receiving Party is obliged to correct or destroy such data;"
+    },
+    {
+     "type": "ocr",
+     "text": "e) The receiving Party shall protect the received information against accidental loss, unauthorised access, alteration or disclosure."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 10"
+    },
+    {
+     "type": "ocr",
+     "text": "Costs"
+    },
+    {
+     "type": "ocr",
+     "text": "l. The transportation costs of the person referred to in Articles 2, 4, 5 and 6 shall be covered by the requesting Party to the borders of the State of the requested Party, unless such costs are covered by a transportation company."
+    },
+    {
+     "type": "ocr",
+     "text": "2. The costs of transit in accordance with Article 8 to the border of the country of final destination and, if necessary, the costs of return transportation shall be covered bY the requesting Party."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 11 Implementation"
+    },
+    {
+     "type": "ocr",
+     "text": "1. By way of exchanging diplomatic notes, the Contracting Parties shall convey to each other information about the competent authorities responsible for the execution of this Agreement. The Contracting Parties shall also inform each other about changes regarding such bodies."
+    },
+    {
+     "type": "ocr",
+     "text": "2. The representatives of the competent authorities shall, among other things, define the following:"
+    },
+    {
+     "type": "ocr",
+     "text": "a)checkpoints through which persons covered by this Agreement shall be readmitted; b)data and documents necessary in readmitting and escorting persons and the procedure for conducting such activities; c)principles and mamner of covering the costs referred to in Article 10;"
+    },
+    {
+     "type": "ocr",
+     "text": "d) sample of an application for receiving a person who stays without a valid permit; e)any other necessary measures for the effective implementation of this Agreement."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 12 Relation to other International Agreements"
+    },
+    {
+     "type": "ocr",
+     "text": "This Agreement shall not affect the rights and obligations of each of the Contracting Parties under any international agreements to which they are parties."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 13 Resolving disputes"
+    },
+    {
+     "type": "ocr",
+     "text": "Disputes in relation to the interpretation or application of this Agreement shall be resolved through negotiations between the competent authorities of the Contracting Parties. If agreement is not reached, the disputes shall be resolved by the Contracting Parties in accordance with diplomatic procedures."
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 14 Review of operation"
+    },
+    {
+     "type": "ocr",
+     "text": "The implementation of this Agreement may be jointly evaluated by the competent authorities referred to in Article 11(1) at the request of one of these competent authorities."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ARTICLE 15 Final provisions"
+    },
+    {
+     "type": "ocr",
+     "text": "1. This Agreement is subject to acceptance in accordance with the national law of each of the Contracting Parties, which shall be stated by way of the exchange of diplomatic notes. This Agreement shall enter into force thirty days after the date of receipt of the latter of the two diplomatic notes. 2, Each of the Contracting Parties may temporarily suspend the execution of the whole or part of this Agreement, except Article 2, taking into consideration public order, by notification of the other Contracting Party. The suspension shall enter into force on the date specified in the notification."
+    },
+    {
+     "type": "ocr",
+     "text": "3. This Agreement has been concluded for an unlimited period of time. It may be terminated by either Contracting Party by notification, in which case it shall cease to have effect ninety days after the date of receipt of the notification."
+    },
+    {
+     "type": "ocr",
+     "text": "m Done at... MALA ..ooseewnewaaaaw on 12... MYV...2E...MAL...ADO!........... in two copies, one each in the Polish and English languages, both texts being equally authentic."
+    },
+    {
+     "type": "ocr",
+     "text": "For the Government For the Government of the Republic of Poland | of"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

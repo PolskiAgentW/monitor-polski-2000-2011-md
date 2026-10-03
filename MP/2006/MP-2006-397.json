@@ -1,0 +1,69 @@
+{
+ "eli": "MP/2006/397",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 23 maja 2006 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/397/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 maja 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 1 czerwca 2006 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 23 maja 2006 r. (poz. 397)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Śred- Wielkość War- nica emisji Brzeg (bok) (w gra- Stop tość mach) (w mili- (w sztustrona główna strona odwrotna metrach) kach)"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części wi- W centralnej części Na boku zerunek orła ustalony stylizowany wizeru- ośmiokrotnie dla godła Rzeczypo- nek elewacji fronto- powtórzony spolitej Polskiej. Z pra- wej Pałacu Książę- napis: NBP, wej strony napis: 2 ZŁ. cego w Żaganiu. co drugi U góry półkolem na- U góry element ar- odwrócony pis: RZECZPOSPOLITA chitektury wieńczą- o 180 stopni, POLSKA oraz oznacze- cy okna pałacu oraz rozdzielony 2 zł nie roku emisji: 2006. stylizowany wizeru- gwiazdkami. 8,15 27,0 CuAl5Zn5Sn1 1 100 000 Poniżej orła stylizowa- nek jednego z maszny fragment muru karonów. U dołu miejskiego z blankami stylizowany napis: oraz z bramą o rozwar- ŻAGAŃ. tych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

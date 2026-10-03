@@ -1,0 +1,115 @@
+{
+ "eli": "MP/2003/286",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 kwietnia 2003 r. w sprawie rejestru upoważnionych jednostek certyfikujących w rolnictwie ekologicznym",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/286/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 kwietnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie rejestru upoważnionych jednostek certyfikujących w rolnictwie ekologicznym[^1]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 ust. 7 i 8 ustawy z dnia 16 marca 2001 r. o rolnictwie ekologicznym (Dz. U. Nr 38, poz. 452) ogłasza się rejestr upoważnionych jednostek certyfikujących w rolnictwie ekologicznym, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: A. Tański"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Rolnictwa i Rozwoju Wsi z dnia 2 kwietnia 2003 r. (poz. 286)",
+   "body": [
+    {
+     "type": "text",
+     "text": "REJESTR UPOWAŻNIONYCH JEDNOSTEK CERTYFIKUJĄCYCH W ROLNICTWIE EKOLOGICZNYM"
+    },
+    {
+     "type": "text",
+     "text": "Numer identyfikacyjny Nazwa jednostki nadany Lp. Zakres upoważnienia i jej siedziba w upoważnieniu jednostce certyfikującej"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "1 Polskie Centrum Badań i Certy- Przeprowadzanie kontroli, wydawanie i co- RE-01/2002/PL fikacji Biuro ds. Badań i Certyfi- fanie certyfikatów zgodności w zakresie: kacji Oddział w Pile, 64-920 Piła, 1) produkcji rolnej oraz pozyskiwania dziko ul. Śniadeckich 5 rosnących roślin lub ich części;"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przetwórstwa produktów rolnictwa ekologicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wprowadzania do obrotu produktów rolnictwa ekologicznego pochodzących z zagranicy",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Jednostka Certyfikacji Produk- Przeprowadzanie kontroli, wydawanie i co- RE-02/2002/PL cji Ekologicznej PNG Sp. z o.o. fanie certyfikatów zgodności w zakresie: w Zajączkowie, 26-065 Pieko- 1) produkcji rolnej oraz pozyskiwania dziko szów rosnących roślin lub ich części (grzyby); 2) przetwórstwa produktów rolnictwa ekologicznego"
+      },
+      {
+       "type": "text",
+       "text": "3 BIOEKSPERT s.c. w Warszawie, Przeprowadzanie kontroli, wydawanie i co- RE-03/2002/PL 02-120 Warszawa, ul. Grójec- fanie certyfikatów zgodności w zakresie: ka 109 1) produkcji rolnej oraz pozyskiwania dziko rosnących roślin lub ich części;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przetwórstwa produktów rolnictwa ekologicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wprowadzania do obrotu produktów rolnictwa ekologicznego pochodzących z zagranicy 1 2 3 4",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 AGRO BIO TEST Sp. z o.o. Przeprowadzanie kontroli, wydawanie i co- RE-04/2002/PL w Warszawie, 02-787 Warsza- fanie certyfikatów zgodności w zakresie: wa, ul. Nowoursynowska 166 1) produkcji rolnej oraz pozyskiwania dziko rosnących roślin lub ich części;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przetwórstwa produktów rolnictwa ekologicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wprowadzania do obrotu produktów rolnictwa ekologicznego pochodzących z zagranicy",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 COBICO Sp. z o.o. w Krakowie, Przeprowadzanie kontroli, wydawanie i co- RE-05/2003/PL 26-065 Kraków, ul. Lekarska 1 fanie certyfikatów zgodności w zakresie: 1) produkcji rolnej (bez pszczelarstwa)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Niniejsze obwieszczenie było poprzedzone obwieszczeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 29 sierpnia 2002 r. w sprawie rejestru upoważnionych jednostek certyfikujących (M. P. Nr 39, poz. 612)."
+ }
+}

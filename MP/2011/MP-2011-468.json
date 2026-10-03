@@ -1,0 +1,741 @@
+{
+ "eli": "MP/2011/468",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 24 maja 2011 r. w sprawie raportu określającego cele w zakresie udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, w krajowym zużyciu energii elektrycznej na lata 2010-2019",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/468/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 maja 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie raportu określającego cele w zakresie udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, w krajowym zużyciu energii elektrycznej na lata 2010—2019"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9f ust. 5 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.[^2]) ogłasza się w załączniku do obwieszczenia raport określający cele w zakresie udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, w krajowym zużyciu energii elektrycznej na lata 2010—2019."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: wz. M. Kasprzak"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Zatacznik do obwieszczenia Ministra Gospodarki z dnia 24 maja 2011 r. (poz. 468)"
+  },
+  {
+   "type": "ocr",
+   "text": "MINISTER GOSPODARKI"
+  },
+  {
+   "type": "ocr",
+   "text": "RAPORT OKRESLAJACY CELE W ZAKRESIE UDZIALU ENERGII ELEKTRYCZNEJ WYTWARZANEJ W ODNAWIALNYCH ŹRÓDŁACH ENERGII ZNAJDUJĄCYCH SIĘ NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ, W KRAJOWYM ZUŻYCIU ENERGII ELEKTRYCZNEJ NA LATA 2010 - 2019"
+  },
+  {
+   "type": "ocr",
+   "text": "Dokument przyjęty przez Radę Ministrów w dniu 12 kwietnia 2011 r."
+  },
+  {
+   "type": "ocr",
+   "text": "Warszawa, kwiecień 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "Spis treści"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Podstawa prawna . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2461",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Cele raportu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2461",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Wartość celów w zakresie wytwarzania energii elektrycznej z odnawialnych źródeł energii . . . . . 2461",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Produkcja energii elektrycznej ze źródeł odnawialnych . . . . . . . . . . . . . . . . . . . . . . . . . . 2465",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Środki zmierzające do realizacji celów z zakresu wytwarzania energii elektrycznej z odnawialnych źródeł energii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2469",
+   "children": [
+    {
+     "type": "text",
+     "text": "5.1 Obowiązujący system wsparcia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2469"
+    },
+    {
+     "type": "text",
+     "text": "5.2 Bezpośrednie wsparcie ze środków unijnych . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2470"
+    },
+    {
+     "type": "text",
+     "text": "5.3 Wsparcie ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2472"
+    },
+    {
+     "type": "text",
+     "text": "5.4 Działania związane z tworzeniem strategicznych programów w zakresie wzrostu wykorzystania OZE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2474"
+    },
+    {
+     "type": "text",
+     "text": "5.5 Regulacje prawne sprzyjające realizacji celów ilościowych w zakresie OZE . . . . . . . . . . . . . . 2477"
+    },
+    {
+     "type": "text",
+     "text": "5.6 Przyszłe działania zmierzające do zwiększenia udziału energii pochodzącej ze źródeł odnawialnych 2479"
+    },
+    {
+     "type": "text",
+     "text": "5.7 Przyszłe działania zmierzające do rozwoju sieci przesyłowej i dystrybucyjnej z uwzględnieniem docelowej ilości energii elektrycznej ze źródeł odnawialnych . . . . . . . . . . . . . . . . . . . . . . 2480"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Wpływ realizacji założonych celów na sektor finansów publicznych, w tym budżet państwa . . . . 2481",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Podstawa prawna"
+    },
+    {
+     "type": "ocr",
+     "text": "Raport wypełnia dyspozycję art. 9f ust. 1 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.). Przedmiotowy raport obejmuje lata 2010 — 2019 z uwzględnieniem danych za lata 2005 — 2009 dla zobrazowania dotychczasowej dynamiki wzrostu w przedmiotowym obszarze. Zawarte w niniejszym raporcie dane dotyczące zarówno mocy zainstalowanej, jak również produkcji energii elektrycznej z odnawialnych Źródeł energii (OZE) zostały przygotowane na podstawie informacji otrzymanych z Urzędu Regulacji Energetyki."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Cele raportu"
+    },
+    {
+     "type": "ocr",
+     "text": "Niniejszy raport, zgodnie z upoważnieniem ustawowym, określa cele w zakresie udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, w krajowym zużyciu energii elektrycznej w kolejnych dziesięciu latach, zgodne z zobowiązaniami wynikającymi z umów międzynarodowych dotyczących ochrony klimatu, oraz środki zmierzające do realizacji tych celów. Największy wpływ na określenie celów w zakresie przyszłego zużycia energii elektrycznej wytwarzanej w odnawialnych źródłach energii ma konieczność realizacji zobowiązań zawartych w dyrektywie Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 5.06.2009 r., str. 16), gdzie udział energii pochodzącej ze źródeł odnawialnych w bilansie energii finalnej określono dla Polski na poziomie 15% w 2020 r."
+    },
+    {
+     "type": "ocr",
+     "text": "3. Wartość celów w zakresie wytwarzania energii elektrycznej z odnawialnych źródeł energii"
+    },
+    {
+     "type": "ocr",
+     "text": "Cele w zakresie udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, w krajowym zużyciu energii elektrycznej w kolejnych dziesięciu latach, przedstawiono w tabeli 1."
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 1 - Udział procentowy energii elektrycznej wytworzonej w odnawialnych źródłach energii w całkowitym krajowym zużyciu energii elektrycznej brutto, według celów określonych w dokumencie pt.: Krajowy plan działania w zakresie energii ze źródeł odnawialnych"
+    },
+    {
+     "type": "ocr",
+     "text": "Rok Udział energii elektrycznej z OZE [%]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Powyższe cele w zakresie udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, w krajowym zużyciu energii elektrycznej w latach 2010 — 2019 zostały określone w sposób umożliwiający realizację celów zapisanych w dyrektywie Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniająca i w następstwie uchylająca dyrektywy 2001/77/WE oraz 2003/30/WE. Należy również zaznaczyć, iż cel na 2010 r. jest zgodny ze zobowiązaniami wynikającymi z art. 3 ust. 3 dyrektywy nr 2001/77/WE Parlamentu Europejskiego i Rady z dnia 27 września 2001 r. w sprawie wspierania produkcji na rynku wewnętrznym energii elektrycznej wytwarzanej ze źródeł odnawialnych (Dz. Urz. WE L 283 z 27.10.2001 r., str. 33, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 2, str. 121). Dla zobrazowania znaczenia sektora elektroenergetyki w realizacji celu wyznaczonego przez dyrektywę 2009/28/WE w tabeli 2 zaprezentowano przewidywany kurs dotyczący wykorzystania energii ze źródeł odnawialnych w ciepłownictwie i chłodnictwie, elektroenergetyce oraz transporcie w latach 2010-2019. Dodatkowo tabela 3 wskazuje wkład poszczególnych technologii OZE w realizacji wyznaczonego celu z zakresu elektroenergetyki. Poniższe dane zostały opracowana na podstawie dokumentu pn.: Krajowy plan działania w zakresie energii ze źródeł odnawialnych, który został przyjęty przez Radę Ministrów w dniu 7 grudnia 2010 r."
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 2 - Krajowy cel na rok 2019 oraz przewidywany kurs dotyczący wykorzystania energii ze źródeł odnawialnych w ciepłownictwie i chłodnictwie, elektroenergetyce oraz transporcie"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie | 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 OZE - ciepłownictwo i chłodnictwo 12,29% | 12,54% | 12,78% | 13,05% | 13,29% | 13,71% | 14,39% | 15,02% | 15,68% | 16,50% (systemy sieciowe i niesieciowe) [%] OZE - elektroenergetyka | 7,53% 8,85% | 10,19% | 11,13% | 12,19% | 13,00% | 13,85% | 14,68% | 15,64% | 16,78% [%] OZE - transport [%]"
+    },
+    {
+     "type": "ocr",
+     "text": "Catkowity udziat OZE [%]"
+    },
+    {
+     "type": "ocr",
+     "text": "5,84% 6,30% | 6.76% | 7,21% | 748% | 7,73% | 7,99% 8,49% 9,05% | 9.59%"
+    },
+    {
+     "type": "ocr",
+     "text": "9,58% | 10,09% | 10,60% | 11,05% | 11,45% | 11,90% | 12,49% | 13,11% | 13,79% | 14,58%"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 3 - Oszacowanie łącznego wkładu (zainstalowana moc, produkcja energii elektrycznej brutto) przewidywanego dla każdej z technologii energii odnawialnej w Polsce w realizację wiążących celów na rok 2020 oraz orientacy jnego kursu okresowego w zakresie udziału energii ze źródeł odnawialnych w elektroenergetyce w latach 2010-2019 Wyszczególnienie 2010 2011 2012 2013 2014 MW | GWh | MW GWh | MW | GWh | MW | GWh Energia wodna: 952| 2279 2 982| 2375 992| 2407 <1 MW 102 357 106 114 399 118 413 1 MW- 10 MW 178 534 184| 552] 190] 570) 196 588 202 606 >10 MW 672| 1388 672 672| 1388 672| 1388 w tym elektrownie pompowe 0 0 0 0 0 0"
+    },
+    {
+     "type": "ocr",
+     "text": "Energia geotermalna 0 0 —a at a 0 0 0 0 Energia słoneczna: 1 1 1 | 2] 2] 2 2 2 2 2 fotowoltaiczna l l | 2] a] 2] 2 2 2 2"
+    },
+    {
+     "type": "ocr",
+     "text": "Energia fal i pływów 0 0 0 of oo 0 0 0 0 oceanicznych Energia wiatrowa: 1100] 2310] 1550 2520| 5327] 3030| 6491 lądowa| 1100] 2310] 1550| 3255] 2000| 4300] = 2450] 5268] 2900] 6380 morska 0 0 0 0 0 0 0 małe instalacje 0 0 of of wj 8] 70 60 130 111 Biomasa: 380| 6028 450 940| 8774] 1180| 9438 stata 300| 5700 350| 6700 600| 7700 800| 8200] - 1000] 8700 biogaz 80 328 00 140 574 180 738 bpm 0] of o] of of of of 0] 0] 0 OGÓŁEM 2433| 10618] 2963 4444| 16478] 5204| 18338 \" M w ramach 130 1874 155 2556 310 2747 390 2979 ogeneracji"
+    },
+    {
+     "type": "ocr",
+     "text": "Ev IN PISIOd JOHUOJN"
+    },
+    {
+     "type": "ocr",
+     "text": "— €9bZ —"
+    },
+    {
+     "type": "ocr",
+     "text": "897 zod"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 3 — cd. Wyszczególnienie 2015 2016 MW | GWh | MW Energia wodna: 1002| __2439| 1012 mw] 122] 40] 6 luw=loww| 208] 624] 214] o] 220] 660] 226] 678] 232] 696] Siomw| 62] 1388] 672 w tym elektrownie pompowe 0 0 of of, oof off Energia geotermalna 0 0 of 0] 0] So 0] 0] 0] 0 fotowoltaiczna 2 2 2 skoncentrowana energia Energia fal i pływów Energia wiatrowa: 3540 | 7541/4060 lądowa | __3350|___7370|___3800 małe instalacje 190 171 260 234 330 297 400 400 470 470 saa | 1300] 8 950 1.350 biogaz 230 943 280 1 148 380 1558 480 1 968 730 2993 biopłyny 0 0 0"
+    },
+    {
+     "type": "ocr",
+     "text": "ogeneracji"
+    },
+    {
+     "type": "ocr",
+     "text": "Ev IN PISIOd JOHUOJN"
+    },
+    {
+     "type": "ocr",
+     "text": "— vere —"
+    },
+    {
+     "type": "ocr",
+     "text": "897 zod"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "4, Produkcja energii elektrycznej ze źródeł odnawialnych"
+    },
+    {
+     "type": "ocr",
+     "text": "Źródła wykorzystujące energię biomasy (uprawy energetyczne, biomasa leśna, odpady rolnicze 1 przemysłowe), biogazu oraz wiatru mają według ocen ekspertów największy potencjał do wykorzystania w Polsce w ramach istniejących mechanizmów wsparcia. Obecnie, technologie wykorzystujące energię słońca, z powodu niskiej efektywności ekonomicznej w zakresie produkcji energii elektrycznej, mogą odgrywać istotną rolę przede wszystkim w produkcji ciepła oraz w systemach wyspowych, nieprzyłączonych do krajowego systemu elektroenergetycznego. W tabeli 4 przedstawiono moc zainstalowaną w poszczególnych technologiach wykorzystujących odnawialne źródła energii w latach 2005 — 2009, natomiast rysunek | obrazuje wzrost mocy zainstalowanej OZE w latach 2005-2009 (wg. danych Urzędu Regulacji Energetyki)."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 4 - Moc zainstalowana OZE w latach 2005-2009"
+    },
+    {
+     "type": "ocr",
+     "text": "Rok 2005 Rok 2006 Rok 2007 Rok 2008 Rok 2009"
+    },
+    {
+     "type": "ocr",
+     "text": "Lp. Rodzaj jednostki wytwórczej . Moc . Moc . Moc . Moc . Moc zainstalowana | zainstalowana | zainstalowana | zainstalowana | zainstalowana w Mw w Mw w MW w Mw w Mw"
+    },
+    {
+     "type": "ocr",
+     "text": "wytwarzające z biogazu 11,113 15,536 19,688 23,654 Elektrownie z oczyszczalni ścieków"
+    },
+    {
+     "type": "ocr",
+     "text": "1. | Wybwarzayace wytwarzające z biogazu 31,972 0,741 0,741 1,366 7,246 energię rolniczego z biogazu . : wytwarzające z biogazu 24,907 29,422 33,561 39,988 składowiskowego wytwarzające z biomasy z odpadów leśnych, 0,790 0,790 5,210 8,910 rolniczych, ogrodowych Elektrownie wytwarzające z biomasy 0.000 0.000 3,580 20,380 wytwarzające mieszanej"
+    },
+    {
+     "type": "ocr",
+     "text": "2. : - - 189,79 energię wytwarzające z biomasy z biomasy z odpadów przemysłowych 238,000 254,600 223,200 223,200 drewnopochodnych i celulozowo-papiern. 3, | Blektrownie zlokalizowane na lądzie 83,280 152,559 287,909 451,090 724,657 wiatrowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Elektrownie wytwarzające energię"
+    },
+    {
+     "type": "ocr",
+     "text": "4. ot . - - - - 0,001 elektryczną z promieniowania słonecznego przepływowe do 0,3 MW 42,523 43,271 42,778 41,972"
+    },
+    {
+     "type": "ocr",
+     "text": "przepływowe do 1 MW 41,723 41,723 44,525 46,105"
+    },
+    {
+     "type": "ocr",
+     "text": "przepływowe do 5 MW 129,525 129,525 132,513 136,373"
+    },
+    {
+     "type": "ocr",
+     "text": "5. One przepływowe do 10 MW 852,495 47,780 47,780 48,280 48,280 wodne pspiywows POWYS 289,800 289,800 289,800 289,800 przepływowa z członem 382,680 382,680 382,680 382,680 pompowym"
+    },
+    {
+     "type": "ocr",
+     "text": "Elektrownie paliwa kopalne i biomasa 6 wykorzystujące - - - - - \"_ | technologię p x) współspalania paliwa kopalne i biogaz"
+    },
+    {
+     "type": "ocr",
+     "text": "RAZEM 1 157,537 1 362,141 1 523,777 1 678,271 1993,246"
+    },
+    {
+     "type": "ocr",
+     "text": "*) w przypadku instalacji wykorzystujących technologie współspalania w elektrowniach konwencjonalnych dokonywana jest zmiana warunków wykonywanej działalności — co powoduję zmianę koncesji. Ze względu na duże przedziały procentowego udziału biomasy (w całkowitym strumieniu paliwa), w odniesieniu do tych instalacji, nie podano całkowitej mocy zainstalowanej."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek I — Wzrost mocy zainstalowanej OZE w latach 2005-2009"
+    },
+    {
+     "type": "ocr",
+     "text": "2200"
+    },
+    {
+     "type": "ocr",
+     "text": "2000"
+    },
+    {
+     "type": "ocr",
+     "text": "1800"
+    },
+    {
+     "type": "ocr",
+     "text": "1600"
+    },
+    {
+     "type": "ocr",
+     "text": "1400"
+    },
+    {
+     "type": "ocr",
+     "text": "1200"
+    },
+    {
+     "type": "ocr",
+     "text": "1000 2005 2006 2007 2008 2009"
+    },
+    {
+     "type": "ocr",
+     "text": "Udział energii elektrycznej wytwarzanej w odnawialnych źródłach w krajowym zużyciu energii elektrycznej brutto w Polsce wzrósł z 2,58 % w 2005 r. do 5,75 % w 2009 r. Ilość energii elektrycznej wyprodukowanej w odnawialnych źródłach i jej udział w zużyciu energii elektrycznej brutto w latach 2005 - 2009 (wg. danych Urzędu Regulacji Energetyki) przedstawia tabela 5."
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 5 - Udział energii elektrycznej z OZE w krajowym zużyciu energii elektrycznej brutto w latach 2005-2009 pT 2005 | 2006 | 2007 | 2008 | 2009 > Produkcja energii elektrycznej w OZE [TWh] 3,761 4,222 5,230 6,447 8,594 Zużycie energii elektrycznej 145.7 150.8 154.0 153.4 149.5 w Polsce [TWh] , , , , Udział energii elektrycznej wytworzonej w źródłach 2,58 2,80 3,40 4,20 5,75 odnawialnych [%]"
+    },
+    {
+     "type": "ocr",
+     "text": "W 2009 r. udział energii elektrycznej wytworzonej w odnawialnych źródłach energii w całkowitym zużyciu energii elektrycznej w Polsce zwiększył się w stosunku do 2005 r., przy czym wzrost nie był równomierny w ciągu tych pięciu lat. Wzrost nastąpił w dużej mierze w ciągu ostatnich 3 lat, co było spowodowane funkcjonowaniem mechanizmu tzw. „zielonych certyfikatów , który stworzył korzystne warunki dla inwestycji w odnawialne źródła energii. W 2006 r. produkcja energii elektrycznej z odnawialnych źródeł energii po raz pierwszy"
+    },
+    {
+     "type": "ocr",
+     "text": "! Źródło — Agencja Rynku Energii S.A."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "przekroczyła 4 TWh, w roku 2008 6 TWh, a w roku 2009 już 8 TWh. Ilość energii elektrycznej wytworzonej w poszczególnych technologiach odnawialnych źródeł energii od 2005 r. (wg. danych Urzędu Regulacji Energetyki) przedstawia tabela 6 oraz rysunek 2. Tabela 6 - Ilość energii elektrycznej wyprodukowanej w poszczególnych technologiach odnawialnych źródeł energii w latach 2005 — 2009 [GWh]"
+    },
+    {
+     "type": "ocr",
+     "text": "Rodzaj źródła 2005 2006 2007 2008 2009"
+    },
+    {
+     "type": "ocr",
+     "text": "Elektrownie wodne 2176 2030 2 253 2 153 2 376 1345 | isis | 2383 | 3267 | 4888"
+    },
+    {
+     "type": "ocr",
+     "text": "Rysunek 2 - Ilość energii elektrycznej wyprodukowanej w poszczególnych technologiach odnawialnych źródeł energii w latach 2005 - 2009 [GWh|"
+    },
+    {
+     "type": "ocr",
+     "text": "10 000 9 000 8 000 7 000 6 000 5 000 4 000 3 000 2 000 1 000 0"
+    },
+    {
+     "type": "ocr",
+     "text": "GWh"
+    },
+    {
+     "type": "ocr",
+     "text": "2005 2006 2007 2008 2009"
+    },
+    {
+     "type": "ocr",
+     "text": "EJ Elektrownie wodne EJ Biomasa Kl Biogaz & Elektrownie wiatrowe"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Struktura wytwarzania energii elektrycznej z wykorzystaniem zasobów odnawialnych w latach 2005-2009 wskazuje, że największy udział w wytwarzaniu tej energii mają elektrownie i elektrociepłownie wykorzystujące energię biomasy oraz elektrownie wodne. Ponadto coraz istotniejszą rolę odgrywają źródła wykorzystujące wiatr oraz biogaz. W latach 2005-2009 nastąpił znaczący wzrost produkcji energii elektrycznej ze źródeł wykorzystujących energię biomasy i wiatru."
+    },
+    {
+     "type": "ocr",
+     "text": "5. Srodki zmierzające do realizacji celów z zakresu wytwarzania energii elektrycznej z odnawialnych źródeł energii"
+    },
+    {
+     "type": "ocr",
+     "text": "5.1. Obowiązujący system wsparcia"
+    },
+    {
+     "type": "ocr",
+     "text": "Od dnia 1 października 2005 r. funkcjonuje w Polsce system wsparcia produkcji energii elektrycznej wytwarzanej w odnawialnych źródłach energii. Zgodnie z ustawą - Prawo energetyczne przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej lub jej obrotem i sprzedające energię elektryczną odbiorcom końcowym, odbiorca końcowy będący członkiem giełdy towarowej w rozumieniu art. 2 pkt 5 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2010 r. Nr 48, poz. 284, z późn. zm.), w odniesieniu do transakcji zawieranych we własnym imieniu na giełdzie towarowej, towarowy dom maklerski lub dom maklerski, o których mowa w art. 2 pkt 8 i 9 ustawy o giełdach towarowych, w odniesieniu do transakcji realizowanych na zlecenie odbiorców końcowych na giełdzie towarowej mają obowiązek uzyskania 1 przedstawienia do umorzenia Prezesowi Urzędu Regulacji Energetyki świadectw pochodzenia energii elektrycznej wytworzonej w odnawialnych źródłach energii bądź uiszczenia opłaty zastępczej. Wprowadzony w Polsce system wsparcia, będący formułą tzw. zielonych certyfikatów, jest mechanizmem rynkowym sprzyjającym optymalnemu rozwojowi i konkurencji. Rozdzielając Świadectwa pochodzenia energii elektrycznej wytworzonej w źródłach odnawialnych od energii fizycznej, umożliwiono obrót na giełdzie prawami majątkowymi wynikającymi z tych świadectw. Uzupełnieniem tego mechanizmu, jako konsekwencja rozdziału fizycznego przepływu energii elektrycznej od świadectw pochodzenia, jest obowiązek zakupu przez przedsiębiorstwa energetyczne pełniące rolę sprzedawcy z urzędu całej energii elektrycznej wytworzonej w źródłach odnawialnych, przyłączonych do sieci znajdujących się w obszarze działania danego sprzedawcy z urzędu, po Średniej cenie sprzedaży energii elektrycznej w poprzednim roku kalendarzowym. Dodatkowymi zachętami dla rozwoju wykorzystania odnawialnych źródeł energii są: — obniżenie o 50% kosztów przyłączenia do sieci źródeł odnawialnych, — obowiązek zapewnienia przez operatora systemu elektroenergetycznego pierwszeństwa w świadczeniu usług przesyłania energii elektrycznej ze źródeł odnawialnych, — zwolnienie przedsiębiorstw energetycznych wytwarzających energię elektryczną w odnawialnych źródłach energii o mocy poniżej 5 MW z opłat za udzielenie koncesji oraz opłat związanych z uzyskaniem 1 rejestracją świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej w źródle odnawialnym. Bardzo istotnym elementem wsparcia energii odnawialnej jest także zwolnienie od podatku akcyzowego energii wytworzonej w OZE."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "5.2. Bezpośrednie wsparcie ze środków unijnych"
+    },
+    {
+     "type": "ocr",
+     "text": "Obok ww. wsparcia systemowego istnieje także bezpośrednie wsparcie finansowe dla realizacji inwestycji związanych z energetyką odnawialną m.in. ze środków unijnych, przede wszystkim z Programu Operacyjnego „Infrastruktura i Środowisko”, w szczególności w ramach Priorytetu IX „Infrastruktura energetyczna przyjazna środowisku i efektywność energetyczna”. Zgodnie z tym Programem nastąpić ma zmniejszenie oddziaływania sektora energetyki na środowisko, a także podwyższenie sprawności wytwarzania, przesyłania i dystrybucji energii, poprawy efektywności energetycznej w procesie użytkowania energii oraz wzrost wykorzystania energii ze źródeł odnawialnych. W ramach powyższego priorytetu, działaniem o największym znaczeniu dla rozwoju odnawialnych źródeł energii jest działanie 9.4 „Wytwarzanie energii ze źródeł odnawialnych” oraz działanie 9.6 „Sieci ułatwiające odbiór energii ze Źródeł odnawialnych”. Dodatkowo przewiduje się możliwość udzielenia wsparcia na rozwój przemysłu produkującego urządzenia dla energetyki odnawialnej, w oparciu o Priorytet X „Bezpieczeństwo energetyczne, w tym dywersyfikacja źródeł energii”, a w szczególności o działanie 10.3 „Rozwój przemysłu dla odnawialnych źródeł energii”. Wsparcie jest kierowane na budowę nowoczesnych linii technologicznych wytwarzających urządzenia wykorzystywane do produkcji energii elektrycznej 1 ciepła ze źródeł odnawialnych. Należy również zaznaczyć, 1ż środki związane z rozwojem odnawialnych Źródeł energii dostępne są zarówno w ramach Programu Operacyjnego „Innowacyjna Gospodarka”, w tym przede wszystkim z osi priorytetowej 1 - Badanie i rozwój nowoczesnych technologii, osi priorytetowej 2 - Infrastruktura sfery B+R oraz osi priorytetowej 4 - Inwestycje w innowacyjne przedsięwzięcia, jak również z Programu Rozwoju Obszarów Wiejskich 2007-2013, w szczególności w ramach następujących działań: 121. Modernizacja gospodarstw rolnych,"
+    },
+    {
+     "type": "ocr",
+     "text": "123. Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej, 311. Różnicowanie w kierunku działalności nierolniczej, 312. Tworzenie i rozwój mikroprzedsiębiorstw oraz"
+    },
+    {
+     "type": "ocr",
+     "text": "321. Podstawowe usługi dla gospodarki i ludności wiejskiej. Wsparcie finansowe ze środków unijnych można także otrzymać w ramach Regionalnych Programów Operacyjnych (RPO), za które odpowiedzialne są zarządy poszczególnych województw. Dofinansowanie mogą uzyskać projekty związane z budową jednostek wykorzystujących wszystkie znane rodzaje energii odnawialnej. Regiony stosują konkursową procedurę wyłaniania dofinansowania wspomnianych projektów. Poniższa tabela zawiera zestawienie informacji odnośnie ilości złożonych wniosków oraz podpisanych umów w ramach ww. działań Programu Operacyjnego „Infrastruktura i Środowisko”."
+    },
+    {
+     "type": "text",
+     "text": "Tabela 7 - Ilo ci z o onych wniosków oraz podpisanych umów w ramach ww. dzia a Programu Operacyjnego „Infrastruktura i rodowisko” (stan na 28.01.2011 r.)"
+    },
+    {
+     "type": "text",
+     "text": "Wnioski poprawne pod wzgl dem Wnioski zatwierdzone przez Instytucj Podpisane umowy o dofinansowanie formalnym Po rednicz c PO Ii Dzia anie/ Alokacja na lata Poddzia anie 2007-2013 ogó em, z warto w z warto w z warto w z"
+    },
+    {
+     "type": "text",
+     "text": "liczba % liczba % liczba % FS / EFRR alokacji FS / EFRR alokacji FS / EFRR alokacji"
+    },
+    {
+     "type": "text",
+     "text": "9.4 211 4 594 166 513,18 305,09% 23 555 364 150,63 36,88% 1 505 846 480,13 20 526 153 507,38 34,94%"
+    },
+    {
+     "type": "text",
+     "text": "9.6 0 0,00 0,00% 0 0,00 0,00% 149 064 151,21 0 0,00 0,00%"
+    },
+    {
+     "type": "text",
+     "text": "10.3 0 0,00 0,00% 0 0,00 0,00% 130 369 200,00 0 0,00 0,00% Monitor Polski Nr 43 — 2471 — Poz. 468"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "5.3. _ Wsparcie ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej (NFOSiGW)"
+    },
+    {
+     "type": "ocr",
+     "text": "W ślad za rekomendacją Rządu Rzeczypospolitej Polskiej przedstawioną w Planie Stabilności i Rozwoju, w 2009 r. NFOŚIGW opracował Program wsparcia inwestycji w odnawialne źródła energii i obiekty wysokosprawnej kogeneracji. Środki na realizację tego programu pochodzą z opłat i kar, które zgodnie z przepisami ustawy - Prawo energetyczne uiszczane są przez przedsiębiorców na wyodrębniony rachunek NFOŚiGW. Program został podzielony na trzy części, z czego dwie są m.in. związane z dofinansowaniem Źródeł typu OZE, produkujących energię elektryczną: e Program dla przedsięwzięć w zakresie odnawialnych źródeł energii i obiektów wysokosprawnej Kogeneracji - Cz. 1) realizowany bezpośrednio przez NFOŚiGW. Budżet programu wynosi 1,5 mld zł. Program wdrażany będzie do 2015 roku. Program skierowany jest do wszystkich inwestorów podejmujących się budowy odnawialnych źródeł energii i obiektów wysokosprawnej kogeneracji o koszcie całkowitym powyżej 10 mln zł. W ramach programu przewidziano m.in. wsparcie następujących przedsięwzięć: — wytwarzanie energii elektrycznej i ciepła w skojarzeniu przy użyciu biomasy (Źródła rozproszone o mocy poniżej 3 MWe), — wytwarzanie energii elektrycznej i/lub ciepła z wykorzystaniem biogazu powstałego w procesach odprowadzania lub oczyszczania Ścieków albo rozkładu szczątek roślinnych i zwierzęcych, — elektrownie wiatrowe o mocy poniżej 10 MWe, — pozyskiwanie energii z wód geotermalnych, — elektrownie wodne o mocy poniżej 5 MWe. W ramach Program dla przedsięwzięć w zakresie odnawialnych źródeł energii i obiektów wysokosprawnej Kogeneracji - Cz. 1) przeprowadzono dwa konkursy, a w ramach trzeciego zakończono nabór wniosków. Pierwszy konkurs został ogłoszony w dniu 16 marca 2009 r. a nabór wniosków odbywał się od 6 kwietnia 2009 r. do 27 kwietnia 2009 r. Alokacja środków wyniosła 750 mln zł. W ramach pierwszego konkursu do NFOŚIGW wpłynęło 61 wniosków na łączną kwotę pożyczki ponad 1045 mln zł. W wyniku przeprowadzonej oceny odrzucono 54 wnioski, z czego 20 wniosków nie uzupełniono, a 15 wnioskodawców przysłało rezygnację. Na liście rankingowej zostało umieszczonych 7 wniosków na łączną kwotę wnioskowanej pożyczki ok. 131,67 mln zł. Drugi konkurs został ogłoszony w dniu 22 października 2009 r. Nabór wniosków trwał od 1 stycznia 2010 r. do 1 lutego 2010 r. Alokacja środków w tym konkursie wyniosła 500 mln zł. W ramach drugiego konkursu do NFOŚiGW wpłynęło 87 wniosków na łączną kwotę wnioskowanej pożyczki ponad 1 452 mln zł. W wyniku przeprowadzonej oceny odrzucono 77 wniosków, z czego 65 wniosków nie uzupełniono, lub wnioskodawcy przysłali rezygnację. Na liście rankingowej zostało umieszczonych 10 wniosków na łączną kwotę wnioskowanej pożyczki ok. 177,22 mln zł. Uwzględniając dotychczasowe doświadczenia, zebrane w trakcie realizacji 11 II Konkursu oraz informacje uzyskane od potencjalnych inwestorów, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej w Warszawie zaproponował zmienioną formułę III Konkursu poprzez wprowadzenie promes udzielenia pożyczki po wstępnej ocenie wniosków. Z uwagi na liczne problemy wnioskodawców z terminowym dostarczeniem dokumentów uzupełniających do"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "oceny ekologiczno — technicznej 1 finansowej, czas ten został wydłużony w III konkursie (z 3 miesięcy w I konkursie i I miesiąca w II konkursie) do 12 miesięcy (w uzasadnionych przypadkach może być wydłużony o kolejne 3 miesiące). Zmiana ta pozwoli wnioskodawcom na skompletowanie pełnej dokumentacji związanej z inwestycją oraz odpowiednie przygotowanie załączników do wniosku o dofinansowanie. Wnioskodawcy będą mogli sukcesywnie przesyłać skompletowaną dokumentację, w dogodnym dla siebie czasie, co pozwoli na skrócenie czasu do ostatecznego rozpatrzenia wniosku i szybsze zawarcie umowy z wnioskodawcą. Ponadto został wydłużony okres kwalifikowania kosztu do 2015 r. Wszyscy wnioskodawcy I 1 II konkursu, którzy nie otrzymali pozytywnej oceny, zostali zaproszeni do wzięcia udziału w III konkursie. Trzeci konkurs został ogłoszony w dniu 30 lipca 2010 r. Nabór wniosków trwał od 6 grudnia 2010 r. do 7 stycznia 2011 r. Alokacja środków w tym konkursie wyniosła 1 260 mln zł. W ramach trzeciego konkursu do NFOŚiGW wpłynęło 151 wniosków na łączną kwotę wnioskowanej pożyczki 3 077,4 mln zł. e Program dla przedsięwzięć w zakresie odnawialnych źródeł energii i obiektów wysokosprawnej kogeneracji - Cz. 2) - wdrażany przez wojewódzkie fundusze ochrony środowiska i gospodarki wodnej (WFOŚiGW). Budżet programu wynosi 330 mln zł, a okres wdrażania do końca 2014 r. Konkursy ogłaszane są przez WFOŚiGW z uwzględnieniem własnych zasad i kryteriów. Dofinansowanie jest możliwe w zakresie wartości inwestycji od 0,5 do 10 mln zt. W ramach programu przewidziano m.in. wsparcie następujących przedsięwzięć: — wytwarzanie energii elektrycznej i ciepła w skojarzeniu przy użyciu biomasy (Źródła rozproszone o mocy poniżej 3 MWe ), — wytwarzanie energii elektrycznej i/lub ciepła z wykorzystaniem biogazu, powstałego w procesach odprowadzania lub oczyszczania Ścieków albo rozkładu szczątek roślinnych i zwierzęcych, — elektrownie wiatrowe o mocy poniżej 10 MWe, — pozyskiwanie energii z wód geotermalnych, — elektrownie wodne o mocy poniżej 5 MWe, — wytwarzanie energii elektrycznej w instalacjach fotowoltaicznych. NFOŚIGW we wrześniu 2009 r. udzielił promesy zawarcia umów dla dziesięciu WFOŚIGW (Warszawa, Białystok, Opole, Toruń, Gdańska, Szczecin, Rzeszów, Wrocław, Olsztyn, Poznań) na kwotę ok. 328 mln zł. WFOŚiGW przeprowadzają wybór przedsięwzięć w trybie konkursowym według własnych kryteriów ustalonych przez poszczególne WFOŚiGW, przy czym kryteria wyboru uwzględniać będą efektywność kosztową przedsięwzięć. Wszystkie wnioski o udzielenie promesy zostały rozpatrzone pozytywnie. Dotychczas zawarte zostały 3 umowy o udzielenie pożyczki z WFOŚIGW w Gdańsku, Toruniu i Białymstoku na łączną kwotę 14 277 207 zł. Równolegle z powyższym programem realizowane są programy z zakresu zarządzania energią i wykorzystaniem OZE w ramach Krajowego systemu zielonych inwestycji, z których następujące są związane ze wsparciem Źródeł typu OZE, wytwarzających energię elektryczną:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) System zielonych inwestycji - Część 2 — biogazownie rolnicze. Program został skierowany do podmiotów (osoby fizyczne, prawne lub jednostki organizacyjne nie posiadające osobowości prawnej, którym ustawa przyznaje zdolność prawną) podejmujących realizację przedsięwzięć w zakresie wytwarzania energii elektrycznej lub cieplnej z wykorzystaniem biogazu powstałego w procesach rozkładu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "szczątek roślinnych 1 zwierzęcych oraz wytwarzania biogazu rolniczego celem wprowadzenia go do sieci gazowej dystrybucyjnej 1 bezpośredniej. W ramach pierwszego konkursu nabór wniosków zakończył się 28 września 2010 r. Alokacja konkursu wynosiła 36 mln zł w formie dotacji. Wnioskodawcy mogli ubiegać się o dodatkowe środki w formie pożyczek, ze środków NFOŚiGW, zgromadzonych na rachunku opłat i kar, naliczanych zgodnie z przepisami ustawy — Prawo energetyczne. W ramach konkursu wpłynęły wnioski o dofinansowanie dla 62 przedsięwzięć. Wnioskowane dofinansowanie w formie dotacji wynosi 361 mln zł oraz 550 mln zł w formie pożyczki. Obecnie trwa ocena wniosków."
+    },
+    {
+     "type": "ocr",
+     "text": "2) System zielonych inwestycji - Część 3 — elektrociepłownie i ciepłownie na biomasę. Program został skierowany do podmiotów (osoby fizyczne, prawne lub jednostki organizacyjne nie posiadające osobowości prawnej, którym ustawa przyznaje zdolność prawną) podejmujących realizację przedsięwzięć w zakresie odnawialnych Źródeł energii i obiektów kogeneracji z zastosowaniem wyłącznie biomasy (Źródła rozproszone o nominalnej mocy cieplnej poniżej 20 MWt). Nabór wniosków zakończył się 28 października 2010 r. Alokacja konkursu wynosiła 36 mln zł w formie dotacji. Wnioskodawcy mogli ubiegać się o dodatkowe środki w formie pożyczek, ze środków NFOŚiGW, zgromadzonych na rachunku opłat i kar, naliczanych zgodnie z przepisami ustawy — Prawo energetyczne. W ramach konkursu wpłynęło 11 wniosków o udzielenie dotacji na łączną kwotę 59,18 mln zł. Dziewięciu wnioskodawców wraz z wnioskiem o udzielenie dotacji złożyło również wniosek o udzielenie, ze środków NFOŚiGW, pożyczki na łączną kwotę 75,88 mln zł. Obecnie trwa ocena wniosków."
+    },
+    {
+     "type": "ocr",
+     "text": "5.4. Dzialania związane z tworzeniem strategicznych programów w zakresie wzrostu wykorzystania OZE"
+    },
+    {
+     "type": "ocr",
+     "text": "W przygotowanym w Ministerstwie Gospodarki dokumencie pn.: „Polityka energetyczna Polski do 2030 roku”, który w dniu 10 listopada 2009 r. został przyjęty przez Radę Ministrów, zawarto główne cele dotyczące rozwoju wykorzystania odnawialnych Źródeł energii. Obejmują one m.in.:"
+    },
+    {
+     "type": "ocr",
+     "text": "e wzrost udziału odnawialnych źródeł energii w finalnym zużyciu energii co najmniej do poziomu 15% w 2020 roku oraz dalszy wzrost tego wskaźnika w latach następnych, e ochronę lasów przed nadmiernym eksploatowaniem, w celu pozyskiwania biomasy oraz zrównoważone wykorzystanie obszarów rolniczych na cele OZE, w tym biopaliw, tak aby nie doprowadzić do konkurencji pomiędzy energetyką odnawialną i rolnictwem oraz zachować różnorodność biologiczną, e wykorzystanie do produkcji energii elektrycznej istniejących urządzeń piętrzących stanowiących własność Skarbu Państwa, e zwiększenie stopnia dywersyfikacji źródeł dostaw oraz stworzenie optymalnych warunków do rozwoju energetyki rozproszonej opartej na lokalnie dostępnych surowcach. Dla realizacji powyższych celów Polityka energetyczna Polski do 2030 roku przewiduje prowadzenie m.in. następujących działań: e wypracowanie Ścieżki dochodzenia do osiągnięcia 15% udziału OZE w zużyciu energii finalnej w sposób zrównoważony, w podziale na poszczególne rodzaje energii: energię elektryczną, ciepło 1 chłód oraz energię odnawialną w transporcie,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "e utrzymanie mechanizmów wsparcia dla producentów energii elektrycznej ze źródeł odnawialnych, np. poprzez system świadectw pochodzenia, e wdrożenie kierunków budowy biogazowni rolniczych, przy założeniu powstania do roku 2020 średnio jednej biogazowni w każdej gminie, e stworzenie warunków ułatwiających podejmowanie decyzji inwestycyjnych dotyczących budowy farm wiatrowych na morzu, e utrzymanie zasady zwolnienia z akcyzy energii pochodzącej z OZE, e bezpośrednie wsparcie budowy nowych jednostek OZE i sieci elektroenergetycznych, umożliwiających ich przyłączenie z wykorzystaniem funduszy europejskich oraz środków funduszy ochrony środowiska, w tym środków pochodzących z opłaty zastępczej i z kar, e stymulowanie rozwoju potencjału polskiego przemysłu, produkującego urządzenia dla energetyki odnawialnej, w tym przy wykorzystaniu funduszy europejskich, e wsparcie rozwoju technologii oraz budowy instalacji do pozyskiwania energii odnawialnej z odpadów zawierających materiały ulegające biodegradacji (np. odpadów komunalnych zawierających frakcje ulegające biodegradacji), e ocena możliwości energetycznego wykorzystania istniejących urządzeń piętrzących, stanowiących własność Skarbu Państwa, poprzez ich inwentaryzację, ramowe określenie wpływu na środowisko oraz wypracowanie zasad ich udostępniania. Ponadto, w Programie działań wykonawczych na lata 2009-2012 stanowiącym załącznik nr 3 do „Polityki energetycznej Polski do 2030 roku” zawarte zostały konkretne działania wykonawcze mające na celu realizację powyższych założeń. Znaczna część działań związana jest z wdrożeniem dyrektywy Parlamentu Europejskiego 1 Rady nr 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE. Jednym z takich działań jest przyjęcie w dniu 13 lipca 2010 r. przez Radę Ministrów dokumentu „Kierunki rozwoju biogazowni rolniczych w Polsce w latach 2010-2020”, który zakłada, że w każdej polskiej gminie do 2020 roku powstanie Średnio jedna biogazownia wykorzystująca biomasę pochodzenia rolniczego przy założeniu posiadania przez gminę odpowiednich warunków do uruchomienia takiego przedsięwzięcia. Zasadniczym elementem „Kierunki rozwoju biogazowni rolniczych w Polsce w latach 2010-2020” jest optymalizacja systemu prawno-administracyjnego w zakresie zakładania biogazowni rolniczych w Polsce oraz wskazanie możliwości współfinansowania tego typu instalacji ze środków publicznych, zarówno krajowych jak i Unii Europejskiej, dostępnych w ramach krajowych i regionalnych programów operacyjnych. Dokument wychodzi naprzeciw podnoszonym postulatom o konieczności ustanowienia systemu promującego i wspierającego produkcję biogazu rolniczego 1 wykorzystanie go do produkcji energii elektrycznej i ciepła. Przewiduje się, że biogazownie będą powstawać w gminach wiejskich oraz w tych gdzie występują duże zasoby areału, z którego można pozyskiwać biomasę, co jest swego rodzaju harmonizacją działań krajowych Rządu z priorytetami Wspólnej Polityki Rolnej Unii Europejskiej. Sposób wykorzystania biogazu rolniczego jest zależny od wielu czynników charakterystycznych dla lokalizacji poszczególnych instalacji (odległość od sieci przesyłowej, ogólnego i lokalnego zapotrzebowania na konkretny nośnik energii itp.), dlatego też dokument nie przesądza o minimalnej czy też maksymalnej mocy instalowanych urządzeń, jak też o sposobie wykorzystania wytworzonego biogazu (oczyszczenie i dostarczenie do sieci,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "wytworzenie energii elektrycznej i/lub cieplnej). Decyzje te pozostają w gestii inwestorów zarządzających konkretnymi instalacjami. W ciągu | roku od daty przyjęcia programu przez Radę Ministrów, właściwi ministrowie są zobowiązani do przygotowania stosownych przepisów prawnych umożliwiających realizację zapisanych priorytetów w zakresie rozwoju biogazowni rolniczych w Polsce. Wdrożenie „Kierunki rozwoju biogazowni rolniczych w Polsce w latach 2010-2020” związane jest przede wszystkim ze zmianą ustawy - Prawo energetyczne, ustawy o odpadach, ustawy o nawozach i nawożeniu 1 aktów wykonawczych. Dodatkowo rozważa się wprowadzenie zmian w ustawie o gospodarce nieruchomościami mające na celu określenie biogazowni rolniczych jako inwestycji celu publicznego. Przewiduje się także przyjęcie ujednoliconych rozwiązań dotyczących bezpieczeństwa pożarowego i zabezpieczenia przed wybuchem w biogazowniach rolniczych. Wymaga podkreślenia, iż mimo faktu, że „Kierunki rozwoju biogazowni rolniczych w Polsce w latach 2010-2020” zostały przyjęte przez Radę Ministrów w dniu 13 lipca 2010 r., realizację części działań rozpoczęto już wcześniej. Przygotowało m.in. zestaw rozwiązań mających usprawnić procesy rozwoju wykorzystania odnawialnych źródeł energii, w tym biogazowni rolniczych i zawarło go w ustawie z dnia 8 stycznia 2010 roku o zmianie ustawy - Prawo energetyczne oraz o zmianie niektórych innych ustaw (Dz. U. Nr 21, poz. 104). Ustawa przewiduje m.in. określenie podstaw prawnych oraz warunków przyłączenia do sieci dystrybucyjnej gazowej instalacji wytwarzania biogazu rolniczego przez przedsiębiorstwa energetyczne zajmujące się przesyłem lub dystrybucją paliw gazowych. W przedmiotowej ustawie zawarto instrument wsparcia w postaci skorelowania systemu promocji biogazu rolniczego z funkcjonującym systemem świadectw pochodzenia energii elektrycznej wytworzonej w OZE, który z pewnością stanie się istotnym bodźcem dla potencjalnych inwestorów do realizacji przedsięwzięć w zakresie budowy biogazowni. Biogaz rolniczy oczyszczony do parametrów jakościowych gazu ziemnego wysokometanowego lub gazu zaazotowanego będzie tłoczony do sieci dystrybucyjnych lub lokalnych instalacji wybudowanych z inicjatywy samorządów. Jednocześnie ustawa zawiera przepisy, zgodnie z którymi działalność gospodarcza w zakresie wytwarzania biogazu rolniczego będzie wykonywana na podstawie wpisu do rejestru wytwórców biogazu rolniczego. Organem prowadzącym rejestr oraz odpowiedzialnym za monitoring i kontrolę przedsiębiorstw energetycznych zajmujących się wytwarzaniem biogazu rolniczego jest Prezes Agencji Rynku Rolnego. Dodatkowo należy zaznaczyć, iż kolejnym ułatwieniem związanym z inwestycjami w biogazownie rolnicze jest wprowadzenie w rozporządzeniu Rady Ministrów z dnia 9 listopada 2010 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko (Dz. U. Nr 213 poz. 1397) wyłączenia przedmiotowych instalacji do 0,5 MW z przedsięwzięć mogących potencjalnie znacząco oddziaływać na środowisko. Ponadto, zapisy „Kierunki rozwoju biogazowni rolniczych w Polsce w latach 2010-2020” nakładają na poszczególne organy administracji rządowej i samorządowej stosowne obowiązki informacyjno-edukacyjne w zakresie budowy 1 eksploatacji instalacji biogazowni rolniczych. Adresatami kampanii będą m.in.: przedsiębiorcy, rolnicy, producenci rolni oraz lokalne społeczności. Realizacja tych zadań będzie oparta o materiały, programy edukacyjne i publicystyczne oraz szkolenia 1 seminaria. W jej realizacji uczestniczyć będą ponadto ośrodki naukowo-szkoleniowe, ośrodki doradztwa rolniczego, jednostki badawcze i dydaktyczne oraz media."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Niezmiernie istotnym dokumentem, który został przyjęty przez Radę Ministrów w dniu 7 grudnia 2010 r. jest wymagany dyrektywą 2009/28/WE Krajowy plan działania w zakresie energii ze źródeł odnawialnych. Krajowy plan działania określa cele w zakresie krajowego udziału energii ze Źródeł odnawialnych w sektorze transportowym, sektorze energii elektrycznej, sektorze ogrzewania ichłodzenia w 2020r., uwzględniając wpływ innych środków polityki efektywności energetycznej na końcowe zużycie energii oraz odpowiednie środki, które należy podjąć dla osiągnięcia krajowych celów ogólnych w zakresie udziału OZE w wykorzystaniu energii finalnej. Ponadto, dokument ten określa szacowaną nadwyżkę energii ze źródeł odnawialnych, która mogłaby zostać przekazana innym państwom członkowskim, strategię ukierunkowaną na rozwój istniejących zasobów biomasy i zmobilizowanie nowych zasobów biomasy do różnych zastosowań, a także Środki, które należy podjąć w celu wypełnienia stosownych zobowiązań wynikających z dyrektywy 2009/28/WE. Zakłada się, że filarami zwiększenia udziału energii ze źródeł odnawialnych w Polsce będzie większe wykorzystanie biomasy oraz energii elektrycznej z wiatru."
+    },
+    {
+     "type": "ocr",
+     "text": "5.5. _ Regulacje prawne sprzyjające realizacji celów ilościowych w zakresie OZE"
+    },
+    {
+     "type": "ocr",
+     "text": "Istotnym działaniem mającym pozytywny wpływ na wzrost wykorzystania odnawialnych źródeł energii była ww. nowelizacja ustawy — Prawo energetyczne, która wprowadziła m.in. przepisy dotyczące przyłączania odnawialnych źródeł energii do systemu elektroenergetycznego polegające na:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) wprowadzeniu instytucji zaliczki na poczet opłaty za przyłączenie do sieci. Konieczność wprowadzenia takiego rozwiązania została spowodowana faktem spekulacyjnego rezerwowania miejsc i mocy przyłączeniowych w systemie elektroenergetycznym. W obecnym stanie prawnym operatorzy systemu elektroenergetycznego nie mają podstawy do odmowy wydania warunków przyłączenia, jeżeli istnieją techniczne i ekonomiczne warunki przyłączenia do sieci iodbioru, w przypadku spełnienia przez wnioskodawcę wymogów formalnych, niezbędnych do wszczęcia procedury określania warunków przyłączenia nawet w sytuacji, gdy wnioskodawca nie jest w stanie udźwignąć konsekwencji finansowych w zakresie wnioskowanych warunków przyłączenia. Wprowadzony w ustawie obowiązek wnoszenia zaliczki na poczet opłaty za przyłączenie powinien umożliwić uwolnienie części mocy przyłączeniowych i ograniczyć na przyszłość to niekorzystne zjawisko. W przypadku gdy przedsiębiorstwo energetyczne, które wydało warunki przyłączenia, odmówi zawarcia umowy o przyłączenie, pobrana zaliczka będzie podlegała zwrotowi;"
+    },
+    {
+     "type": "ocr",
+     "text": "b) zdyscyplinowaniu przedsiębiorstw sieciowych do przestrzegania terminów wydawania warunków przyłączenia do sieci. Za ich niedotrzymanie wymierzana będzie kara pieniężna w wysokości co najmniej 3000 zł za każdy dzień zwłoki. Dla zapewnienia pełnej transparentnosci procesu przyłączania do sieci elektroenergetycznej przedsiębiorstwa zajmujące się przesyłaniem lub dystrybucją energii elektrycznej będą obowiązane zapewnić publiczną dostępność informacji o: podmiotach ubiegających się o przyłączenie o napięciu wyższym niż 1 kV, lokalizacji przyłączenia, mocy przyłączeniowej, datach - wydania warunków przyłączenia, zawarcia umowy o przyłączenie 1 rozpoczęcia dostarczania energii elektrycznej, a także informacji o wielkości dostępnej mocy przyłączeniowej dla stacji elektroenergetycznych lub ich grup, wchodzących w skład sieci o napięciu znamionowym"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "wyższym niż 110 kV, a także planowanych zmianach tych wielkości w okresie następnych 5 lat, od dnia publikacji tych danych. Dodatkowym impulsem wpływającym na wzrost wykorzystania energii elektrycznej z OZE jest zmiana wprowadzona rozporządzeniem Ministra Gospodarki z dnia 23 lutego 2010 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu obowiązków uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii (Dz. U. Nr 34, poz. 182), którą dokonano rozszerzenia definicji biomasy o ziarna zbóż nie spełniające wymagań jakościowych dla zbóż w zakupie interwencyjnym określonych w art. 4 rozporządzenia Komisji (WE) nr 687/2008 z dnia 18 lipca 2008 r. ustanawiającego procedury przejęcia zbóż przez agencje płatnicze lub agencje interwencyjne oraz metody analizy do oznaczania jakości zbóż (Dz. Urz. UE L 192 z 19.07.2008 r., str. 20) 1 ziarna zbóż, które nie podlegają zakupowi interwencyjnemu. Możliwość wykorzystania na cele energetyczne ziaren zbóż była oczekiwana zarówno przez energetykę, jak też rolnictwo, które z racji swej specyfiki, napotyka problemy z zagospodarowaniem produktów nie przydatnych na cele konsumpcyjne. Ze specyfiki produkcji rolnej, uzależnionej od przebiegu warunków pogodowych, wynika, że 5 — 10% ogólnego wolumenu produkcji roślinnej nie można wykorzystać do celów żywnościowych lub jej przydatność jest znacząco ograniczona. Opłacalność produkcji rolnej na gruntach słabych jest niska, co sprawia, że grunty te są ugorowane lub wycofywane z produkcji rolnej poprzez ich zalesianie. Stworzenie możliwości zagospodarowania przedmiotowych zbóż na cele energetyczne umożliwiło rozwój tych upraw, a tym samym włączenie do produkcji biomasy gruntów dotychczas ugorowanych. Dodatkową korzyścią jest utrzymanie tych gleb we właściwej kulturze rolnej oraz wytwarzanie biomasy na cele energetyczne dostępnej lokalnie czy też regionalnie. Podkreślenia wymaga, iż energetyczne zagospodarowanie ziaren zbóż nieprzydatnych z punktu widzenia konsumpcji nie stwarza zagrożenia dla rynku żywności, stanowiąc jednocześnie logiczną i uzasadnioną alternatywę dla produkcji rolniczej na użytkach rolnych, gdzie nie jest możliwe wytwarzanie żywności. Należy jednocześnie zauważyć, że wykorzystanie biomasy pochodzenia rolniczego, w tym również zbóż, na cele energetyczne jest powszechne w wielu krajach (np. w Szwecji, Finlandii, U.S.A., Kanadzie). Ponadto należy wspomnieć o ustawie z dnia 23 października 2009 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 201, poz. 1541), która zakłada, iż przychody z odpłatnego zbycia Świadectw pochodzenia otrzymanych przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem energii elektrycznej w odnawialnych źródłach energii na wniosek, o którym mowa w art. 9e ust. 3 ustawy - Prawo energetyczne, opodatkowane są jak przychody z działalności gospodarczej. Aktem normatywnym sprzyjającym rozwojowi odnawialnych źródeł energii jest również rozporządzenie Ministra Środowiska z dnia 15 czerwca 2009 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na przedsięwzięcia związane z poszukiwaniem irozpoznawaniem złóż wód termalnych (Dz. U. Nr 97, poz. 814), w którym określono możliwości udzielania wsparcia finansowego w zakresie badań związanych z poszukiwaniem i rozpoznawaniem złóż wód termalnych."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Dodatkowo należy zaznaczyć, iż w Ministerstwie Gospodarki trwają obecnie prace nad ustawą o energii ze źródeł odnawialnych, w której zawarty zostanie szereg przepisów ułatwiających inwestowanie w tego typu źródła energii."
+    },
+    {
+     "type": "ocr",
+     "text": "5.6. Przyszłe działania zmierzające do zwiększenia udziału energii pochodzącej ze źródeł odnawialnych"
+    },
+    {
+     "type": "ocr",
+     "text": "Polska, doceniając potrzebę przejrzystości legislacyjnej w zakresie OZE zmierza do wyodrębnienia i usystematyzowania mechanizmów wsparcia dla energii z OZE zawartych w aktualnych przepisach prawnych. Przeniesienie systemu wsparcia dla energii z OZE, powinno dotyczyć w pierwszym etapie regulacji ustawowych z zastrzeżeniem przejściowym okresów obowiązywania rozporządzeń umożliwiających funkcjonowanie mechanizmów wsparcia dla energii z OZE. Zakłada się wypracowanie nowych zasad wsparcia energii wytworzonej z OZE, które będzie zróżnicowane w zależności od nośnika energii odnawialnej, zainstalowanej mocy urządzeń generujących energię oraz daty włączenia do eksploatacji lub modernizacji. Nowe zasady wspierać będą rozwój rozproszonych źródeł energii odnawialnych, określą warunki zachowania praw już nabytych dla inwestycji zrealizowanych lub rozpoczętych, czas ich obowiązywania oraz pozwolą na zmniejszenie obciążeń dla odbiorcy końcowego. Szczegółowe rozwiązania zostaną zawarte w ustawie o energii ze źródeł odnawialnych. Planowane w Polsce zamierzenia legislacyjne doprowadzą do klaryfikacji istniejącego wsparcia dla energii z OZE, co między innymi umożliwi zwiększenie inwestycji w nowe moce wytwórcze. Rozwój energii z OZE zostanie oparty na zasadach racjonalnego wykorzystania istniejących zasobów tej energii, co jest jednym z celów pakietu klimatyczno-energetycznego, będącego realizacją konkluzji Rady Europejskiej z marca 2007 r. Elementem tego pakietu jest także dyrektywa 2009/28/WE, zgodnie z którą Polska jest zobowiązana do zwiększenia udziału energii ze źródeł odnawialnych w bilansie energii finalnej brutto do poziomu co najmniej 15 % w 2020 r. Zapewnienie realizacji powyższych celów wymaga bezsprzecznie opracowania wielu analiz rynku energetyki odnawialnej, ciągłego monitorowania produkcji energii w skali całej energetyki odnawialnej, a także w rozbiciu na poszczególne technologie wykorzystujące OZE do produkcji energii. Polska stoi także przed możliwością znacznego przyspieszenia technologicznego w zakresie rozbudowy i modernizacji istniejącej infrastruktury energetycznej. Realizacja powyższych działań musi otrzymać wsparcie administracji rządowej w celu koordynacji działań na poziomie krajowym oraz zastosowania spójnych, elastycznych i jak najbardziej efektywnych mechanizmów wparcia. Celem nowych, planowanych regulacji będzie zatem skierowanie większego systemowego 1 wielopłaszczyznowego wsparcia dla zrównoważonego rozwoju sektora energetyki odnawialnej. Należy stwierdzić, iż ustawowy poziom regulacji umożliwi właściwą koordynację działań na rzecz rozwoju OZE oraz osiągnięcia w ten sposób jeszcze większych korzyści w zakresie ochrony Środowiska, jako bezcennego dobra całego społeczeństwa. Planowane działania na rzecz wzrostu OZE będą wymagały wprowadzenia w prawodawstwie szeregu zmian w zakresie: definicji, celów ogólnych i niezbędnych środków do osiągnięcia tych celów, zasad obliczania udziału energii z OZE, procedur administracyjnych, przepisów i kodeksów, informacji i certyfikacji instalatorów, gwarancji pochodzenia energii elektrycznej z OZE, dostępu do sieci ich działania oraz sprawozdawczości. Głównym zamierzeniem legislacyjnym mającym na celu systematyczne zwiększanie udziału energii ze źródeł odnawialnych w całkowitym zapotrzebowaniu na energię brutto, jest planowana ustawa o energii ze źródeł odnawialnych, która zgodnie z Programem Prac"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Legislacyjnych Rady Ministrów będzie procedowana w drugim kwartale 2011 r. Założeniem tej regulacji będzie m.in. wdrożenie jednolitego i czytelnego systemu wsparcia dla producentów zielonej energii, który stanowiłby wystarczającą zachętę inwestycyjną dla budowy nowych mocy wytwórczych, a tym samym spowoduje zwiększanie udziału energii z OZE. System ten będzie opierał się tak jak obecnie, na mechanizmie tzw. świadectw pochodzenia. Zaproponowany mechanizm będzie zależny od technologii OZE 1 będzie uwzględniał m.in. stopień zwrotu inwestycji, postęp techniczny w tym obniżenie kosztów stosowania technologii, oraz szacunkowy efektywny okres pracy instalacji. Zaproponowany system będzie jednocześnie upraszczał sposób naliczania opłaty zastępczej w tym likwidował zagrożenie corocznego, niekontrolowanego wzrostu tej opłaty, skutkującego wzrostem cen energii elektrycznej. Dodatkową regulacją zapewniającą bardziej efektywne wykorzystanie środków oraz zlikwidowanie bariery polegającej na ryzyku inwestycyjnym jest wprowadzenie do systemu wsparcia minimalnego gwarantowanego poziomu przychodu. Przeprowadzone analizy wskazały, że taka regulacja znacząco zwiększy zainteresowanie inwestorskie technologiami OZE. Szczególnie istotna z punktu widzenia rozwoju energetyki odnawialnej będzie kwestia stabilności oraz długofalowości systemu wsparcia, tak aby zapewnić bezpieczeństwo inwestycyjne dla podmiotów zainteresowanych budową jednostek wytwórczych. Polska zmierzając do zwiększania udziału energii ze źródeł odnawialnych wytwarzanej w systemach indywidualnych i na potrzeby własne gospodarstw domowych, będzie prowadziła działania zmierzające do zapewnienia bezpośredniego wsparcia dla takich instalacji oraz do wyliczenia 1 uwzględnienie w stosownych statystykach wyprodukowanej w nich energii."
+    },
+    {
+     "type": "ocr",
+     "text": "5.7. Przyszłe działania zmierzające do rozwoju sieci przesyłowej i dystrybucyjnej z uwzględnieniem docelowej ilości energii elektrycznej ze źródeł odnawialnych"
+    },
+    {
+     "type": "ocr",
+     "text": "Zgodnie z ustawą — Prawo energetyczne odpowiedzialność za rozwój sieci przesyłowej idystrybucyjnej, pod kątem uwzględnienia docelowej ilości energii elektrycznej ze Źródeł odnawialnych, przy jednoczesnym zachowaniu bezpieczeństwa działania systemu elektroenergetycznego, ponoszą przedsiębiorstwa energetyczne zajmujące się przesyłaniem lub dystrybucją energii. Są to przedsiębiorstwa wyznaczone przez Prezesa URE jako operatorzy systemów elektroenergetycznych na obszar sieci, na którym wykonywana jest ich działalność gospodarcza na podstawie udzielonej przez Prezesa URE koncesji na przesył lub dystrybucję. Prezes URE wyznacza operatorów na wniosek właścicieli sieci. Przedsiębiorstwa te mają obowiązek sporządzania planów rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię dla obszaru swojego działania. Plany rozwoju uwzględniają miejscowy plan zagospodarowania przestrzennego albo kierunki rozwoju gminy określone w studium uwarunkowań 1 kierunków zagospodarowania przestrzennego gminy. Niemniej jednak, należy zaznaczyć, iż studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy nie stanowi podstawy do wydania decyzji administracyjnych, stąd w przypadku braku miejscowego planu zagospodarowania przestrzennego, przedsiębiorstwa energetyczne swoich planów rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię dla obszaru swojego działania nie mogą opierać wyłącznie na ustaleniach studium. W sytuacji braku miejscowego planu zagospodarowania przestrzennego lokalizacja inwestycji odbywa się na podstawie decyzji"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "o warunkach zabudowy i zagospodarowania terenu, którą zgodnie z art. 4 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.) w zależności od realizowanej inwestycji dzieli się na: decyzję o ustaleniu lokalizacji inwestycji celu publicznego lub decyzję o warunkach zabudowy. Plany rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię dla obszaru swojego działania są sporządzane przez przedsiębiorstwa energetyczne na okresy nie krótsze niż trzy lata i obejmują w szczególności przedsięwzięcia z zakresu modernizacji, rozbudowy albo budowy sieci oraz pozyskiwania ewentualnych nowych źródeł paliw gazowych, energii elektrycznej lub ciepła, w tym źródeł odnawialnych. Plany obejmują także przedsięwzięcia w zakresie modernizacji, rozbudowy lub budowy połączeń z systemami elektroenergetycznymi innych państw. W planach tych przedstawia się przewidywany sposób finansowania inwestycji, przewidywane przychody niezbędne do realizacji planów oraz przewidywany harmonogram realizacji inwestycji. Zgodnie z ustawą Prawo energetyczne projekty planów są uzgadniane z prezesem URE, gdyż wpływają na kształtowanie 1 kalkulację taryf usług przesyłowych idystrybucyjnych, dzięki którym uzyskiwane są środki finansowe na realizację rozwoju sieci przesyłowej i dystrybucyjnej. Plany rozwoju powinny zapewniać minimalizację nakładów ikoszt6w ponoszonych przez przedsiębiorstwo energetyczne. Nakłady 1 koszty w poszczególnych latach nie powinny powodować nadmiernego wzrostu cen 1 stawek opłat taryfowych energii elektrycznej przy zapewnieniu ciągłości, niezawodności 1 jakości dostaw. Doceniając konieczność rozwoju infrastruktury sieciowej na potrzeby przesyłu energii elektrycznej, w tym energii pochodzącej z OZE, w Polsce toczą się zaawansowane prace nad nową legislacją ułatwiającą operatorom systemów elektroenergetycznych rozbudowę sieci zgodnie z potrzebami. Nowe regulacje zdynamizują rozwój infrastruktury, co znacząco poprawi dostęp do systemu również rozproszonych instalacji OZE. Przewiduje się, że projekt ustawy o korytarzach przesyłowych, w którym regulowane będą ww. kwestie, będzie procedowany przez Radę Ministrów w pierwszej połowie 2011 r. W planach są również regulacje ułatwiające dostęp do sieci dla wytwórców OZE zgodnie z zapisami dyrektywy 2009/28/WE."
+    },
+    {
+     "type": "ocr",
+     "text": "6. Wpływ realizacji założonych celów na sektor finansów publicznych, w tym budżet państwa"
+    },
+    {
+     "type": "ocr",
+     "text": "Pośrednio lub bezpośrednio na wydatki i dochody budżetowe mogą wpływać następujące czynniki: - wzrost dochodów w wyniku inwestycji związanych z rozwojem mocy wytwórczych energetyki odnawialnej, - wzrost dochodów związany ze wzrostem zatrudnienia w sektorze odnawialnych źródeł energii, budownictwa, rolnictwa, itp., - wzrost dochodów związany z rozwojem przemysłu produkującego urządzenia na potrzeby energetyki odnawialnej, - wzrost dochodów z tytułu podatków lokalnych od zrealizowanych inwestycji, - zmniejszenie dochodów z podatku akcyzowego w związku ze zwiększeniem udziału energii elektrycznej wytworzonej w źródłach odnawialnych. Poniższa tabela przedstawia wpływ zwiększonej produkcji energii elektrycznej z OZE wg założonych celów na zmniejszenie się dochodów z podatku akcyzowego w latach 2010 — 2019."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Tabela 8 — Wpływ zwiększonej produkcji energii elektrycznej z OZE wg założonych celów na zmniejszenie się dochodów"
+    },
+    {
+     "type": "ocr",
+     "text": "Przewidywane wykorzystanie energii elektrycznej ze źródeł odnawialnych"
+    },
+    {
+     "type": "ocr",
+     "text": "Zmniejszenie wpływów z podatku akcyzowego w związku ze zwiększeniem udziału energii elektrycznej wytworzonej w źródłach odnawialnych (przy założeniu, że stawka akcyzy na energię elektryczną wynosi 20,00 zł za megawatogodzinę). Zmniejszenie wpływów z podatku akcyzowego w związku ze zwiększeniem udziału energii elektrycznej wytworzonej w źródłach odnawialnych — wartość skumulowana"
+    },
+    {
+     "type": "ocr",
+     "text": "z podatku akcyzowego"
+    },
+    {
+     "type": "ocr",
+     "text": "Jedn. | 2010 | 2011 | 2012 2013 2014"
+    },
+    {
+     "type": "ocr",
+     "text": "GWh 10 618 12 678 14 845 16 478 18 338 19 875"
+    },
+    {
+     "type": "ocr",
+     "text": "BIN 212360 | 253 560 | 296900 | 329560 366 760 397 500"
+    },
+    {
+     "type": "ocr",
+     "text": "BIN 212360 | 465920 | 762820 | 1092380 | 1459140 | 1 856 640"
+    },
+    {
+     "type": "ocr",
+     "text": "2015"
+    },
+    {
+     "type": "ocr",
+     "text": "2016"
+    },
+    {
+     "type": "ocr",
+     "text": "21 605"
+    },
+    {
+     "type": "ocr",
+     "text": "432 100"
+    },
+    {
+     "type": "ocr",
+     "text": "2 288 740"
+    },
+    {
+     "type": "ocr",
+     "text": "2017"
+    },
+    {
+     "type": "ocr",
+     "text": "23 374"
+    },
+    {
+     "type": "ocr",
+     "text": "467 480"
+    },
+    {
+     "type": "ocr",
+     "text": "2 756 220"
+    },
+    {
+     "type": "ocr",
+     "text": "2018"
+    },
+    {
+     "type": "ocr",
+     "text": "25 416"
+    },
+    {
+     "type": "ocr",
+     "text": "508 320"
+    },
+    {
+     "type": "ocr",
+     "text": "3 264 540"
+    },
+    {
+     "type": "ocr",
+     "text": "2019"
+    },
+    {
+     "type": "ocr",
+     "text": "27 828"
+    },
+    {
+     "type": "ocr",
+     "text": "556 560"
+    },
+    {
+     "type": "ocr",
+     "text": "3821 100"
+    },
+    {
+     "type": "ocr",
+     "text": "Ev IN PISIOd JOHUOJN"
+    },
+    {
+     "type": "ocr",
+     "text": "— c8bz —"
+    },
+    {
+     "type": "ocr",
+     "text": "897 \"20d"
+    },
+    {
+     "type": "text",
+     "text": "— 2483 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 216, poz. 1593).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530 oraz z 2011 r. Nr 94, poz. 551."
+ }
+}

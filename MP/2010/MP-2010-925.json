@@ -1,0 +1,253 @@
+{
+ "eli": "MP/2010/925",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 27 września 2010 r. w sprawie ustalenia wzorów protokołów wyników głosowania i wyniku wyborów sporządzanych przez gminne i miejskie komisje wyborcze w wyborach wójtów, burmistrzów i prezydentów miast oraz wzoru zaświadczenia o wyborze na wójta, burmistrza i prezydenta miasta",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/925/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 września 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów protokołów wyników głosowania i wyniku wyborów sporządzanych przez gminne i miejskie komisje wyborcze w wyborach wójtów, burmistrzów i prezydentów miast oraz wzoru zaświadczenia o wyborze na wójta, burmistrza i prezydenta miasta"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 1 pkt 4 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190) i art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się dla wyborów wójtów, burmistrzów i prezydentów miast:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wzór protokołu wyników głosowania i wyniku wyborów, stanowiący załącznik nr 1 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzór protokołu wyników głosowania i wyniku wyborów w przypadku, o którym mowa w art. 11 ust. 3 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta, stanowiący załącznik nr 2 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wzór protokołu wyników głosowania i wyniku wyborów w przypadku ponownego głosowania, stanowiący załącznik nr 3 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "wzór zaświadczenia o wyborze wójta (burmistrza, prezydenta miasta), stanowiący załącznik nr 4 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W przypadku ponownego głosowania na jednego kandydata stosuje się odpowiednio wzór protokołu wyników głosowania i wyniku wyborów, o którym mowa w § 1 pkt 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 2 października 2006 r. w sprawie ustalenia wzorów protokołów wyników głosowania i wyniku wyborów sporządzonych przez gminne i miejskie komisje wyborcze w wyborach wójtów, burmistrzów i prezydentów miast oraz wzoru zaświadczenia o wyborze na wójta, burmistrza i prezydenta miasta (M. P. Nr 70, poz. 708).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 27 września 2010 r. (poz. 925) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II. Komisja stwierdziła, że: A. Liczba głosów stanowiąca ponad połowę głosów ważnych wymagana dla wyboru wójta/burmistrza/prezydenta miasta*) WYNOSI ...-u..-u.uuuanuaanuaanaanaaa. B.” Wymaganą liczbę głosów uzyskał i został wybrany na wójta/burmistrza/prezydenta miasta * aaa aea ZgłoSZONY prZeZ aaa inazwiską i imię- imiona kandvdata) (nazwą lub skrót nazw y komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "C.l.” Żaden z kandydatów nie uzyskał wymaganej liczby głosów; do wyboru w ponownym głosowaniu dopuszczeni zostali dwaj kandydaci, którzy uzyskali największą liczbę głosów: zgłoszony przez"
+    },
+    {
+     "type": "ocr",
+     "text": "ZgłOSZONY PRZEZ uu oaza uzyskali równe liczby głosów, o dopuszczeniu do wyboru w głosowaniu ponownym zdecydowała większa liczba obwodów, w których kandydat uzyskał więcej głosów. Kandydatem tym jest RE , który uzyskał więcej głosów w ........ obwodach głosowania; (nazwisko i imię-imiona kandydata) iliczba) kandydat uzyskał więcej głosów w ........ obwodach głosowania. (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "3.) Następujący kandydaci: DRA ZPłOSZONY PRZEZ 1... (nazwiske i imię- imiona kandydata) azwa lub skrót nazwy komitetu wyberczegu) PA A ZgłOSZONY PRZEZ |... aaa uzyskali równe liczby głosów I otrzymali więcej głosów w takiej samej liczbie .......... obwodów, thezbat o dopuszczeniu do wyboru w głosowaniu ponownym rozstrzygnęło losowanie. Kandydatem wylosowanym JeSt occ ccc eee cee ene eeenteeneetaeeceeeseceeseeeaeeeennataas . (nazwisko i imig-imiona kandydataj"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego i obejonalnie jego kod kreskowy"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "wk “ae ~ 4 NA . , , . PO Wi.” Zarzuty pełnomocników; jeżeli nie zgłoszono, wpisać „zarzutów nie zgłoszono”: )"
+    },
+    {
+     "type": "ocr",
+     "text": "IV.) Zarzuty członków Komisji; jeżeli nie zgłoszono, wpisać „zarzutów nie zgloszono”:"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji: jeżeli nie ma, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "*l Niepotrzebne skreślić lub pominąć."
+    },
+    {
+     "type": "ocr",
+     "text": "e) Jeżeli treść dotycząca danego punktu nie mieści się na formularzu. należy dołączyć ją do protokołu, zaznaczając lo w odpowiednim pumkcie protokołu ŁEM W razie zgloszenia uwag przez mężów zaufania lub członków komisji. stanowisko Komisji do zarzutów należy dołączyć do protokołu. Wypelnia się. jeżeli zachodzi sytuacja. o której mowa w art. 4 ust. 1 ustawy o bezpośrednim wyborze wójta. burmistrza i prezydenta miasta."
+    },
+    {
+     "type": "ocr",
+     "text": "i"
+    },
+    {
+     "type": "ocr",
+     "text": "Wypelnia sig, jeżeli zachodzi sytuacja, o której mowa w art. 4 ust. 3 ustawy o bezpośrednim wyborze wójta. burmistrza i prezydenta miasta. Wypelnia się, jezeli zaszła opisana sytuacja."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatyeznego i opcjonalnie jego kod kreskowy"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "VL Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji; jeżeli nie ma, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "+! Niepotrzebne skreślić lub pominąć. **l_ jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu. zaznaczając to w odpowiednim punkcie protokołu. see! W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu. I Wypełnia się. jeżeli zachodzi sytuacja. o której mowa w art. 11 ust. 3 ustawy o bezpośrednim wyborze wójta. burmistrza 1 prezydenta miasta."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego i opejonalnie jego kad kreskowy"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "C/ Ponieważ obaj kandydaci uzyskali równe liczby głosów ważnych i otrzymali więcej głosów w takiej samej liczbie obwodów, o wyborze wójta/burmistrza/prezydenta miasta*) rozstrzygnęła losowanie, W wyniku losowania wybrany został: | ZgłOSZONY PRZEZ ea"
+    },
+    {
+     "type": "ocr",
+     "text": "Vv.” Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji; jeżeli nie ma, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "PEN ON DE ONA ONA NN ON O) aa quasuacvesecsssnservucessesassssaveesusetsnsannrved"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) l Niepotrzebne skreślić lub pominąć. **l_ Jezeli treść dotycząca danego punktu nie mieści się na formularzu. należy dołączyć ją do protokelu, zaznaczając to w odpowiednim punkcie protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "kkk) W razię zgłoszenia uwag przez. mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu. 1 Wypełnia się. jeżeli zachodzi sytuacja, o której mowa w art. 4 ust. 5 ustawy o bezpośrednim wyborze wójta. burmistrza i prezydenta miasta. «Wypełnia się. jeżeli zachodzi sytuacja. o której mowa w art. 4 ust. $ ustawy o bezpośrednim wyborze wójta. burmistrza i prezydenta miasta. «Wypełnia się, jeżeli zachodzi sytuacja. o której mowa w art. 4 ust. 9 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta. Symbol kontrolny systemu informatycznego i opcjonalnie jego kad kreskowy"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

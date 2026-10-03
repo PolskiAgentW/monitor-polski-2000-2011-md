@@ -1,0 +1,402 @@
+{
+ "eli": "MP/2004/302",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 22 kwietnia 2004 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/302/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 kwietnia 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2002 r. Nr 54, poz. 741 oraz z 2004 r. Nr 15, poz. 232) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 8 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "pkt 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) prowadzi sprawy z zakresu stosunków z Sejmem, z parlamentami innych krajów, a także z instytucjami oraz innymi organami Unii Europejskiej,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "pkt 8 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8) zarządza drukowanie ustaw uchwalonych przez Sejm, projektów ustaw, projektów uchwał, opinii Komisji Spraw Unii Europejskiej i innych druków senackich, a także doręczenie ich senatorom,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "po pkt 8 dodaje się pkt 8a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8a) nadaje bieg dokumentom przedkładanym w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 15 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "po pkt 11 dodaje się pkt 11a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„11a) Spraw Unii Europejskiej,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "pkt 12 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„12) Spraw Zagranicznych,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 20:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Senator ma obowiązek zgłosić swoją kandydaturę do jednej komisji stałej.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "uchyla się ust. 3;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 34 po ust. 2 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. Na wniosek Komisji Spraw Unii Europejskiej Marszałek Senatu włącza do projektu porządku obrad informację Rady Ministrów o sprawie związanej z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "uchyla się art. 40;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 45 po pkt 2 dodaje się pkt 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a) informacje Rady Ministrów o udziale Rzeczypospolitej Polskiej w pracach Unii Europejskiej,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "po art. 45 dodaje się art. 45a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 45a. Senat rozpatruje, po wcześniejszym doręczeniu senatorom, informację Rady Ministrów o udziale Rzeczypospolitej Polskiej w pracach Unii Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 52 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Po wyczerpaniu listy mówców Marszałek Senatu zamyka dyskusję. Jeżeli w projektach uchwał komisje przedstawiły odmienne wnioski lub podczas obrad Senatu zostały zgłoszone wnioski, o których mowa w art. 44 ust. 3, Marszałek Senatu zarządza przerwę w celu ustosunkowania się przez właściwe komisje do tych wniosków.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 54 po ust. 4 dodaje się ust. 4a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4a. Marszałek Senatu, przed poddaniem pod głosowanie poprawki do ustawy wykonującej prawo Unii Europejskiej, jeśli istnieje wątpliwość co do zakresu poprawki, może zwrócić się do Komisji Spraw Unii Europejskiej o wyrażenie opinii.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "w art. 60 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. W posiedzeniach komisji mogą uczestniczyć posłowie, przedstawiciele Rady Ministrów i organów administracji rządowej, a także wybrani w Rzeczypospolitej Polskiej posłowie do Parlamentu Europejskiego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "w dziale VI dotychczasową treść oznacza się jako rozdział 1 „Posiedzenia komisji” i dodaje się rozdział 2 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Rozdział 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja Spraw Unii Europejskiej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 67a. Marszałek Senatu kieruje do Komisji Spraw Unii Europejskiej niezwłocznie po otrzymaniu dokumenty przedkładane w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 67b. Komisja Spraw Unii Europejskiej może uchwalić opinię o projekcie aktu prawnego Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 67c. Komisja Spraw Unii Europejskiej może zwrócić się do innej komisji o wyrażenie opinii o każdej sprawie będącej przedmiotem posiedzeń Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 67d. Na żądanie Komisji Spraw Unii Europejskiej Rada Ministrów przedstawia Senatowi informację o sprawie związanej z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "w art. 68:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_12/lit_a",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Rozpatrując ustawę wykonującą prawo Unii Europejskiej właściwa komisja może zwrócić się do Komisji Spraw Unii Europejskiej o wyrażenie opinii o ustawie lub jej części.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_12/lit_b",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Komisje po rozpatrzeniu ustawy przygotowują w terminie nie dłuższym niż 18 dni, a w przypadku ustawy wniesionej jako projekt pilny oraz ustawy wykonującej prawo Unii Europejskiej — w terminie wyznaczonym przez Marszałka Senatu, projekt uchwały Senatu w sprawie ustawy uchwalonej przez Sejm, w którym proponują:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "— przyjęcie ustawy bez poprawek albo",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "— wprowadzenie do jej tekstu poprawek, albo",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "— odrzucenie ustawy.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "w art. 77 w ust. 2 w pkt 5 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„6) oświadczenie o zgodności projektu ustawy z prawem Unii Europejskiej albo oświadczenie, że przedmiot projektowanej regulacji nie jest objęty prawem Unii Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "w art. 80 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Sprawozdanie komisji obejmuje informację o zgodności projektu ustawy z prawem Unii Europejskiej albo o pozostawaniu poza obszarem regulacji tego prawa.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "w art. 83 w ust. 1 pkt 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2) informację o zgodności projektu ustawy z prawem Unii Europejskiej albo o pozostawaniu poza obszarem regulacji tego prawa,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_16/lit_a",
+       "text": "po pkt 11 dodaje się pkt 11a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„11a) Komisji Spraw Unii Europejskiej — związane z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, w szczególności zajmowanie stanowisk i wyrażanie opinii na temat projektów aktów prawnych Unii Europejskiej, projektów umów międzynarodowych, których stroną mają być Unia Europejska, Wspólnoty Europejskie lub ich państwa członkowskie, oraz planów pracy Rady Unii Europejskiej, rocznych planów legislacyjnych Komisji Europejskiej, rozpatrywanie informacji i innych dokumentów przedkładanych przez Radę Ministrów;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_16/lit_b",
+       "text": "pkt 12 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„12) Komisji Spraw Zagranicznych — polityka zagraniczna państwa oraz kontakty międzyparlamentarne i międzynarodowe stosunki gospodarcze;”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do dnia powołania Komisji Spraw Unii Europejskiej jej zadania wykonuje Komisja Spraw Zagranicznych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: L. Pastusiak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

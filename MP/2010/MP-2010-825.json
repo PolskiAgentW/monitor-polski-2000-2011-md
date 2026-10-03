@@ -1,0 +1,95 @@
+{
+ "eli": "MP/2010/825",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 24 sierpnia 2010 r. w sprawie ustalenia wzorów, próby, masy i wielkości emisji monet nominalnej wartości 25 zł i 100 zł, upamiętniających 25. rocznicę powstania Trybunału Konstytucyjnego, oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/825/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 sierpnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, próby, masy i wielkości emisji monet nominalnej wartości 25 zł i 100 zł, upamiętniających 25. rocznicę powstania Trybunału Konstytucyjnego, oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, próbę, masę i wielkość emisji monet nominalnej wartości 25 zł i 100 zł, określone w załączniku do zarządzenia — upamiętniających 25. rocznicę powstania Trybunału Konstytucyjnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 29 września 2010 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: M. Belka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 24 sierpnia 2010 r. (poz. 825)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 25 ZŁ I 100 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Wartość 25 zł 100 zł"
+    },
+    {
+     "type": "text",
+     "text": "Cechy strona Z prawej strony u dołu wizerunek orła U góry, na tle stylizowanego fragmentu graficzne główna ustalony dla godła Rzeczypospolitej Pol- konturu orła, wizerunek orła ustalony skiej. Po lewej stronie orła u dołu napis: dla godła Rzeczypospolitej Polskiej, pod 25 ZŁ. W środku stylizowany wizerunek nim, centralnie, stylizowany wizerunek symbolu paragrafu. U góry półkolem frontu siedziby Trybunału Konstytucyjnapis: RZECZPOSPOLITA POLSKA, od- nego. Poniżej napis: 100 ZŁ. U góry półdzielony kropką od oznaczenia roku kolem napis: RZECZPOSPOLITA POL- emisji: 2010. Pod lewą łapą orła znak SKA, oddzielony kropką od oznaczenia mennicy: MW. roku emisji: 2010. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "strona Centralnie stylizowany wizerunek bra- Centralnie stylizowany wizerunek wagi, odwrotna my wejściowej, zdobionej boniowa- na tle wizerunku symbolu paragrafu. niem, znajdującej się w budynku Trybu- W otoku napis: 25. ROCZNICA POWSTA- nału Konstytucyjnego. U dołu, na tle NIA TRYBUNAŁU KONSTYTUCYJNEGO. wnętrza bramy, stylizowany wizerunek księgi. W otoku napis: 25. ROCZNICA POWSTANIA TRYBUNAŁU KONSTYTU- CYJNEGO."
+    },
+    {
+     "type": "text",
+     "text": "Brzeg (bok) gładki gładki"
+    },
+    {
+     "type": "text",
+     "text": "Masa (w gramach) 1,0 8,0"
+    },
+    {
+     "type": "text",
+     "text": "Średnica 12,0 21,0 (w milimetrach)"
+    },
+    {
+     "type": "text",
+     "text": "Próba Au 900/1000 Au 900/1000"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość emisji 5 000 5 000 (w sztukach)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317, z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164 oraz z 2010 r. Nr 109, poz. 709."
+ }
+}

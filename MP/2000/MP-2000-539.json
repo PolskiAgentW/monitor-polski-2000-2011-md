@@ -1,0 +1,68 @@
+{
+ "eli": "MP/2000/539",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 24 sierpnia 2000 r. w sprawie ustalenia wzoru, próby, masy i wielkości emisji monety nominalnej wartości 100 zł oraz terminu wprowadzenia jej do obiegu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/539/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 sierpnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, próby, masy i wielkości emisji monety nominalnej wartości 100 zł oraz terminu wprowadzenia jej do obiegu."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063 oraz z 2000 r. Nr 53, poz. 648 i Nr 62, poz. 718) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, próbę, masę i wielkość emisji monety nominalnej wartości 100 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 6 września 2000 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: w z. J. Stopyra"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 24 sierpnia 2000 r. (poz. 539)"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, PRÓBA, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 100 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Masa Średnica Wielkość Cechy graficzne Brzeg Stop emisji Wartość (bok) (w gra- (w mili- (próba) (w sztumach) metrach) kach) strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, po bokach orła oznaczenie roku emi- Popiersie królowej Jasji: 20-00, pod orłem dwigi, półkolem u gó- 100 zł gładki 8,0 21,0 Au 900/1000 2 000 napis: ZŁ 100 ZŁ, ry napis: JADWIGA w otoku napis: 1384-1399 R Z E C Z P O S P O L I TA POLSKA. Pod lewą łapą orła znak mennicy: MW"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

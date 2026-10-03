@@ -1,0 +1,58 @@
+{
+ "eli": "MP/2000/588",
+ "title": "Obwieszczenie Ministra Finansów z dnia 21 września 2000 r. w sprawie ogłoszenia kwot i relacji, o których mowa w art. 12 ust. 1 pkt 1 ustawy o finansach publicznych.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/588/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 września 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia kwot i relacji, o których mowa w art. 12 ust. 1 pkt 1 ustawy o finansach publicznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 1 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255 oraz z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136 i Nr 48, poz. 550), w oparciu o dostępne dane, ogłasza się za pierwszą połowę roku budżetowego 2000 następujące kwoty:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "państwowego długu publicznego — 289.792,8 mln zł,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez podmioty sektora finansów publicznych — 19.164,8 mln zł,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "długu Skarbu Państwa — 279.507,8 mln zł,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa — 18.151,0 mln zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: J. Bauc"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

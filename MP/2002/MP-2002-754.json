@@ -1,0 +1,386 @@
+{
+ "eli": "MP/2002/754",
+ "title": "Zarządzenie Nr 136 Prezesa Rady Ministrów z dnia 14 listopada 2002 r. w sprawie nadania statutu Urzędowi Lotnictwa Cywilnego.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/754/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 136 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 listopada 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Urzędowi Lotnictwa Cywilnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 22 ust. 2 ustawy z dnia 3 lipca 2002 r. — Prawo lotnicze (Dz. U. Nr 130, poz. 1112) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Urzędowi Lotnictwa Cywilnego nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 17 listopada 2002 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: L. Miller"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 136 Prezesa Rady Ministrów z dnia 14 listopada 2002 r. (poz. 754)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT URZĘDU LOTNICTWA CYWILNEGO"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Urząd Lotnictwa Cywilnego, zwany dalej „Urzędem”, zapewnia obsługę Prezesa Urzędu Lotnictwa Cywilnego, zwanego dalej „Prezesem”, i działa zgodnie z jego zarządzeniami, decyzjami i wytycznymi oraz pod jego bezpośrednim kierownictwem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Prezes kieruje Urzędem przy pomocy wiceprezesów, dyrektora generalnego, dyrektorów komórek organizacyjnych wymienionych w § 4 ust. 1 oraz dyrektorów delegatur wymienionych w § 4 ust. 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Podział zadań między Prezesa i wiceprezesów ustala Prezes.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Prezes może upoważnić osoby, o których mowa w ust. 1, a także innych pracowników Urzędu, do podejmowania, w jego imieniu, decyzji w określonych przez niego sprawach, a także do występowania w jego imieniu przed innymi organami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_2/ust_4",
+       "text": "Prezes może udzielać pełnomocnictw osobom prawnym lub fizycznym do dokonywania określonych czynności cywilnoprawnych i faktycznych w zakresie jego właściwości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Prezes może tworzyć i znosić komisje, rady i zespoły jako organy opiniodawcze i doradcze o charakterze stałym lub doraźnym, określając cel ich powołania, nazwę, skład osobowy, zakres zadań i tryb działania, a także sposób sprawowania nad nimi nadzoru.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "W skład Urzędu wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "Biuro Prezesa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "Departament Operacyjno-Lotniczy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_1/pkt_3",
+         "text": "Departament Techniki Lotniczej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_1/pkt_4",
+         "text": "Departament Lotnisk,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_4/ust_1/pkt_5",
+         "text": "Departament Prawno-Legislacyjny,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_4/ust_1/pkt_6",
+         "text": "Departament Rynku Transportu Lotniczego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_4/ust_1/pkt_7",
+         "text": "Departament Bezpieczeństwa i Nadzoru nad Lotnictwem Cywilnym,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_4/ust_1/pkt_8",
+         "text": "Biuro Administracyjno-Budżetowe,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_4/ust_1/pkt_9",
+         "text": "Biuro Nadzoru nad Delegaturami Terenowymi,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_4/ust_1/pkt_10",
+         "text": "Biuro Kadr i Szkolenia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_4/ust_1/pkt_11",
+         "text": "Biuro Spraw Obronnych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "12",
+         "path": "par_4/ust_1/pkt_12",
+         "text": "Biuro Kontroli Wewnętrznej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "13",
+         "path": "par_4/ust_1/pkt_13",
+         "text": "Stanowisko do spraw Audytu Wewnętrznego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "14",
+         "path": "par_4/ust_1/pkt_14",
+         "text": "Stanowisko do spraw Ochrony Informacji Niejawnych",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "oraz delegatury terenowe określone w ust. 2."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Działają następujące delegatury terenowe Urzędu:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_2/pkt_1",
+         "text": "Północna z siedzibą w Gdańsku — dla województwa pomorskiego i kujawsko-pomorskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_2/pkt_2",
+         "text": "Południowa z siedzibą w Krakowie — dla województwa małopolskiego, świętokrzyskiego i śląskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_2/pkt_3",
+         "text": "Zachodnia z siedzibą w Poznaniu — dla województwa wielkopolskiego, lubuskiego i zachodniopomorskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_2/pkt_4",
+         "text": "Południowo-Zachodnia z siedzibą we Wrocławiu — dla województwa dolnośląskiego i opolskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_4/ust_2/pkt_5",
+         "text": "Południowo-Wschodnia z siedzibą w Rzeszowie — dla województwa podkarpackiego i lubelskiego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Na obszarze województw niewymienionych w ust. 2 zadania, o których mowa w § 6 ust. 1, wykonują komórki organizacyjne Urzędu określone w § 4 ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_4/ust_4",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań oraz tryb pracy komórek organizacyjnych Urzędu oraz jego delegatur terenowych określa regulamin organizacyjny nadany, na wniosek dyrektora generalnego Urzędu, przez Prezesa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_4/ust_5",
+       "text": "Spory kompetencyjne między komórkami organizacyjnymi Urzędu, jego delegaturami terenowymi oraz między komórkami organizacyjnymi Urzędu a tymi delegaturami terenowymi rozstrzyga Prezes.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Prezes, w uzgodnieniu z dyrektorem generalnym, może tworzyć w Urzędzie, na czas określony, zespoły zadaniowe do wykonywania zadań wykraczających poza zakres poszczególnych komórek organizacyjnych, o których mowa w § 4 ust. 1, oraz delegatur terenowych, o których mowa w § 4 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Delegatury terenowe Urzędu, zgodnie z ich właściwością oraz w zakresie określonym w regulaminie organizacyjnym, o którym mowa w § 4 ust. 4, wykonują, w imieniu Prezesa, następujące zadania:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_6/ust_1/pkt_1",
+         "text": "nadzorowanie i kontrolowanie przestrzegania przepisów prawnych i decyzji w zakresie lotnictwa cywilnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_6/ust_1/pkt_2",
+         "text": "kontrolowanie bieżącej działalności lotniczej prowadzonej przez podmioty wykonujące działalność w zakresie lotnictwa cywilnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_6/ust_1/pkt_3",
+         "text": "sprawowanie nadzoru nad eksploatacją statków powietrznych, w szczególności w czasie pokazów i imprez lotniczych organizowanych na obszarze działania danej delegatury;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_6/ust_1/pkt_4",
+         "text": "sprawowanie nadzoru nad działalnością lotniskowych służb ruchu lotniczego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_6/ust_1/pkt_5",
+         "text": "wykonywanie bieżących czynności związanych z certyfikacją podmiotów prowadzących działalność w zakresie lotnictwa cywilnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_6/ust_1/pkt_6",
+         "text": "sprawdzanie zdatności sprzętu lotniczego do lotów, w szczególności przez bieżący nadzór nad projektowaniem, produkcją i naprawami sprzętu lotniczego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_6/ust_1/pkt_7",
+         "text": "sprawdzanie posiadanych uprawnień i kwalifikacji personelu lotniczego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_6/ust_1/pkt_8",
+         "text": "współpraca z organami, którym podlega lotnictwo państwowe, oraz innymi jednostkami organizacyjnymi w zakresie zarządzania ruchem lotniczym oraz zabezpieczania i obsługi tego ruchu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_6/ust_1/pkt_9",
+         "text": "współpraca z jednostkami samorządu terytorialnego w zakresie lotnictwa cywilnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_6/ust_1/pkt_10",
+         "text": "współpraca z Państwową Komisją Badania Wypadków Lotniczych oraz podejmowanie niezbędnych działań związanych z jej zaleceniami zapobiegawczymi.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Delegatury terenowe Urzędu wykonują także inne zadania wskazane przez Prezesa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

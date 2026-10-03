@@ -1,0 +1,117 @@
+{
+ "eli": "MP/2007/315",
+ "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 17 kwietnia 2007 r. w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Pracy i Polityki Społecznej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/315/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 kwietnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Pracy i Polityki Społecznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1d ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^2]) ustala się wykaz jednostek organizacyjnych podległych lub nadzorowanych przez"
+  },
+  {
+   "type": "text",
+   "text": "——————— Ministra Pracy i Polityki Społecznej, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Pracy i Polityki Społecznej: A. Kalata"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Pracy i Polityki Społecznej z dnia 17 kwietnia 2007 r. (poz. 315)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ JEDNOSTEK ORGANIZACYJNYCH PODLEGŁYCH LUB NADZOROWANYCH PRZEZ MINISTRA PRACY I POLITYKI SPOŁECZNEJ"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Centralny Instytut Ochrony Pracy — Państwowy Instytut Badawczy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Centrum Badawczo-Rozwojowe Rehabilitacji Osób Niepełnosprawnych „CEBRON”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Centrum Partnerstwa Społecznego „Dialog” im. A. Bączkowskiego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Centrum Rozwoju Zasobów Ludzkich;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Główna Biblioteka Pracy i Zabezpieczenia Społecznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Instytut Pracy i Spraw Socjalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Instytut Rozwoju Służb Społecznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Ochotnicze Hufce Pracy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "Zakład Wydawniczo-Poligraficzny Ministerstwa Pracy i Polityki Społecznej.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Pracy i Polityki Społecznej kieruje działami administracji rządowej — praca, zabezpieczenie społeczne, sprawy rodziny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 1 marca 2007 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. Nr 38, poz. 243).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600."
+ }
+}

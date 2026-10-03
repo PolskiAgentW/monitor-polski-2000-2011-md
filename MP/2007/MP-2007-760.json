@@ -1,0 +1,2478 @@
+{
+ "eli": "MP/2007/760",
+ "title": "Regulamin Porozumienia dotyczącego pocztowych usług płatniczych, przyjęty w Bernie dnia 28 stycznia 2005 r.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/760/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "REGULAMIN POROZUMIENIA"
+  },
+  {
+   "type": "text",
+   "text": "dotyczącego pocztowych usług płatniczych,"
+  },
+  {
+   "type": "text",
+   "text": "przyjęty w Bernie dnia 28 stycznia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "Przekład"
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział III"
+  },
+  {
+   "type": "ocr",
+   "text": "Przelew pocztowy"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 1001 Formularze RF 1101 Wystawianie przelewów RF 1201 Opłaty wejściowe RF 1301 Poziom jakości usługi w kraju nadania i zobowiązania administracji pocztowej wysyłającej RF 1401 Wykazy przelewów przesłanych drogą pocztową RF 1501 Odpisywanie kwoty przelewów z bieżącego konta łącznikowego RF 1701 Poziom jakości usługi w kraju przeznaczenia i zobowiązania administracji pocztowej przeznaczenia RF 1702 Niewykonanie przelewu RF 1703 Weryfikacja przesyłek i postępowanie z nieprawidłowościami przelewów RF 1704 - Wycofanie przelewu"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział IV"
+  },
+  {
+   "type": "ocr",
+   "text": "Konta łącznikowe, rachunki miesięczne, reklamacje, odpowiedzialność"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 1801 Konto łącznikowe RF 1802 Funkcjonowanie konta łącznikowego RF 1803 Wystawianie rachunków miesięcznych za przekazy przesłane drogą pocztową RF 1804 Wystawianie rachunków miesięcznych za przekazy elektroniczne RF 1805 Wystawianie rachunku ogólnego RF 1806 Regulowanie rachunków. Sposoby i terminy płatności RF 1807 Zaliczki RF 1901 Postępowanie z reklamacjami dotyczącymi przekazów RF 1902 Postępowanie z reklamacjami dotyczącymi przelewów RF 2001 Określenie odpowiedzialności RF 2002 Wypłata należnych kwot. Zwrot kwot RF 2003 Termin wypłaty RF 2004 Wynagradzanie administracji pocztowej pośredniczącej/interweniującej. Odsetki za zwłokę"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział V"
+  },
+  {
+   "type": "ocr",
+   "text": "Sieć elektroniczna Światowego Związku Pocztowego"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział VI"
+  },
+  {
+   "type": "ocr",
+   "text": "Postanowienia różne"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział VII"
+  },
+  {
+   "type": "ocr",
+   "text": "Postanowienia końcowe"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 2201 RF 2202"
+  },
+  {
+   "type": "ocr",
+   "text": "Postanowienia końcowe Wejście w życie i czas obowiązywania Regulaminu"
+  },
+  {
+   "type": "ocr",
+   "text": "Protokół końcowy Regulaminu Porozumienia dotyczącego pocztowych usług płatniczych"
+  },
+  {
+   "type": "ocr",
+   "text": "RF | RF tl"
+  },
+  {
+   "type": "ocr",
+   "text": "(istniejące zastrzeżenia) Zaliczki Poziom jakości usługi w kraju nadania i zobowiązania wysyłającej administracji pocztowej"
+  },
+  {
+   "type": "ocr",
+   "text": "Wykaz formularzy Numer Nazwa lub rodzaj formularza 5 Odniesienie TFP 1 Przekaz pocztowy/przelew międzynarodowy |RF 201.1 |TEP 2 Zawiadomienie o przelewie RF 1001.1"
+  },
+  {
+   "type": "ocr",
+   "text": "TFP 3 Międzynarodowy przekaz pobraniowy RF 201.2 TFP 6 Reklamacja/Zadanie wycofania -|RF 1901.2"
+  },
+  {
+   "type": "ocr",
+   "text": "TFP 7 Reklamacja lub żądanie anulowania - Polecenie RF 1704.3 przelewu | + TFP 8 Reklamacja — Kwota pobrania niewyptacona odbiorcy SFP 1 Żądanie sprostowania międzynarodowego przekazu|RF 707.2 pocztowego /przelewu/ przelewu pobraniowego |SFP 2 Wykaz zbiorczy międzynarodowych ' przekazów|RF 1803.2 pocztowych /przelewów/ przelewów pobraniowych |SFP 3 |Rachunek miesięczny międzynarodowych przekazów |RF 1803.1 pocztowych/ przelewów) przelewów pobraniowych"
+  },
+  {
+   "type": "ocr",
+   "text": "SFP 4 Rachunek ogólny międzynarodowych przekazów RF 1805.1 pocztowych/ przelewów/przekazów pobraniowych"
+  },
+  {
+   "type": "ocr",
+   "text": "SFP 5 Wykaz przelewów |RF 1401.2 4 ISFP6 | Wykaz zbiorczy RF 1401.3 | SFP 7 |Wykaz sprostowań RF 1702.2 Po"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Regulamin Porozumienia dotyczącego pocztowych usług płatniczych"
+  },
+  {
+   "type": "ocr",
+   "text": "Rada Eksploatacji Pocztowej (Rada do spraw Operacji Pocztowych), zgodnie z artykułem 22 ustęp 5 Konstytucji Światowego Związku Pocztowego, sporządzonej w Wiedniu w dniu 10 lipca 1964 roku, przyjęła następujące Środki w celu zapewnienia wykonania Porozumienia dotyczącego pocztowych usług płatniczych. Środki te mają zastosowanie zarówno do płatności przesyłanych w przesyłkach listowych, jak też przekazywanych drogą elektroniczną lub w inny, uzgodniony dwustronnie, sposób."
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział 1 Postanowienia wstępne"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział II Przekaz pocztowy"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 201 Formularze"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przekazy zwykłe i przelewy wysyłane pocztą są wystawiane na formularzu zgodnym ze wzorem TFP 1."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Przekazy pobraniowe są wystawiane na formularzach zgodnych ze wzorem TFP 3."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Przy przesyłaniu i wypłacaniu przekazów elektronicznych możliwe jest wykorzystywanie innych formularzy."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 301 Wystawianie przekazów pocztowych"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Adres przekazu powinien być wpisany w taki sposób, by wyraźnie określał odbiorcę; adresy skrócone są niedopuszczalne."
+  },
+  {
+   "type": "ocr",
+   "text": "2. W przypadku przelewów, numer rachunku odbiorcy i nazwa centrum czeków pocztowych powinny być wpisane w polu do tego przewidzianym."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Przekazy elektroniczne wystawia się zgodnie z przepisami technicznymi sieci elektronicznej, za pośrednictwem której powinny być przesłane."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "4. Przekazy przekazywane drogą pocztową są wystawiane alfabetem łacińskim i cyframi arabskimi, bez skreśleń ani dopisków, nawet potwierdzonych. Wpisów dokonuje się ręcznie, jeśli możliwe, literami drukowanymi lub maszynowo. Wpisy ołówkiem są niedopuszczalne."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Jeśli przekazy są wystawiane metodą mechaniczną, nie jest konieczny odręczny podpis pracownika lub zastępujący ten podpis identyfikator numeryczny."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 302 Wpisy zabronione łub dozwolone"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przekazy służbowe powinny posiadać wzmiankę „Służba pocztowa” lub analogiczny wpis."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Przekazy mogą zawierać prywatną korespondencję przeznaczoną dla odbiorcy."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Niedozwolone jest wpisywanie do przekazu innych wzmianek niż te, jakie wynikają z treści formułarzy, z wyjątkiem adnotacji służbowych."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 303 Określenie kwoty"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Kwota przekazu podana jest cyframi, ze skrótem nazwy jednostki monetarnej zgodnie z normą międzynarodową ISO 4217. Ułamki jednostki monetarnej wyrażane są za pomocą dwóch (lub trzech) cyfr, w tym zer, odpowiadających częściom dziesiętnym, setnym (i tysięcznym)."
+  },
+  {
+   "type": "ocr",
+   "text": "2. W przypadku przekazów przesyłanych drogą pocztową, kwota i nazwa jednostki monetarnej powinny być wpisane słownie, w języku uzgodnionym dwustronnie. Kwota podana słownie może być wyrażona nazwami cyfr pisanymi oddzielnie, cyfra po cyfrze, a nazwa jednostki monetarnej podana w skrócie zgodnie z międzynarodową normą ISO 4217. W przypadku słownego określania kwoty, gdzie powtarzanie ułamków nie jest konieczne, mogą one być wyrażone cyframi po określeniu liczby jednostek monetarnych."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 304 Polecenie"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Administracje pocztowe mogą uzgodnić między sobą przypadki przesyłania przekazów pocztowych przesyłkami poleconymi."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 305 Pokwitowanie"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Potwierdzenie może być doręczone nadawcy. Jest wolne od opłaty."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 306 Wycofanie"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Jeśli przekaz nie został jeszcze wypłacony lub jego odbiorca nie został jeszcze poinformowany o jego nadejściu, może on być wycofany ze służby."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Każde żądanie wycofania przekazu elektronicznego sporządza się zgodnie z przepisami technicznymi sieci elektronicznej, jaką przekaz jest przesyłany."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Każde żądanie wycofania przekazu wysyłane drogą pocztową lub telefaksem jest sporządzane na formularzu zgodnym za wzorem TFP 6."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 501 Poziom jakości usługi w kraju wystawienia i zobowiązania wysyłającej administracji pocztowej"
+  },
+  {
+   "type": "ocr",
+   "text": "1. O ile nie ma szczególnych zastrzeżeń, przekaz powinien opuścić terytorium kraju wystawienia, wysyłany pocztą priorytetową lub drogą elektroniczną, najpóźniej drugiego dnia roboczego po jego nadaniu w urzędzie pocztowym."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Administracja pocztowa powinna przestrzegać przepisów krajowych dotyczących prania pieniędzy i walki z przestępczością finansową."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 601 Inne sieci elektroniczne"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Kierowanie przekazów wymienianych drogą elektroniczną odbywa się zgodnie z wymaganiami technicznymi wykorzystywanych sieci i systemów."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 602 Przesyłanie drogą pocztową"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przekazy przesyłane są możliwie najszybszym sposobem (pocztą priorytetową) i, z wyjątkiem specjalnego porozumienia, w odsyłkach otwartych. Umieszcza się je w odsyłkach w sposób opisany w artykule RL 177 ustęp 1 Regulaminu poczty listowej."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Artykuł RL 174 Regulaminu poczty listowej dotyczy przesyłania przekazów poleconych."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 701 Wypłacanie przekazów"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Kwota przekazów jest wypłacana odbiorcy w walucie obowiązującej w kraju przeznaczenia; może być wypłacona w każdej innej walucie na podstawie specjalnego porozumienia między odpowiednimi administracjami pocztowymi."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "2. Po powiadomieniu zainteresowanych administracji pocztowych, administracja pocztowa przeznaczenia może, jeśli wymagają tego jej przepisy, bądź pominąć ułamki jednostki monetarnej, bądź zaokrąglić kwotę do najbliższej jednostki lub do najbliższej części dziesiętnej."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Wypłata może być prawomocnie dokonana poprzez przelew na bieżący rachunek pocztowy, zgodnie z zasadami stosowanymi przez administrację przeznaczenia."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Jeśli nadawca zleci wystawienie tego samego dnia, na rzecz tego samego odbiorcy kilku przekazów, których ogólna wypłata przekracza maksimum akceptowane przez administrację pocztową przeznaczenia, zobowiązany jest do rozłożenia wypłaty przekazów w taki sposób, by kwota wypłacona odbiorcy tego samego dnia nie przekraczała tego maksimum."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Wypłaty przekazów elektronicznych można dokonać po sprawdzeniu krajowej bazy danych."
+  },
+  {
+   "type": "ocr",
+   "text": "6. informacja o wypłaceniu przekazów powinna być przekazana administracji pocztowej wystawienia."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 702 Termin ważności"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Nie dopuszcza się żadnego przedłużenia terminu ważności określonego w artykule 7 Porozumienia."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 703 Przeniesienie prawa własności (indos)"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Każdy kraj ma prawo umożliwić, drogą przeniesienia prawa własności, dokonania na jego terytorium zmiany właściciela przekazów nadchodzących z innego kraju."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 704 Przekazy niewypłacone"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Każdy przekaz, którego przyjęcia odmówiono lub którego odbiorca jest nieznany, lub wyjechał, nie zostawiając nowego adresu, jest natychmiast odsyłany do administracji pocztowej wystawienia."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Dosyłanie przekazów do innego kraju jest niedozwolone."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Każdy przekaz, o którego wypłacenie nie upomniano się w obowiązującym terminie ważności, jest odsyłany natychmiast po wygaśnięciu tego terminu."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Każdy przekaz niewypłacony z jakiegokolwiek powodu jest zwracany nadawcy."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Przekazy przesyłane drogą pocztową, które z jakiegokolwiek powodu nie mogą być"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "wypłacone odbiorcy, są odsyłane bezpośrednio do urzędu wystawienia; wcześniej jednak urząd wypłaty je rejestruje, oznacza stemplem lub nalepką, której zasady użycia są opisane w artykule RL 146 ustęp 8.2 Regulaminu poczty listowej."
+  },
+  {
+   "type": "ocr",
+   "text": "6. W przypadku przekazów elektronicznych informacja o ich niewypłaceniu powinna być przekazana do administracji pocztowej wystawienia."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 705"
+  },
+  {
+   "type": "ocr",
+   "text": "Zastępowanie przekazów mylnie skierowanych, zagubionych lub zniszczonych przed wypłatą"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przekazy elektroniczne, które nie dotarły do miejsca przeznaczenia, traktuje się zgodnie z przepisami właściwymi dla stosowanego systemu."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Każdy przekaz IFP 1 mylnie skierowany, zagubiony lub zniszczony przed wypłatą może być zastąpiony, na życzenie nadawcy lub odbiorcy, nowym przekazem wystawianym przez administrację pocztową wystawienia. Z wyjątkiem specjalnego dwustronnego porozumienia, wystawianie duplikatu przekazu z wpisanymi tymi samymi referencjami/ numerami spraw, jakie miał przekaz oryginalny, jest niedozwolone."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Przed zastąpieniem przekazu mylnie skierowanego, zagubionego lub zniszczonego przed wypłatą, administracja pocztowa wystawienia powinna się upewnić, w porozumieniu z administracją pocztową przeznaczenia, czy przekaz oryginalny nie został wypłacony ani zwrócony; należy podjąć także wszelkie działania, aby taki przekaz nie został wypłacony później."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Jeśli administracja pocztowa przeznaczenia oświadcza, że nie wpłynął do niej przekaz, administracja pocztowa wystawienia może zastąpić ten przekaz nowym, pod warunkiem że sporny przekaz nie figuruje w żadnym z rachunków miesięcznych odnoszących się do okresu ważności przekazu; jednakże, jeśli administracja pocztowa przeznaczenia nie udzieliła żadnej odpowiedzi w okresie dwóch miesięcy, licząc od dnia złożenia reklamacji zgodnie z postanowieniami artykułu 21 Konwencji, w celu uwzględnienia roszczeń osoby reklamującej i, o ile przekaz nie figuruje w żadnym z rachunków miesięcznych otrzymanych do chwili upłynięcia tego terminu, administracja pocztowa wystawienia ma prawo dokonać zwrotu pieniędzy. Zawiadomienie o tym przesyła się przesyłką poleconą do administracji pocztowej przeznaczenia, a przekaz, uznany od tej pory za ostatecznie zagubiony, nie może być później wpisany do rachunku."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 706"
+  },
+  {
+   "type": "ocr",
+   "text": "Zastępowanie przekazów mylnie skierowanych, zagubionych lub zniszczonych po wypłacie"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Każdy przekaz TFP 1 mylnie skierowany, zagubiony lub zniszczony po wypłacie może być zastąpiony innym dokumentem przez administrację pocztową przeznaczenia, wystawionym na formularzu TFP 1. Formularz ten powinien mieć takie same wpisy jak oryginalny przekaz i powinien być oznaczony wzmianką „Titre établi en remplacement d'un mandat ćgarć (perdu ou detruit) apres paiement”, „Przekaz wystawiono zamiast przekazu mylnie skierowanego (zagubionego lub zniszczonego) po wypłacie” oraz ostemplowany datownikiem."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "2. Oświadczenie odbiorcy potwierdzające otrzymanie pieniędzy powinno być wpisane na odwrotnej stronie przekazu zastępczego. Wyjątkowo, oświadczenie to może być sformułowane na oddzielnej kartce, załączonej do przekazu jako dowód. To oświadczenie zastępuje pierwotne pokwitowanie."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Jeśli nie ma możliwości zażądania od odbiorcy takiego oświadczenia, na odwrotnej stronie przekazu zastępczego lub na oddzielnym potwierdzeniu dokonuje się wpisu z urzędu, potwierdzającego, że kwota przekazu została istotnie wypłacona."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 707 Postępowanie z przekazami nieprawidłowymi"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Nieprawidłowe przekazy elektroniczne są natychmiast rozpoznawane i wyrzucane przez system albo na poziomie administracji pocztowej nadania, albo na poziomie administracji pocztowej otrzymania."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Każdy przekaz przesyłany drogą pocztową, wykazujący jedną z następujących nieprawidłowości, zwraca się do urzędu wystawienia pocztą priorytetową w kopercie wraz z formularzem zgodnym ze wzorem SFP 1, w celu usunięcia nieprawidłowości: 2.1 niedokładne, niewystarczające, nasuwające wątpliwości lub pominięte nazwisko lub adres odbiorcy, mylnie podany numer bieżącego rachunku pocztowego lub jego brak, 2.2 różnice w kwotach lub ich brak, 2.3 przekroczenie maksymalnej kwoty uzgodnionej między administracjami, 2.4 przekreślenia lub poprawki we wpisach, 2.5 brak stempla, podpisu na przekazach niewystawianych mechanicznie lub innych oznaczeń służbowych, 2.6 podanie kwoty do wypłaty w innej walucie niż dopuszczalna lub pominięcie oznaczenia jednostki monetarnej, 2.7 widoczny błąd w relacji między walutą kraju wystawienia a walutą kraju przeznaczenia, błąd do którego korekty urząd wypłaty nie jest zobowiązany, 2.8 - użycie niewłaściwego formularza, 2.9 brak polecenia z urzędu, skoro takie postępowanie jest przewidziane w stosowaniu artykułu RF 304."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Administracja pocztowa przeznaczenia może, na własną odpowiedzialność, dokonać sprostowania z urzędu błędów mniejszej wagi. Sprostowanie to wpisuje się kolorem czerwonym i uzupełnia podpisem naczelnika."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 708 Przekazy przedawnione"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Kwoty wpłacone w celu nadania przekazów, o które nikt się nie upomniał przed terminem przedawnienia, ostatecznie przechodzą na własność administracji pocztowej kraju wystawienia. Termin przedawnienia ustala się zgodnie z ustawodawstwem tegoż kraju."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 801 Sposoby wynagradzania administracji pocztowej przeznaczenia"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Za każdy wypłacony przekaz administracja pocztowa wystawienia przyznaje administracji pocztowej przeznaczenia zapłatę w wysokości 2 SDR (DTS). Inne sposoby lub stawki opłaty mogą być ustalone dwustronnie. Ogólna kwota wynagrodzenia, liczona na podstawie średniego rocznego kursu SDR (DTS) opublikowanego przez Biuro Międzynarodowe UPU, pobierana jest na podstawie rachunku miesięcznego."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 901 Poziom jakości usługi w kraju przeznaczenia i zobowiązania administracji pocztowej przeznaczenia"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przekazy nadchodzące, jeśli nie wymagają żadnych dodatkowych działań pośrednich, są natychmiast kierowane do urzędu wymiany przekazów lub do wypłacającego urzędu pocztowego."
+  },
+  {
+   "type": "ocr",
+   "text": "2. O ile nie ma specjalnych zastrzeżeń, nie może upłynąć więcej niż cztery dni robocze między nadejściem przekazu do kraju przeznaczenia, a wypłatą lub wysłaniem odbiorcy zawiadomienia o nadejściu przekazu."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Przekazy, które nie mogą być wypłacone, które nie są reklamowane lub których termin ważności upłynął, są natychmiast odsyłane do urzędu wystawienia z uzasadnieniem powodu ich niewypłacenia."
+  },
+  {
+   "type": "ocr",
+   "text": "4. instytucja otrzymująca powinna stosować przepisy krajowe dotyczące prania pieniędzy i walki z przestępczością finansową."
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział III Przelew pocztowy"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1001 Formularze"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przelewy przesyłane drogą pocztową wystawia się na formularzach zgodnych ze wzorem TFP 2."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Zamiast formularza TFP 2 można stosować wewnętrzne formularze służbowe lub formularze krajowe zgodne z praktyką bankową."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "3. W przypadku przelewów elektronicznych dopuszczalne jest stosowanie innych formularzy."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1101 Wystawianie przelewów"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Polecenie przelewu powinno zawierać: 1.1 nazwisko i numer rachunku nadawcy, 1.2 nazwisko i numer rachunku odbiorcy, 1.3 kwotę w walucie uzgodnionej między administracją pocztową wystawienia iadministracją pocztową otrzymania, poprzedzoną skrótem nazwy jednostki monetarnej zgodnym z normą ISO 4217."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Określona część polecenia przelewu może być wykorzystana do wpisania osobistej informacji dla odbiorcy."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Jeśli osoba zlecająca wystawienie przelewu podała kwotę przelewu w walucie kraju pochodzenia, urząd wymiany otrzymujący polecenie przelewu - lub centrum czeków pocztowych - dokonuje przeliczenia na walutę uzgodnioną między administracją pocztową wystawienia i administracją pocztową otrzymania."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Przelewy elektroniczne wystawia się zgodnie z wymaganiami technicznymi sieci elektronicznej za pośrednictwem, której są przesyłane."
+  },
+  {
+   "type": "ocr",
+   "text": "5. W przypadku przelewów przesyłanych drogą pocztową, wpisów dokonuje się alfabetem łacińskim i cyframi arabskimi, bez skreśleń łub poprawek, nawet potwierdzonych. Wpisy powinny być dokonywane maszynowo lub ręcznie, jeśli możliwe, literami drukowanymi. Niedopuszczalne są wpisy dokonywane ołówkiem."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Zawiadomienia o przelewach oznaczane są odciskiem datownika centrum czeków pochodzenia."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1201 Opłaty wejściowe"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Opłaty w kraju przeznaczenia powinny być pobierane od odbiorcy przelewu, chyba że przepisy krajowe lub regionalne lub umowy dwustronne stanowią inaczej."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1301 Poziom jakości usługi w kraju nadania i zobowiązania administracji pocztowej wysyłającej"
+  },
+  {
+   "type": "ocr",
+   "text": "1. O ile nie ma specjalnego zastrzeżenia, przelew powinien być wysłany z terytorium kraju nadania przesyłką priorytetową lub drogą elektroniczną najpóźniej w ciągu dwóch dni roboczych po wpłynięciu polecenia dokonania przelewu do centrum czeków pocztowych."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "2. Administracja pocztowa wysyłająca powinna postępować zgodnie z przepisami krajowymi dotyczącymi prania pieniędzy i walki z przestępczością finansową."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1401"
+  },
+  {
+   "type": "ocr",
+   "text": "Wykazy przelewów przesłanych drogą pocztową"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przelewy TFP 2 przekazywane są przez administrację pocztową wystawienia do administracji pocztowej przeznaczenia za pomocą wykazów."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Wykazy przelewów są sporządzane przez urzędy wymiany na formularzach zgodnych ze wzorem SFP 5. Administracje pocztowe mogą uzgodnić, że nie będą wypełniały kolumny 3 formularza. Na każdym wykazie należy odcisnąć stempel urzędu, który go sporządza."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Kwota ogólna każdego z wykazów przeznaczonych dla tego samego urzędu wymiany jest przenoszona na wykaz zbiorczy sporządzany w dwóch egzemplarzach zgodnie ze wzorem SFP 6, na którym ogólna kwota zapisywana jest słownie lub drukowana cyframi."
+  },
+  {
+   "type": "ocr",
+   "text": "4. W każdym wykazie przelewów nanosi się numer wpisu do wykazu zbiorczego."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Na wykazach zbiorczych umieszcza się odcisk stempla urzędu, który je sporządził i składa się podpis funkcjonariusza lub funkcjonariuszy do tego upoważnionych. Każdy z tych wykazów otrzymuje kolejny numer, którego seria rozpoczyna się na nowo każdego miesiąca dla każdego urzędu wymiany przeznaczenia."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Wykaz zbiorczy przesyła się w dwóch egzemplarzach."
+  },
+  {
+   "type": "ocr",
+   "text": "7. Wykazy zbiorcze, wykazy oraz zawiadomienia o przelewach są zbierane i wysyłane raz dziennie w dniu roboczym, jako wolne od opłat, do urzędu wymiany kraju przeznaczenia najszybszą drogą. Przesyłki te mogą być nadane jako polecone."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1501"
+  },
+  {
+   "type": "ocr",
+   "text": "Odpisywanie kwoty przelewów z bieżącego konta łącznikowego"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Po weryfikacji wykazów SFP 5 i wykazów zbiorczych SFP 6 ogólną kwotą otrzymanych poleceń przelewów obciąża się natychmiast bieżące konto łącznikowe otwarte na rzecz administracji pocztowej wystawienia."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Jeden egzemplarz wykazu zbiorczego SFP 6 z odciśniętym datownikiem służby czeków pocztowych przeznaczenia jest dołączany do wyciągu z rachunku dziennego, który wysyłany jest jeszcze tego samego dnia do administracji pocztowej posiadającej bieżące konto łącznikowe, które zostało obciążone."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1701"
+  },
+  {
+   "type": "ocr",
+   "text": "Poziom jakości usługi w kraju przeznaczenia i zobowiązania administracji pocztowej przeznaczenia"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Nadesłane przelewy są wpisywane natychmiast lub najpóźniej następnego dnia roboczego po ich nadejściu na dobro rachunku odbiorcy."
+  },
+  {
+   "type": "ocr",
+   "text": "2. O ile nie ma specjalnego porozumienia, w przypadku przekazywania przelewów drogą elektroniczną nie może upłynąć więcej niż cztery dni robocze pomiędzy obciążeniem rachunku nadawcy, a wpisem na dobro rachunku odbiorcy."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Administracja pocztowa otrzymująca powinna postępować zgodnie z przepisami krajowymi dotyczącymi prania pieniędzy i walki z przestępczością finansową."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1702"
+  },
+  {
+   "type": "ocr",
+   "text": "Niewykonanie przelewu"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Kwota każdego przelewu, która z jakiegokolwiek powodu nie została przelana na konto odbiorcy, jest z powrotem zapisywana na konto wystawcy przelewu."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Jeżeli z jakiegokolwiek powodu przelew nie może być wpisany na dobro rachunku odbiorcy, wpisuje się go do formularza SFP 7, do którego się dołącza, w razie potrzeby, odpowiednie zawiadomienie o przelewie. Do formularza SFP 7 może być wpisanych kilka niewypłaconych przelewów."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Przelewy odrzucone wpisuje się do formularza SFP 7 w ich kwocie wyrażonej w walucie kraju pierwszego przeznaczenia, tak jak została wyliczona przez administrację pocztową wystawiającą przelew."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Kwota ogólna formularza SFP 7 jest zaliczana na dobro pocztowego bieżącego konta łącznikowego otwartego na rzecz administracjj pocztowej, która wystawiła odrzucone przelewy."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Formularz SFP 7 i zawiadomienia o przelewie, stanowiące jego załączniki, dołącza się do wyciągu z rachunku dziennego towarzyszącego wykazowi zbiorczemu SFP 6, który jest w dniu operacji przesyłany administracji, której obciążono pocztowe bieżące konto łącznikowe."
+  },
+  {
+   "type": "ocr",
+   "text": "6. W przypadku przelewów elektronicznych, informacja o niewykonaniu przelewu powinna być przekazana administracji pocztowej wystawiającej przelew."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1703"
+  },
+  {
+   "type": "ocr",
+   "text": "Weryfikacja przesyłek i postępowanie z nieprawidłowościami przelewów"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Nieprawidłowe przelewy elektroniczne są automatycznie rozpoznawane i odrzucane przez system na poziomie administracjj pocztowej wysyłającej lub na poziomie administracji pocztowej otrzymującej."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Po otrzymaniu pakietu zawierającego wykazy zbiorcze, wykazy i zawiadomienia o przelewach wysłanych pocztą, urząd wymiany przeznaczenia przystępuje do weryfikacji przesyłki. Jeśli stwierdzi jakąkolwiek nieprawidłowość lub braki zapisów, informuje o tym natychmiast, telefaksem lub pocztą elektroniczną, urząd wymiany nadania, który powinien"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "odpowiedzieć tą samą drogą, i w razie konieczności, przesłać najszybszą drogą (pocztą priorytetową) brakujące dokumenty. W przypadku niemożności skorzystania z telefaksu lub poczty elektronicznej, wymiany informacji dokonuje się za pomocą wykazu sprostowań zgodnego ze wzorem SFP 7."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Jeżeli nieprawidłowość polega na rozbieżności sum figurujących na zawiadomieniu o przelewie i w wykazie przelewów, urząd wymiany przeznaczenia jest upoważniony do dokonania przelewu mniejszej sumy; w takim przypadku zawiadomienie o przelewie lub wykaz przelewów i wykaz zbiorczy poprawia się czerwonym atramentem, a zawiadomienie o korekcie przekazuje się do właściwego urzędu wymiany na formularzu zgodnym ze wzorem SFP 7."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1704"
+  },
+  {
+   "type": "ocr",
+   "text": "Wycofanie przelewu"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Jeśli przelew nie został jeszcze wpisany na dobro rachunku odbiorcy, może być wycofany ze służby."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Każde żądanie wycofania przelewu elektronicznego powinno być sporządzone zgodnie z wymaganiami technicznymi sieci elektronicznej, za pośrednictwem której przelew został przesłany."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Każde żądanie wycofania przelewu przesyłane drogą pocztową lub telefaksem sporządza się na formularzu zgodnym ze wzorem TFP 7."
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział IV"
+  },
+  {
+   "type": "ocr",
+   "text": "Konta łącznikowe, rachunki miesięczne, reklamacje, odpowiedzialność"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1801"
+  },
+  {
+   "type": "ocr",
+   "text": "Konto łącznikowe"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Każda administracja pocztowa wystawienia utrzymuje wystarczające aktywa/zasoby na bieżącym pocztowym koncie łącznikowym otwartym na jej rzecz w administracji pocztowej przeznaczenia, umożliwiające pokrywanie jej bieżących zobowiązań wobec tej administracji. Administracje pocztowe wystawienia i przeznaczenia uzgadniają między sobą sposób wymiany informacji dotyczących debetów i kredytów."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Zasoby te/aktywa nie mogą być w żadnym przypadku użyte w innym celu niż ten przewidziany w artykule 17 ustęp 2.1 Porozumienia bez zgody administracji pocztowej, która je utworzyła. Nawet, mimo że zasoby te są niewystarczające na pokrycie zobowiązań, realizuje się przelewy i wypłaty, z zastrzeżeniem postanowień ustępów 3 i 4."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Administracja pocztowa wierzycielska może domagać się w każdej chwili wypłaty należnych sum, ewentualnie ustala termin, do którego płatność powinna być dokonana, uwzględniając czas transferu."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "4. Jeśli stwierdza się brak pokrycia na koncie łącznikowym, wierzycielska administracja pocztowa ma prawo zastosować odsetki w wysokości 1% w skali roku powyżej miesięcznej międzybankowej pożyczkowej stopy procentowej w kraju wierzycielskim. Jeśli stopa międzybankowa nie istnieje, administracja pocztowa prowadząca konto ma prawo zapisać odsetki debetu zgodnie z zasadami handlowymi banku prowadzącego konto. Jeśli na nazwę tej samej administracji pocztowej jest otwartych kilka kont łącznikowych, to naliczanie odsetek powinno być uzgodnione dwustronnie. Kwota tych odsetek jest pobierana, zgodnie z umową, z konta lub kont łącznikowych administracji pocztowej."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Informacje dotyczące naliczania i zasad fakturowania odsetek są wymieniane dwustronnie."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Jeśli konto pozostaje bez pokrycia przez więcej niż piętnaście dni w ciągu kolejno następujących po sobie trzydziestu dni, wierzycielska administracja pocztowa może zawiesić usługę po upływie ośmiu dni od wysłania zawiadomienia drogą telekomunikacyjną."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1802"
+  },
+  {
+   "type": "ocr",
+   "text": "Funkcjonowanie konta łącznikowego"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Na dobro bieżącego pocztowego konta łącznikowego kraju dokonującego transferu pieniędzy zapisuje się:"
+  },
+  {
+   "type": "ocr",
+   "text": "1.1 przekazane kwoty na utworzenie lub zasilenie jego stanu; odpowiednich transferów dokonuje się za pomocą czeków bankowych albo weksli płatnych na okaziciela w stolicy lub w ośrodku handlowym kraju wierzyciela, albo przelewów do instytucji bankowych w tej stolicy lub w tym ośrodku,"
+  },
+  {
+   "type": "ocr",
+   "text": "1.2 transfery kwot, które nie mogły być zrealizowane."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Administracje pocztowe ustalają dwustronnie wszelkie operacje wpisywane na dobro konta łącznikowego."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Ewentualne koszty ponoszone są przez administrację pocztową, na rzecz której otwarte jest konto, z wyjątkiem kosztów prowadzenia konta."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1803"
+  },
+  {
+   "type": "ocr",
+   "text": "Wystawianie rachunków miesięcznych za przekazy przesłane drogą pocztową"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Przy sporządzaniu rachunków miesięcznych przewidzianych w artykule 18 ustęp 3 Porozumienia (rachunek miesięczny za przekazy według wzoru SFP 3) zestawień dokonuje się, zachowując:"
+  },
+  {
+   "type": "ocr",
+   "text": "1.1 porządek chronologiczny miesięcy wystawienia,"
+  },
+  {
+   "type": "ocr",
+   "text": "1.2 porządek alfabetyczny lub numeryczny urzędów wystawienia, w zależności od uzgodnień,"
+  },
+  {
+   "type": "ocr",
+   "text": "1.3. kolejność numeracji przekazów dla każdego urzędu wystawienia."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "2. W razie potrzeby, wypłacone przekazy zestawia się w specjalnym wykazie zgodnym ze wzorem SFP 2, który dołącza się do rachunku miesięcznego wystawianego, w tym przypadku, na formularzu zgodnym ze wzorem SFP 3."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Administracja pocztowa przeznaczenia wpisuje do tego rachunku także:"
+  },
+  {
+   "type": "ocr",
+   "text": "3.1 kwotę zapłaty należnej jej na podstawie artykułu 8 Porozumienia,"
+  },
+  {
+   "type": "ocr",
+   "text": "3.2 w odpowiednim przypadku, kwotę pobrań i odsetek, o których mowa w artykułach RF 1801 ustęp 4, RF 1806 ustęp 6 i RF 2004 ustęp 2."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Przekazy wystawione jako kopie przekazów zagubionych po wypłacie są traktowane jak przekazy i są wpisywane do rachunku SFP 3 lub, ewentualnie, do wykazu SFP 2, na tych samych warunkach jak gdyby chodziło o same przekazy."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Jeśli zaangażowane strony uzgodniły regulowanie swoich rachunków na zasadzie kompensaty i jeśli ich odpowiednie przekazy zostały wypłacone w różnych walutach, najniższa wierzytelność jest przeliczana na walutę najwyższej wierzytelności, przy uwzględnieniu jako podstawy przeliczenia średniego oficjalnego kursu wymiany w kraju administracji pocztowej dłużniczki w okresie, do którego odnosi się rachunek; ten średni kurs powinien być przeliczany niezmiennie do czwartego miejsca po przecinku."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Rachunek miesięczny przesyłany jest administracji pocztowej dłużniczce najpóźniej przed końcem miesiąca następującego po miesiącu, do którego się odnosi, wraz z potwierdzającymi dokumentami (pokwitowane przekazy), sklasyfikowanymi w tej samej kolejności jak na wykazie zbiorczym SFP 2. Jeśli, z jakiegokolwiek powodu, rachunek miesięczny nie może być przesłany we właściwym czasie, to administracja pocztowa dłużniczka powinna być poinformowana, w ciągu ośmiu dni następujących po upłynięciu wymienionego terminu, o przewidywanej dacie wysłania odnośnego rachunku. Informacja powinna być przesłana telefaksem. Administracje pocztowe powinny dołożyć wszelkich starań, by dokument ten dotarł przed upływem drugiego miesiąca następującego po miesiącu, którego dotyczy."
+  },
+  {
+   "type": "ocr",
+   "text": "7. W razie braku wypłaconych przekazów, do odpowiedniej administracji pocztowej wysyła się negatywny rachunek miesięczny, chyba że istnieje specjalne porozumienie między zainteresowanymi administracjami pocztowymi."
+  },
+  {
+   "type": "ocr",
+   "text": "8. Stwierdzone przez administrację pocztową dłużniczkę różnice w rachunkach miesięcznych, dotyczące zestawienia przekazów lub obliczenia zapłaty, ujmuje się w pierwszym rachunku miesięcznym, jaki należy sporządzić. Pomija się je, jeśli kwota nie przekracza 3 SDR (DTS) za rachunek."
+  },
+  {
+   "type": "ocr",
+   "text": "9. Administracje pocztowe mogą uzgodnić, na zasadzie dwustronnych porozumień, że będą stosowały inny sposób dokonywania rozliczeń i przekazywania wypłaconych przekazów niż ten przewidziany w artykule RF 1803."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1804"
+  },
+  {
+   "type": "ocr",
+   "text": "Wystawianie rachunków miesięcznych za przekazy elektroniczne"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Rachunek miesięczny jest automatycznie wystawiany przez system elektroniczny krajów partnerskich,"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "2. Ogólna kwota zapłaty ustalona dwustronnie dodawana jest do ogólnej kwoty wypłaconych przekazów."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Rachunek miesięczny wysyłany jest do administracji pocztowej wystawienia bez poświadczonych przez odbiorcę formularzy. Niemniej, administracja ta ma prawo ich zażądać w celu dokonania sprawdzenia."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1805"
+  },
+  {
+   "type": "ocr",
+   "text": "Wystawianie rachunku ogólnego"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Rachunek ogólny wystawia administracja pocztowa wierzycielska na formularzu SFP 4 natychmiast po otrzymaniu rachunków miesięcznych, nawet przed szczegółowym ich sprawdzeniem."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Rachunek ten powinien być uregulowany w terminie dwóch miesięcy od zakończenia miesiąca, którego dotyczy."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Administracje pocztowe mogą uzgodnić między sobą, że rachunek ogólny będzie wystawiany za okresy kwartalne, półroczne lub roczne."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Wszelkiego rodzaju wymiany mają miejsce jedynie za pośrednictwem urzędów wymiany wyznaczonych przez administrację każdego z umawiających się krajów."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1806"
+  },
+  {
+   "type": "ocr",
+   "text": "Regulowanie rachunków. Sposoby i terminy płatności"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Z wyjątkiem specjalnego porozumienia i z zastrzeżeniem postanowień przewidzianych w ustępie 2, saldo rachunku ogólnego lub sumy ogólne rachunków miesięcznych są regulowane w walucie kraju wierzyciela, bez jakiejkolwiek straty dla niego:"
+  },
+  {
+   "type": "ocr",
+   "text": "1.41 albo za pośrednictwem czeków lub weksli płatnych na okaziciela w stolicy lub ośrodku handlowym kraju wierzycielskiego lub za pomocą przelewów pocztowych,"
+  },
+  {
+   "type": "ocr",
+   "text": "1.2 albo przez potrącenie ze stanu rachunku utworzonego przez administrację pocztową dłużniczkę w kraju wierzycielskim."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Koszty płatności (należności, opłaty clearingowe, prowizje, opłaty manipulacyjne itp.) pobrane w kraju dłużniczym, jak też opłaty pobrane przez banki pośredniczące w krajach trzecich, ponosi administracja pocztowa dłużniczka. Opłaty pobrane w kraju wierzycielskim są ponoszone przez administrację pocztową wierzycielską."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Płatności należy dokonać w ciągu piętnastu dni po otrzymaniu rachunku ogólnego lub rachunku miesięcznego, jeżeli rozliczenie odbywa się na podstawie takiego rachunku."
+  },
+  {
+   "type": "ocr",
+   "text": "4. W razie rozbieżności między dwiema administracjami pocztowymi dotyczących wysokości kwoty do zapłacenia, można odroczyć jedynie płatność kwestionowanej części; administracja pocztowa dłużniczka powinna powiadomić administrację pocztową"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "wierzycielkę, w terminie określonym w ustępie 3, o przyczynach zakwestionowania płatności."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Jeżeli przesłany rachunek miesięczny nie dotarł do administracji pocztowej dłużniczki, to ma ona prawo uważać, o ile nie otrzyma od swojego partnera kopii tego rachunku, że kwota wpłaconych zaliczek w miesiącu rozliczeniowym pokrywa jej dług za dany okres i może przerzucić na administrację pocztową wierzycielską ciężar odszkodowań należnych nadawcom za przekazy uznane za wypłacone osobom trzecim."
+  },
+  {
+   "type": "ocr",
+   "text": "6. W razie niezapłacenia w terminach określonych w ustępie 3, należne kwoty podlegają oprocentowaniu, zgodnie z zasadami ustalonymi w artykule RF 1801 ustęp 4."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1807"
+  },
+  {
+   "type": "ocr",
+   "text": "Zaliczki"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Każda administracja pocztowa, której inna administracja pocztowa jest winna sumę przekraczającą 6000 SDR (DTS) miesięcznie, ma prawo zażądać automatycznego wpłacenia zaliczki najpóźniej do piętnastego dnia miesiąca, w którym wystawiono przekazy. Wysokość tej zaliczki oblicza się na podstawie średniej kwoty ostatnich trzech rachunków miesięcznych zaakceptowanych i przyjętych, w zależności:"
+  },
+  {
+   "type": "ocr",
+   "text": "1.1 od ważności rachunku dotyczącego okresu analogicznego w roku ubiegłym,"
+  },
+  {
+   "type": "ocr",
+   "text": "1.2 rozwoju obrotu w roku rozliczeniowym: 6000 SDR (DTS) jest kwotą, poniżej której żadna zaliczka się nie należy i którą to kwotę, w konsekwencji, należy odliczyć od otrzymanej średniej."
+  },
+  {
+   "type": "ocr",
+   "text": "2. W przypadku niezapłacenia we właściwym terminie, stosuje się postanowienia artykułu RF 1806 ustęp 6, chyba że administracja pocztowa dłużniczka może udowodnić, że administracja pocztowa wierzycielska nie przesyła regularnie swoich rachunków w terminie określonym w artykule RF 1803 ustęp 6."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Ustalony w ustępie 1 limit 6000 SDR (DTS) nie dotyczy administracji pocztowej zajmującej się usługą przekazów wyłącznie jako administracja pocztowa przeznaczenia. W takim przypadku, dolną granicę ustala się za obopólnym porozumieniem z pocztową administracją wystawienia."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Administracja pocztowa dłużniczka, która pragnie skorzystać z prawa przewidzianego artykułem RF 1806 ustęp 1, czyli potrącenia ze stanu rachunku utworzonego przez administrację pocztową dłużniczkę w kraju wierzycielskim, a nie otrzymała wcześniej od administracji pocztowej wierzycielskiej żądania wpłacenia zaliczki, określa, w dowolny sposób, kwotę i częstotliwość wpłat, których powinna dokonywać w celu zapewnienia pokrycia wystawionych przez nią dokumentów płatniczych."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Jeżeli ogólna suma wpłat dokonanych z tytułu zaliczki przewyższa kwotę należną właściwej administracji pocztowej za rozpatrywany okres, to różnicę wykazuje się w jednym z następnych rachunków, zgodnie z zaleceniami sformułowanymi przez administrację pocztową dłużniczkę lub, w odpowiednim przypadku, zalicza się ją na dobro rachunku, o którym mowa w artykule RF 1806 ustęp 1.2."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1901"
+  },
+  {
+   "type": "ocr",
+   "text": "Postępowanie z reklamacjami dotyczącymi przekazów"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Każda reklamacja dotycząca przekazu elektronicznego jest rozpatrywana i przesyłana przez sieć elektroniczną."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Każdą reklamację dotyczącą przekazu przesłanego drogą pocztową sporządza na formularzu TFP 6 i przesyła, w zasadzie, urząd wystawienia bezpośrednio do urzędu wypłaty. Reklamacje przesyła się z urzędu i zawsze najszybszą drogą (telefaksem, pocztą elektroniczną, pocztą priorytetową)."
+  },
+  {
+   "type": "ocr",
+   "text": "3. O ile nie przyjęto szczególnego zastrzeżenia w kraju wystawienia, reklamację rozpatruje się natychmiast i przesyła do kraju przeznaczenia najpóźniej trzeciego dnia roboczego po jej wpłynięciu."
+  },
+  {
+   "type": "ocr",
+   "text": "4. W ciągu trzech dni od dnia wpłynięcia reklamacji, administracja pocztowa przeznaczenia przekazu powinna udzielić odpowiedzi wstępnej (lub ostatecznej) o losie reklamowanego przekazu."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Jeżeli urząd wypłaty jest w stanie udzielić ostatecznych informacji o losie przekazu, odsyła formularz, wypełniony zgodnie z wynikami poszukiwań, do urzędu, który otrzymał reklamację. W przypadku gdy poszukiwania nie dały rezultatu lub zakwestionowano wypłatę, formularz wysyła się do administracji pocztowej wystawienia, za pośrednictwem administracji pocztowej przeznaczenia, która załącza, jeśli to możliwe, oświadczenie odbiorcy potwierdzające, że nie otrzymał kwoty przekazu."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Ostateczna odpowiedź pówinna nadejść najpóźniej w ciągu trzydziestu dni roboczych po wpłynięciu reklamacji do kraju przeznaczenia przekazu."
+  },
+  {
+   "type": "ocr",
+   "text": "7. Ostateczne załatwienie reklamacji następuje automatycznie najpóźniej w ciągu piętnastu dni po wygaśnięciu terminu ważności przekazu."
+  },
+  {
+   "type": "ocr",
+   "text": "8. Jeśli reklamacja wynika z błędu administracji pocztowej, osobie reklamującej zwraca się pobrane od niej opłaty za reklamację."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 1902"
+  },
+  {
+   "type": "ocr",
+   "text": "Postępowanie z reklamacjami dotyczącymi przelewów"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Każda reklamacja dotycząca realizacji przelewu jest wysyłana przez wystawcę przelewu do administracji pocztowej, której zlecił dokonanie przelewu."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Każdą reklamację dotyczącą wykonania polecenia przelewu sporządza na formularzu TFP 7 centrum czeków pocztowych zarządzające rachunkiem debetowym i przesyła, w razie potrzeby, za pośrednictwem urzędów wymiany każdego z zaangażowanych krajów do centrum czeków pocztowych zarządzającego rachunkiem kredytowym."
+  },
+  {
+   "type": "ocr",
+   "text": "3. O ile nie przyjęto szczególnego zastrzeżenia w kraju wystawienia, reklamację rozpatruje się natychmiast i przesyła do kraju przeznaczenia najpóźniej trzeciego dnia roboczego po jej wpłynięciu."
+  },
+  {
+   "type": "ocr",
+   "text": "4. W ciągu trzech dni od dnia wpłynięcia reklamacji, administracja pocztowa prowadząca rachunek powinna być w stanie udzielić odpowiedzi wstępnej (lub ostatecznej) o losie reklamowanego przelewu."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "5. Ostateczna odpowiedź powinna nadejść najpóźniej w ciągu dziesięciu dni roboczych po wpłynięciu reklamacji do kraju przeznaczenia."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Jeśli reklamacja wynika z błędu administracji pocztowych, osobie reklamującej zwraca się pobrane od niej opłaty za reklamację."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 2001"
+  },
+  {
+   "type": "ocr",
+   "text": "Określenie odpowiedzialności"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Z zastrzeżeniem postanowień przewidzianych w ustępach od 2 do 5, odpowiedzialność spoczywa na administracji pocztowej wystawienia."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Odpowiedzialność ponosi administracja pocztowa przeznaczenia, jeśli nie jest w stanie udowodnić, że wypłaty dokonano zgodnie z warunkami określonymi w jej przepisach."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Odpowiedzialność spoczywa na administracji pocztowej kraju, w którym powstał błąd:"
+  },
+  {
+   "type": "ocr",
+   "text": "3.1 w przypadku błędu służbowego, w tym błędu w przeliczeniu,"
+  },
+  {
+   "type": "ocr",
+   "text": "3.2 w przypadku błędu w zbieraniu lub przesyłaniu informacji, popełnionego na terenie kraju wystawienia lub kraju przeznaczenia."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Odpowiedzialność spoczywa, w równych częściach, na administracji pocztowej wystawienia i na administracji pocztowej przeznaczenia:"
+  },
+  {
+   "type": "ocr",
+   "text": "4.1 jesli błąd można przypisać obu administracjom pocztowym lub jeśli nie jest możliwe określenie kraju, na terenie którego błąd został popełniony,"
+  },
+  {
+   "type": "ocr",
+   "text": "4.2 _ jeśli błąd w przesyłaniu powstał na terenie kraju pośredniczącego,"
+  },
+  {
+   "type": "ocr",
+   "text": "4.3 _ jeśli nie można określić kraju, na terenie którego popełniono błąd."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Z zastrzeżeniem postanowień ustępu 2, odpowiedzialność spoczywa:"
+  },
+  {
+   "type": "ocr",
+   "text": "51 w przypadku wypłacenia fałszywego dokumentu płatniczego (przekazu lub przelewu) na administracji pocztowej kraju, na terytorium którego fałszywy dokument został wprowadzony do służby,"
+  },
+  {
+   "type": "ocr",
+   "text": "5.2 w przypadku wypłacenia dokumentu płatniczego (przekazu lub przelewu), którego kwota została fałszywie zawyżona, na administracji pocztowej kraju, w którym dokument został sfałszowany; jednak ciężar jest ponoszony w różnych częściach przez administrację pocztową wystawienia i administrację pocztową przeznaczenia, jeśli nie można wskazać kraju, w którym dokonano fałszerstwa lub jeśli nie można uzyskać odszkodowania za fałszerstwo dokonane na terenie kraju pośredniczącego, nieuczestniczacego w usłudze przesyłania pieniędzy na podstawie Porozumienia."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 2002 Wypłata należnych kwot. Zwrot kwot"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Obowiązek uwzgłędnienia roszczeń osoby reklamującej spoczywa na administracji pocztowej, której zgłoszono reklamację."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Administracja pocztowa, która uwzględniła roszczenia osoby reklamującej, ma prawo domagać się zwrotu kwoty od odpowiedzialnej administracji pocztowej."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Administracja pocztowa, która ostatecznie pokryła szkodę, ma prawo do zwrotu, do wysokości wypłaconej kwoty, od osoby, która skorzystała w wyniku błędu."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 2003 Termin wypłaty"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Wypłaty należnych kwot osobie reklamującej powinno dokonać się niezwłocznie po ustaleniu odpowiedzialności służby, w terminie nieprzekraczającym trzech miesięcy, licząc od następnego dnia po dniu złożenia reklamacji."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Jeśli administracja pocztowa uznana za odpowiedzialną, prawidłowo powiadomiona, w ciągu dwóch miesięcy nie załatwiła ostatecznie reklamacji, administracja pocztowa, której zgłoszono reklamację, ma prawo uwzględnić roszczenia osoby reklamującej na rachunek innej administracji pocztowej."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 2004 Wynagradzanie administracji pocztowej pośredniczącej/interweniującej. Odsetki za zwłokę"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Odpowiedzialna administracja pocztowa jest zobowiązana do uwzględnienia roszczeń administracji pocztowej, która wypłaciła kwotę osobie reklamującej, w terminie dwóch miesięcy, licząc od dnia wysłania zawiadomienia o wypłacie."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Po upływie tego terminu, kwota należna administracji pocztowej, która wypłaciła pieniądze osobie reklamującej, podlega oprocentowaniu za zwłokę ustalonemu w artykule RF 1801 ustęp 4."
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział V Sieć elektroniczna Światowego Związku Pocztowego"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział VI Postanowienia różne"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rozdział VII Postanowienia końcowe"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 2201 Postanowienia końcowe"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Stosowanie Regulaminów Konwencji: 1.1 Do pocztowych usług finansowanych mają zastosowanie we wszystkim, co nie zostało wyraźnie określone przez niniejszy Regułamin, postanowienia Regulaminów Konwencji."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Szczególnie w przypadku Regulaminu poczty listowej postanowienia artykułu RL 111, dotyczące stosowania zwolnienia z opłat pocztowych dla organów zajmujących się jeńcami wojennymi i internowanymi osobami cywilnymi, mają zastosowanie również do płatniczych usług pocztowych."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF 2202 Wejście w życie i okres obowiązywania Regulaminu"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Niniejszy Regulamin nabierze mocy wykonawczej z dniem wejścia w życie Porozumienia dotyczącego pocztowych usług płatniczych."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Będzie obowiązywał przez ten sam okres co Porozumienie, chyba że Rada Eksploatacji Pocztowej (Rada do spraw Operacji Pocztowych) zdecyduje inaczej."
+  },
+  {
+   "type": "ocr",
+   "text": "Sporządzono w Bernie, dnia 28 stycznia 2005 roku."
+  },
+  {
+   "type": "ocr",
+   "text": "W imieniu Rady Eksploatacji Pocztowej (Rady do spraw Operacji Pocztowych) podpisali: Przewodniczący Sekretarz Generalny"
+  },
+  {
+   "type": "ocr",
+   "text": "/ / / a / James P. WADE Eduard DAYAN"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Protokół końcowy Regulaminu Porozumienia dotyczącego pocztowych usług płatniczych"
+  },
+  {
+   "type": "ocr",
+   "text": "Z chwilą przystąpienia do zatwierdzania Regulaminu Porozumienia dotyczącego pocztowych usług płatniczych, zawartego dnia z poniżą datą Rada Eksploatacji Pocztowej (Rada do spraw Operacji Pocztowych) postanawia, co następuje:"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF I ( istniejące zastrzeżenia) Zaliczki"
+  },
+  {
+   "type": "ocr",
+   "text": "1. W celu zapewnienia normalnego wypłacania pieniędzy odbiorcom w swoim kraju, administracja pocztowa Wietnamu prosi, aby wszystkie kraje stosujące z nią wymianę przekazów pocztowych dokonywały automatycznie wpłat zaliczek, bez oczekiwania na wszczęcie procedur opisanych w artykule RF 1807 ustęp 1°."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł RF II Poziom jakości usługi w kraju nadania i zobowiązania wysyłającej administracji pocztowej"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Administracja pocztowa Tajlandii jest upoważniona do niestosowania postanowień artykułu RF 501 ustęp 1 dotyczącego zobowiązań wysyłającej administracji pocztowej."
+  },
+  {
+   "type": "ocr",
+   "text": "Niniejszy protokół będzie miał taką samą moc i taką samą ważność, jak gdyby jego postanowienia stanowiły część tekstu Regulaminu, do którego się odnosi."
+  },
+  {
+   "type": "ocr",
+   "text": "Sporządzono w Bernie, dnia 28 stycznia 2005 roku."
+  },
+  {
+   "type": "ocr",
+   "text": "W imieniu Rady Eksploatacji Pocztowej (Rady do spraw Operacji Pocztowych) podpisali: Przewodniczący Sekretarz Generalny / / / / James P. WADE Eduard DAYAN"
+  },
+  {
+   "type": "ocr",
+   "text": "1 Dotyczy istniejącego zastrzeżenia odnoszącego się początkowo do artykułu RE 1008 ustęp 1. W nowym Regulaminie artykuł ten stał się artykułem RF 1807 ustęp 1."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Règlement de l’Arrangement concernant les services de paiement de la poste"
+  },
+  {
+   "type": "ocr",
+   "text": "Table des matières"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre I"
+  },
+  {
+   "type": "ocr",
+   "text": "Dispositions préliminaires"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre IT"
+  },
+  {
+   "type": "ocr",
+   "text": "Mandat de poste"
+  },
+  {
+   "type": "ocr",
+   "text": "Art. RF 201 Formules RF 301 Etablissement des mandats de poste RF 302 Mentions interdites ou autorisées RF 303 Indication du montant RF 304 Recommandation RF 305 Récépissé RF 306 Retrait REF 501 Niveau de qualité de service dans le pays d'émission et obligations de l'administration postale expéditrice RF 601 Autres réseaux électroniques RF 602 Transmission par voie postale RF 701 Paiement des mandats RF 702 Délai de validité RF 703 Endossement RF 704 Mandats impayés RF 705 Remplacement des mandats égarés, perdus ou détruits avant paiement RF 706 Remplacement des mandats égarés, perdus ou détruits après paiement RF 707 Traitement des mandats irréguliers RF 708 Mandats prescrits RF 801 Modalités de la rémunération de l’administration postale de destination"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Poz"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 901"
+  },
+  {
+   "type": "ocr",
+   "text": "Niveau de qualité de service dans le pays de destination et obligations de l’administration postale de destination"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre II"
+  },
+  {
+   "type": "ocr",
+   "text": "Virement postal"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 1001 RF 1101 RF 1201 RF 1301"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 1401 RF 1501 RF 1701"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 1702 RF 1703 RF 1704"
+  },
+  {
+   "type": "ocr",
+   "text": "Formules Etablissement des virements Frais à l’arrivée Niveau de qualité de service dans le pays d’origine et obligations de l’administration postale d'expédition Listes des virements transmis par la poste aux lettres Débit des virements du compte courant de liaison Niveau de qualité de service dans le pays de destination et obligations de l’administration postale de destination Non-exécution d’un virement Vérification des envois et traitement des irrégularités des virements Retrait d’un virement"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre IV"
+  },
+  {
+   "type": "ocr",
+   "text": "Comptes de liaison, comptes mensuels, réclamations, responsabilité"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 1801 RF 1802 RF 1803"
+  },
+  {
+   "type": "ocr",
+   "text": "RF 1804 RF 1805 RF 1806 RF 1807 RF 1901 RF 1902 RF 2001 RF 2002 RF 2003 RF 2004"
+  },
+  {
+   "type": "ocr",
+   "text": "Compte de liaison Fonctionnement du compte de liaison Etablissement des comptes mensuels pour les mandats transmis par la poste aux lettres Etablissement des comptes mensuels pour les mandats électroniques Etablissement du compte général Réglement des comptes. Modes et délais de paiement Acomptes Traitement des réclamations concernant les mandats Traitement des réclamations concernant les virements Détermination de la responsabilité Paiement des sommes dues. Recours Délai de paiement Remboursement à l’administration postale intervenante. Intérêts moratoires"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre V"
+  },
+  {
+   "type": "ocr",
+   "text": "Réseau électronique de l’'UPU"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre VI Dispositions diverses"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre VII Dispositions finales RF 2201 Dispositions finales RF 2202 Mise à exécution et durée du Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Protocole final du Règlement de l’Arrangement concernant les services de paiement de la poste RFI (réserve existante) Acomptes RFII Niveau de qualité des services dans le pays d'origine et obligations de l'administration postale expéditrice"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Liste des formules"
+  },
+  {
+   "type": "ocr",
+   "text": "Numéro Dénomination ou nature de la formule Référence"
+  },
+  {
+   "type": "ocr",
+   "text": "TFP 1 Mandat de poste/de versement international RF 201.1 TFP 2 Avis de virement RF 1001.1 TFP 3 Mandat de remboursement international RF 201.2 TFP 6 Réclamation/ Demande de retrait RF 1901.2 TEP 7 Réclamation ou demande d'annulation - Ordre de virement RF 1704.3 TFP 8 Réclamation — Montant d'un remboursement non parvenu au bénéficiaire SFP 1 Demande de régularisation d'un mandat de poste/de versement/ RF 707.2 de remboursement international SFP 2 Liste récapitulative des mandats de poste/de versement/ RF 1803.2 de remboursement internationaux SFP 3 Compte mensuel des mandats de poste/de versement/ RF 1803.1 de remboursement internationaux SFP 4 Compte général des mandats de poste/de versement/ RF 1805.1 de remboursement internationaux SFP 5 Liste de virements RF 1401.2 SFP 6 Lettre d'envoi RF 1401.3 SFP 7 Liste de régularisation RF 1702.2"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Règlement de l’Arrangement concernant les services de paiement de la poste"
+  },
+  {
+   "type": "ocr",
+   "text": "Le Conseil d'exploitation postale, vu l’articie 22.5 de la Constitution de l’Union postale universelle conclue à Vienne le 10 juillet 1964, a arrêté les mesures suivantes pour assurer l’exécution de l’Arrangement concernant les services de paiement de la poste. Ces mesures s'appliquent aussi bien aux paiements transmis par la poste aux lettres ainsi qu’à ceux acheminés par des moyens électroniques ou tout autre moyen convenu bilatéralement."
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre I Dispositions préliminaires"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre Il Mandat de poste"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 201 Formules"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les mandats ordinaires et de versement envoyés par courrier sont établis sur une formule conforme au modèle TFP 1."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Les mandats de remboursement sont établis sur une formule conforme au modèle TFP 3."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Pour l'émission et le paiement des mandats électroniques, il est possible d'utiliser d’autres formules."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 301 Etablissement des mandats de poste"
+  },
+  {
+   "type": "ocr",
+   "text": "1. L'adresse des mandats doit être libelilée de façon à déterminer nettement le bénéficiaire: les adresses abrégées ne sont pas admises."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Dans le cas des mandats de versement, le numéro de compte du bénéficiaire et le nom du centre de chèques postaux doivent être indiqués dans les champs prévus à cet effet."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "3. Les mandats électroniques sont établis conformément à la réglementation technique du réseau électronique par lequel ils doivent être transmis."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Les mandats transmis par la poste aux lettres sont libellés en caractères latins et en chiffres arabes, sans rature ni surcharge, même approuvée. Les inscriptions sont faites à la main, si possible en caractères d'imprimerie, ou à la machine. Les inscriptions au crayon ne sont pas admissibles."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Lorsque les mandats sont établis selon un procédé mécanographique, la signature manuscrite de l’agent ou l’apposition d’un indicatif chiffré pouvant la remplacer ne sont pas obligatoires."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 302 Mentions interdites ou autorisées"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les mandats de service doivent porter la mention «Service des postes» ou une mention analogue."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Les mandats peuvent comporter une communication particulière destinée au bénéficiaire."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Il est interdit de consigner sur les mandats d’autres mentions que celles que comporte la contexture des formules, à l'exception des indications de service."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 303 Indication du montant"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le montant des mandats est indiqué en chiffres, avec l’abréviation du nom de l’unité monétaire conforme à la norme internationale ISO 4217. Les fractions de l’unité monétaire sont exprimées au moyen de deux (ou trois) chiffres, y compris les zéros, correspondant respectivement aux dixièmes, centièmes (et millièmes)."
+  },
+  {
+   "type": "ocr",
+   "text": "2. S'agissant des mandats transmis par la poste aux lettres, le montant et le nom de l'unité monétaire doivent aussi être indiqués en toutes lettres dans la langue convenue bilatéralement. Le montant en lettres peut être exprimé chiffre par chiffre écrits isolément et le nom de l'unité monétaire indiqué en abrégé conformément à la norme internationale ISO 4217. Dans ia somme en lettres, où la répétition des fractions n'est pas obligatoire, elles peuvent être exprimées en chiffres, à la suite du libellé du nombre d'unités monétaires."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 304 Recommandation"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les administrations postales peuvent s'entendre sur les cas dans lesquels les mandats sont envoyés par courrier recommandé."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 305 Récépissé"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Un récépissé peut être délivré à l'expéditeur. I] doit être gratuit."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 306 Retrait"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Si le mandat n'a pas encore été payé ou que son bénéficiaire n’a pas encore été avisé de son arrivée, il peut être retiré du service."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Toute demande de retrait de mandat électronique est établie conformément à la réglementation technique du réseau électronique par lequel le mandat a été transmis."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Toute demande de retrait d'un mandat, envoyée par courrier ou par télécopie, est établic sur une formule conforme au modèle TFP 6."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 501 Niveau de qualité de service dans le pays d’émission et obligations de l’administration postale expéditrice"
+  },
+  {
+   "type": "ocr",
+   "text": "1. À moins qu'une réserve spéciale n'ait été faite, le mandat doit quitter le territoire du pays d'émission, par courrier prioritaire ou par moyen électronique, au plus tard deux jours ouvrables après son dépôt au bureau de poste."
+  },
+  {
+   "type": "ocr",
+   "text": "2. L'administration postale doit se conformer à la législation nationale concernant le blanchiment d'argent et la lutte contre la criminalité financière."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 601 Autres réseaux électroniques"
+  },
+  {
+   "type": "ocr",
+   "text": "1. L'acheminement des mandats échangés par voie électronique se fait conformément aux spécifications techniques des systèmes ct réseaux utilisés."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 602 Transmission par voie postale"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les mandats sont transmis par le moyen le plus rapide (courrier prioritaire) et, sauf entente spéciale, à découvert. Ils sont insérés dans les dépêches de la manière prescrite à Varticle RL 177.1 du Règlement de la poste aux lettres."
+  },
+  {
+   "type": "ocr",
+   "text": "2. L'article RL 174 du Règlement de la poste aux lettres s’applique à la transmission des mandats recommandés."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 701 Paiement des mandats"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le montant des mandats est payé au bénéficiaire en monnaie légale du pays de destination; il peut être payé en toute autre monnaie suivant accord particulier entre les administrations postales correspondantes."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Après en avoir avisé les administrations postales intéressées, l'administration postale de destination peut, si sa législation l'exige, soit négliger les fractions de l’unité monétaire, soit arrondir la somme à l'unité monétaire la plus voisine ou au dixième d’unité le plus voisin."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Le paiement peut être valablement effectué par le versement à un compte courant postal, selon les règles en vigueur dans l’administration postale de destination."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "4, Lorsqu’un expéditeur a fait émettre le même jour, au profit du même bénéficiaire, plusicurs mandats dont le paiement total excède le maximum accepté par l’administration postale de destination, celui-ci est autorisé à échelonner le paiement des titres de façon que la somme payée au bénéficiaire, pour une même journée, n'excède pas ce maximum."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Le paiement des mandats électroniques doit être effectué après consultation de la base de données nationale."
+  },
+  {
+   "type": "ocr",
+   "text": "6. L'information concernant le paiement des mandats doit être remontée à l'administration postale émettrice."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 702 Délai de validité"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Aucune extension du délai de validité indiqué à l’article 7 de l’Arrangement n’est autorisée."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 703 Endossement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Tout pays a le droit de déclarer transmissible par voie d’endossement, sur son territoire, la propriété des mandats provenant d'un autre pays."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 704 Mandats impayés"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Tout mandat refusé ou tout mandat dont le bénéficiaire est inconnu ou parti sans laisser d'adresse est renvoyé immédiatement à l’administration postale d'émission."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Le réacheminement des mandats vers un autre pays n’est pas autorisé."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Tout mandat dont le paiement n’a pas été réclamé durant le délai de validité est renvoyé immédiatement après l'expiration de ce délai."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Tout mandat impayé pour une cause quelconque est remboursé à l'expéditeur."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Les mandats transmis par la poste aux lettres qui n’ont pas pu être payés aux bénéficiaires pour une cause quelconque sont renvoyés directement au bureau d'émission; préalablement, le bureau de paiement les enregistre, les frappe du timbre ou les munit de l'étiquette dont l'usage est prescrit à l’article RL 146.8.2."
+  },
+  {
+   "type": "ocr",
+   "text": "6. S'agissant des mandats électroniques, l'information de non-paiement doit être remontée à l'administration postale émettrice."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 705 Remplacement des mandats égarés, perdus ou détruits avant paiement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le traitement des mandats électroniques non parvenus à destination s'effectue selon la réglementation du système utilisé."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "2. Tout mandat TFP 1 égaré, perdu ou détruit avant paiement peut être remplacé, à la demande de l'expéditeur ou du bénéficiaire, par un nouveau mandat émanant de l'administration postale d'émission. Sauf accord bilatéral particulier, l'établissement d’un duplicata d’un mandat portant les mêmes références que l'original n'est pas autorisé."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Avant de remplacer un mandat égaré, perdu ou détruit avant paiement, l'administration postale d'émission doit s'assurer, en accord avec ladministration postale de destination, que le mandat original n’a été ni payé ni remboursé; toutes les précautions doivent également être prises pour qu'il ne soit pas payé ultérieurement."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Lorsque l’administration postale de destination déclare qu’un mandat ne lui est pas parvenu, l'administration postale d'émission peut remplacer ledit mandat par un nouveau, à condition que le mandat litigieux ne figure dans aucun des comptes mensuels se rapportant à la période de validité du mandat; toutefois, si aucune réponse n’a été obtenue de l'administration postale de destination dans le délai de deux mois à compter du jour de la réclamation, conformément à l’article 21 de la Convention, pour le désintéressement financier du réclamant et si le titre ne figure sur aucun des comptes mensuels reçus à l'expiration de ce délai, l’administration postale d'émission est autorisée à procéder au remboursement des fonds; notification en est adressée, sous pli recommandé, à l'administration postale de destination, et le mandat, considéré désormais comme définitivement perdu, ne peut être ultérieurement porté en compte."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 706 Remplacement des mandats égarés, perdus ou détruits après paiement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Tout mandat TFP 1 égaré, perdu ou détruit après paiement peut être remplacé par l'administration postale de destination par un nouveau titre établi sur une formule TFP 1. Cette formule doit porter toutes les indications utiles du titre original et être revêtue de la mention «Titre établi en remplacement d’un mandat égaré (perdu ou détruit) après paiement» ainsi que d’une empreinte du timbre à date."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Une déclaration du bénéficiaire attestant qu'il a reçu les fonds doit être donnée de préférence au verso du titre de remplacement. Exceptionnellement, cette déclaration peut être recueillie sur une fiche annexée à ce titre comme pièce à lappui; cette déclaration tient lieu d’acquit primitif."
+  },
+  {
+   "type": "ocr",
+   "text": "3, S'il n’est pas possible de demander cette déclaration au bénéficiaire, une annotation est faite d'office au verso du titre de remplacement ou sur une pièce à Vappui particulière, précisant que le montant du mandat a été effectivement payé."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 707 Traitement des mandats irréguliers"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les mandats électroniques irréguliers sont automatiquement détectés et rejetés par le système, au niveau de l'administration postale d'expédition ou au niveau de l'administration postale de réception."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Tout mandat transmis par la poste aux lettres qui présente l’une des irrégularités suivantes est renvoyé au bureau d'émission par courrier prioritaire et sous enveloppe, accompagné dune formule conforme au modèle SFP |, pour être régularisé:"
+  },
+  {
+   "type": "ocr",
+   "text": "2.1 indication inexacte, insuffisante, douteuse ou omission du nom ou du domicile du bénéficiaire, indication du numéro de compte courant postal manquante ou erronée:"
+  },
+  {
+   "type": "ocr",
+   "text": "2.2 différence ou omission de sommes;"
+  },
+  {
+   "type": "ocr",
+   "text": "2.3 dépassement du montant maximal convenu entre les administrations postales intéressées;"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de patement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "2.4 ratures ou surcharges dans les inscriptions, 2.5 omission de timbre ou de signature sur les mandats non établis selon un procédé mécanographique ou d’autres indications de service; 2.6 indication du montant à payer dans une monnaie autre que celle qui est admise ou omission de la désignation de l’unité monétaire; 2.7 erreur évidente dans le rapport entre la monnaie du pays d'émission et celle du pays de destination, rapport que le bureau de paiement n'est cependant pas tenu de vérifier; 2.8 emploi d’une formule non réglementaire; 2.9 absence de la recommandation d'office lorsque cette disposition a été prévue en application de l’article RF 304."
+  },
+  {
+   "type": "ocr",
+   "text": "3. L'administration postale de destination peut, sous sa responsabilité, rectifier d'office des erreurs sans gravité. Ces rectifications sont inscrites en rouge et signées par le préposé."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 708 Mandats prescrits"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les sommes déposées pour l'émission des mandats qui n’ont pas été réclamées avant prescription sont définitivement acquises à l'administration postale du pays d'émission. Le délai de prescription est fixé par la législation dudit pays."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 801 Modalités de la rémunération de l'administration postale de destination"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Pour chaque mandat payé, l'administration postale d'émission attribue à l'administration postale de destination une rémunération de 2 DTS. D'autres modalités ou taux de rémunération peuvent être fixés bilatéralement. Le montant total de la rémunération, calculé sur la base de la valeur annuelle moyenne du DTS, publiée par le Bureau international de PUPU, est perçu par le biais d’un compte mensuel."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 901 Niveau de qualité de service dans le pays de destination et obligations de l'administration postale de destination"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les mandats arrivants sont immédiatement acheminés vers le bureau d'échange des mandats ou le bureau de poste de paiement, s’ils ne nécessitent aucun traitement intermédiaire."
+  },
+  {
+   "type": "ocr",
+   "text": "2. A moins qu’une réserve spéciale n'ait été faite, il ne doit pas s’écouler plus de quatre jours ouvrables entre l’arrivée d’un mandat dans le pays de destination et la mise en paiement ou l'expédition d’un avis d'arrivée au bénéficiaire."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Les mandats qui ne peuvent pas être payés, qui ne sont pas réclamés ou dont la validité est échue sont immédiatement renvoyés au bureau d'émission annotés des motifs de non-paiement."
+  },
+  {
+   "type": "ocr",
+   "text": "4. L'institution de réception doit se conformer à la législation nationale concernant le blanchiment d’argent et la lutte contre la criminalité financière."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Réglement"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre II"
+  },
+  {
+   "type": "ocr",
+   "text": "Virement postal"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1001 Formules"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les virements à transmettre par la poste aux lettres sont établis sur une formule conforme au modèle TFP 2."
+  },
+  {
+   "type": "ocr",
+   "text": "2. A la place de la formule TFP 2, il est possible d'utiliser des formules de service interne ou des formules nationales conformes aux usages bancaires."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Pour les virements électroniques, il est possible d'utiliser d’autres formules."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1101 Etablissement des virements"
+  },
+  {
+   "type": "ocr",
+   "text": "1. L'ordre de virement doit contenir: 1.1 le nom et le numéro du compte de l'expéditeur, 1.2 le nom et le numéro du compte du bénéficiaire; 1.3 le montant dans la monnaie convenue entre les administrations postales d'émission et de réception, précédé par l’abréviation de l’unité monétaire selon la norme internationale ISO 4217."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Une partie spécifique de l'ordre de virement peut être utilisée pour la transmission d’un message personnel au bénéficiaire."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Lorsque le tireur a indiqué le montant du virement en monnaie du pays d'origine, le bureau d'échange qui reçoit l’ordre de virement — ou le centre des chèques postaux — opère la conversion en la monnaie convenue entre les administrations postales d'émission et de réception."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Les virements électroniques sont établis conformément aux spécifications techniques du réseau électronique par lequel ils doivent être acheminés."
+  },
+  {
+   "type": "ocr",
+   "text": "5. S'agissant des virements transmis par la poste aux lettres, les inscriptions sont faites en caractères latins et en chiffres arabes, sans rature ni surcharge, même approuvée. Elles sont de préférence dactylographiées ou manuscrites en caractères d'imprimerie si possible. Les inscriptions au crayon ne sont pas admissibles."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Les avis de virement sont revétus de l'empreinte du timbre à date du centre de cheques d'origine."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1201 Frais à l’arrivée"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les frais dans le pays de destination doivent être assumés par le bénéficiaire du virement à moins que des directives nationales ou régionales ou des accords bilatéraux n’en disposent autrement."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 35 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1301 Niveau de qualité de service dans le pays d’origine et obligations de ladministration postale d'expédition"
+  },
+  {
+   "type": "ocr",
+   "text": "1. A moins qu'une réserve spéciale n'ait été faite, le virement doit quitter le territoire du pays d'origine par courrier prioritaire ou par moyen électronique, au plus tard deux jours ouvrables après l’arrivée de l’ordre de virement au centre de chèques postaux."
+  },
+  {
+   "type": "ocr",
+   "text": "2. L'administration postale d'expédition doit se conformer à la législation nationale concernant le blanchiment d’argent et la lutte contre la criminalité financière."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1401 Listes des virements transmis par la poste aux lettres"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les virements TFP 2 sont notifiés par l’administration postale d'émission à Vadministration postale de destination au moyen de listes."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Les listes de virements sont établies par les bureaux d'échange sur des formules conformes au modèle SFP 5. Les administrations postales peuvent convenir que la colonne 3 de la formule ne doit pas être remplie. Chaque liste est frappée d’une empreinte du timbre du bureau qui Va établie."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Le total de chacune des listes destinées à un même bureau d'échange est reporté sur une lettre d’envoi établie en double exemplaire conforme au modèle SFP 6, dont le total général est arrêté en toutes lettres ou imprimé en chiffres."
+  },
+  {
+   "type": "ocr",
+   "text": "4, Le numéro d'inscription sur la lettre d’envoi est reporté sur chaque liste de virements."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Les lettres d’envoi sont frappées d’une empreinte du timbre du bureau qui les a établies et signées par le ou les fonctionnaires accrédités a cet effet. Chacune de ces lettres reçoit un numéro d’ordre dont la série se renouvelle chaque mois pour chacun des bureaux d’échange de destination."
+  },
+  {
+   "type": "ocr",
+   "text": "6. La lettre d’envoi est expédiée en double exemplaire."
+  },
+  {
+   "type": "ocr",
+   "text": "7. Les lettres d’envoi, les listes et les avis de virement sont réunis et expédiés une fois par jour ouvrable en franchise de port au bureau d'échange destinataire par la voie la plus rapide. Ces envois peuvent être recommandés."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1501 Débit des virements du compte courant de liaison"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Après vérification des listes SFP 5 et de la lettre d'envoi SFP 6, le montant total des ordres reçus cst porté immédiatement au débit du compte courant de liaison ouvert au nom de l'administration postale d'émission."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Un exemplaire de la lettre d’envoi SFP 6, revêtu d’une empreinte du timbre a date du service de chèques postaux destinataire, est joint à l'extrait de compte journalier, qui est adressé le jour même de l’opération à l’administration postale titulaire du compte courant de liaison débité."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1701 Niveau de qualité de service dans le pays de destination et obligations de l’administration postale de destination"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les virements arrivants sont crédités sur le compte du bénéficiaire immédiatement ou au plus tard le jour ouvrable suivant leur arrivée."
+  },
+  {
+   "type": "ocr",
+   "text": "2. A moins qu'une réserve spéciale n'ait été faite, en cas de transmission électronique, il ne doit pas s’écouler plus de quatre jours ouvrables entre le débit du compte de l'expéditeur et lc crédit du compte du bénéficiaire."
+  },
+  {
+   "type": "ocr",
+   "text": "3. L'administration postale de réception doit se conformer à la législation nationale concernant le blanchiment d'argent et la lutte contre la criminalité financière."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1702 Non-exécution d’un virement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le montant de tout virement qui, pour une cause quelconque, n’a pu être porté au crédit du compte du bénéficiaire est reporté au crédit du compte du tireur."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Lorsque, pour une cause quelconque, un virement ne peut être porté au crédit du compte du bénéficiaire, il est décrit sur une formule SFP 7, à laquelle est joint, le cas échéant, l’avis de virement correspondant. La formule SFP 7 peut éventuellement recevoir la description de plusieurs virements inexécutés."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Les virements rejetés sont inscrits sur la formule SFP 7 pour leur montant exprimé dans la monnaie du pays de première destination, tel qu’il a été calculé par l'administration postale d'émission du virement."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Le montant total de la formule SFP 7 est porté au crédit du compte courant postal de liaison ouvert au nom de l’administration postale d'émission des virements rejetés."
+  },
+  {
+   "type": "ocr",
+   "text": "9. La formule SFP 7 et les avis de virement qui y sont annexés sont joints à l'extrait de compte journalier accompagnant la lettre d'envoi SFP 6, qui est adressée le jour même de l'opération à administration dont le compte courant postal de liaison est débité."
+  },
+  {
+   "type": "ocr",
+   "text": "6. S'agissant des virements électroniques, l'information concernant la non-exccution doit être remontée à l’administration postale émettrice."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1703 Vérification des envois et traitement des irrégularités des virements"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Les virements électroniques irréguliers sont automatiquement détectés et rejetés par le système, au niveau de l’administration postale d'expédition ou au niveau de Vadministration postale de réception."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Dès réception des paquets contenant les lettres d’envoi, les listes et les avis de virement, transmis par la poste aux lettres, le bureau d'échange destinataire procède à la vérification de l'envoi. S'il constate des irrégularités ou des omissions, il en informe immédiatement, par télécopie ou par courrier électronique, le bureau d'échange expéditeur, qui doit répondre par la même voie ct, le cas échéant, faire parvenir les pièces manquantes par la voie la plus rapide (courrier prioritaire). En cas d’impossibilité d'utiliser la télécopie ou le courrier électronique, Féchangc d'informations est effectué par liste de régularisation conforme au modèle SFP 7."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Rèciement"
+  },
+  {
+   "type": "ocr",
+   "text": "3. Si l’irrégularité porte sur une différence de sommes entre l’avis de virement et la liste de virements, le bureau d'échange destinataire est autorisé a donner suite au virement pour la somme la plus faible; selon le cas, l'avis de virement ou la liste de virements et la lettre d’envoi sont rectifiés en conséquence, à l'encre rouge, et avis de la rectification est donné au bureau d'échange correspondant par lettre SFP 7 conforme au modèle."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1704 Retrait d’un virement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Si un virement n'a pas encore été porté au crédit du compte du bénéficiaire, il peut être retiré du service."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Toute demande de retrait de virement électronique est établie conformément à la réglementation technique du réseau électronique par lequel le virement a été transmis."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Toute demande de retrait d’un virement, transmise par courrier ou par télécopie, est établie sur une formule conforme au modèle TFP 7."
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre IV"
+  },
+  {
+   "type": "ocr",
+   "text": "Comptes de liaison, comptes mensuels, réclamations, responsabilité"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1801 Compte de liaison"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Chaque administration postale d’émission maintient un avoir suffisant sur le compte courant postal de liaison ouvert à son nom auprès de l’administration postale de destination pour permettre le débit des sommes dues 4 ce dernier. Les administrations postales d’émission et de destination s’entendent bilatéralement sur la manière d’échanger les informations relatives aux débits et aux crédits."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Cet avoir ne peut en aucun cas recevoir une affectation autre que celles prévues à l’article 17.2.1 de ’Arrangement sans le consentement de l’administration postale qui l’a constitué. Si cet avoir est insuffisant pour couvrir les ordres donnés, les virements et les paiements sont néanmoins exécutés, sous réserve des dispositions sous 3 et 4."
+  },
+  {
+   "type": "ocr",
+   "text": "3. L'administration postale titulaire de la créance a le droit d’exiger en tout temps le paiement des sommes dues; éventuellement, il fixe la date à laquelle le paiement devra être effectué, en tenant compte des délais de transfert."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Lorsqu'un découvert est constaté sur un compte de liaison, l'administration postale titulaire de la créance est en droit d'appliquer un intérêt annuel de 1% par an au-dessus du taux d'intérêt interbancaire des prêts à un mois dans le pays créancier. S'il n'existe pas de taux interbancaire, l'administration postale qui tient le compte a le droit de facturer des intérêts de découvert selon les pratiques commerciales de la banque qui tient le compte. Lorsque plusicurs comptes de liaison sont ouverts au nom d’une même administration postale, le calcul des intérêts doit être convenu bilatéralement. Le montant de ces intérêts est prélevé sur le ou les comptes de liaison de l’administration postale selon accord."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Des informations concernant le calcul et la politique de facturation des intérêts sont échangées bilatéralement."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "6. Lorsque le compte est à découvert plus de quinze jours durant une période de trente jours consécutifs, l'administration postale titulaire de la créance peut suspendre le service huit jours après l'envoi d’un préavis transmis par la voie des télécommunications."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1802 Fonctionnement du compte de liaison"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Sont portés notamment au crédit du compte courant postal de liaison du pays d'émission des transferts de fonds:"
+  },
+  {
+   "type": "ocr",
+   "text": "1.1 les sommes transférées pour constituer ou alimenter un avoir; les transferts correspondants sont opérés soit au moyen de chèques bancaires ou de traites payables à vue sur la capitale ou sur une place commerciale du pays créancier, soit par un virement sur un établissement bancaire de cette capitale ou de cette place; 1.2 les transferts de fonds qui n'ont pu être exécutés."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Les administrations postales conviennent bilatéralement de toutes les opérations qui sont portées au débit des comptes de liaison."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Les frais éventuels sont supportés par l'administration postale au nom de laquelle il est ouvert, à l'exception des frais de tenue de compte."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1803 Etablissement des comptes mensuels pour les mandats transmis par la poste aux lettres"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Pour l'établissement des comptes mensuels visés à l’article 18.3 de VArrangement {compte mensuel conforme au modèle SFP 3 pour les mandats), la récapitulation est faite en respectant: 1.1 l’ordre chronologique des mois d'émission; 1.2 l’ordre alphabétique ou numérique des bureaux d'émission, selon ce qui a été convenu; 1.3 pour chaque bureau d'émission, l’ordre numérique des mandats."
+  },
+  {
+   "type": "ocr",
+   "text": "2. En cas de besoin, les mandats payés sont récapitulés sur une liste spéciale conforme au modéle SFP 2, qui est jointe au compte mensuel établi, dans ce cas, sur une formule conforme au modèle SFP 3."
+  },
+  {
+   "type": "ocr",
+   "text": "3. L'administration postale de destination inscrit également sur ce compte: 3.1 le montant des rémunérations qui lui reviennent en vertu de l’article 8 de l’Arrangement; 3.2 le cas échéant, le montant des remboursements et des intérêts visés aux articles RF 1801.4, RF 1806.6 et RF 2004.2."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Les piéces établies en remplacement des mandats perdus aprés paiement sont traitces comme des mandats et décrites sur le compte SFP 3 ou, éventuellement, sur la liste SFP 2, dans les mémes conditions que s’il s’agissait des titres eux-mémes."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Lorsque les parties en présence ont convenu d’adopter le règlement de leurs comptes par compensation et que leurs mandats respectifs ont été payés dans des monnaies différentes, la créance la plus faible est convertie en la monnaie de la créance la plus forte, en prenant pour base de la conversion le cours moyen officiel du change dans le pays de l'administration postale débitrice pendant la période à laquelle le compte se rapporte; ce cours moyen doit être calcule uniformément à quatre décimales."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 39 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "6. Le compte mensuel est transmis à l'administration postale débitrice, au plus tard avant la fin du mois qui suit celui auquel il se rapporte, accompagné des pièces à l'appui (mandats quittancés), classées dans le même ordre que sur la liste récapitulative SFP 2. Lorsque, pour un motif quelconque, le compte mensuel ne peut pas être transmis en temps opportun, l'administration postale débitrice doit être informée, dans les huit jours qui suivent l'expiration du délai précité, de la date d'envoi présumée du compte dont il s’agit. L'information doit être transmise par télécopie. Les administrations postales s'efforcent, en tout état de cause, de faire parvenir ce document avant la fin du deuxième mois qui suit celui auquel il se rapporte."
+  },
+  {
+   "type": "ocr",
+   "text": "7. A défaut de titres payés, un compte mensuel négatif est adressé a administration postale correspondante, sauf entente entre les administrations postales concernées."
+  },
+  {
+   "type": "ocr",
+   "text": "8. Les différences constatées par l'administration postale débitrice dans les comptes mensuels, qu’il s’agisse de la récapitulation des titres ou du calcul des rémunérations, sont reprises dans le premier compte mensuel à établir; elles sont négligées si le montant n'excède pas 3 DTS par compte."
+  },
+  {
+   "type": "ocr",
+   "text": "9. Les administrations postales peuvent convenir, par accords bilatéraux, d'appliquer une méthode d'établissement des décomptes et de transmission des mandats payés autre que celle prévue à l’article RF 1803."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1804 Etablissement des comptes mensuels pour les mandats électroniques"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le compte mensuel est automatiquement édité par le système électronique des pays partenaires."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Le montant total des rémunérations fixées bilatéralement est ajouté au montant total des mandats payés."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Le compte mensuel est envoyé à l’administration postale d'émission sans les formules acquittées par le bénéficiaire. Cependant celle-ci est en droit de les réclamer pour vérification."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1805 Etablissement du compte général"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le compte général est établi sur une formule conforme au modèle SFP 4 par ladministration postale titulaire de la créance immédiatement après la réception des comptes mensuels, avant même d’avoir procédé à la vérification de détail de ces comptes."
+  },
+  {
+   "type": "ocr",
+   "text": "2. li doit être arrêté dans un délai de deux mois après l'expiration du mois auquel il se rapporte."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Les administrations postales peuvent s'entendre en vue d'établir le compte général par trimestre, par semestre ou par année."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Les échanges de toute nature ont lieu exclusivement par l'intermédiaire de bureaux d'échange désignés par l'administration de chacun des pays contractants."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1806 Règlement des comptes. Modes et délais de paiement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Sauf entente spéciale et sous réserve des dispositions prévues sous 2, le solde du compte général ou les totaux des comptes mensuels sont réglés en monnaie du pays créancier, sans aucune perte pour ce dernier:"
+  },
+  {
+   "type": "ocr",
+   "text": "1.1 soit au moyen de chèques ou de traites payables à vue sur la capitale ou une place commerciale du pays créancier ou au moyen de virements postaux;"
+  },
+  {
+   "type": "ocr",
+   "text": "1.2 soit par prélèvement sur un avoir constitué par l'administration postale débitrice dans le pays créancier."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Les frais de paiement (droits, frais de clearing, provisions, commissions, etc.) perçus dans le pays débiteur ainsi que les frais prélevés par les banques intermédiaires dans les pays tiers sont à la charge de l'administration postale débitrice. Les frais perçus dans le pays créancier sont à la charge de l'administration postale titulaire de la créance."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Le paiement doit être effectué au plus tard quinze jours après réception du compte général ou après réception du compte mensuel, si les règlements s’opérent sur la base de ce compte."
+  },
+  {
+   "type": "ocr",
+   "text": "4. En cas de désaccord entre les deux administrations postales sur le montant de la somme à payer, seul le paiement de la partie contestée peut être différé; l’administration postale débitrice doit notifier à l'administration postale titulaire de la créance, dans les délais prévus sous 3, les raisons de la contestation."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Dans l'hypothèse où un compte mensuel transmis ne parvient pas à l'administration postale débitrice, celle-ci est fondée, si elle n'obtient pas de son homologue un duplicata dudit compte, à considérer les montants des acomptes versés au titre du mois considéré comme liquidant sa dette pour la période concernée et à faire supporter à l'administration postale titulaire de la créance le dédommagement des expéditeurs pour leurs mandats présumés payés à des tiers."
+  },
+  {
+   "type": "ocr",
+   "text": "6. En cas de non-paiement dans les délais fixés sous 3, les sommes dues sont productrices d'intérêts, conformément aux règles fixées à l'article RF 1801.4."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1807 Acomptes"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Toute administration postale qui se trouve à découvert vis-à-vis d’une autre administration postale d’une somme dépassant 6000 DTS par mois a le droit de réclamer le versement automatique d’un acompte au plus tard le quinzième jour du mois pendant lequel les mandats sont émis, Le montant de cet acompte est calculé sur la base du montant moyen des trois derniers comptes mensuels acceptés et adaptés en fonction:"
+  },
+  {
+   "type": "ocr",
+   "text": "1.1 de l'importance du compte relatif à la période correspondante de l’année précédente;"
+  },
+  {
+   "type": "ocr",
+   "text": "1.2 de l’évolution du trafic pendant l’année en cours; des 6000 DTS en dessous desquels aucun acompte n'est dû et qui, par conséquent, sont à déduire de la moyenne obtenue."
+  },
+  {
+   "type": "ocr",
+   "text": "2. En cas de non-paiement dans le délai précité, l’article RF 1806.6 est applicable, sauf si l'administration postale débitrice est en mesure de prouver que l'administration postale titulaire de la créance ne transmet pas régulièrement ses comptes dans le délai fixé à l’article RF 1803.6."
+  },
+  {
+   "type": "ocr",
+   "text": "3. La limite de 6000 DTS fixée sous 1 ne s'applique pas à l’administration postale qui s'occupe du service des mandats exclusivement en qualité d'administration postale de destination. Dans ce cas, une limite inférieure peut être fixée d’un commun accord avec l’administration postale d'émission."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "4. L'administration postale débitrice qui désire bénéficier de la faculté prévue à l’article RF 1806.1, à savoir le prélèvement sur un avoir constitué par l'administration postale débitrice dans le pays créancier, sans avoir été préalablement saisie d’une demande d’acompte de Vadministration postale titulaire de la créance, détermine, à sa convenance, le montant et la fréquence des versements qu'elle estime devoir opérer pour assurer la couverture de ses émis-"
+  },
+  {
+   "type": "ocr",
+   "text": "sions."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Lorsque le total des versements effectués à titre d’acomptes est supérieur au montant dû à l'administration postale correspondant pour la période considérée, la différence est reprise dans l'un des comptes suivants, conformément aux directives formulées par l'administration postale débitrice, ou, le cas échéant, portée à l’avoir prévu à l’article RF 1806.1.2."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1901 Traitement des réclamations concernant les mandats"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Toute réclamation concernant un mandat électronique est traitée et acheminée sur ce réseau."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Toute réclamation concernant un mandat acheminé par la poste aux lettres est établie sur une formule TFP 6 et transmise, en règle générale, par le bureau d'émission directement au bureau de paiement. Les réclamations sont transmises d'office et toujours par la voie la plus rapide (télécopie, courrier électronique, courrier prioritaire)."
+  },
+  {
+   "type": "ocr",
+   "text": "3. A moins qu'une réserve spéciale n'ait été faite dans le pays d'émission, la réclamation est traitée immédiatement et transmise au pays de destination au plus tard le troisième jour ouvrable qui suit son dépôt."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Dans les trois jours ouvrables qui suivent l'arrivée d'une réclamation, l'administration postale de destination d'un mandat est en mesure de fournir une réponse préliminaire (ou définitive) sur le sort du mandat en question."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Lorsque le bureau de paiement est en état de fournir des renseignements définitifs sur le sort du titre, il renvoie la formule, complétée suivant le résultat des recherches, au bureau qui a reçu la réclamation. En cas de recherches infructueuses ou de paiement contesté, la formule est transmise à l'administration postale d'émission par l'intermédiaire de l'administration postale de destination, qui joint, si possible, une déclaration du bénéficiaire attestant qu'il n’a pas reçu le montant du mandat."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Une réponse définitive intervient au plus tard dans les trente jours ouvrables qui suivent l'arrivée de la réclamation dans le pays de destination du mandat."
+  },
+  {
+   "type": "ocr",
+   "text": "7. Une liquidation définitive de la réclamation intervient automatiquement au plus tard quinze jours après l'expiration de la validité du mandat."
+  },
+  {
+   "type": "ocr",
+   "text": "8. Lorsqu'une réclamation est due à une erreur de l'administration postale, les frais perçus pour la réclamation sont remboursés au réclamant."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 1902 Traitement des réclamations concernant les virements"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Toute réclamation concernant l'exécution d’un virement est adressée par le tireur à l'administration postale à laquelle il a donné l’ordre de virement."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "2. Toute réclamation concernant l'exécution d’un ordre de virement est établie sur une formule TFP 7 par le centre de chèques postaux qui tient le compte débité et transmise, le cas échéant, par l'intermédiaire des bureaux d'échange de chacun des pays concernés, au centre de chèques postaux qui tient le compte à créditer."
+  },
+  {
+   "type": "ocr",
+   "text": "3. A moins qu'une réserve spéciale n'ait été faite dans le pays d'émission, la réclamation est traitée immédiatement et transmise au pays de destination au plus tard le troisième jour ouvrable qui suit son dépôt."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Dans les trois jours ouvrables qui suivent l'arrivée d'une réclamation, l'administration postale qui tient le compte est en mesure de fournir une réponse préliminaire (ou définitive} sur le sort du virement en question."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Une réponse définitive intervient au plus tard dans les dix jours ouvrables qui suivent l'arrivée de la réclamation dans le pays de destination."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Lorsqu'une réclamation est due à une erreur des administrations postales, les frais perçus pour la réclamation sont remboursés au réclamant."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 2001 Détermination de la responsabilité"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Sous réserve des dispositions prévues sous 2 à 5, la responsabilité incombe à j'administration postale d'émission."
+  },
+  {
+   "type": "ocr",
+   "text": "2. La responsabilité incombe à l'administration postale de destination si elle n’est pas en mesure d'établir que le paiement a eu lieu dans les conditions prescrites par sa réglementation."
+  },
+  {
+   "type": "ocr",
+   "text": "3. La responsabilité incombe à l'administration postale du pays où Verreur s’est produite: 3.1 s'il s’agit d’une erreur de service, y compris l'erreur de conversion;"
+  },
+  {
+   "type": "ocr",
+   "text": "3.2 s'il s’agit d’une erreur de saisie ou de transmission d'informations commise à l'intérieur du pays d'émission ou du pays de destination."
+  },
+  {
+   "type": "ocr",
+   "text": "4. La responsabilité incombe à l'administration postale d'émission et à l'administration postale de destination par parts égales:"
+  },
+  {
+   "type": "ocr",
+   "text": "4.1 si l'erreur est imputable aux deux administrations postales ou s’il n’est pas possible d'établir dans quel pays l’erreur s’est produite; 4.2 si une erreur de transmission s'est produite dans un pays intermédiaire; 4.3 s'il n’est pas possible d'établir le pays où cette erreur de transmission s’est produite."
+  },
+  {
+   "type": "ocr",
+   "text": "Sous réserve des dispositions prévues sous 2, la responsabilité incombe: 5.1 en cas de paiement d’un faux titre, à l'administration postale du pays sur le territoire duquel le titre a été introduit dans le service;"
+  },
+  {
+   "type": "ocr",
+   "text": "5.2 en cas de paiement d’un titre dont le montant a été frauduleusement majoré, à l'administration postale du pays dans lequel le titre a été falsifié; toutefois, le dommage est supporté par parts égales par les administrations postales d’émission et de destination lorsqu'il n’est pas possible de déterminer le pays où la falsification est intervenue ou lorsqu’il ne peut être obtenu réparation d’une falsification commise dans un pays intermédiaire qui ne participe pas au service des transferts de fonds sur la base de l’Arrangement."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 43 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 2002 Paiement des sommes dues. Recours"
+  },
+  {
+   "type": "ocr",
+   "text": "1. L'obligation de désintéresser le réclamant incombe à l'administration postale saisie de la réclamation."
+  },
+  {
+   "type": "ocr",
+   "text": "2. L'administration postale qui a désintéressé le réclamant a le droit d’exercer le recours contre l'administration postale responsable."
+  },
+  {
+   "type": "ocr",
+   "text": "3. L'administration postale qui a supporté en dernier lieu le dommage a un droit de recours, jusqu’à concurrence de la somme payée, contre la personne qui a bénéficié de cette erreur. Article RF 2003 Délai de paiement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le versement des sommes dues au réclamant doit avoir lieu, dès que la responsabilité du service a été établie, dans un délai limite de trois mois à compter du lendemain du jour de la réclamation."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Si l'administration postale présumée responsable, régulièrement saisie, a laissé s’écouler deux mois sans donner de solution définitive à une réclamation, l'administration postale auprès de laquelle la réclamation a été introduite est autorisée à désintéresser le réclamant pour le compte de l’autre administration postale."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 2004 Remboursement à l'administration postale intervenante. Intérêts moratoires"
+  },
+  {
+   "type": "ocr",
+   "text": "1. L'administration postale responsable est tenue de désintéresser l'administration postale qui a remboursé le réclamant dans un délai de deux mois à compter du jour de l'envoi de la notification du remboursement."
+  },
+  {
+   "type": "ocr",
+   "text": "2. A l'expiration de ce délai, la somme due à l'administration postale qui a remboursé le réclamant devient productive de l'intérêt moratoire fixé à l'article RF 1801.4."
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre V Réseau électronique de l’'UPU"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre VI Dispositions diverses"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 44 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "Chapitre VII Dispositions finales"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 2201 Dispositions finales"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Application des Règlements de la Convention 1.1 Sont applicables aux services financiers postaux, pour tout ce qui n’est pas expressément prévu par le présent Règlement, les dispositions des Règlements de la Convention."
+  },
+  {
+   "type": "ocr",
+   "text": "2. En ce qui concerne plus particulièrement le Règlement de la poste aux lettres, les dispositions de Particle RL 111, concernant l'application de la franchise postale aux organes s’occupant des prisonniers de guerre et internés civils, sont également applicables aux services de paiement de la poste."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF 2202 Mise à exécution et durée du Règlement"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Le présent Règlement sera exécutoire à partir du jour de la mise en vigueur de l’Arrangement concernant les services de paiement de la poste."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Il aura la même durée que cet Arrangement, à moins que le Conseil d'exploitation postale n'en décide autrement."
+  },
+  {
+   "type": "ocr",
+   "text": "Fait à Berne, le 28 janvier 2005."
+  },
+  {
+   "type": "ocr",
+   "text": "Au nom du Conseil d'exploitation postale:"
+  },
+  {
+   "type": "ocr",
+   "text": "Le Président, Le Secrétaire général, plu James P. WADE Edouard DAYAN"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 45 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Services de paiement, Règlement, Protocole final"
+  },
+  {
+   "type": "ocr",
+   "text": "Protocole final du Réglement de l’Arrangement concernant les services de paiement de la poste"
+  },
+  {
+   "type": "ocr",
+   "text": "Au moment de procéder à l'approbation du Règlement de l’Arrangement concernant les services de paiement de la poste conclu à la date de ce jour, le Conseil d'exploitation postale convient de ce qui suit:"
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF I {réserve existante) Acomptes"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Afin de pouvoir assurer normalement les paiements aux bénéficiaires de son pays, l'administration vietnamienne insiste pour que tous les pays qui pratiquent l'échange des mandats de poste avec elle effectuent automatiquement un versement d’acompte, sans avoir à attendre le recours aux procédures exposées à l’article RF 1807.1}."
+  },
+  {
+   "type": "ocr",
+   "text": "Article RF II Niveau de qualité des services dans le pays d'origine et obligations de l'administration postale expéditrice"
+  },
+  {
+   "type": "ocr",
+   "text": "1. L'administration postale de la Thaïlande est autorisée à ne pas appliquer les dispositions de l'article RF 501.1 concernant les obligations de l'administration postale expéditrice."
+  },
+  {
+   "type": "ocr",
+   "text": "1 Il s’agit d’une réserve existante se référant initialement à l’article RE 1008.1. Dans le nouveau Règlement, cet article est devenu l’article RF 1807.1."
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 46 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

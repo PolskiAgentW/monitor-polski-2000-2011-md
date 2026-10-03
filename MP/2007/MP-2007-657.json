@@ -1,0 +1,355 @@
+{
+ "eli": "MP/2007/657",
+ "title": "Zarządzenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 sierpnia 2007 r. w sprawie nadania statutu Państwowej Inspekcji Pracy",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/657/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 sierpnia 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Państwowej Inspekcji Pracy"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ust. 1 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. Nr 89, poz. 589), na wniosek Głównego Inspektora Pracy, zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Państwowej Inspekcji Pracy nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: L. Dorn"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Marszałka Sejmu Rzeczypospolitej Polskiej",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT PAŃSTWOWEJ INSPEKCJI PRACY"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Państwowa Inspekcja Pracy jest organem nadzoru i kontroli przestrzegania prawa pracy, w szczególności przepisów i zasad bezpieczeństwa i higieny pracy, a także przepisów dotyczących legalności zatrudnienia i innej pracy zarobkowej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Państwową Inspekcją Pracy kieruje Główny Inspektor Pracy przy pomocy zastępców.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Główny Inspektor Pracy reprezentuje Państwową Inspekcję Pracy na zewnątrz oraz kieruje całokształtem jej działalności i wydaje w tym zakresie zarządzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Główny Inspektor Pracy może, w formie pisemnej, upoważnić swoich zastępców, okręgowych inspektorów pracy oraz osoby kierujące komórkami organizacyjnymi do działania w określonych sprawach w jego imieniu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Organami Państwowej Inspekcji Pracy są:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "Główny Inspektor Pracy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "okręgowi inspektorzy pracy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "inspektorzy pracy działający w ramach terytorialnej właściwości okręgowych inspektoratów pracy.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Jednostkami organizacyjnymi Państwowej Inspekcji Pracy są:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_2/pkt_1",
+         "text": "Główny Inspektorat Pracy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_2/pkt_2",
+         "text": "okręgowe inspektoraty pracy.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "W skład Głównego Inspektoratu Pracy wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "Gabinet Głównego Inspektora Pracy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "Departament Warunków Pracy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_1/pkt_3",
+         "text": "Departament Prawny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_1/pkt_4",
+         "text": "Departament Legalności Zatrudnienia;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_4/ust_1/pkt_5",
+         "text": "Departament Prewencji i Promocji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_4/ust_1/pkt_6",
+         "text": "Departament Analiz i Statystyki;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_4/ust_1/pkt_7",
+         "text": "Departament Organizacyjny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_4/ust_1/pkt_8",
+         "text": "Departament Budżetu i Finansów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_4/ust_1/pkt_9",
+         "text": "Sekcja Audytu Wewnętrznego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_4/ust_1/pkt_10",
+         "text": "Sekcja Kontroli Wewnętrznej i Skarg;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_4/ust_1/pkt_11",
+         "text": "Biuro Informacji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "12",
+         "path": "par_4/ust_1/pkt_12",
+         "text": "Kancelaria Tajna.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych Głównego Inspektoratu Pracy określa regulamin organizacyjny nadany przez Głównego Inspektora Pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "W skład okręgowych inspektoratów pracy mogą wchodzić następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_1/pkt_1",
+         "text": "sekcje;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_1/pkt_2",
+         "text": "sekcje krajowe;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_1/pkt_3",
+         "text": "sekretariaty.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "W okręgowych inspektoratach pracy mogą być tworzone oddziały i biura terenowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_5/ust_3",
+       "text": "Organizację wewnętrzną okręgowych inspektoratów pracy określają regulaminy organizacyjne nadane przez Głównego Inspektora Pracy na wniosek okręgowych inspektorów pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Główny Inspektor Pracy może tworzyć i znosić komisje, rady i zespoły, jako organy opiniodawczo-doradcze o charakterze stałym lub doraźnym, określając cel ich powołania, nazwę, skład osobowy, zakres zadań i tryb działania, w tym sposób finansowania ich działalności.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Państwowa Inspekcja Pracy prowadzi placówkę szkoleniową — Ośrodek Szkolenia Państwowej Inspekcji Pracy im. Prof. Jana Rosnera, zwany dalej „Ośrodkiem Szkolenia”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Działalność Ośrodka Szkolenia w zakresie kształcenia i doskonalenia kadr Państwowej Inspekcji Pracy oraz usług poligraficznych stanowi obsługę bieżącą Państwowej Inspekcji Pracy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Główny Inspektor Pracy nadaje Ośrodkowi Szkolenia statut oraz, na wniosek dyrektora Ośrodka Szkolenia, określa jego szczegółową organizację wewnętrzną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Główny Inspektor Pracy wydaje Biuletyn Urzędowy Państwowej Inspekcji Pracy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "z dnia 27 sierpnia 2007 r. (poz. 657)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

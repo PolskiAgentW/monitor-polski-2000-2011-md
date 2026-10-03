@@ -1,0 +1,244 @@
+{
+ "eli": "MP/2006/439",
+ "title": "Uchwała Nr 89 Rady Ministrów z dnia 12 czerwca 2006 r. zmieniająca uchwałę - Regulamin pracy Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/439/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 89 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 czerwca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę — Regulamin pracy Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 49 Rady Ministrów z dnia 19 marca 2002 r. — Regulamin pracy Rady Ministrów (M. P. Nr 13, poz. 221 i Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734 oraz z 2005 r. Nr 55, poz. 757) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rada Ministrów działa na podstawie planu pracy Rządu, na który składają się programy prac legislacyjnych Rady Ministrów dotyczące projektów ustaw oraz projektów rozporządzeń Rady Ministrów, opracowane w trybie przepisów o działalności lobbingowej w procesie stanowienia prawa, oraz program prac Rady Ministrów dotyczący innych dokumentów rządowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Projekt planu opracowuje Szef Kancelarii Prezesa Rady Ministrów, na podstawie wniosków organów, o których mowa w § 6, oraz z uwzględnieniem planów pracy organów Unii Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 7a ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Założenia są opiniowane przez Kancelarię Prezesa Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 8:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "pkt 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1) powierzeniu opracowania, uzgodnienia i wniesienia projektu dokumentu rządowego lub niektórych z tych czynności Szefowi Kancelarii Prezesa Rady Ministrów, Rządowemu Centrum Legislacji lub właściwemu organowi wewnętrznemu Rady Ministrów,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "w pkt 2 lit. b otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„b) przedstawienia projektu dokumentu rządowego do zaopiniowania przez organy pomocnicze Rady Ministrów, Prezesa Rady Ministrów lub Radę Legislacyjną przy Prezesie Rady Ministrów,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 9 w ust. 2 zdanie drugie otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Koordynację sporządzania tych ocen oraz zakresu konsultacji społecznych projektów rządowych aktów normatywnych zapewnia Kancelaria Prezesa Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 10:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "po ust. 6 dodaje się ust. 6a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6a. Do projektu aktu normatywnego należy dołączyć zgłoszenia podmiotów, które zgłosiły zainteresowanie pracami nad projektem ustawy lub rozporządzenia w trybie przepisów o działalności lobbingowej w procesie stanowienia prawa, a także informację o kolejności wniesienia tych zgłoszeń lub informację o ich braku.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "po ust. 7 dodaje się ust. 7a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„7a. Do projektu ustawy dostosowawczej należy dołączyć projekty aktów wykonawczych, których obowiązek wydania przewiduje projekt ustawy.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "§ 11 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przed skierowaniem do uzgodnień organ wnioskujący przesyła Kancelarii Prezesa Rady Ministrów projekt aktu normatywnego wraz z uzasadnieniem do zaopiniowania OSR, a w szczególności pod względem jej zakresu i zakresu konsultacji społecznych; przepis § 13 ust. 2 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kancelaria Prezesa Rady Ministrów sporządza OSR, jeżeli Prezes Rady Ministrów powierzy dokonanie takiej oceny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Organ wnioskujący zajmuje stanowisko, w przypadku:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zgłoszenia uwag przez Kancelarię Prezesa Rady Ministrów w trybie, o którym mowa w ust. 1,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) sporządzenia OSR przez Kancelarię Prezesa Rady Ministrów w trybie, o którym mowa w ust. 2,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "które wraz z uwagami zgłoszonymi przez Kancelarię Prezesa Rady Ministrów lub OSR sporządzoną przez Kancelarię Prezesa Rady Ministrów dołącza do projektu aktu normatywnego kierowanego do uzgodnień.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w § 24 w ust. 3 w pkt 1 dodaje się lit. f w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„f) zgłoszeń podmiotów, które zgłosiły zainteresowanie pracami nad projektem ustawy lub rozporządzenia w trybie przepisów o działalności lobbingowej w procesie stanowienia prawa oraz informacji o kolejności wniesienia tych zgłoszeń lub informacji o ich braku,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "w § 37 ust. 8 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8. Zapis posiedzenia jest przechowywany w Kancelarii Prezesa Rady Ministrów, z zachowaniem przepisów o ochronie informacji niejawnych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "w § 56 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. W pracach stałego komitetu Rady Ministrów uczestniczą: Sekretarz Komitetu Integracji Europejskiej, Prezes Rządowego Centrum Legislacji oraz Prezes Urzędu Ochrony Konkurencji i Konsumentów lub ich przedstawiciele.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: K. Marcinkiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

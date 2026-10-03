@@ -1,0 +1,1052 @@
+{
+ "eli": "MP/2002/675",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2002 r. w sprawie ustalania wzorów protokołów i zestawień sporządzanych przez terytorialne komisje wyborcze oraz zaświadczeń o wyborze na radnego i o wyborze na wójta, burmistrza i prezydenta miasta, stosowanych w wyborach do rad gmin, rad powiatów i sejmików województw, Rady miasta stołecznego Warszawy i rad dzielnic miasta stołecznego Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/675/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 września 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów protokołów i zestawień sporządzanych przez terytorialne komisje wyborcze oraz zaświadczeń o wyborze na radnego i o wyborze na wójta, burmistrza i prezydenta miasta, stosowanych w wyborach do rad gmin, rad powiatów i sejmików województw, Rady miasta stołecznego Warszawy i rad dzielnic miasta stołecznego Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 1 pkt 4 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 1998 r. Nr 95, poz. 602 i Nr 160, poz. 1060, z 2001 r. Nr 45, poz. 497 i Nr 89, poz. 971 oraz z 2002 r. Nr 23, poz. 220, Nr 113, poz. 984 i Nr 127, poz. 1089), art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2002 r. Nr 41, poz. 361 i Nr 127, poz. 1087) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 127, poz. 1089) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się dla wyborów do rad gmin w gminach do 20 tysięcy mieszkańców:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wzór zestawienia wyników głosowania w okręgu wyborczym, stanowiący załącznik nr 1 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzór protokołu wyborów do rady gminy, stanowiący załącznik nr 2 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ustala się dla wyborów do rad gmin w gminach powyżej 20 tysięcy mieszkańców:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "wzór zestawienia wyników głosowania w okręgu wyborczym, stanowiący załącznik nr 3 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "wzór protokołu wyborów do rady gminy, stanowiący załącznik nr 4 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Dla wyborów do rad powiatów oraz do rad w miastach na prawach powiatu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "stosuje się odpowiednio wzór zestawienia wyników głosowania w okręgu wyborczym, o którym mowa w § 2 pkt 1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "ustala się wzór protokołu wyborów, stanowiący załącznik nr 5 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Dla wyborów do sejmików województw:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "ustala się wzór protokołu wyników głosowania na obszarze powiatu, stanowiący załącznik nr 6 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "ustala się wzór zestawienia wyników głosowania w okręgu wyborczym, stanowiący załącznik nr 7 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "stosuje się odpowiednio wzór protokołu z wyborów, o którym mowa w § 3 pkt 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Ustala się wzór protokołu obsadzenia mandatów radnych bez głosowania, stanowiący załącznik nr 8 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Ustala się dla wyborów wójtów, burmistrzów i prezydentów miast:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "wzór protokołu wyników głosowania i wyników wyborów, stanowiący załącznik nr 9 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "wzór protokołu wyników głosowania i wyników wyborów w przypadku, o którym mowa w art. 11 ust. 3 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta, stanowiący załącznik nr 10 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "wzór protokołu wyników głosowania i wyników wyborów w przypadku ponownego głosowania, stanowiący załącznik nr 11 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Ustala się wzór zaświadczenia o wyborze:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "na radnego rady gminy, stanowiący załącznik nr 12 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "na radnego rady powiatu, stanowiący załącznik nr 13 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "na radnego sejmiku województwa, stanowiący załącznik nr 14 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "na wójta (burmistrza, prezydenta miasta), stanowiący załącznik nr 15 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W wyborach do rady miasta stołecznego Warszawy stosuje się odpowiednio wzór zestawienia wyników głosowania w okręgu wyborczym i wzór protokołu wyborów, o których mowa w § 3, oraz wzór zaświadczenia o wyborze radnego, o którym mowa w § 7 pkt 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W wyborach do rad dzielnic miasta stołecznego Warszawy stosuje się odpowiednio wzór zestawienia wyników głosowania w okręgu wyborczym i wzór protokołu wyborów, o których mowa w § 2, oraz wzór zaświadczenia o wyborze radnego, o którym mowa w § 7 pkt 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 22 września 1998 r. w sprawie ustalenia wzorów protokołów i zestawień sporządzanych przez obwodowe i terytorialne komisje wyborcze oraz zaświadczeń o wyborze na radnego, stosowanych w wyborach do rad gmin, rad powiatów i sejmików województw oraz do Rady miasta stołecznego Warszawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 16 września 2002 r. (poz. 675) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "0 Liczba kart ważnych (pkt 3.2) równa się sumie kart, na których oddano głosy nieważne (pkt 4) i kart, na których oddano głosy ważne (pkt 5). 2 2 , : . : 2"
+    },
+    {
+     "type": "ocr",
+     "text": ") Liczba głosów otrzymanych przez któregokolwiek kandydata nie może być większa od liczby głosów ważnych (pkt 5)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "B.”) W związku z tym, iż ...... kandydatów z tej samej listy (lista nr .. .) otrzymało największą i równą liczbę głosów:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) z listy nr ....... ustalonej w porządku niealfabetycznym radnym(a) został(a) kandydat(ka), którego(ej) nazwisko umieszczone było w pierwszej kolejności:"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) z listy nr ....... ustalonej w porządku alfabetycznym, w wyniku losowania radnym(ą) został(a) wybrany(a) kandydat(ka):"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona) c.” W związku z tym, iż ........ kandydatów z różnych list (listy nr ....) otrzymało największą i równą liczbę głosów:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) radnym(ą) został(a) kandydat(ka) z listy nr...... , której kandydaci w okręgu łącznie uzyskali ........ 0... 2 eee ee eee „ czyli najwięcej głosów:"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) radnym(ą) został(a) w wyniku losowania, w związku z tym, że także łączna liczba głosów oddanych na kandydatów z tych list była równa, kandydat(ka) zlisty nr ..........:"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię ~ imiona) D.*) W związku z tym, iż w okręgu wyborczym liczba zarejestrowanych kandydatów jest mniejsza lub równa liczbie mandatów, następujący zarejestrowani kandydaci uzyskali mandaty radnego bez przeprowadzania głosowania: Z Listy nr oe. ee ee ee eee te ea eee"
+    },
+    {
+     "type": "ocr",
+     "text": "Z listy ny... ee, ee ee ee ee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "W okręgu ......1.-. mandatów pozostaje nieobsadzonych. (liczba) E.” W związku z tym, iż w okręgu wyborczym nie została zarejestrowana żadna lista, wyborów nie przeprowadzono i w okręgu ........... mandatów (liczba) pozostaje nieobsadzonych. | (opis przebiegu losowania w pkt B2 i C2)"
+    },
+    {
+     "type": "ocr",
+     "text": "Okręg wyborczy nr ........-... obejmujący .........-22200-- mandatów."
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Zarzuty pełnomocników:"
+    },
+    {
+     "type": "ocr",
+     "text": "VI. Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji: 2.2... eee ee ee te ees"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Przy sporządzaniu protokołu obecni byli:"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "Załączniki: Zestawienie wyników głosowania Z ..........111. okręgów wyborczych. Protokół obsadzenia mandatu bez głosowania."
+    },
+    {
+     "type": "ocr",
+     "text": "1) Wypełnić w razie nieprzeprowadzenia wyborów w którymkolwiek z okręgów wyborczych."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Wypełnia się tylko w sytuacjach, o których mowa w art. 122 ust. 2 Ordynacji wyborczej."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Wypełnia się tylko w sytuacjach, o których mowa w art. 122 ust. 3 Ordynacji wyborczej."
+    },
+    {
+     "type": "ocr",
+     "text": "4) Wypełnia sie tylko w sytuacji określonej w art. 188 Ordynacji wyborczej, gdy liczba mandatów w okręgu wyborczym jest większa niż 1."
+    },
+    {
+     "type": "ocr",
+     "text": "5) Wypełnia się tylko w przypadku określonym w art. 108 ust. 2 Ordynacji wyborczej."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista NY Lt tna ia"
+    },
+    {
+     "type": "ocr",
+     "text": "7.7 Warunek uzyskania co najmniej 5% głosów ważnych w wyborach do Rady i prawo uczestniczenia w podziale mandatów w okręgu uzyskały listy następujących komitetów wyborczych:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) lista ną LL cee eee ee ee ee ee ee eee ee eet eee (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) lista nr LLL rena ee et znana ann teees"
+    },
+    {
+     "type": "ocr",
+     "text": "3) lista nr LLL ranna nana e anes"
+    },
+    {
+     "type": "ocr",
+     "text": "4) lista nr LL cece te ewe nee eee re z aa"
+    },
+    {
+     "type": "ocr",
+     "text": "5) lista nr LL... tzn ee ee eee ene e tees"
+    },
+    {
+     "type": "ocr",
+     "text": "8. Wyliczenie ilorazów wyborczych (art. 123 ust. 1 Ordynacji wyborczej) dla poszczególnych list kandydatów jest następujące: Lista nr ......... . Liczba głosów oddanych na listę x = ......... Wyliczone ilorazy wyborcze: x: Ll=<u........."
+    },
+    {
+     "type": "ocr",
+     "text": "9.3) Szereg kolejno największych liczb (ilorazów wyborczych) jest następujący:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Lo ee eee tee odpowiada liście nr ................ (liczba) 7 odpowiada liście nr ................ i odpowiada liście nr ................ LONE odpowiada liście nr ................ ha odpowiada liście nr ................"
+    },
+    {
+     "type": "ocr",
+     "text": "6) teen nana caaeca i odpowiada liście nr ................ iv odpowiada liście nr ................- B) eee zeza ana eee ees odpowiada liście nr ............2.-- a odpowiada liście nr .............00% 10)... eee eee ee eee eee odpowiada liście nr ..............4- TL) coe ee ee ee eee odpowiada liście nr .............00."
+    },
+    {
+     "type": "ocr",
+     "text": "10.% Ww zwiążku z tym, iż ilorazy wyborcze równe ostatniej z liczb uszeregowanych uzyskały: lista nr ............ , lista nr ............ ,"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "lista nr ...........-. , pierwszeństwo do otrzymania mandatu uzyskała lista |: JODI , na którą oddano najwięcej głosów ważnych."
+    },
+    {
+     "type": "ocr",
+     "text": "11.* W związku z tym, iż ilorazy wyborcze równe ostatniej z liczb uszeregowanych uzyskały: lista nr ......... , lista nr ......... , lista nr wees i mają równą liczbę głosów, pierwszeństwo do otrzymania mandatu uzyskała lista nr .......... , na którą w większej liczbie obwodów oddano większą liczbę głosów."
+    },
+    {
+     "type": "ocr",
+     "text": "Przy sporządzaniu zestawienia obecni byli: i (nazwisko i imię - imiona, funkcja w Komisji) (podpis)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wypełnia się jedynie w przypadku wyborów do rad powiatów i miast na prawach powiatów."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Ilorazy obliczane przez dzielenie liczby głosów oddanych na listę przez kolejne liczby naturalne; liczba wyliczonych ilorazów dla każdej listy równa liczbie mandatów w okręgu; ilorazy liczone z dokładnością do trzech miejsc po przecinku."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Należy podać kolejno największe ilorazy wyborcze w liczbie równej liczbie mandatów w okręgu powiększonej o cztery."
+    },
+    {
+     "type": "ocr",
+     "text": "4) wypełnić w razie wypadku, o którym mowa w art. 123 ust. 3 Ordynacji wyborczej."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2. W związku z tym, iż .......... kandydatów otrzymało równą liczbę głosów (liczba) uprawniającą do przyznania im mandatu z listy nr ..... ...............4.4- , (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "a kolejność kandydatów na liście była ustalona w porządku niealfabetycznym, radnym(ą) został kandydat ................. 002 ee eeee , którego nazwisko było (nazwisko i imię - imiona) umieszczone na liście w pierwszej kolejności."
+    },
+    {
+     "type": "ocr",
+     "text": "3. W związku z tym, iż ........... kandydatów otrzymało równą liczbę (liczba) głosów uprawniającą do przyznania im mandatu z listy nr ......."
+    },
+    {
+     "type": "ocr",
+     "text": "(oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) a kolejność na liście była ustalona w porządku alfabetycznym, przeprowadzone zostało losowanie, w wyniku którego radnym(ą) został(a):"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona) 4,3} Komisja stwierdza, że ............ mandat(y) nie został(y) obsadzony(e), (liczba) bowiem liczba .....e eee 0200 ee kandydatów \"umieszczonych na liście (podać) o KAZETO jest (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "mniejsza niż liczba ........ mandatów przypadających na tę listę."
+    },
+    {
+     "type": "ocr",
+     "text": "5,4) Komisja stwierdza, że ........ mandat(y) nie został(y) obsadzony(e), (liczba) bowiem liczba ....... kandydatów umieszczonych zarejestrowanych na liście (podać) - listach w okręgu, którzy uzyskali mandaty radnych bez przeprowadzania głosowania, była mniejszaod liczby ....... mandatów w okręgu. (podać) 6.> Komisja stwierdza, że wobec niezarejestrowania żadnej listy kandydatów na radnych w okręgu pozostaje nieobsadzonych .............- mandatów. (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "VI. Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji: Lure ee nawa znana ea aiwaj"
+    },
+    {
+     "type": "ocr",
+     "text": "cc (nazwisko i imie - imiona, funkcja w Komisji) (podpis) a ae eee ee ne et ee ee wees Zo et ee ee eee eee eee kee eee eee eee Bo ee en ee ee ee eee eee ee eee ee ee eee eee nes ss be ee eee ee eee ee ee ee eee ee ene eens GC. ec ce ee et eee ee eee e ence Lee ee ee eee eee i Ble ee ee ee eee ee ee ee ee ee ee Qo Lc ec ee ee ee ewe mee re eee ee eee ee he ee ee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "Załączniki: Zestawienie wyników głosowania Z ...........02-080> okręgów wyborczych. (liczba) Protokół obsadzenia mandatu bez głosowania Z .......... okręgów wyborczych. (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wypełnić w razie nieprzeprowadzenia wyborów w którymkolwiek z okręgów wyborczych."
+    },
+    {
+     "type": "ocr",
+     "text": "2) wypełnić w razie obsadzenia niepełnej liczby mandatów w trybie art. 188 Ordynacji wyborczej."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Wypełnić, jeżeli liczba kandydatów na liście jest mniejsza niż liczba mandatów przypadających na tę listę."
+    },
+    {
+     "type": "ocr",
+     "text": "4) Wypełnić, gdy liczba mandatów obsadzonych bez głosowania na podstawie art. 188 Ordynacji wyborczej jest mniejsza od liczby mandatów w okręgu."
+    },
+    {
+     "type": "ocr",
+     "text": "5) wypełnić w razie braku zarejestrowanej listy kandydatów na radnych w okręgu."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Komisja na podstawie zestawienia wyników głosowania w okręgach i uwzględniając liczby głosów ważnych w okręgach wyborczych oraz głosów ważnych oddanych na poszczególne listy kandydatów i kandydatów z tych list ustaliła następujące wyniki wyborów w okręgach: Okręg wyborczy nr 1 obejmujący ...........--... 00022 ee mandatów. Wybory areeenen eee eee ana ananas aaa (wpisać, czy się odbyły, czy nie) GŁOSOWANIE 2... ee ee a (wpisać, czy przeprowadzono, czy nie)"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Komisja stwierdza, że w okręgu wyborczym mandaty przypadają następującym listom, które uzyskały największe ilorazy wyborcze: FEEDER mandat(y) dla listy nr ...... (liczba) wees mandat(y) dla listy nr ...... ROEE mandat(y) dla listy nr ...... wee ene mandat(y) dla listy nr ...... wee eee mandat(y) dla listy nr ......"
+    },
+    {
+     "type": "ocr",
+     "text": "Radnymi zostali wybrani:"
+    },
+    {
+     "type": "ocr",
+     "text": "Z listy me luta trzne nen ee eee nana ne ee eee eee cS NPD ZLISty ME LL rename ene tes 0 Z listy Mr tte ranne ee ee eee eee eee ee ee eee tenet eee"
+    },
+    {
+     "type": "ocr",
+     "text": "2. W związku z tym, iż ........ kandydatów otrzymało równą liczbę głosów uprawniającą (liczba) do przyznania im mandatu z listy nr .....- fee ec aana en eee ete eee , (oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "a kolejność kandydatów na liście była ustalona w porządku niealfabetycznym, radnym(a) został(a) Lara raaaaaaa cana ich , którego(ej) nazwisko było umieszczone na liście (nazwisko i imię - imiona) w pierwszej kolejności."
+    },
+    {
+     "type": "ocr",
+     "text": "3. W związku z tym, iż ........... kandydatów otrzymało równą liczbę (1iczba) głosów uprawniającą do przyznania im mandatu z listy nr ....... ,"
+    },
+    {
+     "type": "ocr",
+     "text": "(oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego) a kolejność na liście była ustalona w porządku alfabetycznym, przeprowadzone zostało losowanie, w wyniku którego radnym(ą) został(a):"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona)"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce.na parafowanie strony przez członków Komisji ."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "4.3) Komisja stwierdza, ze ............ mandat(y) nie został(y) obsadzony(e), (liczba) bowiem liczba ....... kandydatów umieszczonych na liście nr .... .........."
+    },
+    {
+     "type": "ocr",
+     "text": "ROZEZNANIA jest mniejsza niż liczba ........ mandatów (oznaczenie listy nazwą lub skrótem (podać) nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "przypadających na tę listę. 5.4) komisja stwierdza, że ........ mandat(y) nie został(y) obsadzony(e), (liczba) bowiem liczba ....... kandydatów umieszczonych zarejestrowanych na liście (podać) - listach w okręgu, którzy uzyskali mandaty radnych bez przeprowadzania głosowania, była mniejsza od liczby ....... mandatów w okręgu. (podać) 6.7 Komisja stwierdza, że wobec niezarejestrowania żadnej listy kandydatów na radnych w okręgu pozostaje nieobsadzonych .............---240- mandatów."
+    },
+    {
+     "type": "ocr",
+     "text": "(liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Zarzuty pełnomocników:"
+    },
+    {
+     "type": "ocr",
+     "text": "VII. Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji: .-.. 0.2... cece ee eee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczeé Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "załączniki: Zestawienie wyników głosowania Z .......-.2.-02000- okręgów wyborczych. (liczba) Protokół obsadzenia mandatu bez głosowania z ........ okręgów wyborczych. (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wypełnić w razie nieprzeprowadzenia wyborów w którymkolwiek z okręgów wyborczych."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Wypełnić w razie obsadzenia niepełnej liczby mandatów w trybie art. 188 Ordynacji wyborczej."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "3) wypełnić, jeżeli liczba kandydatów na liście jest mniejsza niż liczba 4 mandatów przypadających na tę listę. ) . : . : Wypełnić, gdy liczba mandatów obsadzonych bez głosowania na podstawie art. 188 Ordynacji wyborczej jest mniejsza od liczby mandatów w okręgu. 5 Wypełnić w razie braku zarejestrowanej listy kandydatów na radnych w okręgu"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 17 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 19 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista MO oo. ee ee eee ee eee ee ee eee eens eee"
+    },
+    {
+     "type": "ocr",
+     "text": "7. Warunek uzyskania co najmniej 5% głosów ważnych w wyborach do Rady i prawo uczestniczenia w podziale mandatów w okręgu uzyskały listy następujących komitetów wyborczych:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Lista ne oe. enia (oznaczenie listy nazwa lub skrótem nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) Lista nw teen ca"
+    },
+    {
+     "type": "ocr",
+     "text": "3) lista nr tetra aa"
+    },
+    {
+     "type": "ocr",
+     "text": "4) lista nr lt ttte rne naa"
+    },
+    {
+     "type": "ocr",
+     "text": "5) lista nr LLL rwa eee eh"
+    },
+    {
+     "type": "ocr",
+     "text": "8.\" wyliczenie ilorazów wyborczych (art. 178 ust. 3 Ordynacji wyborczej) dla poszczególnych list kandydatów jest następujące: Lista nr ......... Liczba głosów oddanych na listę x = ......... Wyliczone ilorazy wyborcze x: 1= ........."
+    },
+    {
+     "type": "ocr",
+     "text": "9.7?) Szereg kolejno największych liczb (ilorazów wyborczych) jest następujący: ra odpowiada liście nr ...............- (liczba) 7 odpowiada liście nr ................ a odpowiada liście nr ................ A) Llc ee eee eee odpowiada liście nr ........,.-..400- BD) Lc ee ee eee odpowiada liście nr ................ 3 odpowiada liście nr ...........-..... i odpowiada liście nr ................ B) Lec ee ee eee odpowiada liście nr ........... eae CONROE odpowiada liście nr ................"
+    },
+    {
+     "type": "ocr",
+     "text": "10) Luzon ee ee ee odpowiada liście nr ................ TL) ula naa eee odpowiada liście nr .............06-"
+    },
+    {
+     "type": "ocr",
+     "text": "10.” W związku z tym, iż ilorazy wyborcze równe ostatniej z liczb uszeregowanych uzyskały: lista nr ............ , lista nr ............ , lista nr .......1-11... , pierwszeństwo do otrzymania mandatu uzyskała lista PEJA , na którą oddano najwięcej głosów ważnych."
+    },
+    {
+     "type": "ocr",
+     "text": "11. W związku z tym, iż ilorazy wyborcze równe ostatniej z liczb uszeregowanych uzyskały: lista nr ......... , Lista nr ......... , lista nr i mają równą liczbę głosów, pierwszeństwo do otrzymania mandatu"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "uzyskała lista nr .......... , na którą w większej liczbie obwodów oddano większą liczbę głosów."
+    },
+    {
+     "type": "ocr",
+     "text": "Przy sporządzaniu zestawienia obecni byli: DL ee eee eee ee eee ee eee ee ee eee eee eens (nazwisko i imię - imiona, funkcja w Komisji) (podpis) a Wann Bw"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Ilorazy obliczane przez dzielenie liczby głosów oddanych na listę przez kolejne liczby naturalne; liczba wyliczonych ilorazów dla każdej listy równa liczbie mandatów w okręgu; ilorazy liczone z dokładnością do trzech miejsc po przecinku."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Należy podać kolejno największe ilorazy wyborcze w liczbie równej liczbie mandatów w okręgu powiększonej.o cztery."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Wypełnić w razie wypadku, o którym mowa w art. 178 ust. 4 Ordynacji wyborczej."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "1 wypełnić w sytuacji, gdy liczba zarejestrowanych kandydatów jest mniejsza od liczby radnych wybieranych w okręgu wyborczym. * Niepotrzebne skreślić."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 9",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 24 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "C.1.7) żaden z kandydatów nie uzyskał wymaganej liczby głosów; do wyborów w ponownym głosowaniu dopuszczeni zostali kandydaci, którzy uzyskali największą liczbę głosów: Oe zgłoszony przez ... Le ee ee ee eee (nazwisko i imię - imiona kandydata) (nazwa lub skrót nazwy komitetu wyborczego) 0 zgłoszony przez .-.urraerznanaa zana za aiiaa 2.7) Ponieważ następujący kandydaci: L) Le ec ee eens zgłoszony przez 2... eee ee ee ee ee eens (nazwisko i imię - imiona kandydata) (nazwa lub skrót nazwy komitetu wyborczego) 7 zgłoszony przez 2... Le ee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "uzyskali równe liczby głosów, o dopuszczeniu do wyboru w głosowaniu ponownym zadecydowała większa liczba obwodów, w których kandydat uzyskał więcej głosów. 3.7) Ponieważ następujący kandydaci: a zgłoszony PYZ@Z .. 1... ee eet ee (nazwisko i imię - imiona kandydata) (nazwa lub skrót nazwy komitetu wyborczego) QZ) Lec ee ee ee ee ene zgłoszony przez .. ee ee ee ee ee ee"
+    },
+    {
+     "type": "ocr",
+     "text": "uzyskali równe liczby głosów i otrzymali więcej głosów w takiej samej liczbie obwodów, o dopuszczeniu do wyboru w głosowaniu ponownym rozstrzygnęło losowanie."
+    },
+    {
+     "type": "ocr",
+     "text": "V. Uwagi Komisji zwiążane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków: Komisji: |..uueazzee ee ee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona, funkcja w Komisji) (podpis) Qo ee ee eee ee Bo ee ne ee ee ee eee 2 sa Co ee ee ee ee ee eee a Bo ee ee en eee ee >"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "1 Wypełnia się, jeżeli zachodzi sytuacja, o której mowa w art. 4 ust. 1 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta."
+    },
+    {
+     "type": "ocr",
+     "text": "2) Wypełnia się, jeżeli zachodzi sytuacja, o której mowa w art. 4 ust. 3 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta."
+    },
+    {
+     "type": "ocr",
+     "text": "3) Wypełnia się, jeżeli zaszła opisana sytuacja."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 10",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "I Wybory wójtów, H burmistrzów, i prezydentów miast"
+    },
+    {
+     "type": "ocr",
+     "text": "(wójta, burmistrza, prezydenta) (nazwa gminy, miasta) sporządzony dnia .............. 20 ..... r. przez . oe ee ee ee eee (oznaczenie komisji) Komisję Wyborczą Ww... . ee eee ee ee eee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "I. Komisja stwierdziła, że jedynym kandydatem w wyborach byt ce ee eee te ete e eee nee nee zgłoszony przez"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "II. Komisja potwierdza, iż otrzymała protokoły głosowania od ....... obwodowych (liczba) komisji wyborczych właściwych do przeprowadzenia głosowania i na podstawie tych protokołów ustaliła następujące wyniki głosowania:"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Liczba osób uprawnionych do głosowania wynosiła o........-.-.--.--08 (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Liczba wyborców, którym wydano karty do głosowania .................-.-"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Oddano kart do głosowania 2 2 2 2 2 dee ee ee ee eee eee w tym:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) kart nieważnych rne eee"
+    },
+    {
+     "type": "ocr",
+     "text": "2) kart ważnych 90 0 eee cee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "4. Głosów nieważnych oddana 42 2 2 a ee eee ee eee w tym:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) z powodu postawienia znaku “x” jednocześnie za i przeciw wyborowi kandydata 4 2 2 2 2 2 2 2 2 ce eee eee eee eee ee (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) z powodu niepostawienia znaku “x” ani za ani przeciw wyborowi kandydata 422 ghee ee cee nana ee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "5. Głosów ważnych oddano: 42 ee ee eee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "1) Liczba głosów za wyborem kandydata 4 2 2 2 2 2 2k eee eee ee ee ee (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) Liczba głosów przeciw wyborowi kandydata = — cc eee eee eee ee ee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "IIL. Komisja stwierdzita, ze: A. Liczba głosów stanowiąca ponad połowę głosów ważnych wymagana do wyboru na wójta (burmistrza, prezydenta miasta) wynosi ................006. (liczba) B.\" wymaganą liczbę głosów uzyskał i został wybrany na wójta (burmistrza, prezydenta miasta) 2... . 6. eee ce ee te eee ee zgłoszony PYZEZ LLL ee ee ee ee (nazwisko i imię - imiona kandydata) (nazwa lub skrót nazwy komitetu wyborczego) C. Kandydat nie uzyskał wymaganej liczby głosów za wyborem; wybory wójta zostaną przeprowadzone w trybie opisanym w art. 11 ust. 4 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta."
+    },
+    {
+     "type": "ocr",
+     "text": "III. Zarzuty pełnomocników:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Zarzuty członków Komisji: V. Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji: LLL eraa eee ee eee tee"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) Wypełnia się, jeżeli zachodzi sytuacja, o której mowa w art. 11 ust. 3 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 11",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 28 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 29 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji: ....... 0. cc eee eee eee ee eee"
+    },
+    {
+     "type": "ocr",
+     "text": "a (nazwisko i imię - imiona, funkcja w Komisji) (podpis) De ee ee ee ee ee eee ee eee eee ene Bo ee eee ee ee eee eee a ee ee eee ee ee Bo ee ee ee eee eee eee ee ene ee ee eee ee ee Be ee ee eee ee eee eee ee ee ee te ee ee Seen eee Co ec ee ee eee ee ee eee be eee eee ee eee ip PE a 5:"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) . . EE . : ME wypełnia się, jeżeli zachodzi sytuacja, o której mowa w art. 4 ust. 5 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta."
+    },
+    {
+     "type": "ocr",
+     "text": "2) . . + og ae . . FE Wypełnia się, jeżeli zachodzi sytuacja, o której mowa w art. 4 ust. 8 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta. 3) wypełnia się, jeżeli zachodzi sytuacja, o której mowa w art. 4 ust. 9 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 12",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 13"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 30 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 14",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 15"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 31 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

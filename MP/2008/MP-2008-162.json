@@ -1,0 +1,133 @@
+{
+ "eli": "MP/2008/162",
+ "title": "Uchwała Nr 26 Rady Ministrów z dnia 12 lutego 2008 r. w sprawie koordynacji procesu lizbońskiego w Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/162/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 26 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 lutego 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie koordynacji procesu lizbońskiego w Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Koordynatorem procesu lizbońskiego w Rzeczypospolitej Polskiej, zwanym dalej „koordynatorem”, jest minister właściwy do spraw gospodarki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do zadań koordynatora należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "przygotowywanie projektów krajowych programów reform, zwanych dalej „KPR”, i innych dokumentów towarzyszących oraz przedstawianie ich Radzie Ministrów do zatwierdzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "monitorowanie przebiegu realizacji procesu lizbońskiego w Rzeczypospolitej Polskiej, w tym przygotowywanie rocznych raportów i innych dokumentów sprawozdawczych sporządzanych na potrzeby organów krajowych oraz instytucji Unii Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "reprezentowanie stanowiska Rządu Rzeczypospolitej Polskiej w kontaktach z Komisją Europejską w sprawach związanych z procesem lizbońskim;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "dokonywanie oceny spójności opracowanych przez organy administracji rządowej projektów dokumentów strategicznych związanych z realizacją odnowionej Strategii Lizbońskiej i KPR;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "przygotowywanie projektów stanowisk Rządu Rzeczypospolitej Polskiej do dokumentów Unii Europejskiej dotyczących odnowionej Strategii Lizbońskiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zadania, o których mowa w ust. 1, koordynator wykonuje w szczególności przy pomocy Międzyresortowego Zespołu do spraw realizacji Strategii Lizbońskiej w Polsce powołanego przez Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "W zależności od bieżących potrzeb koordynator organizuje spotkania o charakterze konsultacyjnym z właściwymi ministrami oraz Sekretarzem Komitetu Integracji Europejskiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Koordynator jest odpowiedzialny za prowadzenie konsultacji społecznych dotyczących procesu lizbońskiego, w szczególności w zakresie przygotowywania propozycji reform, informowania o stanie realizacji KPR oraz działań podejmowanych na poziomie Unii Europejskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Koordynator może wystąpić do Przewodniczącego stałego komitetu Rady Ministrów lub Wiceprzewodniczącego Komitetu Europejskiego Rady Ministrów o wstrzymanie postępowania w sprawie wniesionej pod obrady odpowiednio stałego komitetu Rady Ministrów lub Komitetu Europejskiego Rady Ministrów, jeżeli projekt zawiera propozycje niezgodne z celami KPR.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W zakresie nieuregulowanym niniejszą uchwałą stosuje się odpowiednio przepisy uchwały nr 49 Rady Ministrów z dnia 19 marca 2002 r. — Regulamin pracy Rady Ministrów (M. P. Nr 13, poz. 221, z późn. zm.[^1]).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: w z. W. Pawlak"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej uchwały zostały ogłoszone w M. P. z 2002 r. Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734, z 2005 r. Nr 55, poz. 757 oraz z 2006 r. Nr 40, poz. 439."
+ }
+}

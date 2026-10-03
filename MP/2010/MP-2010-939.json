@@ -1,0 +1,53 @@
+{
+ "eli": "MP/2010/939",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 15 września 2010 r. nr 112-39-10 o mianowaniu na stopień nadinspektora celnego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/939/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 września 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "nr 112-39-10"
+  },
+  {
+   "type": "text",
+   "text": "o mianowaniu na stopień nadinspektora celnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 115 ust. 2 oraz art. 120 ust. 4 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 182, poz. 1228), na wniosek Ministra Finansów niżej wymienieni mianowani zostają na stopień nadinspektora celnego:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "inspektor celny Mirosław SIENKIEWICZ",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "inspektor celny Sławomir PICHOR",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: B. Komorowski"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: D. Tusk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

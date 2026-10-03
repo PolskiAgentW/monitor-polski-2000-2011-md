@@ -1,0 +1,88 @@
+{
+ "eli": "MP/2000/680",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 29 sierpnia 2000 r. o zmianie postanowienia o nadaniu orderów i odznaczeń.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/680/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Rej. 115/2000"
+  },
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 sierpnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie postanowienia o nadaniu orderów i odznaczeń."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz ustawy z dnia 16 października 1992 r. orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z 1999 r. Nr 101, poz. 1177 i z 2000 r. Nr 62, poz. 718) postanawia się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W postanowieniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 maja 2000 r. o nadaniu orderów i odznaczeń (Monitor Polski Nr 24, poz. 499) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "po wyrazach „6. Stecz Krzysztof s. Stanisława” skreśla się wyrazy „SREBRNYM KRZYŻEM ZASŁUGI”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "po wyrazach „13. Rzepka Maria c. Leona” skreśla się wyrazy „BRĄZOWYM KRZYŻEM ZASŁUGI”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "skreśla się wyrazy „17. Kist Ewald”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "po wyrazach „obywatele Królestwa Niderlandów za wybitne zasługi dla rozwoju polskiej bankowości” dodaje się wyrazy",
+     "children": [
+      {
+       "type": "text",
+       "text": "„KRZYŻEM OFICERSKIM ORDERU ZASŁUGI RZECZYPOSPOLITEJ POLSKIEJ",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17. Kist Ewald”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem ogłoszenia z mocą od dnia 22 maja 2000 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

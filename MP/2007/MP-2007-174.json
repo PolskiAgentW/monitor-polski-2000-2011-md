@@ -1,0 +1,69 @@
+{
+ "eli": "MP/2007/174",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 27 lutego 2007 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/174/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 lutego 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 6 marca 2007 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: S. S. Skrzypek"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego zdnia 27 lutego 2007 r. (poz. 174)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA i WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Średnica Wielkość Wartość Brzeg Masa (w milime- Stop emisji (bok) (w gramach) trach) (w sztukach) strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części wizerunek Wizerunek katedry pw. św. Mi- Na boku orła ustalony dla godła Rzeczy- chała Archanioła w Łomży. ośmiokrotnie pospolitej Polskiej. Z prawej Udołu półkolem napis: ŁOMŻA powtórzony strony napis: 2 ZŁ. Ugóry półko- napis: NBP, lem napis: RZECZPOSPOLITA co drugi 8,15 27,0 CuAl5Zn5Sn1 1 000 000 POLSKA oraz oznaczenie roku odwrócony 2 zł emisji: 2007. Poniżej orła stylizo- o180 stopni, wany fragment muru miejskie- rozdzielony go z blankami oraz z bramą gwiazdkami orozwartych wrotach, zuniesioną kratą wprześwicie. Pod lewą łapą orła znak mennicy: MW Monitor Polski Nr 15 — 606 — Poz. 174"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,119 @@
+{
+ "eli": "MP/2009/932",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 13 listopada 2009 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monety nominalnej wartości 2 zł i 20 zł upamiętniających Polaków ratujących Żydów - Irena Sendlerowa, Zofia Kossak i siostra Matylda Getter oraz terminów wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/932/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 listopada 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł upamiętniających Polaków ratujących Żydów — Irena Sendlerowa, Zofia Kossak i siostra Matylda Getter oraz terminów wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wzór, próbę, masę i wielkość emisji monety nominalnej wartości 20 zł, określone w załączniku nr 1 do zarządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku nr 2 do zarządzenia",
+     "children": [
+      {
+       "type": "text",
+       "text": "— upamiętniających Polaków ratujących Żydów — Irena Sendlerowa, Zofia Kossak i siostra Matylda Getter."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1 pkt 1, wprowadza się do obiegu z dniem 2 grudnia 2009 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Monetę, o której mowa w § 1 pkt 2, wprowadza się do obiegu z dniem 1 grudnia 2009 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: S. S. Skrzypek"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 13 listopada 2009 r. (poz. 932)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Załącznik 1"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, PRÓBA, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 20 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Średnica Wielkość War- Brzeg (w gra- (w mili- Próba emisji tość strona główna strona odwrotna (bok) mach) metrach) (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "20 zł W środku wizerunek or- U góry stylizowany wi- gładki 28,28 38,61 Ag 925/1000 100 000 ła ustalony dla godła zerunek popiersia sio- Rzeczypospolitej Pol- stry Matyldy Getter; skiej. Pod orłem stylizo- po jego prawej stronie wany wizerunek muru półkolem napis: SIO- z wyrwą w środku oraz STRA MATYLDA/GET- przerwanego drutu kol- TER. U dołu stylizowaczastego. Z lewej strony ny wizerunek popiermuru wizerunek gwiaz- sia Ireny Sendlerowej; dy Dawida. U dołu na- pod nim półkolem napis: 20 ZŁ oraz — po je- pis: IRENA SENDLE- go lewej stronie —ozna- ROWA. U dołu z praczenie roku emisji: 2009. wej strony stylizowany U góry z prawej strony wizerunek popiersia półkolem napis RZECZ- Zofii Kossak; pod nim POSPOLITA POLSKA. półkolem napis: ZOFIA Pod lewą łapą orła znak KOSSAK. Z lewej stromennicy: MW ny półkolem napis: POLACY RATUJĄCY ŻYDÓW. W tle stylizowane wizerunki ptaków"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wartość strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "2 zł Wizerunek orła usta- Stylizowany wizelony dla godła Rze- runek muru z wyczypospolitej Pol- rwą w środku skiej. Po bokach orła w kształcie dłoni. oznaczenie roku emi- Z prawej strony sji: 20-09, pod orłem nad murem napis: napis: ZŁ 2 ZŁ, w oto- ŻEGOTA. Z lewej ku napis: RZECZPO- strony nad murem SPOLITA POLSKA, wizerunek drutu poprzedzony oraz za- kolczastego. U gókończony sześcioma ry półkolem napis: perełkami. Pod lewą POLACY RATUJĄ- łapą orła znak men- CY ŻYDÓW nicy: MW Masa Średnica Wielkość Brzeg (bok) (w gra- (w mili- Stop emisji mach) metrach) (w sztukach) Na boku 8,15 27,0 CuAl5Zn5Sn1 1 400 000 ośmiokrotnie powtórzony napis: NBP, co drugi odwrócony o 180 stopni, rozdzielony gwiazdkami"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317 oraz z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164."
+ }
+}

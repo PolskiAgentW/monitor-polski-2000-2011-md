@@ -1,0 +1,68 @@
+{
+ "eli": "MP/2002/31",
+ "title": "Komunikat Nr 1/2002/DOKE Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 14 stycznia 2002 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD).",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/31/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT Nr 1/2002/DOKE PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 stycznia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych — stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Wytycznych dla Oficjalnie Wspieranych Kredytów Eksportowych z dnia 1 kwietnia 1978 r.; minimalne stopy wyznaczane są przez stopy CIRR (stopy referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stopy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników ww. Porozumienia OECD; stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 stycznia 2002 r. do dnia 14 lutego 2002 r. dla niżej wymienionych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "text",
+     "text": "waluta kraju/okres kredytowania symbol waluty stopa CIRR"
+    },
+    {
+     "type": "text",
+     "text": "dolar amerykański ≤5 lat USD 4,62 > 5 do 8,5 lat 5,39 > 8,5 lat 5,86"
+    },
+    {
+     "type": "text",
+     "text": "dolar australijski AUD 6,47 dolar kanadyjski ≤5 lat CAD 4,83 > 5 do 8,5 lat 5,67 > 8,5 lat 6,11"
+    },
+    {
+     "type": "text",
+     "text": "dolar nowozelandzki NZD 7,32 euro ≤5 lat EUR 4,91 > 5 do 8,5 lat 5,32 > 8,5 lat 5,61 forint węgierski HUF 9,13 frank szwajcarski CHF 4,09 funt brytyjski ≤5 lat GBP 5,73 > 5 do 8,5 lat 5,92 > 8,5 lat 5,95 jen japoński JPY 1,65 korona czeska CZK 5,60 korona duńska ≤5 lat DKK 5,44 > 5 do 8,5 lat 5,78 > 8,5 lat 5,96 korona norweska NOK 6,79 korona szwedzka ≤5 lat SEK 5,45 > 5 do 8,5 lat 5,90 > 8,5 lat 6,09 won koreański KRW 7,95"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: R. Pazura"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

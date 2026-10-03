@@ -1,0 +1,527 @@
+{
+ "eli": "MP/2005/757",
+ "title": "Uchwała Nr 244 Rady Ministrów z dnia 20 września 2005 r. zmieniająca uchwałę - Regulamin pracy Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/757/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 244 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę — Regulamin pracy Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 49 Rady Ministrów z dnia 19 marca 2002 r. — Regulamin pracy Rady Ministrów (M. P. Nr 13, poz. 221 i Nr 30, poz. 482 oraz z 2004 r. Nr 42, poz. 734) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 5:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. 2 na końcu dodaje się wyrazy „, oraz przy uwzględnieniu planów pracy organów Unii Europejskiej i terminów wdrożenia prawa Unii Europejskiej”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "dodaje się ust. 3 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Program prac legislacyjnych Rządu podlega zaopiniowaniu przez Radę Legislacyjną przy Prezesie Rady Ministrów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 8 dodaje się pkt 3—5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) rozesłaniu do wiadomości członkom Rady Ministrów dokumentów informacyjnych — bez konieczności ich rozpatrywania przez stały komitet Rady Ministrów lub Komitet Europejski Rady Ministrów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wyrażeniu, gdy waga lub pilność sprawy wymaga niezwłocznego jej rozstrzygnięcia przez Radę Ministrów, zgody na rozpatrzenie projektu dokumentu rządowego, który:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) nie został zaopiniowany zgodnie z § 11 lub § 12 ust. 2—5 lub",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) nie został uzgodniony z członkami Rady Ministrów zgodnie z § 12 ust. 1, lub",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) nie został rozpatrzony przez stały komitet Rady Ministrów lub Komitet Europejski Rady Ministrów (§ 19 ust. 2), lub",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) nie spełnia wymogów określonych w § 24 ust. 3 pkt 1 lit. a—d i pkt 2 (§ 24 ust. 4),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) skróceniu terminów określonych w § 24 ust. 1 i § 36.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "po § 8 dodaje się § 8a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 8a. Prezes Rady Ministrów decyduje o odrębnym trybie, o którym mowa w § 8 pkt 3—5, wyrażając zgodę na umieszczenie projektu dokumentu rządowego w porządku obrad Rady Ministrów lub jego rozpatrzenie w trybie obiegowym lub bezpośrednio na posiedzeniu Rady Ministrów, na którym projekt dokumentu rządowego będzie rozpatrywany, z uwzględnieniem § 19 ust. 2, § 24 ust. 1 i 4 oraz § 36.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 10:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "w ust. 2 dodaje się pkt 4 i 5 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) informację, czy projekt aktu normatywnego podlega notyfikacji zgodnie z trybem przewidzianym w przepisach dotyczących sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych — w przypadku projektów zawierających przepisy techniczne,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) informację o przedstawieniu projektu dokumentu rządowego zgodnie z § 12a.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "uchyla się ust. 5,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_4/lit_c",
+       "text": "w ust. 6 w pkt 3 lit. c otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„c) konkurencyjność gospodarki i przedsiębiorczość, w tym na funkcjonowanie przedsiębiorstw,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "po § 12 dodaje się § 12a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 12a. Organ wnioskujący jest obowiązany przedstawić projekt dokumentu rządowego także właściwym instytucjom i organom Unii Europejskiej lub Europejskiemu Bankowi Centralnemu celem uzyskania opinii, dokonania konsultacji albo uzgodnienia, w przypadkach określonych w obowiązujących na terytorium Rzeczypospolitej Polskiej przepisach Unii Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w rozdziale 2 po § 13 dodaje się § 13a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 13a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Jeżeli jest to uzasadnione terminami prac Rady Unii Europejskiej lub Komitetu Stałych Przedstawicieli, projekty dokumentów rządowych mogą być kierowane do uzgodnienia lub zaopiniowania również za pośrednictwem urządzeń teletransmisyjnych lub z wykorzystaniem elektronicznych nośników informacji, w miarę możliwości z wykorzystaniem bezpiecznego podpisu elektronicznego i znakowania czasem.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku, o którym mowa w ust. 1, organ wnioskujący wyznacza termin do zajęcia stanowiska, wynikający z terminów prac Rady Unii Europejskiej lub Komitetu Stałych Przedstawicieli.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przepis ust. 1 stosuje się także do przekazywania stanowisk do projektów dokumentów kierowanych do uzgodnienia lub zaopiniowania w sposób określony w ust. 1.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w § 18 uchyla się ust. 3;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "§ 19 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 19.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Projekty dokumentów rządowych podlegają, przed ich wniesieniem pod obrady Rady Ministrów, rozpatrzeniu przez stały komitet Rady Ministrów. Projekty dokumentów rządowych związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, w tym projekty ustaw dostosowawczych, są rozpatrywane przez Komitet Europejski Rady Ministrów, a w przypadku gdy wywołują istotne skutki w zakresie prawa krajowego, budżetu państwa lub gospodarki, także przez stały komitet Rady Ministrów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W uzasadnionych przypadkach, w szczególności gdy waga lub pilność sprawy wymaga niezwłocznego jej rozstrzygnięcia przez Radę Ministrów, Prezes Rady Ministrów może wyrazić zgodę na wniesienie projektu dokumentu rządowego do rozpatrzenia i rozstrzygnięcia przez Radę Ministrów, bez jego uprzedniego rozpatrzenia przez stały komitet Rady Ministrów lub Komitet Europejski Rady Ministrów. W takich przypadkach stanowisko, rekomendację lub opinię przedstawia Radzie Ministrów przewodniczący komitetu lub członek Rady Ministrów wskazany przez Prezesa Rady Ministrów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Projekty dokumentów rządowych związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, które mają być przekazane do instytucji i organów Unii Europejskiej lub Europejskiego Banku Centralnego, zgodnie z wymogami tych podmiotów w obcej wersji językowej, są wnoszone także w języku polskim.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "w § 20 w ust. 2 po wyrazach „zasadami techniki prawodawczej” dodaje się wyrazy „, opinią Rady Legislacyjnej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "w § 21 w ust. 3 zdanie drugie otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„W razie rozbieżności opinii przewodniczący może poddawać zagadnienie prawne pod głosowanie i rozstrzygnąć je, uwzględniając opinię popartą przez większość członków Komisji Prawniczej, z tym że zagadnienia prawne dotyczące zgodności projektu z prawem Unii Europejskiej, na wniosek przewodniczącego, rozstrzyga przedstawiciel Urzędu Komitetu Integracji Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "w § 22 w ust. 1 po wyrazach „stały komitet Rady Ministrów,” dodaje się wyrazy „Komitet Europejski Rady Ministrów.”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "w § 24:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_12/lit_a",
+       "text": "w ust. 1 zdanie drugie otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„W uzasadnionych przypadkach, gdy waga lub pilność sprawy wymagają jej niezwłocznego rozstrzygnięcia przez Radę Ministrów albo jest to uzasadnione terminami prac Rady Unii Europejskiej lub Komitetu Stałych Przedstawicieli, termin ten, za zgodą Prezesa Rady Ministrów, może zostać skrócony.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_12/lit_b",
+       "text": "w ust. 3 w pkt 1 w lit. b na końcu dodaje się wyrazy „lub opinii organów lub podmiotów, którym projekt dokumentu rządowego był przekazany, zgodnie z wymogami określonymi w § 12 ust. 2—5,”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_12/lit_c",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Przepisy ust. 3 i 4 stosuje się odpowiednio do projektów dokumentów rządowych rozpatrywanych przez Komitet Europejski Rady Ministrów lub stały komitet Rady Ministrów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "§ 30 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 30.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Porządek obrad opracowuje oraz wprowadza w nim zmiany Sekretarz Rady Ministrów w trybie określonym w pisemnym upoważnieniu udzielonym przez Prezesa Rady Ministrów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Porządek obrad może zostać zmieniony lub uzupełniony przez Prezesa Rady Ministrów z inicjatywy własnej lub na umotywowany wniosek zgłoszony przez członka Rady Ministrów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Porządek obrad Prezes Rady Ministrów zatwierdza na posiedzeniu Rady Ministrów, po zasięgnięciu opinii członków Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "w § 31 w ust. 4 po wyrazach „stały komitet Rady Ministrów” dodaje się wyrazy „i Komitet Europejski Rady Ministrów”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "po § 34 dodaje się § 34a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 34a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rada Ministrów, przyjmując projekt dokumentu rządowego, powierza sporządzenie tekstu ostatecznego dokumentu rządowego, zgodnego z postanowieniami Rady Ministrów, organowi wnioskującemu lub innemu wskazanemu, w uzgodnieniu z Rządowym Centrum Legislacji i właściwą komórką organizacyjną Kancelarii Prezesa Rady Ministrów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Sekretarz Rady Ministrów może zarządzić rozesłanie tekstu ostatecznego dokumentu rządowego do członków Rady Ministrów w celu potwierdzenia, w terminie nie dłuższym niż 3 dni, dokonanych po posiedzeniu Rady Ministrów dodatkowych uzgodnień dokumentu rządowego lub brzmienia przepisów, których ostateczną redakcję Rada Ministrów powierzyła zgodnie z ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przypadku nieuzyskania potwierdzenia uzgodnień przepis § 35 stosuje się.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "w § 36 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Prezes Rady Ministrów lub z jego upoważnienia Sekretarz Rady Ministrów może, na wniosek uprawnionego organu albo z inicjatywy własnej, zarządzić rozpatrzenie projektu dokumentu rządowego lub rozstrzygnięcie sprawy w drodze korespondencyjnego uzgodnienia stanowisk przez członków Rady Ministrów (tryb obiegowy).”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "w § 50 dodaje się ust. 4 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Projekt stanowiska Rządu do pozarządowego projektu ustawy może być skierowany do zaopiniowania przez Radę Legislacyjną przy Prezesie Rady Ministrów. Przepis § 12 ust. 2 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "§ 53 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 53. Do trybu działania stałego komitetu Rady Ministrów oraz Komitetu Europejskiego Rady Ministrów stosuje się odpowiednio przepisy dotyczące trybu pracy Rady Ministrów, z uwzględnieniem odrębności wynikających z zakresu zadań i kompetencji komitetu, określonych w akcie o jego utworzeniu. Określone w tych przepisach uprawnienia Prezesa Rady Ministrów przysługują przewodniczącemu komitetu, a Sekretarza Rady Ministrów — sekretarzowi komitetu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_1/pkt_19",
+     "text": "w § 56 w ust. 3 po wyrazach „przedmiotem tych prac” dodaje się wyrazy „ , w tym przedstawiciela Rady Legislacyjnej przy Prezesie Rady Ministrów”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_1/pkt_20",
+     "text": "po § 60 dodaje się § 60a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 60a. W uzasadnionych przypadkach, gdy waga lub pilność sprawy, wynikająca z terminów prac Rady Unii Europejskiej, Komitetu Stałych Przedstawicieli lub z terminów wynikających z przepisów dotyczących współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, wymaga niezwłocznego jej rozstrzygnięcia przez Radę Ministrów, Przewodniczący Komitetu Europejskiego Rady Ministrów lub działający z jego upoważnienia sekretarz Komitetu Europejskiego Rady Ministrów mogą zarządzić rozpatrzenie projektu dokumentu rządowego lub rozstrzygnięcie sprawy w trybie określonym w § 36.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_1/pkt_21",
+     "text": "w § 62:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_21/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Sekretarz Rady Ministrów przygotowuje i obsługuje posiedzenia Rady Ministrów, a ponadto wykonuje obowiązki związane w szczególności z:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) przyjmowaniem od organów uprawnionych oraz przekazywaniem członkom Rady Ministrów i właściwemu komitetowi Rady Ministrów projektów dokumentów rządowych, z zachowaniem terminów i innych wymogów określonych w ustawie i uchwale,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) opracowywaniem porządku obrad Rady Ministrów,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) sprawowaniem, przy udziale właściwych komórek organizacyjnych Kancelarii Prezesa Rady Ministrów, nadzoru nad:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) przedkładaniem ostatecznych tekstów dokumentów rządowych do podpisu Prezesowi Rady Ministrów,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) sporządzaniem i przechowywaniem zapisu posiedzenia i protokołu ustaleń oraz nad opracowywaniem i dostarczaniem protokołu ustaleń, z zachowaniem wymogów określonych w ustawie i uchwale,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) ewidencjonowaniem dokumentów rządowych przyjętych przez Radę Ministrów,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) informowaniem, za pośrednictwem rządowych służb informacyjnych, opinii publicznej o przedmiocie posiedzeń Rady Ministrów i rozstrzygnięciach, jakie zapadły na posiedzeniach,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) kierowaniem przez Prezesa Rady Ministrów spraw do rozpatrzenia i rozstrzygnięcia przez Radę Ministrów w drodze korespondencyjnego uzgodnienia stanowisk (w trybie obiegowym),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) kontrolą realizacji ustaleń zamieszczonych w protokołach ustaleń.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_21/lit_b",
+       "text": "ust. 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. W zakresie powierzonych mu obowiązków Sekretarz Rady Ministrów współdziała w szczególności z Rządowym Centrum Legislacji, sekretarzami właściwych komitetów Rady Ministrów oraz z Radą Legislacyjną przy Prezesie Rady Ministrów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_1/pkt_22",
+     "text": "uchyla się § 63.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem powzięcia i podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

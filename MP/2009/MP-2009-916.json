@@ -1,0 +1,181 @@
+{
+ "eli": "MP/2009/916",
+ "title": "Komunikat nr 11/2009/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 12 listopada 2009 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/916/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT Nr 11/2009/(DOKE) PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 listopada 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych — stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762 oraz z 2004 r. Nr 173, poz. 1808) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762 oraz z 2004 r. Nr 173, poz. 1808) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Oficjalnie Wspieranych Kredytów Eksportowych z dnia 1 kwietnia 1978 r.; minimalne stopy wyznaczane są przez stopy CIRR (sto-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Waluta kraju Okres spłaty"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat dolar amerykański > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "dolar australijski"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat dolar kanadyjski > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "dolar nowozelandzki"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat euro > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "forint węgierski"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat frank szwajcarski > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat funt brytyjski > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat jen japoński > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "korona czeska"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat korona duńska > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "korona norweska"
+    },
+    {
+     "type": "text",
+     "text": "≤ 5 lat korona szwedzka > 5 lat do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "won koreański"
+    },
+    {
+     "type": "text",
+     "text": "złoty polski py referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "s topy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników ww. Porozumienia OECD; stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 listopada 2009 r. do dnia 14 grudnia 2009 r. dla niżej wymienionych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "text",
+     "text": "Symbol waluty Stopa CIRR"
+    },
+    {
+     "type": "text",
+     "text": "2,46 USD 3,33 3,96"
+    },
+    {
+     "type": "text",
+     "text": "AUD 6,34"
+    },
+    {
+     "type": "text",
+     "text": "2,97 CAD 3,71 3,96"
+    },
+    {
+     "type": "text",
+     "text": "NZD 6,19"
+    },
+    {
+     "type": "text",
+     "text": "2,89 EUR 3,61 4,14"
+    },
+    {
+     "type": "text",
+     "text": "HUF 8,10"
+    },
+    {
+     "type": "text",
+     "text": "1,89 CHF 2,38 2,78"
+    },
+    {
+     "type": "text",
+     "text": "2,90 GBP 3,62 4,10"
+    },
+    {
+     "type": "text",
+     "text": "1,36 JPY 1,63 1,90"
+    },
+    {
+     "type": "text",
+     "text": "CZK 4,60"
+    },
+    {
+     "type": "text",
+     "text": "3,17 DKK 4,15 4,39"
+    },
+    {
+     "type": "text",
+     "text": "NOK 4,58"
+    },
+    {
+     "type": "text",
+     "text": "3,58 SEK 3,86 4,25"
+    },
+    {
+     "type": "text",
+     "text": "KRW 5,91"
+    },
+    {
+     "type": "text",
+     "text": "PLN 6,74"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: T. Mironczuk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,381 @@
+{
+ "eli": "MP/2011/743",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 8 sierpnia 2011 r. w sprawie trybu i sposobu przekazywania przez okręgowe i obwodowe komisje wyborcze Państwowej Komisji Wyborczej w trakcie głosowania danych o liczbie osób uprawnionych do głosowania oraz liczbie wyborców, którym wydano karty do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/743/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 sierpnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie trybu i sposobu przekazywania przez okręgowe i obwodowe komisje wyborcze Państwowej Komisji Wyborczej w trakcie głosowania danych o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 80 § 3 i art. 162 § 1 pkt 3 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się tryb i sposób przekazywania przez okręgowe i obwodowe komisje wyborcze Państwowej Komisji Wyborczej w trakcie głosowania danych o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r., określony w załączniku do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: wz. K. Czaplicki"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 8 sierpnia 2011 r. (poz. 743)"
+    },
+    {
+     "type": "text",
+     "text": "TRYB I SPOSÓB PRZEKAZYWANIA PRZEZ OKRĘGOWE I OBWODOWE KOMISJE WYBORCZE PAŃSTWOWEJ KOMISJI WYBORCZEJ W TRAKCIE GŁOSOWANIA DANYCH O LICZBIE OSÓB UPRAWNIONYCH DO GŁOSOWANIA ORAZ O LICZBIE WYBORCÓW, KTÓRYM WYDANO KARTY DO GŁOSOWANIA W WYBORACH DO SEJMU RZECZYPOSPOLITEJ POLSKIEJ I DO SENATU RZECZYPOSPOLITEJ POLSKIEJ, ZARZĄDZONYCH NA DZIEŃ 9 PAŹDZIERNIKA 2011 R."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Obwodowe komisje wyborcze przekazują Państwowej Komisji Wyborczej w trakcie głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dane o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Liczbę osób uprawnionych do głosowania ustala się na podstawie liczby osób umieszczonych w spisie wyborców łącznie z osobami dopisanymi przez komisję obwodową w trakcie głosowania, natomiast liczbę wyborców, którym wydano karty do głosowania, stanowi suma liczby podpisów wyborców potwierdzających otrzymanie karty do głosowania, łącznie z adnotacjami „odmowa podpisu” (również tych wyborców, przy których nazwiskach znajdują się adnotacje „bez Sejmu” lub „bez Senatu”).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Obwodowe komisje wyborcze w dniu wyborów dane, o których mowa w pkt 2, przekazują trzykrotnie — według stanu na godzinę 9⁰⁰, 14⁰⁰, 18⁰⁰, zwane dalej „godzinami sprawozdawczymi”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Okręgowe komisje wyborcze zobowiązane są szczegółowo omówić na szkoleniach członków obwodowych komisji wyborczych tryb i sposób przekazywania danych o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania, zwanych dalej „danymi”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Obwodowe komisje wyborcze przekazują dane właściwym okręgowym komisjom wyborczym za pośrednictwem pełnomocników ustanowionych przez okręgową komisję wyborczą, zwanych dalej „pełnomocnikami”, upoważnionych do telefonicznego przyjęcia danych od wskazanych komisji obwodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Przekazywanie danych przez pełnomocników odbywa się za pośrednictwem systemu informatycznego, o którym mowa w uchwale Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M. P. Nr 63, poz. 601).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Okręgowe komisje wyborcze utworzą grupy komisji obwodowych powiązane z pełnomocnikami i informacje o tym przekażą właściwym obwodowym komisjom wyborczym. Grupa obwodów obejmuje gminę bądź część gminy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Pełnomocnik otrzymuje wykaz obwodowych komisji wyborczych wchodzących w skład grupy ze wskazaniem przy każdej komisji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_8/pkt_1",
+       "text": "numeru obwodu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_8/pkt_2",
+       "text": "adresu komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_8/pkt_3",
+       "text": "imienia i nazwiska przewodniczącego komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_8/pkt_4",
+       "text": "numeru telefonu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_2/ust_9",
+     "text": "Informacja, którą otrzyma każda z komisji obwodowych wchodzących w skład grupy, powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_9/pkt_1",
+       "text": "imię i nazwisko pełnomocnika, jego numer telefonu i adres;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_9/pkt_2",
+       "text": "wskazanie godziny, do której przyjmowane są dane przez pełnomocników (do godziny 9³⁰, 14³⁰ i 18³⁰);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_9/pkt_3",
+       "text": "opis sposobu przekazywania danych z komisji obwodowej pełnomocnikowi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_9/pkt_4",
+       "text": "numer telefonu do okręgowej komisji wyborczej przeznaczony wyłącznie do przyjmowania informacji o sytuacjach awaryjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_9/pkt_5",
+       "text": "przypomnienie o konieczności zachowania dyscypliny przy przekazywaniu danych; telefoniczne przekazywanie danych powinno być krótkie i rzeczowe, by nie blokować linii telefonicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_2/ust_10",
+     "text": "Do godziny 8⁰⁰ w dniu głosowania pełnomocnicy skontaktują się telefonicznie z komisjami obwodowymi wchodzącymi w skład grupy, w celu potwierdzenia sprawności połączeń telefonicznych i poprawności informacji o numerach telefonów. Jeśli członkowie obwodowych komisji posiadają telefony komórkowe, wskazane jest przekazanie ich numerów pełnomocnikowi, w przypadku potrzeby awaryjnego ich wykorzystania (np. w razie awarii telefonu stacjonarnego). W razie trudności z nawiązaniem kontrolnych połączeń telefonicznych należy niezwłocznie powiadomić o tym wójta (burmistrza, prezydenta miasta) oraz okręgową komisję wyborczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_2/ust_11",
+     "text": "Pełnomocnik sporządza arkusz z informacjami o komisjach obwodowych, od których otrzyma dane, z wolnymi rubrykami do wpisania tych danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_2/ust_12",
+     "text": "W celu ułatwienia sumowania otrzymanych danych pełnomocnik powinien być wyposażony w komputer z odpowiednim oprogramowaniem (arkusz kalkulacyjny) lub w kalkulator.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_2/ust_13",
+     "text": "Obwodowe komisje wyborcze, w miarę możliwości, przystępują do ustalenia danych jeszcze przed upływem godzin sprawozdawczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "par_2/ust_14",
+     "text": "Niezwłocznie po upływie godzin sprawozdawczych komisje ustalają dane i przekazują je pełnomocnikom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "par_2/ust_15",
+     "text": "Dane przekazywane przez komisje obwodowe pełnomocnikom powinny zawierać następującą treść:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_15/pkt_1",
+       "text": "numer obwodu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_15/pkt_2",
+       "text": "adres komisji obwodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_15/pkt_3",
+       "text": "imię i nazwisko przewodniczącego komisji obwodowej (jeśli informację przekazuje zastępca przewodniczącego lub inny członek komisji, powinien podać imię i nazwisko przewodniczącego oraz własne);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_15/pkt_4",
+       "text": "liczbę osób uprawnionych do głosowania w formie: „liczba uprawnionych: jeden, zero, dwa, cztery; powtarzam: tysiąc dwadzieścia cztery”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_15/pkt_5",
+       "text": "liczbę wyborców, którym wydano karty do głosowania, w formie: „liczba wydanych kart: cztery, pięć, jeden; powtarzam: czterysta pięćdziesiąt jeden”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "par_2/ust_16",
+     "text": "Pełnomocnik, przyjmując dane, sprawdza zgodność elementów identyfikujących komisję przekazującą (numer obwodu, adres komisji oraz imię i nazwisko przewodniczącego komisji), a następnie wpisuje w odpowiednich rubrykach przekazane mu dane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "par_2/ust_17",
+     "text": "W celu potwierdzenia tożsamości osoby przekazującej dane okręgowa komisja wyborcza może określić jednakową dla całej grupy wymaganą kolejność podania danych wymienionych w pkt 15 ppkt 1—3 (np. adres komisji, imię i nazwisko przewodniczącego, numer obwodu). W razie wątpliwości co do tożsamości osoby, która przekazała dane, pełnomocnik powinien połączyć się telefonicznie z komisją, która je przekazywała, i uzyskać potwierdzenie przyjętych danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "par_2/ust_18",
+     "text": "Pełnomocnik oczekuje na dane z komisji obwodowych nie dłużej niż 30 minut po upływie godziny sprawozdawczej (do godziny 9³⁰, 14³⁰ i 18³⁰). Jeśli w tym czasie pełnomocnik nie otrzyma danych od którejś z komisji obwodowych, ustala telefonicznie przyczynę nieprzekazania danych. Jeżeli nie byłoby możliwości połączenia się telefonicznego lub z innych przyczyn uzyskanie danych z komisji obwodowej nie byłoby możliwe do godziny 9⁴⁰, 14⁴⁰, 18⁴⁰, pełnomocnik nie uwzględnia danych z tego obwodu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "par_2/ust_19",
+     "text": "Pełnomocnik sumuje otrzymane z obwodów dane o osobach uprawnionych do głosowania, a następnie o wyborcach, którym wydano karty do głosowania; w przypadku nieuzyskania danych z jednego bądź większej liczby obwodów odnotowuje liczbę tych obwodów. Przed przekazaniem zbiorczych danych do okręgowej komisji wyborczej pełnomocnik sprawdza poprawność sumowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "par_2/ust_20",
+     "text": "Przekazanie danych przez pełnomocnika do okręgowej komisji wyborczej następuje za pośrednictwem systemu informatycznego, o którym mowa w uchwale wymienionej w pkt 6.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "par_2/ust_21",
+     "text": "W przypadku braku możliwości użycia systemu informatycznego dane przekazuje się do okręgowej komisji wyborczej na wskazany wcześniej numer telefonu, podając:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_21/pkt_1",
+       "text": "n azwę gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_21/pkt_2",
+       "text": "i mię i nazwisko pełnomocnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_21/pkt_3",
+       "text": "l iczbę obwodów, z których uzyskano dane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_21/pkt_4",
+       "text": "s umę liczb osób uprawnionych do głosowania w obwodach wchodzących w skład grupy — w formie jak w pkt 15 ppkt 4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_21/pkt_5",
+       "text": "s umę liczb wyborców, którym wydano karty do głosowania w obwodach wchodzących w skład grupy — w formie jak w pkt 15 ppkt 5;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_21/pkt_6",
+       "text": "e wentualnie wskazanie numerów i siedzib komisji obwodowych, które nie przekazały danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "par_2/ust_22",
+     "text": "Jeśli na obszarze gminy powołano więcej niż jednego pełnomocnika, okręgowa komisja wyborcza wyznacza spośród nich osobę odpowiedzialną za ustalenie i wprowadzenie do systemu zbiorczych danych za gminę. Pozostali pełnomocnicy przekazują tej osobie informacje w zakresie i w sposób określony w pkt 15 ppkt 5 i pkt 21; pkt 18 i pkt 20 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "par_2/ust_23",
+     "text": "Osoby przyjmujące telefonicznie dane w siedzibie okręgowej komisji wyborczej powinny posiadać wykaz pełnomocników, którzy przekazują im dane, oraz arkusze do wpisania tych danych. Dane przekazane telefonicznie są rejestrowane w systemie elektronicznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "par_2/ust_24",
+     "text": "Jako nieprzekraczalny termin przekazania przez pełnomocników danych do okręgowej komisji wyborczej przyjmuje się godzinę 9⁵⁰, 14⁵⁰ i 18⁵⁰. Jeśli w tym terminie okręgowa komisja wyborcza nie otrzyma danych od któregoś z pełnomocników bądź stwierdzi, że dane nie zostały przez pełnomocnika wprowadzone do systemu elektronicznego, powinna połączyć się z nim telefonicznie w celu ustalenia przyczyny nieprzekazania danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "par_2/ust_25",
+     "text": "Jeżeli nie byłoby możliwości uzyskania połączenia telefonicznego lub z innych przyczyn przekazanie danych przez pełnomocnika nie byłoby możliwe do godziny 9⁵⁵, 14⁵⁵, 18⁵⁵, okręgowa komisja wyborcza dokonuje podsumowania otrzymanych danych i przekazuje je do Państwowej Komisji Wyborczej za pośrednictwem sieci elektronicznego przekazywania danych, nie później niż o godzinie 10⁰⁰, 15⁰⁰ i 19⁰⁰.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "par_2/ust_26",
+     "text": "Okręgowa komisja wyborcza przekazuje dane z podziałem na gminy, podając również informację o liczbie obwodów ogółem w gminie oraz o liczbie obwodów, z których dane nie zostały uzyskane.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889 i Nr 171, poz. 1016."
+ }
+}

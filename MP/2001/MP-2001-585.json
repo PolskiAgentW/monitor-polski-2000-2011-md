@@ -1,0 +1,136 @@
+{
+ "eli": "MP/2001/585",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 19 października 2001 r. w sprawie wyboru wicemarszałków Sejmu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/585/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Monitor Polski N r 37 — 938 — Poz. 584, 585 i 586"
+  },
+  {
+   "type": "text",
+   "text": "584"
+  },
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "zdnia 19 października 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "wsprawie ustalenia liczby wicemarszałków Sejmu."
+  },
+  {
+   "type": "text",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie art. 4 ust. 2 Regulaminu Sejmu, ustala liczbę wicemarszałków Sejmu na czterech. Marszałek Sejmu:M. Borowski"
+  },
+  {
+   "type": "text",
+   "text": "585"
+  },
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "zdnia 19 października 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "wsprawie wyboru wicemarszałków Sejmu."
+  },
+  {
+   "type": "text",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie — Donalda TUSKA art.110 ust. 1 Konstytucji Rzeczypospolitej Polskiej, dokonuje wyboru posłów: — Janusza WOJCIECHOWSKIEGO na stanowiska wicemarszałków Sejmu. — Andrzeja LEPPERA"
+  },
+  {
+   "type": "text",
+   "text": "— Tomasza NAŁĘCZA Marszałek Sejmu: M. Borowski"
+  },
+  {
+   "type": "text",
+   "text": "586"
+  },
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "zdnia 19 października 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "wsprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Wuchwale Sejmu Rzeczypospolitej Polskiej f) pkt 18 otrzymuje brzmienie: z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypo- „18) Polityki Społecznej iRodziny,” spolitej Polskiej (Monitor Polski z 1998 r. Nr 44, poz.618, z1999 r. Nr 11, poz. 150 iNr 23, poz. 331 oraz g) skreśla się pkt 20 i26, z2000 r. Nr 9, poz. 177, Nr 21, poz. 428 iNr 42, poz.804) h) dodaje się pkt 26awbrzmieniu: wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„26a) Ustawodawczą,”;",
+     "quoted": true
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "wart. 19 wust. 1:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "wart. 31:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "dodaje się pkt 4awbrzmieniu: a) wust. 6 wyrazy „Komisji Sprawiedliwości iPraw „4a)Europejską,” Człowieka” zastępuje się wyrazami „Komisji Ustawodawczej”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "dodaje się pkt 6awbrzmieniu: b) wust. 8 wyrazy „Komisji Integracji Europejskiej” „6a) Infrastruktury,” zastępuje się wyrazami „Komisji Europejskiej”;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "skreśla się pkt 7, 3) wart. 52ewust. 3 iwart. 54awust. 3 wyrazy „Komisji Sprawiedliwości iPraw Człowieka” zastępuje d) pkt 8 otrzymuje brzmienie: się wyrazami „Komisji Ustawodawczej”;",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8) Kultury Fizycznej iSportu,” 4) w art. 56:",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_2/lit_e",
+       "text": "skreśla się pkt 11, 14 i17, a) skreśla się ust. 2,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

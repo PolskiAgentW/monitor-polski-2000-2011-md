@@ -1,0 +1,345 @@
+{
+ "eli": "MP/2006/227",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 7 marca 2006 r. w sprawie wykazów hut i spółek zależnych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/227/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 marca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazów hut i spółek zależnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ustawy z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. Nr 111, poz. 1196, z późn. zm.[^2]) ogłasza się wykaz:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "hut, którym udzielenie pomocy publicznej na restrukturyzację jest dopuszczalne, stanowiący załącznik nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "hut, którym udzielenie pomocy publicznej na restrukturyzację jest niedopuszczalne, stanowiący załącznik nr 2 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "spółek zależnych, stanowiący załącznik nr 3 do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: P. G. Woźniak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Gospodarki z dnia 7 marca 2006 r. (poz. 227)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ HUT, KTÓRYM UDZIELENIE POMOCY PUBLICZNEJ NA RESTRUKTURYZACJĘ JEST DOPUSZCZALNE"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "HUTA BANKOWA Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Arcelor Huta Warszawa Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "HUTA ŁABĘDY Spółka Akcyjna;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "„Huta Pokój” Spółka Akcyjna;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Mittal Steel Poland Spółka Akcyjna;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Technologie Buczek Spółka Akcyjna.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik nr 2"
+      },
+      {
+       "type": "text",
+       "text": "WYKAZ HUT, KTÓRYM UDZIELENIE POMOCY PUBLICZNEJ NA RESTRUKTURYZACJĘ JEST NIEDOPUSZCZALNE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Huta „ANDRZEJ” Spółka Akcyjna w upadłości; 6. Huta „Kościuszko” Spółka Akcyjna;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Huta Baildon Spółka Akcyjna w upadłości; 7. Huta „Łaziska” Spółka Akcyjna;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Huta „BATORY” Spółka Akcyjna w upadłości; 8. Huta „Małapanew” Spółka Akcyjna w upadłości;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Huta „Gliwice” Spółka Akcyjna w upadłości; 9. Huta Ostrowiec Spółka Akcyjna w upadłości;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Huta „Jedność” Spółka Akcyjna w likwidacji; 10. Huta „ZYGMUNT” Spółka Akcyjna w upadłości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ SPÓŁEK ZALEŻNYCH"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "„Euroblacha” Spółka Akcyjna;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "„Eurokonstrukcje” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Flor-El Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "„Flor-Media” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "„Flor-Serwis” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Przedsiębiorstwo Usług Remontowych i Serwisowych REMIS Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "HK Utrzymanie Ruchu Zakładu Stali i Półwyrobów Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "HK Utrzymanie Ruchu Zakładu Wielkopiecowego Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Zakład Badań Ochrony Środowiska i Technologii Hutniczych Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "HK Zakład Automatyzacji Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "HK Zakład Usługowo Handlowy „Partner” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "EUROSERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "„KOLHUT” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "„PORAD-MED” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Przedsiębiorstwo Produkcyjno Usługowe „Zakład Automatyzacji HTS” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Przedsiębiorstwo Produkcyjno Usługowo Handlowe EKO-ENERGIA Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Przedsiębiorstwo Przerobu i Obrotu Złomem Metali „HK-Cutiron” Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Przedsiębiorstwo Usług Kolejowych KOLPREM Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Przemysłowe Towarzystwo Finansowe Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Buczek Automotive Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Trans — Koks Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Zakład Energetyczny ZEN Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "H.K. - Produkcyjny Ośrodek Maszynowy Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Huta Katowice Zakład Transportu Samochodowego Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "HK Eko-Grys Spółka z ograniczoną odpowiedzialnością;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "IPS GRUPA SERWISOWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 31 października 2005 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 220, poz. 1888).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 56, poz. 495, Nr 90, poz. 844 i Nr 139, poz. 1325, z 2004 r. Nr 12, poz. 102 i Nr 120, poz. 1252 oraz z 2005 r. Nr 167, poz. 1398 i Nr 184, poz. 1539."
+ }
+}

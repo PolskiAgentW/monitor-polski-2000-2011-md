@@ -1,0 +1,491 @@
+{
+ "eli": "MP/2011/186",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 25 lutego 2011 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/186/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 lutego 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2009 r. Nr 5, poz. 47, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 33 wyrazy „z zastrzeżeniem art. 203” zastępuje się wyrazami „z zastrzeżeniem art. 148ca ust. 1, art. 148cb ust. 1, art. 148cc ust. 1, art. 148cd ust. 1, art. 148ce ust. 1 i art. 203”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 34:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "w ust. 4a na końcu kropkę zastępuje się przecinkiem i dodaje się wyrazy „a także tabelę zgodności projektowanych przepisów z przepisami prawa Unii Europejskiej.”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "po ust. 4b dodaje ust. 4c—4g w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4c. Do projektu uchwały w sprawie wyrażenia sprzeciwu wobec inicjatywy Rady Europejskiej w sprawie decyzji upoważniającej Radę do zmiany sposobu głosowania, o której mowa w art. 48 ust. 7 Traktatu o Unii Europejskiej, dołącza się uzasadnienie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4d. Do projektu uchwały w sprawie wyrażenia sprzeciwu wobec wniosku Komisji Europejskiej w sprawie środków dotyczących prawa rodzinnego mających skutki transgraniczne, o których mowa w art. 81 ust. 3 Traktatu o funkcjonowaniu Unii Europejskiej, dołącza się uzasadnienie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4e. Do projektu uchwały w sprawie uznania projektu aktu ustawodawczego Unii Europejskiej za niezgodny z zasadą pomocniczości, o której mowa w art. 5 ust. 3 Traktatu o Unii Europejskiej, dołącza się projekt uzasadnionej opinii zawierającej powody, dla których Sejm uznaje, że projekt aktu ustawodawczego Unii Europejskiej nie jest zgodny z zasadą pomocniczości.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4f. Do projektu uchwały w sprawie wniesienia do Trybunału Sprawiedliwości Unii Europejskiej skargi w sprawie naruszenia przez akt ustawodawczy Unii Europejskiej zasady pomocniczości, o której mowa w art. 5 ust. 3 Traktatu o Unii Europejskiej, dołącza się uzasadnienie oraz projekt skargi.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4g. Do projektu uchwały w sprawie cofnięcia skargi w sprawie naruszenia przez akt ustawodawczy Unii Europejskiej zasady pomocniczości, o której mowa w art. 5 ust. 3 Traktatu o Unii Europejskiej, dołącza się uzasadnienie.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "po ust. 7 dodaje się ust. 7a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„7a. Marszałek Sejmu może zwrócić wnioskodawcy projekt uchwały, jeżeli projekt nie odpowiada wymogom określonym w ust. 4c—4g.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 125a po ust. 1 dodaje się ust. 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a. Informacja zawiera w szczególności plan prac nad projektami ustaw wykonujących prawo Unii Europejskiej określający terminy ich wniesienia do Sejmu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 148b:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_4/lit_a",
+       "text": "w ust. 1:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— pkt 3 otrzymuje brzmienie:"
+        },
+        {
+         "type": "text",
+         "text": "„3) plany pracy Rady, roczne plany legislacyjne Komisji Europejskiej oraz oceny rocznych planów legislacyjnych Komisji Europejskiej sporządzone przez Parlament Europejski i Radę,”,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "— pkt 5—8 otrzymują brzmienie:"
+        },
+        {
+         "type": "text",
+         "text": "„5) informacje Rady Ministrów o przebiegu procedur stanowienia prawa Unii Europejskiej oraz o stanowiskach Rzeczypospolitej Polskiej zajmowanych w trakcie tych procedur,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) i nformację Rady Ministrów o stanowisku Rzeczypospolitej Polskiej, jakie Rada Ministrów ma zamiar zająć podczas rozpatrywania projektu w Radzie, wraz z uzasadnieniem stanowiska Rzeczypospolitej Polskiej, a także oceną skutków prawnych aktu prawnego dla polskiego systemu prawa oraz skutków społecznych, gospodarczych i finansowych dla Rzeczypospolitej Polskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) p rojekty umów międzynarodowych, których stroną mają być Unia Europejska lub Europejska Wspólnota Energii Atomowej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) p rojekty decyzji przedstawicieli rządów państw członkowskich zebranych w Radzie,”, — pkt 11 otrzymuje brzmienie:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "„11) p ropozycje kandydatur na stanowiska członka Komisji Europejskiej, członka Trybunału Obrachunkowego, sędziego Trybunału Sprawiedliwości Unii Europejskiej, rzecznika generalnego Trybunału Sprawiedliwości Unii Europejskiej, członka Komitetu Ekonomiczno-Społecznego, członka Komitetu Regionów, dyrektora w Europejskim Banku Inwestycyjnym oraz Stałego Przedstawiciela Rzeczypospolitej Polskiej przy Unii Europejskiej,”, — po pkt 11 dodaje się pkt 11a—11f w brzmieniu:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "„11a) p ropozycje zmian Traktatu o Unii Europejskiej i Traktatu o funkcjonowaniu Unii Europejskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "11b) projekty decyzji Rady Europejskiej upoważniających Radę do zmiany sposobu głosowania, o których mowa w art. 48 ust. 7 Traktatu o Unii Europejskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "11c) wnioski Komisji Europejskiej w sprawie środków dotyczących prawa rodzinnego mających skutki transgraniczne, o których mowa w art. 81 ust. 3 Traktatu o funkcjonowaniu Unii Europejskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "11d) informacje o wnioskach o członkostwo w Unii Europejskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "11e) sprawozdania Komisji Europejskiej w sprawie stosowania art. 5 Traktatu o Unii Europejskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "11f) sprawozdania roczne Trybunału Obrachunkowego,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_4/lit_b",
+       "text": "w ust. 2 pkt 3 i 4 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) informacjami Rady Ministrów o stanowiskach Rzeczypospolitej Polskiej, jakie Rada Ministrów ma zamiar zająć podczas rozpatrywania projektów w Radzie,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) propozycjami kandydatur na stanowiska, o których mowa w ust. 1 pkt 11.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_4/lit_c",
+       "text": "dodaje się ust. 4 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Kierując do Komisji dokumenty, Marszałek Sejmu ustala, biorąc pod uwagę określone w odrębnych przepisach terminy na zgłoszenie przez Sejm sprzeciwu, kalendarz prac w Sejmie nad:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) inicjatywami Rady Europejskiej w sprawie decyzji upoważniającej Radę do zmiany sposobu głosowania, o której mowa w art. 48 ust. 7 Traktatu o Unii Europejskiej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) wnioskami Komisji Europejskiej w sprawie środków dotyczących prawa rodzinnego mających skutki transgraniczne, o których mowa w art. 81 ust. 3 Traktatu o funkcjonowaniu Unii Europejskiej.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 148c ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Komisja może uchwalić opinię o projekcie aktu prawnego Unii Europejskiej, opinię o stanowiskach Rzeczypospolitej Polskiej zajmowanych w trakcie procedur stanowienia prawa Unii Europejskiej, a także opinię w sprawie informacji Rady Ministrów o stanowisku Rzeczypospolitej Polskiej, jakie Rada Ministrów ma zamiar zająć podczas rozpatrywania projektu w Radzie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "po art. 148c dodaje się art. 148ca—148cf w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 148ca.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Po rozpatrzeniu inicjatywy Rady Europejskiej w sprawie decyzji upoważniającej Radę do zmiany sposobu głosowania, o której mowa w art. 48 ust. 7 Traktatu o Unii Europejskiej, Komisja może wnieść projekt uchwały o wyrażeniu sprzeciwu wobec tej decyzji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Pierwsze czytanie projektu uchwały, o którym mowa w ust. 1, przeprowadza się na posiedzeniu Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Do projektu uchwały, o którym mowa w ust. 1, nie można zgłaszać poprawek w czasie drugiego czytania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W przypadku przyjęcia uchwały, o której mowa w ust. 1, Marszałek Sejmu notyfikuje sprzeciw właściwemu organowi Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 148cb.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. P o rozpatrzeniu wniosku Komisji Europejskiej w sprawie środków dotyczących prawa rodzinnego mających skutki transgraniczne, o których mowa w art. 81 ust. 3 Traktatu o funkcjonowaniu Unii Europejskiej, Komisja może wnieść projekt uchwały o wyrażeniu sprzeciwu wobec tego wniosku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do projektu uchwały, o którym mowa w ust. 1, przepisy art. 148ca ust. 2—4 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 148cc.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Komisja lub grupa co najmniej 15 posłów mogą wnieść projekt uchwały w sprawie uznania projektu aktu ustawodawczego Unii Europejskiej za niezgodny z zasadą pomocniczości, o której mowa w art. 5 ust. 3 Traktatu o Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Uzasadniona opinia zawierająca powody, dla których Sejm uznaje, że projekt aktu ustawodawczego Unii Europejskiej nie jest zgodny z zasadą pomocniczości, o której mowa w art. 5 ust. 3 Traktatu o Unii Europejskiej, stanowi załącznik do uchwały Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Pierwsze czytanie projektu uchwały, o którym mowa w ust. 1, odbywa się na posiedzeniu Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do projektu uchwały, o którym mowa w ust. 1, nie można zgłaszać poprawek w czasie drugiego czytania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. W przypadku przyjęcia uchwały, o której mowa w ust. 1, Marszałek Sejmu przesyła uzasadnioną opinię właściwemu organowi Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 148cd.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. K omisja lub grupa co najmniej 15 posłów mogą wnieść projekt uchwały w sprawie wniesienia do Trybunału Sprawiedliwości Unii Europejskiej skargi w sprawie naruszenia przez akt ustawodawczy Unii Europejskiej zasady pomocniczości, o której mowa w art. 5 ust. 3 Traktatu o Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Skarga, o której mowa w ust. 1, stanowi załącznik do uchwały Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Pierwsze czytanie projektu uchwały, o którym mowa w ust. 1, odbywa się na posiedzeniu Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do projektu uchwały, o którym mowa w ust. 1, nie można zgłaszać poprawek w czasie drugiego czytania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. W postępowaniu przed Trybunałem Sprawiedliwości Unii Europejskiej w sprawie naruszenia przez akt ustawodawczy Unii Europejskiej zasady pomocniczości, o której mowa w art. 5 ust. 3 Traktatu o Unii Europejskiej, Sejm jest reprezentowany przez pełnomocnika, którego wyznacza Marszałek Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W przypadku przyjęcia uchwały, o której mowa w ust. 1, Marszałek Sejmu przesyła Prezesowi Rady Ministrów uchwałę wraz ze skargą oraz dokumentem potwierdzającym udzielenie pełnomocnictwa do reprezentowania Sejmu w postępowaniu przed Trybunałem Sprawiedliwości Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 148ce.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Komisja lub grupa co najmniej 15 posłów mogą wnieść projekt uchwały w sprawie cofnięcia skargi, o której mowa w art. 148cd ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Pierwsze czytanie projektu uchwały, o którym mowa w ust. 1, odbywa się na posiedzeniu Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Do projektu uchwały, o którym mowa w ust. 1, nie można zgłaszać poprawek w czasie drugiego czytania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W przypadku przyjęcia uchwały, o której mowa w ust. 1, pełnomocnik reprezentujący Sejm cofa skargę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 148cf.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. S ejm wybiera swoich przedstawicieli do konwentu, o którym mowa w art. 48 ust. 3 Traktatu o Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Marszałek Sejmu wyznacza termin na zgłaszanie wniosków w sprawie wyboru przedstawicieli, o których mowa w ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wniosek, o którym mowa w ust. 2, może zgłosić grupa co najmniej 15 posłów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do wniosku, o którym mowa w ust. 2, dołącza się uzasadnienie, dane o kandydacie i jego zgodę na kandydowanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Wniosek, o którym mowa w ust. 2, składa się Marszałkowi Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Wniosek, o którym mowa w ust. 2, Marszałek Sejmu kieruje do Komisji w celu zaopiniowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Opinię w sprawie wniosku, o którym mowa w ust. 2, Komisja przedstawia na piśmie Marszałkowi Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Marszałek Sejmu zarządza doręczenie posłom druku zawierającego opinię, o której mowa w ust. 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Rozpatrzenie przez Sejm wniosku, o którym mowa w ust. 2, może się odbyć nie wcześniej niż następnego dnia po dniu doręczenia posłom druku zawierającego opinię, o której mowa w ust. 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10. Sejm w szczególnych wypadkach może skrócić postępowanie przez przystąpienie do rozpatrzenia wniosku, o którym mowa w ust. 2:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) bez przesyłania go do Komisji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w terminie krótszym niż określony w ust. 9.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 169 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3a) wybór przedstawicieli Sejmu do konwentu, o którym mowa w art. 48 ust. 3 Traktatu o Unii Europejskiej,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w załączniku do uchwały — Regulamin Sejmu Rzeczypospolitej Polskiej „Przedmiotowy zakres działania komisji sejmowych” pkt 3a otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3a) do Spraw Unii Europejskiej należą sprawy związane z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, w szczególności zajmowanie stanowisk i wyrażanie opinii na temat projektów aktów prawnych Unii Europejskiej, projektów umów międzynarodowych, których stroną mają być Unia Europejska lub Europejska Wspólnota Energii Atomowej, planów pracy Rady i rocznych planów legislacyjnych Komisji Europejskiej, formułowanie zaleceń dla Rady Ministrów dotyczących stanowiska Rzeczypospolitej Polskiej, jakie Rada Ministrów ma zamiar zająć podczas rozpatrywania projektu w Radzie oraz rozpatrywanie informacji i innych dokumentów przedkładanych przez Radę Ministrów, a także opiniowanie kandydatur na niektóre stanowiska w Unii Europejskiej;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 pkt 2 lit. a, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: G. Schetyna"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M. P. z 2009 r. Nr 81, poz. 998, z 2010 r. Nr 10, poz. 87, Nr 79, poz. 972 i Nr 100, poz. 1174 oraz z 2011 r. Nr 13, poz. 136."
+ }
+}

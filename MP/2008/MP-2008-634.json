@@ -1,0 +1,187 @@
+{
+ "eli": "MP/2008/634",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 15 września 2008 r. zmieniająca uchwałę w sprawie wzorów urzędowych formularzy protokołów stosowanych w referendum lokalnym przez terytorialne oraz obwodowe komisje do spraw referendum",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/634/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 września 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wzorów urzędowych formularzy protokołów stosowanych w referendum lokalnym przez terytorialne oraz obwodowe komisje do spraw referendum"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 64 ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 29 stycznia 2007 r. w sprawie wzorów urzędowych formularzy protokołów stosowanych w referendum lokalnym przez terytorialne oraz obwodowe komisje do spraw referendum (M. P. Nr 7, poz. 83) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w załącznikach nr 1—6 w ramce nad tytułem protokołu po wyrazach odpowiednio „W SPRAWIE ....................................................” lub „W SPRAWACH ....................................................” dodaje się, od nowego wiersza, wyrazy „ZARZĄ- DZONE NA ....................................................”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załącznikach nr 5 i 6 w ramce nad tytułem protokołu wyraz „Powiatowa” zastępuje się wyraza- *) *) mi „Powiatowa /Miejska ”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w załącznikach nr 7—9 w ramce nad tytułem protokołu wyrazy „Gminna Komisja do Spraw Referendum” zastępuje się wyrazami „Gminna *) /Miejska *) Komisja do Spraw Referendum w ...................................................”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w załączniku nr 7 w protokole ustalenia wyniku referendum gminnego pkt 8 i 9 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8. Komisja ustaliła, co następuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) liczba osób uprawnionych do głosowania wyniosła ................,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) liczba osób, które wzięły udział w głosowaniu (liczba kart ważnych), wyniosła .............. (frekwencja wyniosła ...............),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) liczba głosów ważnych wyniosła .................,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) *) w wyborze w dniu .................... odwoływanego organu liczba osób, które wzięły udział w głosowaniu (liczba kart ważnych), wyniosła ...................., zatem 3/5 liczby biorących udział w wyborze odwoływanego organu wynosi ....................,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) liczba głosów za odwołaniem organu (pozytywnych „Tak”) wyniosła ................... .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. *) Komisja, w związku z powyższym, na podstawie art. 55 ust. 2 i art. 56 ust. 1 ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.) stwierdza, że:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) referendum jest ważne *) /nieważne *) , gdyż wzięło w nim udział nie mniej *) /mniej *) niż 3/5 liczby biorących udział w wyborze odwoływanego organu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) ........................................................... został/a (nazwa odwoływanego organu) odwołany/a *) /nie został/a odwołany/a *) , gdyż za odwołaniem organu oddano więcej *) /nie więcej *) niż połowę ważnie oddanych głosów.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. **) Komisja, w związku z powyższym, na podstawie art. 55 ust. 1 i art. 56 ust. 1 ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.) stwierdza, że:"
+      },
+      {
+       "type": "text",
+       "text": "*) *) a) referendum jest ważne /nieważne , gdyż wzięło w nim udział nie mniej *) /mniej *) niż 30 % uprawnionych do głosowania,"
+      },
+      {
+       "type": "text",
+       "text": "b) ............................................................... został (nazwa odwoływanego organu) odwołany *) /nie został odwołany *) , gdyż za odwołaniem organu oddano więcej *) /nie więcej *) niż połowę ważnie oddanych głosów.”;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w załączniku nr 10 w protokole ustalenia wyniku referendum powiatowego/wojewódzkiego pkt 8 i 9 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8. Komisja ustaliła, co następuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) liczba osób uprawnionych do głosowania wyniosła ................,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) liczba osób, które wzięły udział w głosowaniu (liczba kart ważnych), wyniosła ............... (frekwencja wyniosła ................),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) liczba głosów ważnych wyniosła .................,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) w wyborze w dniu .................... odwoływanego organu liczba osób, które wzięły udział w głosowaniu (liczba kart ważnych), wyniosła ................, zatem 3/5 liczby biorących udział w wyborze odwoływanego organu wynosi ................,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) liczba głosów za odwołaniem organu (pozytywnych „Tak”) wyniosła ................ .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Komisja, w związku z powyższym, na podstawie art. 55 ust. 2 i art. 56 ust. 1 ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.) stwierdza, że:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) referendum jest ważne *) /nieważne *) , gdyż wzięło w nim udział nie mniej *) /mniej *) niż 3/5 liczby biorących udział w wyborze odwoływanego organu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) ............................................................ został/a (nazwa odwoływanego organu) odwołany/a *) /nie został/a odwołany/a *) , gdyż za odwołaniem organu oddano więcej *) /nie więcej *) niż połowę ważnie oddanych głosów.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 113, poz. 984 i Nr 153, poz. 1271, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457 oraz z 2007 r. Nr 112, poz. 766."
+ }
+}

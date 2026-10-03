@@ -1,0 +1,314 @@
+{
+ "eli": "MP/2008/185",
+ "title": "Zarządzenie Nr 19 Prezesa Rady Ministrów z dnia 28 lutego 2008 r. w sprawie Zespołu do spraw Polityki Bezpieczeństwa Energetycznego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/185/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 19 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 lutego 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Zespołu do spraw Polityki Bezpieczeństwa Energetycznego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Zespół do spraw Polityki Bezpieczeństwa Energetycznego, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy podejmowanie działań pomocniczych w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "opracowania programu polityki bezpieczeństwa energetycznego państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "koordynowania i monitorowania działań organów administracji rządowej podejmowanych w zakresie polityki bezpieczeństwa energetycznego państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "przedstawiania propozycji inicjatyw dotyczących polityki bezpieczeństwa energetycznego na forum międzynarodowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "prowadzenia spraw związanych z przygotowaniem projektów aktów prawnych i projektów zmian organizacyjnych dotyczących bezpieczeństwa energetycznego państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "współdziałania z krajowymi przedsiębiorcami uczestniczącymi w realizacji polityki bezpieczeństwa energetycznego państwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "Przewodniczący — Prezes Rady Ministrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "Wiceprzewodniczący — Minister Gospodarki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "Minister Finansów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "Minister Infrastruktury,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_3/lit_c",
+         "text": "Minister Skarbu Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_3/lit_d",
+         "text": "Minister Spraw Wewnętrznych i Administracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_3/lit_e",
+         "text": "Minister Spraw Zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_3/lit_f",
+         "text": "Minister Środowiska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_3/lit_g",
+         "text": "Sekretarz Kolegium do Spraw Służb Specjalnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "Sekretarz Zespołu — główny doradca Prezesa Rady Ministrów do spraw bezpieczeństwa energetycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Funkcję Przewodniczącego może sprawować, w jego imieniu, upoważniona przez niego osoba.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przewodniczący może zapraszać do udziału w pracach Zespołu, bez prawa do głosowania, przedstawicieli innych organów administracji państwowej lub przedsiębiorców.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Posiedzenia Zespołu zwołuje Przewodniczący z własnej inicjatywy lub na wniosek członka Zespołu, co najmniej raz na kwartał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Wiceprzewodniczący albo inny członek Zespołu wyznaczony przez Przewodniczącego zastępuje go w czasie jego nieobecności, w tym zwołuje posiedzenia i przewodniczy obradom Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Tryb pracy Zespołu określa regulamin uchwalany przez Zespół.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W ramach Zespołu tworzy się grupę roboczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Do zadań grupy roboczej należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "merytoryczne przygotowywanie posiedzeń Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "prowadzenie bieżącego monitoringu zagadnień związanych z działalnością Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "prowadzenie monitoringu realizacji decyzji podjętych przez Zespół.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W skład grupy roboczej wchodzą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "Przewodniczący grupy roboczej — główny doradca Prezesa Rady Ministrów do spraw bezpieczeństwa energetycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "członkowie grupy roboczej — przedstawiciel Wiceprzewodniczącego oraz przedstawiciele członków Zespołu, o których mowa w § 3 ust. 1 pkt 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Obsługę Zespołu i grupy roboczej zapewnia Kancelaria Prezesa Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600."
+ }
+}

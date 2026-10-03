@@ -1,0 +1,558 @@
+{
+ "eli": "MP/2007/215",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 12 marca 2007 r. w sprawie wzorów protokołów głosowania i protokołów o wyniku referendum stosowanych w referendum ogólnokrajowym przez obwodowe komisje do spraw referendum, komisarzy wyborczych oraz Państwową Komisję Wyborczą",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/215/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 marca 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów protokołów głosowania i protokołów o wyniku referendum stosowanych w referendum ogólnokrajowym przez obwodowe komisje do spraw referendum, komisarzy wyborczych oraz Państwową Komisję Wyborczą"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 30 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. Nr 57, poz. 507 i Nr 85, poz. 782) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory protokołów stosowanych w referendum ogólnokrajowym przez obwodowe komisje do spraw referendum, komisarzy wyborczych oraz Państwową Komisję Wyborczą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "protokołu głosowania w obwodzie w referendum ogólnokrajowym, w którym pod referendum poddano jedną sprawę — stanowiący załącznik nr 1 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "protokołu głosowania w obwodzie w referendum ogólnokrajowym, w którym pod referendum poddano więcej niż jedną sprawę — stanowiący załącznik nr 2 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "protokołu głosowania na obszarze właściwości komisarza wyborczego w referendum ogólnokrajowym, w którym pod referendum poddano jedną sprawę — stanowiący załącznik nr 3 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "protokołu głosowania na obszarze właściwości komisarza wyborczego w referendum ogólnokrajowym, w którym pod referendum poddano więcej niż jedną sprawę — stanowiący załącznik nr 4 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "protokołu ustalenia wyniku referendum w referendum ogólnokrajowym, w którym pod referendum poddano jedną sprawę — stanowiący załącznik nr 5 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "protokołu ustalenia wyniku referendum w referendum ogólnokrajowym, w którym pod referendum poddano więcej niż jedną sprawę — stanowiący załącznik nr 6 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 17 kwietnia 2003 r. w sprawie ustalenia wzorów protokołów głosowania i protokołu o wyniku referendum (M. P. Nr 20, poz. 307).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 12 marca 2007 r. (poz. 215) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8. | Liczba głosów nieważnych"
+    },
+    {
+     "type": "ocr",
+     "text": "9. | Liczba głosów ważnych Uwaga! Suma liczb z pkt 8 19 musi być równa liczbie z pkt 7."
+    },
+    {
+     "type": "ocr",
+     "text": "10a. | Liczba głosów pozytywnych ,,Tak”"
+    },
+    {
+     "type": "ocr",
+     "text": "10b. | Liczba głosów negatywnych „Nie” Uwaga! Suma liczb z pkt 10a i10b musi być równa liczbie z pkt 9."
+    },
+    {
+     "type": "ocr",
+     "text": "10a. | Liczba głosów za wyborem wariantu 1"
+    },
+    {
+     "type": "ocr",
+     "text": "10b. | Liczba głosów za wyborem wariantu 2 10.... | Liczba głosów za wyborem wariantu ... Uwaga! Suma liczb z pkt 10a do 10.... musi być równa liczbie z pkt 9."
+    },
+    {
+     "type": "ocr",
+     "text": "11.” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb zpkt 214 aliczbą z pkt I:..............eee aaa aaa aaa aaa aaa aaa aaa waza aaa awa a wazna wazna aaaaaaeznaaac"
+    },
+    {
+     "type": "ocr",
+     "text": "12.” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą Z Pkt 5a liczbą z pkt 4:............. eee eeeeceeeeeeeereneeseecsseecseresuersaeeseecseeesseeesenerseesnetesereeses"
+    },
+    {
+     "type": "ocr",
+     "text": "13.7) Wtrakcie głosowania wydano następujące zarządzenia: .........--eeeaaazaaaa aaa aiaiaiaia"
+    },
+    {
+     "type": "ocr",
+     "text": "14.7) Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych zarzutów\":"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "15.79 Adnotacja o wniesieniu przez członków Komisji uwag z wymienieniem konkretnych Fe) | zarzutów"
+    },
+    {
+     "type": "ocr",
+     "text": "Dana a"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "*) **) ied)"
+    },
+    {
+     "type": "ocr",
+     "text": "Skreślić, jeżeli głosowanie w referendum odbywa się w ciągu jednego dnia. Niepotrzebne pominąć przy sporządzaniu formularza protokołu. Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. HERE W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji stanowisko Komisji wobec zarzutów należy dołączyć do protokołu."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ILA. SPRAWA 1"
+    },
+    {
+     "type": "ocr",
+     "text": "8. | Liczba głosów nieważnych"
+    },
+    {
+     "type": "ocr",
+     "text": "9. | Liczba głosów ważnych Uwaga! Suma liczb z pkt 8 i 9 musi być równa liczbie z pkt 7."
+    },
+    {
+     "type": "ocr",
+     "text": "10a. | Liczba głosów pozytywnych „Tak”"
+    },
+    {
+     "type": "ocr",
+     "text": "10b. | Liczba głosów negatywnych „Nie” Uwaga! Suma liczb z pkt 10a i 10b musi być równa liczbie z pkt 9. 10a.” Liczba głosów za wyborem wariantu 1"
+    },
+    {
+     "type": "ocr",
+     "text": "10b. | Liczba głosów za wyborem wariantu 2"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma liczb z pkt 10a, 10b i... musi być równa liczbie z pkt 9. I[.B. SPRAWA 2"
+    },
+    {
+     "type": "ocr",
+     "text": "11. | Liczba głosów nieważnych"
+    },
+    {
+     "type": "ocr",
+     "text": "12. | Liczba głosów ważnych Uwaga! Suma liczb z pkt 11 i 12 musi być równa liczbie z pkt 7. 13a.’| Liczba głosów pozytywnych „Tak”"
+    },
+    {
+     "type": "ocr",
+     "text": "13b. | Liczba głosów negatywnych „Nie” Uwaga! Suma liczb z pkt 13a i 13b musi być równa liczbie z pkt 12. —"
+    },
+    {
+     "type": "ocr",
+     "text": "13a.” Liczba głosów za wyborem wariantu 1"
+    },
+    {
+     "type": "ocr",
+     "text": "13b. | Liczba głosów za wyborem wariantu 2"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma liczb z pkt 10a, 10b i... musi być równa liczbie z pkt 12. IL... SPRAWA... Liczba głosów nieważnych Liczba głosów ważnych Uwaga! Suma liczb z pkt ... i... musi być równa liczbie z pkt 7. *"
+    },
+    {
+     "type": "ocr",
+     "text": "— Liczba głosów pozytywnych ,,Tak” ...b. | Liczba głosów negatywnych „Nie” Uwaga! Suma liczb z pkt ...a i...b musi być równa liczbie z pkt .... Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "...a. | Liczba głosów za wyborem wariantu 1"
+    },
+    {
+     "type": "ocr",
+     "text": "...b. | Liczba głosów za wyborem wariantu 2"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma liczb z pkt ...a, ...b i... musi być równa liczbie z pkt ... . 14.7) Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb zpkt 2 i4 a liczbą z pkt 1 oe eeesceesseceseeecensecsneeeceueesseecsuesesecessecseeescessecseasereanes"
+    },
+    {
+     "type": "ocr",
+     "text": "15.\" Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt 5a liczbą z pkt 4: oo aaa aaa aaa aaa aaa aaa aaa aaa aa aaa wazaaakaazawazaakazaaiyzaakzzaaeianaca"
+    },
+    {
+     "type": "ocr",
+     "text": "17.79 Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych ZYCA! CO ZOE"
+    },
+    {
+     "type": "ocr",
+     "text": "18.7? Adnotacja o wniesieniu przez członków Komisji uwag z wymienieniem konkretnych A ewy yZzYWALLCO) AEO"
+    },
+    {
+     "type": "ocr",
+     "text": "WYNE"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "Skreślić, jeżeli głosowanie w referendum odbywa się w ciągu jednego dnia. W przypadku poddania pod referendum trzech lub więcej spraw numeracja punktu musi być odpowiednio zmieniona. Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji stanowisko Komisji wobec zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "re)"
+    },
+    {
+     "type": "ocr",
+     "text": "sobiowy"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "9. Komisarz stwierdza, że nie otrzymał w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych za granicą/na polskich statkach morskich: Obwód nr ......... Z SUCAZIDA WON ,"
+    },
+    {
+     "type": "ocr",
+     "text": "Obwód nr ......... AS CVA] > EE , tj. łącznie Z ......... obwodów głosowania. Przyczyną nieuzyskania wyników głosowania było:"
+    },
+    {
+     "type": "ocr",
+     "text": "Zgodnie z art. 164 ust. 2 i art. 205 ust. 2 Ordynacji wyborczej do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz art. 92 ust. 1 ustawy o referendum ogólnokrajowym głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie. 10.” Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych vOVĄDAKO)) ZA"
+    },
+    {
+     "type": "ocr",
+     "text": "(imię i nazwisko) (podpis)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisarza)"
+    },
+    {
+     "type": "ocr",
+     "text": "\"Niepotrzebne pominąć przy sporządzaniu protokołu. ) Jeżeli treść nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w miejscu przeznaczonym na wpisanie adnotacji."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "B. SPRAWA 2 Liczba głosów nieważnych Liczba głosów ważnych 10a.’ Liczba głosów pozytywnych ,,Tak” 10b."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów negatywnych „Nie”"
+    },
+    {
+     "type": "ocr",
+     "text": "10a.” Liczba głosów za wyborem wariantu 1| 10b."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów za wyborem wariantu 2 10..."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów za wyborem wariantu ..."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów nieważnych Liczba głosów ważnych Liczba głosów pozytywnych ,,Tak” Liczba głosów negatywnych „Nie”"
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów za wyborem wariantu | Liczba głosów za wyborem wariantu 2 Liczba głosów za wyborem wariantu ..."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez Komisarza Wyborczego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "11. Komisarz stwierdza, ze nie otrzymał w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych za granicą/na polskich statkach morskich: Obwód nr ......... PARY VA: ...eecceccccesscccccsesseccecessesceccessceccesensucececessusececesseeeceeeeueeecensues , Obwód nr ......... Z SICAZIDG .oeccecccccceccesscceesceseesceseesecesesecessecccssececesseseessseecessseseseeenesseenses , ty. łącznie Z ......... obwodów głosowania. Przyczyną nieuzyskania wyników głosowania było:"
+    },
+    {
+     "type": "ocr",
+     "text": "Zgodnie z art. 164 ust. 2 1 art. 205 ust. 2 Ordynacji wyborczej do Sejmu Rzeczypospolitej Polskiej 1 do Senatu Rzeczypospolitej Polskiej oraz art. 92 ust. 1 ustawy o referendum ogólnokrajowym głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie. 12.” Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych „KYVALICO), ZNANA"
+    },
+    {
+     "type": "ocr",
+     "text": "(imię i nazwisko) (podpis)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisarza)"
+    },
+    {
+     "type": "ocr",
+     "text": "* . nes"
+    },
+    {
+     "type": "ocr",
+     "text": "> Niepotrzebne skreślić. ree O + rzą z + ra z : . ra . . - . ) Jeżeli treść nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w miejscu przeznaczonym na wpisanie adnotacji."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8. Komisja stwierdza, że komisarze wyborczy nie otrzymali w ciągu 24 godzin od zakończenia głosowania wyników głosowania Z .................. obwodów głosowania utworzonych za granicą/na polskich statkach morskich *. Zgodnie z art. 164 ust. 2 i art. 205 ust. 2 Ordynacji wyborczej do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz art. 92 ust. 1 ustawy o referendum ogólnokrajowym głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie."
+    },
+    {
+     "type": "ocr",
+     "text": "9, Komisja — na podstawie art. 25 ust. 2 pkt 4 ustawy o referendum ogólnokrajowym — stwierdza, że w referendum wzięło udział ......---...--suasesuuaiasu12 osób. Uprawnionych do głosowania było ........eseseaaaa saa aa szaniec osób, w referendum wzięła więc udział więcej/nie więcej” niż połowa uprawnionych do głosowania; frekwencja wyniosła AE %. W związku z powyższym wynik referendum jest wiążący/niewiążący ”."
+    },
+    {
+     "type": "ocr",
+     "text": "10.” Komisja stwierdza, że większość ważnych głosów oddano za odpowiedzią pozytywną/negatywną ."
+    },
+    {
+     "type": "ocr",
+     "text": "11.” Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych"
+    },
+    {
+     "type": "ocr",
+     "text": "„KYVALICO), ZNANA"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "©. Niepotrzebne skreślić lub pominąć przy sporządzaniu protokołu. ©) Skreślić, jeżeli wynik referendum jest niewiążący. owy Jeżeli treść nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w miejscu przeznaczonym na wpisanie adnotacji."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 15 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Sprawa 2 8."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów nieważnych . | Liczba głosów ważnych 10a."
+    },
+    {
+     "type": "ocr",
+     "text": "| Liczba głosów pozytywnych ,,Tak” 10b."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów negatywnych „Nie” 10a. Liczba głosów za wyborem wariantu | 10b."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów za wyborem wariantu 2 10..."
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów za wyborem wariantu ... Sprawa ..."
+    },
+    {
+     "type": "ocr",
+     "text": ") .| Liczba głosów nieważnych .| Liczba głosów ważnych .| Liczba głosów pozytywnych ,,Tak” .| Liczba głosów negatywnych „Nie” .| Liczba głosów za wyborem wariantu | .| Liczba głosów za wyborem wariantu 2 .| Liczba głosów za wyborem wariantu ..."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Komisja stwierdza, że komisarze wyborczy nie otrzymali w ciągu 24 godzin od zakończenia głosowania wyników głosowania z obwodów głosowania utworzonych za granicą/na polskich statkach morskich”. Zgodnie z art. 164 ust. 2 i art. 205 ust. 2 Ordynacji wyborczej do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz art. 92 ust. 1 ustawy o referendum ogólnokrajowym głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Komisja — na podstawie art. 25 ust. 2 pkt 4 ustawy o referendum ogólnokrajowym — stwierdza, że w referendum wzięło udział ......---...--:--:-s2111-4112- osób. Uprawnionych do głosowania było ........eeesuaaassaaaasananacaa osób, w referendum wzięła więc udział więcej/nie więcej” niż połowa uprawnionych do głosowania; frekwencja wyniosła A %. W związku z powyższym wynik referendum jest wiążący/niewiążący ”."
+    },
+    {
+     "type": "ocr",
+     "text": "Komisja stwierdza, że w sprawie 1 większość ważnych głosów oddano za odpowiedzią pozytywną/negatywną , wariantem 1/wariantem 2/wariantem ...”. W związku z powyższym — na podstawie art. 66 ust. 2 ustawy o referendum ogólnokrajowym wynik referendum w sprawie 1 jest rozstrzygajacy/nie jest rozstrzygający ’."
+    },
+    {
+     "type": "ocr",
+     "text": "+) Komisja stwierdza, że w sprawie 2 większość ważnych głosów oddano za odpowiedzią pozytywną/negatywną , wariantem 1/wariantem 2/wariantem ...”. W związku z powyższym — na podstawie art. 66 ust. 2 ustawy o referendum ogólnokrajowym wynik referendum w sprawie 2 jest rozstrzygający/nie jest rozstrzygający ”."
+    },
+    {
+     "type": "ocr",
+     "text": "Komisja stwierdza, że w sprawie ....... większość ważnych głosów oddano za odpowiedzią pozytywną/negatywną ”, wariantem 1/wariantem 2/wariantem ... . W związku z powyższym — na podstawie art. 66 ust. 2 ustawy o referendum ogólnokrajowym wynik referendum w sprawie ....... jest rozstrzygający/nie jest rozstrzygający ."
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzaniu protokołu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "... Adnotacja o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych vZVALKO) ZOE"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "\"Niepotrzebne skreślić. > Niepotrzebne pominąć przy sporządzaniu formularza protokołu. ok Jeżeli treść nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w miejscu przeznaczonym na wpisanie adnotacji."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

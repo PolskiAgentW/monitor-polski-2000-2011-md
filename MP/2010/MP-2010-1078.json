@@ -1,0 +1,96 @@
+{
+ "eli": "MP/2010/1078",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 29 listopada 2010 r. zmieniająca uchwałę w sprawie wytycznych dla gminnych i obwodowych komisji wyborczych, dotyczących sposobu postępowania w sytuacji, gdy w wyborach wójta, burmistrza i prezydenta miasta lub w ponownym głosowaniu będzie uczestniczyć tylko jeden kandydat oraz gdy na skutek zmian na liście kandydatów warunkiem przeprowadzenia głosowania jest wydrukowanie nowych kart do głosowania",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1078/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 listopada 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wytycznych dla gminnych i obwodowych komisji wyborczych, dotyczących sposobu postępowania w sytuacji, gdy w wyborach wójta, burmistrza i prezydenta miasta lub w ponownym głosowaniu będzie uczestniczyć tylko jeden kandydat oraz gdy na skutek zmian na liście kandydatów warunkiem przeprowadzenia głosowania jest wydrukowanie nowych kart do głosowania"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 2 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Państwowej Komisji Wyborczej z dnia 25 października 2010 r. w sprawie wytycznych dla gminnych i obwodowych komisji wyborczych, dotyczących sposobu postępowania w sytuacji, gdy w wyborach wójta, burmistrza i prezydenta miasta lub w ponownym głosowaniu będzie uczestniczyć tylko jeden kandydat oraz gdy na skutek zmian na liście kandydatów warunkiem przeprowadzenia głosowania jest wydrukowanie nowych kart do głosowania (M. P. Nr 81, poz. 978) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "skreśla się pkt 3;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pkt 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Konieczność wydrukowania nowych kart w sytuacji, o której mowa w pkt 1—2 wytycznych, może wystąpić także w przeddzień głosowania lub w dniu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli wydrukowanie i dostarczenie właściwych kart do głosowania do obwodowych komisji wyborczych przed godziną 8⁰⁰ w dniu głosowania okaże się niemożliwe lub jeżeli w dniu głosowania po rozpoczęciu głosowania wystąpi sytuacja, o której mowa w pkt 1 lub 2, gminna komisja wyborcza niezwłocznie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— powiadamia właściwego komisarza wyborczego o zaistniałej sytuacji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— zawiadamia obwodowe komisje wyborcze o konieczności odroczenia lub przerwania głosowania i przedłużenia go, ze względu na konieczność wydrukowania i dostarczenia nowych kart do głosowania, ze wskazaniem terminu, kiedy karty zostaną dostarczone i zostanie podjęte głosowanie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— ustala treść karty do głosowania i zarządza druk kart,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— występuje do wójta (burmistrza, prezydenta miasta) o pilne zlecenie druku kart do głosowania i dostarczenie ich w określonym terminie do obwodowych komisji wyborczych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— podaje do wiadomości wyborców w gminie informację o zmianach na liście kandydatów oraz o konieczności i przyczynie przerwania lub odroczenia głosowania ze wskazaniem terminu podjęcia głosowania oraz godziny, do której głosowanie będzie trwało. Konieczne jest zastosowanie skutecznych działań w celu upowszechnienia omawianej informacji na terenie gminy, z wykorzystaniem dostępnych środków przekazu.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

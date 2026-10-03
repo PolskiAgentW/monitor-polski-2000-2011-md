@@ -1,0 +1,67 @@
+{
+ "eli": "MP/2002/273",
+ "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 22 kwietnia 2002 r. w sprawie wskaźnika waloryzacji oraz stawki zasiłku rodzinnego.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/273/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 kwietnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wskaźnika waloryzacji oraz stawki zasiłku rodzinnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13 ust. 8 ustawy z dnia 1 grudnia 1994 r. o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych (Dz. U. z 1998 r. Nr 102, poz. 651, Nr 106, poz. 668 i Nr 162, poz. 1118, z 1999 r. Nr 60, poz. 636 i Nr 110, poz. 1256, z 2000 r. Nr 104, poz. 1104 oraz z 2001 r. Nr 122, poz. 1349, Nr 128, poz. 1405 i Nr 154, poz. 1791) ogłasza się, co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "wskaźnik waloryzacji zasiłku rodzinnego od dnia 1 czerwca 2002 r. wynosi 103,0%,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "zasiłek rodzinny w okresie od dnia 1 czerwca 2002 r. do dnia 31 maja 2003 r. wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "42,50 zł miesięcznie na małżonka oraz na pierwsze i drugie dziecko,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "52,60 zł miesięcznie na trzecie dziecko,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "65,70 zł miesięcznie na każde kolejne dziecko.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezes Zakładu Ubezpieczeń Społecznych: A. Wiktorow"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

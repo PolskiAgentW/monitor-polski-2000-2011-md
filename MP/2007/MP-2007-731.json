@@ -1,0 +1,90 @@
+{
+ "eli": "MP/2007/731",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 19 września 2007 r. w sprawie sposobu sporządzania i przekazywania kart do głosowania dla obwodów głosowania utworzonych za granicą w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 21 października 2007 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/731/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 września 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu sporządzania i przekazania kart do głosowania dla obwodów głosowania utworzonych za granicą w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 21 października 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 159 i 190 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Niezwłocznie po ustaleniu przewidywanej liczby wyborców konsul zawiadamia, za pośrednictwem ministra właściwego do spraw zagranicznych, Okręgową Komisję Wyborczą w Warszawie właściwą dla okręgu wyborczego nr 19 do Sejmu i okręgu wyborczego nr 18 do Senatu o liczbie potrzebnych kart do głosowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Minister właściwy do spraw zagranicznych, o ile to możliwe, zapewnia dostarczenie konsulom kart do głosowania przekazanych przez komisję, o której mowa w § 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Jeżeli do 7. dnia przed dniem wyborów konsulowi nie zostaną dostarczone karty do głosowania wydrukowane w kraju, konsul sporządza je w brzmieniu przekazanym przez Okręgową Komisję Wyborczą, według wzoru i w sposób określony w uchwale Państwowej Komisji Wyborczej z dnia 22 sierpnia 2001 r. w sprawie wzorów kart do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M. P. Nr 29, poz. 495 oraz z 2005 r. Nr 35, poz. 481 i Nr 52, poz. 721).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W przypadku, o którym mowa w ust. 1, na karcie, w miejscu przeznaczonym na pieczęć okręgowej komisji wyborczej, umieszcza się odcisk pieczęci konsula.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Konsul przekazuje obwodowej komisji wyborczej, za pokwitowaniem, otrzymane lub sporządzone przez siebie karty do głosowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W sprawach nieuregulowanych niniejszą uchwałą stosuje się odpowiednio przepisy uchwały Państwowej Komisji Wyborczej z dnia 13 września 2007 r. w sprawie sposobu drukowania kart do głosowania oraz trybu ich dostarczenia obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 21 października 2007 r. (M. P. Nr 63, poz. 722).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 74, poz. 786 i Nr 154, poz. 1802, z 2002 r. Nr 14, poz. 128, Nr 113, poz. 984, Nr 127, poz. 1089 i Nr 153, poz. 1271, z 2003 r. Nr 57, poz. 507 i Nr 130, poz. 1188, z 2004 r. Nr 25, poz. 219, z 2005 r. Nr 140, poz. 1173, z 2006 r. Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162, Nr 112, poz. 766 i Nr 176, poz. 1238."
+ }
+}

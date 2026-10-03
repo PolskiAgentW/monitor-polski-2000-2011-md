@@ -1,0 +1,599 @@
+{
+ "eli": "MP/2007/375",
+ "title": "Uchwała Komisji Wspólnej Rządu i Samorządu Terytorialnego z dnia 9 maja 2006 r. w sprawie regulaminu Komisji Wspólnej Rządu i Samorządu Terytorialnego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/375/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA KOMISJI WSPÓLNEJ RZĄDU I SAMORZĄDU TERYTORIALNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 maja 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie regulaminu Komisji Wspólnej Rządu i Samorządu Terytorialnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17 ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. Nr 90, poz. 759) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się regulamin Komisji Wspólnej Rządu i Samorządu Terytorialnego, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc Regulamin prac Komisji Wspólnej Rządu i Samorządu Terytorialnego przyjęty na posiedzeniu Komisji w dniu 27 marca 2002 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Kaczmarek"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Komisji Wspólnej Rządu i Samorządu Terytorialnego z dnia 9 maja 2006 r. (poz. 375)"
+    },
+    {
+     "type": "text",
+     "text": "REGULAMIN KOMISJI WSPÓLNEJ RZĄDU I SAMORZĄDU TERYTORIALNEGO"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Regulamin określa szczegółowy tryb pracy Komisji Wspólnej Rządu i Samorządu Terytorialnego, jej stałych zespołów problemowych oraz zakres zadań poszczególnych zespołów i ich liczbę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w regulaminie jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawie — oznacza to ustawę z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. Nr 90, poz. 759);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Komisji Wspólnej — oznacza to Komisję Wspólną Rządu i Samorządu Terytorialnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "stronach — oznacza to stronę rządową i stronę samorządową w Komisji Wspólnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "zespołach — oznacza to stałe i doraźne zespoły problemowe Komisji Wspólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Komisja Wspólna realizuje zadania określone ustawą w ramach posiedzeń Komisji Wspólnej, posiedzeń zespołów oraz w trybie obiegowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W ramach Komisji Wspólnej działa 9 stałych zespołów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "Zespół do Spraw Polityki Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "Zespół do Spraw Systemu Finansów Publicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "Zespół do Spraw Edukacji, Kultury i Sportu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "Zespół do Spraw Ochrony Zdrowia i Polityki Społecznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "Zespół do Spraw Infrastruktury, Rozwoju Lokalnego, Polityki Regionalnej oraz Środowiska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "Zespół do Spraw Administracji Publicznej i Bezpieczeństwa Obywateli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_1/pkt_7",
+       "text": "Zespół do Spraw Obszarów Wiejskich, Wsi i Rolnictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_1/pkt_8",
+       "text": "Zespół do Spraw Społeczeństwa Informacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_4/ust_1/pkt_9",
+       "text": "Zespół do Spraw Statystyki Publicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Komisja Wspólna może powoływać doraźne zespoły, określając liczbę członków zespołu i zakres jego działania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Do zakresu działania stałych zespołów należą odpowiednio sprawy objęte działami administracji rządowej, o których mowa w ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437), lub sprawy dotyczące działalności administracji publicznej nieobjętej zakresem działów administracji rządowej, to jest:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "Zespołu do Spraw Polityki Europejskiej — działu integracja europejska i działu sprawy zagraniczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "Zespołu do Spraw Systemu Finansów Publicznych — działu budżet i działu finanse publiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "Zespołu do Spraw Edukacji, Kultury i Sportu — działu kultura i ochrona dziedzictwa narodowego, działu kultura fizyczna i sport, działu nauka, działu oświata i wychowanie oraz działu szkolnictwo wyższe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "Zespołu do Spraw Ochrony Zdrowia i Polityki Społecznej — działu praca, działu zabezpieczenie społeczne i działu zdrowie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "Zespołu do Spraw Infrastruktury, Rozwoju Lokalnego, Polityki Regionalnej oraz Środowiska — działu budownictwo, gospodarka przestrzenna i mieszkaniowa, działu gospodarka, działu gospodarka morska, działu gospodarka wodna, działu łączność, działu rozwój regionalny, działu Skarb Państwa, działu transport, działu turystyka oraz działu środowisko;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_5/pkt_6",
+     "text": "Zespołu do Spraw Administracji Publicznej i Bezpieczeństwa Obywateli — działu administracja publiczna, działu obrona narodowa, działu sprawiedliwość oraz działu sprawy wewnętrzne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_5/pkt_7",
+     "text": "Zespołu do Spraw Obszarów Wiejskich, Wsi i Rolnictwa — działu rolnictwo i działu rozwój wsi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_5/pkt_8",
+     "text": "Zespołu do Spraw Społeczeństwa Informacyjnego — działu informatyzacja;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_5/pkt_9",
+     "text": "Zespołu do Spraw Statystyki Publicznej — statystyka publiczna, w rozumieniu ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.[^1]).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zespół powinien liczyć nie więcej niż 14 członków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W skład zespołu wchodzą, w równej liczbie, przedstawiciele stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Skład osobowy zespołu ustalają współprzewodniczący Komisji Wspólnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Członkowie Komisji Wspólnej mogą zgłaszać, w formie pisemnej, współprzewodniczącym Komisji Wspólnej kandydatów na członków poszczególnych zespołów. Zgłoszenie kandydata niebędącego członkiem Komisji Wspólnej powinno zawierać rekomendację członka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Współprzewodniczący zespołu powoływani są spośród członków zespołu reprezentujących strony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Posiedzenia Komisji Wspólnej służą opiniowaniu projektów dokumentów oraz zajmowaniu stanowiska w sprawach, o których mowa odpowiednio w art. 8 i 9 ustawy, w tym rozpatrywaniu projektów stanowisk i opinii, które zostały przygotowane przez zespoły.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W szczególnie uzasadnionych przypadkach, za zgodą współprzewodniczących Komisji Wspólnej, na posiedzeniu Komisji Wspólnej mogą być opiniowane projekty dokumentów oraz zajmowane stanowiska, do których nie zostały przygotowane projekty stanowisk i opinii zespołów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Członkowie Rady Ministrów oraz inne podmioty właściwe do przygotowania projektów aktów normatywnych, programów i innych dokumentów rządowych dotyczących problematyki samorządu terytorialnego przedstawiają Komisji Wspólnej do zaopiniowania projekty tych dokumentów wraz z prognozą ich skutków finansowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Terminy posiedzeń Komisji Wspólnej ustalają, z uwzględnieniem art. 14 ust. 1 ustawy, współprzewodniczący Komisji Wspólnej. Czas pracy Komisji Wspólnej powinien być dostosowany do jej potrzeb, z tym że posiedzenia Komisji Wspólnej powinny odbywać się w ciągu jednego dnia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Projekt porządku posiedzenia Komisji Wspólnej i niezbędne materiały na posiedzenie przygotowuje sekretarz Komisji Wspólnej wyznaczony przez współprzewodniczącego Komisji Wspólnej reprezentującego stronę rządową, działając w porozumieniu z sekretarzem wyznaczonym przez współprzewodniczącego reprezentującego stronę samorządową, a następnie przedstawia do akceptacji współprzewodniczącym Komisji Wspólnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Posiedzenie zwołuje współprzewodniczący Komisji Wspólnej reprezentujący stronę rządową po uzgodnieniu terminu i porządku obrad ze współprzewodniczącym Komisji Wspólnej reprezentującym stronę samorządową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_7/ust_7",
+     "text": "Współprzewodniczący Komisji Wspólnej może nie wyrazić zgody na proponowany termin lub poszczególne punkty projektu porządku obrad, jeżeli nie zostały dotrzymane postanowienia niniejszego regulaminu określające tryb i sposób przygotowania posiedzenia Komisji Wspólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Członkowie Komisji Wspólnej o posiedzeniu powinni być zawiadomieni przynajmniej 10 dni przed wyznaczonym terminem, chyba że orientacyjny termin posiedzenia został już wyznaczony na posiedzeniu wcześniejszym — wówczas o konkretnym terminie posiedzenia można zawiadomić w krótszym czasie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Członkowie Komisji Wspólnej wraz z zawiadomieniem o posiedzeniu Komisji Wspólnej otrzymują proponowany porządek posiedzenia i dotyczące tego porządku materiały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Projekty opinii i stanowisk przygotowanych przez zespoły dostarcza się, z zastrzeżeniem § 9, członkom Komisji Wspólnej najpóźniej na 7 dni przed posiedzeniem Komisji Wspólnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "W szczególnie uzasadnionych przypadkach terminy, o których mowa w ust. 1 i 3, mogą zostać skrócone za zgodą współprzewodniczących Komisji Wspólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Materiały na posiedzenie Komisji Wspólnej dostarczane są bezpośrednio przez sekretariat Komisji Wspólnej bądź przez inne instytucje i urzędy, po uzgodnieniu z sekretarzami Komisji Wspólnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Jeżeli jest to możliwe, materiały przekazuje się za pomocą środków komunikacji elektronicznej (pocztą elektroniczną).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Członkom Komisji Wspólnej niezbędne materiały powinny być przekazywane niezwłocznie, nie później jednak niż w ciągu 3 dni od wpłynięcia ich do sekretariatu Komisji Wspólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Członkowie Komisji Wspólnej podają sekretarzom Komisji Wspólnej swoje dane adresowe wraz z numerami telefonów, telefonów komórkowych, faksów i adresami poczty elektronicznej, które służyć będą do bezpośredniego kontaktu — ze wskazaniem formy przekazywania materiałów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Jeżeli przygotowanie stanowiska lub projektu stanowiska Komisji Wspólnej wymaga zebrania opinii (uwag) członków Komisji Wspólnej, termin przekazywania takiej opinii (uwag) określa się w wystąpieniu o opinię (uwagi), z uwzględnieniem terminu zajęcia stanowiska przez Komisję Wspólną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Współprzewodniczący Komisji Wspólnej mogą zadecydować o zajęciu stanowiska przez Komisję Wspólną w trybie obiegowym; w trybie tym stanowisko zajmuje się w formie pisemnej (przesyłki faksowej lub poczty elektronicznej).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Projekt stanowiska, o którym mowa w ust. 1, lub pytanie o stanowisko rozsyła sekretarz Komisji Wspólnej wyznaczony przez współprzewodniczącego Komisji Wspólnej reprezentującego stronę rządową działający w porozumieniu z sekretarzem Komisji Wspólnej wyznaczonym przez współprzewodniczącego reprezentującego stronę samorządową. Przepis ust. 1 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Jeżeli do projektu stanowiska lub pytania, o których mowa w ust. 1, zgłaszane są uwagi, rozsyłana jest nowa wersja lub projekt staje się przedmiotem rozpatrzenia na posiedzeniu Komisji Wspólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "W szczególnie uzasadnionych przypadkach współprzewodniczący Komisji Wspólnej może wyznaczyć — pisemnie lub ustnie do protokołu posiedzenia — zastępstwo do prowadzenia obrad w jego imieniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Członkowie Komisji Wspólnej, z zastrzeżeniem ust. 1, nie mogą działać za pośrednictwem pełnomocnika, a także nie mogą wyznaczać zastępstwa w razie ich nieobecności na posiedzeniach. W takich przypadkach dopuszcza się obecność na posiedzeniu obserwatora wyznaczonego w formie pisemnej przez nieobecnego członka Komisji Wspólnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Obserwator nie ma prawa zabierania głosu, chyba że zadecydują o tym współprzewodniczący Komisji Wspólnej; wówczas głos obserwatora jest głosem doradczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "W przypadku przewidywanej nieobecności na posiedzeniu Komisji Wspólnej jej członkowie powinni o tym powiadomić, za pośrednictwem sekretariatu Komisji Wspólnej, współprzewodniczących Komisji Wspólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "W posiedzeniach Komisji Wspólnej uczestniczą, z głosem doradczym, sekretarze Komisji Wspólnej, członkowie zespołów niebędący członkami Komisji Wspólnej i osoby zaproszone na posiedzenie Komisji Wspólnej przez współprzewodniczących Komisji Wspólnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Decyzje w sprawach formalnych, takich jak zmiana kolejności punktów porządku obrad, ogłoszenie przerwy w obradach, są podejmowane za zgodą współprzewodniczących Komisji Wspólnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Współprzewodniczący Komisji Wspólnej kończą każde posiedzenie poprzez wskazanie ustaleń, jakie powinny znaleźć się w protokole.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Protokół posiedzenia Komisji Wspólnej przygotowuje sekretarz Komisji Wspólnej wyznaczony przez współprzewodniczącego Komisji Wspólnej reprezentującego stronę rządową, działając w porozumieniu z sekretarzem Komisji Wspólnej wyznaczonym przez współprzewodniczącego reprezentującego stronę samorządową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Protokół posiedzenia Komisji Wspólnej podpisują współprzewodniczący Komisji Wspólnej. Protokół powinien być podpisany w terminie 7 dni od dnia posiedzenia Komisji Wspólnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Protokół jest przekazywany poszczególnym członkom Komisji Wspólnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_15/ust_5",
+     "text": "Opinie i stanowiska wyrażone przez Komisję Wspólną przekazywane są właściwym ministrom w terminie 14 dni od dnia podpisania protokołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Posiedzenia zespołów odbywają się zgodnie z wcześniejszymi ustaleniami współprzewodniczących zespołów. Czas pracy zespołów powinien być dostosowany do potrzeb Komisji Wspólnej, z tym że posiedzenia zespołu powinny odbywać się w ciągu jednego dnia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Jeżeli na wcześniejszym posiedzeniu zespołu termin kolejnego posiedzenia nie został ustalony, współprzewodniczący zespołu uzgadniają termin ustnie, telefonicznie, faksem lub za pośrednictwem poczty elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Do trybu przygotowywania posiedzeń zespołów, trybu zawiadamiania o posiedzeniach oraz przekazywania materiałów członkom zespołów stosuje się odpowiednio przepisy § 7 ust. 4 oraz § 8—15.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769, z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668, z 2001 r. Nr 100, poz. 1080, z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 oraz z 2006 r. Nr 170, poz. 1217."
+ }
+}

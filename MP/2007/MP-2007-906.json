@@ -1,0 +1,231 @@
+{
+ "eli": "MP/2007/906",
+ "title": "Uchwała Nr 264 Rady Ministrów z dnia 6 listopada 2007 r. w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Podkarpackiego na lata 2007-2013",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/906/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 264 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 listopada 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Podkarpackiego na lata 2007—2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658 oraz z 2007 r. Nr 140, poz. 984) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Na realizację Regionalnego Programu Operacyjnego Województwa Podkarpackiego na lata 2007—2013 przyjętego decyzją Komisji Europejskiej nr K(2007) 4560 z dnia 1 października 2007 r. w sprawie przyjęcia w ramach pomocy wspólnotowej programu operacyjnego Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w regionie Podkarpackie w Polsce, CCI 2007PL161PO013, zwanego dalej „RPO”, przeznacza się środki z budżetu państwa pochodzące z Europejskiego Funduszu Rozwoju Regionalnego, zwanego dalej „EFRR”, do wysokości 1 136 307 823 euro, co na dzień powzięcia uchwały wynosi 4 134 001 490,86 zł, według kursu Europejskiego Banku Centralnego z przedostatniego dnia miesiąca poprzedzającego miesiąc, w którym powzięto uchwałę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Środki, o których mowa w ust. 1, zostaną przeznaczone na realizację następujących osi priorytetowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "Konkurencyjna i innowacyjna gospodarka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "Infrastruktura techniczna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "Społeczeństwo informacyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "Ochrona środowiska i zapobieganie zagrożeniom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_2/pkt_5",
+       "text": "Infrastruktura publiczna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_2/pkt_6",
+       "text": "Turystyka i kultura;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/ust_2/pkt_7",
+       "text": "Spójność wewnątrzregionalna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/ust_2/pkt_8",
+       "text": "Pomoc techniczna.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Na realizację projektów objętych pomocą publiczną w ramach RPO przeznacza się inne, niepochodzące z EFRR, środki z budżetu państwa przeznaczone na realizację programów operacyjnych, do",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziom wysokości 130 164 517 euro, co na dzień powzięcia uchwały wynosi 473 551 529,30 zł, według kursu Europejskiego Banku Centralnego z przedostatniego dnia miesiąca poprzedzającego miesiąc, w którym powzięto uchwałę."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Środki, o których mowa w ust. 1, stanowią część wkładu krajowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Warunkiem dofinansowania RPO środkami, o których mowa w § 1 i 2, jest:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "wykonanie przez Instytucję Zarządzającą obowiązków określonych w art. 20 ust. 2 i 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "podpisanie i realizacja kontraktu wojewódzkiego na podstawie art. 20 ust. 5 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "wypełnianie przez Instytucję Zarządzającą zadań określonych w art. 26 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "zapewnienie przez Instytucję Zarządzającą, z zastrzeżeniem § 2, części wkładu krajowego przez zarządzanie RPO, polegające na wniesieniu przez beneficjentów RPO wkładu krajowego w wysokości niezbędnej do jego realizacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Podział środków, o których mowa w § 1 ust. 1, § 2 i § 3 pkt 4, na osie priorytetowe RPO przedstawia się następująco:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Środki EFRR Poziom wkładu Środki wkładu Oś priorytetowa dofinansowania (w euro) krajowego (%) krajowego (w euro) EFRR (%)"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "1 81,81 % 288 640 033 18,19 % 64 170 596"
+    },
+    {
+     "type": "text",
+     "text": "2 85,00 % 341 083 247 15,00 % 60 191 162"
+    },
+    {
+     "type": "text",
+     "text": "3 85,00 % 67 987 570 15,00 % 11 997 806"
+    },
+    {
+     "type": "text",
+     "text": "4 85,00 % 170 446 174 15,00 % 30 078 736"
+    },
+    {
+     "type": "text",
+     "text": "5 85,00 % 120 448 629 15,00 % 21 255 640"
+    },
+    {
+     "type": "text",
+     "text": "6 85,00 % 37 071 388 15,00 % 6 542 010"
+    },
+    {
+     "type": "text",
+     "text": "7 85,00 % 79 541 547 15,00 % 14 036 744"
+    },
+    {
+     "type": "text",
+     "text": "8 100,00 % 31 089 235 0 0"
+    },
+    {
+     "type": "text",
+     "text": "ogółem na RPO 84,51 % 1 136 307 823 15,49 % 208 272 694"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Uchwała wchodzi w życie z dniem powzięcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Kaczyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

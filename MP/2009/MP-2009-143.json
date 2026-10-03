@@ -1,0 +1,80 @@
+{
+ "eli": "MP/2009/143",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2009 r. w sprawie powołania Komisji Śledczej do zbadania prawidłowości działań organów administracji rządowej w sprawie postępowań karnych związanych z uprowadzeniem i zabójstwem Krzysztofa Olewnika",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/143/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lutego 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Komisji Śledczej do zbadania prawidłowości działań organów administracji rządowej w sprawie postępowań karnych związanych z uprowadzeniem i zabójstwem Krzysztofa Olewnika"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 111 Konstytucji Rzeczypospolitej Polskiej oraz art. 1 i 2 ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej (Dz. U. Nr 35, poz. 321 oraz z 2005 r. Nr 122, poz. 1023) Sejm Rzeczypospolitej Polskiej uchwala, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Sejm Rzeczypospolitej Polskiej powołuje Komisję Śledczą do zbadania prawidłowości działań organów administracji rządowej w sprawie postępowań karnych związanych z uprowadzeniem i zabójstwem Krzysztofa Olewnika, zwaną dalej „Komisją”.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do zakresu działania Komisji należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "zbadanie prawidłowości działań Prokuratury i Policji w postępowaniach karnych związanych z uprowadzeniem i zabójstwem Krzysztofa Olewnika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "zbadanie prawidłowości działań Służby Więziennej, Policji i Prokuratury w zakresie wykonywania tymczasowego aresztowania i kary pozbawienia wolności wobec osób aresztowanych lub skazanych w postępowaniach karnych, o których mowa w pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "zbadanie prawidłowości działań organów administracji rządowej w zakresie czynności dotyczących postępowań karnych, o których mowa w pkt 1, oraz wykonywania tymczasowego aresztowania i kary pozbawienia wolności wobec osób aresztowanych lub skazanych w tych postępowaniach karnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W skład Komisji wchodzi 7 członków.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,64 @@
+{
+ "eli": "MP/2000/664",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 4 października 2000 r. w sprawie ustalenia wzoru, próby, masy i wielkości emisji monety nominalnej wartości 10 zł oraz terminu wprowadzenia jej do obiegu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/664/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 października 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, próby, masy i wielkości emisji monety nominalnej wartości 10 zł oraz terminu wprowadzenia jej do obiegu."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063 oraz z 2000 r. Nr 53, poz. 648 i Nr 62, poz. 718) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, próbę, masę i wielkość emisji monety nominalnej wartości 10 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 18 października 2000 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: H. Gronkiewicz-Waltz"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 4 października 2000 r. (poz. 664)"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, PRÓBA, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 10 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "War- Cechy graficzne Brzeg Masa Średnica Wielkość (w gra- (w mili- Stop (próba) emisji (w tość strona główna strona odwrotna (bok) mach) metrach) sztukach) Wizerunek orła ustalony dla go- Stylizowany wizerunek dła Rzeczypospolitej Polskiej. Po- fragmentu Kolumny niżej orła napis: ZŁ 10 ZŁ. Z le- Barskiej: fragment trzowej strony stylizowany wizeru- nu, głowica, kula i orzeł. nek fragmentu Zamku Rappers- Z lewej strony nawilskiego, z prawej strony styli- pis: MAGNA/RES/LI- 10 zł gładki 14,14 32,0 Ag 925/1000 25 000 zowany wizerunek fragmentu BERTAS oraz półkolem Zamku Królewskiego w Warsza- napis: MUZEUM POL- wie. U góry napis: RZECZ- SKIE. Z prawej strony POSPOLITA / POLSKA / ROK napis: 1870/2000 oraz 2000. Pod lewą łapą orła znak półkolem napis: mennicy: MW W RAPPERSWILU"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

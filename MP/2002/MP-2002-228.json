@@ -1,0 +1,85 @@
+{
+ "eli": "MP/2002/228",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 22 marca 2002 r. w sprawie wielkości średniej dziennej wewnętrznej konsumpcji paliw ciekłych w 2001 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/228/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 marca 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wielkości średniej dziennej wewnętrznej konsumpcji paliw ciekłych w 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15 ust. 3 ustawy z dnia 30 maja 1996 r. o rezerwach państwowych oraz zapasach obowiązkowych paliw (Dz. U. Nr 90, poz. 404 i Nr 156, poz. 775, z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 43, poz. 487, z 2001 r. Nr 129, poz. 1442 oraz z 2002 r. Nr 25, poz. 253) ogłasza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Średnia dzienna wewnętrzna konsumpcja paliw ciekłych w 2001 r. dla poszczególnych grup produktów wytwarzanych z ropy naftowej wynosiła:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dla benzyn silnikowych i materiałów pędnych do silników lotniczych— 12,8 tys. ton,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dla olejów napędowych do silników i materiałów pędnych do silników lotniczych na bazie nafty — 13,6 tys. ton, w tym:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "oleje napędowe do silników — 13,1 tys. ton,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "materiały pędne do silników lotniczych na bazie nafty — 0,5 tys. ton,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "dla olejów opałowych, łącznie z olejem do silników statków morskich — 11,6 tys. ton, w tym:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "oleje opałowe ciężkie — 3,6 tys. ton,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "oleje opałowe lekkie — 8,0 tys. ton.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: J. Piechota"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

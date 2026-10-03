@@ -1,0 +1,49 @@
+{
+ "eli": "MP/2005/460",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 24 maja 2005 r. w sprawie przyjęcia sprawozdania z wykonania założeń polityki pieniężnej w 2004 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/460/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 maja 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przyjęcia sprawozdania z wykonania założeń polityki pieniężnej w 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przyjmuje się sprawozdanie z wykonania założeń polityki pieniężnej w 2004 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: L. Balcerowicz"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie Rady Polityki Pieniężnej: J. Czekaj, D. Filar, S. Nieckarz, M. Noga, S. Owsiak, M. Pietrewicz, A. Sławiński, H. Wasilewska-Trenkner, A. Wojtyna"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,426 @@
+{
+ "eli": "MP/2010/127",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie zmiany wykazu gmin objętych procesem restrukturyzacji, wskazanych w Krajowym Programie Restrukturyzacji",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/127/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 lutego 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany wykazu gmin objętych procesem restrukturyzacji, wskazanych w Krajowym Programie Restrukturyzacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ust. 2 ustawy z dnia 22 maja 2009 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 95, poz. 792) ogłasza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W wykazie gmin objętych procesem restrukturyzacji, wskazanych w Krajowym Programie Restrukturyzacji, stanowiącym załącznik do obwieszczenia",
+   "children": [
+    {
+     "type": "text",
+     "text": "„26a ŁÓDŹ-POLESIE Ministra Rolnictwa i Rozwoju Wsi z dnia 1 lipca 2009 r. w sprawie wykazu gmin objętych procesem restrukturyzacji, wskazanych w Krajowym Programie Restrukturyzacji (M. P. Nr 44, poz. 673), wprowadza się następujące zmiany:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) w tabeli WOJEWÓDZTWO ŁÓDZKIE po Ip. 26 dodaje się Ip. 26a w brzmieniu:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "M. ŁÓDŹ”",
+     "quoted": true
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w tabeli WOJEWÓDZTWO OPOLSKIE po Ip. 44 dodaje się Ip. 44a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„44a SKARBIMIERZ BRZESKI”",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w tabeli WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE po Ip. 23 dodaje się Ip. 23a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„23a NOWE MIASTO LUBAWSKIE NOWOMIEJSKI”",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "tabela WOJEWÓDZTWO PODKARPACKIE otrzymuje brzmienie określone w załączniku do niniejszego obwieszczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: M. Sawicki"
+  },
+  {
+   "type": "text",
+   "text": "¹⁾ Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej — rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 216, poz. 1599)."
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do obwieszczenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. (poz. 127)"
+  },
+  {
+   "type": "text",
+   "text": "WOJEWÓDZTWO PODKARPACKIE"
+  },
+  {
+   "type": "text",
+   "text": "Lp. GMINA POWIAT"
+  },
+  {
+   "type": "text",
+   "text": "1 2 3"
+  },
+  {
+   "type": "text",
+   "text": "1 ADAMÓWKA PRZEWORSKI"
+  },
+  {
+   "type": "text",
+   "text": "2 BESKO SANOCKI"
+  },
+  {
+   "type": "text",
+   "text": "3 BIAŁOBRZEGI ŁAŃCUCKI"
+  },
+  {
+   "type": "text",
+   "text": "4 BOGUCHWAŁA RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "5 BOROWA MIELECKI"
+  },
+  {
+   "type": "text",
+   "text": "6 BRZOSTEK DĘBICKI"
+  },
+  {
+   "type": "text",
+   "text": "7 BRZYSKA JASIELSKI"
+  },
+  {
+   "type": "text",
+   "text": "8 CHŁOPICE JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "9 CIESZANÓW LUBACZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "10 CZARNA DĘBICKI/ŁAŃCUCKI"
+  },
+  {
+   "type": "text",
+   "text": "11 DĘBICA DĘBICKI 1 2 3"
+  },
+  {
+   "type": "text",
+   "text": "12 DUBIECKO PRZEMYSKI"
+  },
+  {
+   "type": "text",
+   "text": "13 DYDNIA BRZOZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "14 DYNÓW RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "15 FREDROPOL PRZEMYSKI"
+  },
+  {
+   "type": "text",
+   "text": "16 FRYSZTAK STRZYŻOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "17 GAĆ PRZEWORSKI"
+  },
+  {
+   "type": "text",
+   "text": "18 GAWŁUSZOWICE MIELECKI"
+  },
+  {
+   "type": "text",
+   "text": "19 GORZYCE TARNOBRZESKI"
+  },
+  {
+   "type": "text",
+   "text": "20 GRODZISKO DOLNE LEŻAJSKI"
+  },
+  {
+   "type": "text",
+   "text": "21 HORYNIEC-ZDRÓJ LUBACZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "22 IWIERZYCE ROPCZYCKO-SĘDZISZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "23 JAROSŁAW JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "24 JASIENICA ROSIELNA BRZOZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "25 KAMIEŃ RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "26 KAŃCZUGA PRZEWORSKI"
+  },
+  {
+   "type": "text",
+   "text": "27 KORCZYNA KROŚNIEŃSKI"
+  },
+  {
+   "type": "text",
+   "text": "28 KRASNE RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "29 KROŚCIENKO WYŻNE KROŚNIEŃSKI"
+  },
+  {
+   "type": "text",
+   "text": "30 KRZESZÓW NIŻAŃSKI"
+  },
+  {
+   "type": "text",
+   "text": "31 LASZKI JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "32 LEŻAJSK LEŻAJSKI"
+  },
+  {
+   "type": "text",
+   "text": "33 LUBACZÓW LUBACZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "34 LUBENIA RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "35 ŁAŃCUT ŁAŃCUCKI"
+  },
+  {
+   "type": "text",
+   "text": "36 MAJDAN KRÓLEWSKI KOLBUSZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "37 MARKOWA ŁAŃCUCKI"
+  },
+  {
+   "type": "text",
+   "text": "38 MEDYKA PRZEMYSKI"
+  },
+  {
+   "type": "text",
+   "text": "39 MIELEC MIELECKI"
+  },
+  {
+   "type": "text",
+   "text": "40 NAROL LUBACZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "41 NOZDRZEC BRZOZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "42 OLESZYCE LUBACZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "43 ORŁY PRZEMYSKI"
+  },
+  {
+   "type": "text",
+   "text": "44 OSTRÓW ROPCZYCKO-SĘDZISZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "45 PADEW NARODOWA MIELECKI"
+  },
+  {
+   "type": "text",
+   "text": "46 PAWŁOSIÓW JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "47 PILZNO DĘBICKI"
+  },
+  {
+   "type": "text",
+   "text": "48 PRUCHNIK JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "49 PRZECŁAW MIELECKI"
+  },
+  {
+   "type": "text",
+   "text": "50 PRZEMYŚL PRZEMYSKI/M. PRZEMYŚL"
+  },
+  {
+   "type": "text",
+   "text": "51 PRZEWORSK PRZEWORSKI"
+  },
+  {
+   "type": "text",
+   "text": "52 RADOMYŚL NAD SANEM STALOWOWOLSKI"
+  },
+  {
+   "type": "text",
+   "text": "53 RADOMYŚL WIELKI MIELECKI"
+  },
+  {
+   "type": "text",
+   "text": "54 RADYMNO JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "55 ROKIETNICA JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "56 ROPCZYCE ROPCZYCKO-SĘDZISZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "57 ROŹWIENICA JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "58 RYMANÓW KROŚNIEŃSKI 1 2 3"
+  },
+  {
+   "type": "text",
+   "text": "59 RZESZÓW M. RZESZÓW"
+  },
+  {
+   "type": "text",
+   "text": "60 SĘDZISZÓW MAŁOPOLSKI ROPCZYCKO-SĘDZISZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "61 SIENIAWA PRZEWORSKI"
+  },
+  {
+   "type": "text",
+   "text": "62 STALOWA WOLA STALOWOWOLSKI"
+  },
+  {
+   "type": "text",
+   "text": "63 STRZYŻÓW STRZYŻOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "64 STUBNO PRZEMYSKI"
+  },
+  {
+   "type": "text",
+   "text": "65 ŚWILCZA RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "66 TARNOBRZEG M. TARNOBRZEG"
+  },
+  {
+   "type": "text",
+   "text": "67 TRYŃCZA PRZEWORSKI"
+  },
+  {
+   "type": "text",
+   "text": "68 TRZEBOWNISKO RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "69 TYCZYN RZESZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "70 WADOWICE GÓRNE MIELECKI"
+  },
+  {
+   "type": "text",
+   "text": "71 WIĄZOWNICA JAROSŁAWSKI"
+  },
+  {
+   "type": "text",
+   "text": "72 WIELKIE OCZY LUBACZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "73 WIELOPOLE SKRZYŃSKIE ROPCZYCKO-SĘDZISZOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "74 WIŚNIOWA STRZYŻOWSKI"
+  },
+  {
+   "type": "text",
+   "text": "75 ZAKLIKÓW STALOWOWOLSKI"
+  },
+  {
+   "type": "text",
+   "text": "76 ZARSZYN SANOCKI"
+  },
+  {
+   "type": "text",
+   "text": "77 ZARZECZE PRZEWORSKI"
+  },
+  {
+   "type": "text",
+   "text": "78 ŻOŁYNIA ŁAŃCUCKI"
+  },
+  {
+   "type": "text",
+   "text": "79 ŻURAWICA PRZEMYSKI"
+  },
+  {
+   "type": "text",
+   "text": "80 ŻYRAKÓW DĘBICKI"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

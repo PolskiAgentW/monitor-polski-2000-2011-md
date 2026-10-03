@@ -1,0 +1,233 @@
+{
+ "eli": "MP/2002/338",
+ "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 14 maja 2002 r. w sprawie wskaźnika waloryzacji, kwot dochodu po waloryzacji i wysokości świadczeń pomocy społecznej oraz kwoty stanowiącej podstawę ustalania wysokości niektórych świadczeń pomocy społecznej od dnia 1 czerwca 2002 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/338/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 maja 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wskaźnika waloryzacji, kwot dochodu po waloryzacji i wysokości świadczeń pomocy społecznej oraz kwoty stanowiącej podstawę ustalania wysokości niektórych świadczeń pomocy społecznej od dnia 1 czerwca 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 35a ust. 6 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001, z 2000 r. Nr 12, poz. 136 i Nr 19, poz. 238 oraz z 2001 r. Nr 72, poz. 748, Nr 88, poz. 961, Nr 89, poz. 973, Nr 111, poz. 1194, Nr 122, poz. 1349 i Nr 154, poz. 1792) ogłasza się, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Wskaźnik waloryzacji kwot dochodu i wysokości świadczeń pomocy społecznej oraz kwoty stanowiącej podstawę ustalania wysokości niektórych świadczeń pomocy społecznej wymienionych w ustawie z dnia 29 listopada 1990 r. o pomocy społecznej, w rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1996 r. w sprawie rodzajów specjalistycznych usług opiekuńczych oraz kwalifikacji osób świadczących takie usługi dla osób z zaburzeniami psychicznymi, zasad i trybu ustalania i pobierania opłat za te usługi, jak również warunków częściowego lub całkowitego zwolnienia od opłat (Dz. U. z 1997 r. Nr 2, poz. 12) i w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 1 grudnia 2000 r. w sprawie szczegółowych zasad udzielania pomocy uchodźcom, wysokości świadczeń pieniężnych, form i zakresu pomocy, trybu postępowania w tych sprawach oraz warunków wstrzymania pomocy lub jej odmowy (Dz. U. Nr 109, poz. 1160 i z 2001 r. Nr 154, poz. 1792) wynosi od dnia 1 czerwca 2002 r. 103,04%.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Od dnia 1 czerwca 2002 r.:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "wartość dochodu odpowiadająca dochodowi miesięcznemu z 1 ha przeliczeniowego wynosi 210 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "wysokość dochodu uprawniająca do świadczeń z pomocy społecznej nie może przekroczyć:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_2/lit_a",
+       "text": "na osobę samotnie gospodarującą — 461 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_2/lit_b",
+       "text": "na pierwszą osobę w rodzinie — 418 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_2/lit_c",
+       "text": "na drugą i dalsze osoby w rodzinie powyżej 15 lat — 294 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/pkt_2/lit_d",
+       "text": "na każdą osobę w rodzinie poniżej 15 lat — 210 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "kwoty dochodu na osobę w rodzinie, w zależności od którego ustala się wysokość odpłatności za specjalistyczne usługi dla osób z zaburzeniami psychicznymi, wynoszą:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wysokość odpłatności w procentach ustalona od ceny usługi dla:"
+      },
+      {
+       "type": "text",
+       "text": "Dochód na osobę w złotych osób w gospodarstwach wieloosoosób samotnie gospodarujących bowych"
+      },
+      {
+       "type": "text",
+       "text": "1 2 3"
+      },
+      {
+       "type": "text",
+       "text": "do 461 nieodpłatnie nieodpłatnie"
+      },
+      {
+       "type": "text",
+       "text": "462—752 3 7"
+      },
+      {
+       "type": "text",
+       "text": "753—1 003 7 15"
+      },
+      {
+       "type": "text",
+       "text": "1 004—1 171 15 25"
+      },
+      {
+       "type": "text",
+       "text": "1 172—1 253 30 40"
+      },
+      {
+       "type": "text",
+       "text": "1 254—1 337 60 70"
+      },
+      {
+       "type": "text",
+       "text": "1 338—1 504 90 100"
+      },
+      {
+       "type": "text",
+       "text": "powyżej 1 504 100 100"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "zasiłek stały wynosi 418 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "renta socjalna wynosi 418 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_2/pkt_6",
+     "text": "macierzyński zasiłek jednorazowy wynosi 201 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_2/pkt_7",
+     "text": "minimalna wysokość zasiłku okresowego wynosi 19 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "ust_2/pkt_8",
+     "text": "minimalna wysokość zasiłku stałego wyrównawczego wynosi 19 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "ust_2/pkt_9",
+     "text": "minimalna kwota obniżonej renty socjalnej wynosi 52 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "ust_2/pkt_10",
+     "text": "minimalna wysokość macierzyńskiego zasiłku okresowego wynosi 52 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "ust_2/pkt_11",
+     "text": "kwoty świadczeń pieniężnych na utrzymanie przysługujące uchodźcom wynoszą od 420 zł do 1200 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "ust_2/pkt_12",
+     "text": "kwoty świadczeń pieniężnych przysługujące uchodźcom na utrzymanie i pokrycie wydatków związanych z nauką języka polskiego w łącznej wysokości wynoszą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_12/lit_a",
+       "text": "w okresie pierwszych 6 miesięcy: — do 1 149 zł miesięcznie — dla osoby samotnie gospodarującej, — do 804 zł miesięcznie na osobę — w rodzinie 2-osobowej, — do 689 zł miesięcznie na osobę — w rodzinie 3-osobowej, — do 574 zł miesięcznie na osobę — w rodzinie liczącej 4 i więcej osób,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_12/lit_b",
+       "text": "w okresie od 7 do 12 miesiąca: — do 1 033 zł miesięcznie — dla osoby samotnie gospodarującej, — do 723 zł miesięcznie na osobę — w rodzinie 2-osobowej, — do 620 zł miesięcznie na osobę — w rodzinie 3-osobowej, — do 517 zł miesięcznie na osobę — w rodzinie liczącej 4 i więcej osób,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "ust_2/pkt_13",
+     "text": "zasiłek pieniężny dla uchodźcy na utrzymanie, przeznaczony w szczególności na pokrycie wydatków na żywność, odzież, obuwie, środki higieny oraz opłaty mieszkaniowe, nie może być niższy niż 420 zł miesięcznie na osobę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "ust_2/pkt_14",
+     "text": "kwota stanowiąca podstawę ustalania pomocy pieniężnej dla rodziny zastępczej, wynagrodzenia dla rodziny zastępczej pełniącej zadania pogotowia rodzinnego oraz pomocy pieniężnej na usamodzielnienie lub kontynuowanie nauki, a także pomocy rzeczowej dla osób, które osiągnęły pełnoletność w rodzinie zastępczej, oraz osób opuszczających niektóre typy placówek opiekuńczo-wychowawczych, domów pomocy społecznej oraz schroniska dla nieletnich, zakłady poprawcze i specjalne ośrodki szkolno-wychowawcze, a także kwot do własnego dysponowania przez dzieci przebywające w placówkach opiekuńczo-wychowawczych wynosi 1 621 zł.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Pracy i Polityki Społecznej: w z. J. Banach"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

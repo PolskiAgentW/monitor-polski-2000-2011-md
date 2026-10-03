@@ -1,0 +1,109 @@
+{
+ "eli": "MP/2005/941",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 3 listopada 2005 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 100 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/941/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 listopada 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 100 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł, 10 zł i 100 zł, określone w załączniku nr 1 do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku nr 2 do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Monety, o których mowa w § 1 i 2, wprowadza się do obiegu z dniem 18 listopada 2005 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 3 listopada 2005 r. (poz. 941) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ, 10 ZŁ I 100 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Średnica Wielkość Wartość Brzeg (bok) (w (w mili- Stop/próba emisji gramach) metrach) (w sztustrona główna strona odwrotna kach)"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Z lewej strony popiersie Stani- Na boku ośmio- Rzeczypospolitej Polskiej, po bo- sława Augusta Poniatowskiego. krotnie powtókach orła oznaczenie roku emisji: Z prawej strony napis: 3. Maia, rzony napis: 20-05, pod orłem napis: ZŁ 2 ZŁ, /Roku 1791. Ugóry półkolem na- NBP, co drugi 2 zł w otoku napis: RZECZPOSPOLITA pis: STANISŁAW AUGUST PO- odwrócony 8,15 27,0 CuAl5Zn5Sn1 990 000 POLSKA, poprzedzony oraz zakoń- NIATOWSKI. U dołu z prawej o 180 stopni, czony sześcioma perełkami. Pod le- strony półkolem napis: 1764— rozdzielony wą łapą orła znak mennicy: MW. 1795. gwiazdkami"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Z lewej strony popiersie Stani- Rzeczypospolitej Polskiej, po bo- sława Augusta Poniatowskiego kach orła oznaczenie roku emisji: oraz w tle cień jego profilu. Po- 20-05, pod orłem napis: ZŁ 10 ZŁ, wyżej napis: 3. Maia, /Roku 1791. 10 zł w otoku napis: RZECZPOSPOLITA Z lewej strony półkolem napis: gładki 14,14 32,0 Ag 925/1000 60 000 POLSKA poprzedzony oraz zakoń- STANISŁAW AUGUST, z prawej czony pięcioma perełkami. Pod le- strony półkolem napis: PONIA- wą łapą orła znak mennicy: MW. TOWSKI. U dołu z prawej strony napis: 1764—1795."
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Półpostać Stanisława Augusta Rzeczypospolitej Polskiej, po bo- Poniatowskiego. Zprawej strony kach orła oznaczenie roku emisji: królewski monogram. Z lewej 20-05, pod orłem napis: ZŁ 10 ZŁ, strony półkolem napis: STANI- 10 zł w otoku napis: RZECZPOSPOLITA SŁAW AUGUST PONIATOWSKI, gładki 14,14 32,0 Ag 925/1000 60 000 POLSKA poprzedzony oraz zakoń- z prawej strony półkolem napis: czony pięcioma perełkami. Pod le- 1764—1795. wą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Z lewej strony popiersie Stani- Rzeczypospolitej Polskiej, po bo- sława Augusta Poniatowskiego. kach orła oznaczenie roku emisji: Zprawej strony królewski mono- 100 zł 20-05, pod orłem napis: ZŁ 100 ZŁ, gram. W otoku napis na górze: gładki 8,0 21,0 Au 900/1000 4 200 w otoku napis: RZECZPOSPOLITA STANISŁAW AUGUST PONIA- POLSKA. Pod lewą łapą orła znak TOWSKI, na dole: 1764—1795. mennicy: MW. Monitor Polski Nr 67 — 2177 — Poz. 941"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Średnica Wielkość Wartość Brzeg (bok) (w (w mili- Stop emisji gramach) metrach) (w sztustrona główna strona odwrotna kach)"
+    },
+    {
+     "type": "text",
+     "text": "W centralnej części wizerunek orła Stylizowany wizerunek bazyliki Na boku ośmioustalony dla godła Rzeczypospolitej katedralnej p.w. Wniebowzięcia krotnie powtó- Polskiej. Z prawej strony napis: NMP we Włocławku, od strony rzony napis: 2 ZŁ. Ugóry półkolem napis: RZECZ- południowo-wschodniej. U góry NBP, co drugi POSPOLITA POLSKA oraz oznacze- napis: WŁOCŁAWEK. odwrócony 2 zł nie roku emisji: 2005. Poniżej orła o 180 stopni, 8,15 27,0 CuAl5Zn5Sn1 1 100 000 stylizowany fragment muru miej- rozdzielony skiego z blankami oraz z bramą gwiazdkami o rozwartych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 67 — 2178 — Poz. 941 — 2179 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,80 @@
+{
+ "eli": "MP/2007/827",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 12 października 2007 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/827/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 października 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 24 października 2007 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 12października 2007 r. (poz. 827)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ, 10 ZŁ I 200 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Średnica Wielkość Wartość Brzeg (bok) (w gra- (w milime- Stop/próba emisji strona główna strona odwrotna mach) trach) (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla go- Stylizowany wizerunek rycerza Na boku ośmiodła Rzeczypospolitej Polskiej, ciężkozbrojnego z kopią na ko- krotnie powtórzopo bokach orła oznaczenie roku niu. U dołu na szarfie półkolem ny napis: NBP, co emisji: 20-07, pod orłem napis: napis: RYCERZ CIĘŻKOZBROJ- drugi odwrócony 2 zł ZŁ 2 ZŁ, w otoku napis: RZECZ- NY — XV w. o 180 stopni, roz- 8,15 27,0 CuA5Zn5Sn1 990 000 POSPOLITA POLSKA, poprze- dzielony gwiazddzony oraz zakończony sześcio- kami ma perełkami. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla Stylizowane wizerunki: rycerza godła Rzeczypospolitej Pol- ciężkozbrojnego z kopią na koskiej. Nad orłem hełm rycerski niu oraz w tle kontury rycerza oraz wokół orła i hełmu orna- z obnażonym mieczem na koment roślinny. Pod orłem niu. U góry z prawej strony z prawej strony napis: 10/ZŁ, kontury zabudowań miejskich. długość: 10 zł z lewej strony ukośnie wizeru- Udołu pod łamaną linią napis: gładki 14,14 22,0 mm Ag 925/1000 61 000 nek miecza. Pod mieczem RYCERZ/CIĘŻKOZBROJNY, nad szerokość: oznaczenie roku emisji: 2007. linią z prawej strony napis: 32,0 mm Z lewej strony pionowo napis: XV w. RZECZPOSPOLITA, u dołu napis: POLSKA. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "Zprawej strony wizerunek orła Stylizowany wizerunek rycerza ustalony dla godła Rzeczypo- ciężkozbrojnego z obnażonym spolitej Polskiej. Pod orłem na- mieczem na koniu. Z lewej pis: 200/ZŁ. Z lewej strony orła strony stylizowany wizerunek u góry oznaczenie roku emisji: zabudowań miejskich. U dołu 200 zł 2007. Poniżej stylizowane wi- i z prawej strony półkolem na- gładki 15,50 27,0 Au 900/1000 9 900 zerunki: hełmu, dwóch mieczy, pis: RYCERZ CIĘŻKOZBROJNY kopii, rękawicy oraz proporca. — XV w. U dołu półkolem napis: RZECZPOSPOLITA POLSKA. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 77 — 3489 — Poz. 827"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410."
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "eli": "MP/2011/19",
+ "title": "Zarządzenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 listopada 2010 r. zmieniające zarządzenie w sprawie nadania statutu Państwowej Inspekcji Pracy",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/19/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 listopada 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Państwowej Inspekcji Pracy"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ust. 1 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. Nr 89, poz. 589, z późn. zm.[^1]), na wniosek Głównego Inspektora Pracy, zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Państwowej Inspekcji Pracy, stanowiącym załącznik do zarządzenia Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 sierpnia 2007 r. w sprawie nadania statutu Państwowej Inspekcji Pracy (M. P. Nr 58, poz. 657 oraz z 2009 r. Nr 8, poz. 76), wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Główny Inspektor Pracy może, w formie pisemnej, upoważnić swoich zastępców oraz osoby kierujące jednostkami organizacyjnymi albo komórkami organizacyjnymi do działania w określonych sprawach w jego imieniu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Jednostkami organizacyjnymi Państwowej Inspekcji Pracy są:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Główny Inspektorat Pracy;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) okręgowe inspektoraty pracy;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Ośrodek Szkolenia Państwowej Inspekcji Pracy im. Profesora Jana Rosnera we Wrocławiu, zwany dalej „Ośrodkiem”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 5 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Organizację wewnętrzną okręgowych inspektoratów pracy i Ośrodka określają regulaminy organizacyjne nadane przez Głównego Inspektora Pracy na wniosek odpowiednio okręgowych inspektorów pracy i dyrektora Ośrodka.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "uchyla się § 7.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 stycznia 2011 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: G. Schetyna"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1656, z 2009 r. Nr 6, poz. 33 i Nr 20, poz. 106 oraz z 2010 r. Nr 109, poz. 708, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 257, poz. 1725."
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "eli": "MP/2006/155",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 10 lutego 2006 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/155/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 lutego 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł i 20 zł określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 28 lutego 2006 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 10 lutego 2006 r. (poz. 155)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 Zł I 20 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wielkość Wartość Brzeg (bok) Masa Średnica Stop/próba emisji (w gramach) (w milimetrach) (w sztukach) strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla Z lewej strony wizerunek Na boku godła Rzeczypospolitej Pol- dorosłego świstaka stoją- ośmiokrotnie skiej. Pod orłem oznaczenie cego na tylnych łapach. powtórzony roku emisji: 2006, poniżej Z prawej strony wizerunek napis: NBP, co napis: ZŁ 2 ZŁ. Po bokach młodego świstaka, siedzą- drugi odwró- 2 zł łap orła wizerunki flagi pań- cego na górskiej skale. cony o 180 8,15 27,0 CuAl5Zn5Sn1 1 400 000 stwowej. U góry półkolem W tle stylizowany wizeru- stopni rozdzienapis: RZECZPOSPOLITA nek krajobrazu górskiego. lony gwiazd- POLSKA. Pod lewą łapą or- U góry półkolem napis: kami ła znak mennicy: MW ŚWISTAK — Marmota marmota"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla Z lewej strony wizerunek godła Rzeczypospolitej Pol- dorosłego świstaka stojąskiej. Pod orłem oznaczenie cego na tylnych łapach. roku emisji: 2006, poniżej Z prawej strony wizerunki 20 zł napis: ZŁ 20 ZŁ. Po bokach dwóch młodych świstaków gładki 28,28 38,61 Ag 925/1000 60 000 łap orła wizerunki flagi pań- na górskiej skale. Wtle stystwowej. U góry półkolem lizowany wizerunek krajonapis: RZECZPOSPOLITA brazu górskiego. U góry POLSKA. Pod lewą łapą or- półkolem napis: ŚWISTAK ła znak mennicy: MW — Marmota marmota Monitor Polski Nr 12 — 825 — Poz. 155"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

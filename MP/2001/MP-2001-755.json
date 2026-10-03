@@ -1,0 +1,814 @@
+{
+ "eli": "MP/2001/755",
+ "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Macedońskim o międzynarodowych przewozach drogowych, sporządzona w Ochrydzie dnia 5 lutego 1998 r.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/755/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UMOWA"
+  },
+  {
+   "type": "text",
+   "text": "między Rządem Rzeczypospolitej Polskiej a Rządem Macedońskim o międzynarodowych przewozach drogowych, sporządzona w Ochrydzie dnia 5 lutego 1998 r."
+  },
+  {
+   "type": "text",
+   "text": "Rząd Rzeczypospolitej Polskiej i Rząd Macedoński, zwane dalej Umawiającymi się Stronami, pragnąc ułatwić i przyczynić się do rozwoju przewozów drogowych osób i ładunków między obu Państwami oraz w tranzycie przez ich terytoria, uwzględniając przy tym potrzebę ochrony środowiska i wymogi bezpieczeństwa ruchu drogowego, uzgodniły, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 1"
+  },
+  {
+   "type": "text",
+   "text": "Zakres stosowania"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Postanowienia niniejszej umowy mają zastosowanie do przewozu osób i ładunków, pochodzących z lub przeznaczonych na terytorium państwa jednej z Umawiających się Stron, w tranzycie przez to terytorium oraz między terytorium państwa trzeciego a terytorium państwa drugiej Umawiającej się Strony i z powrotem, wykonywanych pojazdami zarejestrowanymi na terytorium państwa jednej z Umawiających się Stron.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przewoźnik jednej Umawiającej się Strony ma prawo wykonywania przewozu osób lub ładunków między dwoma miejscami znajdującymi się na terytorium państwa drugiej Umawiającej się Strony (kabotaż) tylko po uzyskaniu zezwolenia właściwego organu drugiej Umawiającej się Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 2"
+    },
+    {
+     "type": "text",
+     "text": "Definicje"
+    },
+    {
+     "type": "text",
+     "text": "W rozumieniu niniejszej umowy następujące określenia oznaczają:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "„przewoźnik” — osobę fizyczną lub prawną, zamieszkałą lub mającą swoją siedzibę bądź w Rzeczypospolitej Polskiej, bądź w państwie macedońskim i która ma prawo wykonywania międzynarodowych przewozów drogowych zgodnie z obowiązującym ustawodawstwem wewnętrznym jej państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "„pojazd” — pojazd drogowy z napędem mechanicznym, który jest skonstruowany do wykonywania przewozów drogowych więcej niż dziewięciu osób łącznie z kierowcą oraz do przewozu ładunków albo do ciągnięcia przyczep i naczep przeznaczonych do tych przewozów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "„autobus” — pojazd drogowy, który konstrukcyjnie jest przeznaczony do przewozu więcej niż dziewięciu osób łącznie z kierowcą;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "„regularny przewóz osób” — przewóz osób na określonej trasie, według rozkładu jazdy i na podstawie taryf uprzednio ustalonych i ogłoszonych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "„okazjonalny przewóz osób” — przewóz, przy którym pojazd przewozi tę samą grupę podróżnych na całej trasie bez prawa wsiadania i zabierania nowych podróżnych w trakcie podróży;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_2/pkt_6",
+     "text": "„przewozy wahadłowe” — wielokrotne przewozy uprzednio zorganizowanych grup osób autobusami z tego samego miejsca wyjazdu do tego samego miejsca przeznaczenia, przy czym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_6/lit_a",
+       "text": "każda z grup powraca do miejsca rozpoczęcia przewozu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_6/lit_b",
+       "text": "przewoźnikowi nie wolno pozostawiać ani zabierać nowych osób podczas przewozu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_6/lit_c",
+       "text": "pierwszy przewóz z powrotem i ostatni w tamtą stronę odbywają się pojazdem bez pasażerów;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_2/pkt_7",
+     "text": "„przewozy na potrzeby własne” — przewozy, przy których pojazd i ładunek stanowią własność tej samej osoby, a kierowca jest jego pracownikiem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 3"
+      },
+      {
+       "type": "text",
+       "text": "Regularne przewozy osób"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przewoźnicy jednej z Umawiających się Stron mogą wykonywać regularne przewozy podróżnych autobusami między terytoriami państw obu Umawiających się Stron oraz w tranzycie przez ich terytoria, po uprzednim otrzymaniu zezwolenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Właściwe organy każdej Umawiającej się Strony wydają zezwolenia na część przewozu wykonywaną na terytorium jej państwa.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Właściwe organy Umawiających się Stron określą w protokole wykonawczym do umowy sposoby i warunki wydawania zezwoleń oraz ich wykorzystania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 4"
+    },
+    {
+     "type": "text",
+     "text": "Okazjonalne przewozy osób"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przewoźnicy każdej z Umawiających się Stron mogą wykonywać autobusami bez zezwoleń przewozy okazjonalne pod warunkiem posiadania dokumentu kontrolnego i listy podróżnych.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Wzór dokumentu kontrolnego i zasady stosowania tego dokumentu ustali Komisja Mieszana, o której mowa w artykule 16.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 5"
+    },
+    {
+     "type": "text",
+     "text": "Przewozy wahadłowe"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Każdy przewóz wahadłowy wymaga uprzedniego uzyskania zezwolenia właściwego organu drugiej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Właściwe organy Umawiających się Stron określą w protokole wykonawczym do umowy sposoby i warunki wydawania zezwoleń oraz ich wykorzystania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 6"
+    },
+    {
+     "type": "text",
+     "text": "Przewóz ładunków"
+    },
+    {
+     "type": "text",
+     "text": "Przewoźnicy Umawiających się Stron mogą wykonywać przewozy ładunków oraz wykonywać przejazdy bez ładunku:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "między miejscem położonym na terytorium państwa jednej Umawiającej się Strony a miejscem położonym na terytorium państwa drugiej Umawiającej się Strony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "w tranzycie przez terytorium państwa drugiej Umawiającej się Strony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_2/lit_c",
+     "text": "między miejscem położonym na terytorium państwa jednej z Umawiających się Stron a miejscem położonym na terytorium państwa trzeciego i na odwrót.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 7"
+      },
+      {
+       "type": "text",
+       "text": "Zezwolenia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Z wyjątkiem przewozów określonych w artykule 8, przewozy ładunków wymienione w artykule 6 mogą być wykonywane jedynie na podstawie zezwoleń wydanych uprzednio przez właściwy organ państwa rejestracji pojazdu w imieniu właściwego organu drugiej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Każde zezwolenie jest ważne na jedną jazdę tam i z powrotem tym samym pojazdem, jeśli w zezwoleniu nie określono tego inaczej.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Właściwe organy Umawiających się Stron przekazują sobie wzajemnie zezwolenia wymienione w ustępie 1.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 8"
+    },
+    {
+     "type": "text",
+     "text": "Zwolnienia z wymogu zezwoleń"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Nie wymagają zezwoleń przewozy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "rzeczy przesiedlenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "uszkodzonych pojazdów oraz ich przyczep i naczep,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_1/lit_c",
+     "text": "zwłok,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_1/lit_d",
+     "text": "eksponatów przeznaczonych na targi i wystawy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "ust_1/lit_e",
+     "text": "sprzętu, innych przedmiotów i zwierząt przeznaczonych na teatralne, muzyczne i inne imprezy kulturalne oraz sportowe, dla cyrków lub do wykonywania zdjęć filmowych, telewizyjnych i zapisów radiofonicznych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "ust_1/lit_f",
+     "text": "medykamentów i innych środków jako ładunków przeznaczonych na pomoc w przypadku klęsk żywiołowych oraz przewozy z pomocą humanitarną,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "ust_1/lit_g",
+     "text": "wykonywane pojazdami bez ładunku, które mają zamienić uszkodzone pojazdy i przejąć ładunki z pojazdów uszkodzonych na terytorium państwa Umawiającej się Strony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "ust_1/lit_h",
+     "text": "wykonywane pojazdami pogotowia technicznego w celu naprawy uszkodzonych pojazdów (serwisowe pojazdy remontowe),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "ust_1/lit_i",
+     "text": "wykonywane pojazdami o ładowności do 3,5 t i masie całkowitej z ładunkiem, naczepą lub przyczepą do 6 t,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "ust_1/lit_j",
+     "text": "wykonywane na potrzeby własne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Na każdy przewóz wymieniony w ustępie 1 wymagane są dokumenty potwierdzające, że jest to przewóz, który nie podlega wymogowi zezwoleń.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Komisja Mieszana, o której mowa w artykule 16 niniejszej umowy, jest upoważniona do zmiany zakresu stosowanych zezwoleń wymienionych w ustępie 1.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 9"
+    },
+    {
+     "type": "text",
+     "text": "Kontyngent zezwoleń"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Wymiana zezwoleń, o których mowa w artykule 7, dokonywana jest w granicach kontyngentów. Komisja Mieszana, o której mowa w artykule 16, upoważniona jest do ustalenia corocznego kontyngentu zezwoleń na przewozy ładunków.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Rodzaje zezwoleń, warunki i sposoby ich wykorzystywania zostaną ustalone w protokole wykonawczym do niniejszej umowy.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Zezwolenia są ważne trzynaście miesięcy. Ich ważność rozpoczyna się 1 stycznia każdego roku.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 10"
+    },
+    {
+     "type": "text",
+     "text": "Zezwolenia na przewozy specjalne"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przewozy pojazdami, których masa całkowita lub rozmiary, z ładunkiem lub bez, przekraczają normy dopuszczone na terytorium państwa jednej z Umawiających się Stron, określane są jako specjalne i wymagają oddzielnego zezwolenia wydanego przez organy tej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania oddzielnych zezwoleń na przewozy materiałów niebezpiecznych wykonywane przez przewoźników drugiej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Oddzielne zezwolenia, o których mowa w ustępie 1 i 2 niniejszego artykułu, mogą ograniczać przejazd pojazdu do określonej trasy bądź nakładać inne obowiązki lub ograniczenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Oddzielne zezwolenie na przewóz specjalny zastępuje zezwolenie na przewóz, o którym mowa w artykule 7 ustęp 1 niniejszej umowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 11"
+    },
+    {
+     "type": "text",
+     "text": "Podatki i opłaty"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przewozy osób i ładunków, wymienionych w niniejszej umowie, podlegają podatkom i opłatom obowiązującym na terytorium państwa drugiej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Komisja Mieszana może występować do właściwych organów Umawiających się Stron o częściowe lub całkowite zwolnienie z podatków lub opłat, o których mowa w ustępie 1, z wyjątkiem przewozów określonych w artykule 10 ustęp 1.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 12"
+    },
+    {
+     "type": "text",
+     "text": "Paliwo i części zamienne"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Paliwo znajdujące się w zbiornikach konstrukcyjnie zainstalowanych w pojazdach jest zwolnione od opłat celnych i innych należności.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Części zamienne, które są czasowo wwożone w celu naprawy pojazdu uszkodzonego lub który uległ awarii na terytorium państwa drugiej Umawiającej się Strony, są zwolnione od opłat celnych, podatków i innych należności (o ile przepisy wewnętrzne drugiej Umawiającej się Strony tak stanowią).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 13"
+    },
+    {
+     "type": "text",
+     "text": "Kontrola"
+    },
+    {
+     "type": "text",
+     "text": "Zezwolenia i dokumenty dotyczące kierowcy, pojazdu oraz rodzaju wykonywanego przewozu i inne, wymagane stosownie do postanowień niniejszej umowy oraz prawa wewnętrznego, powinny znajdować się w pojeździe i być okazywane na żądanie organów kontrolnych."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 14"
+    },
+    {
+     "type": "text",
+     "text": "Ustawodawstwo wewnętrzne"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przewoźnicy jednej Umawiającej się Strony, jak również załogi pojazdów, podczas pobytu na terytorium państwa drugiej Umawiającej się Strony, obowiązani są przestrzegać przepisów prawnych obowiązujących na tym terytorium, dotyczących w szczególności przewozów i ruchu drogowego.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Zagadnienia nieuregulowane w niniejszej umowie bądź w konwencjach międzynarodowych, których stronami są Umawiające się Strony, będą załatwiane zgodnie z ustawodawstwem wewnętrznym każdej z Umawiających się Stron.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 15"
+    },
+    {
+     "type": "text",
+     "text": "Naruszenia"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "W przypadku naruszenia postanowień niniejszej umowy przez przewoźnika jednej Umawiającej się Strony na terytorium państwa drugiej Umawiającej się Strony, właściwe organy drugiej Umawiającej się Strony poinformują o tym właściwe organy Umawiającej się Strony, na której terytorium pojazd jest zarejestrowany.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Właściwe organy Umawiającej się Strony, na której terytorium państwa naruszenia miały miejsce, mogą zwrócić się do właściwych organów drugiej Umawiającej się Strony o:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "ostrzeżenie przewoźnika, który dokonał naruszenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "zawieszenie czasowe, częściowe lub całkowite praw przewoźnika do wykonywania przewozów na terytorium państwa Umawiającej się Strony, gdzie dokonano naruszenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Organ, który podjął powyższe środki, poinformuje o tym właściwy organ drugiej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Postanowienia niniejszego artykułu nie wykluczają sankcji przewidzianych w ustawodawstwie obowiązującym w państwie Umawiającej się Strony, na którego terytorium naruszenie zostało popełnione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 16"
+    },
+    {
+     "type": "text",
+     "text": "Stosowanie umowy"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "W celu zapewnienia wykonania postanowień niniejszej umowy Umawiające się Strony ustanawiają Komisję Mieszaną, która składa się z przedstawicieli właściwych organów Umawiających się Stron. W pracach Komisji Mieszanej mogą uczestniczyć również eksperci.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Do kompetencji Komisji Mieszanej należy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "podejmowanie decyzji stosownie do postanowień niniejszej umowy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "badanie i proponowanie przedsięwzięć dotyczących rozwiązywania ewentualnych problemów związanych z międzynarodowymi przewozami drogowymi,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_2/lit_c",
+     "text": "uzgadnianie wszelkich spraw dotyczących międzynarodowego ruchu drogowego, np. ochrony środowiska, stanu technicznego pojazdów zapewniającego bezpieczeństwo ruchu pojazdów,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "ust_2/lit_d",
+     "text": "inicjowanie i przedkładanie propozycji zmian postanowień umowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Komisja będzie zbierała się na wniosek jednej z Umawiających się Stron.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Komisja sporządzi protokół wykonawczy do niniejszej umowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 17"
+    },
+    {
+     "type": "text",
+     "text": "Wejście w życie i ważność umowy"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Niniejsza umowa podlega przyjęciu zgodnie z ustawodawstwem każdej z Umawiających się Stron i wejdzie w życie po upływie trzydziestu dni od dnia otrzymania ostatniej noty dyplomatycznej stwierdzającej to przyjęcie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Niniejsza umowa jest zawarta na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na kolejne okresy jednoroczne, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na trzy miesiące przed upływem okresu jej ważności.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Z dniem wejścia w życie niniejszej umowy w stosunkach między Umawiającymi się Stronami traci moc Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Socjalistycznej Federacyjnej Republiki Jugosławii o międzynarodowych przewozach drogowych, podpisana w Warszawie dnia 18 grudnia 1969 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Sporządzono w Ochrydzie dnia 5 lutego 1998 r. w dwóch oryginalnych egzemplarzach, każdy w językach polskim i macedońskim, przy czym oba teksty mają jednakową moc."
+    },
+    {
+     "type": "text",
+     "text": "Z upoważnienia Z upoważnienia Rządu Rządu Rzeczypospolitej Polskiej Macedońskiego"
+    },
+    {
+     "type": "note",
+     "text": "[Strony 5-6 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ee"
+    },
+    {
+     "type": "ocr",
+     "text": "UneH 5"
+    },
+    {
+     "type": "ocr",
+     "text": "Hau3smeHmueH npesos"
+    },
+    {
+     "type": "ocr",
+     "text": "1. 3a cekoj HeuameHudeH npeBOs noTpeóHa e MpeTXOAHO AoóneHa ĄO3BONA Of HagANe>xKeu OpraH Ha Apyrata JloroBopHa CTpaHa."
+    },
+    {
+     "type": "ocr",
+     "text": "2. HaqnexHuTe OpraHu Ha JjoroBopHuTe CTpaHu co FlpotoKon Ke ru onpefenaT HaduHMTe M yCNHOBuTe 3a u3ĄaBae Ha ĄO3BOJUTE M HUBHO KOpucTetbe."
+    },
+    {
+     "type": "ocr",
+     "text": "UneH 6"
+    },
+    {
+     "type": "ocr",
+     "text": "PlpeBo3 Ha CTOKU"
+    },
+    {
+     "type": "ocr",
+     "text": "[lpeBosHuiiuTe Ha IloroBopHuTe CTpaHu MOXaT ga BpliaT NpeBo3s Ha CTOKu u fa npeMnHyBaaT 6e3 TOBAp:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Mefy MECTO LuTo ce Haofa Ha TepuTopujaTra Ha ApxaBaTa Ha €1Ha OF JoroBopHnTe CTpaHu M MECTO LITO ce Haofa Ha TepuTopujaTa Ha ApxaBaTa Ha Apyrata /oroBopHa CTpaHa,"
+    },
+    {
+     "type": "ocr",
+     "text": "6) Bo TPaH3UT Npeky TepnuTOpujaTa Ha Apyrata JloroBopHa CTpahHa, B) Mefy MECTO WTO ce Haofa Ha TepuTopujara Ha Apyrata JloroBopHa CTpaHa M MECTO LTO Ce Haofa Ha TepuTopujaTa Ha TpeTa ApxaBa u OÓpaTHo."
+    },
+    {
+     "type": "ocr",
+     "text": "UneH 7"
+    },
+    {
+     "type": "ocr",
+     "text": "HMo3Bonu"
+    },
+    {
+     "type": "ocr",
+     "text": "1. OcBeH 3a npeBo3uTe OonpeĄ4ereHu BO 4NeH 8, ADeBO30T Ha CTOKW LITO e onpegeneH BO uneH 6 Moxe Aa ce BPWM EĄVHCTBEHO BP3 OCHOBa Ha ĄO3BOTIM LITO HPETXOAHO TM K3ĄAJ HaAANex*HUNOT OpraH BO ApXKaBaTa Kage LUTO BO3MIIOTO e peruCTpupaHoO BO uUMETO Ha Ha/iexHMOT OpraH Ha ApyraTa JoroBOopHa CcTpaHa."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Cekoja 403B0Na Baxun 3a 48H NPEBOS BO OHeHŁE U BPaKalbe CO UCTO BO3UIIO, AOKONKy He © NouHaky ONpeAeNeHo CO ĄO3BONATA."
+    },
+    {
+     "type": "ocr",
+     "text": "3. HannexHuTe OpraHu Ha JoroBopHuTe CTpaHu B3aeMHO CH ru npeqąaBaaT AO3BOJMTE 3a KOM CTaHyBa 3Ó0p BO TOUKAa 1."
+    },
+    {
+     "type": "ocr",
+     "text": "UneH 8"
+    },
+    {
+     "type": "ocr",
+     "text": "Ocno6o4yBahe of OÓBpPCKA 3a AO3BONAa"
+    },
+    {
+     "type": "ocr",
+     "text": "1. He ce 6apa Ao3Bona 3a npeBosu:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Ha NOKYKHMHa Npu npecenyBarre,"
+    },
+    {
+     "type": "ocr",
+     "text": "6) Ha OLUTEeTeHu BO3SMNa M HMBHM HPUKOFJIKU M nNOnynpuKonkKy, B) Ha NOCMPTHM OCTAHKU,"
+    },
+    {
+     "type": "ocr",
+     "text": "r) Ha eKCNHOHATu HaMCHETU 3a CAeMU NU UZIIOXKÓN,"
+    },
+    {
+     "type": "ocr",
+     "text": "|"
+    },
+    {
+     "type": "note",
+     "text": "[Strony 8-10 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "CTpahu."
+    },
+    {
+     "type": "ocr",
+     "text": "4. KomucujaTra Ke cocTaBu [IpoTOKOJI KOH OBAA Cnorog6a."
+    },
+    {
+     "type": "ocr",
+     "text": "UneH 17 CranyBate BO Cusia M BAXXHOCT Ha CnoroĄ46aTa"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Osaa Cnoropóa nognexu Ha npucbakate cornacHo 3akoHckaTa perynaruBa Ha cekoja of JOroBpopHuTe CTpaHu u Ke CTani BO CHNa No UCTEKOT Ha TpneceT qeHa Of ACHOT Kora e AOÓNEHa nocneĄHaTa AMNNOMATCKA HOTA CO koja ce norspAyBa npucbaKareTo."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Osaa Cnorog6a ce CKnyuyBa 3a nepvog og 5 (neT) roqnuHu u aBTOMATCKU Ce NPOĄOJDKYBA 3a HapeAHY EĄAHOTOĄKIIHU NEPMOĄK, AOKONKy eAHa og [oroBopHuTe CTpaHn He To OTKaxe NO nar Ha HoTuchnkaunja Tpu"
+    },
+    {
+     "type": "ocr",
+     "text": "3. KoMmucunjaTa Ke ce COCTaHyBA no npeanor Ha eAHa OĄ HoroBopHnTe"
+    },
+    {
+     "type": "ocr",
+     "text": "MECeLin npeĄ4 UCTEKOT Ha NepHOĄOT Ha HeroBaTa BaxHOCT."
+    },
+    {
+     "type": "ocr",
+     "text": "3. Co ĄeHOT Ha CTanyBatbe BO Cuna Ha OBaa Cnorog6a, BO oqHocuTre mery JjoroBopHuTe CTpaHu npecTaHyBa BaHOCTa Ha JloroBopoT mery Bnagata Ha HaponHa Penyónuka [loricka u BnanaTa Ha CoujujanucTrudka deqepaTuBHa Penyónuka JyrocnaBuja 3a MefyHapo4eH naTeH npeBO3, NOTNULIAH BO BapiwaBa Ha 18 AekemBpu 1969 roqnHa. CoctaBeHo Bo Ox pu 2 Ha qeH OS. Be6p4a24199% roquHa Bo ABa efHakBu npumepoun, CEKOj Ha NONcKU ja3UK V Ha MAKEĄOHCKNU ja3KK, npu wTO ABaTa TeKCTa UMaaT CAHAKBa BA>KHOCT."
+    },
+    {
+     "type": "ocr",
+     "text": "3a Bnagata Ha Peny6nnka [loncka 3a Makepqorckara Bnaga"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

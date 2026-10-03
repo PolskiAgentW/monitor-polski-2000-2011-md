@@ -1,0 +1,540 @@
+{
+ "eli": "MP/2005/545",
+ "title": "Komunikat Państwowej Komisji Wyborczej z dnia 27 czerwca 2005 r. o sprostowaniu błędów w komunikacie w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2004 r.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/545/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 czerwca 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "o sprostowaniu błędów w komunikacie w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 38 ust. 4 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857 i Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507 oraz z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703) Państwowa Komisja Wyborcza dokonuje sprostowania błędów w komunikacie z dnia 23 maja 2005 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2004 r. (M. P. Nr 32, poz. 456) w sposób następujący:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w treści komunikatu:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "drugi akapit otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„W ustawowym terminie sprawozdania złożyły 73 partie polityczne, w tym 20 partii wraz z opinią i raportem biegłego rewidenta z badania sprawozdania w zakresie wpływów na Fundusz Wyborczy.”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "w zdaniu rozpoczynającym się od wyrazów: „Nie złożyły sprawozdań partie polityczne:” skreśla się w pkt 1 nazwę „Polska Partia Socjalistyczna (EwP 4)”, a dotychczasowe punkty od numeru 2 do numeru 17 oznacza się odpowiednio numerami od 1 do 16;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w wykazie załączników zawierających sprawozdania partii politycznych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "dodaje się nowy załącznik nr 2 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Załącznik nr 2 — Polska Partia Socjalistyczna (EwP 4)”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "dotychczasowe oznaczenie załączników od numeru 2 do numeru 77 zmienia się odpowiednio od numeru 3 do numeru 78;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "sprawozdanie Polskiej Partii Socjalistycznej o źródłach pozyskania środków finansowych w 2004 r., oznaczone jako „Załącznik nr 2” ogłasza się w niniejszym komunikacie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 2 do komunikatu Państwowej Komisji Wyborczej z dnia 27 czerwca 2005 r. (poz. 545)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "POLSKA PARTIA SOCJALISTYCZNA RADA NACZELNA alena_2 int"
+    },
+    {
+     "type": "ocr",
+     "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)*"
+    },
+    {
+     "type": "ocr",
+     "text": "2) odsetki od środków na rachunkach i lokatach bankowych ."
+    },
+    {
+     "type": "ocr",
+     "text": "3) pochodzące z posiadania i z obrotu obligacjami Skarbu Państwa i bonami skarbowymi Skarbu Państwa |"
+    },
+    {
+     "type": "ocr",
+     "text": "4) pochodzące ze sprzedaży należących do partii sktadników majątkowych (należy podać rodzaj i wartość poszczególnych, sprzedanych składników majątkowych)*"
+    },
+    {
+     "type": "ocr",
+     "text": "zkocdwoaniaraPzOzaNa ROG ZRO Roza ZZ REP ORO PSRP R RR ANON PZPR O nP RPA Piz Rene sacnazaRzzzazazaNaŁnzoRazAaRzAS ere ree rer ere tier reer rrrri errr ry"
+    },
+    {
+     "type": "ocr",
+     "text": "5) pochodzące z działalności własnej, o której mowa w art. 27 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych"
+    },
+    {
+     "type": "ocr",
+     "text": "peepee camens keene eons ss DD ah ed AMAA OO RAE EERE RE RSER OHSS SAE SERUR ESOS SOS SZOTPEESU EE OE SEED SSS U SHES OE SETSE SHIRE MORES SEDO EOS RESEEEMOCEESEN ROLE SDS"
+    },
+    {
+     "type": "ocr",
+     "text": "6) kredyty"
+    },
+    {
+     "type": "ocr",
+     "text": "a) wykaz podmiotów udzielających kredytu (należy podać łączną kwotę dla każdego kredytodawcy)*"
+    },
+    {
+     "type": "ocr",
+     "text": "b) wykaz podmiotów udzielających gwarancji*"
+    },
+    {
+     "type": "ocr",
+     "text": "7) kwota otrzymanej dotacji podmiotowej"
+    },
+    {
+     "type": "ocr",
+     "text": "8) kwota otrzymanej subwencji"
+    },
+    {
+     "type": "ocr",
+     "text": "9) pochodzące z kasy partii nadwyżki śródków pieniężnych wykazane w części II pkt 1 oraz środki pieniężne wykazane w części II pkt 2 i 3, odprowadzone na rachunki bankowe partii"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "POLSKA PARTIA SOCJALISTYCZKA RADA NACZELNA 40-482 Warszawe, ul. Piękna 3 lok. 6 Aah AB RT 7"
+    },
+    {
+     "type": "ocr",
+     "text": "1) sktadki członkowskie w kwocie nieprzekraczającej w jednym roku najniższego miesięcznego wynagrodzenia za pracę pracowników (art. 26a ustawy z dnia 27 czerwca 1997 r. o partiach politycznych) ŁĄŁD x, &"
+    },
+    {
+     "type": "ocr",
+     "text": "2) inne wpłaty/darowizny w kwocie nieprzekraczającej w jednym roku najniższego miesięcznego wynagrodzenia za pracę pracowników (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota)*"
+    },
+    {
+     "type": "ocr",
+     "text": "3) pochodzące z działalności własnej, określonej w art. 27 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (kwoty nieprzekraczające 10 PLN — pochodzące ze sprzedaży jednostkowych egzemplarzy programu partii, statutu partii lub wykonanych kserokopii) [netotaiepewe 0 |= [pea = pam 1 [ = ae [="
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Pozostałe źródła (niewymienione w cz. I, Il i Iil)*"
+    },
+    {
+     "type": "ocr",
+     "text": "renner rn Terr rrr rrr rrr ENZO R ERZE BRRR ZEE AERO R ROZNE NARZ OSG U R PZA RK ORZO PNA SANO G RY ESO RZEPY SRO BSP OSP NOGA SORO"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Wptaty dokonane z naruszeniem przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych"
+    },
+    {
+     "type": "ocr",
+     "text": "1) ponad limit określony w art. 25 ust. 4"
+    },
+    {
+     "type": "ocr",
+     "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota)*"
+    },
+    {
+     "type": "ocr",
+     "text": "2) w innej formie, niż określona w art. 25 ust. 5"
+    },
+    {
+     "type": "ocr",
+     "text": "RADE ZR EP OE ORNE ERP LAK POZ PEAR O AA BEBE ROSES RZDRBO ONO ROAD AZZZZEZREPPRRZSZPO PER APPS RNNSPPOEEANO re AZ ORANY PESZO LEZ Z ONE (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota)*"
+    },
+    {
+     "type": "ocr",
+     "text": "VI. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone"
+    },
+    {
+     "type": "ocr",
+     "text": "eer errr PODYPO PSE R ADR R POZY PZA RR RPP ROZA ARE Tiina (wykaz osób — imię i nazwisko, miejscowość zamieszkania, wartość)*"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "POLSKA PARTIA SOCJAL RADA"
+    },
+    {
+     "type": "ocr",
+     "text": "A. Przychody/ wptywy środki pienięż d hunku bank Funduszu W"
+    },
+    {
+     "type": "ocr",
+     "text": "\"Wide Ear A Gia eRe kpanaka AD... nazwa i ad iedziby bdnku, nr rachunku o = | M OGQOOŁA 3"
+    },
+    {
+     "type": "ocr",
+     "text": "Wptywy i wydatki Funduszu Wyborczego"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie 1"
+    },
+    {
+     "type": "ocr",
+     "text": "1) pochodzące od osób fizycznych"
+    },
+    {
+     "type": "ocr",
+     "text": "a) wpłaty z zachowaniem limitu określonego w art. 36a ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota)*"
+    },
+    {
+     "type": "ocr",
+     "text": "b) wpłaty ponad limit określony w art. 36a ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota)*"
+    },
+    {
+     "type": "ocr",
+     "text": "c) wartość darowizn, spadków lub zapisów (wykaz osób — imię i nazwisko, miejscowość zamieszkania, wartość)*"
+    },
+    {
+     "type": "ocr",
+     "text": "2) pochodzące z wpłat własnych (z rachunku bieżącego partii politycznej)"
+    },
+    {
+     "type": "ocr",
+     "text": "3) kwota przekazana z subwencji"
+    },
+    {
+     "type": "ocr",
+     "text": "4) odsetki od środków na rachunku bankowym"
+    },
+    {
+     "type": "ocr",
+     "text": "5) inne [440] B. Wydatki / koszty Daty _pOhinme bnem Banło Yo prowa nents IN 58 Wydatki związane z udziaterd w wyborach i szczegółowo rozliczone w sprawozdaniach finansowych:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) z wyborów do Sejmu i Senatu"
+    },
+    {
+     "type": "ocr",
+     "text": "2) z wyborów uzupełniających do Senatu"
+    },
+    {
+     "type": "ocr",
+     "text": "3) z wyborów Prezydenta Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "ocr",
+     "text": "4) z wyborów organów samorządu terytorialnego"
+    },
+    {
+     "type": "ocr",
+     "text": "5) z udziału w kampaniach referendainych C. Korzyści majątkowe przekazane na Fundusz Wyborczy, z naruszeniem przepisów ustawy z dnia z 27 czerwca 1997 r. o partiach politycznych, które zostały przyjęte, zużyte lub utracone"
+    },
+    {
+     "type": "ocr",
+     "text": "załącznik do odpowiednich punktów sprawozdania. R creda me \"PRZE — Cen : Monsyauon, 13.05.4005 Boguclau CPS Y (miejscowość, data) (imię, nazw uprawnionej / -yć SO, Pudle... SRO (imię i nazwisko oraz podpis peinomocniką finansowego odpowiedzialnego za prowadzenie Funduszu Wyborczego) J"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Yobo,cemute WA Gomes BPH 3A Odowwab ay MorstaŁste ub. Kopnawdw 30 (aasg0wow"
+    },
+    {
+     "type": "ocr",
+     "text": "POLSKA PARTIA SOCJALISTYCZNA RADA NACZELNA - 00-482 Warszawa, ul. Piękna 3 lok. 8 tel Max: (22) 423 48 07 Puan Bott"
+    },
+    {
+     "type": "ocr",
+     "text": "lama mwmw 320000348555 H4auga mutme AR"
+    },
+    {
+     "type": "ocr",
+     "text": "SALDO KOŃCOWE - 165,05 (eledeopock szeócókueowł pięc x poęc qi)"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ZESPOL BIEGLYCH REWIDENTOW „FK-EKSPERT” Spółka z o. o. 00-950 Warszawa, ul. Kopernika 30 tel./ fax (0-22) 826-41-03, kom. 601-327-824, centr. 826-10-81 w. 472"
+    },
+    {
+     "type": "ocr",
+     "text": "OPINIA NIEZALEŻNEGO BIEGŁEGO REWIDENTA dla Państwowej Komisji Wyborczej z badania wpływów i wydatków Funduszu Wyborczego Polskiej Partii Socjalistycznej w Warszawie, ul. Piękna 3 lok. 8"
+    },
+    {
+     "type": "ocr",
+     "text": "l. Przeprowadziliśmy badanie sprawozdania finansowego Polskiej Partii Socjalistycznej z siedzibą w Warszawie, ul. Piękna 3 lokal 8, na które składa się sprawozdanie finansowe z wpływów i wydatków Funduszu Wyborczego za rok obrotowy trwający od 1 stycznia 2004 roku do 31 grudnia 2004 roku. Za sporządzenie tego sprawozdania finansowego jest odpowiedzialna badana jednostka. Naszym zadaniem było zbadanie sprawozdania finansowego 1 wyrażenie opinii o jego rzetelności, prawidłowości i jasności tego sprawozdania finansowego oraz prawidłowości ksiąg rachunkowych stanowiących podstawę jego sporządzenia."
+    },
+    {
+     "type": "ocr",
+     "text": "II. Badanie sprawozdania finansowego przeprowadzilismy stosownie do postanowień:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) rozdziału 7 ustawy z dnia 29 września 1994 r. o rachunkowości (tekst jednolity — Dz. U. z 2002 roku nr 76, poz. 694 wraz z późniejszymi zmianami),"
+    },
+    {
+     "type": "ocr",
+     "text": "2) norm wykonywania zawodu biegłego rewidenta, wydanych przez Krajową Radę Biegłych Rewidentów z dnia 12 listopada 2002 roku wraz ze zmianami z dnia 7 września 2004 roku,"
+    },
+    {
+     "type": "ocr",
+     "text": "3) rozporządzenia Ministra Finansów z dnia 23 stycznia 2003 roku w sprawie zasad prowadzenia rachunkowości przez partię polityczną (Dz. U. nr 11 z 2003 roku, poz. 118)"
+    },
+    {
+     "type": "ocr",
+     "text": "4) rozporządzenia Ministra Finansów z dnia 18 lutego 2003 roku w sprawie sprawozdania o źródłach pozyskiwania środków finansowych (Dz. U. nr 33 z 2003 roku, poz. 269), $) ustawy z dnia 27 czerwca 1997 roku o partiach politycznych (tekst jednolity - Dz. U. m 79 z 2001 roku, poz. 857)."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IL."
+    },
+    {
+     "type": "ocr",
+     "text": "—"
+    },
+    {
+     "type": "ocr",
+     "text": "iw)"
+    },
+    {
+     "type": "ocr",
+     "text": "Badanie sprawozdania finansowego zaplanowaliśmy i przeprowadziliśmy w taki sposób, aby uzyskać racjonalną pewność, pozwalającą na wyrażenie opinii o sprawozdaniu. W szczególności badanie obejmowało sprawdzenie poprawności zastosowanych przez jednostkę zasad (polityki) rachunkowości i sprawdzenie dowodów i zapisów księgowych, z których wynikają liczby i informacje zawarte w sprawozdaniu finansowym, jak i całościową ocenę sprawozdania finansowego. Uważamy, że badanie dostarczyło wystarczającej podstawy do wyrażenia miarodajnej opinii."
+    },
+    {
+     "type": "ocr",
+     "text": "Naszym zdaniem, zbadane sprawozdanie finansowe obejmujące dane liczbowe i objaśnienia słowne: - przedstawia rzetelnie i jasno wszystkie informacje istotne dla oceny sytuacji Funduszu Wyborczego badanej jednostki na dzień 31 grudnia 2004 roku. Powyższe dotyczy także sprawozdania z wpływów i wydatków Funduszu Wyborczego za okres od 1 stycznia 2004 roku do 31 grudnia 2004 roku, - sporządzone zostało, we wszystkich istotnych aspektach, zgodnie z określonymi w ustawie zasadami rachunkowości, - jest zgodne z wymienionymi w punkcie IT niniejszej opinii przepisami i postanowieniami wpływającymi na treść sprawozdania finansowego."
+    },
+    {
+     "type": "ocr",
+     "text": "Biegły Rewident Zespół Biegłych Rewidentów qo VMMEYVE - „FK-EKSPERT” Spółka z 0. o. Helena Kaczyńska wpisana na listę podmiotów wpisana na listę pod poź. 7774/5308 pod pozycją 823"
+    },
+    {
+     "type": "ocr",
+     "text": "ZESPÓŁ BIEGŁYCH BewineyTe e \"LT REWIDENTÓW , FK-EKSPEpT\" SP.Z GO 0-950 Warszawa, ul. Kapernika 30"
+    },
+    {
+     "type": "ocr",
+     "text": "Warszawa, dnia 24 marca 2005 roku"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "ZESPÓŁ BIEGŁYCH REWIDENTÓW „FK-EKSPERT” Spółka z 0.0. 00-950 WARSZAWA, ul. KOPERNIKA 30 tel./ fax.(0-22) 826-41-03, kom. 601-327-824, centr. (0-22) 826-10-81 w. 472"
+    },
+    {
+     "type": "ocr",
+     "text": "RAPORT uzupełniający opinię z badania wpływów i wydatków Funduszu Wyborczego Polskiej Partii Socjalistycznej w Warszawie, ul. Piękna 3 lokal 8 za 2004 rok"
+    },
+    {
+     "type": "ocr",
+     "text": "A. CZĘŚĆ OGÓLNA"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Dane identyfikujące Partię 1.1 Nazwa i siedziba Polska Partia Socjalistyczna zwana w dalszej części PPS. 00 — 482 Warszawa, uł. Piękna 3 lok. 8. 1.2 Rejestracja w Sądzie Okręgowym PPS działa na podstawie ustawy z dnia 27 czerwca 1997 roku o partiach politycznych (Dz. U. nr 98, poz. 604 z późniejszymi zmianami) i Statutu Polskiej Partii Socjalistycznej uchwalonego przez XXXV Kongres PPS w dniu 19 kwietnia 1998 roku, zatwierdzony prze Sąd Wojewódzki w Warszawie 1 września 1998 roku. Polska Partia Socjalistyczna z siedzibą w Warszawie przy ulicy Pięknej 3 lok. 8 została zarejestrowana w księdze ewidencji partii politycznych, prowadzonej przez Sąd Okręgowy w Warszawie VII Wydział Cywilny i Rejestrowy w dniu 04 września 1990 roku pod numerem WWP 4. Postanowieniem Sądu Okręgowego w Warszawie VII Wydział Cywilny i Rejestrowy w dniu 05 lipca 2001 roku sygn. akt Ew Pzm 46/01 wpisano do księgi pod numerem ewidencyjnym 4 zmiany w rubryce 5 dotyczące osób wchodzących w skład organu uprawnionego do reprezentowania Partii. XXXVII Kongres polskiej Partii Socjalistycznej w dniu 23 maja 2003 roku wybrał nowy skład Rady Naczelnej PPS. Wybrani reprezentanci nie zostali wpisani do Rejestru, ponieważ Delegaci PPS pismami z dnia 26 maja 2003 roku oraz 03 czerwca 2003 roku skierowanymi do Sądu Okręgowego w Warszawie VII Wydział Cywilny i Rejestrowy wnieśli o nie dokonywanie rejestracji nowo wybranych władz naczelnych PPS_w związku z naruszeniem zasad wyboru do postanowień określonych w zarejestrowanym statucie. _ Audytor: Zespół Biegłych Rewidentów „FK-EKSPERT” Spółka z 0.0. w Warszawie STECYERAA\""
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Raport z badania wpływów i wydarków Funduszu Wyborczego Poiskiej Partli Socjalistycznej w Warszawie 2"
+    },
+    {
+     "type": "ocr",
+     "text": "ro"
+    },
+    {
+     "type": "ocr",
+     "text": "Lo"
+    },
+    {
+     "type": "ocr",
+     "text": "W dniu 29 lipca 2003 roku wyciag z Rejestru Sądowego z którego wynika informacja. że wpis na podstawie postanowienia nieprawomocnego. Do dnia badania nie przedlożono bieglemu dokumentów rozwiązujących powyższy problem. w dniu 11 lutego 2005 roku wystąpiono do Sądu Okręgowego w Warszawie VII Wydział Cywilny i Rejestrowy przy Al. Solidarności 127 w Warszawie o wydanie prawomocnego wypisu z rejestru władz PPS. Dokumentu nie przedłożono — sprawa w toku. Rejestracja w Urzędzie Skarbowym 1 Wojewódzkim Urzędzie Statystycznym. NIP: nie zgłaszano. REGON: 011159568 — adres podany ul. Krakowskie Przedmieście 6. 00— 325 Warszawa. Oświadczenie o przedłożeniu prawidłowego i kompletnego sprawozdania do badania w dniu 17 marca 2003 roku w imieniu Polskiej Partii Socjalistycznej podpisał: - Pan Bogusław Gorski — Przewodniczący Centralnego Komitetu Wyborczego PPS, - Pani Wanda Gontarz — Sekretarz Centralnego Komitetu Wyborczego PPS. - Pan Mieczysław Stańczak — Sekretarz PPS od października 2004 roku. Brak danych. że osoby figurują w Rejestrze Sądowym. Informację i wyjaśnienia niezbędne do przeprowadzenia badania zostały udzielone przez Sekretarza CKW PPS Iwonę Dorotę Białek, która figuruje w obu składach partii oraz upoważniona jest do dysponowania środkami finansowymi zgromadzonymi na rachunku bankowym. Pani Iwona Dorota Białek prowadziła w 2004 roku dokumentację: - raporty kasowe, - rejestrowała przychody i wydatki w księdze przychodów i rozchodów, - sporządziła sprawozdanie z wpływów i wydatków Funduszu Wyborczego. Dane identyfikujące biegłego rewidenta. Badanie dokonał Zespół Biegłych Rewidentów „FK — EKSPERT\" Spółka z o. o., ul. Kopernika 30, 00-950 Warszawa. „FK — EKSPERT” Spółka z o. o. jest podmiotem uprawnionym do badania sprawozdań finansowych, wpisana na listę podmiotów pod numerem 823. Z upoważnienia ww. podmiotu badanie przeprowadziła biegły rewident Pani Helena Kaczyńska wpisana w rejestrze i na liste pod poz. 7774/5308. Zarówno podmiot uprawniony jak i przeprowadzający w jego imieniu badanie biegły rewident stwierdza. że pozostają niezależni od badanej jednostki. Przedmiot badań i zakres prac. Przedmiotowe badanie przeprowadzono na podstawie umowy o badanie sprawozdania finansowego zawartej w dniu 16 lutego 2005 roku z Krajowym Biurem Wyborczym w - 2 Audytor: Zespół Biegłych Rewidentów „FK-EKSPERT\" Spółka z 0.0. w Warszawie"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Raport z badania wpływów i wydatków Funduszu Wvborezego Polskiej Parti Socjalistycznej w Warszawie 3"
+    },
+    {
+     "type": "ocr",
+     "text": "a"
+    },
+    {
+     "type": "ocr",
+     "text": "Warszawie. ul. Wiejska 10 o zbadanie wpływów i wydatków Funduszu Wyborczego w 2004 roku. Badanie sprawozdania finansowego obejmowało między innymi sprawdzanie: - przestrzegania przepisów Ustawy o rachunkowości z dnia 29 września 1994 roku (tekst jednolity — Dz. U. z 2002 roku nr 76. poz. 694 wraz z późniejszymi zmianami). - przestrzeganie przepisów ustawy z dnia 27 czerwca 1997 roku o partiach politycznych (Dz. U. z 2001 roku nr 79. poz. 837 z późniejszymi zmianami). - rozporządzenia Ministra Finansów z dnia 23 stycznia 2003 roku (Dz. U. z 2003 roku nr 11. poz. 118) w sprawie zasad prowadzenia rachunkowości przez partie polityczną. Badanie sprawozdania finansowego zostało przeprowadzone stosownie do postanowień rozdziału 7 ustawy z dnia 29 września 1994 roku o rachunkowości (tekst jednolity — Dz. U. z 2002 roku nr 76. poz. 694 wraz z późniejszymi zmianami) oraz norm wykonywania zawodu biegłego rewidenta wydanych przez Krajową Izbę Biegłych Rewidentów. Stosownie do art. 52 powołanej wyżej ustawy za sporządzenie sprawozdania finansowego odpowiada Centralny Komitet Wykonawczy PPS. Celem badania sprawozdania jest przedstawienie pisemnej opinii biegłego rewidenta wraz z raportem uzupełniającym dotyczącym zbadanego sprawozdania. W dniu 17 marca 2005 roku zostało złożone oświadczenie o kompletności. rzetelności i prawidłowości sprawozdania finansowego przedstawionego do badania oraz o nieistnieniu do dnia zakończenia badania zdarzeń wpływających w sposób istotny na wielkość danych wykazanych w ww. sprawozdaniu za 2004 rok. W trakcie badania sprawozdania finansowego udostępniono dokumenty i informacje niezbędne do wydania opinii i sporządzenia raportu. Badanie przeprowadzono w dniach 17. 19 i 24 marca 2004 roku. Informacje o sprawozdaniu finansowym za poprzedni rok obrotowy. Sprawozdanie finansowe w zakresie wpływów i wydatków Funduszu Wyborczego PPS za 2003 rok zostało zbadane przez Firmę Audytorską CONSORT — FIN Spółka z 0. o. z siedziba w Warszawie. ul. Tromblity 54 i uzyskało opinię niezależnego biegłego rewidenta bez zastrzeżeń."
+    },
+    {
+     "type": "ocr",
+     "text": "CZĘŚĆ SZCZEGÓŁOWA Ewidencja księgowa i kontrola wewnętrzna Księgi Partii prowadzono ręcznie w książce przychodów i rozchodów. Ponadto prowadzono raporty kasowe. Ewidencję prowadziła Pani Iwona Dorota Białek Sekretarz CKW PPS. Audytor: Zespół Biegłych Rewidentów .FK-EKSPERT\" Spółka z 0.0. w Warszawie — TEE..."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Raport z badania wpływów i wydarków Funduszu Wsyborezego Polskiej Partii Socjalistycznej w Warsz"
+    },
+    {
+     "type": "ocr",
+     "text": "2"
+    },
+    {
+     "type": "ocr",
+     "text": "Banki obsługujące Polską Partię Socjalistyczna W okresie badanvm Polska Partia Socjaiistyczna bvia obsiugiwana przez Bank Przemysłowo — Handlowy 5. A. Oddział Warszawie. ul Kopernika 30. Zgodnie z zawartą umową otwarto następujące rachunki: ay 95 1060 0076 0000 3200 0060] 8555 — bieżący. b; 28 1060 0676 0000 3300 0028 4459 — pomocniczy — Fundusz Wyborczy. Fundusz Wyborczy Fundusz Wyborczy gromadzono na rachunku 330000284459 w Banku Przemysłowo — Handlowym S. A. Oddział w Warszawie. ul. Kopernika 30. Rachunek wykazuje operacje w 2004 roku:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Stan na dzień 1.01.2004 roku 80.95 zł"
+    },
+    {
+     "type": "ocr",
+     "text": "b) Przychody — wpłaty z rachunku bieżącego Partii 93.38 zł Razem 104.35 zł."
+    },
+    {
+     "type": "ocr",
+     "text": "c) Wydatki — opłaty za prowadzenie rachunku i prowizje 174.33 zł. Na dzień 31.12.2004 roku nie wystąpiły środki pieniężne na rachunku bankowym Funduszu Wyborczego. Powyższy stan został potwierdzony przez Bank w dniu 19 stycznia 2005 roku. W 2004 roku nie wystąpiły wpłaty z tytułu darowizn. jak też nie dokonywano wydatków związanych z wyborami. PPS nie prowadziła operacji kasowych związanych z Funduszem Wyborczym. Sprawozdanie o źródłach pozyskiwania środków finansowych oraz wydatkach poniesionych ze środków Funduszu Wyborczego i dokumenty, na podstawie których sprawozdanie zostało sporządzone udostępniła biegłemu Pani Iwona Dorota Białek. Podstawą sporządzenia badanego sprawozdania stanowiły wyciągi bankowe i potwierdzenie salda otrzymane z Banku Przemysłowo — Handlowego Oddział w Warszawie, ul. Kopernika 30. Sprawozdanie PPS z wpływów i wydatków Funduszu Wyborczego zostało sporządzone prawidłowo. Źródła pozyskiwania środków przez PPS (poza Funduszem Wyborczym) Rachunek bieżący o numerze 95 1060 0076 0000 3200 0091 8555 wykazał następujące operacje:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Stan środków na rachunku bankowym w dniu 1.01.2004 r. 1.341.62 zł,"
+    },
+    {
+     "type": "ocr",
+     "text": "b) Wpłat 0.00 zł."
+    },
+    {
+     "type": "ocr",
+     "text": "c) Wydatki 576,57 zł. w tym: EE ej Zespół Biegłych Rewidentów „FK-EKSPERT\" Spółka z 0.0. w Warszawie Z h ! sh 7."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Raport z badania wpływów I wydatków Funduszu Wyborczego Polskie) Parti Socjalistycznej w Warszawie 3 - przelew na konto Funduszu Wyborczego 95.38 zd. - opłaty za prowadzenie rachunku 483.19 zł."
+    },
+    {
+     "type": "ocr",
+     "text": "d) Saldo rachunku bankowego na 31.12.2004 r. 765.05 zł."
+    },
+    {
+     "type": "ocr",
+     "text": "bo"
+    },
+    {
+     "type": "ocr",
+     "text": "113"
+    },
+    {
+     "type": "ocr",
+     "text": "Warszawa. dnia 24 marca 2005 rok. ZESPÓŁ BIEGŁYCH Rew —— \"FK-EKSPERT\" 5D. 2 GO,"
+    },
+    {
+     "type": "ocr",
+     "text": "Powszsza kwota wynika z zapisów księgowych raportu bankowego oraz potwierdzenia salda przez Bank pismo z dnia 19.01.2005 roku. Kasa"
+    },
+    {
+     "type": "ocr",
+     "text": "a) Stan gotówki na 1.01.2004 r. 80.95 zł."
+    },
+    {
+     "type": "ocr",
+     "text": "b) Wpłaty z tytułu składek w łącznej kwocie 3.820,00 zt,"
+    },
+    {
+     "type": "ocr",
+     "text": "c) Wydatki w kwocie 3.879,02 zł."
+    },
+    {
+     "type": "ocr",
+     "text": "d) Saldo na dzień 31.12.2004 r. 21,93 zł. Wpłaty do kasy oraz wypłaty zostały prawidłowo udokumentowane i zaakcepiowane oraz ujęte w księdze przychodów i rozchodów. W sprawozdaniu przychody w kwocie 3.820,00 zł wykazano w prawidłowej wielkości."
+    },
+    {
+     "type": "ocr",
+     "text": "UWAGI KOŃCOWE Integralną część raportu stanowi: - sprawozdanie o źródłach pozyskiwania środków finansowych i poniesionych wydatków z Funduszu Wyborczego wykazujący stan tego funduszu na dzień 31 grudnia 2004 rok saldo zero złotych. - potwierdzenie stanu konta na dzień 31.12.2004 roku przez bank finansujący, - wykaz wpłat do kasy — składki członkowskie w kwocie 3.820,00 zł, - wystąpienie do Sądu o wydanie aktnalnej rejestracji i wyciągi z księgi ewidencji na dzień 2.02.2001 roku i 29.07.2003 roku. | Niniejszy raport zawiera $ stron kolejno ponumerowanych. Każdą ze stron opatrzono skróconym podpisem biegłego rewidenta. Niniejszą opinię i raport sporządzono w 4 egzempłarzach z przeznaczeniem: - | egzemplarz dla Państwowej Komisji Wyborczej. - | egzemplarz dla Polskiej Partii Socjalistycznej, - | egzemplarz dla biegłego rewidenta Helenie Kaczyńskiej. - | egzemplarz dla Zespołu Biegłych Rewidentów .FK-EKSPERT\" Spółka z o. o. w Warszawie. Biegły Rewident Zespół Biegłych Rewidentów LA |. „FK-EKSPERT\" Spółka z o.o. Helena Kaczyńska wpisana na listę podmiotów wpisana na listę pad nr 7774/5308 pod pozycja 823. DENTÓW / Audytor: Zespół Biegłych Rewidentów „FK-EKSPERT Spoil 0 Oe WOW ar Stare"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

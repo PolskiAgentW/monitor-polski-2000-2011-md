@@ -1,0 +1,339 @@
+{
+ "eli": "MP/2003/337",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia 2003 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/337/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "MONI TOR POLSKI DZIENNIK URZĘDOWY RZECZYPOSPOLITEJ POLSKIEJ Nr 23 Warszawa, dnia 7 maja 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "TREŚĆ: Poz.:"
+  },
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "337 — zdnia 23 kwietnia 2003 r. wsprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej 1141"
+  },
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE"
+  },
+  {
+   "type": "text",
+   "text": "338 — Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 29 kwietnia 2003 r. w sprawie wszczęcia postępowania ochronnego przed nadmiernym przywozem na polski obszar celny zapałek . . . . . . . . . . . . . . . . . . . . 1144"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIA:"
+  },
+  {
+   "type": "text",
+   "text": "339 — Ministra Rolnictwa i Rozwoju Wsi zdnia 15 kwietnia 2003 r. wsprawie wykazu jednostek organizacyjnych upoważnionych do przeprowadzania badań opryskiwaczy oraz do prowadzenia szkoleń wzakresie stosowania środków ochrony roślin . . . . . . 1147"
+  },
+  {
+   "type": "text",
+   "text": "340 — Ministra Środowiska zdnia 15 kwietnia 2003 r. wsprawie średniej krajowej przychodów gminnych i powiatowych funduszy ochrony środowiska i gospodarki wodnej w 2002 r. przypadających na jednego mieszkańca . . . . . . . . . . . . . 1171"
+  },
+  {
+   "type": "text",
+   "text": "337"
+  },
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "zdnia 23 kwietnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "wsprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Wuchwale Sejmu Rzeczypospolitej Polskiej 3) wart. 169 wust. 2 pkt 17 otrzymuje brzmienie: z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2002 r. Nr 23, poz. 398) wpro- „17) informacje bieżące i pytania w sprawach biewadza się następujące zmiany: żących,”;",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "wart. 152 ust. 4 otrzymuje brzmienie: 4) wart. 181:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie: „4. O terminie i porządku dziennym posiedzenia komisji przewodniczący komisji zawiadamia „1. Prezydium Sejmu po wysłuchaniu opinii Marszałka Sejmu, który może nie wyrazić zgo- Konwentu Seniorów przedstawia Sejmowi dy na odbycie posiedzenia komisji.”; propozycję przeprowadzenia debaty w ramach limitów czasowych przysługujących 2) wart. 166 ust. 3 otrzymuje brzmienie: klubom ikołom poselskim.”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "dodaje się ust. 3 i4 wbrzmieniu: „3. Biuletyn jest nieurzędowym streszczeniem obrad komisji; przeznaczony jest przede wszyst- „3. Debata, o której mowa w ust. 1, może być kim dla prasy, radia itelewizji.”; prowadzona wformie oświadczeń wimieniu klubów i kół. W takim przypadku klub lub koło decyduje, czy w jego imieniu w ramach przysługującego mu limitu czasowego wystąpi jeden czy też więcej posłów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Czas przeznaczony na przemówienia posła niezrzeszonego nie może trwać łącznie dłużej niż sześć minut podczas jednego posiedzenia Sejmu.”;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_1/ust_4/pkt_5",
+       "text": "w dziale III rozdział 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Rozdział 4",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Interpelacje, informacje bieżące, zapytania poselskie i pytania w sprawach bieżących",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 191.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Interpelacje, wnioski o przedstawienie informacji bieżących, zapytania poselskie i pytania w sprawach bieżących mogą być kierowane do członków Rady Ministrów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Marszałek Sejmu wprowadza do porządku dziennego każdego posiedzenia Sejmu punkt „Informacja bieżąca” oraz punkt „Pytania w sprawach bieżących”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 192.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Posłowi przysługuje prawo złożenia interpelacji w sprawach o zasadniczym charakterze i odnoszących się do problemów związanych z polityką państwa.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Interpelacja powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające zeń pytania oraz powinna być skierowana zgodnie z właściwością interpelowanego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Interpelację składa się w formie pisemnej na ręce Marszałka Sejmu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Prezydium Sejmu pozostawia bez biegu interpelację, która nie spełnia wymogów określonych w ust. 1 i 2.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Prezydium Sejmu może zażądać skreślenia z interpelacji zwrotów sprzecznych z zasadami etyki poselskiej, pod rygorem nieprzyjęcia interpelacji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6. Marszałek Sejmu przesyła interpelację niezwłocznie interpelowanemu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7. Marszałek Sejmu informuje Sejm na posiedzeniu o przyjętych interpelacjach. Tekst interpelacji ogłasza się w załączniku do sprawozdania stenograficznego z posiedzenia Sejmu. Marszałek Sejmu informuje Sejm na posiedzeniu o nadesłanych odpowiedziach na interpelacje oraz o braku odpowiedzi na interpelacje.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 193.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Odpowiedź na interpelację jest udzielana w formie pisemnej nie później niż w terminie 21 dni od dnia otrzymania interpelacji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Odpowiedź pisemną składa się na ręce Marszałka Sejmu z dołączeniem dwóch odpisów. Marszałek Sejmu przesyła interpelantowi odpis odpowiedzi. Tekst pisemnej odpowiedzi na interpelację ogłasza się w załączniku do sprawozdania stenograficznego z posiedzenia Sejmu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. W razie uznania odpowiedzi, o której mowa w ust. 2, za niezadowalającą interpelant może zwrócić się do Marszałka Sejmu o wystąpienie do interpelowanego z żądaniem dodatkowych wyjaśnień na piśmie, uzasadniając przyczyny nieprzyjęcia odpowiedzi. Z wnioskiem takim można wystąpić tylko raz, nie później niż w terminie 30 dni od dnia otrzymania niezadowalającej odpowiedzi. Dodatkowe wyjaśnienia udzielane są przez interpelowanego w terminie 21 dni od dnia otrzymania żądania dodatkowych wyjaśnień.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 194.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Klubowi oraz grupie co najmniej 15 posłów przysługuje prawo złożenia wniosku o przedstawienie na posiedzeniu Sejmu przez członka Rady Ministrów informacji bieżącej, zwanej dalej „informacją”. Przepisy art. 192 ust. 1—6 stosuje się odpowiednio.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Wniosek, o którym mowa w ust. 1, przedkładany jest do godziny 21⁰⁰ dnia poprzedzającego dzień rozpoczęcia posiedzenia Sejmu, wraz z uzasadnieniem oraz wskazaniem jego adresata.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Prezydium Sejmu, po zasięgnięciu opinii Konwentu Seniorów, ustala, która ze zgłoszonych propozycji informacji zostaje uwzględniona i rozpatrzona na najbliższym posiedzeniu Sejmu. Dokonując wyboru tematu informacji Prezydium Sejmu kieruje się przede wszystkim jej znaczeniem i aktualnością. Bierze także pod uwagę liczebność klubu lub koła, które zgłosiły propozycje tematyczne informacji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. W przypadku braku jednolitej opinii Konwentu Seniorów w sprawie, o której mowa w ust. 3, o wyborze informacji rozstrzyga Sejm, po przedstawieniu sprawy przez Marszałka Sejmu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Prezydium Sejmu informuje posłów, która ze zgłoszonych informacji zostanie włączona do porządku dziennego określonego posiedzenia Sejmu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6. Rozpatrzenie informacji na posiedzeniu Sejmu obejmuje przedstawienie uzasadnienia wniosku przez posła wyznaczonego przez podmiot uprawniony do jego złożenia oraz udzielenie odpowiedzi przez przedstawiciela Rady Ministrów. Przedstawienie uzasadnienia wniosku nie może trwać dłużej niż 5 minut; udzielenie odpowiedzi nie może trwać dłużej niż 10 minut.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7. W sprawie przedstawionej informacji przeprowadza się dyskusję.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8. Wystąpienia w dyskusji posłów nie mogą trwać dłużej niż 2 minuty; kolejność wystąpień określa Marszałek Sejmu, uwzględniając naprzemienne zabieranie głosu przez posłów z klubów, kół oraz przez posłów niezrzeszonych.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "9. Na zakończenie dyskusji głos zabierają kolejno: przedstawiciel wnioskodawców oraz przedstawiciel Rady Ministrów; wystąpienie przedstawiciela wnioskodawców nie może trwać dłużej niż 5 minut, a wystąpienie przedstawiciela Rady Ministrów nie może trwać dłużej niż 10 minut. Marszałek Sejmu może wyrazić zgodę na wydłużenie wystąpienia przedstawiciela Rady Ministrów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "10. Czas przeznaczony na rozpatrzenie punktu „Informacja bieżąca” nie może być dłuższy niż 90 minut.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 195.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Zapytania poselskie składa się w sprawach o charakterze jednostkowym, dotyczących prowadzonej przez Radę Ministrów polityki wewnętrznej i zagranicznej oraz zadań publicznych realizowanych przez administrację rządową.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Przepisy art. 192 ust. 2—7 i art. 193 ust. 1 i 2 stosuje się odpowiednio do zapytań poselskich.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 196.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Pytania w sprawach bieżących zadawane są ustnie na każdym posiedzeniu Sejmu i wymagają bezpośredniej odpowiedzi.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Poseł, do godziny 21⁰⁰ dnia poprzedzającego dzień rozpoczęcia posiedzenia Sejmu, informuje na piśmie Marszałka Sejmu o ogólnej tematyce pytania i jego adresacie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Prezydium Sejmu, po zasięgnięciu opinii Konwentu Seniorów, ustala dla każdego posiedzenia kolejność zadawania pytań.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Prezydium Sejmu informuje posłów, które ze zgłoszonych pytań w sprawach bieżących zostają włączone do porządku dziennego określonego posiedzenia Sejmu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Podczas rozpatrywania „Pytań w sprawach bieżących” odpowiedzi udzielają ministrowie, do których są kierowane pytania, lub w wyjątkowych sytuacjach upoważnione przez nich osoby.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6. Punkt porządku dziennego posiedzenia Sejmu „Pytania w sprawach bieżących” obejmuje rozpatrzenie nie więcej niż 10 pytań.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7. Rozpatrzenie przez Sejm pytania obejmuje przedstawienie treści pytania oraz udzielenie ustnej odpowiedzi przez osobę, do której pytanie zostało skierowane, albo osobę przez nią upoważnioną. Postawienie pytania nie może trwać dłużej niż 2 minuty, zaś udzielenie odpowiedzi — nie dłużej niż 6 minut.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8. Nad pytaniem i udzieloną odpowiedzią nie przeprowadza się dyskusji. Prawo do postawienia pytania dodatkowego przysługuje wyłącznie zadającemu pytanie. Dodatkowe pytanie nie może trwać dłużej niż 1 minutę, a uzupełniająca odpowiedź nie może trwać dłużej niż 3 minuty. Marszałek Sejmu może wyrazić zgodę na wydłużenie czasu odpowiedzi na pytanie dodatkowe.”;",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_1/ust_4/pkt_6",
+       "text": "dodaje się art. 204a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Art. 204a. W przypadku podjęcia wobec członka Komisji Regulaminowej i Spraw Poselskich uchwały, o której mowa w art. 21 ust. 1, art. 22 ust. 1, art. 25 ust. 1 i 2 lub art. 147 ust. 1, od której w terminie nie wniesiono odwołania albo którą odpowiednio Sejm albo Prezydium Sejmu utrzymało w mocy — członek Komisji traci członkostwo w Komisji.”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do interpelacji złożonych przed dniem wejścia w życie uchwały mają zastosowanie jej przepisy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Borowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

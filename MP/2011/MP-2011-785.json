@@ -1,0 +1,113 @@
+{
+ "eli": "MP/2011/785",
+ "title": "Uchwała Rady Ministrów Nr 158 z dnia 30 sierpnia 2011 r. zmieniająca uchwałę - Regulamin pracy Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/785/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 158 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 sierpnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę — Regulamin pracy Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 49 Rady Ministrów z dnia 19 marca 2002 r. — Regulamin pracy Rady Ministrów (M. P. Nr 13, poz. 221, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rada Ministrów działa na podstawie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w ykazu prac legislacyjnych Rady Ministrów, opracowanego w trybie przepisów o działalności lobbingowej w procesie stanowienia prawa,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w ykazu prac Rady Ministrów dotyczącego innych projektów dokumentów rządowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wykaz prac legislacyjnych Rady Ministrów oraz wykaz prac Rady Ministrów dotyczący innych projektów dokumentów rządowych opracowuje się na podstawie wniosków organów, o których mowa w § 6, oraz z uwzględnieniem planów pracy organów Unii Europejskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 6 w ust. 1a pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) wykazu prac legislacyjnych Rady Ministrów,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "uchyla się § 7;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 9 dodaje się ust. 5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5. Do projektu założeń projektu ustawy organ wnioskujący dołącza zgłoszenia podmiotów, które zgłosiły zainteresowanie pracami nad projektem założeń projektu ustawy w trybie przepisów o działalności lobbingowej w procesie stanowienia prawa, a także informację o kolejności wniesienia tych zgłoszeń lub informację o ich braku.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem 1 września 2011 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej uchwały zostały ogłoszone w M. P. z 2002 r. Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734, z 2005 r. Nr 55, poz. 757, z 2006 r. Nr 40, poz. 439, z 2009 r. Nr 20, poz. 246, z 2010 r. Nr 5, poz. 47 oraz z 2011 r. Nr 1, poz. 6 i Nr 50, poz. 553."
+ }
+}

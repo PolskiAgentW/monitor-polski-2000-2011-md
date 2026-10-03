@@ -1,0 +1,212 @@
+{
+ "eli": "MP/2010/1174",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 16 grudnia 2010 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1174/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 grudnia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. — Regulamin Sejmu Rzeczypospolitej Polskiej (M. P. z 2009 r. Nr 5, poz. 47 i Nr 81, poz. 998 oraz z 2010 r. Nr 10, poz. 87 i Nr 79, poz. 972) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 7:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "w ust. 3 zdanie pierwsze otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Poseł pełniący funkcję członka Rady Ministrów lub sekretarza stanu nie może być członkiem komisji, z wyjątkiem komisji, o której mowa w art. 86b ust. 1.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Obecność posła na posiedzeniu Sejmu jest potwierdzana na liście obecności wykładanej każdego dnia posiedzenia do czasu zakończenia obrad oraz poprzez potwierdzony wydrukami udział w głosowaniach.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "ust. 11 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„11. Dostęp posła do informacji niejawnych określają przepisy o ochronie informacji niejawnych. Poseł jest obowiązany do złożenia pisemnego zobowiązania o zachowaniu w tajemnicy informacji niejawnych, z którymi zapozna się w trakcie wykonywania mandatu. Zachowanie tajemnicy obowiązuje posła zarówno w czasie trwania mandatu, jak i po jego wygaśnięciu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "po art. 28 dodaje się art. 28a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 28a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm, na wniosek Prezesa Rady Ministrów, powołuje Prezesa Urzędu Komunikacji Elektronicznej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Sejm, na wniosek Prezesa Rady Ministrów, odwołuje Prezesa Urzędu Komunikacji Elektronicznej w przypadkach określonych w ustawie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Uchwały Sejmu w sprawie powołania i odwołania Prezesa Urzędu Komunikacji Elektronicznej Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu w celu wyrażenia zgody przez Senat.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 134 wyrazy „naruszenia tajemnicy państwowej lub służbowej” zastępuje się wyrazami „ujawnienia lub wykorzystania informacji niejawnej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "art. 135 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 135. Przepisy art. 134 stosuje się odpowiednio do posła — członka Komisji Etyki Poselskiej w przypadku naruszenia przepisów o ochronie informacji niejawnej o klauzuli tajności „zastrzeżone” lub „poufne”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 136h wyrazy „ustawowo chronioną” zastępuje się wyrazami „prawnie chronioną”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 138 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Dostęp członków Komisji do informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” określają przepisy ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228).”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 141 w ust. 1 wyrazy „tajemnicę służbową albo państwową” zastępuje się wyrazami „informacje niejawne”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 144 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Wiadomości uzyskane w toku prac Komisji, o których mowa w ust. 1, stanowią informacje niejawne o klauzuli tajności „zastrzeżone” lub „poufne” w rozumieniu przepisów o ochronie informacji niejawnych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 156 w ust. 2 wyrazy „tajemnicę służbową lub państwową” zastępuje się wyrazami „informacje niejawne”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "w załączniku do uchwały — Regulamin Sejmu Rzeczypospolitej Polskiej „Przedmiotowy zakres działania komisji sejmowych”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_10/lit_a",
+       "text": "w pkt 9 skreśla się wyrazy „, rybołówstwa morskiego”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_10/lit_b",
+       "text": "w pkt 13 po wyrazach „ochrony ich praw” dodaje się wyrazy „, a także realizacją zasady równego traktowania osób bez względu na ich pochodzenie etniczne i rasowe oraz narodowość”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_10/lit_c",
+       "text": "w pkt 19 po wyrazach „rybactwa śródlądowego” dodaje się wyrazy „, rybołówstwa morskiego”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem 2 stycznia 2011 r., z wyjątkiem art. 1 pkt 1 lit. a i b oraz pkt 2 i 10, które wchodzą w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: G. Schetyna"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

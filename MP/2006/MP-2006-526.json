@@ -1,0 +1,398 @@
+{
+ "eli": "MP/2006/526",
+ "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 marca 2006 r. w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/526/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 marca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 143 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Kancelarii Prezydenta Rzeczypospolitej Polskiej, zwanej dalej „Kancelarią”, nadaje się statut stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej przeprowadzi reorganizację Kancelarii związaną z nową strukturą jej statutowych komórek organizacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Traci moc zarządzenie nr 3 Prezydenta Rzeczypospolitej Polskiej z dnia 21 stycznia 1998 r. w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 kwietnia 2006 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Kaczyński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 28 marca 2006 r. (poz. 526)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT KANCELARII PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Kancelaria jest organem pomocniczym Prezydenta Rzeczypospolitej Polskiej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Kancelaria wykonuje zadania wynikające z kompetencji Prezydenta określone w Konstytucji Rzeczypospolitej Polskiej i w innych ustawach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "Kancelaria działa zgodnie z decyzjami i poleceniami Prezydenta.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_1/ust_4",
+       "text": "Kancelaria zapewnia obsługę merytoryczną, organizacyjną, prawną i techniczną Prezydenta, Szefa Kancelarii Prezydenta Rzeczypospolitej Polskiej, zwanego dalej „Szefem Kancelarii”, sekretarzy i podsekretarzy stanu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Na czele Kancelarii stoi Szef Kancelarii, który kieruje jej pracami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Sekretarze i podsekretarze stanu kierują pracami Kancelarii w zakresie powierzonym przez Szefa Kancelarii.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Szef Kancelarii wydaje zarządzenia, decyzje i polecenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Prezydent powołuje i odwołuje Szefa Kancelarii, Szefa Gabinetu Prezydenta oraz sekretarzy i podsekretarzy stanu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Szef Kancelarii za zgodą Prezydenta określa szczegółowy zakres zadań sekretarzy i podsekretarzy stanu w Kancelarii, w tym zakres nadzoru merytorycznego nad statutowymi komórkami organizacyjnymi Kancelarii.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Liczbę etatów w Kancelarii na dany rok budżetowy ustala Szef Kancelarii za zgodą Prezydenta.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_3/ust_4",
+       "text": "Podziału etatów między poszczególne statutowe komórki organizacyjne dokonuje Szef Kancelarii.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Szef Kancelarii może, za zgodą Prezydenta, wyznaczyć swojego zastępcę spośród sekretarzy lub podsekretarzy stanu w Kancelarii. Zastępca Szefa Kancelarii kieruje pracami Kancelarii w powierzonym mu zakresie oraz zastępuje Szefa Kancelarii w czasie jego nieobecności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Szef Kancelarii może imiennie upoważnić osoby na stanowiskach określonych w § 2 ust. 2, a także innych pracowników Kancelarii do załatwiania, w jego imieniu, spraw należących do zadań Kancelarii.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Szef Kancelarii może powoływać zespoły do wykonania określonych zadań, ustalając ich nazwę, zakres, czas funkcjonowania, tryb działania oraz skład osobowy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "W skład Kancelarii wchodzą następujące statutowe komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_1/pkt_1",
+         "text": "Gabinet Prezydenta;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_1/pkt_2",
+         "text": "Gabinet Szefa Kancelarii;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_1/pkt_3",
+         "text": "Biuro Prawa i Ustroju;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_1/pkt_4",
+         "text": "Biuro Kadr i Odznaczeń;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_5/ust_1/pkt_5",
+         "text": "Biuro Spraw Zagranicznych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_5/ust_1/pkt_6",
+         "text": "Biuro Doradców, Ekspertyz i Opinii;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_5/ust_1/pkt_7",
+         "text": "Biuro Prasowe;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_5/ust_1/pkt_8",
+         "text": "Biuro do Spraw Wystąpień Prezydenta i Patronatów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_5/ust_1/pkt_9",
+         "text": "Biuro Inicjatyw Społecznych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_5/ust_1/pkt_10",
+         "text": "Biuro Listów i Opinii Obywatelskich;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_5/ust_1/pkt_11",
+         "text": "Biuro Kultury, Nauki i Dziedzictwa Narodowego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "12",
+         "path": "par_5/ust_1/pkt_12",
+         "text": "Biuro Obywatelstw i Prawa Łaski;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "13",
+         "path": "par_5/ust_1/pkt_13",
+         "text": "Biuro Administracyjno-Finansowe;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "14",
+         "path": "par_5/ust_1/pkt_14",
+         "text": "Zespół Analiz Bieżących.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "W skład Gabinetu Prezydenta wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_2/pkt_1",
+         "text": "Zespół Gabinetu Prezydenta;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_2/pkt_2",
+         "text": "Zespół Sekretariatu Prezydenta;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_2/pkt_3",
+         "text": "Zespół Protokolarny Prezydenta;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_2/pkt_4",
+         "text": "Zespół Obsługi Organizacyjnej Prezydenta.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_5/ust_3",
+       "text": "Statutowymi komórkami organizacyjnymi Kancelarii kierują dyrektorzy. Szef Kancelarii może powierzyć kierowanie statutową komórką organizacyjną sekretarzowi stanu albo podsekretarzowi stanu sprawującemu nad nią nadzór merytoryczny.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_5/ust_4",
+       "text": "Część działalności gospodarczej i techniczno-remontowej może być prowadzona w formie gospodarstwa pomocniczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Organizację wewnętrzną i szczegółowy zakres zadań statutowych komórek organizacyjnych oraz tryb ich pracy określa regulamin organizacyjny nadany przez Szefa Kancelarii.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Kancelaria zapewnia obsługę administracyjno-organizacyjną Krajowej Rady Sądownictwa poprzez Biuro Krajowej Rady Sądownictwa oraz Społecznego Komitetu Odnowy Zabytków Krakowa poprzez Biuro Społecznego Komitetu Odnowy Zabytków Krakowa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Kancelaria zapewnia obsługę prawną i administracyjną Wspólnej Komisji Orzekającej w Sprawach o Naruszenie Dyscypliny Finansów Publicznych i Rzecznika Dyscypliny Finansów Publicznych poprzez Sekretariat Wspólnej Komisji Orzekającej w Sprawach o Naruszenie Dyscypliny Finansów Publicznych i Rzecznika Dyscypliny Finansów Publicznych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Kancelaria zapewnia obsługę finansową działalności Rady Bezpieczeństwa Narodowego i Biura Bezpieczeństwa Narodowego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

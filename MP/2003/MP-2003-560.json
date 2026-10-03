@@ -1,0 +1,61 @@
+{
+ "eli": "MP/2003/560",
+ "title": "Obwieszczenie Ministra Edukacji Narodowej i Sportu z dnia 8 lipca 2003 r. w sprawie wykazu jednostek, którym udzielono w 2002 r. dotacji podmiotowych w ustawowo określonym zakresie",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/560/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA EDUKACJI NARODOWEJ I SPORTU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 lipca 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu jednostek, którym udzielono w 2002 r. dotacji podmiotowych w ustawowo określonym zakresie"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 73 ust. 4 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, Nr 45, poz. 391, Nr 65, poz. 594 i Nr 96, poz. 874) podaje się do wiadomości wykaz jednostek nieujętych w wykazie, stanowiącym załącznik do ustawy budżetowej, którym udzielono w 2002 r. dotacji podmiotowych w ustawowo określonym zakresie, bez uwzględnienia zwrotów dotacji wykorzystanych niezgodnie z przeznaczeniem lub pobranych w nadmiernej wysokości, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Edukacji Narodowej i Sportu: K. Łybacka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Edukacji Narodowej i Sportu z dnia 8 lipca 2003 r. (poz. 560)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ JEDNOSTEK, KTÓRYM W 2002 R. MINISTER EDUKACJI NARODOWEJ I SPORTU UDZIELIŁ DOTACJI PODMIOTOWYCH W USTAWOWO OKREŚLONYM ZAKRESIE"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Towarzystwo Opieki Nad Ociemniałymi w Laskach, 05-080 Izabelin — 242 733 zł",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zakład Nagrań i Wydawnictw Związku Niewidomych Spółka z o.o. ul. Konwiktorska 7/9, 00-216 Warszawa — 400 000 zł",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Przedsiębiorstwo Wydawnicze Związku Niewidomych „Print 6” Spółka z o.o. ul. Hutnicza 9, 20-218 Lublin — 400 000 zł",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

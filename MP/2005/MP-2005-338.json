@@ -1,0 +1,69 @@
+{
+ "eli": "MP/2005/338",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 6 kwietnia 2005 r. w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/338/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 kwietnia 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru, stopu, masy i wielkości emisji monety nominalnej wartości 2 zł oraz terminu wprowadzenia jej do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monetę, o której mowa w § 1, wprowadza się do obiegu z dniem 11 kwietnia 2005 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 6 kwietnia 2005 r. (poz. 338)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Śred- Wiel- War- Cechy graficzne Brzeg Masa nica kość tość (bok) (w gra- (w mi- Stop emisji mach) lime- (w sztustrona główna strona odwrotna trach) kach)"
+    },
+    {
+     "type": "text",
+     "text": "Na tle stylizowanej mapy Polski wizeru- Na boku nek orła ustalony dla Wizerunek herbu woośmiokrotnie godła Rzeczypospoli- jewództwa zachodpowtórzony tej Polskiej. Wokół niopomorskiego. U napis: NBP, napis: RZECZPOS- góry półkolem na- 2 zł co drugi 8,15 27,0 CuAl5Zn5Sn1 900 000 POLITA POLSKA oraz pis: WOJEWÓDZ- odwrócony oznaczenie roku emi- TWO, u dołu półkoo 180 stopni, sji: 2005. U dołu na- lem napis: ZACHOD- rozdzielony pis: zł 2 zł. Pod lewą NIOPOMORSKIE. gwiazdkami łapą orła znak mennicy: MW."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

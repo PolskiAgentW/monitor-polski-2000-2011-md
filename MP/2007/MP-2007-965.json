@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2007/965",
+ "title": "Obwieszczenie Ministra Sportu i Turystyki z dnia 15 listopada 2007 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Sportu i Turystyki lub przez niego nadzorowanych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/965/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SPORTU I TURYSTYKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 listopada 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Sportu i Turystyki lub przez niego nadzorowanych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1d ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^2]) ogłasza się wykaz jednostek organizacyjnych podległych Ministrowi Sportu i Turystyki lub przez niego nadzorowanych, stanowiący załącznik do obwieszczenia.[^3]"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sportu i Turystyki: E. Jakubiak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Sportu i Turystyki z dnia 15 listopada 2007 r. (poz. 965)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ JEDNOSTEK ORGANIZACYJNYCH PODLEGŁYCH MINISTROWI SPORTU I TURYSTYKI LUB PRZEZ NIEGO NADZOROWANYCH"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Centralny Ośrodek Sportu w Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Instytut Sportu w Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Instytut Turystyki w Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Polska Organizacja Turystyczna.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Sportu i Turystyki kieruje działami administracji rządowej — kultura fizyczna i sport oraz turystyka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2007 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. Nr 135, poz. 953).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600.",
+  "3": "Niniejsze obwieszczenie było poprzedzone obwieszczeniem Ministra Sportu z dnia 10 października 2005 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Sportu lub przez niego nadzorowanych (M. P. Nr 64, poz. 886) oraz obwieszczeniem Ministra Gospodarki z dnia 17 stycznia 2007 r. w sprawie wykazu jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Gospodarki (M. P. Nr 5, poz. 68)."
+ }
+}

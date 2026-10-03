@@ -1,0 +1,177 @@
+{
+ "eli": "MP/2009/671",
+ "title": "Komunikat Nr 7/2009/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 13 lipca 2009 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/671/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT Nr 7/2009/(DOKE) PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lipca 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych — stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762 oraz z 2004 r. Nr 173, poz. 1808) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762 oraz z 2004 r. Nr 173, poz. 1808) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Oficjalnie Wspieranych Kredytów Eksportowych z dnia 1 kwietnia 1978 r.; mi-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Waluta kraju Okres spłaty"
+    },
+    {
+     "type": "text",
+     "text": "1 2"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat dolar amerykański > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "dolar australijski"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat dolar kanadyjski > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "dolar nowozelandzki"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat euro > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "forint węgierski"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat frank szwajcarski > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat funt brytyjski > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat jen japoński > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "korona czeska"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat korona duńska > 5 do 8,5 lat > 8,5 lat nimalne stopy wyznaczane są przez stopy CIRR (stopy referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stopy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników ww. Porozumienia OECD; stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 lipca 2009 r. do dnia 14 sierpnia 2009 r. dla niżej wymienionych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "text",
+     "text": "Symbol waluty Stopa CIRR"
+    },
+    {
+     "type": "text",
+     "text": "3 4"
+    },
+    {
+     "type": "text",
+     "text": "2,76 USD 3,71 4,37"
+    },
+    {
+     "type": "text",
+     "text": "AUD 6,23"
+    },
+    {
+     "type": "text",
+     "text": "2,90 CAD 3,59 3,82"
+    },
+    {
+     "type": "text",
+     "text": "NZD 5,81"
+    },
+    {
+     "type": "text",
+     "text": "3,14 EUR 3,97 4,54"
+    },
+    {
+     "type": "text",
+     "text": "HUF 11,13"
+    },
+    {
+     "type": "text",
+     "text": "1,86 CHF 2,55 3,04"
+    },
+    {
+     "type": "text",
+     "text": "3,26 GBP 3,89 4,25"
+    },
+    {
+     "type": "text",
+     "text": "1,49 JPY 1,81 2,08"
+    },
+    {
+     "type": "text",
+     "text": "CZK 5,26"
+    },
+    {
+     "type": "text",
+     "text": "4,37 DKK 5,04 5,52 1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "korona norweska NOK 4,29"
+    },
+    {
+     "type": "text",
+     "text": "≤5 lat 3,76 korona szwedzka > 5 do 8,5 lat SEK 4,10 > 8,5 lat 4,62"
+    },
+    {
+     "type": "text",
+     "text": "won koreański KRW 5,72"
+    },
+    {
+     "type": "text",
+     "text": "złoty polski PLN 6,88"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: I. Fąfara — 2083 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

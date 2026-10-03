@@ -1,0 +1,368 @@
+{
+ "eli": "MP/2005/201",
+ "title": "Zarządzenie Nr 17 Prezesa Rady Ministrów z dnia 15 lutego 2005 r. w sprawie powołania Rady Konsultacyjnej Spraw Rolnych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/201/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 17 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 lutego 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Rady Konsultacyjnej Spraw Rolnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199 i Nr 80, poz. 717 oraz z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Powołuje się Radę Konsultacyjną Spraw Rolnych, zwaną dalej „Radą”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Rada jest organem opiniodawczo-doradczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Rady należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "wypracowywanie opinii w zakresie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "kierunków zmian systemowych na wsi i w rolnictwie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "prowadzenia polityki rolnej i rozwoju obszarów wiejskich,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_1/lit_c",
+       "text": "bieżących problemów rolnictwa;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "tworzenie płaszczyzny porozumienia i łagodzenia napięć społecznych na wsi przez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "prowadzenie dialogu społecznego w celu godzenia interesów rolników, pracodawców i pracobiorców rolnych oraz dobra publicznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "rozwiązywanie konfliktów w przypadku podjęcia akcji protestacyjnych przez rolnicze związki zawodowe.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Rady wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący Rady — minister właściwy do spraw rolnictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zastępca przewodniczącego Rady — podsekretarz stanu wskazany przez ministra właściwego do spraw gospodarki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "członkowie wyznaczeni przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "ministra właściwego do spraw finansów publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "ministra właściwego do spraw gospodarki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_3/lit_c",
+         "text": "ministra właściwego do spraw zabezpieczenia społecznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_3/lit_d",
+         "text": "ministra właściwego do spraw Skarbu Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_3/lit_e",
+         "text": "ministra właściwego do spraw środowiska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_3/lit_f",
+         "text": "Szefa Kancelarii Prezesa Rady Ministrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_3/lit_g",
+         "text": "Prezesa Agencji Rynku Rolnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_3/lit_h",
+         "text": "Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_3/lit_i",
+         "text": "Prezesa Agencji Nieruchomości Rolnych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W pracach Rady mogą uczestniczyć, na prawach członka, wyznaczeni przez władze statutowe przedstawiciele:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "Niezależnego Samorządnego Związku Zawodowego Rolników Indywidualnych „Solidarność”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "Związku Zawodowego Rolnictwa „Samoobrona”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "Krajowego Związku Rolników, Kółek i Organizacji Rolniczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "Związku Zawodowego Centrum Narodowe Młodych Rolników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "Związku Zawodowego Rolników „Ojczyzna”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "Krajowej Rady Izb Rolniczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_2/pkt_7",
+       "text": "Federacji Związków Producentów Rolnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_2/pkt_8",
+       "text": "Związku Zawodowego Pracowników Rolnictwa w Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_2/pkt_9",
+       "text": "Federacji Związków Pracodawców — Dzierżawców i Właścicieli Rolnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_2/pkt_10",
+       "text": "Krajowego Związku Rewizyjnego Rolniczych Spółdzielni Produkcyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przewodniczący Rady wyznacza sekretarza Rady spośród osób zatrudnionych w urzędzie obsługującym ministra właściwego do spraw rolnictwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Przewodniczący Rady lub jego zastępca może zapraszać do udziału w pracach Rady inne osoby, z głosem doradczym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Posiedzenia Rady zwołuje przewodniczący Rady lub, z jego upoważnienia, zastępca przewodniczącego, nie rzadziej niż raz na kwartał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przewodniczący Rady lub jego zastępca może zwoływać posiedzenia Rady w każdym czasie na wniosek co najmniej 3 członków Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przewodniczący Rady, z własnej inicjatywy lub na wniosek członków Rady, może powołać w ramach Rady grupy robocze do opracowania poszczególnych zagadnień oraz wyznaczyć przewodniczących powołanych grup roboczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Szczegółowy tryb pracy Rady określa regulamin uchwalony, na wniosek przewodniczącego, przez Radę zwykłą większością głosów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Przewodniczący Rady przedstawia Prezesowi Rady Ministrów półroczne sprawozdania z działalności Rady do 15. dnia miesiąca następującego po zakończeniu półrocza kalendarzowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Organy administracji rządowej udzielają Radzie wszechstronnej pomocy przy wykonywaniu jej zadań, w szczególności przez udostępnienie niezbędnych informacji i dokumentów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Obsługę administracyjno-techniczną Rady zapewnia urząd obsługujący ministra właściwego do spraw rolnictwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

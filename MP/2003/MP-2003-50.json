@@ -1,0 +1,678 @@
+{
+ "eli": "MP/2003/50",
+ "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Haszymidzkiego Królestwa Jordanii o międzynarodowych przewozach drogowych, sporządzona w Warszawie dnia 30 października 1978 r.",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/50/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UMOWA"
+  },
+  {
+   "type": "text",
+   "text": "między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Haszymidzkiego Królestwa Jordanii o międzynarodowych przewozach drogowych, sporządzona w Warszawie dnia 30 października 1978 r."
+  },
+  {
+   "type": "text",
+   "text": "Rząd Polskiej Rzeczypospolitej Ludowej i Rząd Haszymidzkiego Królestwa Jordanii, zwane dalej „Umawiającymi się Stronami”,"
+  },
+  {
+   "type": "text",
+   "text": "pragnąc przyczynić się do rozwoju przewozów drogowych, podróżnych i ładunków między obu państwami oraz w tranzycie przez ich terytoria,"
+  },
+  {
+   "type": "text",
+   "text": "uzgodniły, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 1"
+  },
+  {
+   "type": "text",
+   "text": "Postanowienia niniejszej umowy mają zastosowanie do przewozów osób i ładunków pochodzących z lub przeznaczonych na terytorium jednej z Umawiających się Stron lub w tranzycie przez to terytorium, wykonywanych pojazdami zarejestrowanymi na terytorium drugiej Umawiającej się Strony."
+  },
+  {
+   "type": "text",
+   "text": "Artykuł 2"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, która bądź w Polskiej Rzeczypospolitej Ludowej, bądź w Haszymidzkim Królestwie Jordanii ma, zgodnie z obowiązującym ustawodawstwem wewnętrznym jej kraju, prawo wykonywania przewozów drogowych osób i/lub ładunków.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Określenie „pojazd pasażerski” oznacza każdy pojazd drogowy z napędem mechanicznym, który:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "jest skonstruowany lub przystosowany do przewozu i używany jest na drogach do przewozu pasażerów oraz posiadający więcej niż osiem miejsc siedzących, nie licząc miejsca kierowcy; oraz",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "posiada ważny dokument rejestracyjny na przewóz pasażerów na terytorium jednej z Umawiających się Stron.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Określenie „pojazd ciężarowy” oznacza każdy pojazd drogowy z napędem mechanicznym, który:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_3/lit_a",
+     "text": "jest skonstruowany lub przystosowany do przewozu i używany jest na drogach do przewozu ładunków; oraz",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_3/lit_b",
+     "text": "posiada ważny dokument rejestracyjny na przewóz ładunków na terytorium jednej z Umawiających się Stron;",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "oraz każdą przyczepę, która odpowiada warunkom a) i b) niniejszego ustępu oraz jest używana przez przewoźnika jednej Umawiającej się Strony; jeżeli zarówno przyczepa, jak naczepa oraz ciągnący je pojazd spełniają warunki niniejszego ustępu, taki zespół będzie uważany za jeden pojazd."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 3"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przewozy regularne podróżnych między obu krajami lub w tranzycie przez ich terytoria wymagają zezwolenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Właściwa władza każdej Umawiającej się Strony wydaje zezwolenia na część przewozu wykonywaną na jej terytorium.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Tryb i warunki wydawania zezwoleń są ustalane wspólnie przez właściwe władze Umawiających się Stron.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 4"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Okazyjne przewozy turystów nie podlegają systemowi zezwoleń. Przewóz uważany jest za okazyjny, jeżeli te same osoby przewożone są przez ten sam pojazd pasażerski:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "w podróży okrężnej rozpoczynającej się i kończącej się w kraju rejestracji pojazdu pasażerskiego; lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "w podróży rozpoczynającej się w miejscu kraju rejestracji pojazdu pasażerskiego i kończącej się w miejscu przeznaczenia na terytorium drugiej Umawiającej się Strony, pod warunkiem że pojazd pasażerski powraca w stanie próżnym do kraju rejestracji, chyba że istnieje inne upoważnienie; lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_1/lit_c",
+     "text": "w tranzycie o okazyjnym charakterze.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Nazwiska i narodowości pasażerów będą podane w liście, która musi być okazywana na żądanie odpowiednich władz każdej Umawiającej się Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 5"
+    },
+    {
+     "type": "text",
+     "text": "Przewoźnicy każdej Umawiającej się Strony mają prawo wykonywać przewozy ładunków, a także jazdy w stanie próżnym dla zabrania ładunku lub po jego wyładowaniu w następujących przypadkach:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "między jakimkolwiek miejscem na terytorium jednej Umawiającej się Strony i jakimkolwiek miejscem na terytorium drugiej Umawiającej się Strony; lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "w tranzycie przez terytorium drugiej Umawiającej się Strony; lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "ust_2/lit_c",
+     "text": "między jakimkolwiek miejscem na terytorium drugiej Umawiającej się Strony i jakimkolwiek miejscem na terytorium kraju trzeciego, pod warunkiem że w czasie swej podróży pojazd przekracza w tranzycie terytorium, na którym jest zarejestrowany.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 6"
+      },
+      {
+       "type": "text",
+       "text": "Z zastrzeżeniem postanowień artykułów 7 i 8, wykonywanie przewozów ładunków, o których mowa w artykule 5, nie wymaga zezwolenia."
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Każda Umawiająca się Strona będzie wymagać na swoim terytorium specjalnych zezwoleń na przewozy wykonywane pojazdami samochodowymi, których ciężar lub rozmiary (z ładunkiem lub bez ładunku) przekraczają ciężar lub rozmiary dopuszczone na tym terytorium.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Każda Umawiająca się Strona będzie również wymagać specjalnego zezwolenia na przewozy materiałów niebezpiecznych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 8"
+    },
+    {
+     "type": "text",
+     "text": "Przewoźnicy jednej Umawiającej się Strony nie są uprawnieni do wykonywania przewozów podróżnych lub ładunków między dwoma miejscami położonymi na terytorium drugiej Umawiającej się Strony, chyba że uzyskają na to specjalne zezwolenie właściwych władz drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 9"
+    },
+    {
+     "type": "text",
+     "text": "Zezwolenia wymagane zgodnie z postanowieniami niniejszej umowy powinny znajdować się w pojazdach samochodowych przewoźników każdej Umawiającej się Strony, wykonujących przewozy na terytorium drugiej Umawiającej się Strony, oraz powinny być okazywane na żądanie właściwych organów kontroli."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 10"
+    },
+    {
+     "type": "text",
+     "text": "Sprawy podatków i opłat dotyczących pojazdów drogowych oraz związanych z wykonywaniem przewozów są uregulowane w Memorandum, o którym mowa w artykule 14 niniejszej umowy."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 11"
+    },
+    {
+     "type": "text",
+     "text": "Prawa jazdy, wydane przez właściwą władzę jednej Umawiającej się Strony i ważne na jej terytorium, będą uznawane za ważne na terytorium drugiej Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 12"
+    },
+    {
+     "type": "text",
+     "text": "Paliwo i materiały pędne zawarte w zwykłych zbiornikach pojazdów samochodowych są zwolnione od opłat i należności celnych."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 13"
+    },
+    {
+     "type": "text",
+     "text": "Przewoźnicy jednej Umawiającej się Strony oraz załogi pojazdów samochodowych, wykonujący przewozy na terytorium drugiej Umawiającej się Strony, obowiązani są przestrzegać przepisów i zarządzeń dotyczących w szczególności przewozów i ruchu drogowego, obowiązujących na terytorium Umawiającej się Strony."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 14"
+    },
+    {
+     "type": "text",
+     "text": "Właściwe władze Umawiających się Stron ustalają sposoby stosowania niniejszej umowy w Memorandum sporządzonym w tym samym czasie co ta umowa."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 15"
+    },
+    {
+     "type": "text",
+     "text": "Właściwe władze Umawiających się Stron utworzą Komisję Mieszaną w celu zapewnienia wykonywania niniejszej umowy."
+    },
+    {
+     "type": "text",
+     "text": "Komisja Mieszana zbierać się będzie w razie potrzeby na żądanie właściwych władz jednej z Umawiających się Stron, na przemian, na terytorium każdej z Umawiających się Stron."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 16"
+    },
+    {
+     "type": "text",
+     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron i wejdzie w życie w dniu wymiany not stwierdzających to przyjęcie."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 17"
+    },
+    {
+     "type": "text",
+     "text": "Umowa niniejsza zawarta jest na okres jednego roku. Ulega ona automatycznemu przedłużeniu na dalsze okresy jednoroczne, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na trzy miesiące przed upływem danego roku kalendarzowego."
+    },
+    {
+     "type": "text",
+     "text": "Sporządzono w Warszawie dnia 30 października 1978 r. w trzech egzemplarzach, każdy w językach polskim, arabskim i angielskim, przy czym wszystkie trzy teksty są jednakowo autentyczne. W przypadku rozbieżnych interpretacji tekst angielski będzie rozstrzygający."
+    },
+    {
+     "type": "text",
+     "text": "Z upoważnienia Z upoważnienia Rządu Polskiej Rządu Haszymidzkiego Rzeczypospolitej Ludowej Królestwa Jordanii"
+    },
+    {
+     "type": "text",
+     "text": "MEMORANDUM"
+    },
+    {
+     "type": "text",
+     "text": "do Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Haszymidzkiego Królestwa Jordanii o międzynarodowych przewozach drogowych, sporządzonej w dniu 30 października 1978 r."
+    },
+    {
+     "type": "text",
+     "text": "W celu wykonania Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Haszymidzkiego Królestwa Jordanii o międzynarodowych przewozach drogowych uzgodniono, co następuje:"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Podatki i opłaty",
+   "children": [
+    {
+     "type": "text",
+     "text": "Podatki i opłaty od międzynarodowych przewozów drogowych wykonywanych przez przewoźników jednej Umawiającej się Strony na terytorium drugiej Umawiającej się Strony będą zgodne z ustawodawstwem wewnętrznym tej drugiej Umawiającej się Strony."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przewozy podróżnych",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "Podanie o zezwolenie na wykonywanie regularnych przewozów podróżnych powinno być skierowane przez zainteresowanego przewoźnika do właściwej władzy jego kraju. W przypadku gdy podanie nie budzi zastrzeżeń, władza ta przekazuje je do zatwierdzenia właściwej władzy drugiej Umawiającej się Strony co najmniej na trzy miesiące przed zamierzonym terminem rozpoczęcia przewozów.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "Podanie o zezwolenie powinno zawierać informacje co do proponowanego rozkładu jazdy, taryf i trasy przewozu, okres wykonywania przewozów w ciągu roku oraz datę zamierzonego rozpoczęcia przewozów. Właściwe władze mogą zażądać dalszych danych, które uważają za potrzebne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Warunek, o którym mowa w artykule 5 c) umowy, a mianowicie „pod warunkiem że w czasie swej podróży pojazd przekracza w tranzycie terytorium, na którym jest zarejestrowany”, może być zniesiony, jeżeli specjalne zezwolenie zostanie otrzymane od właściwej władzy drugiej Umawiającej się Strony.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Zezwolenie specjalne na przewozy ładunków",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zezwolenia, o których mowa w artykułach 7 i 8 umowy, są wydawane lub przekazywane, w przypadku Polskiej Rzeczypospolitej Ludowej, za pośrednictwem:"
+    },
+    {
+     "type": "text",
+     "text": "Zrzeszenie Międzynarodowych Przewoźników Drogowych w Polsce (ZMPD) 02-021 Warszawa ul. Grójecka 17 Tel. 22-76-03 Tlx. 814 894 cpks pl."
+    },
+    {
+     "type": "text",
+     "text": "W przypadku Jordanii:"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Transportu Amman-Jordania P.O. Box (1929) Tel. 41461-41462-41485 Tlx. 1541 MOT JO"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Właściwe władze",
+   "children": [
+    {
+     "type": "text",
+     "text": "Dla celów umowy i niniejszego memorandum właściwymi władzami są:"
+    },
+    {
+     "type": "text",
+     "text": "w Polskiej Rzeczypospolitej Ludowej:"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Komunikacji 00-928 Warszawa ul. Chałubińskiego 6"
+    },
+    {
+     "type": "text",
+     "text": "w Haszymidzkim Królestwie Jordanii:"
+    },
+    {
+     "type": "text",
+     "text": "— jak wyżej —"
+    },
+    {
+     "type": "text",
+     "text": "Sporządzono w Warszawie dnia 30 października 1978 r. w trzech egzemplarzach, każdy w językach polskim, arabskim i angielskim, przy czym wszystkie trzy teksty są jednakowo autentyczne. W przypadku rozbieżnych interpretacji tekst angielski będzie rozstrzygający."
+    },
+    {
+     "type": "text",
+     "text": "Z upoważnienia Z upoważnienia Ministerstwa Komunikacji Ministerstwa Transportu Polskiej Rzeczypospolitej Haszymidzkiego Ludowej Królestwa Jordanii"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "AGREEMENT"
+    },
+    {
+     "type": "ocr",
+     "text": "BETWEEN THE GOVERNMENT OF THE POLISH PEOPLE'S REPUBLIC AND THE GOVERNMENT OF THE HASHEMITE KINGDOM OF JORDAN ON INTERNATIONAL ROAD TRANSPORT"
+    },
+    {
+     "type": "ocr",
+     "text": "The Government of the Polish People's Republic and Government of the Hashemite Kingdom of Jordan, hereinafter called „the Contracting Parties\","
+    },
+    {
+     "type": "ocr",
+     "text": "Desiring to contribute to the growth of road transport of passengers and goods between their two countries and in transit through their territories,"
+    },
+    {
+     "type": "ocr",
+     "text": "Have agreed as follows:"
+    },
+    {
+     "type": "ocr",
+     "text": "Article 1"
+    },
+    {
+     "type": "ocr",
+     "text": "The provisions of this Agreement shall apply to the transport operation of passengers and goods to and from the territories of one of the Contracting Parties or in transit through their territories by vehicles registered in the territory of the other Contracting Party."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 2"
+    },
+    {
+     "type": "ocr",
+     "text": "1. The term „carrier”, shall mean any physical or legal person who in either the Polish People’s Republic or the Hashemite Kingdom of Jordan is authorised in accordance with the relevant national laws in force to perform the carriage of passengers and/or goods by road."
+    },
+    {
+     "type": "ocr",
+     "text": "2. The term „passenger vehicle’’ shall mean any mechanically propelled road vehicle which is:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) constructed or adapted for use and used on the roads for the carriage of passengers and has more than eight seats in addition to the driver's seat; and has"
+    },
+    {
+     "type": "ocr",
+     "text": "b) valid registration document for the carriage of passengers in the territory of one of the Contracting Parties."
+    },
+    {
+     "type": "ocr",
+     "text": "3. The term „goods vehicle’ shall mean any mechanically propelled road vehicle which is:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) constructed or adapted for use and used on the roads for the carriage of goods; and has"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b) valid registration document for the carriage of goods in the territory of one of the Contracting Parties;"
+    },
+    {
+     "type": "ocr",
+     "text": "and any trailer or semi—trailer which fulfils conditions (a) and (b) of this paragraph and is operated by a carrier of one Contracting Party; provided that if a trailer or semi— traler and its towing vehicle both fulfil the conditions of this paragraph, the combination shall be regarded as one vehicle."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 3"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Regular passenger services between the two countries or in transit through their territories shall be subject to licencing regime. |"
+    },
+    {
+     "type": "ocr",
+     "text": "2. The licence shall be issued by the competent authority of each Contracting Party for the part of operation performed in its territory."
+    },
+    {
+     "type": "ocr",
+     "text": "3. The procedure and conditions of issue of the licences shall jointly be determined by the competent authorities of the Contracting Parties."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 4"
+    },
+    {
+     "type": "ocr",
+     "text": "1. The occasional carriage of tourists is not subject to licensing. A transport service is considered to be occasionał when the same persons are carried by the same passenger vehicle either:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) on a round trip beginning and intended to end in the country of registration of the passenger vehicle; or"
+    },
+    {
+     "type": "ocr",
+     "text": "b) on a journey starting at a place in the country of registration of the passenger vehicle and ending at a destination in the territory of the other Contracting Party, provided that, save where otherwise authorized, the passenger vehicle returns empty to the country of registration; or"
+    },
+    {
+     "type": "ocr",
+     "text": "c) ona transit of occasionał character."
+    },
+    {
+     "type": "ocr",
+     "text": "2. The names and nationalities of the passengers shall be shown in a list which will be produced on demand by the appropriate authorities of each Contracting Party."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 5"
+    },
+    {
+     "type": "ocr",
+     "text": "Carriers of each Contracting Party shall have the right to carry goods as well as to perform journeys with unladen vehicles destined to pick up goods or after discharge of goods in the following cases:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) between any point in the territory of one Contracting Party and any point within the territory of the other Contracting Party; or"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b) in transit through the territory of the other Contracting Party; or"
+    },
+    {
+     "type": "ocr",
+     "text": "c) between any point in the other Contracting Party and any point in the territory of a third country, provided that in the course of its journey the vehicle passes in transit through the territory in which it is registered."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 6"
+    },
+    {
+     "type": "ocr",
+     "text": "Except as provided in Articles 7 and 8, goods transport operations, referred to in"
+    },
+    {
+     "type": "ocr",
+     "text": "Article 5, are not subject to licensing regime."
+    },
+    {
+     "type": "ocr",
+     "text": "Articie 7"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Each Contracting Party shail require in its respective territory special permits for transport operations performed with vehicles whose weight or dimensions/with or without load/exceed the weight or dimensions permissible in that territory."
+    },
+    {
+     "type": "ocr",
+     "text": "2. Each Contracting Party shall also require a speciał licence for the carriage of dangerous goods."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 8"
+    },
+    {
+     "type": "ocr",
+     "text": "Nothing in this Agreement shall be held to permit a carrier of one Contracting Party to carry passengers or goods between any two points in the territory of the other Contracting Party, unless appropriate licence is issued for such a transport operation by the competent authority of that other country."
+    },
+    {
+     "type": "ocr",
+     "text": "Articłe 9"
+    },
+    {
+     "type": "ocr",
+     "text": "Licences required in accordance with the provisions of this Agreement must be carried on vehicles of the carriers of each Contracting Party engaged in transport operations in the territory of the other Contracting Party and be produced on demand to the competent inspection officials."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 10"
+    },
+    {
+     "type": "ocr",
+     "text": "Questions concerning taxes and charges relating to road vehicles as well as transport operations shall be settled in the Memorandum referred to in Article (14) of this Agreement."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 11"
+    },
+    {
+     "type": "ocr",
+     "text": "The validity of driving lecences issued by the competent authorities of one Contracting Party and valid in its respective territory shall be recognized in the territory of the other Contracting Party."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Article 12"
+    },
+    {
+     "type": "ocr",
+     "text": "Fuel and lubricants contained in the ordinary supply tanks of the vehicle shall be exempted from customs taxes and duties."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 13"
+    },
+    {
+     "type": "ocr",
+     "text": "Carriers of one Contracting Party and the crew members of their vehicles performing “the transport operations in the territory of the other Contracting Party shall comply with national laws and regulations in force in that territory, particularly those concerning road transport and road traffic."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 14"
+    },
+    {
+     "type": "ocr",
+     "text": "The competent authorities of the Contracting Parties shal agree upon the way of implementation of this Agreement by means of a Memorandum which shall be concluded simultaneously with this Agreement."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 15"
+    },
+    {
+     "type": "ocr",
+     "text": "The competent authorities of the Contracting Parties shall establish a Joint Committee in view to ensuring the application of this Agreement. The Joint Committee shall meet, if necessary, at the request of the competent autho-- rities of one of the Contracting Parties, alternatively in the territory of each Contracting Party."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 16"
+    },
+    {
+     "type": "ocr",
+     "text": "This Agreement shall be approved pursuant to the national legislation of each Contracting Party and shall come into force on the day of exchange of notes stating this approval."
+    },
+    {
+     "type": "ocr",
+     "text": "Article 17"
+    },
+    {
+     "type": "ocr",
+     "text": "This Agreement shall remain in force for a period of one year. Its validity shall thereafter be automatically extended from year to year, unless denounced by one of the Contracting Parties by notification not less than three months befor the end of any calendar year."
+    },
+    {
+     "type": "ocr",
+     "text": "Done at Warsaw this 30 th day of October 1978 in two originals, both in Polish, Arabic and English languages, all three texts being eqaully authentic. In case of alternative interpretations the English text shall prevail."
+    },
+    {
+     "type": "ocr",
+     "text": "For the Government of the For the Government of the Polish People's Republic Hashemite Kingdom of Jordan"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

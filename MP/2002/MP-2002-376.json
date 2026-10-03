@@ -1,0 +1,44 @@
+{
+ "eli": "MP/2002/376",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 23 maja 2002 r. w sprawie średniej krajowej przychodów gminnych i powiatowych funduszy ochrony środowiska i gospodarki wodnej w 2001 r. przypadających na jednego mieszkańca.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/376/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 maja 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie średniej krajowej przychodów gminnych i powiatowych funduszy ochrony środowiska i gospodarki wodnej w 2001 r. przypadających na jednego mieszkańca."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 404 ust. 2 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627 i Nr 115, poz. 1229) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "średnia krajowa przychodów gminnych funduszy ochrony środowiska i gospodarki wodnej w 2001 r. przypadających na jednego mieszkańca wyniosła 12,82 zł,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "średnia krajowa przychodów powiatowych funduszy ochrony środowiska i gospodarki wodnej w 2001 r. przypadających na jednego mieszkańca wyniosła 3,56 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: S. Żelichowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

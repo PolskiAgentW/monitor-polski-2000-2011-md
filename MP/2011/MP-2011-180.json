@@ -1,0 +1,599 @@
+{
+ "eli": "MP/2011/180",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 15 lutego 2011 r. w sprawie regulaminu Rady Polityki Pieniężnej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/180/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 lutego 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie regulaminu Rady Polityki Pieniężnej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się regulamin Rady Polityki Pieniężnej, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Rady Polityki Pieniężnej z dnia 31 marca 2004 r. w sprawie regulaminu Rady Polityki Pieniężnej (M. P. Nr 17, poz. 290).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Rady Polityki Pieniężnej: M. Belka"
+  },
+  {
+   "type": "text",
+   "text": "Członkowie Rady Polityki Pieniężnej: A. Bratkowski, E. Chojna-Duch, Z. Gilowska, A. Glapiński, J. Hausner, A. Kaźmierczak, A. Rzońca, J. Winiecki, A. Zielińska-Głębocka"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do uchwały Rady Polityki Pieniężnej z dnia 15 lutego 2011 r. (poz. 180)"
+  },
+  {
+   "type": "text",
+   "text": "REGULAMIN RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Regulamin określa tryb działania Rady Polityki Pieniężnej, zwanej dalej „Radą”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Posiedzenia Rady odbywają się co najmniej raz w miesiącu, w dniu ustalonym przez Radę. Posiedzenia zwołuje Przewodniczący Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Posiedzenia Rady mogą być również zwoływane z inicjatywy Przewodniczącego Rady lub na pisemny wniosek trzech jej członków. Wniosek określa proponowany przedmiot obrad i zawiera uzasadnienie potrzeby zwołania posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Posiedzenia zwołane na wniosek członków Rady odbywają się nie później niż w ciągu czternastu dni od dnia złożenia wniosku Przewodniczącemu Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Podpisane przez Przewodniczącego Rady zawiadomienie o posiedzeniu, wraz z jego porządkiem oraz materiałami dotyczącymi przedmiotu obrad, przekazywane są członkom Rady oraz uczestniczącym w posiedzeniu Rady członkom Zarządu Narodowego Banku Polskiego, zwanego dalej „NBP”, co najmniej siedem dni przed posiedzeniem. Materiały uzupełniające i informacyjne mogą być przekazywane w krótszym terminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W przypadku niedotrzymania terminu doręczenia materiałów, o którym mowa w ust. 1, Rada może, na wniosek członka Rady, przesunąć rozpatrzenie punktu porządku obrad, którego materiały te dotyczą, na kolejne posiedzenie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W szczególnie uzasadnionych przypadkach Przewodniczący Rady może zwołać posiedzenie bez zachowania trybu i terminów, o których mowa w § 2 i 3.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W posiedzeniach Rady uczestniczą wiceprezesi NBP bez prawa udziału w głosowaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Na posiedzenia Rady, za jej zgodą, mogą zostać zaproszeni przez Przewodniczącego Rady inni członkowie Zarządu NBP oraz pracownicy NBP właściwi w sprawach objętych porządkiem obrad posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Na posiedzenia Rady, za jej zgodą, mogą zostać zaproszeni przez Przewodniczącego Rady eksperci zewnętrzni celem przedstawienia opinii.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Posiedzenia Rady otwiera i prowadzi Przewodniczący Rady, z zastrzeżeniem ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przypadku nieobecności Przewodniczącego Rady najstarszy wiekiem członek Rady obecny na posiedzeniu otwiera posiedzenie i prowadzi je do czasu wyboru prowadzącego posiedzenie Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Rada wybiera prowadzącego posiedzenie większością głosów przy obecności co najmniej pięciu członków Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Rada, na wniosek Przewodniczącego Rady lub prowadzącego posiedzenie Rady, może objąć całość lub część obrad klauzulą tajności, w rozumieniu przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), zwanej dalej „ustawą o ochronie informacji niejawnych”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Członkom Rady przysługuje prawo do zgłaszania wniosków do Przewodniczącego Rady albo prowadzącego posiedzenie Rady o objęcie całości lub części obrad klauzulą tajności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Wnioski, o których mowa w ust. 1 i 2, powinny zawierać uzasadnienie odnoszące się do proponowanej do nadania klauzuli tajności, w szczególności wskazanie ustawowych przesłanek jej nadania. Zgłoszone wnioski Przewodniczący Rady albo prowadzący posiedzenie Rady niezwłocznie poddaje pod głosowanie Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Części obrad oraz decyzje Rady dotyczące wysokości stóp procentowych NBP oznaczane są klauzulą „tajne” w rozumieniu przepisów ustawy o ochronie informacji niejawnych, do czasu ich podania do wiadomości publicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Ustalenia Rady podejmowane są w formie uchwał większością głosów przy obecności co najmniej pięciu członków, w tym Przewodniczącego Rady. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Członkowie Rady przy głosowaniu uchwał mogą głosować „za” lub „przeciw”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "W przypadku gdy uchwała jest wielopunktowa, głosowanie przeprowadza się kolejno nad każdym punktem oddzielnie, następnie głosuje się nad całością uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Przewodniczącemu Rady i członkom Rady przysługuje prawo zgłaszania zdania odrębnego, jeżeli nie zgadzają się z treścią podjętej uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Uchwały Rady podpisywane są przez Przewodniczącego Rady i wszystkich członków Rady biorących udział w głosowaniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Posiedzenia Rady utrwalane są za pomocą urządzeń rejestrujących dźwięk, zwane dalej „nagraniami”, w celu sporządzenia pisemnych zapisów z tych posiedzeń, zwanych dalej „stenogramami”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Z posiedzeń Rady sporządza się protokół przedstawiany Radzie do przyjęcia na najbliższym posiedzeniu, zwołanym po upływie dwudziestu jeden dni od posiedzenia, którego protokół dotyczy. Protokół dostarczany jest członkom Rady najpóźniej na siedem dni przed posiedzeniem, na którym ma być przyjęty. W głosowaniu nad przyjęciem protokołu biorą udział tylko członkowie Rady obecni na posiedzeniu, z którego protokół sporządzono.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Przyjęty przez Radę protokół podpisuje Przewodniczący Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Protokół z posiedzenia Rady zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "numer kolejny protokołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "datę posiedzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "listę osób obecnych na posiedzeniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "porządek obrad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_1/pkt_5",
+       "text": "informację w sprawie podjętych ustaleń, w tym uchwał;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_1/pkt_6",
+       "text": "przebieg dyskusji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Do protokołu załącza się w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "zgłoszone i podpisane przez zgłaszających zdania odrębne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "wyniki głosowań nad uchwałami oraz wnioskami, które nie uzyskały większości głosów, w tym stanowiska zajęte przez członków Rady w głosowaniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_2/pkt_4",
+       "text": "komunikaty i informacje prasowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Protokół z posiedzenia Rady sporządza się w jednym egzemplarzu, z zastrzeżeniem § 12 ust. 1 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Kopie protokołu przekazuje się Przewodniczącemu Rady, członkom Rady i członkom Zarządu NBP, z zastrzeżeniem § 12 ust. 5.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Protokoły z posiedzeń Rady oznacza się klauzulą tajności „zastrzeżone” na okres dwóch lat, z zastrzeżeniem publikacji informacji o stanowiskach zajętych przez członków Rady w głosowaniu, o których mowa w art. 16 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim. Przepis ust. 3 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Z zastrzeżeniem ust. 3, nagrania i stenogramy, o których mowa w § 10 ust. 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "oznacza się klauzulą tajności „zastrzeżone”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "podlegają ochronie zgodnie z przepisami ustawy o ochronie informacji niejawnych do końca roku kalendarzowego po upływie kadencji Rady, której prac dotyczą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "W przypadku gdy całości lub części obrad Rady nadano inną niż „zastrzeżone” klauzulę tajności nagrania, stenogramy i protokoły z posiedzenia Rady oznacza się tą klauzulą oraz podlegają one ochronie przez okres, o którym mowa w ust. 2 pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Stenogramy z posiedzeń Rady udostępniane są członkom Rady, na ich pisemny wniosek, za zgodą Przewodniczącego Rady, z zastrzeżeniem ust. 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_12/ust_5",
+     "text": "Nagrania, stenogramy i protokoły z posiedzeń Rady są przechowywane i udostępniane w NBP, z zachowaniem zasad określonych w przepisach odrębnych, w szczególności dotyczących postępowania z informacjami prawnie chronionymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Informacje o stanowiskach zajętych przez członków Rady w głosowaniu, o których mowa w art. 16 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, do czasu ich opublikowania w Monitorze Sądowym i Gospodarczym, oznacza się klauzulą tajności „zastrzeżone”, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Przepis ust. 1 stosuje się także w przypadku, gdy Rada podejmie decyzję o wcześniejszym terminie ujawnienia głównych treści dyskusji na posiedzeniu Rady, niebędących stanowiskami zajętymi przez członków Rady w głosowaniu, w rozumieniu art. 16 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Projekty uchwał i inne materiały kierowane do Rady, z wyjątkiem protokołu, o którym mowa w § 10 ust. 2, podlegają uprzedniemu rozpatrzeniu przez Zarząd NBP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Rada może wystąpić do Zarządu NBP o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "zlecenie przygotowania określonego opracowania, dotyczącego przedmiotu prac Rady, przez podmiot zewnętrzny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "rozpatrzenie, zgłoszonego na posiedzeniu Rady przez członka Rady, projektu uchwały lub innego materiału, który nie był uprzednio rozpatrywany przez Zarząd NBP, w terminie umożliwiającym rozpatrzenie przez Radę projektu uchwały lub innego materiału na kolejnym posiedzeniu Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "przygotowanie określonych innych materiałów analitycznych i informacyjnych, dotyczących przedmiotu prac Rady.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Zarząd NBP może przygotować opinię do materiałów, których charakter na to pozwala.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "Pomiędzy posiedzeniami Rady członkowie Rady mogą wystąpić do Przewodniczącego Rady o przygotowanie określonych innych materiałów statystycznych i informacyjnych, dotyczących przedmiotu prac Rady. Przygotowane materiały Przewodniczący Rady przekazuje wszystkim członkom Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_14/ust_5",
+     "text": "Rada na bieżąco otrzymuje dostępne w NBP materiały o charakterze statystycznym, informacyjnym i analitycznym, niezbędne do wykonywania przez nią swoich obowiązków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_14/ust_6",
+     "text": "Materiały, o których mowa w ust. 2, 4 i 5, przekazywane są z zachowaniem zasad określonych w przepisach odrębnych, w szczególności dotyczących postępowania z informacjami prawnie chronionymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Przed podjęciem ustaleń, o których mowa w § 9 ust. 1, Rada może powoływać zespoły robocze, złożone z członków Rady, w celu opracowania określonego przez Radę zagadnienia. Przepis § 5 ust. 3 stosuje się odpowiednio.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "W terminach określonych przez Radę Przewodniczący Rady albo prowadzący posiedzenie, przy udziale dwóch członków Rady, przekazuje środkom masowego przekazu komunikat o ustaleniach podjętych na jej posiedzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Członkowie Rady mogą udzielać środkom masowego przekazu informacji o podstawowych ustaleniach podjętych przez Radę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Prezes NBP podejmuje decyzje o wyjazdach zagranicznych członków Rady, w ramach budżetu zatwierdzonego w planie finansowym NBP, kierując się opinią czteroosobowego zespołu wyłonionego przez Radę ze swego grona.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Obsługę Rady zapewnia NBP na zasadach określonych w przepisach odrębnych.",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317, z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164 oraz z 2010 r. Nr 109, poz. 709 i Nr 257, poz. 1724."
+ }
+}

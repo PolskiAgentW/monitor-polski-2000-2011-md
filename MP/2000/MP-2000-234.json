@@ -1,0 +1,212 @@
+{
+ "eli": "MP/2000/234",
+ "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 13 kwietnia 2000 r. w sprawie wskaźnika waloryzacji i kwot po waloryzacji oraz wysokości świadczeń z pomocy społecznej od dnia 1 czerwca 2000 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/234/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 kwietnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wskaźnika waloryzacji i kwot po waloryzacji oraz wysokości świadczeń z pomocy społecznej od dnia 1 czerwca 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 35a ust. 5 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001 oraz z 2000 r. Nr 12, poz. 136, Nr 19, poz. 238), § 2a ust. 2 rozporządzenia Rady Ministrów z dnia 5 października 1993 r. w sprawie określenia zakresu i form oraz trybu udzielania kobietom w ciąży oraz wychowującym dziecko pomocy w zakresie opieki socjalnej i prawnej (Dz. U. Nr 97, poz. 441, z 1994 r. Nr 44, poz. 172, z 1996 r. Nr 123, poz. 577 i z 1999 r. Nr 88, poz. 983) oraz § 5 rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1996 r. w sprawie rodzajów specjalistycznych usług opiekuńczych oraz kwalifikacji osób świadczących takie usługi dla osób z zaburzeniami psychicznymi, zasad i trybu ustalania i pobierania opłat za te usługi, jak również warunków częściowego lub całkowitego zwolnienia od opłat (Dz. U. z 1997 r. Nr 2, poz. 12) ogłasza się, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Wskaźnik waloryzacji kwot wymienionych w ustawie o pomocy społecznej oraz w powołanych wyżej rozporządzeniach wynosi od dnia 1 czerwca 2000 r. 104,53%.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Od dnia 1 czerwca 2000 r.:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "wartość dochodu odpowiadająca dochodowi miesięcznemu z 1 ha przeliczeniowego wynosi 183 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "wysokość dochodu uprawniająca do świadczeń z pomocy społecznej nie przekracza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_2/lit_a",
+       "text": "na osobę samotnie gospodarującą — 401 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_2/lit_b",
+       "text": "na pierwszą osobę w rodzinie — 364 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_2/lit_c",
+       "text": "na drugą i dalsze osoby w rodzinie powyżej 15 lat — 256 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/pkt_2/lit_d",
+       "text": "na każdą osobę w rodzinie poniżej 15 lat — 183 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "zasiłek stały wynosi 364 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "renta socjalna wynosi 364 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "dodatek do zasiłku stałego wynosi 95 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_2/pkt_6",
+     "text": "dodatek do renty socjalnej wynosi 95 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_2/pkt_7",
+     "text": "minimalna wysokość zasiłku okresowego wynosi 16 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "ust_2/pkt_8",
+     "text": "minimalna wysokość zasiłku stałego wyrównawczego wynosi 16 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "ust_2/pkt_9",
+     "text": "kwota stanowiąca podstawę ustalania pomocy pieniężnej dla rodziny zastępczej wynosi 1.387 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "ust_2/pkt_10",
+     "text": "kwota stanowiąca podstawę ustalania pomocy pieniężnej na usamodzielnienie lub kontynuowanie nauki dla osób opuszczających rodziny zastępcze, placówki opiekuńczo-wychowawcze, resocjalizacyjne, zakłady dla nieletnich oraz specjalne ośrodki szkolno-wychowawcze wynosi 1.387 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "ust_2/pkt_11",
+     "text": "kwoty świadczeń pieniężnych na utrzymanie przysługujące uchodźcom wynoszą od 366 zł do 1.045 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "ust_2/pkt_12",
+     "text": "kwota dochodu uprawniającego kobietę w ciąży lub wychowującą dziecko do świadczeń pieniężnych i świadczeń w naturze wynosi nie więcej niż 401 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "ust_2/pkt_13",
+     "text": "miesięczny zasiłek pieniężny dla kobiety w ciąży lub wychowującej dziecko wynosi nie więcej niż 364 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "ust_2/pkt_14",
+     "text": "jednorazowy zasiłek pieniężny dla kobiety w ciąży lub wychowującej dziecko na każde dziecko urodzone podczas ostatniego porodu wynosi 175 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "ust_2/pkt_15",
+     "text": "dochód na osobę, w zależności od którego ustala się wysokość odpłatności za specjalistyczne usługi dla osób z zaburzeniami psychicznymi, wynosi w złotych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.do 401,"
+      },
+      {
+       "type": "text",
+       "text": "1.402—655,"
+      },
+      {
+       "type": "text",
+       "text": "1.656—873,"
+      },
+      {
+       "type": "text",
+       "text": "1.874—1.019,"
+      },
+      {
+       "type": "text",
+       "text": "1.020—1.091,"
+      },
+      {
+       "type": "text",
+       "text": "1.092—1.165,"
+      },
+      {
+       "type": "text",
+       "text": "1.166—1.310,"
+      },
+      {
+       "type": "text",
+       "text": "powyżej 1.310."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Pracy i Polityki Społecznej: L. Komołowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

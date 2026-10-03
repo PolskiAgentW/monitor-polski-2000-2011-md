@@ -1,0 +1,88 @@
+{
+ "eli": "MP/2011/912",
+ "title": "Zarządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 20 września 2011 r. zmieniające zarządzenie w sprawie nadania statutu Polskiemu Instytutowi Sztuki Filmowej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/912/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Polskiemu Instytutowi Sztuki Filmowej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 2 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. Nr 132, poz. 1111, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu Ministra Kultury z dnia 2 września 2005 r. w sprawie nadania statutu Polskiemu Instytutowi Sztuki Filmowej (M. P. Nr 52, poz. 722, z 2006 r. Nr 67, poz. 690 oraz z 2008 r. Nr 89, poz. 777) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 10 w ust. 5 pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) zatwierdzanie ogłaszanych przez Dyrektora programów operacyjnych, a także inwestycji własnych Instytutu powyżej 5 mln zł;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 14 pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) wytyczanie kierunków działania Instytutu, w szczególności poprzez zatwierdzanie ogłaszanych przez Dyrektora programów operacyjnych, a także inwestycji własnych Instytutu powyżej 5 mln zł;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 15 pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) ogłaszanie w formie zarządzenia, po zatwierdzeniu przez Radę, programów operacyjnych;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Kultury i Dziedzictwa Narodowego: B. Zdrojewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej — kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. Nr 216, poz. 1595).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 249, poz. 1832, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 180, poz. 1112 oraz z 2009 r. Nr 201, poz. 1540."
+ }
+}

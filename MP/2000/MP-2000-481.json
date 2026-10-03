@@ -1,0 +1,71 @@
+{
+ "eli": "MP/2000/481",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 18 maja 2000 r. o zmianie postanowienia o nadaniu odznaczeń.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/481/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Rej. 74/99 MPM POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 maja 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie postanowienia o nadaniu odznaczeń."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450 i z 1999 r. Nr 101, poz. 1177) postanawia się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W postanowieniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 grudnia 1999 r. o nadaniu odznaczeń (Monitor Polski z 2000 r. Nr 11, poz. 208) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "poz. 9 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„9. Barnaś Józef s. Adama”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "poz. 10 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„10. Barnaś Olga c. Stanisława”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem ogłoszenia z mocą od dnia 22 grudnia 1999 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

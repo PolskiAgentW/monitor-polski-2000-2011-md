@@ -1,0 +1,87 @@
+{
+ "eli": "MP/2006/232",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 16 marca 2006 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/232/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 marca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. — Regulamin Senatu (M. P. z 2002 r. Nr 54, poz. 741, z 2004 r. Nr 15, poz. 232 i Nr 18, poz. 302 oraz z 2005 r. Nr 65, poz. 894, Nr 71, poz. 975 i Nr 84, poz. 1201) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "po art. 37 dodaje się art. 37a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 37a. Zawodowa działalność lobbingowa może być wykonywana na terenie Senatu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 60 po ust. 2 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. W posiedzeniach komisji, na których rozpatrywane są ustawy lub projekty ustaw, mogą uczestniczyć podmioty wykonujące zawodową działalność lobbingową. Podmioty te mają prawo, na zasadach określonych przez przewodniczącego komisji, przedstawiać oczekiwany przez nie sposób rozstrzygnięcia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 63 w ust. 3 dodaje się zdanie drugie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„W przypadku gdy sprawozdanie komisji dotyczy ustawy lub projektu ustawy, sprawozdawca informuje o działaniach podejmowanych w trakcie prac komisji przez podmioty wykonujące zawodową działalność lobbingową, wraz ze wskazaniem oczekiwanego przez nie sposobu rozstrzygnięcia oraz stanowiska komisji w tej sprawie.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do postępowań w sprawie ustaw lub projektów ustaw, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej uchwały, stosuje się przepisy uchwały, o której mowa w art. 1, w brzmieniu nadanym niniejszą uchwałą.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

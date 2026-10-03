@@ -1,0 +1,870 @@
+{
+ "eli": "MP/2007/754",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 20 września 2007 r. w sprawie wysokości stawek opłat za korzystanie ze środowiska na rok 2008",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/754/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek opłat za korzystanie ze środowiska na rok 2008"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 291 ust. 2 ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm.[^2]) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górne jednostkowe stawki opłat za korzystanie ze środowiska, zawarte w załączniku nr 1 do obwieszczenia; ———————",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowe stawki opłat za korzystanie ze środowiska, zawarte w załączniku nr 2 do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: J. Szyszko"
+  },
+  {
+   "type": "text",
+   "text": "¹⁾ Minister Środowiska kieruje działem administracji rządowej — środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 131, poz. 922 oraz z 2007 r. Nr 38, poz. 246). ²⁾ Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 169, poz. 1199, Nr 170, poz. 1217 i Nr 249, poz. 1832 oraz z 2007 r. Nr 21, poz. 124, Nr 75, poz. 493, Nr 88, poz. 587, Nr 124, poz. 859, Nr 147, poz. 1033, Nr 176, poz. 1238 i Nr 181, poz. 1286."
+  },
+  {
+   "type": "text",
+   "text": "Załączniki do obwieszczenia Ministra Środowiska z dnia 20 września 2007 r. (poz. 754)"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik nr 1"
+  },
+  {
+   "type": "text",
+   "text": "GÓRNE JEDNOSTKOWE STAWKI OPŁAT ZA KORZYSTANIE ZE ŚRODOWISKA NA ROK 2008"
+  },
+  {
+   "type": "text",
+   "text": "Lp. Przedmiot opłaty Górna jednostkowa stawka opłaty"
+  },
+  {
+   "type": "text",
+   "text": "1 2 3"
+  },
+  {
+   "type": "text",
+   "text": "1 Gazy lub pyły wprowadzane do powietrza 313,99 zł/kg"
+  },
+  {
+   "type": "text",
+   "text": "2 Substancje wprowadzane ze ściekami do wód lub do ziemi 201,30 zł/kg"
+  },
+  {
+   "type": "text",
+   "text": "3 Wody chłodnicze 23,00 zł/dam³"
+  },
+  {
+   "type": "text",
+   "text": "4 Umieszczenie odpadów na składowisku 230,02 zł/Mg"
+  },
+  {
+   "type": "text",
+   "text": "5 Pobór wody podziemnej 3,41 zł/m³"
+  },
+  {
+   "type": "text",
+   "text": "6 Pobór wody powierzchniowej śródlądowej 1,77 zł/m³"
+  },
+  {
+   "type": "text",
+   "text": "7 Powierzchnia, z której odprowadzane są ścieki, o których mo- 3,41 zł/m² wa w art. 3 pkt 38 lit. c ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska"
+  },
+  {
+   "type": "text",
+   "text": "8 Za każde rozpoczęte 100 kg przyrostu masy ryb innych niż ło- 22,01 zł sosiowate lub innych organizmów wodnych w ciągu cyklu produkcyjnego w obiektach chowu lub hodowli tych ryb lub tych organizmów, o ile zachodzą okoliczności, o których mowa w art. 3 pkt 38 lit. g ustawy z dnia 27 kwietnia 2001 r. — Prawo ochrony środowiska"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI OPŁAT ZA KORZYSTANIE ZE ŚRODOWISKA NA ROK 2008*"
+    },
+    {
+     "type": "text",
+     "text": "Tabela A"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za 1 kg substancji wprowadzanych ze ściekami do wód lub do ziemi, wyrażonych jako wskaźnik"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Wskaźnik Jednostkowa stawka opłaty w zł/kg"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Pięciodobowe biochemiczne zapotrzebowanie tlenu (BZT₅) 3,45"
+    },
+    {
+     "type": "text",
+     "text": "2 Chemiczne zapotrzebowanie tlenu oznaczane metodą dwu- 1,38 chromianową (ChZT-Cr)"
+    },
+    {
+     "type": "text",
+     "text": "3 Zawiesina ogólna 0,42"
+    },
+    {
+     "type": "text",
+     "text": "4 Suma chlorków i siarczanów (Cl+SO₄) 0,040"
+    },
+    {
+     "type": "text",
+     "text": "5 Suma chlorków i siarczanów (Cl+SO ) dla obszaru działania 0,0115 Regionalnego Zarządu Gospodarki Wodnej⁴ w Gdańsku"
+    },
+    {
+     "type": "text",
+     "text": "Tabela B"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za 1 kg substancji wprowadzanych ze ściekami do wód lub do ziemi"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Substancja Jednostkowa stawka opłaty w zł/kg"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Fenole lotne 36,80"
+    },
+    {
+     "type": "text",
+     "text": "2 Heksachlorocykloheksan (HCH), tetrachlorometan (czterochlo- 100,64 rek węgla — CCl ), pentachlorofenol (PCP), aldryna, dieldryna, endryna, izodryna,⁴ heksachlorobenzen (HCB), heksachlorobutadien (HCBD), trichlorometan (chloroform — CHCl ), 1,2-dichloroetan (EDC), trichloroetylen (TRI), tetrachloroetylen³ (nadchloroetylen — PER), trichlorobenzen (TCB), rtęć, kadm, cynk, miedź, nikiel, chrom, ołów, arsen, wanad i srebro"
+    },
+    {
+     "type": "text",
+     "text": "Tabela C"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za wprowadzanie do wód lub do ziemi 1 dam³ (1 000 m³) wód chłodniczych"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Wody chłodnicze Jednostkowa stawka opłaty w zł/dam³"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Temperatura wprowadzanej wody jest wyższa niż +26 °C, 0,55 a nie przekracza +32 °C"
+    },
+    {
+     "type": "text",
+     "text": "2 Temperatura wprowadzanej wody jest wyższa niż +32 °C, 1,10 a nie przekracza +35 °C"
+    },
+    {
+     "type": "text",
+     "text": "3 Temperatura wprowadzanej wody jest wyższa niż +35 °C 3,41 Tabela D"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za 1 m² powierzchni zanieczyszczonych o trwałej nawierzchni, z których są wprowadzane do wód lub do ziemi wody opadowe lub roztopowe, ujęte w otwarte lub zamknięte systemy kanalizacyjne, z wyjątkiem kanalizacji ogólnospławnej"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Typ powierzchni Jednostkowa stawka opłaty w zł/m²"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Powierzchnia terenów przemysłowych, składowych lub baz 0,23 transportowych"
+    },
+    {
+     "type": "text",
+     "text": "2 Powierzchnia portów, o których mowa w ustawie z dnia 0,057 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857 oraz z 2007 r. Nr 123, poz. 846 i Nr 176 poz. 1238), portów morskich i lotnisk"
+    },
+    {
+     "type": "text",
+     "text": "3 Powierzchnia dróg i parkingów o nawierzchni szczelnej, w tym 0,046 także położonych na terenach przemysłowych, składowych lub w bazach transportowych"
+    },
+    {
+     "type": "text",
+     "text": "4 Powierzchnia parkingów o nawierzchni nieszczelnej, o liczbie 0,069 miejsc parkingowych powyżej 500 samochodów, w tym także położonych na terenach przemysłowych, składowych lub w bazach transportowych"
+    },
+    {
+     "type": "text",
+     "text": "5 Powierzchnia dróg i parkingów o nawierzchni szczelnej poło- 0,034 żonych w miastach o gęstości zaludnienia przekraczającej 1300 osób/km²"
+    },
+    {
+     "type": "text",
+     "text": "Tabela E"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowa stawka opłaty za każde rozpoczęte 100 kg przyrostu masy ryb innych niż łososiowate albo innych organizmów wodnych"
+    },
+    {
+     "type": "text",
+     "text": "Przedmiot opłaty Jednostkowa stawka opłaty w zł"
+    },
+    {
+     "type": "text",
+     "text": "1 2"
+    },
+    {
+     "type": "text",
+     "text": "Każde rozpoczęte 100 kg przyrostu masy ryb innych niż łososiowate 0,220 albo innych organizmów wodnych w ciągu cyklu produkcyjnego w obiektach chowu lub hodowli tych ryb lub tych organizmów wodnych, jeżeli średnioroczny przyrost masy tych ryb lub tych organizmów w poszczególnych latach cyklu produkcyjnego przekracza 1 500 kg z 1 ha powierzchni użytkowej stawów rybnych tego obiektu w jednym roku danego cyklu Tabela F"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za pobór 1 m³ wody podziemnej i 1 m³ wody powierzchniowej śródlądowej"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Rodzaj pobranej wody Jednostkowa stawka opłaty w zł/m³"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Woda podziemna 0,093"
+    },
+    {
+     "type": "text",
+     "text": "Woda podziemna wykorzystana do zaopatrzenia ludności 0,055 w wodę przeznaczoną do spożycia lub na cele socjalno-bytowe"
+    },
+    {
+     "type": "text",
+     "text": "Woda podziemna wykorzystana na potrzeby produkcji, w któ- 0,079 rej woda wchodzi w skład albo bezpośredni kontakt z produktami żywnościowymi, farmaceutycznymi, lub na cele konfekcjonowania"
+    },
+    {
+     "type": "text",
+     "text": "2 Woda powierzchniowa śródlądowa 0,046"
+    },
+    {
+     "type": "text",
+     "text": "Woda powierzchniowa śródlądowa wykorzystana do zaopa- 0,033 trzenia ludności w wodę przeznaczoną do spożycia lub na cele socjalno-bytowe"
+    },
+    {
+     "type": "text",
+     "text": "Tabela G"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za gazy lub pyły wprowadzane do powietrza"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Rodzaje gazów lub pyłów Jednostkowa stawka w zł/kg"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Akrylonitryl (aerozol) 35,23"
+    },
+    {
+     "type": "text",
+     "text": "2 Aldehydy alifatyczne i ich pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "3 Aldehydy pierścieniowe, aromatyczne i ich pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "4 Alkohole alifatyczne i ich pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "5 Alkohole pierścieniowe, aromatyczne i ich pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "6 Aminy i ich pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "7 Amoniak 0,35"
+    },
+    {
+     "type": "text",
+     "text": "8 Arsen 308,10"
+    },
+    {
+     "type": "text",
+     "text": "9 Azbest 308,10"
+    },
+    {
+     "type": "text",
+     "text": "10 Benzen 7,04"
+    },
+    {
+     "type": "text",
+     "text": "11 Benzo/a/piren 308,10"
+    },
+    {
+     "type": "text",
+     "text": "12 Bizmut 14,68"
+    },
+    {
+     "type": "text",
+     "text": "13 Cer 110,04"
+    },
+    {
+     "type": "text",
+     "text": "14 Chlorek winylu (w fazie gazowej) 17,61 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "15 Chlorowcopochodne węglowodorów: CFC-11, CFC-12, CFC-13, 154,06 CFC-111, CFC-112, CFC-113, CFC-114, CFC-115, CFC-211, CFC-212, CFC-213, CFC-214, CFC-215, CFC-216, CFC-217"
+    },
+    {
+     "type": "text",
+     "text": "16 Chlorowcopochodne węglowodorów: związki typu HCFC 3,09"
+    },
+    {
+     "type": "text",
+     "text": "17 Chrom 44,02"
+    },
+    {
+     "type": "text",
+     "text": "18 Cyna 4,62"
+    },
+    {
+     "type": "text",
+     "text": "19 Cynk 4,62"
+    },
+    {
+     "type": "text",
+     "text": "20 Czterochlorek węgla 2,33"
+    },
+    {
+     "type": "text",
+     "text": "21 Dwusiarczek węgla 1,71"
+    },
+    {
+     "type": "text",
+     "text": "22 Dwutlenek siarki 0,43"
+    },
+    {
+     "type": "text",
+     "text": "23 Dwutlenek węgla (stawka w zł/Mg) 0,23"
+    },
+    {
+     "type": "text",
+     "text": "24 Etery i ich pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "25 Halony: 1211, 1301, 2402 154,06"
+    },
+    {
+     "type": "text",
+     "text": "26 Halony 1,03"
+    },
+    {
+     "type": "text",
+     "text": "27 Kadm 154,06"
+    },
+    {
+     "type": "text",
+     "text": "28 Ketony i ich pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "29 Kobalt 44,02"
+    },
+    {
+     "type": "text",
+     "text": "30 Kwasy nieorganiczne, ich sole i bezwodniki 1,03"
+    },
+    {
+     "type": "text",
+     "text": "31 Kwasy organiczne, ich związki i pochodne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "32 Mangan 17,61"
+    },
+    {
+     "type": "text",
+     "text": "33 Metan (stawka w zł/Mg) 0,23"
+    },
+    {
+     "type": "text",
+     "text": "34 Molibden 10,36"
+    },
+    {
+     "type": "text",
+     "text": "35 Nikiel 308,10"
+    },
+    {
+     "type": "text",
+     "text": "36 Oleje (mgła olejowa) 1,03"
+    },
+    {
+     "type": "text",
+     "text": "37 Ołów 35,23"
+    },
+    {
+     "type": "text",
+     "text": "38 Organiczne pochodne związków siarki 1,03"
+    },
+    {
+     "type": "text",
+     "text": "39 Pierwiastki metaliczne i ich związki 1,03"
+    },
+    {
+     "type": "text",
+     "text": "40 Pierwiastki niemetaliczne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "41 Polichlorodibenzo-p-dioksyny i polichlorodibenzofurany 308,10"
+    },
+    {
+     "type": "text",
+     "text": "42 Polichlorowane bifenyle 154,06"
+    },
+    {
+     "type": "text",
+     "text": "43 Pyły cementowo-wapiennicze i materiałów ogniotrwałych 0,29"
+    },
+    {
+     "type": "text",
+     "text": "44 Pyły krzemowe (powyżej 30 % wolnej krzemionki) 1,20"
+    },
+    {
+     "type": "text",
+     "text": "45 Pyły nawozów sztucznych 1,20"
+    },
+    {
+     "type": "text",
+     "text": "46 Pyły polimerów 0,47"
+    },
+    {
+     "type": "text",
+     "text": "47 Pyły środków powierzchniowo czynnych 1,20"
+    },
+    {
+     "type": "text",
+     "text": "48 Pyły węgla brunatnego 0,47 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "49 Pyły węglowo-grafitowe, sadza 1,20"
+    },
+    {
+     "type": "text",
+     "text": "50 Pyły ze spalania paliw 0,29"
+    },
+    {
+     "type": "text",
+     "text": "51 Pyły pozostałe 0,47"
+    },
+    {
+     "type": "text",
+     "text": "52 Rtęć 154,06"
+    },
+    {
+     "type": "text",
+     "text": "53 Sole niemetali 1,03"
+    },
+    {
+     "type": "text",
+     "text": "54 Substancje organiczne 5,16"
+    },
+    {
+     "type": "text",
+     "text": "55 Tlenek węgla 0,11"
+    },
+    {
+     "type": "text",
+     "text": "56 Tlenki azotu (w przeliczeniu na NO₂) 0,43"
+    },
+    {
+     "type": "text",
+     "text": "57 Tlenki niemetali 1,03"
+    },
+    {
+     "type": "text",
+     "text": "58 1,1,1-trójchloroetan 154,06"
+    },
+    {
+     "type": "text",
+     "text": "59 Węglowodory alifatyczne i ich pochodne 0,11"
+    },
+    {
+     "type": "text",
+     "text": "60 Węglowodory pierścieniowe, aromatyczne i ich pochodne 1,17"
+    },
+    {
+     "type": "text",
+     "text": "61 Związki azowe, azoksy, nitrowe i nitrozowe 1,03"
+    },
+    {
+     "type": "text",
+     "text": "62 Związki heterocykliczne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "63 Związki izocykliczne 1,03"
+    },
+    {
+     "type": "text",
+     "text": "Tabela H"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za gazy wprowadzane do powietrza powstające przy przeładunku benzyn silnikowych"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowa stawka w zł za gazy Lp. Rodzaj operacji technicznej wprowadzane do powietrza przy przeładunku jednostki benzyny silnikowej"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Napełnianie zbiorników z dachem stałym 4,81"
+    },
+    {
+     "type": "text",
+     "text": "2 Opróżnianie zbiorników z dachem pływającym 0,29"
+    },
+    {
+     "type": "text",
+     "text": "3 Napełnianie zbiorników podziemnych 2,56"
+    },
+    {
+     "type": "text",
+     "text": "4 Napełnianie zbiorników naziemnych w kontenerowych 2,56 stacjach paliw"
+    },
+    {
+     "type": "text",
+     "text": "5 Napełnianie cystern kolejowych 1,97"
+    },
+    {
+     "type": "text",
+     "text": "6 Napełnianie cystern samochodowych 1,39"
+    },
+    {
+     "type": "text",
+     "text": "7 Napełnianie zbiorników pojazdów 2,85 Tabela I"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za gazy lub pyły wprowadzane do powietrza z kotłów o nominalnej mocy cieplnej do 5 MW opalanych węglem kamiennym, koksem, drewnem, olejem lub paliwem gazowym, dla których nie jest wymagane pozwolenie na wprowadzanie gazów lub pyłów do powietrza albo pozwolenie zintegrowane"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowa stawka Nominalna moc cieplna za gazy lub pyły Lp. Rodzaje kotłów kotła w MW wprowadzane do powietrza z jednostki spalonego paliwa"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "I Kotły opalane węglem kamiennym"
+    },
+    {
+     "type": "text",
+     "text": "1 Kocioł z rusztem mechanicznym, z urządze- ≤ 3 14,38 zł/Mg niem odpylającym > 3 i ≤ 5 13,45 zł/Mg"
+    },
+    {
+     "type": "text",
+     "text": "2 Kocioł z rusztem mechanicznym, bez urzą- ≤ 5 22,28 zł/Mg dzenia odpylającego"
+    },
+    {
+     "type": "text",
+     "text": "3 Kocioł z rusztem stałym, z ciągiem natural- ≤ 5 24,96 zł/Mg nym"
+    },
+    {
+     "type": "text",
+     "text": "4 Kocioł z rusztem stałym, z ciągiem sztucz- ≤ 5 18,95 zł/Mg nym, z urządzeniem odpylającym"
+    },
+    {
+     "type": "text",
+     "text": "5 Kocioł z rusztem stałym, z ciągiem sztucz- ≤ 5 27,88 zł/Mg nym, bez urządzenia odpylającego"
+    },
+    {
+     "type": "text",
+     "text": "II Kotły opalane koksem"
+    },
+    {
+     "type": "text",
+     "text": "1 Kocioł z rusztem stałym, z ciągiem natural- ≤ 5 19,13 zł/Mg nym"
+    },
+    {
+     "type": "text",
+     "text": "2 Kocioł z rusztem stałym, z ciągiem sztucz- ≤ 5 15,33 zł/Mg nym, z urządzeniem odpylającym"
+    },
+    {
+     "type": "text",
+     "text": "3 Kocioł z rusztem stałym, z ciągiem sztucznym, ≤ 5 22,00 zł/Mg bez urządzenia odpylającego"
+    },
+    {
+     "type": "text",
+     "text": "III Kotły opalane drewnem ≤ 5 3,67 zł/Mg"
+    },
+    {
+     "type": "text",
+     "text": "IV Kotły opalane olejem"
+    },
+    {
+     "type": "text",
+     "text": "1 Olej lekki (zawartość siarki nie większa ≤ 5 7,61 zł/Mg niż 0,5 %)"
+    },
+    {
+     "type": "text",
+     "text": "2 Olej opałowy (zawartość siarki nie większa ≤ 5 9,35 zł/Mg niż 1 %)"
+    },
+    {
+     "type": "text",
+     "text": "3 Olej opałowy (zawartość siarki od 1 % ≤ 5 14,81 zł/Mg do 1,5 %)"
+    },
+    {
+     "type": "text",
+     "text": "4 Olej napędowy ≤ 5 7,33 zł/Mg 1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "V Kotły opalane paliwem gazowym"
+    },
+    {
+     "type": "text",
+     "text": "1 Gaz ziemny wysokometanowy ≤ 1,4 1087,30 zł/10⁶ m³"
+    },
+    {
+     "type": "text",
+     "text": "> 1,4 i ≤ 5 1358,51 zł/10⁶ m³"
+    },
+    {
+     "type": "text",
+     "text": "2 Gaz ziemny zaazotowany ≤ 1,4 760,25 zł/10⁶ m³"
+    },
+    {
+     "type": "text",
+     "text": "> 1,4 i ≤ 5 952,16 zł/10⁶ m³"
+    },
+    {
+     "type": "text",
+     "text": "3 Gaz płynny propan-butan ≤ 5 1,47 zł/Mg"
+    },
+    {
+     "type": "text",
+     "text": "Tabela J"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za gazy lub pyły wprowadzane do powietrza z procesów spalania paliw w silnikach spalinowych"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowa stawka w zł za gazy wprowadzone do powietrza z jednostki spalonego paliwa Lp. Rodzaj silnika spalinowego benzyna gaz płynny olej napędowy silnikowa propan-butan"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "1 Silniki w samochodach osobowych zareje- 58,24 37,96 16,47 strowanych po raz pierwszy do dnia 30.06.1995 r."
+    },
+    {
+     "type": "text",
+     "text": "2 Silniki w samochodach osobowych zareje- 13,34 16,33 9,31 strowanych po raz pierwszy po dniu 30.06.1995 r."
+    },
+    {
+     "type": "text",
+     "text": "3 Silniki w samochodach innych niż osobo- 56,91 37,96 18,95 we o dopuszczalnej masie całkowitej do 3,5 Mg zarejestrowanych po raz pierwszy do dnia 30.06.1995 r."
+    },
+    {
+     "type": "text",
+     "text": "4 Silniki w samochodach innych niż osobo- 14,57 18,94 10,04 we o dopuszczalnej masie całkowitej do 3,5 Mg zarejestrowanych po raz pierwszy po dniu 30.06.1995 r."
+    },
+    {
+     "type": "text",
+     "text": "5 Silniki w pojazdach samochodowych o do- — — 16,11 puszczalnej masie całkowitej powyżej 3,5 Mg z dokumentem potwierdzającym spełnianie wymagań EURO 1"
+    },
+    {
+     "type": "text",
+     "text": "6 Silniki w pojazdach samochodowych o do- — — 14,47 puszczalnej masie całkowitej powyżej 3,5 Mg z dokumentem potwierdzającym spełnianie wymagań EURO 2"
+    },
+    {
+     "type": "text",
+     "text": "7 Silniki w pojazdach samochodowych o do- — — 11,27 puszczalnej masie całkowitej powyżej 3,5 Mg z dokumentem potwierdzającym spełnianie wymagań EURO 3 1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "8 Silniki w pojazdach samochodowych o do- 77,79 — 40,81 puszczalnej masie całkowitej powyżej 3,5 Mg bez dokumentu potwierdzającego spełnianie wymagań EURO 1, 2 lub 3, z wyjątkiem autobusów"
+    },
+    {
+     "type": "text",
+     "text": "9 Silniki w autobusach bez dokumentu — — 46,58 potwierdzającego spełnianie wymagań EURO 1, 2 lub 3"
+    },
+    {
+     "type": "text",
+     "text": "10 Silniki w ciągnikach rolniczych — — 30,82"
+    },
+    {
+     "type": "text",
+     "text": "11 Silniki w maszynach roboczych 202,99 — 36,01"
+    },
+    {
+     "type": "text",
+     "text": "12 Silniki w pojazdach szynowych — — 39,34"
+    },
+    {
+     "type": "text",
+     "text": "Tabela K"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowe stawki opłat za gazy lub pyły wprowadzane do powietrza z chowu lub hodowli drobiu"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowa stawka za gazy lub pyły wprowadzone Lp. System chowu lub hodowli drobiu do powietrza w ciągu roku przypadająca na sto stanowisk dla drobiu (zł/100 stanowisk i rok)"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "I Stada reprodukcyjne"
+    },
+    {
+     "type": "text",
+     "text": "1 System bezklatkowy, ściółkowy kury nieśne 12,89"
+    },
+    {
+     "type": "text",
+     "text": "kury mięsne 19,86"
+    },
+    {
+     "type": "text",
+     "text": "2 System bezklatkowy, ściółkowy, z mechanicznym kury nieśne 8,55 podsuszaniem odchodów"
+    },
+    {
+     "type": "text",
+     "text": "kury mięsne 14,29"
+    },
+    {
+     "type": "text",
+     "text": "II Kury nieśne"
+    },
+    {
+     "type": "text",
+     "text": "1 System klatkowy, z otwartym zbiornikiem na od- zbiornik 9,65 chody nienapowietrzany"
+    },
+    {
+     "type": "text",
+     "text": "zbiornik 14,27 napowietrzany"
+    },
+    {
+     "type": "text",
+     "text": "2 System klatkowy, z zamkniętym zbiornikiem na odchody, z podsuszaniem 7,24 odchodów"
+    },
+    {
+     "type": "text",
+     "text": "3 System klatkowy, z taśmowym usuwaniem odchodów 5,73"
+    },
+    {
+     "type": "text",
+     "text": "4 System bezklatkowy, ściółkowy 13,60"
+    },
+    {
+     "type": "text",
+     "text": "5 System bezklatkowy, ściółkowy, z mechanicznym podsuszaniem odchodów 8,55 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "III Brojlery kurze"
+    },
+    {
+     "type": "text",
+     "text": "1 System bezklatkowy, ściółkowy 9,97"
+    },
+    {
+     "type": "text",
+     "text": "2 System bezklatkowy, ściółkowy, z mechanicznym podsuszaniem odchodów 4,64"
+    },
+    {
+     "type": "text",
+     "text": "3 System klatkowy, z mechanicznym podsuszaniem odchodów 3,99"
+    },
+    {
+     "type": "text",
+     "text": "IV Kurczęta (odchowanie)"
+    },
+    {
+     "type": "text",
+     "text": "1 System bezklatkowy, ściółkowy 12,28"
+    },
+    {
+     "type": "text",
+     "text": "2 System bezklatkowy, ściółkowy, z mechanicznym podsuszaniem odchodów 6,40"
+    },
+    {
+     "type": "text",
+     "text": "3 System klatkowy, z mechanicznym podsuszaniem odchodów 4,91"
+    },
+    {
+     "type": "text",
+     "text": "V Indyki 31,06 System bezklatkowy, ściółkowy"
+    },
+    {
+     "type": "text",
+     "text": "VI Perlice 33,27 System bezklatkowy, ściółkowy"
+    },
+    {
+     "type": "text",
+     "text": "VII Gęsi, kaczki 16,02 System bezklatkowy, ściółkowy"
+    },
+    {
+     "type": "text",
+     "text": "* Jednostkowe stawki opłat za umieszczanie odpadów na składowisku obowiązujące w roku 2008 są określone w załączniku nr 2 do rozporządzenia Rady Ministrów z dnia 20 grudnia 2005 r. w sprawie opłat za korzystanie ze środowiska (Dz. U. Nr 260, poz. 2176 oraz z 2007 r. Nr 106, poz. 723)."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,64 @@
+{
+ "eli": "MP/2002/161",
+ "title": "Komunikat Nr 2/2002/DOKE Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 12 lutego 2002 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD).",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/161/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT Nr 2/2002/DOKE PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 lutego 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych — stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Wytycznych dla Oficjalnie Wspieranych Kredytów Eksportowych z dnia 1 kwietnia 1978 r.; minimalne stopy wyznaczane są przez stopy CIRR (stopy referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "waluta kraju okres kredytowania dolar amerykański ≤ 5 lat > 5 do 8,5 lat >8,5 lat dolar australijski dolar kanadyjski ≤ 5 lat > 5 do 8,5 lat > 8,5 lat dolar nowozelandzki euro ≤5 lat > 5 do 8,5 lat > 8,5 lat forint węgierski frank szwajcarski funt brytyjski ≤5 lat > 5 do 8,5 lat > 8,5 lat jen japoński korona czeska korona duńska ≤5 lat > 5 do 8,5 lat > 8,5 lat korona norweska korona szwedzka ≤5 lat > 5 do 8,5 lat > 8,5 lat won koreański"
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stopy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników ww. Porozumienia OECD; stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 lutego 2002 r. do dnia 14 marca 2002 r. dla niżej wymienionych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "text",
+     "text": "symbol waluty stopa CIRR USD 4,56 5,34 5,79 AUD 6,69 CAD 5,67 6,58 7,02 NZD 7,41 EUR 5,10 5,48 5,71 HUF 8,43 CHF 4,23 GBP 5,82 5,97 5,99 JPY 1,80* CZK 5,76 DKK 5,58 5,86 6,02 NOK 7,32 SEK 5,77 6,01 6,16 KRW 7,99"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: R. Pazura"
+  },
+  {
+   "type": "text",
+   "text": "* Wysokość obowiązującej stopy CIRR dla jena japońskiego od dnia 18 lutego 2002 r. ulega zmianie i wynosi 2,00."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

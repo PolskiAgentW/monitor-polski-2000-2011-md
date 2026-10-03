@@ -1,0 +1,358 @@
+{
+ "eli": "MP/2004/654",
+ "title": "Zarządzenie Nr 82 Prezesa Rady Ministrów z dnia 1 września 2004 r. w sprawie nadania statutu Ministerstwu Skarbu Państwa",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/654/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 82 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 września 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Skarbu Państwa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199 i Nr 80, poz. 717) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Skarbu Państwa nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 59 Prezesa Rady Ministrów z dnia 17 maja 2002 r. w sprawie nadania statutu Ministerstwu Skarbu Państwa (M. P. Nr 20, poz. 362).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Belka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 82 Prezesa Rady Ministrów z dnia 1 września 2004 r. (poz. 654)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA SKARBU PAŃSTWA"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Skarbu Państwa, zwane dalej „Ministerstwem”, zapewnia obsługę Ministra Skarbu Państwa, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 11 czerwca 2004 r. w sprawie szczegółowego zakresu działania Ministra Skarbu Państwa (Dz. U. Nr 134, poz. 1434), do spraw Skarbu Państwa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/pkt_1/lit_a",
+         "text": "Departament Nadzoru Właścicielskiego I,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/pkt_1/lit_b",
+         "text": "Departament Nadzoru Właścicielskiego II,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/pkt_1/lit_c",
+         "text": "Departament Nadzoru Właścicielskiego III,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/pkt_1/lit_d",
+         "text": "Departament Instytucji Finansowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/pkt_1/lit_e",
+         "text": "Departament Spraw Obronnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/pkt_1/lit_f",
+         "text": "Departament Prywatyzacji I,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/pkt_1/lit_g",
+         "text": "Departament Prywatyzacji II,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/pkt_1/lit_h",
+         "text": "Departament Ewidencji i Gospodarki Mieniem Skarbu Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/pkt_1/lit_i",
+         "text": "Departament Reprywatyzacji i Udostępniania Akcji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/pkt_1/lit_j",
+         "text": "Departament Analiz i Prognoz,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/pkt_1/lit_k",
+         "text": "Departament Integracji Europejskiej i Współpracy z Zagranicą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/pkt_1/lit_l",
+         "text": "Departament Zastępstwa Procesowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_2/pkt_1/lit_m",
+         "text": "Departament Prawny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_2/pkt_1/lit_n",
+         "text": "Departament Kontroli, Skarg i Wniosków,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "par_2/pkt_1/lit_o",
+         "text": "Departament Budżetu i Finansów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "p",
+         "path": "par_2/pkt_1/lit_p",
+         "text": "Gabinet Polityczny Ministra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "q",
+         "path": "par_2/pkt_1/lit_q",
+         "text": "Biuro Ministra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "r",
+         "path": "par_2/pkt_1/lit_r",
+         "text": "Biuro Informatyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "s",
+         "path": "par_2/pkt_1/lit_s",
+         "text": "Biuro Kadr i Szkolenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "t",
+         "path": "par_2/pkt_1/lit_t",
+         "text": "Biuro Komunikacji Społecznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "u",
+         "path": "par_2/pkt_1/lit_u",
+         "text": "Biuro do Spraw Ochrony Informacji Niejawnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "v",
+         "path": "par_2/pkt_1/lit_v",
+         "text": "Biuro do Spraw Pomocy Publicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "w",
+         "path": "par_2/pkt_1/lit_w",
+         "text": "Biuro do Spraw Zamówień Publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "x",
+         "path": "par_2/pkt_1/lit_x",
+         "text": "Samodzielny Wydział Audytu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "y",
+         "path": "par_2/pkt_1/lit_y",
+         "text": "Samodzielny Wydział Koordynacji Delegatur;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "delegatury terenowe ministra właściwego do spraw Skarbu Państwa:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/pkt_2/lit_a",
+         "text": "w Białymstoku dla województwa podlaskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/pkt_2/lit_b",
+         "text": "w Ciechanowie dla województwa mazowieckiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/pkt_2/lit_c",
+         "text": "w Gdańsku dla województw pomorskiego i warmińsko-mazurskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/pkt_2/lit_d",
+         "text": "w Katowicach dla województwa śląskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/pkt_2/lit_e",
+         "text": "w Kielcach dla województwa świętokrzyskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/pkt_2/lit_f",
+         "text": "w Krakowie dla województwa małopolskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/pkt_2/lit_g",
+         "text": "w Lublinie dla województwa lubelskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/pkt_2/lit_h",
+         "text": "w Łodzi dla województwa łódzkiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/pkt_2/lit_i",
+         "text": "w Poznaniu dla województw wielkopolskiego i lubuskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/pkt_2/lit_j",
+         "text": "w Rzeszowie dla województwa podkarpackiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/pkt_2/lit_k",
+         "text": "w Szczecinie dla województwa zachodniopomorskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/pkt_2/lit_l",
+         "text": "w Toruniu dla województwa kujawsko-pomorskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_2/pkt_2/lit_m",
+         "text": "we Wrocławiu dla województw dolnośląskiego i opolskiego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

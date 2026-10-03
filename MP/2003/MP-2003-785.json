@@ -1,0 +1,101 @@
+{
+ "eli": "MP/2003/785",
+ "title": "Komunikat Państwowej Komisji Wyborczej z dnia 21 października 2003 r. o przyjętych informacjach finansowych o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach przez partie polityczne w 2002 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/785/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 października 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "o przyjętych informacjach finansowych o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach przez partie polityczne w 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 34 ust. 5 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857 i Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089 oraz z 2003 r. Nr 57, poz. 507) Państwowa Komisja Wyborcza informuje, że zbadała informacje o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach 10 partii politycznych i, zgodnie z art. 34a ust. 1 ustawy, postanowiła:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "przyjąć bez zastrzeżeń informacje 8 partii politycznych, wymienionych w załączniku nr 1 do komunikatu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "przyjąć informacje ze wskazaniem uchybień 2 partii politycznych, wymienionych w załączniku nr 2 do komunikatu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    },
+    {
+     "type": "text",
+     "text": "Załączniki do komunikatu Państwowej Komisji Wyborczej z dnia 21 października 2003 r. (poz. 785)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ PARTII POLITYCZNYCH, KTÓRYCH INFORMACJE FINANSOWE O OTRZYMANEJ SUBWENCJI ORAZ O PONIESIONYCH Z SUBWENCJI WYDATKACH ZOSTAŁY PRZYJĘTE BEZ ZASTRZEŻEŃ"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "EwP 2 Stronnictwo Demokratyczne 5. EwP 53 Liga Polskich Rodzin",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "EwP 12 Unia Wolności 6. EwP 87 Sojusz Lewicy Demokratycznej",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "EwP 34 Polskie Stronnictwo Ludowe 7. EwP 88 Samoobrona Rzeczypospolitej Polskiej",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "EwP 49 Krajowa Partia Emerytów i Rencistów 8. EwP 124 Prawo i Sprawiedliwość",
+   "children": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 2"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ PARTII POLITYCZNYCH, KTÓRYCH INFORMACJE FINANSOWE O OTRZYMANEJ SUBWENCJI ORAZ O PONIESIONYCH Z SUBWENCJI WYDATKACH ZOSTAŁY PRZYJĘTE ZE WSKAZANIEM UCHYBIEŃ"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "EwP 60 Partia Ludowo-Demokratyczna 2. EwP 62 Unia Pracy",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

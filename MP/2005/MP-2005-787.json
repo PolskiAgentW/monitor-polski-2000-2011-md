@@ -1,0 +1,51 @@
+{
+ "eli": "MP/2005/787",
+ "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 23 września 2005 r. zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/787/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA ZARZĄDU NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 września 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Zarządu Narodowego Banku Polskiego z dnia 10 kwietnia 1998 r. w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M. P. Nr 12, poz. 203 oraz z 2001 r. Nr 7, poz. 116 i Nr 35, poz. 568) w § 23 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„2a) członkowie Rady Polityki Pieniężnej, w zakresie dotyczącym projektów uchwał i innych materiałów, o których mowa w § 15 ust. 1,”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: L. Balcerowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

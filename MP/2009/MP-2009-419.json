@@ -1,0 +1,118 @@
+{
+ "eli": "MP/2009/419",
+ "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 27 kwietnia 2009 r. w sprawie zmiany Szczegółowego opisu osi priorytetowych dla Programu Operacyjnego Rozwój Polski Wschodniej 2007-2013",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/419/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT MINISTRA ROZWOJU REGIONALNEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 kwietnia 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Szczegółowego opisu osi priorytetowych dla Programu Operacyjnego Rozwój Polski Wschodniej 2007—2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ust. 3 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658, z 2007 r. Nr 140, poz. 984, z 2008 r. Nr 216, poz. 1370 oraz z 2009 r. Nr 19, poz. 100) ogłasza się, co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zmieniona treść Szczegółowego opisu osi priorytetowych Programu Operacyjnego Rozwój Polski Wschodniej 2007—2013 została zamieszczona na stronach internetowych administrowanych przez Ministerstwo Rozwoju Regionalnego: www.mrr.gov.pl w zakładce Programy Operacyjne na lata 2007—2013 — Rozwój Polski Wschodniej oraz www.polskawschodnia.gov.pl w zakładce Dokumenty i Wytyczne — Dokumenty Programowe;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "zmienioną treść Szczegółowego opisu osi priorytetowych Programu Operacyjnego Rozwój Polski Wschodniej 2007—2013 stosuje się od dnia ogłoszenia komunikatu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "zmiany wprowadzone do Szczegółowego opisu osi priorytetowych Programu Operacyjnego Rozwój Polski Wschodniej 2007—2013 obejmują:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "część ogólną dokumentu, w której:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— zaktualizowano opis systemu wyboru projektów,"
+      },
+      {
+       "type": "text",
+       "text": "— uaktualniono dane dotyczące instytucji uczestniczących w realizacji PO RPW oraz wykaz dokumentów służących prawidłowej realizacji PO RPW,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "działania:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— I.3, w którym dodano nazwę rozporządzenia — programu pomocowego,"
+      },
+      {
+       "type": "text",
+       "text": "— I.4 — komponent promocja, w którym doprecyzowano typy beneficjentów i grupy docelowe oraz dodano nazwę rozporządzenia, stanowiącego w części program pomocowy,"
+      },
+      {
+       "type": "text",
+       "text": "— I.4 — komponent współpraca, w którym doprecyzowano przykładowe rodzaje projektów, typy projektów oraz grupy docelowe,"
+      },
+      {
+       "type": "text",
+       "text": "— III.2, w którym zaktualizowano typy beneficjentów oraz dodano nazwę rozporządzenia — programu pomocowego,"
+      },
+      {
+       "type": "text",
+       "text": "— IV.1, w którym zaktualizowano opis działania,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "załączniki:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— załącznik 4, w którym zaktualizowano indykatywną listę projektów indywidualnych,"
+      },
+      {
+       "type": "text",
+       "text": "— załącznik 5, w którym uaktualniono zalecenia dla beneficjentów w zakresie ochrony środowiska i zrównoważonego rozwoju,"
+      },
+      {
+       "type": "text",
+       "text": "— załącznik 7, w którym uaktualniono opis procedury oceny wniosków o dofinansowanie."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju Regionalnego: E. Bieńkowska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658, z 2007 r. Nr 140, poz. 984, z 2008 r. Nr 216, poz. 1370 oraz z 2009 r. Nr 19, poz. 100) minister właściwy do spraw rozwoju regionalnego jest Instytucją Zarządzającą Programem Operacyjnym Rozwój Polski Wschodniej 2007—2013. Minister Rozwoju Regionalnego kieruje działem administracji rządowej — rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju Regionalnego (Dz. U. Nr 216, poz. 1600)."
+ }
+}

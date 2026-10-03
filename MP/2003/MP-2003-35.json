@@ -1,0 +1,173 @@
+{
+ "eli": "MP/2003/35",
+ "title": "Komunikat Nr 1/2003/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 13 stycznia 2003 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/35/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT Nr 1/2003/(DOKE) PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 stycznia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych — stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. Nr 73, poz. 762) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Wytycznych dla oficjalnie wspieranych kredytów eksportowych z dnia 1 kwietnia 1978 r.; minimalne stopy wyznaczane są przez stopy CIRR (stopy referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stopy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników ww. Porozumienia OECD;",
+   "children": [
+    {
+     "type": "text",
+     "text": "Waluta kraju Okres spłaty"
+    },
+    {
+     "type": "text",
+     "text": "dolar amerykański ≤5 lat > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "dolar australijski"
+    },
+    {
+     "type": "text",
+     "text": "dolar kanadyjski ≤5 lat > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "dolar nowozelandzki"
+    },
+    {
+     "type": "text",
+     "text": "euro ≤5 lat > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "forint węgierski"
+    },
+    {
+     "type": "text",
+     "text": "frank szwajcarski"
+    },
+    {
+     "type": "text",
+     "text": "funt brytyjski ≤5 lat > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "jen japoński ≤ 5 lat > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "korona czeska"
+    },
+    {
+     "type": "text",
+     "text": "korona duńska ≤ 5 lat > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "korona norweska"
+    },
+    {
+     "type": "text",
+     "text": "korona szwedzka ≤ 5 lat > 5 do 8,5 lat > 8,5 lat"
+    },
+    {
+     "type": "text",
+     "text": "won koreański stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 stycznia 2003 r. do dnia 14 lutego 2003 r. dla niżej wymienionych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "text",
+     "text": "Symbol waluty Stopa CIRR"
+    },
+    {
+     "type": "text",
+     "text": "USD 3,23 4,03 4,63"
+    },
+    {
+     "type": "text",
+     "text": "AUD 5,79"
+    },
+    {
+     "type": "text",
+     "text": "CAD 4,65 5,17 5,57"
+    },
+    {
+     "type": "text",
+     "text": "NZD 6,80"
+    },
+    {
+     "type": "text",
+     "text": "EUR 4,16 4,65 5,02"
+    },
+    {
+     "type": "text",
+     "text": "HUF 8,19"
+    },
+    {
+     "type": "text",
+     "text": "CHF 2,55"
+    },
+    {
+     "type": "text",
+     "text": "GBP 5,15 5,37 5,49"
+    },
+    {
+     "type": "text",
+     "text": "JPY 1,15 1,31 1,55"
+    },
+    {
+     "type": "text",
+     "text": "CZK 4,02"
+    },
+    {
+     "type": "text",
+     "text": "DKK 4,32 4,73 5,06"
+    },
+    {
+     "type": "text",
+     "text": "NOK 6,50"
+    },
+    {
+     "type": "text",
+     "text": "SEK 5,00 5,39 5,59"
+    },
+    {
+     "type": "text",
+     "text": "KRW 6,73"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: W. Koziński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

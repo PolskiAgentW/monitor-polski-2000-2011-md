@@ -1,0 +1,70 @@
+{
+ "eli": "MP/2009/1018",
+ "title": "Uchwała Nr 226 Rady Ministrów z dnia 10 grudnia 2009 r. zmieniająca uchwałę w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Świętokrzyskiego na lata 2007-2013",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/1018/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 226 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 grudnia 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Świętokrzyskiego na lata 2007—2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712 i Nr 157, poz. 1241) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 83 Rady Ministrów z dnia 10 czerwca 2009 r. w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Świętokrzyskiego na lata 2007—2013 (M. P. Nr 38, poz. 578) w § 2:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a. Na realizację RPO przeznacza się inne niż określone w ust. 1, niepochodzące z EFRR, środki z budżetu państwa w kwocie 3 107 766,92 zł.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Środki te stanowią wkład w wysokości 15 % wartości wydatków kwalifikowalnych w ramach wprowadzonych do RPO projektów: „Wyposażenie Szpitala Powiatowego w Opatowie” w kwocie 1 241 998,50 zł oraz „Wyposażenie Szpitala Miejskiego w Starachowicach” w kwocie 1 865 768,42 zł.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w ust. 2 po wyrazach „o których mowa w ust. 1” dodaje się wyrazy „i 1a”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

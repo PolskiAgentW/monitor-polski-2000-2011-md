@@ -1,0 +1,259 @@
+{
+ "eli": "MP/2002/396",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 28 maja 2002 r. w sprawie wykazu prac uznawanych za prace laboratoryjne i analityczne, w których mogą być stosowane poszczególne substancje kontrolowane, oraz wymagań dotyczących wprowadzania do obrotu krajowego substancji kontrolowanych używanych do celów laboratoryjnych i analitycznych.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/396/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 maja 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu prac uznawanych za prace laboratoryjne i analityczne, w których mogą być stosowane poszczególne substancje kontrolowane, oraz wymagań dotyczących wprowadzania do obrotu krajowego substancji kontrolowanych używanych do celów laboratoryjnych i analitycznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ustawy z dnia 2 marca 2001 r. o postępowaniu z substancjami zubożającymi warstwę ozonową (Dz. U. Nr 52, poz. 537 i Nr 100, poz. 1085) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "wykaz prac uznawanych za prace laboratoryjne i analityczne, w których mogą być stosowane poszczególne substancje kontrolowane, stanowiący załącznik nr 1 do obwieszczenia,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wymagania dotyczące wprowadzania do obrotu krajowego substancji kontrolowanych używanych do celów laboratoryjnych i analitycznych, stanowiące załącznik nr 2 do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: J. Piechota"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Gospodarki z dnia 28 maja 2002 r. (poz. 396) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ PRAC UZNAWANYCH ZA PRACE LABORATORYJNE I ANALITYCZNE, W KTÓRYCH MOGĄ BYĆ STOSOWANE SUBSTANCJE KONTROLOWANE WYMIENIONE W ZAŁĄCZNIKACH Nr 1, 2 I 4 DO USTAWY O POSTĘPOWANIU Z SUBSTANCJAMI ZUBOŻAJĄCYMI WARSTWĘ OZONOWĄ"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Badania naukowe obejmujące substancje chemiczne, w szczególności produkty lecznicze i biobójcze, środki ochrony roślin, zamienniki CFCs i HCFCs, wykorzystujące rozpuszczalniki lub substraty w reakcjach chemicznych, w szczególności w reakcjach: Dielsa-Adlera, Friedela-Craftsa, utlenianie RuO₃, bromowania grupy allilowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Prace analityczne, w tym analityczna kontrola jakości, wykorzystujące odczynniki chemiczne dla monitorowania ODS, oznaczania lotnych związków organicznych, kalibracji sprzętu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Prace analityczne wykorzystujące substancje niebezpieczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Prace analityczno-badawcze dotyczące wytrzymałości połączeń klejowych oraz przeprowadzania testu oddychania filtrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Chemiczne procesy ekstrakcji wykorzystywane do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "oznaczania substancji biologicznie czynnych środków ochrony roślin i metali ciężkich, w szczególności w żywności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "analizy mgły olejowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "oznaczania barwników i substancji dodatkowych do żywności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "oznaczania substancji ropopochodnych w glebie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Prace wykorzystujące rozcieńczalniki do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "oznaczania cynku, miedzi, kadmu i innych metali ciężkich w roślinach, żywności i glebie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "mikrochemicznego oznaczania masy cząsteczkowej lub zawartości tlenu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "pomiarów czystości narkotyków i oznaczanie ich pozostałości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Prace wykorzystujące nośniki obojętne stosowane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "do miareczkowania dla oznaczania: cholesterolu w jajach, chemicznej charakterystyki narkotyków, liczby jodowej, w szczególności w olejach i produktach chemicznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "w aparaturze analitycznej do spektroskopii w podczerwieni i ultrafiolecie, magnetycznego rezonansu jądrowego, fluorescencji, chromatografii wysokociśnieniowej cieczowej, gazowej, cienkowarstwowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Prace analityczne wykorzystujące znaczniki stosowane w inżynierii sanitarnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Inne prace analityczno-laboratoryjne, w tym testowanie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_9/pkt_1",
+       "text": "czynników pomocniczych w badaniach materiałowych, w szczególności w testach zmęczeniowych metali,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "środków do wydzielania zanieczyszczeń z magazynowanych produktów żywnościowych, w tym zanieczyszczeń szkodnikami i ich odchodami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Zastosowanie substancji kontrolowanych do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "celów biochemicznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "rozwoju metod laboratoryjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "preparatyki próbek przy użyciu rozpuszczalników.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Załącznik nr 2"
+        },
+        {
+         "type": "text",
+         "text": "WYMAGANIA DOTYCZĄCE WPROWADZANIA DO OBROTU KRAJOWEGO SUBSTANCJI KONTROLOWANYCH UŻYWANYCH DO CELÓW LABORATORYJNYCH I ANALITYCZNYCH"
+        },
+        {
+         "type": "text",
+         "text": "Substancje kontrolowane wymienione w załącznikach 1, 2 i 4 do ustawy o postępowaniu z substancjami zubożającymi warstwę ozonową używane do celów laboratoryjnych i analitycznych mogą być wprowadzone do obrotu krajowego, jeśli spełnione zostaną łącznie następujące warunki:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "posiadają stopień czystości w odniesieniu do: tetrachlorku węgla (czystość odczynnikowa) na poziomie minimum 99,5%, 1,1,1-trichloroetanu na poziomie minimum 99,0%, CFC-11 na poziomie minimum 99,5%, CFC-12 na poziomie minimum 99,5%, CFC-13 na poziomie minimum 99,5%, CFC-113 na poziomie minimum 99,5%, CFC-114 na poziomie minimum 99,5%, innych substancji kontrolowanych, których temperatura wrzenia jest wyższa niż 20°C na poziomie minimum 99,5%, innych substancji kontrolowanych, których temperatura wrzenia jest niższa niż 20°C na poziomie minimum 99,0%,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "są przechowywane i transportowane wyłącznie w pojemnikach wielokrotnego użytku lub butlach wysokociśnieniowych o pojemności mniejszej niż trzy litry bądź w szklanych ampułkach o pojemności 10 ml lub mniejszych, zgodnie z przepisami dotyczącymi przewozów materiałów niebezpiecznych obowiązujących w rodzaju środków, którymi będą wykonywane.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Substancje kontrolowane wykorzystywane dla tego rodzaju celów mogą występować samodzielnie bądź w mieszaninie między sobą lub z innymi chemikaliami."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

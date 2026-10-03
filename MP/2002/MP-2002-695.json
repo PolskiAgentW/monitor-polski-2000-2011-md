@@ -1,0 +1,472 @@
+{
+ "eli": "MP/2002/695",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 7 października 2002 r. w sprawie ustalenia wzorów informacji o sposobie głosowania w wyborach do rad gmin, rad powiatów, sejmików województw, Rady miasta stołecznego Warszawy i rad dzielnic w m.st. Warszawie oraz w wyborach wójtów, burmistrzów i prezydentów miast, zarządzonych na dzień 27 października 2002 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/695/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 października 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów informacji o sposobie głosowania w wyborach do rad gmin, rad powiatów, sejmików województw, Rady miasta stołecznego Warszawy i rad dzielnic w m.st. Warszawie oraz w wyborach wójtów, burmistrzów i prezydentów miast, zarządzonych na dzień 27 października 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 48 ust. 3 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 1998 r. Nr 95, poz. 602 i Nr 160, poz. 1060, z 2001 r. Nr 45, poz. 497 i Nr 89, poz. 971 oraz z 2002 r. Nr 23, poz. 220, Nr 68, poz. 632, Nr 113, poz. 984 i Nr 127, poz. 1089), art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2002 r. Nr 41, poz. 361 i Nr 127, poz. 1087) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 127, poz. 1089) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się wzory informacji o sposobie głosowania w wyborach do rad gmin, rad powiatów, sejmików województw, Rady m.st. Warszawy i rad dzielnic w m.st. Warszawie oraz w wyborach wójtów, burmistrzów i prezydentów miast, zarządzonych na dzień 27 października 2002 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Informację sporządza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "w gminach liczących do 20 tys. mieszkańców — według załącznika nr 1 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "w gminach liczących powyżej 20 tys. mieszkańców — według załącznika nr 2 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "w miastach na prawach powiatu — według załącznika nr 3 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "w mieście stołecznym Warszawie — według załącznika nr 4 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_2/pkt_5",
+       "text": "w gminach i miastach, w których odbędzie się ponowne głosowanie na kandydatów na wójta, burmistrza, prezydenta miasta — według załącznika nr 5 do uchwały.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W przypadkach obsadzenia mandatów radnych bez głosowania lub nieprzeprowadzania wyborów w okręgu na skutek niezarejestrowania żadnej listy kandydatów, a także w przypadku niezarejestrowania żadnego kandydata na wójta i nieprzeprowadzania w związku z tym wyborów bezpośrednich, odpowiednie części z wzorów informacji należy pominąć lub przekreślić.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Informację umieszcza się w lokalu wyborczym oraz w miejscu zapewniającym tajność głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    },
+    {
+     "type": "text",
+     "text": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 7 października 2002 r. (poz. 695)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "PAŃSTWOWA KOMISJA WYBORCZA"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA W WYBORACH ZARZĄDZONYCH NA DZIEŃ 27 PAŹDZIERNIKA 2002 R."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO RADY GMINY"
+    },
+    {
+     "type": "text",
+     "text": "W GMINIE LICZĄCEJ DO 20 TYS. MIESZKAŃCÓW"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru białego"
+    },
+    {
+     "type": "text",
+     "text": "można głosować na tylu kandydatów, ilu radnych jest wybieranych w okręgu albo na mniejszą liczbę kandydatów"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwisk kandydatów z jednej listy bądź z różnych list"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na większą liczbę kandydatów niż liczba mandatów w okręgu powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO RADY POWIATU"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru żółtego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO SEJMIKU WOJEWÓDZTWA"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru niebieskiego wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH WÓJTA — BURMISTRZA"
+    },
+    {
+     "type": "text",
+     "text": "Wersja pierwsza* karta do głosowania jest koloru różowego wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata oddanie głosu na więcej niż jednego kandydata powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Wersja druga*"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru różowego wyborca głosuje za wyborem kandydata, stawiając znak „x” w kratce oznaczonej słowem „TAK” z lewej strony obok nazwiska kandydata wyborca głosuje przeciwko wyborowi kandydata, stawiając znak „x” w kratce oznaczonej słowem „NIE” z lewej strony obok nazwiska kandydata postawienie znaku „x” w obu kratkach powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2 PAŃSTWOWA KOMISJA WYBORCZA"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA W WYBORACH ZARZĄDZONYCH NA DZIEŃ 27 PAŹDZIERNIKA 2002 R."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO RADY GMINY"
+    },
+    {
+     "type": "text",
+     "text": "W GMINIE LICZĄCEJ POWYŻEJ 20 TYS. MIESZKAŃCÓW"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru białego wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO RADY POWIATU karta do głosowania jest koloru żółtego wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO SEJMIKU WOJEWÓDZTWA karta do głosowania jest koloru niebieskiego wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH WÓJTA — BURMISTRZA — PREZYDENTA MIASTA"
+    },
+    {
+     "type": "text",
+     "text": "Wersja pierwsza* karta do głosowania jest koloru różowego wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata oddanie głosu na więcej niż jednego kandydata powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Wersja druga* karta do głosowania jest koloru różowego wyborca głosuje za wyborem kandydata, stawiając znak „x” w kratce oznaczonej słowem „TAK” z lewej strony obok nazwiska kandydata wyborca głosuje przeciwko wyborowi kandydata, stawiając znak „x” w kratce oznaczonej słowem „NIE” z lewej strony obok nazwiska kandydata postawienie znaku „x” w obu kratkach powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "PAŃSTWOWA KOMISJA WYBORCZA"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA W WYBORACH ZARZĄDZONYCH NA DZIEŃ 27 PAŹDZIERNIKA 2002 R."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO RADY MIEJSKIEJ"
+    },
+    {
+     "type": "text",
+     "text": "W MIEŚCIE NA PRAWACH POWIATU"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru białego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO SEJMIKU WOJEWÓDZTWA"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru niebieskiego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH BURMISTRZA — PREZYDENTA MIASTA"
+    },
+    {
+     "type": "text",
+     "text": "Wersja pierwsza*"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru różowego wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na więcej niż jednego kandydata powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Wersja druga*"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru różowego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje za wyborem kandydata, stawiając znak „x” w kratce oznaczonej słowem „TAK” z lewej strony obok nazwiska kandydata"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje przeciwko wyborowi kandydata, stawiając znak „x” w kratce oznaczonej słowem „NIE” z lewej strony obok nazwiska kandydata"
+    },
+    {
+     "type": "text",
+     "text": "postawienie znaku „x” w obu kratkach powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 4"
+    },
+    {
+     "type": "text",
+     "text": "PAŃSTWOWA KOMISJA WYBORCZA"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA W WYBORACH ZARZĄDZONYCH NA DZIEŃ 27 PAŹDZIERNIKA 2002 R."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO RADY MIASTA STOŁECZNEGO WARSZAWY"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru białego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO RADY DZIELNICY M.ST. WARSZAWY"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru żółtego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO SEJMIKU WOJEWÓDZTWA MAZOWIECKIEGO"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru niebieskiego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata z jednej listy"
+    },
+    {
+     "type": "text",
+     "text": "oddanie głosu na kandydatów z różnych list powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH PREZYDENTA M.ST. WARSZAWY"
+    },
+    {
+     "type": "text",
+     "text": "Wersja pierwsza*"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru różowego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata oddanie głosu na więcej niż jednego kandydata powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Wersja druga*"
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru różowego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje za wyborem kandydata, stawiając znak „x” w kratce oznaczonej słowem „TAK” z lewej strony obok nazwiska kandydata"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje przeciwko wyborowi kandydata, stawiając znak „x” w kratce oznaczonej słowem „NIE” z lewej strony obok nazwiska kandydata"
+    },
+    {
+     "type": "text",
+     "text": "postawienie znaku „x” w obu kratkach powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 5"
+    },
+    {
+     "type": "text",
+     "text": "PAŃSTWOWA KOMISJA WYBORCZA"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA W PONOWNYM GŁOSOWANIU NA WÓJTA, BURMISTRZA, PREZYDENTA MIASTA W DNIU 10 LISTOPADA 2002 R."
+    },
+    {
+     "type": "text",
+     "text": "karta do głosowania jest koloru różowego"
+    },
+    {
+     "type": "text",
+     "text": "wyborca głosuje, stawiając znak „x” w kratce z lewej strony nazwiska jednego kandydata oddanie głosu na obu kandydatów powoduje, że głos jest nieważny"
+    },
+    {
+     "type": "text",
+     "text": "głos jest nieważny także wtedy, gdy wyborca nie postawi znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "* Należy wybrać właściwą wersję. Wersja druga ma zastosowanie w przypadku głosowania na jednego kandydata. * Należy wybrać właściwą wersję. Wersja druga ma zastosowanie w przypadku głosowania na jednego kandydata. * Należy wybrać właściwą wersję. Wersja druga ma zastosowanie w przypadku głosowania na jednego kandydata. * Należy wybrać właściwą wersję. Wersja druga ma zastosowanie w przypadku głosowania na jednego kandydata."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

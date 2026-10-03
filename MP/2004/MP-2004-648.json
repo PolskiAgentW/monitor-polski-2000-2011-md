@@ -1,0 +1,56 @@
+{
+ "eli": "MP/2004/648",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 27 sierpnia 2004 r. w sprawie ustanowienia Narodowego Dnia Życia",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/648/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 sierpnia 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustanowienia Narodowego Dnia Życia"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Sejm Rzeczypospolitej Polskiej ogłasza dzień 24 marca Narodowym Dniem Życia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Dzień ten powinien stać się okazją do narodowej refleksji nad odpowiedzialnością władz państwowych, społeczeństwa i opinii publicznej za ochronę i budowanie szacunku dla życia ludzkiego, szczególnie ludzi najmniejszych, najsłabszych i zdanych na pomoc innych."
+    },
+    {
+     "type": "text",
+     "text": "Dzień ten powinien być również motywem solidarności społecznej, zachętą dla wszelkich działań służących wsparciu i ochronie życia."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Narodowy Dzień Życia będzie odtąd obchodzony corocznie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie w dniu podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: J. Oleksy"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,76 @@
+{
+ "eli": "MP/2004/226",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 16 marca 2004 r. w sprawie wzorów pieczęci okręgowych, rejonowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do Parlamentu Europejskiego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/226/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów pieczęci okręgowych, rejonowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do Parlamentu Europejskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13 ust. 4 ustawy z dnia 23 stycznia 2004 r. — Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pieczęcie komisji wyborczych sporządzane są według wzorów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pieczęcią okręgowej komisji wyborczej jest pieczęć okrągła o średnicy 35 mm, z napisem zawierającym nazwę i siedzibę komisji oraz numerem okręgu wyborczego, ustalonymi w załączniku do ustawy z dnia 23 stycznia 2004 r. — Ordynacja wyborcza do Parlamentu Europejskiego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pieczęcią rejonowej komisji wyborczej jest pieczęć okrągła o średnicy 35 mm, z napisem zawierającym nazwę i siedzibę komisji, ustaloną w uchwale Państwowej Komisji Wyborczej z dnia 8 marca 2004 r. w sprawie określenia terytorialnego zasięgu działania rejonowych komisji wyborczych i siedzib tych komisji oraz obszarów, na których okręgowe komisje wyborcze wykonują zadania rejonowych komisji wyborczych (M. P. Nr 12, poz. 193) z zastrzeżeniem, że pieczęcią Rejonowych Komisji Wyborczych z siedzibą w Kielcach i w Opolu jest pieczęć, o której wyżej mowa, z dodaniem po nazwie siedziby komisji:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— cyfry „I” dla komisji właściwej dla miasta Kielce i miasta Opole,"
+      },
+      {
+       "type": "text",
+       "text": "— cyfry „II” dla komisji o innej właściwości terytorialnej;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "pieczęcią obwodowej komisji wyborczej jest pieczęć okrągła o średnicy 25 mm, z napisem zawierającym nazwę i siedzibę komisji oraz numer obwodu głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,388 @@
+{
+ "eli": "MP/2000/343",
+ "title": "Uchwała Nr 33 Rady Ministrów z dnia 9 maja 2000 r. w sprawie utworzenia Krajowego Systemu Notyfikacji przepisów technicznych, norm oraz procedur oceny zgodności.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/343/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 33 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 maja 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia Krajowego Systemu Notyfikacji przepisów technicznych, norm oraz procedur oceny zgodności."
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów postanawia, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Tworzy się Krajowy System Notyfikacji przepisów technicznych, norm oraz procedur oceny zgodności, zwany dalej „KSN”, w celu realizacji zadań wynikających z przystąpienia Polski do Światowej Organizacji Handlu (WTO), utworzonej na podstawie Porozumienia ustanawiającego Światową Organizację Handlu (WTO), sporządzonego w Marakeszu dnia 15 kwietnia 1994 r. (Dz. U. z 1995 r. Nr 98, poz. 483 i 484).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W skład KSN wchodzą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Koordynator KSN — minister właściwy do spraw gospodarki,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "naczelne i centralne organy administracji rządowej oraz państwowe jednostki organizacyjne, które przygotowują i stosują przepisy techniczne, normy i procedury oceny zgodności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "Polski Komitet Normalizacyjny, zwany dalej „PKN”, oraz działający w jego strukturze Krajowy Punkt Informacyjny WTO do spraw barier technicznych w handlu, zwany dalej „Krajowym Punktem Informacyjnym WTO TBT”, działający w Ośrodku Informacji i Dokumentacji Biura PKN.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Notyfikowaniu podlegają przepisy regulujące zagadnienia nie objęte normą międzynarodową lub których treść jest niezgodna z brzmieniem i zakresem odpowiednich norm międzynarodowych, a badanie zgodności (procedura oceny zgodności) może wywrzeć istotny wpływ na wymianę handlową z innymi członkami WTO, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "projekty przepisów technicznych, w tym projekty procedur oceny zgodności z normami i przepisami technicznymi lub ich zmiany oraz obowiązujące przepisy techniczne, zgodnie z art. 2.9.2, art. 2.10.1, art. 3.2, art. 5.6.2 i art. 5.7 Porozumienia WTO w sprawie barier technicznych w handlu, zwanego dalej „Porozumieniem TBT”,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "porozumienia dwustronne i wielostronne z innymi państwami w sprawach dotyczących przepisów technicznych, procedur oceny zgodności oraz norm, zgodnie z art. 10.7 Porozumienia TBT.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Notyfikowanie przepisów technicznych, norm oraz procedur oceny zgodności jest dokonywane do Sekretariatu WTO w Genewie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Notyfikowaniu do Ośrodka Informacji ISO/IEC w Genewie podlegają programy prac normalizacyjnych, zgodnie z punktem „J” Kodeksu właściwego postępowania przy przygotowywaniu, przyjmowaniu i stosowaniu norm, stanowiącego załącznik nr 3 do Porozumienia TBT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Notyfikowaniu nie podlegają przepisy, programy oraz porozumienia dotyczące obronności i bezpieczeństwa państwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Do zadań Koordynatora KSN należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "nadzór nad prawidłowym funkcjonowaniem KSN, zgodnie z postanowieniami uchwały oraz uchwały nr 92/96 Rady Ministrów z dnia 13 sierpnia 1996 r. w sprawie realizacji zadań wynikających z przystąpienia Rzeczypospolitej Polskiej do Światowej Organizacji Handlu (WTO), w szczególności nad przekazywaniem przez naczelne i centralne organy administracji rządowej oraz przez państwowe jednostki organizacyjne informacji niezbędnych do prowadzenia punktów informacyjnych i kontaktowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "kontrola nad wprowadzaniem w życie postanowień Porozumienia TBT, w szczególności przestrzegania przez jednostki KSN, wymaganego przez WTO, terminu przeznaczonego do wnoszenia uwag do projektów przepisów technicznych lub projektów Polskich Norm,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "publikacja w Dzienniku Urzędowym Ministerstwa Gospodarki ogłoszeń o notyfikowanych przepisach technicznych lub ich projektach, na podstawie kopii zarejestrowanych notyfikacji w Sekretariacie WTO w Genewie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "przyjmowanie wypełnionych krajowych formularzy notyfikacyjnych, dotyczących przepisów technicznych, w tym procedur oceny zgodności lub projektów tych dokumentów, oraz nadawanie im dalszego biegu w ramach procedur notyfikacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "współpraca z jednostkami KSN w zakresie prawidłowego wypełniania krajowych formularzy notyfikacyjnych pod względem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_5/lit_a",
+       "text": "formalnym i językowym — z Krajowym Punktem Informacyjnym WTO TBT,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_5/lit_b",
+       "text": "merytorycznym — z autorami formularzy notyfikacyjnych,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "ostateczna weryfikacja formularzy notyfikacyjnych, przesyłanie ich do Sekretariatu WTO w Genewie oraz — po dokonaniu rejestracji — przesłanie kopii notyfikacji ministrowi właściwemu do spraw zagranicznych oraz zainteresowanym jednostkom KSN,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "koordynowanie czynności podejmowanych przez poszczególne jednostki KSN, organizowanie oraz ułatwianie wzajemnych kontaktów między autorami projektów dokumentów notyfikacyjnych a Krajowym Punktem Informacyjnym WTO TBT,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "zapewnianie, w razie potrzeby, pomocy prawnej projektodawcom nowych przepisów technicznych, procedur oceny zgodności lub zmian obowiązujących przepisów i procedur, będących przedmiotem notyfikacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_4/pkt_9",
+     "text": "informowanie jednostek KSN o formularzach notyfikacyjnych przesyłanych przez inne państwa członkowskie WTO oraz wyjaśnianie, w razie wątpliwości, treści dostarczonych projektów i dokumentów z nimi związanych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_4/pkt_10",
+     "text": "podejmowanie decyzji o uznaniu bądź odmowie uznania notyfikacji zagranicznej; przekazywanie informacji o podjętej decyzji do Sekretariatu WTO w Genewie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_4/pkt_11",
+     "text": "występowanie na forum międzynarodowym, w tym również wobec WTO, w sprawach spornych notyfikacji oraz w przypadkach odmowy uznania notyfikacji przez inne państwo lub grupę państw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Do zadań naczelnych i centralnych organów administracji rządowej oraz państwowych jednostek organizacyjnych należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "opracowywanie przepisów technicznych oraz procedur oceny zgodności, z uwzględnieniem zasad określonych w odpowiednich dokumentach międzynarodowych, w tym zawartych w normach międzynarodowych oraz w przewodnikach i zaleceniach międzynarodowych organizacji normalizacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "dokonywanie, z uwzględnieniem zasad określonych w porozumieniach i umowach dwustronnych oraz wielostronnych zawartych przez Rzeczpospolitą Polską, oceny krajowych projektów przepisów technicznych oraz wyznaczanie do notyfikowania dokumentów zawierających przepisy techniczne określone w § 3, których wejście w życie mogłoby wywrzeć istotny wpływ na międzynarodową wymianę handlową, kierując się celami i zasadami zawartymi w Porozumieniu TBT,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "przygotowywanie formularzy notyfikacyjnych zgodnie z procedurami stosowanymi w WTO dla wyznaczonych krajowych projektów przepisów technicznych oraz obowiązujących przepisów technicznych i porozumień z innymi krajami, dotyczących tych dokumentów; formularze notyfikacyjne są przygotowywane w języku angielskim, francuskim lub hiszpańskim i przekazywane do Koordynatora KSN oraz do Krajowego Punktu Informacyjnego WTO TBT, wraz z pełnym tekstem notyfikowanego dokumentu, w językach polskim i angielskim, francuskim lub hiszpańskim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "opiniowanie zapytań, uwag lub komentarzy zgłaszanych przez państwa - członków WTO, dotyczących notyfikowanych przepisów technicznych lub ich projektów, oraz przekazywanie przygotowanych opinii do Krajowego Punktu Informacyjnego WTO TBT w terminie 10 dni od dnia otrzymania zapytania, uwagi lub komentarza,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "współpraca z PKN dotycząca opiniowania projektów programów prac normalizacyjnych oraz projektów Polskich Norm, w szczególności pod względem ich zgodności z zasadami zawartymi w Porozumieniu TBT, zgodnie z art. 16 ust. 1 ustawy z dnia 3 kwietnia 1993 r. o normalizacji (Dz. U. Nr 55, poz. 251, z 1995 r. Nr 95, poz. 471 oraz z 1997 r. Nr 121, poz. 770),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_5/pkt_6",
+     "text": "przygotowywanie i przekazywanie do Krajowego Punktu Informacyjnego WTO TBT zapytań, uwag i komentarzy dotyczących notyfikowania przepisów technicznych lub ich projektów oraz porozumień dwustronnych dotyczących takich przepisów, przesyłanych przez inne państwa - członków WTO,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_5/pkt_7",
+     "text": "opiniowanie, w porozumieniu z jednostkami KSN, treści przekazywanych do Koordynatora KSN zagranicznych przepisów technicznych lub ich projektów, porozumień dotyczących takich przepisów oraz streszczeń dokumentów odnoszących się do tych przepisów, w celu umożliwienia podjęcia przez Koordynatora KSN decyzji o uznaniu bądź odmowie uznania notyfikacji zagranicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_5/pkt_8",
+     "text": "współpraca z Koordynatorem KSN, Krajowym Punktem Informacyjnym WTO TBT i z innymi jednostkami w zakresie przygotowywania wyjaśnień i informacji dotyczących notyfikowanych krajowych przepisów technicznych lub ich projektów oraz dwustronnych i wielostronnych porozumień z innymi krajami w zakresie dotyczącym przepisów technicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Naczelne i centralne organy administracji rządowej oraz państwowe jednostki organizacyjne są zobowiązane do przestrzegania zachowania terminu między zarejestrowaniem notyfikacji projektu krajowego przepisu technicznego w Sekretariacie WTO w Genewie a datą jego wejścia w życie. Termin wynosi 3 miesiące od dnia zarejestrowania notyfikacji w Sekretariacie WTO w Genewie i jest wyznaczany przez Koordynatora KSN. W uzasadnionych przypadkach Koordynator KSN może termin skrócić bądź wydłużyć zgodnie z postanowieniami art. 2.10. Porozumienia TBT.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Do zadań PKN należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "przygotowywanie, przeprowadzanie konsultacji, zatwierdzanie, publikacja i notyfikowanie Programu prac normalizacyjnych w Ośrodku Informacji ISO/IEC w Genewie, za pośrednictwem Krajowego Punktu Informacyjnego WTO TBT, oraz publikacja informacji o tym programie w miesięczniku „Normalizacja”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "udzielanie, za pośrednictwem Krajowego Punktu Informacyjnego WTO TBT, wyjaśnień na pytania zgłaszane przez państwa - członków WTO, dotyczące Programu prac normalizacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "przekazywanie, na wniosek zainteresowanych członków WTO, tym członkom, za pośrednictwem Krajowego Punktu Informacyjnego WTO TBT, Programu prac normalizacyjnych w części lub w całości; zasady odpłatności za przekazywanie tego programu regulują odrębne przepisy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "współpraca z Koordynatorem KSN i innymi jednostkami KSN w zakresie określonym w § 3,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "nadzór nad działalnością Krajowego Punktu Informacyjnego WTO TBT oraz zapewnianie środków finansowych na jego działalność.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Do zadań Krajowego Punktu Informacyjnego WTO TBT należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "opiniowanie pod względem formalnym i językowym tłumaczenia krajowych formularzy notyfikacyjnych na język angielski, odbieranie i przesyłanie zagranicznych formularzy notyfikacyjnych do podmiotów zainteresowanych w kraju,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "opiniowanie zapytań, uwag, komentarzy oraz wniosków o udostępnienie pełnych tekstów lub streszczeń notyfikowanych dokumentów krajowych i zagranicznych od zainteresowanych podmiotów z kraju i zagranicy oraz pośredniczenie w przekazywaniu odpowiedzi i materiałów związanych z notyfikowanymi dokumentami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "gromadzenie dokumentacji związanej z notyfikacjami obejmującymi dokumenty krajowe i zagraniczne oraz prowadzenie bazy danych, zawierającej informacje o notyfikowanych dokumentach, a także o źródłach prawa technicznego, Polskich Normach i procedurach oceny zgodności oraz ich zmianach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "przygotowywanie i przesyłanie formularzy notyfikacyjnych Programu prac normalizacyjnych w języku angielskim, francuskim lub hiszpańskim do Ośrodka Informacji ISO/IEC w Genewie, a także przekazywanie kopii tych notyfikacji do Krajowego Punktu Informacyjnego WTO TBT i Koordynatorowi KSN oraz przekazywanie informacji o notyfikowaniu tego programu redakcji miesięcznika „Normalizacja” w celu publikacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "współpraca w zakresie wymiany informacji z innymi krajowymi i zagranicznymi punktami informacyjnymi i kontaktowymi WTO oraz udzielanie wyjaśnień dotyczących normalizacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "współpraca z Koordynatorem KSN i autorami dokumentów przewidywanych do notyfikowania, w zakresie określonym w § 3, w celu zapewnienia sprawnego udostępniania oraz obiegu informacji i formularzy notyfikacyjnych, a także związanej z nimi dokumentacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Buzek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

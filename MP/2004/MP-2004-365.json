@@ -1,0 +1,618 @@
+{
+ "eli": "MP/2004/365",
+ "title": "Komunikat Państwowej Komisji Wyborczej z dnia 10 maja 2004 r. w sprawie przyjęcia zawiadomień o zamiarze zgłoszenia przez komitety wyborcze partii politycznych kandydatów na posłów do Parlamentu Europejskiego oraz zawiadomień o utworzeniu koalicyjnych komitetów wyborczych i komitetów wyborczych wyborców",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/365/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 maja 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przyjęcia zawiadomień o zamiarze zgłoszenia przez komitety wyborcze partii politycznych kandydatów na posłów do Parlamentu Europejskiego oraz zawiadomień o utworzeniu koalicyjnych komitetów wyborczych i komitetów wyborczych wyborców"
+  },
+  {
+   "type": "text",
+   "text": "Państwowa Komisja Wyborcza na podstawie art. 57 ustawy z dnia 23 stycznia 2004 r. — Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219) informuje, że w związku z wyborami do Parlamentu Europejskiego zarządzonymi na dzień 13 czerwca 2004 r. przyjęła zawiadomienia:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "partii politycznych:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Polskiej Partii Pracy"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Polska Partia Pracy:"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Michał Janiszewski,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Zbigniew Stanisław Śniadecki,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Inicjatywy dla Polski"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Inicjatywa dla Polski:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KW IDP,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Remigiusz Witkowski,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Marcin Żyto,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Poznań;"
+    },
+    {
+     "type": "text",
+     "text": "Unii Polityki Realnej"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Unii Polityki Realnej:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: Komitet Wyborczy UPR,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Marcin Piotr Bonicki,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Stanisław Józef Żółtek,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Platformy Obywatelskiej Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Platforma Obywatelska Rzeczypospolitej Polskiej:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KW PO,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Maciej Szmigiero,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Marcin Rosół,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Unii Wolności"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Unii Wolności:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: Komitet Wyborczy UW,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Andrzej Potocki,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Marek Chimiak,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Ligi Polskich Rodzin"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Liga Polskich Rodzin:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KW LPR,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Sylwester Chruszcz,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Marlena Pawłowska,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Polskiej Partii Narodowej"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Polskiej Partii Narodowej:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KW PPN,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Leszek Bubel,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Jerzy Jucha,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Prawa i Sprawiedliwości"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Prawo i Sprawiedliwość:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: Komitet Wyborczy PiS,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Tomasz Mirosław Dudziński,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Stanisław Kostrzewski,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Pracy Zdrowia Ekologii"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Praca Zdrowie Ekologia — PZE:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KWPZE,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Zbigniew Łukasz Roliński, — pełnomocnikiem finansowym Komitetu jest Małgorzata Kraszewska, — siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Demokratycznej Partii Lewicy"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Demokratycznej Partii Lewicy: — pełnomocnikiem wyborczym Komitetu jest Arkadiusz Stanisław Ciach, — pełnomocnikiem finansowym Komitetu jest Iwona Bożena Maurer, — siedzibą Komitetu jest Radomsko;"
+    },
+    {
+     "type": "text",
+     "text": "Antyklerykalnej Partii Postępu „Racja”"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Antyklerykalnej Partii Postępu „Racja”: — skrót nazwy: Antyklerykalna Partia Postępu „Racja”, — pełnomocnikiem wyborczym Komitetu jest Piotr Musiał, — pełnomocnikiem finansowym Komitetu jest Marek Motyka, — siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Narodowego Odrodzenia Polski"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Narodowego Odrodzenia Polski: — pełnomocnikiem wyborczym Komitetu jest Krzysztof Wojciech Pyrkosz, — pełnomocnikiem finansowym Komitetu jest Mariusz Magnuszewski, — siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Nowej Lewicy"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Nowej Lewicy: — skrót nazwy: KW NL, — pełnomocnikiem wyborczym Komitetu jest Zbigniew Partyka, — pełnomocnikiem finansowym Komitetu jest Jerzy Mikołaj Sendłak, — siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Polskiego Stronnictwa Ludowego"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Polskiego Stronnictwa Ludowego: — skrót nazwy: Komitet Wyborczy PSL, — pełnomocnikiem wyborczym Komitetu jest Elżbieta Lanc, — pełnomocnikiem finansowym Komitetu jest Zdzisław Zambrzycki, — siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "Samoobrony Rzeczpospolitej Polskiej"
+    },
+    {
+     "type": "text",
+     "text": "o zamiarze zgłoszenia kandydatów na posłów do Parlamentu Europejskiego przez Komitet Wyborczy Samoobrona Rzeczpospolitej Polskiej: — skrót nazwy: KW Samoobrona RP, — pełnomocnikiem wyborczym Komitetu jest Krzysztof Filipek,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Halina Sikorska,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "koalicji wyborczych partii politycznych:",
+   "children": [
+    {
+     "type": "text",
+     "text": "o utworzeniu Koalicyjnego Komitetu Wyborczego KPEiR-PLD w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KKW KPEiR-PLD,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Tadeusz Staniewski,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Liliana Michalska,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: Koalicyjny Komitet Wyborczy SLD-UP,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Witold Józef Gintowt-Dziewałtowski,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Edward Kuczera,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "wyborców:",
+   "children": [
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców — Ogólnopolski Komitet Obywatelski „OKO” w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: Komitet Wyborczy Wyborców „OKO”,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Marek Toczek,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Jakub Kołakowski,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców Zieloni 2004 w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Wojciech Kłosowski,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Krzysztof Wychowałek,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców Konfederacja Ruch Obrony Bezrobotnych w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KWW Konfederacja-ROB,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Mirosław Żeberek,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Ewa Krzysztoforska,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców „Razem dla Przyszłości” w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KWW Razem dla Przyszłości,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Zbigniew Olejniczak,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Elżbieta Woźniak,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców Socjaldemokracji Polskiej w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: SDPL,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Włodzimierz Nieporęt,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Jerzy Teichmann,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Narodowego Komitetu Wyborczego Wyborców w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: Narodowy Komitet Wyborczy,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Maciej Kazienko,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Adam Zalewski,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców Grupa Ludzi Kreatywnych w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: GLK,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Cezary Dudzic,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Henryk Patrzałek,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Śląskiego Komitetu Wyborczego Wyborców w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: ŚL.KWW,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Andrzej Kaniak,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Elżbieta Wasilewska,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Zabrze;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców Absolwentów Grandes Ecoles AGE w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: AGE,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Piotr Bielawski,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Władysława Kantor,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Wrocław;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców POLSKA DROGA w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KWW POLSKA DROGA,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Andrzej Ziółkowski,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Grażyna Sawnor-Kulenty,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Warszawa;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców „Młodzi do Europy” w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: KW „Młodzi do Europy”,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Waldemar Gręda,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Tomasz Bukowski,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Wrocław;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców „Racja Stanu” w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Zenon Tyma, — pełnomocnikiem finansowym Komitetu jest Franciszek Krzyżaniak,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Czosnów;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców Krystyny Mikulanki w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Krystyna Mikulanka,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Maria Cenin,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Wrocław;"
+    },
+    {
+     "type": "text",
+     "text": "o utworzeniu Komitetu Wyborczego Wyborców „Nowi Ludzie w Polskiej Europie” w celu zgłoszenia kandydatów na posłów do Parlamentu Europejskiego:"
+    },
+    {
+     "type": "text",
+     "text": "— skrót nazwy: „Nowi Ludzie”,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem wyborczym Komitetu jest Anna Urszula Kamińska,"
+    },
+    {
+     "type": "text",
+     "text": "— pełnomocnikiem finansowym Komitetu jest Maria Ewa Bartczak,"
+    },
+    {
+     "type": "text",
+     "text": "— siedzibą Komitetu jest Koszalin."
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

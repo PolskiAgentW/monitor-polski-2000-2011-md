@@ -1,0 +1,230 @@
+{
+ "eli": "MP/2003/197",
+ "title": "Obwieszczenie Przewodniczącego Rady Wyższego Szkolnictwa Artystycznego z dnia 17 grudnia 2002 r. w sprawie wykazu dziedzin sztuki i dyscyplin artystycznych, w zakresie których mogą być przeprowadzane przewody kwalifikacyjne I i II stopnia.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/197/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PRZEWODNICZĄCEGO RADY WYŻSZEGO SZKOLNICTWA ARTYSTYCZNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 grudnia 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu dziedzin sztuki i dyscyplin artystycznych, w zakresie których mogą być przeprowadzane przewody kwalifikacyjne I i II stopnia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 37 ust. 2 i 4, w związku z art. 5 ust. 1 ustawy z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych (Dz. U. Nr 65, poz. 386, z 1997 r. Nr 43, poz. 272 oraz z 2000 r. Nr 120, poz. 1268) ogłasza się, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Ustala się wykaz dziedzin sztuki i dyscyplin artystycznych, w zakresie których mogą być przeprowadzane przewody kwalifikacyjne I i II stopnia:",
+   "children": [
+    {
+     "type": "text",
+     "text": "I. Sztuki muzyczne"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Kompozycja",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Dyrygentura",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Instrumentalistyka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Prowadzenie zespołów wokalnych i wokalno-instrumentalnych",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Wokalistyka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Jazz i muzyka estradowa",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Taniec",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Rytmika",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Reżyseria dźwięku",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "Teoria muzyki",
+   "children": [
+    {
+     "type": "text",
+     "text": "II. Sztuki plastyczne"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Malarstwo",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Grafika",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Rzeźba",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Scenografia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Architektura wnętrz",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Wzornictwo",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Konserwacja i restauracja dzieł sztuki",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Fotografia",
+   "children": [
+    {
+     "type": "text",
+     "text": "III. Sztuki teatralne"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Aktorstwo",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Reżyseria",
+   "children": [
+    {
+     "type": "text",
+     "text": "IV. Sztuki filmowe"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Reżyseria",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Realizacja obrazu filmowego i telewizyjnego",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Fotografia",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Traci moc obwieszczenie Przewodniczącego Rady Wyższego Szkolnictwa Artystycznego z dnia 20 lipca 1991 r. w sprawie wykazu dziedzin sztuki i dyscyplin artystycznych, w zakresie których mogą być przeprowadzane przewody kwalifikacyjne I i II stopnia (M. P. Nr 27, poz. 198, z 1992 r. Nr 31, poz. 219, z 1993 r. Nr 6, poz. 23 oraz z 1998 r. Nr 25, poz. 373).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Wyższego Szkolnictwa"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Artystycznego: H. Kuźniak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

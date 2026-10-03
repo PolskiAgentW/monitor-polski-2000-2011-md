@@ -1,0 +1,73 @@
+{
+ "eli": "MP/2006/635",
+ "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 24 sierpnia 2006 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł oraz terminu wprowadzenia ich do obiegu",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/635/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 sierpnia 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł oraz terminu wprowadzenia ich do obiegu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398 oraz z 2006 r. Nr 157, poz. 1119) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł i 20 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 13 września 2006 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: L. Balcerowicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 24 sierpnia 2006 r. (poz. 635)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ I 20 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Masa Średnica Wielkość Wartość Brzeg (bok) (w gramach) (w milimetrach) Stop/próba emisji strona główna strona odwrotna (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla W centralnej części w owagodła Rzeczypospolitej Pol- lu stylizowany wizerunek Na boku skiej, po bokach orła ozna- kościoła w Haczowie. Po- ośmiokrotnie czenie roku emisji: 20-06, pod wyżej kościoła półkolem powtórzony orłem napis: ZŁ 2 ZŁ, w oto- napis: KOŚCIÓŁ WHACZO- napis: NBP, 2 zł ku napis: RZECZPOSPOLITA WIE. Po bokach owalu styli- co drugi 8,15 27,0 CuAl5Zn5Sn1 1 000 000 POLSKA, poprzedzony oraz zowane drewno. odwrócony zakończony sześcioma pereł- o 180 stopni, kami. Pod lewą łapą orła znak rozdzielony mennicy: MW. gwiazdkami"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony W centralnej części stylizodla godła Rzeczypospolitej wany wizerunek kościoła Polskiej na tle stylizowane- w Haczowie na tle brązogo drewna. Półkolem napis: wego stylizowanego drew- Ag 925/1000 20 zł RZECZPOSPOLITA POLSKA, na. Z lewej i prawej strony gładki 28,28 38,61 oraz brązowa 64 000 oznaczenie roku emisji: 2006 półkolem napis: KOŚCIÓŁ farba oraz: 20 ZŁ. Pod lewą łapą or- W HACZOWIE. ła znak mennicy: MW. Monitor Polski Nr 60 — 2083 — Poz. 635"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

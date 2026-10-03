@@ -1,0 +1,919 @@
+{
+ "eli": "MP/2001/425",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 26 lipca 2001 r. w sprawie wzorów potwierdzenia przyjęcia zgłoszenia okręgowej listy kandydatów na posłów i protokołu rejestracji okręgowej listy kandydatów na posłów oraz wzorów potwierdzenia przyjęcia zgłoszenia kandydata na senatora i protokołu rejestracji kandydata na senatora, stosowanych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/425/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 lipca 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów potwierdzenia przyjęcia zgłoszenia okręgowej listy kandydatów na posłów i protokołu rejestracji okręgowej listy kandydatów na posłów oraz wzorów potwierdzenia przyjęcia zgłoszenia kandydata na senatora i protokołu rejestracji kandydata na senatora, stosowanych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 1 pkt 5 i art. 146 ust. 1 w związku z art. 190 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "potwierdzenia przyjęcia zgłoszenia okręgowej listy kandydatów na posłów, stanowiący załącznik nr 1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "protokołu rejestracji okręgowej listy kandydatów na posłów, stanowiący załącznik nr 2,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "potwierdzenia przyjęcia zgłoszenia kandydata na senatora, stanowiący załącznik nr 3,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okręgowa Komisja Wyborcza"
+      },
+      {
+       "type": "text",
+       "text": "w ........................................................"
+      },
+      {
+       "type": "text",
+       "text": "Okręg wyborczy nr ..........................."
+      },
+      {
+       "type": "text",
+       "text": "do Sejmu Rzeczypospolitej Polskiej"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "protokołu rejestracji kandydata na senatora, stanowiący załącznik nr 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 3 lipca 1997 r. w sprawie określenia wzorów potwierdzenia zgłoszenia do rejestracji okręgowej listy kandydatów na posłów i protokołu rejestracji okręgowej listy kandydatów na posłów oraz potwierdzenia zgłoszenia do rejestracji kandydata na senatora lub kandydatów na senatorów i protokołu rejestracji kandydata na senatora lub kandydatów na senatorów, stosowanych w wyborach do Sejmu i Senatu Rzeczypospolitej Polskiej (Monitor Polski Nr 40, poz. 416).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    },
+    {
+     "type": "text",
+     "text": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 26 lipca 2001 r. (poz. 425)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
+    {
+     "type": "text",
+     "text": "POTWIERDZENIE PRZYJĘCIA ZGŁOSZENIA OKRĘGOWEJ LISTY KANDYDATÓW NA POSŁÓW"
+    },
+    {
+     "type": "text",
+     "text": "Okręgowa Komisja Wyborcza potwierdza przyjęcie zgłoszenia okręgowej listy kandydatów na posłów ..............."
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "w okręgu wyborczym nr ............ do Sejmu Rzeczypospolitej Polskiej, którego dokonał pełnomocnik wyborczy — osoba upoważniona przez pełnomocnika wyborczego *) :"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................, zamieszkały ............................................................................"
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................................................................."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Okręgowa Komisja Wyborcza, działając na podstawie art. 146 ust. 1 w związku z art. 144 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786), stwierdziła, w obecności zgłaszającego, że:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— zgłoszona lista obejmuje .... kandydatów i zawiera nazwisko, imię (imiona), zawód i miejsce zamieszkania każdego kandydata,"
+      },
+      {
+       "type": "text",
+       "text": "— kandydaci są oznaczeni nazwą partii politycznej, której są członkami, oraz przy nazwiskach kandydatów nienależących do partii umieszczona jest o tym informacja,"
+      },
+      {
+       "type": "text",
+       "text": "— złożono wniosek o oznaczenie ..... kandydatów, którzy nie należą do partii politycznej, nazwą lub skrótem nazwy partii popierających tych kandydatów oraz dołączono pisemne potwierdzenie poparcia wydane przez właściwy statutowy organ partii, *)"
+      },
+      {
+       "type": "text",
+       "text": "— w zgłoszeniu wskazano skrót nazwy Komitetu Wyborczego, którym należy oznaczyć zarejestrowaną listę na urzędowych obwieszczeniach oraz na karcie do głosowania. *)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Okręgowa Komisja Wyborcza stwierdza ponadto, że do zgłoszenia dołączono:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— dokument stwierdzający udzielenie upoważnienia i zakres upoważnienia, albowiem zgłoszenia dokonała osoba upoważniona przez pełnomocnika *) ,"
+      },
+      {
+       "type": "text",
+       "text": "— oświadczenie o liczbie podpisów wyborców popierających listę *) ,"
+      },
+      {
+       "type": "text",
+       "text": "— wykaz podpisów wyborców popierających listę, obejmujący .... arkuszy *) ,"
+      },
+      {
+       "type": "text",
+       "text": "— zaświadczenie Państwowej Komisji Wyborczej, o którym mowa w art. 142 ust. 3 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej *) ,"
+      },
+      {
+       "type": "text",
+       "text": "— pisemne zgody kandydatów na kandydowanie z danej listy okręgowej,"
+      },
+      {
+       "type": "text",
+       "text": "— oświadczenia, o których mowa w art. 6 ust. 1 ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, ze zmianami) *) , lub"
+      },
+      {
+       "type": "text",
+       "text": "— informacje o uprzednim złożeniu takiego oświadczenia w związku z kandydowaniem na funkcję publiczną, z którym związany był obowiązek złożenia oświadczenia *) ."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Okręgowa Komisja Wyborcza przyjęła złożone arkusze wykazu podpisów wyborców popierających listę okręgową, które ponumerowała, i opatrzyła każdy arkusz swoją pieczęcią.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okręgowa Komisja Wyborcza poinformowała osobę zgłaszającą, że sprawdzenie wykazu podpisów wyborców"
+      },
+      {
+       "type": "text",
+       "text": "rozpocznie się w dniu **) ..................................................................................... o godz. ............................. w siedzibie"
+      },
+      {
+       "type": "text",
+       "text": "Komisji ............................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "........................................................................ ...................................................................."
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć komisji)"
+      },
+      {
+       "type": "text",
+       "text": "........................................................, dnia ...................................."
+      },
+      {
+       "type": "text",
+       "text": "——————————"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okręgowa Komisja Wyborcza"
+    },
+    {
+     "type": "text",
+     "text": "w ........................................................"
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ..........................."
+    },
+    {
+     "type": "text",
+     "text": "do Sejmu Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "text",
+     "text": "PROTOKÓŁ REJESTRACJI OKRĘGOWEJ LISTY KANDYDATÓW NA POSŁÓW"
+    },
+    {
+     "type": "text",
+     "text": "I"
+    },
+    {
+     "type": "text",
+     "text": "Okręgowa Komisja Wyborcza na posiedzeniu w dniu .......................................................................... r. w składzie:"
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący .............................................................. (imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": "Zastępcy Przewodniczącego: .............................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. Członkowie:"
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. .............................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. .............................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. .............................................................."
+    },
+    {
+     "type": "text",
+     "text": "............................................................... .............................................................."
+    },
+    {
+     "type": "text",
+     "text": "rozpatrzyła zgłoszenie okręgowej listy kandydatów na posłów w okręgu wyborczym nr .............................."
+    },
+    {
+     "type": "text",
+     "text": "obejmującej ....................................... kandydatów, dokonane w dniu ..................................................................... r. (liczba)"
+    },
+    {
+     "type": "text",
+     "text": "przez pełnomocnika wyborczego — osobę upoważnioną przez pełnomocnika wyborczego *) :"
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "reprezentującego ............................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "z siedzibą w ......................................................................................................................................................................"
+    },
+    {
+     "type": "text",
+     "text": "W zgłoszeniu listy zgłaszający wskazał skrót — nie wskazał skrótu *) nazwy, którym zgodnie z art. 144 ust. 4 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786) należy oznaczyć zarejestrowaną listę na urzędowych obwieszczeniach oraz na karcie do głosowania — w brzmieniu:"
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "Wraz ze zgłoszeniem list pełnomocnik wnioskował — nie wnioskował *) o oznaczenie, na podstawie art. 144 ust. 3 Ordynacji wyborczej, w ramach listy poszczególnych kandydatów, którzy nie należą do partii politycznej, nazwą lub skrótem nazwy partii popierającej danego kandydata."
+    },
+    {
+     "type": "text",
+     "text": "II"
+    },
+    {
+     "type": "text",
+     "text": "Do zgłoszenia zostały dołączone następujące dokumenty:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Upoważnienie wydane przez pełnomocnika wyborczego dla osoby zgłaszającej okręgową listę kandydatów na posłów. *)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "A. Oświadczenie o liczbie podpisów wyborców popierających listę wraz z wykazem podpisów wyborców popierających okręgową listę kandydatów na posłów. *)",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. Zaświadczenie Państwowej Komisji Wyborczej, o którym mowa w art. 142 ust. 3 Ordynacji wyborczej do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej. *)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wniosek o oznaczenie .... kandydatów, którzy nie należą do partii politycznej, nazwą lub skrótem nazwy partii popierających tych kandydatów. *)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pisemne potwierdzenie właściwych organów statutowych partii politycznych o poparciu poszczególnych kandydatów, którzy nie należą do partii politycznej. *)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Oświadczenie każdego kandydata o wyrażeniu zgody na kandydowanie z tej listy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Oświadczenie każdego kandydata przewidziane w art. 144 ust. 5 pkt 3 Ordynacji wyborczej do Sejmu RP i do Senatu RP, w brzmieniu ustalonym ustawą z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, Nr 57, poz. 618, Nr 62, poz. 681 i Nr 63, poz. 701 oraz z 2000 r. Nr 43, poz. 488 i Nr 50, poz. 600) lub informację kandydata o uprzednim złożeniu takiego oświadczenia w związku z kandydowaniem na funkcję publiczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "...................................................................................................................................................................................... (ewentualne inne załączniki — wymienić)",
+     "children": [
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "III"
+      },
+      {
+       "type": "text",
+       "text": "Okręgowa Komisja Wyborcza stwierdza, że okręgową listę kandydatów na posłów zgłoszono zgodnie z przepisami art. 139—144 Ordynacji wyborczej, i na podstawie art. 147 ust. 1 tej ustawy rejestruje w okręgu"
+      },
+      {
+       "type": "text",
+       "text": "wyborczym nr ........................ okręgową listę kandydatów .........................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "na której zostali zgłoszeni:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": ".....................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "członek **) ....................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "popierany przez ***) ......................................................................................................................................................"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "......................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "członek **) ....................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "popierany przez ***) ......................................................................................................................................................"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "...................................................................................................................................................................................... (nazwisko, imię — imiona, zawód, miejsce zamieszkania)",
+     "children": [
+      {
+       "type": "text",
+       "text": "członek **) ..................................................................................................................................................................... (nazwa partii, której jest członkiem, lub stwierdzenie, że nie należy do partii politycznej)"
+      },
+      {
+       "type": "text",
+       "text": "popierany przez ***) ...................................................................................................................................................... (nazwa lub skrót nazwy partii popierającej kandydata, który nie należy do partii politycznej)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "......................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "......................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący .............................................................. (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "Zastępcy Przewodniczącego: .............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................. Członkowie:"
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć komisji)"
+      },
+      {
+       "type": "text",
+       "text": "———————————"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okręgowa Komisja Wyborcza"
+    },
+    {
+     "type": "text",
+     "text": "w ........................................................"
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ..........................."
+    },
+    {
+     "type": "text",
+     "text": "do Senatu Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "text",
+     "text": "POTWIERDZENIE PRZYJĘCIA ZGŁOSZENIA KANDYDATA NA SENATORA"
+    },
+    {
+     "type": "text",
+     "text": "Okręgowa Komisja Wyborcza potwierdza przyjęcie zgłoszenia kandydata na senatora:"
+    },
+    {
+     "type": "text",
+     "text": "......................................................................................................................................., przez ......................................... (nazwisko i imiona kandydata)"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................... (nazwa komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "w okręgu wyborczym nr ...................... do Senatu Rzeczypospolitej Polskiej, którego dokonał pełnomocnik wyborczy — osoba upoważniona przez pełnomocnika wyborczego: *)"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................., zamieszkały ........................................... (imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................................................................................................................... (adres zamieszkania)"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Okręgowa Komisja Wyborcza, działając na podstawie art. 146 ust. 1 w związku z art. 144, art. 190, art. 195— 196 i art. 198 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786), stwierdziła, w obecności zgłaszającego, że:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— zgłoszenie zawiera nazwisko, imiona, zawód i miejsce zamieszkania kandydata,"
+      },
+      {
+       "type": "text",
+       "text": "— kandydat jest oznaczony nazwą partii politycznej, której jest członkiem, oraz przy nazwisku kandydata nienależącego do partii umieszczona jest o tym informacja, *)"
+      },
+      {
+       "type": "text",
+       "text": "— złożono wniosek o oznaczenie kandydata, który nie należy do partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata oraz dołączono pisemne potwierdzenie poparcia wydane przez właściwy statutowy organ partii, *)"
+      },
+      {
+       "type": "text",
+       "text": "— w zgłoszeniu wskazano skrót nazwy Komitetu Wyborczego, który należy podać na urzędowych obwieszczeniach oraz na karcie do głosowania. *)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Okręgowa Komisja Wyborcza stwierdza ponadto, że do zgłoszenia dołączono:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— dokument stwierdzający udzielenie upoważnienia i zakres upoważnienia, albowiem zgłoszenia dokonała osoba upoważniona przez pełnomocnika *) ,"
+      },
+      {
+       "type": "text",
+       "text": "— oświadczenie o liczbie podpisów wyborców popierających kandydata, *)"
+      },
+      {
+       "type": "text",
+       "text": "— wykaz podpisów wyborców popierających kandydata, obejmujący .... arkuszy, *)"
+      },
+      {
+       "type": "text",
+       "text": "— pisemną zgodę kandydata na kandydowanie na podstawie zgłoszenia dokonanego przez Komitet Wyborczy,"
+      },
+      {
+       "type": "text",
+       "text": "— oświadczenie, o którym mowa w art. 6 ust. 1 ustawy dnia z 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, ze zmianami) *) , lub"
+      },
+      {
+       "type": "text",
+       "text": "— informację o uprzednim złożeniu takiego oświadczenia w związku z kandydowaniem na funkcję publiczną, z którym związany był obowiązek złożenia oświadczenia *) ."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okręgowa Komisja Wyborcza przyjęła złożone arkusze wykazu podpisów wyborców popierających kandydata na senatora, które ponumerowała, i opatrzyła każdy arkusz swoją pieczęcią.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okręgowa Komisja Wyborcza poinformowała osobę zgłaszającą, że sprawdzenie wykazu podpisów wyborców"
+      },
+      {
+       "type": "text",
+       "text": "rozpocznie się w dniu **) ....................................................................................... o godz. ............................................."
+      },
+      {
+       "type": "text",
+       "text": "w siedzibie Komisji ........................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "........................................................................ .................................................................... (podpis osoby zgłaszającej (imię i nazwisko, stanowisko osób kandydata) przyjmujących zgłoszenie kandydata)"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć komisji)"
+      },
+      {
+       "type": "text",
+       "text": "........................................................ dnia ...................................."
+      },
+      {
+       "type": "text",
+       "text": "—————————— **) Niepotrzebne skreślić. **) Należy podać przewidywaną datę."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okręgowa Komisja Wyborcza"
+    },
+    {
+     "type": "text",
+     "text": "w ........................................................"
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ..........................."
+    },
+    {
+     "type": "text",
+     "text": "do Senatu Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "text",
+     "text": "PROTOKÓŁ REJESTRACJI KANDYDATA NA SENATORA"
+    },
+    {
+     "type": "text",
+     "text": "I"
+    },
+    {
+     "type": "text",
+     "text": "Okręgowa Komisja Wyborcza na posiedzeniu w dniu .......................................................................... r. w składzie:"
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący .............................................................. (imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": "Zastępcy Przewodniczącego: .............................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. Członkowie:"
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. .............................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. .............................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................. .............................................................."
+    },
+    {
+     "type": "text",
+     "text": "............................................................... .............................................................."
+    },
+    {
+     "type": "text",
+     "text": "rozpatrzyła zgłoszenie kandydata na senatora w okręgu wyborczym nr .............................,"
+    },
+    {
+     "type": "text",
+     "text": "dokonane w dniu ............................................ r. przez pełnomocnika wyborczego — osobę upoważnioną przez"
+    },
+    {
+     "type": "text",
+     "text": "pełnomocnika wyborczego *) : .......................................................................................................................................... (imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": "reprezentującego ............................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "z siedzibą w ......................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "W zgłoszeniu zgłaszający wskazał skrót — nie wskazał skrótu *) nazwy, którym zgodnie z art. 144 ust. 4 w związku z art. 190 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786) należy oznaczyć zgłoszonego kandydata na urzędowych obwieszczeniach oraz na karcie do głosowania — w brzmieniu:"
+    },
+    {
+     "type": "text",
+     "text": "......................................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "Wraz ze zgłoszeniem pełnomocnik wnioskował — nie wnioskował *) o oznaczenie, na podstawie art. 144 ust. 3 w związku z art. 190 Ordynacji wyborczej, kandydata, który nie należy do partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata."
+    },
+    {
+     "type": "text",
+     "text": "II"
+    },
+    {
+     "type": "text",
+     "text": "Do zgłoszenia zostały dołączone następujące dokumenty:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Upoważnienie wydane przez pełnomocnika Komitetu Wyborczego dla osoby zgłaszającej kandydata na senatora *) .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Oświadczenie zgłaszającego o liczbie podpisów wyborców popierających kandydata wraz z wykazem podpisów wyborców popierających kandydata na senatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wniosek o oznaczenie kandydata, który nie należy do partii politycznej, nazwą lub skrótem nazwy partii politycznej popierającej kandydata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pisemne potwierdzenie właściwego organu statutowego partii politycznej o poparciu kandydata, który nie należy do partii politycznej. *)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Oświadczenie kandydata o wyrażeniu zgody na kandydowanie na senatora na podstawie zgłoszenia Komitetu Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Oświadczenie kandydata przewidziane w art. 144 ust. 5 pkt 3 Ordynacji wyborczej do Sejmu RP i do Senatu RP, w brzmieniu ustalonym ustawą z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, Nr 57, poz. 618, Nr 62, poz. 681 i Nr 63, poz. 701 oraz z 2000 r. Nr 43, poz. 488 i Nr 50, poz. 600) lub informację kandydata o uprzednim złożeniu takiego oświadczenia w związku z kandydowaniem na funkcję publiczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "..................................................................................................................................................................................... (ewentualne inne załączniki — wymienić)",
+     "children": [
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "......................................................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "III"
+      },
+      {
+       "type": "text",
+       "text": "Okręgowa Komisja Wyborcza stwierdza, że kandydata na senatora zgłoszono zgodnie z przepisami art. 144 w związku z art. 190 oraz art. 194—196 i art. 198 Ordynacji wyborczej, i na podstawie art. 147 ust. 1 tej ustawy"
+      },
+      {
+       "type": "text",
+       "text": "rejestruje w okręgu wyborczym nr .......................................... kandydata na senatora:"
+      },
+      {
+       "type": "text",
+       "text": "........................................................................................................................................................................................ (nazwisko, imię — imiona, zawód, miejsce zamieszkania)"
+      },
+      {
+       "type": "text",
+       "text": "członka **) ...................................................................................................................................................................... (nazwa partii, której jest członkiem, lub stwierdzenie, że nie należy do partii politycznej)"
+      },
+      {
+       "type": "text",
+       "text": "popieranego przez ***) ................................................................................................................................................... (nazwa lub skrót nazwy partii popierającej kandydata, który nie należy do partii politycznej)"
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący .............................................................. (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "Zastępcy Przewodniczącego: .............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................. Członkowie:"
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": ".............................................................."
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć komisji) ———————————"
+      },
+      {
+       "type": "text",
+       "text": "(nazwa komitetu wyborczego) (imię i nazwisko) (adres zamieszkania) (podpis osoby zgłaszającej (imię i nazwisko, stanowisko osób listę okręgową) przyjmujących zgłoszenie listy okręgowej) **) Niepotrzebne skreślić. **) Należy podać przewidywaną datę. (imię i nazwisko) (nazwa komitetu wyborczego) (dokładny adres siedziby komitetu wyborczego) (skrót nazwy) (nazwa lub skrót nazwy komitetu wyborczego) (nazwisko, imię — imiona, zawód, miejsce zamieszkania) (nazwa partii, której jest członkiem, lub stwierdzenie, że nie należy do partii politycznej) (nazwa lub skrót nazwy partii popierającej kandydata, który nie należy do partii politycznej) (nazwisko, imię — imiona, zawód, miejsce zamieszkania) (nazwa partii, której jest członkiem, lub stwierdzenie, że nie należy do partii politycznej) (nazwa lub skrót nazwy partii popierającej kandydata, który nie należy do partii politycznej) ** *) Niepotrzebne skreślić. ***) W odniesieniu do kandydata, który nie należy do partii politycznej, należy wpisać „nie należy do partii politycznej”. ***) Wypełnić w razie zgłoszenia przez pełnomocnika wniosku, o którym mowa w art. 144 ust. 3 Ordynacji wyborczej; nazwa lub skrót nazwy nie może przekraczać 40 znaków drukarskich. (nazwa komitetu wyborczego) (dokładny adres siedziby komitetu wyborczego) (skrót nazwy) ** *) Niepotrzebne skreślić. ***) W odniesieniu do kandydata, który nie należy do partii politycznej, należy wpisać „nie należy do partii politycznej”. ***) Wypełnić w razie zgłoszenia przez pełnomocnika wniosku, o którym mowa w art. 144 ust. 3 Ordynacji wyborczej; nazwa lub skrót nazwy nie może przekraczać 40 znaków drukarskich."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

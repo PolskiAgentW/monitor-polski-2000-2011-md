@@ -1,0 +1,199 @@
+{
+ "eli": "MP/2007/557",
+ "title": "Obwieszczenie Ministra Finansów z dnia 26 lipca 2007 r. w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych w 2008 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/557/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 lipca 2007 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych w 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 2 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, z późn. zm.[^2]) ogłasza się górne granice stawek kwotowych na rok 2008 określone w:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "art. 5 w ust. 1 w pkt 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, zwanej dalej „ustawą”, w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "lit. a — 0,71 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "lit. b — 3,74 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "lit. c — 0,35 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "art. 5 w ust. 1 w pkt 2 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "lit. a — 0,59 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "lit. b — 19,01 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "lit. c — 8,86 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "lit. d — 3,84 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "lit. e — 6,37 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "art. 10 w ust. 1 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "pkt 1 w: — lit. a — 676,87 zł, — lit. b — 1 128,10 zł, — lit. c — 1 353,72 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "pkt 2 — 2 583,31 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "pkt 3 — 1 579,33 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_3/lit_d",
+     "text": "pkt 4 w: — lit. a — 1 996,71 zł, — lit. b — 2 583,31 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_3/lit_e",
+     "text": "pkt 5 — 1 353,72 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_3/lit_f",
+     "text": "pkt 6 w: — lit. a — 1 579,33 zł, — lit. b — 1 996,71 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_3/lit_g",
+     "text": "pkt 7 w: — lit. a — 1 579,33 zł, — lit. b — 1 996,71 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "art. 19 w pkt 1 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "lit. a — 631,94 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "lit. b — 1,78 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "lit. c — 2,55 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_4/lit_d",
+     "text": "lit. d — 3,54 zł.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Finansów: w z. P. Banaś"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej — finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 131, poz. 908 i Nr 169, poz. 1204).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1601, Nr 225, poz. 1635, Nr 245, poz. 1775, Nr 249, poz. 1828 i Nr 251, poz. 1847."
+ }
+}

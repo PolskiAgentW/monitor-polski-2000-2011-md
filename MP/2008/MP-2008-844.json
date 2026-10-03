@@ -1,0 +1,57 @@
+{
+ "eli": "MP/2008/844",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 16 grudnia 2008 r. zmieniająca uchwałę w sprawie ustalenia założeń polityki pieniężnej na rok 2009",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/844/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 grudnia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustalenia założeń polityki pieniężnej na rok 2009"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.[^1]) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Rady Polityki Pieniężnej z dnia 24 września 2008 r. w sprawie ustalenia założeń polityki pieniężnej na rok 2009 (M. P. Nr 74, poz. 669) w rozdziale 3 „Instrumenty polityki pieniężnej” po tytule „Operacje depozytowo-kredytowe” dodaje się tytuł „Swapy walutowe” oraz następującą treść:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„W celu zarządzania płynnością sektora bankowego NBP może przeprowadzać swapy walutowe. W ramach swapa walutowego NBP kupuje (lub sprzedaje) złote za walutę obcą na rynku kasowym i jednocześnie odsprzedaje (lub odkupuje) je, w ramach transakcji terminowej, w określonej dacie.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem 1 stycznia 2009 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: S. S. Skrzypek"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie Rady Polityki Pieniężnej: J. Czekaj, D. Filar, S. Nieckarz, M. Noga, S. Owsiak, M. Pietrewicz, A. Sławiński, H. Wasilewska-Trenkner, A. Wojtyna"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410 oraz z 2008 r. Nr 209, poz. 1315 i 1317."
+ }
+}

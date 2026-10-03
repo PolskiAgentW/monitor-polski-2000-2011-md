@@ -1,0 +1,508 @@
+{
+ "eli": "MP/2003/366",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/366/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 maja 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 3 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. Nr 57, poz. 507 i Nr 85, poz. 782) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchwała określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "warunki oraz sposób korzystania przez pełnomocników komisarzy wyborczych z techniki elektronicznej przy sprawdzaniu pod względem zgodności arytmetycznej poprawności ustalenia wyników głosowania przez obwodowe komisje do spraw referendum, zwane dalej „komisjami obwodowymi”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "warunki oraz sposób wykorzystania techniki elektronicznej przy ustalaniu wyników głosowania przez komisarzy wyborczych na obszarze należącym do ich właściwości terytorialnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "tryb przekazywania danych z protokołów głosowania za pośrednictwem sieci elektronicznego przekazywania danych",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunkiem korzystania przez pełnomocników komisarzy wyborczych z techniki elektronicznej przy sprawdzaniu zgodności arytmetycznej poprawności ustalenia wyników głosowania przez komisje obwodowe jest:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "używanie oprogramowania (kalkulator wyborczy), wykonanego przez Krajowe Biuro Wyborcze wyłącznie do sprawdzenia poprawności sporządzenia protokołu z głosowania pod względem arytmetycznym, które zostało dopuszczone do użytku przez Państwową Komisję Wyborczą;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "posiadanie zestawu komputerowego wyposażonego w system operacyjny Windows 9x lub nowszy oraz przeglądarkę internetową Internet Explorer min. w wersji 4.0.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "System informatyczny wspomagający komisarzy wyborczych przy ustalaniu wyników głosowania umożliwia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "wprowadzanie i przechowywanie danych o obwodach głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "rejestrację danych zawartych w protokołach głosowania w obwodach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "ustalenie wyników głosowania na obszarze należącym do właściwości terytorialnej komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "sporządzenie wydruków kontrolnych zawierających dane z protokołów głosowania w poszczególnych obwodach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "sporządzenie, w formie wydruków, dokumentacji dla sporządzenia protokołu głosowania na obszarze właściwości terytorialnej komisarza wyborczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W systemie informatycznym jest realizowana funkcja kontroli zgodności arytmetycznej wprowadzonych danych z protokołów komisji obwodowych oraz funkcja eliminacji błędów przy wprowadzaniu danych przez wymóg dwukrotnego wprowadzenia tych samych danych na dwóch różnych stanowiskach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Komisarze wyborczy korzystają z systemu informatycznego przy pomocy powołanych przez siebie pełnomocników ds. obsługi informatycznej, których zadania określa załącznik nr 1 do uchwały, oraz kierowników operatorów i operatorów, których zadania określa załącznik nr 2 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przesyłanie do Państwowej Komisji Wyborczej danych obejmujących wyniki głosowania w obwodach oraz łączne wyniki głosowania w obwodach na obszarze należącym do właściwości terytorialnej komisarza wyborczego odbywa się przy wykorzystaniu sieci elektronicznego przekazywania danych, z zapewnieniem bezpieczeństwa oraz autentyczności i integralności przekazanych danych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Dyrektorzy delegatur Krajowego Biura Wyborczego zapewniają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "warunki techniczne pełnomocnikom ds. obsługi informatycznej komisarzy wyborczych, umożliwiające korzystanie ze wspomagania informatycznego przy ustalaniu poprawności sporządzenia protokołów głosowania w obwodach pod względem zgodności arytmetycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "warunki techniczne i obsługę systemu informatycznego wspomagającego komisarzy wyborczych przy ustalaniu wyników głosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. (poz. 366) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZADANIA PEŁNOMOCNIKÓW DS. OBSŁUGI INFORMATYCZNEJ KOMISARZY WYBORCZYCH"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Pełnomocnicy ds. obsługi informatycznej komisarzy wyborczych są powołani przez komisarzy wyborczych i przy wykonywaniu powierzonych im zadań podlegają komisarzom wyborczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Do zadań pełnomocnika ds. obsługi informatycznej komisarza wyborczego należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "zapewnienie sprawnego przygotowania instalacji systemu (przy pomocy serwisanta), w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": "pozyskanie lub wynajem we współpracy z dyrektorem delegatury odpowiedniej liczby komputerów oraz wykonanie sieci lokalnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": "sprawdzenie poprawności działania sprzętu komputerowego i telekomunikacyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_1/lit_c",
+         "text": "ścisłe przestrzeganie zaleceń dotyczących konfiguracji systemu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_1/lit_d",
+         "text": "instalacja aplikacji obsługi referendum,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_2/pkt_1/lit_e",
+         "text": "współpraca z serwisantami lokalnymi i kierownikiem operatorów;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "nadzór nad przygotowaniem technicznym pomieszczeń, w których będzie umiejscowiony i eksploatowany sprzęt komputerowy i telekomunikacyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "zapewnienie zasilania energetycznego o odpowiedniej mocy dla używanego sprzętu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "zapewnienie wykonania instalacji systemu, sieci lokalnej z drukarką i wydzielonego komputera poczty elektronicznej w pomieszczeniach przeznaczonych na informatyczną obsługę referendum, zgodnie z harmonogramem prac przedreferendalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "nadzór nad instalacją i sprzętem w zakresie usuwania ewentualnych usterek i awarii oraz skompletowanie niezbędnych materiałów eksploatacyjnych i nośników informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "znajomość instrukcji obsługi aplikacji systemu informatycznego i przeszkolenie personelu do obsługi tego systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "nadzór nad weryfikacją baz danych o obwodach głosowania oraz liczbie uprawnionych do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_2/pkt_8",
+       "text": "zabezpieczenie systemu informatycznego przed nieuprawnionym dostępem, a w szczególności zarządzanie prawami dostępu użytkowników oraz zabezpieczenie haseł dostępowych do systemu informatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_2/pkt_9",
+       "text": "zapewnienie wykonywania kopii bezpieczeństwa systemu (zgodnie z instrukcją serwisową);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_2/pkt_10",
+       "text": "prowadzenie dziennika zdarzeń, w którym należy odnotowywać wszelkie wykonane instalacje, poprawki oraz wykryte i usunięte usterki i awarie, a także wykonanie kopii bezpieczeństwa oraz zmiany haseł użytkowników oraz cząstkowe i końcowe transmisje, transmisje próbne, testy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_2/pkt_11",
+       "text": "organizacja pracy zmianowej personelu serwisującego oraz grupy operatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_2/pkt_12",
+       "text": "nadzór administracyjny nad powierzonym sprzętem, nośnikami informacji i dokumentacją, a w szczególności zabezpieczenie — po zakończeniu prac — materiałów, dokumentacji, dziennika zdarzeń i nośników informacji, i przekazanie ich dyrektorowi delegatury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_2/pkt_13",
+       "text": "realizacja ustalonego przez Krajowe Biuro Wyborcze planu ciągłości działania, a także przeszkolenie członków zespołu obsługi informatycznej w zakresie planu ciągłości działania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Załącznik nr 2"
+        },
+        {
+         "type": "text",
+         "text": "ZADANIA KIEROWNIKÓW OPERATORÓW I OPERATORÓW SYSTEMU INFORMATYCZNEGO KOMISARZY WYBORCZYCH"
+        },
+        {
+         "type": "text",
+         "text": "I. Zadania kierownika operatorów systemu informatycznego komisarza wyborczego"
+        },
+        {
+         "type": "text",
+         "text": "Do zadań kierownika operatorów systemu informatycznego komisarza wyborczego należy:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "w okresie przygotowań do referendum:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": "zarejestrowanie operatorów w systemie (w porozumieniu z pełnomocnikiem ds. obsługi informatycznej),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": "zarejestrowanie w systemie obwodów głosowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_1/lit_c",
+         "text": "wzięcie udziału w centralnym szkoleniu organizowanym przez Krajowe Biuro Wyborcze,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_1/lit_d",
+         "text": "przeszkolenie operatorów w zakresie obsługi programu wprowadzania danych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "podczas kontroli poprawności ustalenia wyników głosowania (oraz ewentualnego wprowadzania danych o wynikach głosowania w sytuacji awarii systemu):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_2/lit_a",
+         "text": "nadzór nad obiegiem dokumentów w miejscu rejestracji danych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_2/lit_b",
+         "text": "dodatkowa kontrola poprawności protokołów i zgłaszanie zastrzeżeń komisarzowi wyborczemu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_2/lit_c",
+         "text": "opisywanie protokołów zgodnie z wykazem obwodów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_2/lit_d",
+         "text": "dostarczanie opisanych protokołów operatorom,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_2/pkt_2/lit_e",
+         "text": "odbieranie zarejestrowanych protokołów od operatorów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_2/pkt_2/lit_f",
+         "text": "nadzorowanie parafowania protokołów przez operatorów zgodnie z podanymi niżej zasadami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_2/pkt_2/lit_g",
+         "text": "badanie przypadków wykrycia przez program błędów w danych liczbowych i innych sytuacji wyjątkowych w porozumieniu z pełnomocnikiem ds. obsługi informatycznej komisarza wyborczego oraz podejmowanie dalszych czynności zgodnie z decyzjami komisarza wyborczego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_2/pkt_2/lit_h",
+         "text": "kontrolowanie kompletności zarejestrowanych danych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_2/pkt_2/lit_i",
+         "text": "wykonywanie innych czynności w porozumieniu z pełnomocnikiem ds. obsługi informatycznej komisarza wyborczego.",
+         "children": [
+          {
+           "type": "text",
+           "text": "II. Zadania operatorów systemu informatycznego komisarza wyborczego"
+          },
+          {
+           "type": "text",
+           "text": "Do zadań operatora systemu informatycznego komisarza wyborczego należy:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "w okresie przygotowań do referendum uczestniczenie w szkoleniu dla operatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "w czasie rejestracji protokołów głosowania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_2/lit_a",
+         "text": "wprowadzanie do systemu informatycznego danych z protokołów głosowania w obwodach otrzymanych od kierownika operatorów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_2/lit_b",
+         "text": "informowanie kierownika operatorów o stwierdzonych przypadkach braku zgodności arytmetycznej danych zawartych w protokołach głosowania w obwodach i o innych stwierdzonych uchybieniach w tych protokołach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_2/lit_c",
+         "text": "potwierdzanie wprowadzonych danych z protokołu poprzez złożenie parafy na odwrocie dokumentu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

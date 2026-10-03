@@ -1,0 +1,40 @@
+{
+ "eli": "MP/2000/492",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 2 sierpnia 2000 r. w sprawie odwołania przewodniczącego Komisji Nauki i Edukacji Narodowej.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/492/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 sierpnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie odwołania przewodniczącego Komisji Nauki i Edukacji Narodowej."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Senat Rzeczypospolitej Polskiej, na podstawie art. 13 ust. 2 Regulaminu Senatu, odwołuje senatora Edmunda Wittbrodta z funkcji przewodniczącego Komisji Nauki i Edukacji Narodowej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: A. Grześkowiak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,48 @@
+{
+ "eli": "MP/2002/154",
+ "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 8 lutego 2002 r. o zwolnieniu stanowiska sędziowskiego.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/154/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 lutego 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "o zwolnieniu stanowiska sędziowskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 56 § 2 ustawy z dnia 27 lipca 2001 r. — Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070 i Nr 154, poz. 1787) obwieszcza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "W sądach powszechnych zostały zwolnione:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Bielsku-Białej,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Elblągu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: B. Piwnik"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

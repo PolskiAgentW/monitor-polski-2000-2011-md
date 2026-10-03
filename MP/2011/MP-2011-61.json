@@ -1,0 +1,3984 @@
+{
+ "eli": "MP/2011/61",
+ "title": "Zarządzenie Nr 1 Prezesa Rady Ministrów z dnia 7 stycznia 2011 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/61/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 1 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 stycznia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 84 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. Nr 227, poz. 1505 oraz z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Opis stanowiska pracy sporządza się dla każdego stanowiska pracy w służbie cywilnej, zwanego dalej „stanowiskiem pracy”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W opisie stanowiska pracy wskazuje się realizowane zadania, wymagane kompetencje, kwalifikacje i zakres odpowiedzialności ze względu na umiejscowienie i funkcję stanowiska pracy w strukturze urzędu, zwane dalej „zakresem stanowiska”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Wzór opisu stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej jest określony w załączniku nr 1 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Wzór opisu stanowiska pracy będącego wyższym stanowiskiem w służbie cywilnej jest określony w załączniku nr 2 do zarządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Opis każdego nowo utworzonego stanowiska pracy sporządza się niezwłocznie po jego utworzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W razie zaistnienia zmian w zakresie stanowiska dokonuje się niezwłocznej aktualizacji opisu stanowiska pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wartościowaniu podlega każde stanowisko pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Wartościowanie stanowiska pracy, z wyłączeniem stanowiska dyrektora generalnego urzędu, przeprowadza wewnętrzny zespół wartościujący powołany w urzędzie, zwany dalej „zespołem wewnętrznym”, którego członków powołuje i odwołuje osoba wykonująca w urzędzie czynności z zakresu prawa pracy, zwana dalej „reprezentującym pracodawcę”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Jeżeli liczba członków korpusu służby cywilnej zatrudnionych w urzędzie jest nie większa niż 50 osób, wartościowanie może przeprowadzić reprezentujący pracodawcę bez konieczności powoływania zespołu wewnętrznego. Do reprezentującego pracodawcę przeprowadzającego wartościowanie stosuje się odpowiednio przepisy zarządzenia dotyczące zespołu wewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Wartościowanie stanowiska dyrektora generalnego urzędu przeprowadza zewnętrzny zespół wartościujący, zwany dalej „zespołem zewnętrznym”, którego członków powołuje i odwołuje Szef Służby Cywilnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Do zadań zespołów, o których mowa w § 4 ust. 1 i 3, należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "w eryfikacja opisu stanowiska pracy pod względem jego przydatności do przeprowadzenia wartościowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "p rzeprowadzanie wartościowania stanowiska pracy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "a ktualizacja wyniku wartościowania stanowiska pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Członkowie zespołów, o których mowa w § 4 ust. 1 i 3, są obowiązani do nieujawniania informacji o przebiegu prac tych zespołów osobom trzecim, z wyjątkiem:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "reprezentującego pracodawcę — w przypadku prac zespołu wewnętrznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "kierownika urzędu oraz Szefa Służby Cywilnej — w przypadku prac zespołu zewnętrznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Wartościowanie stanowiska pracy przeprowadza się metodą analityczno-punktową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Opis metody analityczno-punktowej oraz wartości punktowe dla kryteriów szczegółowych i punktów dodatkowych dla stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej są określone w załączniku nr 3 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Opis metody analityczno-punktowej oraz wartości punktowe dla kryteriów szczegółowych dla wyższych stanowisk w służbie cywilnej są określone w załączniku nr 4 do zarządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Wartościowanie stanowiska pracy metodą analityczno-punktową przeprowadza się, uwzględniając następujące wytyczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "w artościowaniu podlega stanowisko pracy, a nie osoba na nim zatrudniona;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "w każdym kryterium szczegółowym ustala się jeden poziom, który według oceny każdego z zespołów, o których mowa w § 4 ust. 1 i 3, najbardziej odpowiada zakresowi stanowiska podlegającego wartościowaniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "p rzyporządkowując dany poziom do stanowiska pracy podlegającego wartościowaniu, każdy z zespołów, o których mowa w § 4 ust. 1 i 3, wybiera poziom minimalny, niezbędny do prawidłowej realizacji zadań na tym stanowisku pracy, kierując się przede wszystkim zadaniami przypisanymi do danego stanowiska pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_1/pkt_4",
+       "text": "przy wartościowaniu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_8/ust_1/pkt_4/lit_a",
+         "text": "stanowiska pracy, z wyłączeniem stanowiska dyrektora generalnego urzędu, zespół wewnętrzny nie bierze pod uwagę wymagań dodatkowych i pożądanych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_8/ust_1/pkt_4/lit_b",
+         "text": "stanowiska dyrektora generalnego urzędu zespół zewnętrzny nie bierze pod uwagę wymagań pożądanych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_1/pkt_5",
+       "text": "w uzasadnionych przypadkach dopuszcza się uwzględnienie wymagań, o których mowa w pkt 4, z tym że zespoły, o których mowa w § 4 ust. 1 i 3, sporządzają na piśmie uzasadnienie decyzji o uwzględnieniu tych wymagań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_8/ust_1/pkt_6",
+       "text": "wartościowanie stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej przeprowadza się w oparciu o zadania dominujące, za które uznaje się trzy najczęściej wykonywane zadania na stanowisku pracy, a w uzasadnionych przypadkach dopuszcza się także uwzględnienie zadań pobocznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Przy wartościowaniu stanowiska pracy metodą analityczno-punktową zespoły, o których mowa w § 4 ust. 1 i 3, korzystają z informacji zawartych w opisach stanowisk pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Zespoły, o których mowa w § 4 ust. 1 i 3, mogą korzystać również z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_3/pkt_1",
+       "text": "informacji i dokumentów uzyskanych od osób nadzorujących stanowisko pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_3/pkt_2",
+       "text": "informacji uzyskanych od osób, których doświadczenie i wiedza na temat zakresu stanowiska mogą być przydatne w ich pracach.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Wynik wartościowania stanowiska pracy stanowi suma wszystkich punktów uzyskanych w ramach poszczególnych kryteriów szczegółowych oraz, w przypadku stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej, punktów dodatkowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Szef Służby Cywilnej może zwrócić się do urzędu o przekazanie wyników wartościowania stanowisk pracy.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Opis stanowiska pracy"
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Za sporządzanie opisu stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej w urzędzie odpowiada reprezentujący pracodawcę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Za sporządzanie opisu stanowiska pracy, na którym jest zatrudniony reprezentujący pracodawcę, jeżeli nie jest to wyższe stanowisko w służbie cywilnej, odpowiada podmiot, który nawiązał stosunek pracy z osobą zatrudnioną na tym stanowisku pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Do sporządzania opisu stanowiska pracy, na którym jest zatrudniona osoba, o której mowa w ust. 2, stosuje się odpowiednio przepisy zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Kierujący komórką organizacyjną przedkłada do zatwierdzenia projekt opisu nadzorowanego przez niego stanowiska pracy reprezentującemu pracodawcę albo osobie przez niego upoważnionej za pośrednictwem komórki organizacyjnej do spraw kadr odpowiedzialnej za jego weryfikację pod względem poprawności sporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Reprezentujący pracodawcę może wyznaczyć inną komórkę organizacyjną albo osobę do przeprowadzenia weryfikacji projektu opisu stanowiska pracy, o której mowa w ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "Reprezentujący pracodawcę odpowiada za zapoznanie pracownika zatrudnionego na danym stanowisku pracy z zatwierdzonym opisem tego stanowiska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_11/ust_7",
+     "text": "W przypadku aktualizacji opisu stanowiska pracy, o której mowa w § 2 ust. 2, stosuje się ust. 4—6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Za sporządzanie opisu stanowiska pracy będącego wyższym stanowiskiem w służbie cywilnej, z wyłączeniem opisu stanowiska dyrektora generalnego urzędu, odpowiada reprezentujący pracodawcę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Opis, o którym mowa w ust. 1, zatwierdza reprezentujący pracodawcę po zasięgnięciu opinii:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "osoby merytorycznie nadzorującej dane stanowisko pracy — w przypadku stanowiska pracy, na którym jest zatrudniona osoba kierująca komórką organizacyjną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "osoby kierującej komórką organizacyjną — w przypadku stanowiska pracy, na którym jest zatrudniona osoba będąca zastępcą osoby kierującej komórką organizacyjną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Reprezentujący pracodawcę odpowiada za zapoznanie pracownika zatrudnionego na danym stanowisku pracy z zatwierdzonym opisem stanowiska pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "W przypadku aktualizacji opisu stanowiska pracy, o której mowa w § 2 ust. 2, stosuje się ust. 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Za sporządzanie opisu stanowiska dyrektora generalnego urzędu odpowiada kierownik urzędu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Opis stanowiska pracy, o którym mowa w ust. 1, zatwierdza kierownik urzędu w porozumieniu z Szefem Służby Cywilnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Kierownik urzędu odpowiada za zapoznanie dyrektora generalnego urzędu z zatwierdzonym opisem stanowiska pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "W przypadku aktualizacji opisu stanowiska pracy, o której mowa w § 2 ust. 2, stosuje się ust. 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Ministrowie czuwają nad sporządzaniem opisów stanowisk pracy w urzędach podległych i nadzorowanych, z wyłączeniem urzędów centralnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Wojewodowie oraz kierownicy urzędów centralnych czuwają nad sporządzaniem opisów stanowisk pracy w urzędach podległych i nadzorowanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Wartościowanie stanowiska pracy z wyłączeniem stanowiska dyrektora generalnego urzędu"
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Za sprawne i rzetelne przeprowadzanie wartościowania stanowiska pracy, z wyłączeniem stanowiska dyrektora generalnego urzędu, odpowiada reprezentujący pracodawcę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Za sprawne i rzetelne przeprowadzanie wartościowania stanowiska pracy, na którym jest zatrudniony reprezentujący pracodawcę, jeżeli nie jest to wyższe stanowisko w służbie cywilnej, odpowiada podmiot, który nawiązał stosunek pracy z osobą zatrudnioną na tym stanowisku pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Do przeprowadzania wartościowania stanowiska pracy, na którym jest zatrudniona osoba, o której mowa w ust. 2, stosuje się odpowiednio przepisy zarządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Zespół wewnętrzny składa się co najmniej z 5 członków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Członkiem zespołu wewnętrznego może być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "członek korpusu służby cywilnej lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "inna osoba pełniąca funkcje kierownicze w urzędzie",
+       "children": [
+        {
+         "type": "text",
+         "text": "— posiadająca odpowiednie doświadczenie i wiedzę na temat funkcjonowania urzędu, a także wiedzę w zakresie stosowanego systemu wartościowania."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "W pracach zespołu wewnętrznego dotyczących wartościowania wyższego stanowiska w służbie cywilnej, na prawach członka tego zespołu, może uczestniczyć osoba skierowana przez Szefa Służby Cywilnej, będąca członkiem korpusu służby cywilnej oraz posiadająca odpowiednie doświadczenie i wiedzę w zakresie stosowanego systemu wartościowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Członkiem zespołu wewnętrznego nie może być audytor wewnętrzny oraz osoba zatrudniona w komórce organizacyjnej do spraw audytu wewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_16/ust_5",
+     "text": "Liczbę członków zespołu wewnętrznego ustala się, biorąc pod uwagę liczbę członków korpusu służby cywilnej zatrudnionych w danym urzędzie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_16/ust_6",
+     "text": "Liczba członków zespołu wewnętrznego koniecznych do ustanowienia kworum niezbędnego do ważności posiedzenia nie może być mniejsza niż 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Reprezentujący pracodawcę wyznacza przewodniczącego zespołu wewnętrznego spośród jego członków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Przewodniczący zespołu wewnętrznego kieruje jego pracami, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "zwołuje posiedzenia zespołu wewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "prowadzi posiedzenia zespołu wewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_2/pkt_3",
+       "text": "może zapraszać na posiedzenia zespołu wewnętrznego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_17/ust_2/pkt_3/lit_a",
+         "text": "osoby, których doświadczenie i wiedza na temat stanowiska pracy podlegającego wartościowaniu mogą być przydatne w pracach zespołu wewnętrznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_17/ust_2/pkt_3/lit_b",
+         "text": "osoby nadzorujące stanowisko pracy podlegające wartościowaniu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_17/ust_2/pkt_3/lit_c",
+         "text": "osoby, których odpowiednie kwalifikacje i doświadczenie w zakresie wartościowania stanowisk pracy mogą być przydatne w pracach zespołu wewnętrznego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_2/pkt_4",
+       "text": "występuje do osób nadzorujących dane stanowisko pracy o udostępnienie informacji i dokumentów niezbędnych do prac zespołu wewnętrznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Przewodniczący zespołu wewnętrznego może pisemnie upoważnić członka zespołu wewnętrznego do wykonywania zadań, o których mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Członkostwo w zespole wewnętrznym ustaje wskutek:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "odwołania członka zespołu wewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "rozwiązania albo wygaśnięcia stosunku pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "przeniesienia do innego urzędu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Jeżeli wskutek zaistnienia sytuacji, o których mowa w ust. 1, liczba członków zespołu wewnętrznego będzie niższa niż kworum, reprezentujący pracodawcę niezwłocznie uzupełnia skład zespołu wewnętrznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "W przypadku stwierdzenia, że informacje zawarte w opisie stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej uniemożliwiają przeprowadzenie wartościowania tego stanowiska pracy, zespół wewnętrzny może podjąć decyzję o zwróceniu się do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "kierującego komórką organizacyjną, który nadzoruje dane stanowisko pracy, o jego niezwłoczne uzupełnienie lub modyfikację zgodnie ze wskazówkami zespołu wewnętrznego albo o udzielenie dodatkowych wyjaśnień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "osób, których doświadczenie i wiedza na temat zakresu wartościowanego stanowiska pracy może być przydatna w pracach zespołu wewnętrznego, w celu udzielenia wyjaśnień lub informacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Osoby, o których mowa w ust. 1, nie uczestniczą w wartościowaniu stanowisk pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Do uzupełnienia lub modyfikacji opisu stanowiska pracy, o którym mowa w ust. 1 pkt 1, stosuje się § 11 ust. 4—6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "W przypadku stwierdzenia, że informacje zawarte w opisie wyższego stanowiska pracy w służbie cywilnej, z wyłączeniem stanowiska dyrektora generalnego urzędu, uniemożliwiają przeprowadzenie wartościowania tego stanowiska pracy, zespół wewnętrzny może podjąć decyzję o zwróceniu się do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_1/pkt_1",
+       "text": "reprezentującego pracodawcę o jego niezwłoczne uzupełnienie lub modyfikację zgodnie ze wskazówkami zespołu wewnętrznego albo o udzielenie dodatkowych wyjaśnień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_1/pkt_2",
+       "text": "osób, których doświadczenie i wiedza na temat zakresu wartościowanego stanowiska pracy może być przydatna w pracach zespołu wewnętrznego, w celu udzielenia wyjaśnień lub informacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Osoby, o których mowa w ust. 1, nie uczestniczą w wartościowaniu stanowisk pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Do uzupełnienia lub modyfikacji opisu stanowiska pracy, o którym mowa w ust. 1 pkt 1, stosuje się § 12 ust. 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Rozstrzygnięcia zespołu wewnętrznego są podejmowane w drodze konsensusu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W przypadku braku możliwości osiągnięcia konsensusu przewodniczący zespołu wewnętrznego, a w przypadku jego nieobecności pisemnie upoważniony przez niego członek zespołu wewnętrznego, podejmuje decyzję o dokonaniu rozstrzygnięcia większością głosów obecnych na danym posiedzeniu członków zespołu wewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "W przypadku jednakowej liczby głosów uzyskanych podczas głosowania, o którym mowa w ust. 2, ostatecznego rozstrzygnięcia dokonuje przewodniczący zespołu wewnętrznego albo pisemnie upoważniony przez niego członek zespołu wewnętrznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Członek zespołu wewnętrznego nie bierze udziału w wartościowaniu stanowiska pracy, gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "jest zatrudniony na tym stanowisku pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "nadzoruje to stanowisko pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_1/pkt_3",
+       "text": "podlega temu stanowisku pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Członek zespołu wewnętrznego, o którym mowa w ust. 1, jest uwzględniany przy ustalaniu kworum.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "W celu weryfikacji wyników wartościowania przewodniczący zespołu wewnętrznego albo pisemnie upoważniony przez niego członek zespołu wewnętrznego może podjąć decyzję o przeprowadzeniu przez zespół wewnętrzny wartościowania wybranych stanowisk pracy metodą porównania parami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Zasady wartościowania stanowisk pracy metodą porównania parami są określone w załączniku nr 5 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Jeżeli wyniki wartościowania stanowisk pracy metodą porównania parami odbiegają od wyników wartościowania metodą analityczno-punktową przewodniczący zespołu wewnętrznego albo pisemnie upoważniony przez niego członek zespołu wewnętrznego może podjąć decyzję o ponownym przeprowadzeniu wartościowania wybranych stanowisk pracy metodą analityczno-punktową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_23/ust_4",
+     "text": "Stanowiska pracy, które wymagają ponownego przeprowadzenia wartościowania metodą analityczno-punktową, wskazuje przewodniczący zespołu wewnętrznego albo pisemnie upoważniony przez niego członek zespołu wewnętrznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Z posiedzenia zespołu wewnętrznego sporządza się protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Protokół zawiera w szczególności informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_2/pkt_1",
+       "text": "podjętych rozstrzygnięciach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_2/pkt_2",
+       "text": "osobach zaproszonych na posiedzenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_2/pkt_3",
+       "text": "wystąpieniach o udostępnienie informacji i dokumentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_2/pkt_4",
+       "text": "wyłączeniu członka zespołu wewnętrznego, o którym mowa w § 22 ust. 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Protokół podpisują wszyscy członkowie zespołu wewnętrznego, którzy brali udział w posiedzeniu zespołu wewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Członek zespołu wewnętrznego, który nie zgadza się z decyzją przewodniczącego zespołu wewnętrznego albo pisemnie upoważnionego przez niego członka zespołu wewnętrznego, może złożyć zdanie odrębne wraz z pisemnym uzasadnieniem, które dołącza do protokołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_24/ust_5",
+     "text": "Wzór protokołu, o którym mowa w ust. 1, w przypadku wartościowania stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej, jest określony w załączniku nr 6 do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_24/ust_6",
+     "text": "Wzór protokołu, o którym mowa w ust. 1, w przypadku wartościowania stanowiska pracy będącego wyższym stanowiskiem w służbie cywilnej, z wyłączeniem stanowiska dyrektora generalnego urzędu, jest określony w załączniku nr 7 do zarządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Wynik wartościowania stanowiska pracy zatwierdza reprezentujący pracodawcę, po zasięgnięciu opinii:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "kierującego komórką organizacyjną — w przypadku stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej oraz w przypadku stanowiska zastępcy kierującego komórką organizacyjną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "o soby merytorycznie nadzorującej dane stanowisko pracy — w przypadku stanowiska kierującego komórką organizacyjną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Reprezentujący pracodawcę, po zasięgnięciu opinii przewodniczącego zespołu wewnętrznego, może dokonać zmiany wyniku wartościowania przed jego zatwierdzeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "W przypadku, o którym mowa w ust. 2, reprezentujący pracodawcę sporządza na piśmie uzasadnienie decyzji o zmianie wyniku wartościowania, które dołącza do protokołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_25/ust_4",
+     "text": "Zatwierdzony przez reprezentującego pracodawcę wynik wartościowania stanowiska pracy udostępnia się niezwłocznie pracownikowi zatrudnionemu na tym stanowisku pracy oraz osobom nadzorującym to stanowisko pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Liczba punktów uzyskanych w wyniku wartościowania jest podstawą do zakwalifikowania stanowiska pracy do odpowiedniego przedziału punktowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "W przypadku stanowisk pracy niebędących wyższymi stanowiskami w służbie cywilnej reprezentujący pracodawcę, po zatwierdzeniu wyników wartościowania, określa liczbę i zakres przedziałów punktowych w urzędzie, kierując się następującymi wytycznymi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_1/pkt_1",
+       "text": "l iczba przedziałów punktowych nie może być mniejsza niż 8 i większa niż 14;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_1/pkt_2",
+       "text": "liczba przedziałów punktowych może być mniejsza niż 8 w przypadku urzędów, w których liczba członków korpusu służby cywilnej jest nie większa niż 50 osób;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_27/ust_1/pkt_3",
+       "text": "zakresy przedziałów punktowych muszą być rozłączne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_27/ust_1/pkt_4",
+       "text": "podział na przedziały punktowe powinien umożliwiać wyraźne ustalenie hierarchii stanowisk pracy w ramach urzędu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Każde następne przeprowadzanie wartościowania stanowisk pracy nie wiąże się z koniecznością ponownego określania liczby i zakresu przedziałów punktowych, o których mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "Jeżeli podległe urzędy zostały utworzone na tej samej podstawie prawnej i występują w nich stanowiska pracy realizujące takie same zadania, liczbę i zakres przedziałów punktowych może wyznaczyć i określić właściwy kierownik urzędu nadrzędnego, kierując się wytycznymi, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Liczba i zakres przedziałów punktowych dla wyższych stanowisk w służbie cywilnej jest określony w załączniku nr 8 do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Wyniki przyporządkowania stanowisk pracy do przedziałów punktowych są jawne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Aktualizację wyniku wartościowania stanowiska pracy, w przypadku zmiany zakresu stanowiska lub w wyniku decyzji reprezentującego pracodawcę, przeprowadza się niezwłocznie na wniosek:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_30/ust_1/pkt_1",
+       "text": "kierującego komórką organizacyjną albo reprezentującego pracodawcę — w przypadku stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_30/ust_1/pkt_2",
+       "text": "reprezentującego pracodawcę — w przypadku stanowiska pracy będącego wyższym stanowiskiem w służbie cywilnej, z wyłączeniem stanowiska dyrektora generalnego urzędu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Wniosek, o którym mowa w ust. 1, kieruje się do przewodniczącego zespołu wewnętrznego, z tym że osoba zatrudniona na stanowisku kierującego komórką organizacyjną składa ten wniosek za pośrednictwem reprezentującego pracodawcę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Ministrowie czuwają nad przeprowadzaniem wartościowania stanowisk pracy w urzędach podległych i nadzorowanych, z wyłączeniem urzędów centralnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Wojewodowie oraz kierownicy urzędów centralnych czuwają nad przeprowadzaniem wartościowania stanowisk pracy w urzędach podległych i nadzorowanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Wartościowanie stanowiska dyrektora generalnego urzędu"
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Za sprawne i rzetelne przeprowadzanie wartościowania stanowiska dyrektora generalnego urzędu odpowiada zespół zewnętrzny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Obsługę prac zespołu zewnętrznego zapewnia Kancelaria Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Zespół zewnętrzny składa się co najmniej z 10 członków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Członkiem zespołu zewnętrznego może być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_2/pkt_1",
+       "text": "c złonek korpusu służby cywilnej posiadający odpowiednie doświadczenie i wiedzę na temat funkcjonowania służby cywilnej, a także wiedzę w zakresie stosowanego systemu wartościowania lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_2/pkt_2",
+       "text": "o soba niebędąca członkiem korpusu służby cywilnej, posiadająca odpowiednie kwalifikacje i doświadczenie dające rękojmię prawidłowego przeprowadzenia wartościowania przez zespół zewnętrzny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Liczba członków zespołu zewnętrznego koniecznych do ustanowienia kworum niezbędnego do ważności posiedzenia nie może być mniejsza niż 5.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Szef Służby Cywilnej wyznacza przewodniczącego zespołu zewnętrznego spośród członków zespołu zewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Przewodniczący zespołu zewnętrznego kieruje jego pracami, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_34/ust_2/pkt_1",
+       "text": "zwołuje posiedzenia zespołu zewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_34/ust_2/pkt_2",
+       "text": "prowadzi posiedzenia zespołu zewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_34/ust_2/pkt_3",
+       "text": "może zapraszać na posiedzenia zespołu zewnętrznego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_34/ust_2/pkt_3/lit_a",
+         "text": "o soby nadzorujące wartościowane stanowisko pracy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_34/ust_2/pkt_3/lit_b",
+         "text": "osoby, których doświadczenie i wiedza na temat wartościowanego stanowiska pracy lub stosowanego systemu wartościowania mogą być przydatne w pracach zespołu zewnętrznego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_34/ust_2/pkt_4",
+       "text": "w ystępuje do reprezentującego pracodawcę o udostępnienie informacji i dokumentów niezbędnych do prac zespołu zewnętrznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_34/ust_3",
+     "text": "Przewodniczący zespołu zewnętrznego może pisemnie upoważnić członka zespołu zewnętrznego do wykonywania zadań, o których mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Członkostwo w zespole zewnętrznym ustaje wskutek:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_1/pkt_1",
+       "text": "odwołania członka zespołu zewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_1/pkt_2",
+       "text": "rozwiązania albo wygaśnięcia stosunku pracy w służbie cywilnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Jeżeli wskutek zaistnienia sytuacji, o których mowa w ust. 1, liczba członków zespołu zewnętrznego będzie niższa niż kworum, Szef Służby Cywilnej niezwłocznie uzupełnia skład zespołu zewnętrznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "W przypadku stwierdzenia, że informacje zawarte w opisie stanowiska dyrektora generalnego urzędu uniemożliwiają przeprowadzenie wartościowania, zespół zewnętrzny może podjąć decyzję o zwróceniu się do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_1/pkt_1",
+       "text": "kierownika urzędu o jego niezwłoczne uzupełnienie lub modyfikację zgodnie ze wskazówkami zespołu zewnętrznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_1/pkt_2",
+       "text": "osób, których doświadczenie i wiedza na temat zakresu stanowiska podlegającego wartościowaniu może być przydatna w pracach zespołu zewnętrznego, w celu udzielenia wyjaśnień lub informacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Osoby, o których mowa w ust. 1, nie uczestniczą w wartościowaniu stanowiska pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Do uzupełnienia lub modyfikacji opisu stanowiska dyrektora generalnego urzędu, o którym mowa w ust. 1 pkt 1, stosuje się § 13 ust. 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Rozstrzygnięcia zespołu zewnętrznego są podejmowane w drodze konsensusu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "W przypadku braku możliwości osiągnięcia konsensusu przewodniczący zespołu zewnętrznego, a w przypadku jego nieobecności pisemnie upoważniony przez niego członek zespołu zewnętrznego, podejmuje decyzję o dokonaniu rozstrzygnięcia większością głosów obecnych na danym posiedzeniu członków zespołu zewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "W przypadku jednakowej liczby głosów uzyskanych podczas głosowania, o którym mowa w ust. 2, ostatecznego rozstrzygnięcia dokonuje przewodniczący zespołu zewnętrznego albo pisemnie upoważniony przez niego członek zespołu zewnętrznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Członek zespołu zewnętrznego nie bierze udziału w wartościowaniu stanowiska pracy, gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_38/ust_1/pkt_1",
+       "text": "jest zatrudniony na tym stanowisku pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_38/ust_1/pkt_2",
+       "text": "nadzoruje to stanowisko pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_38/ust_1/pkt_3",
+       "text": "podlega temu stanowisku pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Członek zespołu zewnętrznego, o którym mowa w ust. 1, jest uwzględniany przy ustalaniu kworum.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Z posiedzenia zespołu zewnętrznego sporządza się protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Protokół zawiera w szczególności informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_39/ust_2/pkt_1",
+       "text": "podjętych rozstrzygnięciach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_39/ust_2/pkt_2",
+       "text": "osobach zaproszonych na posiedzenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_39/ust_2/pkt_3",
+       "text": "wystąpieniach o udostępnienie informacji i dokumentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_39/ust_2/pkt_4",
+       "text": "wyłączeniu członka zespołu zewnętrznego, o którym mowa w § 38 ust. 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_39/ust_3",
+     "text": "Protokół podpisują wszyscy członkowie zespołu zewnętrznego, którzy brali udział w posiedzeniu zespołu zewnętrznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_39/ust_4",
+     "text": "Członek zespołu zewnętrznego, który nie zgadza się z decyzją przewodniczącego zespołu zewnętrznego albo pisemnie upoważnionego przez niego członka zespołu zewnętrznego, może złożyć zdanie odrębne wraz z pisemnym uzasadnieniem, które dołącza do protokołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_39/ust_5",
+     "text": "Wzór protokołu, o którym mowa w ust. 1, jest określony w załączniku nr 9 do zarządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Wynik wartościowania stanowiska dyrektora generalnego urzędu zatwierdza zespół zewnętrzny w porozumieniu z kierownikiem urzędu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Wyniki wartościowania stanowiska dyrektora generalnego urzędu, w odniesieniu do którego nie osiągnięto porozumienia, o którym mowa w ust. 1, zatwierdza Szef Służby Cywilnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_40/ust_3",
+     "text": "Zatwierdzony wynik wartościowania stanowiska dyrektora generalnego urzędu przewodniczący zespołu zewnętrznego niezwłocznie przekazuje kierownikowi urzędu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_40/ust_4",
+     "text": "Kierownik urzędu udostępnia niezwłocznie otrzymany wynik, o którym mowa w ust. 3, osobie zatrudnionej na stanowisku dyrektora generalnego urzędu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Liczba punktów uzyskanych w wyniku wartościowania jest podstawą do zakwalifikowania stanowiska dyrektora generalnego urzędu do odpowiedniego przedziału punktowego, o którym mowa w § 28.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Aktualizację wyniku wartościowania stanowiska dyrektora generalnego urzędu, w przypadku zmiany zakresu stanowiska lub w wyniku decyzji reprezentującego pracodawcę, przeprowadza się niezwłocznie na wniosek reprezentującego pracodawcę skierowany za pośrednictwem Szefa Służby Cywilnej do przewodniczącego zespołu zewnętrznego albo na wniosek Szefa Służby Cywilnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Szef Służby Cywilnej czuwa nad przeprowadzaniem wartościowania stanowisk dyrektorów generalnych urzędów.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_44/ust_1",
+     "text": "Wejście w życie zarządzenia nie powoduje konieczności ponownego sporządzania opisów i przeprowadzania wartościowania stanowisk pracy niebędących wyższymi stanowiskami w służbie cywilnej, w odniesieniu do których czynności te zostały zakończone przed dniem wejścia w życie zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_44/ust_2",
+     "text": "W sytuacji, o której mowa w ust. 1, reprezentujący pracodawcę może podjąć decyzję o ponownym sporządzeniu opisów i przeprowadzeniu wartościowania stanowisk pracy niebędących wyższymi stanowiskami w służbie cywilnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_45/ust_1",
+     "text": "W urzędach, w których przed dniem wejścia w życie zarządzenia przeprowadzono wartościowanie stanowisk pracy niebędących wyższymi stanowiskami w służbie cywilnej w oparciu o wymogi niezbędne i dodatkowe, należy przeprowadzić ponowne wartościowanie tych stanowisk pracy wyłącznie w oparciu o wymogi niezbędne, w terminie 12 miesięcy od dnia wejścia w życie zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_45/ust_2",
+     "text": "W sytuacji, o której mowa w ust. 1, zespół wewnętrzny może w uzasadnionych przypadkach wziąć pod uwagę wymogi dodatkowe, z tym że zespół ten sporządza na piśmie uzasadnienie decyzji o uwzględnieniu tych wymagań.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Z dniem wejścia w życie zarządzenia istniejące w urzędach zespoły wartościujące stają się zespołami wewnętrznymi.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_47/ust_1",
+     "text": "Do opisywania i wartościowania stanowisk pracy niebędących wyższymi stanowiskami w służbie cywilnej rozpoczętego i niezakończonego przed dniem wejścia w życie zarządzenia stosuje się przepisy dotychczasowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_47/ust_2",
+     "text": "Za rozpoczęcie opisywania i wartościowania stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej, o którym mowa w ust. 1, uznaje się przedłożenie przez osobę bezpośrednio nadzorującą dane stanowisko pracy projektu opisu tego stanowiska do zatwierdzenia reprezentującemu pracodawcę lub osobie przez niego upoważnionej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "Sporządzenie opisów i przeprowadzenie wartościowania wyższych stanowisk w służbie cywilnej w urzędzie, z wyłączeniem stanowiska dyrektora generalnego urzędu, nastąpi niezwłocznie po zatwierdzeniu wyniku wartościowania stanowiska dyrektora generalnego tego urzędu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do zarządzenia nr 1 Prezesa Rady Ministrów z dnia 7 stycznia 2011 r. (poz. 61) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "OPIS STANOWISKA PRACY NIEBĘDĄCEGO WYŻSZYM STANOWISKIEM W SŁUŻBIE CYWILNEJ"
+    },
+    {
+     "type": "text",
+     "text": "1.1. NAZWA URZĘDU"
+    },
+    {
+     "type": "text",
+     "text": "1.2. NAZWA KOMÓRKI ORGANIZACYJNEJ URZĘDU"
+    },
+    {
+     "type": "text",
+     "text": "1.3. NAZWA STANOWISKA PRACY"
+    },
+    {
+     "type": "text",
+     "text": "1.4. STANOWISKO DO SPRAW"
+    },
+    {
+     "type": "text",
+     "text": "1.5. SYMBOL STANOWISKA PRACY"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "MIEJSCE STANOWISKA PRACY W STRUKTURZE ORGANIZACYJNEJ URZĘDU",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Stanowisko pracy pośrednio nadzorujące"
+      },
+      {
+       "type": "text",
+       "text": "2.2. Stanowisko pracy bezpośrednio nadzorujące"
+      },
+      {
+       "type": "text",
+       "text": "2.3. Liczba podległych pracowników £ brak podległych pracowników £ bezpośrednio kieruje lub koordynuje pracę do 4 pracowników (należy wybrać jeden zakres z listy obok £ bezpośrednio kieruje lub koordynuje pracę od 5 do 9 pracowników i go zaznaczyć) £ bezpośrednio kieruje lub koordynuje pracę powyżej 9 pracowników £ bezpośrednio podlegają osoby kierujące pracą innych pracowników"
+      },
+      {
+       "type": "text",
+       "text": "3.1. Kierujący komórką organizacyjną:"
+      },
+      {
+       "type": "text",
+       "text": "……..........……..................…… ……….............…........…… ……...…….................…… (imię i nazwisko) (data) (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "3.2. Osoba zatwierdzająca opis stanowiska pracy: Zatwierdzam opis stanowiska pracy"
+      },
+      {
+       "type": "text",
+       "text": "……..........……..................…… ……….............…........…… ……...…….................……"
+      },
+      {
+       "type": "text",
+       "text": "3.3. Osoba zatrudniona Zapoznałem(-am) się na opisanym stanowisku pracy: z opisem stanowiska pracy"
+      },
+      {
+       "type": "text",
+       "text": "……..........….........…..................…… …………........……… ………............………"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "CEL ISTNIENIA STANOWISKA PRACY",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "GŁÓWNE ZADANIA REALIZOWANE NA STANOWISKU PRACY",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zadanie 1: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................………………………………………………………………………… Zadanie 2: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................…………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 3: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................…………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 4: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................…………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 5: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................…………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 6: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................…………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 7: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................…………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 8: ……..............................................……………………………………………………………………………….."
+      },
+      {
+       "type": "text",
+       "text": "………………….................................................………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………………….…....................................................…………………………………………………………………………"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "UPOWAŻNIENIA I PEŁNOMOCNICTWA (należy wybrać z poniższej listy i zaznaczyć właściwe)",
+     "children": [
+      {
+       "type": "text",
+       "text": "£ upoważnienie do wydawania decyzji, postanowień i innych aktów oraz podejmowania czynności, podlegających kontroli sądów administracyjnych £ upoważnienie do dysponowania środkami publicznymi £ upoważnienie do przeprowadzania kontroli £ upoważnienie do zaciągania zobowiązań £ pełnomocnictwo procesowe £ inne (należy wskazać jakie) …………………..................................................……………………………………………………………………………… …………………..................................................……………………………………………………………………………… …………………..................................................………………………………………………………………………………"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "ZŁOŻONOŚĆ I KREATYWNOŚĆ",
+     "children": [
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................………………………………… Przykłady:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "NIEZBĘDNA SAMODZIELNOŚĆ I INICJATYWA",
+     "children": [
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "………....................……………………………………………………….............................…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "Przykłady:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "KONTAKTY ZEWNĘTRZNE:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "……………………………………….............................................…………………………………………………………",
+     "children": [
+      {
+       "type": "text",
+       "text": "……….................................................…………………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "£ kilka razy dziennie £ kilka razy w tygodniu £ kilka razy w miesiącu £ kilka razy w roku"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "……………………………………….............................................…………………………………………………………",
+     "children": [
+      {
+       "type": "text",
+       "text": "……….................................................…………………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "£ kilka razy dziennie £ kilka razy w tygodniu £ kilka razy w miesiącu £ kilka razy w roku"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "……………………………………….............................................…………………………………………………………",
+     "children": [
+      {
+       "type": "text",
+       "text": "……….................................................…………………………………………………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "£ kilka razy dziennie £ kilka razy w tygodniu £ kilka razy w miesiącu £ kilka razy w roku"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "CZYNNIKI SZCZEGÓLNIE UTRUDNIAJĄCE WYKONYWANIE ZADAŃ",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "……............................................................................................................……………………………………………",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "……............................................................................................................……………………………………………",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "……............................................................................................................……………………………………………",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "……............................................................................................................……………………………………………",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "……............................................................................................................……………………………………………",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "WYMAGANE KOMPETENCJE I DOŚWIADCZENIE ZAWODOWE",
+     "children": [
+      {
+       "type": "text",
+       "text": "KOMPETENCJE WYMAGANIA NIEZBĘDNE WYMAGANIA DODATKOWE"
+      },
+      {
+       "type": "text",
+       "text": "Wykształcenie"
+      },
+      {
+       "type": "text",
+       "text": "Przeszkolenie"
+      },
+      {
+       "type": "text",
+       "text": "Szczególne uprawnienia"
+      },
+      {
+       "type": "text",
+       "text": "Znajomość języków Język obcy: Poziom: Język obcy: Poziom: obcych 1. …………… ………........... 1. …………… ………..........."
+      },
+      {
+       "type": "text",
+       "text": "Inne kompetencje, wiedza lub umiejętności"
+      },
+      {
+       "type": "text",
+       "text": "DOŚWIADCZENIE WYMAGANIA NIEZBĘDNE WYMAGANIA DODATKOWE ZAWODOWE"
+      },
+      {
+       "type": "text",
+       "text": "Długość w miesiącach lub latach"
+      },
+      {
+       "type": "text",
+       "text": "Rodzaj doświadczenia"
+      },
+      {
+       "type": "text",
+       "text": "Objaśnienia do wzoru opisu stanowiska pracy niebędącego wyższym stanowiskiem w służbie cywilnej"
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 1.3. NAZWA STANOWISKA PRACY Należy podać nazwę stanowiska pracy zgodnie z przepisami określającymi stanowiska urzędnicze, wymagane kwalifikacje zawodowe, stopnie służbowe urzędników służby cywilnej, mnożniki do ustalania wynagrodzenia oraz szczegółowe zasady ustalania i wypłacania innych świadczeń przysługujących członkom korpusu służby cywilnej."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 1.4. STANOWISKO DO SPRAW Punkt ten należy wypełniać opcjonalnie. W przypadku stanowisk, w których nazwa stanowiska pracy wpisana w punkcie 1.3. jest wystarczająca i wyczerpuje jego funkcjonalny opis (np. „główny księgowy”), nie należy wpisywać rozszerzenia „do spraw”."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 1.5. SYMBOL STANOWISKA PRACY Przykładowo skrót nazwy komórki organizacyjnej urzędu i kolejny numer stanowiska."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 5. GŁÓWNE ZADANIA REALIZOWANE NA STANOWISKU PRACY Zadania należy uszeregować ze względu na częstotliwość ich wykonywania. Pierwsze trzy najczęściej wykonywane zadania należy uznać za zadania dominujące. Pozostałe zadania stanowią zadania poboczne."
+      },
+      {
+       "type": "text",
+       "text": "Opis zadania powinien być zwięzły i zawierać: Czasownik, który wskazuje, co musi być zrobione + określenie, co jest przedmiotem wykonywanego zadania + krótki opis celu czynności, np. księguje + operacje finansowe + w celu dostarczenia aktualnej i dokładnej informacji finansowej."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 6. UPOWAŻNIENIA I PEŁNOMOCNICTWA W punkcie tym wskazana została lista upoważnień i pełnomocnictw. Należy wybrać i zaznaczyć te upoważnienia i pełnomocnictwa, które są przypisane do danego stanowiska pracy. Należy pamiętać, że nie ma ograniczenia w liczbie upoważnień i pełnomocnictw. Jeżeli do stanowiska pracy przypisane są także inne upoważnienia i pełnomocnictwa niż te konkretnie wskazane, należy zaznaczyć opcję „inne”, i je tam wpisać."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 7. ZŁOŻONOŚĆ I KREATYWNOŚĆ Kierując się pytaniami pomocniczymi zawartymi poniżej, należy zwięźle opisać (podając odpowiednie przykłady) stopień złożoności pracy oraz w jakim zakresie na opisywanym stanowisku pracy jest wymagana kreatywność: — czy przepisy i procedury szczegółowo określają sposób i tryb działania? — czy dla każdego wykonywanego zadania istnieje tylko jedna procedura? — czy istniejące procedury/przepisy są jednoznaczne, czy wymagają umiejętności ich interpretacji? — czy zadania wiążą się z podejmowaniem uznaniowych decyzji? — czy często pojawiają się sytuacje bezprecedensowe? — czy zadania wymagają działania w sytuacjach braku odpowiednich przepisów/zasad działania? — czy zadania wymagają tworzenia zupełnie nowych procedur działania lub poprawiania istniejących?"
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 8. NIEZBĘDNA SAMODZIELNOŚĆ I INICJATYWA Należy zwięźle scharakteryzować stopień ingerencji bezpośredniego przełożonego w rozwiązywanie problemów wynikających z realizowanych zadań."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 9. KONTAKTY ZEWNĘTRZNE Należy podać jedynie kontakty z osobami spoza danego urzędu uporządkowane w zależności od ich częstotliwości. W opisie uwzględnia się również zakres podmiotowy kontaktów (z kim?) oraz ich cel (po co?)."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 10. CZYNNIKI SZCZEGÓLNIE UTRUDNIAJĄCE WYKONYWANIE ZADAŃ Należy wyliczyć czynniki utrudniające wykonywanie pracy na stanowisku pracy, które są różne od czynników występujących na typowych stanowiskach urzędniczych. Zatem nie zalicza się do czynników utrudniających wykonywanie pracy np. pracy przed monitorem, dużej liczby rozmów telefonicznych."
+      },
+      {
+       "type": "text",
+       "text": "Ad pkt 11. WYMAGANE KOMPETENCJE I DOŚWIADCZENIE ZAWODOWE Wymogi niezbędne są to wymagania minimalne konieczne do podjęcia pracy na danym stanowisku pracy i zapewniające prawidłowe wykonywanie zadań na tym stanowisku. Wymogi niezbędne oraz dodatkowe są to wymogi konieczne do optymalnego wykonywania zadań na danym stanowisku pracy. Profil wykształcenia należy wpisać tylko w przypadkach, gdy wykształcenie profilowe jest konieczne do prawidłowego wykonywania zadań na opisywanym stanowisku pracy. Można doprecyzować profil wykształcenia na danym stanowisku pracy, ale nie można podwyższać poziomu wykształcenia — musi być zgodny z poziomem i profilem wykształcenia wskazanym dla danego stanowiska pracy w przepisach określających stanowiska urzędnicze, wymagane kwalifikacje zawodowe, stopnie służbowe urzędników służby cywilnej, mnożniki do ustalania wynagrodzenia oraz szczegółowe zasady ustalania i wypłacania innych świadczeń przysługujących członkom korpusu służby cywilnej."
+      },
+      {
+       "type": "text",
+       "text": "Poziom znajomości języka obcego można określić w następujący sposób: — zgodnie z Europejskim Systemem Opisu Kształcenia Językowego (np. B1, C2), — poprzez wskazanie, jakie umiejętności w posługiwaniu się językiem obcym są wymagane na opisywanym stanowisku pracy (np. znajomość języka umożliwiająca czytanie i rozumienie literatury przedmiotu), — opisowo (np. komunikatywny, bardzo dobry, biegły)."
+      },
+      {
+       "type": "text",
+       "text": "Należy określić minimalne doświadczenie zawodowe wymagane do prawidłowego wykonywania pracy na danym stanowisku pracy. Przy określaniu doświadczenia zawodowego należy podać, jaki rodzaj doświadczenia jest wymagany na danym stanowisku pracy, np.: — doświadczenie w pracy, — doświadczenie w pracy w administracji, — doświadczenie w pracy w danym obszarze (należy podać ten obszar), — doświadczenie w zarządzaniu projektami lub zespołem."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "OPIS STANOWISKA PRACY BĘDĄCEGO WYŻSZYM STANOWISKIEM W SŁUŻBIE CYWILNEJ"
+    },
+    {
+     "type": "text",
+     "text": "A. METRYKA STANOWISKA PRACY"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "NAZWA URZĘDU",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "NAZWA KOMÓRKI ORGANIZACYJNEJ URZĘDU",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "NAZWA STANOWISKA PRACY",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "SYMBOL STANOWISKA PRACY",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "MIEJSCE STANOWISKA PRACY W STRUKTURZE ORGANIZACYJNEJ URZĘDU",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.1. STANOWISKA NADZORUJĄCE:"
+      },
+      {
+       "type": "text",
+       "text": "POŚREDNIO"
+      },
+      {
+       "type": "text",
+       "text": "BEZPOŚREDNIO"
+      },
+      {
+       "type": "text",
+       "text": "5.2. STANOWISKA FORMALNIE PODLEGŁE (należy brać pod uwagę wszystkich pracowników, nie tylko członków korpusu służby cywilnej)"
+      },
+      {
+       "type": "text",
+       "text": "LICZBA PODLEGŁYCH £ brak permanentnego kierowania pracownikami — kieruje pracownikami tylko ZESPOŁÓW (PRACOWNIKÓW) w czasie zastępowania dyrektora komórki organizacyjnej lub w czasie (należy wybrać jeden zakres z listy koordynowania projektów obok i go zaznaczyć) £ kieruje — tylko bezpośrednio — nie więcej niż 12 pracownikami"
+      },
+      {
+       "type": "text",
+       "text": "£ kieruje co najwyżej 3 zespołami z podległymi osobami zarządzającymi niższego szczebla, albo kieruje bezpośrednio co najmniej 13 pracownikami"
+      },
+      {
+       "type": "text",
+       "text": "£ kieruje 4—8 zespołami z podległymi osobami zarządzającymi"
+      },
+      {
+       "type": "text",
+       "text": "£ kieruje więcej niż 8 zespołami z podległymi osobami zarządzającymi lub zarządza urzędem liczącym do 200 pracowników"
+      },
+      {
+       "type": "text",
+       "text": "£ zarządza urzędem liczącym powyżej 200, ale nie więcej niż 600 pracowników"
+      },
+      {
+       "type": "text",
+       "text": "£ zarządza urzędem liczącym powyżej 600, ale nie więcej niż 1000 pracowników"
+      },
+      {
+       "type": "text",
+       "text": "£ zarządza urzędem powyżej 1000 pracowników"
+      },
+      {
+       "type": "text",
+       "text": "6.1. Osoba zatwierdzająca opis stanowiska pracy: Zatwierdzam opis stanowiska pracy"
+      },
+      {
+       "type": "text",
+       "text": "……………..................................................… ……...............………… …………............…… (imię i nazwisko) (data) (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "6.2. Osoba zatwierdzająca/opiniująca Zatwierdzam/Opiniuję (pozytywnie/negatywnie) opis stanowiska pracy: opis stanowiska pracy"
+      },
+      {
+       "type": "text",
+       "text": "……………..................................................… ……...............………… …………............…… (imię i nazwisko) (data) (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "6.3. Osoba zatrudniona na opisanym stanowisku pracy: Zapoznałem(-am) się z opisem stanowiska pracy"
+      },
+      {
+       "type": "text",
+       "text": "……..........……..................…… ……….............…........…… ……...…….................…… (imię i nazwisko) (data) (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "* Niewłaściwe należy skreślić."
+      },
+      {
+       "type": "text",
+       "text": "B. CEL ISTNIENIA STANOWISKA PRACY (należy wpisać nie więcej niż 3 zdania, bez podawania podstawy prawnej)"
+      },
+      {
+       "type": "text",
+       "text": "C. KLUCZOWE OBSZARY ODPOWIEDZIALNOŚCI — ZAKRES ZADAŃ"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "ZARZĄDZANIE LUDŹMI",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "ZARZĄDZANIE FINANSAMI",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "REPREZENTACJA/KONTAKTY ZEWNĘTRZNE",
+     "children": [
+      {
+       "type": "text",
+       "text": "4."
+      },
+      {
+       "type": "text",
+       "text": "5."
+      },
+      {
+       "type": "text",
+       "text": "6."
+      },
+      {
+       "type": "text",
+       "text": "7."
+      },
+      {
+       "type": "text",
+       "text": "8."
+      },
+      {
+       "type": "text",
+       "text": "D. WYMAGANE KOMPETENCJE I DOŚWIADCZENIE ZAWODOWE"
+      },
+      {
+       "type": "text",
+       "text": "NIEZBĘDNE POŻĄDANE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "WYKSZTAŁCENIE",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "STAŻ PRACY",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "FORMALNE UPRAWNIENIA",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "JĘZYKI OBCE",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "WIEDZA I UMIEJĘTNOŚCI",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "KOMPETENCJE KIEROWNICZE",
+     "children": [
+      {
+       "type": "text",
+       "text": "Objaśnienia do wzoru opisu stanowiska pracy będącego wyższym stanowiskiem w służbie cywilnej"
+      },
+      {
+       "type": "text",
+       "text": "Ad A. pkt 3. NAZWA STANOWISKA PRACY"
+      },
+      {
+       "type": "text",
+       "text": "Należy podać nazwę stanowiska pracy zgodnie z przepisami określającymi stanowiska urzędnicze, wymagane kwalifikacje zawodowe, stopnie służbowe urzędników służby cywilnej, mnożniki do ustalania wynagrodzenia oraz szczegółowe zasady ustalania i wypłacania innych świadczeń przysługujących członkom korpusu służby cywilnej."
+      },
+      {
+       "type": "text",
+       "text": "Ad A. pkt 4. SYMBOL STANOWISKA PRACY"
+      },
+      {
+       "type": "text",
+       "text": "Każdemu wyższemu stanowisku w służbie cywilnej należy nadawać symbol zgodnie z następującym schematem:"
+      },
+      {
+       "type": "text",
+       "text": "skrót nazwy urzędu/skrót rodzaju stanowiska (DG, D, ZD, WLW, ZWLW)/skrót nazwy komórki organizacyjnej (w tym zakresie urząd sam decyduje)/kolejna liczba porządkowa"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "— DG oznacza stanowisko dyrektora generalnego urzędu,"
+      },
+      {
+       "type": "text",
+       "text": "— D oznacza stanowisko dyrektora komórki organizacyjnej,"
+      },
+      {
+       "type": "text",
+       "text": "— ZD oznacza stanowisko zastępcy dyrektora komórki organizacyjnej,"
+      },
+      {
+       "type": "text",
+       "text": "— WLW oznacza stanowisko wojewódzkiego lekarza weterynarii,"
+      },
+      {
+       "type": "text",
+       "text": "— ZWLW oznacza stanowisko zastępcy wojewódzkiego lekarza weterynarii."
+      },
+      {
+       "type": "text",
+       "text": "Ad A. pkt 6.1. ZATWIERDZANIE OPISU STANOWISKA PRACY"
+      },
+      {
+       "type": "text",
+       "text": "W przypadku stanowiska dyrektora generalnego urzędu pole to wypełnia reprezentujący pracodawcę dla osoby zajmującej to stanowisko pracy (kierownik urzędu)."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku stanowiska kierującego komórką organizacyjną oraz stanowiska zastępcy kierującego komórką organizacyjną pole to wypełnia reprezentujący pracodawcę (dyrektor generalny urzędu albo kierownik urzędu, w urzędach, w których nie tworzy się stanowiska dyrektora generalnego urzędu)."
+      },
+      {
+       "type": "text",
+       "text": "Ad A. pkt 6.2. ZATWIERDZANIE/OPINIOWANIE OPISU STANOWISKA PRACY"
+      },
+      {
+       "type": "text",
+       "text": "W przypadku stanowiska dyrektora generalnego urzędu pole to wypełnia Szef Służby Cywilnej — należy skreślić wyrazy „opiniująca” i „opiniuję (pozytywnie/negatywnie)”."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku stanowiska kierującego komórką organizacyjną pole to wypełnia osoba merytorycznie nadzorująca dane stanowisko pracy (np. kierownik urzędu, sekretarz stanu, podsekretarz stanu, wicewojewoda, prezes urzędu) — należy skreślić wyrazy „zatwierdzająca” i „zatwierdzam” oraz niewybraną opcję dotyczącą opiniowania: „pozytywnie” lub „negatywnie”. W przypadku gdy nadzór merytoryczny sprawuje osoba wskazana w punkcie 6.1. pole to pozostaje niewypełnione."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku stanowiska zastępcy kierującego komórką organizacyjną pole to wypełnia kierujący komórką organizacyjną — należy skreślić słowa „zatwierdzająca” i „zatwierdzam” oraz niewybraną opcję dotyczącą opiniowania: „pozytywnie” lub „negatywnie”."
+      },
+      {
+       "type": "text",
+       "text": "Ad B. CEL ISTNIENIA STANOWISKA PRACY"
+      },
+      {
+       "type": "text",
+       "text": "Określając cel istnienia danego stanowiska pracy, nie należy wymieniać ani obszarów odpowiedzialności, ani szczegółowych zadań, które są przypisane do tego stanowiska. Należy określić w kilku zdaniach (nie więcej niż 3) misję istnienia danego stanowiska pracy."
+      },
+      {
+       "type": "text",
+       "text": "Ad C. KLUCZOWE OBSZARY ODPOWIEDZIALNOŚCI — ZAKRES ZADAŃ"
+      },
+      {
+       "type": "text",
+       "text": "Zadania przypisane do stanowiska pracy w ramach poszczególnych obszarów odpowiedzialności powinny być opisywane na dużym poziomie ogólności."
+      },
+      {
+       "type": "text",
+       "text": "W ramach każdego opisywanego obszaru odpowiedzialności należy wskazać m.in. liczbę i rodzaj upoważnień i pełnomocnictw."
+      },
+      {
+       "type": "text",
+       "text": "Ad C. pkt 1. ZARZĄDZANIE LUDŹMI"
+      },
+      {
+       "type": "text",
+       "text": "Należy wskazać zakres wpływu decyzyjnego na rodzaj wykonywanych zadań. Istotną kwestię stanowi tu bezpośrednie zarządzanie określonymi pracownikami i zakres wpływu na decyzje kadrowe."
+      },
+      {
+       "type": "text",
+       "text": "Można wskazać liczbę zespołów (także spoza danej komórki organizacyjnej), którymi się kieruje — warunkiem w takim przypadku jest jednak pewna powtarzalność, bądź stałość takiego kierowania (nadzorowania), a nie sytuacja jednorazowa, bądź sporadyczna."
+      },
+      {
+       "type": "text",
+       "text": "Ad C. pkt 2. ZARZĄDZANIE FINANSAMI"
+      },
+      {
+       "type": "text",
+       "text": "Należy wskazać upoważnienia i pełnomocnictwa do zaciągania zobowiązań i dysponowania środkami publicznymi oraz orientacyjną wielkość budżetu przeznaczoną do rozdysponowywania w ciągu roku, za którą formalną odpowiedzialność ponosi osoba zajmująca dane stanowisko. W ramach tego obszaru powinny zostać uwzględnione np. następujące czynności:"
+      },
+      {
+       "type": "text",
+       "text": "— realizacja należności publicznoprawnych,"
+      },
+      {
+       "type": "text",
+       "text": "— wydatkowanie środków publicznych,"
+      },
+      {
+       "type": "text",
+       "text": "— umarzanie należności publicznoprawnych i należności cywilnoprawnych,"
+      },
+      {
+       "type": "text",
+       "text": "— podejmowanie czynności i decyzji kierownika zamawiającego w postępowaniu o udzielenie zamówienia,"
+      },
+      {
+       "type": "text",
+       "text": "— zmiany planu finansowego."
+      },
+      {
+       "type": "text",
+       "text": "Należy również scharakteryzować rodzaj odpowiedzialności za zarządzanie środkami publicznymi przypisanej danemu stanowisku."
+      },
+      {
+       "type": "text",
+       "text": "Ad C. pkt 3. REPREZENTACJA/KONTAKTY ZEWNĘTRZNE"
+      },
+      {
+       "type": "text",
+       "text": "Należy wskazać częstotliwość i rodzaj kontaktów."
+      },
+      {
+       "type": "text",
+       "text": "Ad C. pkt 4—8"
+      },
+      {
+       "type": "text",
+       "text": "Poza 3 wymienionymi kluczowymi obszarami odpowiedzialności, możliwe jest wskazanie dodatkowo jeszcze maksymalnie 5 innych obszarów odpowiedzialności (zadań). Wybierając i określając pozostałe obszary odpowiedzialności (zadania), należy kierować się zasadą wymieniania najbardziej istotnych dla konkretnego stanowiska pracy, uwzględniając jego specyfikę."
+      },
+      {
+       "type": "text",
+       "text": "Wskazane jest również określanie kolejnych zadań zgodnie z hierarchią ich ważności (istotności) i pracochłonności."
+      },
+      {
+       "type": "text",
+       "text": "Każdemu z dodatkowo wymienionych obszarów odpowiedzialności (zadań) należy nadać tytuł i opisać jego zakres. Nie należy tutaj wpisywać czynności wykonywanych w danym obszarze odpowiedzialności (zadaniu) — np. zawieranie umów o pracę, podpisywanie świadectw pracy, powoływanie komisji przetargowych."
+      },
+      {
+       "type": "text",
+       "text": "Ad D."
+      },
+      {
+       "type": "text",
+       "text": "WYKSZTAŁCENIE"
+      },
+      {
+       "type": "text",
+       "text": "Należy wpisać rodzaj wykształcenia oraz tytuł zawodowy wymagany na danym stanowisku pracy."
+      },
+      {
+       "type": "text",
+       "text": "STAŻ PRACY"
+      },
+      {
+       "type": "text",
+       "text": "Należy wskazać długość doświadczenia oraz opcjonalnie wskazać obszar doświadczenia wymagany na danym stanowisku pracy."
+      },
+      {
+       "type": "text",
+       "text": "FORMALNE UPRAWNIENIA"
+      },
+      {
+       "type": "text",
+       "text": "Należy wskazać wszystkie formalne uprawnienia potrzebne do wykonywania pracy na opisanym stanowisku."
+      },
+      {
+       "type": "text",
+       "text": "JĘZYKI OBCE"
+      },
+      {
+       "type": "text",
+       "text": "Poziom znajomości języka obcego można określić w następujący sposób:"
+      },
+      {
+       "type": "text",
+       "text": "— zgodnie z Europejskim Systemem Opisu Kształcenia Językowego (np. B1, C2),"
+      },
+      {
+       "type": "text",
+       "text": "— poprzez wskazanie, jakie umiejętności w posługiwaniu się językiem obcym są wymagane na opisywanym stanowisku pracy (np. znajomość języka umożliwiająca czytanie i rozumienie literatury przedmiotu),"
+      },
+      {
+       "type": "text",
+       "text": "— opisowo (np. komunikatywny, bardzo dobry, biegły)."
+      },
+      {
+       "type": "text",
+       "text": "WIEDZA I UMIEJĘTNOŚCI"
+      },
+      {
+       "type": "text",
+       "text": "Należy wymienić w szczególności wiedzę i umiejętności wymagane na danym stanowisku pracy."
+      },
+      {
+       "type": "text",
+       "text": "KOMPETENCJE KIEROWNICZE"
+      },
+      {
+       "type": "text",
+       "text": "Kompetencje kierownicze można przykładowo określić poprzez wymienianie konkretnych kompetencji, np.:"
+      },
+      {
+       "type": "text",
+       "text": "— podejmowanie decyzji,"
+      },
+      {
+       "type": "text",
+       "text": "— planowanie i myślenie strategiczne,"
+      },
+      {
+       "type": "text",
+       "text": "— kreatywność."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "OPIS METODY ANALITYCZNO-PUNKTOWEJ ORAZ WARTOŚCI PUNKTOWE DLA KRYTERIÓW SZCZEGÓŁOWYCH I PUNKTÓW DODATKOWYCH DLA STANOWISKA PRACY NIEBĘDĄCEGO WYŻSZYM STANOWISKIEM W SŁUŻBIE CYWILNEJ"
+    },
+    {
+     "type": "text",
+     "text": "Każdy z poziomów kryteriów szczegółowych należy traktować jako minimalne wymagania zapewniające prawidłowe wykonywanie pracy na wartościowanym stanowisku pracy."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "KOMPETENCJE"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Kryterium szczegółowe: wykształcenie",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe"
+      },
+      {
+       "type": "text",
+       "text": "A ŚREDNIE: Szkoła średnia 12"
+      },
+      {
+       "type": "text",
+       "text": "B ŚREDNIE PROFILOWE: Szkoła średnia o wymaganym profilu 24"
+      },
+      {
+       "type": "text",
+       "text": "C WYŻSZE: Szkoła wyższa (studia licencjackie, inżynierskie lub magisterskie) bez wymaganego profilu 40"
+      },
+      {
+       "type": "text",
+       "text": "D WYŻSZE PROFILOWE: Szkoła wyższa o wymaganym profilu 61 lub Szkoła wyższa bez wymaganego profilu i studia podyplomowe kierunkowe"
+      },
+      {
+       "type": "text",
+       "text": "E PRZYGOTOWANIE NAUKOWE: Szkoła wyższa oraz stopień naukowy doktora, doktora habilitowanego, tytuł naukowy profesora w kierunku zgodnym z wymaganym stanowiskiem pracy. Wymagana jest wiedza systemowa oraz ugruntowana znajomość zagadnień teoretycznych 86 lub Szkoła wyższa oraz specjalistyczne uprawnienia niezbędne (z punktu widzenia formalnoprawnego) do wykonywania pracy na danym stanowisku pracy"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kryterium szczegółowe: znajomość języków obcych[^1_2]",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe"
+      },
+      {
+       "type": "text",
+       "text": "0 Brak znajomości języka obcego 0"
+      },
+      {
+       "type": "text",
+       "text": "A Umiejętność komunikacji w jednym języku obcym 4"
+      },
+      {
+       "type": "text",
+       "text": "B Bardzo dobra[^2] znajomość jednego języka obcego lub 11 Umiejętność komunikacji w co najmniej dwóch językach obcych"
+      },
+      {
+       "type": "text",
+       "text": "C Bardzo dobra znajomość co najmniej dwóch języków obcych 22"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kryterium szczegółowe: doświadczenie zawodowe",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe"
+      },
+      {
+       "type": "text",
+       "text": "A KRÓTKIE PRZESZKOLENIE: Brak doświadczenia zawodowego; do prawidłowego wykonywania obowiązków wystarczy 3 przeprowadzenie krótkiego (do 0,5 roku) przeszkolenia stanowiskowego"
+      },
+      {
+       "type": "text",
+       "text": "B NIEWIELKIE W ADMINISTRACJI: 9 Doświadczenie zawodowe powyżej 0,5 roku w administracji lub w pracy biurowej"
+      },
+      {
+       "type": "text",
+       "text": "C ADMINISTRACYJNE: Doświadczenie zawodowe powyżej 1,5 roku w administracji 17 lub do 1 roku doświadczenia w danym obszarze"
+      },
+      {
+       "type": "text",
+       "text": "D DOŚWIADCZENIE W OBSZARZE: Doświadczenie zawodowe powyżej 1 roku w danym obszarze 30 lub powyżej 4 lat w administracji"
+      },
+      {
+       "type": "text",
+       "text": "E ZNACZĄCE DOŚWIADCZENIE W OBSZARZE LUB ZARZĄDZANIU PROJEKTAMI: Doświadczenie zawodowe powyżej 3 lat w obszarze lub 44 co najmniej 1 rok doświadczenia w zarządzaniu projektami (w przypadku gdy wiązało się ono z koordynacją zadań wykonywanych przez różnych pracowników)"
+      },
+      {
+       "type": "text",
+       "text": "F DUŻE DOŚWIADCZENIE ZAWODOWE: Doświadczenie zawodowe powyżej 5 lat w obszarze lub 67 co najmniej 1 rok doświadczenia w kierowaniu zespołem"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Kryterium szczegółowe: umiejętności interpersonalne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziomy Wartości ³⁾ punktowe"
+      },
+      {
+       "type": "text",
+       "text": "A PODSTAWOWE: Wymagana jest grzeczność i uprzejmość 5"
+      },
+      {
+       "type": "text",
+       "text": "B ŁATWOŚĆ KOMUNIKACJI: Konieczny jest otwarty stosunek do klienta oraz umiejętność przekazywania informacji w sposób jasny, precyzyjny i zwięzły lub Umiejętność pracy w zespole: Współpraca z innymi pracownikami, dzielenie się wiedzą 14 oraz informacjami. Zgłaszanie konstruktywnych wniosków usprawniających pracę zespołu. Pracownik zajmujący dane stanowisko pracy powinien dostrzegać różnice zdań, omawiać problemy i starać się łagodzić konflikty"
+      },
+      {
+       "type": "text",
+       "text": "C UMIEJĘTNOŚĆ ARGUMENTOWANIA: Konieczna jest asertywność oraz umiejętność przekonywania. Może być wymagana umiejętność konsultacji kwestii drażliwych. 24 Dotyczy również umiejętności kierowania zespołem (w tym: rozwiązywania konfliktów w zespole, motywowania pracowników)"
+      },
+      {
+       "type": "text",
+       "text": "D UMIEJĘTNOŚĆ NEGOCJACJI: Niezbędne umiejętności negocjacji[^4] do prawidłowego wykonywania pracy na danym 38 stanowisku pracy II. CHARAKTER STANOWISKA PRACY"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Kryterium szczegółowe: rola stanowiska pracy w organizacji (samodzielność stanowiska pracy/inicjatywa, stopień specjalizacji)",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziomy Wartości ⁵⁾ punktowe"
+      },
+      {
+       "type": "text",
+       "text": "A STANOWISKO NADZOROWANE: Realizacja zadań w oparciu o jasne wskazówki. Z wszelkimi problemami zwraca się do przełożonego lub osoby nadzorującej pracę. Podejmuje częściowo decyzje w zakresie własnego stanowiska pracy. Częściowo 6 samodzielnie dobiera środki pracy i wybiera sposób zrealizowania lub wykonania określonego zadania/procesu. Pracownik jest na bieżąco kontrolowany przez przełożonego lub pracownika o większym doświadczeniu"
+      },
+      {
+       "type": "text",
+       "text": "B ASYSTENT: Realizacja zadań w oparciu o jasne wskazówki. W przypadku pojawienia się skomplikowanych kwestii zwraca się do przełożonego. Samodzielna realizacja podstawowych zadań na danym stanowisku pracy. Podejmuje 19 decyzje jedynie w zakresie własnego stanowiska pracy. Jest okresowo kontrolowany przez przełożonego"
+      },
+      {
+       "type": "text",
+       "text": "C SPECJALISTA: Samodzielna realizacja zadań. Do przełożonego zwraca się o pomoc wyłącznie w sytuacjach bezprecedensowych. Podejmuje decyzje w zakresie pracy na własnym stanowisku pracy oraz może podejmować decyzje w ramach współpracującego z nim zespołu. Otrzymuje polecenia 31 i informacje co do celu pracy, ale samodzielnie dobiera środki pracy i wybiera sposób realizacji zadania lub przeprowadzenia określonego procesu. Posiada samodzielność w ramach pracy na swoim stanowisku pracy"
+      },
+      {
+       "type": "text",
+       "text": "D EKSPERT: Pracownik sam proponuje przełożonym rozwiązania sytuacji bezprecedensowych (nietypowych, niestandardowych problemów). Najczęściej jest stanowiskiem pracy wyspecjalizowanym w jednej, głównej dziedzinie i stanowi źródło wiedzy fachowej dla pozostałych członków zespołu. Praca na tym 44 stanowisku pracy wymaga samodzielnego rozwiązywania problemów i tworzenia nowych koncepcji realizacji pracy lub realizacji zadań. Może pełnić nadzór merytoryczny nad realizowanymi działaniami"
+      },
+      {
+       "type": "text",
+       "text": "E DOŚWIADCZONY EKSPERT: Pracownik samodzielnie ustala plan i priorytety. Do jego obowiązków należy doradzanie/pomoc w rozwiązywaniu problemów innym pracownikom. Projektowanie i doskonalenie procedur/systemów oraz samodzielne rozwiązywanie bardzo złożonych 56 i odpowiedzialnych problemów. Może koordynować złożone przedsięwzięcia. Wymagana jest pełna wiedza z zakresu specjalizacji oraz dobra znajomość pokrewnych dziedzin. Może pełnić nadzór merytoryczny nad realizowanymi działaniami"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kryterium szczegółowe: złożoność zadań i kreatywność",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe"
+      },
+      {
+       "type": "text",
+       "text": "A RUTYNA: Powtarzalne albo rutynowe obowiązki wymagające stosowania prostych, nieskomplikowanych procedur (często 1 procedura) związanych z realizowaniem jednego 5 zadania lub kilku zadań. W trakcie realizowanych zadań pojawiają się znane i dobrze zdefiniowane problemy. Sposób ich rozwiązania wynika z procedury. Wszystkie informacje dotyczące problemu, jak i jego rozwiązania, są dostępne"
+      },
+      {
+       "type": "text",
+       "text": "B PRACA W RAMACH PROCEDUR: Przepisy jasno określają tryb działania. Zadania wymagają wyboru odpowiedniej 10 procedury (trybu działania), jednak kryteria wyboru są jasno określone. Obowiązki w niewielkim stopniu wymagają stosowania własnego osądu czy twórczego myślenia"
+      },
+      {
+       "type": "text",
+       "text": "C KREATYWNOŚĆ W RAMACH PROCEDUR: Zadania na danym stanowisku pracy wymagają wyboru jednej z kilku dostępnych 20 procedur/rozwiązań, a wybór najlepszej (najlepszego) jest uzależniony od oceny pracownika. Istnieje konieczność dostosowania działań do zmieniających się warunków"
+      },
+      {
+       "type": "text",
+       "text": "D KREATYWNOŚĆ — POPRAWIANIE PROCEDUR/ZASAD: Stanowisko pracy wymaga podejmowania samodzielnych decyzji o sposobie realizacji zadań w oparciu o jasno sprecyzowany cel. Zadania wiążą się z przedstawianiem propozycji modyfikacji istniejących procedur/zasad/przepisów oraz oceny korzyści 30 i ryzyka proponowanych zmian. Zadania wymagają współpracy (np. opiniowanie) przy tworzeniu nowych procedur, zasad, rozwiązań, określania sposobów ich realizacji oraz planowania ich wdrożenia"
+      },
+      {
+       "type": "text",
+       "text": "E KREATYWNOŚĆ — TWORZENIE NOWYCH ZASAD DZIAŁANIA: Stanowisko pracy wymaga tworzenia nowych rozwiązań/polityki w danym obszarze 45 działalności państwa lub wytyczania nowych zasad działania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kryterium szczegółowe: horyzont czasowy planowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe"
+      },
+      {
+       "type": "text",
+       "text": "A REAKTYWNY: 3 Planowanie działań, jeśli występuje, odbywa się na ogół w horyzoncie czasowym do 1 miesiąca. Działanie reaktywne — w miarę zaistniałej potrzeby (na ogół decyzje o charakterze bieżącym)"
+      },
+      {
+       "type": "text",
+       "text": "B KRÓTKOOKRESOWY: 9 Planowanie działań następuje w horyzoncie czasowym od 1 miesiąca do kwartału"
+      },
+      {
+       "type": "text",
+       "text": "C ŚREDNIOOKRESOWY: 15 Planowanie działań następuje na ogół w horyzoncie czasowym do 1 roku"
+      },
+      {
+       "type": "text",
+       "text": "D DŁUGOOKRESOWY: 21 Planowanie działań może następować w horyzoncie czasowym przekraczającym 1 rok"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Kryterium szczegółowe: czynniki szczególnie utrudniające wykonywanie zadań[^6]",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nazwa czynnika Wartości punktowe"
+      },
+      {
+       "type": "text",
+       "text": "A Wysiłek fizyczny 1"
+      },
+      {
+       "type": "text",
+       "text": "B Praca w terenie 3"
+      },
+      {
+       "type": "text",
+       "text": "C Praca w szczególnie trudnych warunkach środowiskowych (np. praca w laboratorium, kopalni) 10"
+      },
+      {
+       "type": "text",
+       "text": "D Nietypowe godziny pracy (w tym dyżury) 5"
+      },
+      {
+       "type": "text",
+       "text": "E Krajowe lub zagraniczne wyjazdy służbowe 3"
+      },
+      {
+       "type": "text",
+       "text": "F Zagrożenie naciskami grup przestępczych 8"
+      },
+      {
+       "type": "text",
+       "text": "G Zagrożenie korupcją 8"
+      },
+      {
+       "type": "text",
+       "text": "H Permanentna obsługa klientów zewnętrznych (spoza administracji, np. obywatele, 7 przedsiębiorstwa itd.) lub przeprowadzanie kontroli w innych urzędach"
+      },
+      {
+       "type": "text",
+       "text": "I Częste reprezentowanie urzędu na zewnątrz (jeżeli nie wybrano czynnika H) 3 III. ODPOWIEDZIALNOŚĆ"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Kryterium szczegółowe: odpowiedzialność za realizację zadań przez współpracowników lub podległy personel",
+     "children": [
+      {
+       "type": "text",
+       "text": "Liczba podległych lub koordynowanych pracowników"
+      },
+      {
+       "type": "text",
+       "text": "W X Y Z"
+      },
+      {
+       "type": "text",
+       "text": "Bezpośrednio Bezpośrednio Bezpośrednio Bezpośrednio Poziomy kieruje kieruje kieruje podlegają lub koordynuje lub koordynuje lub koordynuje osoby pracę pracę pracę kierujące pracą maksymalnie od 5 do co najmniej innych 4 pracowników 9 pracowników 10 pracowników pracowników"
+      },
+      {
+       "type": "text",
+       "text": "A BRAK: Brak odpowiedzialności za pracowników/brak czasowej lub 0 0 0 0 permanentnej koordynacji zadań lub pracowników"
+      },
+      {
+       "type": "text",
+       "text": "B KOORDYNACJA ZADAŃ: Wykonywane zadania powodują czasową lub permanentną koordynację prac realizowanych przez inne osoby w celu osiągnięcia założonego celu. Nie występuje 10 10 10 0 formalne zwierzchnictwo nad tymi osobami (np. pracują one w innych komórkach organizacyjnych urzędu) — na stanowisku pracy nie rozdziela się zadań na konkretnych pracowników"
+      },
+      {
+       "type": "text",
+       "text": "C KOORDYNACJA PRACOWNIKÓW: Czasowo lub permanentnie koordynuje prace innych pracowników. Koordynacja polega głównie na rozdzielaniu zadań i monitorowaniu stopnia ich wykonania. Nie występuje pełna 19 25 31 0 podległość służbowa. Na tym stanowisku pracy nie są wykonywane wszystkie kompetencje władcze wobec stanowisk pracy (np. nie ma prawa dokonywania oceny okresowej, planowania szkoleń itp.)"
+      },
+      {
+       "type": "text",
+       "text": "D KIEROWANIE: Kierowanie (pełna odpowiedzialność za podległych pracowników, w tym ich 25 31 36 48 ocena) pracownikami wykonującymi zadania administracyjne lub rutynowe zadania w danym obszarze"
+      },
+      {
+       "type": "text",
+       "text": "E KIEROWANIE EKSPERTAMI: Kierowanie (pełna odpowiedzialność za podległych pracowników, w tym ich ocena) pracownikami wykonującymi 38 48 58 77 skomplikowane, eksperckie czynności (specjaliści lub eksperci stanowią nie mniej niż 50 % członków zespołu)"
+      },
+      {
+       "type": "text",
+       "text": "F KIEROWANIE ZESPOŁEM INTERDYSCYPLINARNYM: Kierowanie (pełna odpowiedzialność za podległych pracowników, w tym ich ocena) pracownikami 48 58 67 96 wykonującymi bardzo skomplikowane, interdyscyplinarne zadania (z wielu dziedzin), wymagające znacznej wiedzy i doświadczenia"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kryterium szczegółowe: wpływ stanowiska pracy na decyzje",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "Typ wpływu stanowiska pracy na decyzje",
+       "children": [
+        {
+         "type": "text",
+         "text": "W X Y Z"
+        },
+        {
+         "type": "text",
+         "text": "WSPIERAJĄCY: DORADCZY — ZASADNICZY: OSTATECZNY/ Wykonuje proste WSPÓŁODPO- Stanowisko pracy GLOBALNY: prace polegające WIEDZIALNY: odpowiada za Stanowisko pracy np. na zbieraniu Stanowisko cały proces nadzoruje: informacji, pracy w sposób służący — jeden lub kilka dokonywaniu istotny wpływa przygotowaniu procesów mało na przygoto- decyzji przygotowywania skomplikowanej wanie decyzji. lub odpowiada decyzji, analizy informacji. Wpływ doradczy za kluczową jego — kluczową część Zadania charakteryzuje część, czasami procesu lub kilku stanowią bazę do się dostarcza- koordynując pra- procesów podejmowania niem wysoko ce innych zaanga- przygotowydecyzji przez wyspecjalizo- żowanych osób. wania decyzji. innych. Wpływ wanej pomocy To stanowisko Zazwyczaj jest to wspierający to doradczej, pracy może nie stanowisko pracy także uczestnictwo opiniodawczej koordynować kierujące pracą w przygotowaniu w danej pracy innych, ale innych pracow- Poziomy decyzji, które dziedzinie samodzielnie ników. Przygotomają charakter odpowiadać za wywana decyzja czysto formalny, przygotowanie wymaga jego rutynowy całości decyzji. akceptacji lub i nie pozwalają Wpływ zasad- Praca polega na na uznaniowość, niczy wiąże się wyłącznej, fornie wymagają z odpowiedzial- malnej dokonywania nością faktyczną, odpowiedzialnoskomplikowanych a nie jedynie ści za większy analiz formalną (bar- obszar działaldziej liczy się to, ności urzędu (zaże pracownik równo odpowiada statutowej, jak za cały proces i zapewnienie przygotowania funkcjonowania decyzji, a mniej jako organizacji). posiadanie Odpowiedzialformalnych ność i autonomia uprawnień danego stanowido złożenia ska pracy wynika podpisu) z przepisów prawa⁸⁾"
+        },
+        {
+         "type": "text",
+         "text": "A WEWNĄTRZ ORGANIZACJI: Wpływ na zapewnienie 3 13 26 39 sprawnego funkcjonowania urzędu jako organizacji"
+        },
+        {
+         "type": "text",
+         "text": "B INNE URZĘDY: Wpływ na decyzje jednostkowe 3 18 31 44 dotyczące innych urzędów"
+        },
+        {
+         "type": "text",
+         "text": "C KLIENCI ADMINISTRACJI: Wpływ na decyzje mające na celu wydanie jednostkowych decyzji o małej skali 6 20 33 46 oddziaływania (pojedyncze podmioty, niewielkie skutki np. ekonomiczne/finansowe)"
+        },
+        {
+         "type": "text",
+         "text": "[^7]Typ wpływu jest zależny od roli stanowiska pracy w wydawaniu przez urząd/organ decyzji. Decyzja w tym przypadku jest rozumiana szeroko — jest to każdy rodzaj „produktu”, który otrzymuje szeroko zdefiniowany klient zewnętrzny (spoza danego urzędu) w wyniku pracy urzędu. Pod pojęciem decyzji rozumie się bardzo szeroki zakres spraw: od decyzji administracyjnych po decyzje dotyczące wydatkowania środków, przygotowanie projektów aktów prawnych, tworzenie dokumentów strategicznych, sporządzenie protokołów pokontrolnych itp. ⁸⁾ Przykłady:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "stanowisko odpowiedzialne za koordynację audytu wewnętrznego (wyłączna odpowiedzialność za badanie ryzyka i procesów finansowych);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "główny księgowy (odpowiedzialność za poprawność operacji finansowych);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "stanowisko odpowiedzialne za przestrzeganie przepisów BHP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "naczelnik urzędu skarbowego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "D DECYZJE DUŻEJ WAGI: Wpływ na proces skutkujący wydaniem decyzji o dużej skali, wpływających na podmioty zewnętrzne (indywidualne decyzje 6 26 38 58 dotyczące pojedynczych podmiotów instytucjonalnych niosące znaczne skutki ekonomiczne, grup podmiotów instytucjonalnych lub wielu obywateli)"
+        },
+        {
+         "type": "text",
+         "text": "E POLITYKA PAŃSTWA/ROZWIĄZANIA GENERALNE: Wpływ na proces skutkujący 6 32 45 64 powstaniem rozwiązań o zasięgu generalnym⁹⁾ (np. polityka państwa w określonym zakresie)"
+        },
+        {
+         "type": "text",
+         "text": "PUNKTY DODATKOWE: Upoważnienia i pełnomocnictwa"
+        },
+        {
+         "type": "text",
+         "text": "Poziomy Wartości punktowe"
+        },
+        {
+         "type": "text",
+         "text": "N BRAK: Stanowisko pracy nie posiada upoważnień i pełnomocnictw wymienionych w opisie 0 stanowiska pracy"
+        },
+        {
+         "type": "text",
+         "text": "T POSIADA UPOWAŻNIENIA LUB PEŁNOMOCNICTWA: Stanowisko pracy posiada co najmniej 1 upoważnienie lub pełnomocnictwo spośród wskazanych w opisie stanowiska pracy. W przypadku zaznaczenia opcji „inne” decyzję 20 w sprawie przyznania punktów za posiadane upoważnienie lub pełnomocnictwo podejmuje zespół wewnętrzny"
+        },
+        {
+         "type": "text",
+         "text": "⁹⁾ W tym na decyzje dotyczące zasad działania administracji."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "OPIS METODY ANALITYCZNO-PUNKTOWEJ ORAZ WARTOŚCI PUNKTOWE DLA KRYTERIÓW SZCZEGÓŁOWYCH DLA WYŻSZYCH STANOWISK W SŁUŻBIE CYWILNEJ"
+    },
+    {
+     "type": "text",
+     "text": "W ramach każdego z sześciu kryteriów można wybrać tylko jeden poziom określający minimalne wymagania zapewniające prawidłowe wykonywanie pracy na wartościowanym stanowisku pracy."
+    },
+    {
+     "type": "text",
+     "text": "Wybierając odpowiednią wartość punktową w ramach każdego z kryteriów, należy wziąć pod uwagę najbardziej wymagający obszar odpowiedzialności (zadanie) spośród wszystkich obszarów odpowiedzialności (zadań) przypisanych do danego stanowiska pracy."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "KWALIFIKACJE (WIEDZA I DOŚWIADCZENIE)"
+    },
+    {
+     "type": "text",
+     "text": "Wymagany zakres wiedzy specjalistycznej i umiejętności oraz długość i charakter doświadczenia zawodowego zapewniający odpowiednie przygotowanie do pełnienia danej roli."
+    },
+    {
+     "type": "text",
+     "text": "wymagania wymagane wymagane wymagane DŁUGOŚĆ zgodne doświadczenie doświadczenie doświadczenie I CHARAKTER z ustawowym zawodowe w kierowaniu w kierowaniu DOŚWIADCZENIA minimum w kierowaniu złożoną, całymi (możliwy brak zespołem wielozespołową urzędami lub doświadczenia (minimum częścią urzędu organizacjami zawodowego kilkuosobowym) lub organizacji ZAKRES WIEDZY na stanowisku MERYTORYCZNEJ kierowniczym)"
+    },
+    {
+     "type": "text",
+     "text": "A B C D"
+    },
+    {
+     "type": "text",
+     "text": "WYKSZTAŁCENIE WYŻSZE (tytuł zawodowy magistra lub równorzędny) 1 30 80 120 180"
+    },
+    {
+     "type": "text",
+     "text": "o dowolnej specjalizacji"
+    },
+    {
+     "type": "text",
+     "text": "SPECJALISTYCZNA WIEDZA ZAWODOWA"
+    },
+    {
+     "type": "text",
+     "text": "uzyskana dzięki wykształceniu i/lub praktyce zawodowej 2 60 120 170 240 — w jednym obszarze specjalizacji — zbieżnym z profilem zarządzanej struktury"
+    },
+    {
+     "type": "text",
+     "text": "EKSPERCKA WIEDZA ZAWODOWA"
+    },
+    {
+     "type": "text",
+     "text": "uzyskana dzięki wykształceniu i/lub praktyce zawodowej 3 100 150 240 300 w kilku różnych obszarach specjalizacji merytorycznej lub wymagane uprawnienia zawodowe II. ROLA STANOWISKA PRACY I ZAKRES WPŁYWU DECYZYJNEGO"
+    },
+    {
+     "type": "text",
+     "text": "Rola w realizacji lub opracowywaniu strategii lub polityk oraz zasięg ich oddziaływania, w tym: — merytoryczna odpowiedzialność finansowa za rozdysponowywanie środków finansowych (niekoniecznie równoznaczna z formalną odpowiedzialnością finansową), — nadzór pełniony nad zewnętrznymi instytucjami."
+    },
+    {
+     "type": "text",
+     "text": "STRATEGIE /POLITYKI STRATEGIE/POLITYKI ZEWNĘTRZNE WEWNĘTRZNE określają zagadnienia merytoryczne, określają sposoby skierowane na zewnątrz i związane działania organizacji z właściwością danego urzędu (w tym i zagadnienia nadzór nad instytucjami zewnętrznymi) Poziomy merytoryczne związane LOKALNE z wewnętrznym MIEJSCOWE / OGÓLNOPOLSKIE / funkcjonowaniem REGIONALNE MIĘDZYNARODOWE urzędu"
+    },
+    {
+     "type": "text",
+     "text": "A B C"
+    },
+    {
+     "type": "text",
+     "text": "ROLA WYKONAWCZA"
+    },
+    {
+     "type": "text",
+     "text": "realizuje (wykonuje) strategie, polityki ustalone przez inne 1 100 180 300 stanowiska, sprawuje nadzór, wydaje decyzje"
+    },
+    {
+     "type": "text",
+     "text": "ROLA DORADCZA"
+    },
+    {
+     "type": "text",
+     "text": "konsultuje, doradza innym 2 160 240 360 stanowiskom w zakresie tworzenia strategii, polityk"
+    },
+    {
+     "type": "text",
+     "text": "ROLA AUTORA/WSPÓŁAUTORA tworzy, przygotowuje strategie 3 240 320 440 polityki"
+    },
+    {
+     "type": "text",
+     "text": "III. ZARZĄDZANIE LUDŹMI"
+    },
+    {
+     "type": "text",
+     "text": "Złożoność zarządzania w odniesieniu do podległych pracowników, z uwzględnieniem ich liczby oraz rozpiętości kierowanej struktury. Należy brać pod uwagę wszystkich pracowników, nie tylko członków korpusu służby cywilnej."
+    },
+    {
+     "type": "text",
+     "text": "Poziomy Wartości punktowe"
+    },
+    {
+     "type": "text",
+     "text": "Brak permanentnego kierowania pracownikami — kieruje pracownikami tylko 1 w czasie zastępowania kierującego komórką organizacyjną lub w czasie 0 koordynowania projektów"
+    },
+    {
+     "type": "text",
+     "text": "2 Kieruje — tylko bezpośrednio — nie więcej niż 12 pracownikami 60"
+    },
+    {
+     "type": "text",
+     "text": "3 Kieruje co najwyżej 3 zespołami z podległymi osobami zarządzającymi 120 niższego szczebla, albo kieruje bezpośrednio co najmniej 13 pracownikami"
+    },
+    {
+     "type": "text",
+     "text": "4 Kieruje 4—8 zespołami z podległymi osobami zarządzającymi 160"
+    },
+    {
+     "type": "text",
+     "text": "5 Kieruje więcej niż 8 zespołami z podległymi osobami zarządzającymi lub 220 zarządza urzędem liczącym do 200 pracowników"
+    },
+    {
+     "type": "text",
+     "text": "6 Zarządza urzędem liczącym powyżej 200, ale nie więcej niż 600 pracowników 280"
+    },
+    {
+     "type": "text",
+     "text": "7 Zarządza urzędem liczącym powyżej 600, ale nie więcej niż 1000 pracowników 340"
+    },
+    {
+     "type": "text",
+     "text": "8 Zarządza urzędem powyżej 1000 pracowników 400 IV. ROZWIĄZYWANIE PROBLEMÓW"
+    },
+    {
+     "type": "text",
+     "text": "Sposób rozumowania — proces aktywności umysłowej — potrzebny do optymalnego wykonywania zadań na danym stanowisku pracy."
+    },
+    {
+     "type": "text",
+     "text": "Poziomy Wartości punktowe"
+    },
+    {
+     "type": "text",
+     "text": "PODEJŚCIE ANALITYCZNE"
+    },
+    {
+     "type": "text",
+     "text": "1 Podejmowanie decyzji i rozwiązywanie problemów w konkretnych sytuacjach 120 niestandardowych, ale nie kompleksowych, z wykorzystaniem umiejętności analitycznego myślenia; wymaga kreatywności, innowacyjności, elastyczności"
+    },
+    {
+     "type": "text",
+     "text": "PODEJŚCIE SYNTETYCZNE"
+    },
+    {
+     "type": "text",
+     "text": "Podejmowanie decyzji i rozwiązywanie problemów dotyczące złożonych 2 kompleksowych sytuacji, z krótko lub średnioterminową perspektywą 240 planowania (1—3 lata), z wykorzystaniem umiejętności syntetycznego, całościowego myślenia"
+    },
+    {
+     "type": "text",
+     "text": "PODEJŚCIE STRATEGICZNE"
+    },
+    {
+     "type": "text",
+     "text": "Podejmowanie decyzji i rozwiązywanie problemów dotyczących wielu 3 różnorodnych, kompleksowych, złożonych obszarów merytorycznych, 400 związanych typowo z długoplanową, wieloletnią pespektywą planowania, z wykorzystaniem umiejętności strategicznego myślenia"
+    },
+    {
+     "type": "text",
+     "text": "V. ODPOWIEDZIALNOŚĆ ZA ŚRODKI PUBLICZNE"
+    },
+    {
+     "type": "text",
+     "text": "Rzeczywista skala formalnej odpowiedzialności za zarządzanie środkami finansowymi — w ciągu roku — na podstawie formalnych upoważnień do zaciągania zobowiązań i do dysponowania środkami finansowymi."
+    },
+    {
+     "type": "text",
+     "text": "Poziomy Wartości punktowe"
+    },
+    {
+     "type": "text",
+     "text": "1 brak odpowiedzialności za środki finansowe 0"
+    },
+    {
+     "type": "text",
+     "text": "2 do 500 tys. PLN 40"
+    },
+    {
+     "type": "text",
+     "text": "3 pow. 500 tys. do 5 mln PLN 90"
+    },
+    {
+     "type": "text",
+     "text": "4 pow. 5 mln do 50 mln PLN 140"
+    },
+    {
+     "type": "text",
+     "text": "5 pow. 50 mln do 500 mln PLN 200"
+    },
+    {
+     "type": "text",
+     "text": "6 pow. 500 mln PLN 260"
+    },
+    {
+     "type": "text",
+     "text": "VI. CHARAKTER I POZIOM REPREZENTACJI"
+    },
+    {
+     "type": "text",
+     "text": "Charakter i szczebel reprezentowania państwa lub urzędu."
+    },
+    {
+     "type": "text",
+     "text": "KONTAKTY SZCZEBEL LOKALNE KONTAKTY REPREZENTACJI/ w tym KRAJOWE RANGA z przedstawicielami w tym KONTAKTY PARTNERÓW jednostek z kierownikami MIĘDZYNARODOWE CHARAKTER organizacyjnych innych urzędów ODPOWIEDZIALNOŚCI innych urzędów ZWIĄZANEJ Z REPREZENTACJĄ A B C"
+    },
+    {
+     "type": "text",
+     "text": "Formalna reprezentacja urzędu 1 20 40 60"
+    },
+    {
+     "type": "text",
+     "text": "Kształtowanie więzi, budowanie relacji z parterami w ramach 2 50 100 140 regularnych kontaktów (współpracy)"
+    },
+    {
+     "type": "text",
+     "text": "Odpowiedzialność za prowadzenie 3 100 160 200 negocjacji"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZASADY WARTOŚCIOWANIA STANOWISK PRACY METODĄ PORÓWNANIA PARAMI"
+    },
+    {
+     "type": "text",
+     "text": "Wartościowanie metodą porównania parami przeprowadza się na próbie stanowisk pracy wartościowanych metodą analityczno-punktową. O sposobie doboru prób decyduje przewodniczący zespołu wewnętrznego albo upoważniony przez niego członek zespołu. Wielkość jednej próby nie może być większa niż 20 stanowisk pracy."
+    },
+    {
+     "type": "text",
+     "text": "Stanowiska pracy są porównywane z każdym z pozostałych stanowisk pracy z wybranej próby."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Z próby stanowisk pracy, które należy zweryfikować, wybiera się jedno stanowisko pracy, zwane dalej „wybranym stanowiskiem”, od którego zaczyna się wartościowanie metodą porównania parami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Za każdym razem porównuje się tylko dwa stanowiska pracy (parę): wybrane stanowisko z kolejnym z próby stanowiskiem pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Dwa stanowiska pracy (jedną parę) porównuje się tylko raz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Porównując stanowiska pracy, należy ocenić, które z nich jest bardziej skomplikowane/wymagające/odpowiedzialne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ocena jest dokonywana przez członków zespołu na podstawie informacji określonych w zarządzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Jeżeli zadania wykonywane na stanowisku są bardziej skomplikowane/wymagające/odpowiedzialne, otrzymuje ono 1 punkt, a stanowisko pracy, z którym było porównywane, 0 punktów. W przeciwnym przypadku wybrane stanowisko otrzymuje 0 punktów, a stanowisko pracy, z którym jest ono porównywane, otrzymuje 1 punkt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Porównanie wybranego stanowiska uznaje się za zakończone, gdy porównało się je ze wszystkimi innymi stanowiskami pracy w próbie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Suma punktów uzyskana przez wybrane stanowisko stanowi wynik wartościowania metodą porównania parami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Po zakończeniu porównywania wybranego stanowiska wybiera się kolejne stanowisko pracy i porównuje się je z każdym z pozostałych w próbie stanowisk pracy (z wyjątkiem stanowisk pracy, które zostały już zwartościowane metodą porównania parami) na zasadach określonych powyżej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Po zakończeniu wartościowania wszystkich stanowisk pracy w próbie metodą porównania parami stanowiska pracy szereguje się ze względu na wyniki, tworząc listę, która ustala hierarchię stanowisk pracy w próbie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Stanowisko pracy, które uzyskało najwyższy wynik, zajmuje najwyższą pozycję w hierarchii.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "PROTOKÓŁ Z POSIEDZENIA ZESPOŁU WEWNĘTRZNEGO WARTOŚCIUJĄCEGO STANOWISKO PRACY NIEBĘDĄCE WYŻSZYM STANOWISKIEM W SŁUŻBIE CYWILNEJ W ................................................................... (nazwa urzędu)"
+    },
+    {
+     "type": "text",
+     "text": "Data: ..........................................."
+    },
+    {
+     "type": "text",
+     "text": "Obecni członkowie zespołu wewnętrznego:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "przewodniczący zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "...................................................................................................................... .......................................................... (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "członek zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "...................................................................................................................... .......................................................... (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "członek zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "...................................................................................................................... .......................................................... (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "członek zespołu wewnętrznego: ...................................................................................................................... .......................................................... (imię i nazwisko) (podpis)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "członek zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "...................................................................................................................... .......................................................... (imię i nazwisko) (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe osoby, które wzięły udział w posiedzeniu zespołu wewnętrznego:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "......................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "......................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "......................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "INNE INFORMACJE"
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik do protokołu z dnia ...................................................."
+      },
+      {
+       "type": "text",
+       "text": "Stanowisko pracy Kompetencje Charakter stanowiska pracy Odpowiedzialność 1) Stanowisko"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Symbol Suma Przedział stanowiska punktów punktowy 2) do spraw pracy"
+      },
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe Pozycja w tabeli 1 Uzyskany wynik Pozycja w tabeli 2 Uzyskany wynik Pozycja w tabeli 3 Uzyskany wynik Pozycja w tabeli 4 Uzyskany wynik Pozycja w tabeli 5 Uzyskany wynik Pozycja w tabeli 6 Uzyskany wynik Pozycja w tabeli 7 Uzyskany wynik Pozycja w tabeli 8 Uzyskany wynik"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa stanowiska pracy powinna być zgodna z przepisami określającymi stanowiska urzędnicze, wymagane kwalifikacje zawodowe, stopnie służbowe urzędników służby cywilnej, mnożniki do ustalania wynagrodzenia oraz szczegółowe zasady ustalania i wypłacania innych świadczeń przysługujących członkom korpusu służby cywilnej. Przykładowo skrót nazwy komórki organizacyjnej urzędu i kolejny numer opisu stanowiska pracy w danej komórce. wykształcenie"
+      },
+      {
+       "type": "text",
+       "text": "znajomość języków obcych doświadczenie zawodowe umiejętności interpersonalne"
+      },
+      {
+       "type": "text",
+       "text": "rola stanowiska pracy w organizacji"
+      },
+      {
+       "type": "text",
+       "text": "złożoność zadań i kreatywność"
+      },
+      {
+       "type": "text",
+       "text": "horyzont czasowy planowania"
+      },
+      {
+       "type": "text",
+       "text": "czynniki szczególnie utrudniające wykonywanie zadań"
+      },
+      {
+       "type": "text",
+       "text": "odpowiedzialność za realizację zadań przez współpracowników lub podległy personel + liczba podległych lub koordynowanych pracowników wpływ stanowiska pracy na decyzje + typ wpływu stanowiska pracy na decyzje"
+      },
+      {
+       "type": "text",
+       "text": "punkty dodatkowe: upoważnienia i pełnomocnictwa Monitor Polski Nr 5 — 135 — Poz. 61"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "PROTOKÓŁ Z POSIEDZENIA ZESPOŁU WEWNĘTRZNEGO WARTOŚCIUJĄCEGO STANOWISKO PRACY BĘDĄCE WYŻSZYM STANOWISKIEM W SŁUŻBIE CYWILNEJ W ................................................................... (nazwa urzędu)"
+    },
+    {
+     "type": "text",
+     "text": "Data: ......................"
+    },
+    {
+     "type": "text",
+     "text": "Obecni członkowie zespołu wewnętrznego:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "przewodniczący zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "....................................................................................................................................... ........................................... (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "członek zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "....................................................................................................................................... ........................................... (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "członek zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "....................................................................................................................................... ........................................... (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "członek zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "....................................................................................................................................... ........................................... (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "członek zespołu wewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "....................................................................................................................................... ........................................... (imię i nazwisko) (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe osoby, które wzięły udział w posiedzeniu zespołu wewnętrznego:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "......................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "......................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "......................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "INNE INFORMACJE"
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik do protokołu z dnia ..........................................."
+      },
+      {
+       "type": "text",
+       "text": "Stanowisko pracy Kryteria Nazwa Symbol stanowiska stanowiska 1) pracy pracy"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Suma Przedział Nazwa komórki punktów punktowy organizacyjnej urzędu"
+      },
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe Pozycja w tabeli 1 Uzyskany wynik Pozycja w tabeli 2 Uzyskany wynik Pozycja w tabeli 3 Uzyskany wynik Pozycja w tabeli 4 Uzyskany wynik Pozycja w tabeli 5 Uzyskany wynik Pozycja w tabeli 6 Uzyskany wynik Pozycja w tabeli 7 Uzyskany wynik Pozycja w tabeli 8 Uzyskany wynik"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa stanowiska pracy powinna być zgodna z przepisami określającymi stanowiska urzędnicze, wymagane kwalifikacje zawodowe, stopnie służbowe urzędników służby cywilnej, mnożniki do ustalania wynagrodzenia oraz szczegółowe zasady ustalania i wypłacania innych świadczeń przysługujących członkom korpusu służby cywilnej. Kwalifikacje (wiedza i doświadczenie)"
+      },
+      {
+       "type": "text",
+       "text": "Rola stanowiska pracy i zakres wpływu decyzyjnego"
+      },
+      {
+       "type": "text",
+       "text": "Zarządzanie ludźmi"
+      },
+      {
+       "type": "text",
+       "text": "Rozwiązywanie problemów"
+      },
+      {
+       "type": "text",
+       "text": "Odpowiedzialność za środki budżetowe"
+      },
+      {
+       "type": "text",
+       "text": "Charakter i poziom reprezentacji Monitor Polski Nr 5 — 137 — Poz. 61"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "LICZBA I ZAKRES PRZEDZIAŁÓW PUNKTOWYCH DLA WYŻSZYCH STANOWISK W SŁUŻBIE CYWILNEJ"
+    },
+    {
+     "type": "text",
+     "text": "Zakres przedziału punktowego Numer przedziału punktowego min. suma punktów max. suma punktów"
+    },
+    {
+     "type": "text",
+     "text": "I 270 600"
+    },
+    {
+     "type": "text",
+     "text": "II 601 800"
+    },
+    {
+     "type": "text",
+     "text": "III 801 1000"
+    },
+    {
+     "type": "text",
+     "text": "IV 1001 1200"
+    },
+    {
+     "type": "text",
+     "text": "V 1201 1500"
+    },
+    {
+     "type": "text",
+     "text": "VI 1501 2000"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 9",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "PROTOKÓŁ Z POSIEDZENIA ZESPOŁU ZEWNĘTRZNEGO"
+    },
+    {
+     "type": "text",
+     "text": "Data: ......................"
+    },
+    {
+     "type": "text",
+     "text": "Obecni członkowie zespołu zewnętrznego:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "przewodniczący zespołu zewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": ".................................................................................................................................... ............................................. (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "członek zespołu zewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": ".................................................................................................................................... ............................................. (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "członek zespołu zewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": ".................................................................................................................................... ............................................. (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "członek zespołu zewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": ".................................................................................................................................... ............................................. (imię i nazwisko) (podpis)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "członek zespołu zewnętrznego:",
+     "children": [
+      {
+       "type": "text",
+       "text": ".................................................................................................................................... ............................................. (imię i nazwisko) (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe osoby, które wzięły udział w posiedzeniu zespołu zewnętrznego:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "......................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "......................................................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "......................................................................................................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "INNE INFORMACJE"
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": ".........................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik do protokołu z dnia ..................................... Stanowisko pracy Kryteria Dyrektor generalny Symbol urzędu stanowiska (należy wpisać pracy właściwą nazwę Suma Przedział Lp. urzędu) punktów punktowy"
+      },
+      {
+       "type": "text",
+       "text": "Poziomy Wartości punktowe Pozycja w tabeli 1 Uzyskany wynik Pozycja w tabeli 2 Uzyskany wynik Pozycja w tabeli 3 Uzyskany wynik Pozycja w tabeli 4 Uzyskany wynik Pozycja w tabeli 5 Uzyskany wynik Pozycja w tabeli 6 Uzyskany wynik Pozycja w tabeli 7 Uzyskany wynik Pozycja w tabeli 8 Uzyskany wynik Pozycja w tabeli 9 Uzyskany wynik Pozycja w tabeli 10 Uzyskany wynik Kwalifikacje (wiedza i doświadczenie)"
+      },
+      {
+       "type": "text",
+       "text": "Rola stanowiska pracy i zakres wpływu decyzyjnego"
+      },
+      {
+       "type": "text",
+       "text": "Zarządzanie ludźmi"
+      },
+      {
+       "type": "text",
+       "text": "Rozwiązywanie problemów"
+      },
+      {
+       "type": "text",
+       "text": "Odpowiedzialność za środki budżetowe"
+      },
+      {
+       "type": "text",
+       "text": "Charakter i poziom reprezentacji Monitor Polski Nr 5 — 140 — Poz. 61 — 141 —"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 36 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 142 —"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 37 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 143 —"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 38 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Niniejsze zarządzenie było poprzedzone zarządzeniem nr 81 Prezesa Rady Ministrów z dnia 1 sierpnia 2007 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej (M. P. Nr 48, poz. 566 oraz z 2008 r. Nr 15, poz. 163), które traci moc z dniem wejścia w życie niniejszego zarządzenia, zgodnie z art. 207 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. Nr 227, poz. 1505 oraz z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706). (imię i nazwisko) (data) (podpis) (imię i nazwisko) (data) (podpis) (należy wpisać nie więcej niż 3 zdania, bez podawania podstawy prawnej) (należy wpisać maksymalnie 8 zadań określonych w taki sposób, aby wynikała z nich rola stanowiska pracy) * *",
+  "1_2": "Punkty za znajomość języków obcych przyznaje się, jeżeli znajomość języka nie jest wynikiem wymogu względem wykształcenia. Przykład: na danym stanowisku pracy istnieje wymóg zatrudnienia absolwenta filologii angielskiej (wtedy za język angielski nie przyznaje się punktów, ale można je przyznać za konieczność znajomości innych języków obcych, np. francuskiego).",
+  "2": "Umożliwia pisanie pism, rozumienie tekstów fachowych oraz wypowiadanie się na tematy związane z wykonywaną pracą (co najmniej na poziomie B2 wg Europejskiego Systemu Opisu Kształcenia Językowego).",
+  "3": "Każdy następny poziom jest rozszerzeniem poprzedniego, tzn. zawiera cechy wymienione w punkcie poprzednim.",
+  "4": "Negocjacje to sekwencja posunięć (ofert i ustępstw) dwóch stron w celu osiągnięcia wspólnego stanowiska w sytuacji wyjściowej rozbieżności interesów. Polegają na wzajemnym przekonywaniu się do modyfikacji ofert/stanowisk początkowych. Osoby prowadzące negocjacje posiadają pewien margines decyzyjny, tzn. mogą podejmować decyzje o wyborze konkretnego rozwiązania bez konieczności zwracania się do przełożonych.",
+  "5": "Stanowiska pracy kierujące pracą zespołu powinny być wartościowane nie niżej niż na poziomie D.",
+  "6": "Nie można wybrać więcej niż czterech czynników. W przypadku występowania większej liczby czynników należy wybrać cztery najważniejsze dla danego stanowiska pracy. (imię, nazwisko, stanowisko, nazwa komórki organizacyjnej urzędu) (imię, nazwisko, stanowisko, nazwa komórki organizacyjnej urzędu) (imię, nazwisko, stanowisko, nazwa komórki organizacyjnej urzędu) (w tym miejscu należy podać np. informację o upoważnieniach zgodnie z § 17 ust. 3 zarządzenia nr 1 Prezesa Rady Ministrów z dnia 7 stycznia 2011 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej (M. P. Nr 5, poz. 61)): 1) 2) (imię, nazwisko, stanowisko, nazwa komórki organizacyjnej urzędu) (imię, nazwisko, stanowisko, nazwa komórki organizacyjnej urzędu) (imię, nazwisko, stanowisko, nazwa komórki organizacyjnej urzędu) (w tym miejscu należy podać np. informację o upoważnieniach zgodnie z § 17 ust. 3 zarządzenia nr 1 Prezesa Rady Ministrów z dnia 7 stycznia 2011 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej (M. P. Nr 5, poz. 61)): 1) (imię, nazwisko, nazwa urzędu, stanowisko) (imię, nazwisko, nazwa urzędu, stanowisko) (imię, nazwisko, nazwa urzędu, stanowisko) (w tym miejscu należy podać np. informację o upoważnieniach zgodnie z § 34 ust. 3 zarządzenia nr 1 Prezesa Rady Ministrów z dnia 7 stycznia 2011 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej (M. P. Nr 5, poz. 61)):"
+ }
+}

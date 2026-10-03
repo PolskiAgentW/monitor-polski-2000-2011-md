@@ -1,0 +1,50 @@
+{
+ "eli": "MP/2005/310",
+ "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 29 marca 2005 r. w sprawie tablicy średniego dalszego trwania życia kobiet i mężczyzn",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/310/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT PREZESA GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 marca 2005 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie tablicy średniego dalszego trwania życia kobiet i mężczyzn"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ust. 4 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.[^1]) ogłasza się tablicę średniego dalszego trwania życia kobiet i mężczyzn, stanowiącą załącznik do komunikatu."
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Głównego Urzędu Statystycznego: T. Toczyński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do komunikatu Prezesa Głównego Urzędu Statystycznego z dnia 29 marca 2005 r. (poz. 310)",
+   "body": [
+    {
+     "type": "text",
+     "text": "TABLICA ŚREDNIEGO DALSZEGO TRWANIA ŻYCIA KOBIET I MĘŻCZYZN"
+    },
+    {
+     "type": "text",
+     "text": "Liczba miesięcy dalszego trwania życia w zależności od wieku w latach i miesiącach"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355."
+ }
+}

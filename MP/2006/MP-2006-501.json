@@ -1,0 +1,55 @@
+{
+ "eli": "MP/2006/501",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 6 czerwca 2006 r. nr Z. 110-28-2006 o zmianie postanowienia w sprawie odwołania Ambasadora Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/501/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 czerwca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "nr Z. 110-28-2006"
+  },
+  {
+   "type": "text",
+   "text": "o zmianie postanowienia w sprawie odwołania Ambasadora Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 133 ust. 1 pkt 2 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. w związku z wnioskiem Ministra Spraw Zagranicznych postanawia się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 7 kwietnia 2006 r. nr Z. 110-11-2006 w sprawie odwołania Ambasadora Rzeczypospolitej Polskiej otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Na podstawie art. 133 ust. 1 pkt 2 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. odwołuję Pana Andrzeja BYRTA z dniem 10 lipca 2006 r. ze stanowiska Ambasadora Nadzwyczajnego i Pełnomocnego Rzeczypospolitej Polskiej w Republice Federalnej Niemiec.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Postanowienie wchodzi w życie z dniem podpisania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: L. Kaczyński Prezes Rady Ministrów: K. Marcinkiewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

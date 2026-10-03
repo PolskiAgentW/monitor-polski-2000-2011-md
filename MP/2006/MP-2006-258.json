@@ -1,0 +1,230 @@
+{
+ "eli": "MP/2006/258",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 20 marca 2006 r. w sprawie wielkości średniej dziennej wewnętrznej konsumpcji paliw ciekłych w 2005 r.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/258/text.pdf",
+ "body": [],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 20 marca 2006 r. (poz. 257)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ I 10 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wartość strona strona główna odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczypospo- Z prawej strony litej Polskiej, po bokach wizerunek rewerorła oznaczenie roku su monety 10 zł emisji: 20-06, pod orłem z 1932 r. W tle sty- 2 zł napis: ZŁ 2 ZŁ, w otoku lizowany wizerunapis: RZECZPOSPOLI- nek gałązki wierz- TA POLSKA, poprzedzo- by. U góry półkony oraz zakończony sze- lem napis: DZIEJE ścioma perełkami. Pod ZŁOTEGO lewą łapą orła znak mennicy: MW"
+    },
+    {
+     "type": "text",
+     "text": "Z lewej strony u góry wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Powyżej półkolem napis: RZECZ- Z prawej strony POSPOLITA POLSKA. wizerunek rewer- Z prawej strony wizeru- su monety 10 zł nek awersu monety 10 zł z 1932 r. U dołu 10 zł z 1932 r. Powyżej z pra- z lewej strony stywej strony oznaczenie lizowane wizerunroku emisji: 2006. W tle ki czterech pawich stylizowany wizerunek piór. U góry z lesali operacyjnej Narodo- wej strony napis: wego Banku Polskiego DZIEJE ZŁOTEGO z siedziby przy ul. Bielańskiej. U dołu napis: 10 ZŁ. Pod lewą łapą orła znak mennicy: MW Śred- Wielkość Brzeg Masa nica emisji (bok) (w gra- (w mi- Stop/próba (w sztumach) lime- kach) trach)"
+    },
+    {
+     "type": "text",
+     "text": "Na boku ośmiokrotnie powtórzony napis: NBP, co drugi 8,15 27,0 CuAl5Zn5Sn1 1 000 000 odwró-cony o 180 stopni rozdzielony gwiazdkami"
+    },
+    {
+     "type": "text",
+     "text": "gładki 14,14 32,0 Ag 925/1000 61 000"
+    },
+    {
+     "type": "text",
+     "text": "258"
+    },
+    {
+     "type": "text",
+     "text": "OBWIESZCZENIE MINISTRA GOSPODARKI[^1]"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 20 marca 2006 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie wielkości średniej dziennej wewnętrznej konsumpcji paliw ciekłych w 2005 r."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 15 ust. 3 ustawy z dnia 30 maja wiązkowych paliw (Dz. U. z 2003 r. Nr 24, poz. 197, 1996 r. o rezerwach państwowych oraz zapasach obo- z 2004 r. Nr 42, poz. 386 oraz z 2005 r. Nr 132, poz. 1110 i Nr 143, poz. 1201) ogłasza się, co nastę- ——————— puje:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "dla benzyn silnikowych i materiałów pędnych do silników lotniczych — 14,60 tys. m³ (10,95 tys. ton), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "benzyny silnikowe — 14,59 tys. m³ (10,94 tys. ton),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "benzyny lotnicze — 0,01 tys. m³ (0,01 tys. ton);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "dla olejów napędowych do silników, olejów napędowych pozostałych oraz materiałów pędnych do silników lotniczych na bazie nafty — 30,99 tys. m³ (25,85 tys. ton), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "oleje napędowe do silników — 22,12 tys. m³ (18,47 tys. ton),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "oleje napędowe pozostałe — 8,08 tys. m³ (6,75 tys. ton),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "materiały pędne do silników lotniczych na bazie nafty — 0,79 tys. m³ (0,63 tys. ton);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "dla olejów opałowych, z wyłączeniem olejów do silników statków morskich — 2,32 tys. m³ (2,25 tys. ton).",
+     "children": []
+    },
+    {
+     "type": "signature",
+     "text": "Minister Gospodarki: P. G. Woźniak"
+    },
+    {
+     "type": "text",
+     "text": "259"
+    },
+    {
+     "type": "text",
+     "text": "OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 15 marca 2006 r."
+    },
+    {
+     "type": "text",
+     "text": "o zwolnieniu stanowiska sędziowskiego"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 56 § 2 ustawy z dnia 27 lipca 2001 r. — Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.[^1_2]) obwieszcza się, co następuje:"
+    },
+    {
+     "type": "text",
+     "text": "W sądach powszechnych zostały zwolnione:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "stanowisko sędziego sądu apelacyjnego w Sądzie Apelacyjnym w Białymstoku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "stanowisko sędziego sądu apelacyjnego w Sądzie Apelacyjnym w Krakowie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "dwa stanowiska sędziego sądu okręgowego w Sądzie Okręgowym w Częstochowie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "stanowisko sędziego sądu okręgowego w Sądzie Okręgowym w Suwałkach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Dzierżoniowie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Szczecinie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "dwa stanowiska sędziego sądu rejonowego w Sądzie Rejonowym w Wałbrzychu.",
+     "children": []
+    },
+    {
+     "type": "signature",
+     "text": "Minister Sprawiedliwości: Z. Ziobro"
+    },
+    {
+     "type": "text",
+     "text": "260"
+    },
+    {
+     "type": "text",
+     "text": "OBWIESZCZENIE PREZESA KASY ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 7 marca 2006 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w II kwartale 2006 r."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 8 ust. 4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25, z późn. zm.[^1_2]) ogłasza się, co następuje:"
+    },
+    {
+     "type": "text",
+     "text": "Składka na ubezpieczenie wypadkowe, chorobowe i macierzyńskie od jednej osoby w II kwartale 2006 r. wynosi 72 zł."
+    },
+    {
+     "type": "text",
+     "text": "Prezes Kasy Rolniczego Ubezpieczenia Społecznego: J. Kopczyk"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej — gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 31 października Średnia dzienna wewnętrzna konsumpcja paliw 2005 r. w sprawie szczegółowego zakresu działania Mini- ciekłych w 2005 r. dla poszczególnych grup produktów stra Gospodarki (Dz. U. Nr 220, poz. 1888). wytwarzanych z ropy naftowej wyniosła:",
+  "1_2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104.",
+  "1_3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 60, poz. 636, z 2000 r. Nr 45, poz. 531, z 2001 r. Nr 73, poz. 764, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 228, poz. 2255 i Nr 229, poz. 2273, z 2004 r. Nr 91, poz. 873, Nr 146, poz. 1546 i Nr 236, poz. 2355 oraz z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 150, poz. 1248 i Nr 163, poz. 1362."
+ }
+}

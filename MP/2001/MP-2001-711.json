@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2001/711",
+ "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 września 2001 r. o nadaniu odznaczeń.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/711/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Rej. 221/2001"
+  },
+  {
+   "type": "text",
+   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 września 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "o nadaniu odznaczeń."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z 1999 r. Nr 101, poz. 1177 i z 2000 r. Nr 62, poz. 718) odznaczeni zostają:"
+  },
+  {
+   "type": "text",
+   "text": "za zasługi w działalności społecznej na rzecz ochrony przeciwpożarowej"
+  },
+  {
+   "type": "text",
+   "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Rusyn Alfred, SREBRNYM KRZYŻEM ZASŁUGI",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Gądela Aleksander, 3. Pelczar Władysław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za zasługi w działalności społecznej na rzecz rozwoju sportu"
+    },
+    {
+     "type": "text",
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Bieleń Bogusław, 5. Kozieradzki Marian, 6. Tutak Eugeniusz.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

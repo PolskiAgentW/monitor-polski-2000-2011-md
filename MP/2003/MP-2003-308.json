@@ -1,0 +1,66 @@
+{
+ "eli": "MP/2003/308",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 kwietnia 2003 r. w sprawie wzoru wykazu obywateli popierających wniosek o poddanie określonej sprawy pod referendum ogólnokrajowe",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/308/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 kwietnia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzoru wykazu obywateli popierających wniosek o poddanie określonej sprawy pod referendum ogólnokrajowe"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 63 ust. 4 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. Nr 57, poz. 507) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzór wykazu obywateli popierających wniosek o poddanie określonej sprawy pod referendum ogólnokrajowe z inicjatywy obywateli, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Każda strona wykazu, o którym mowa w § 1, powinna zawierać dane wymienione w tytule wykazu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej zdnia 17 kwietnia 2003 r. WZÓR (poz. 308)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Monitor Polski Nr 20 — 1086 — Poz. 308"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

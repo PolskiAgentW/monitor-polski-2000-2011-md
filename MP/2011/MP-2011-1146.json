@@ -1,0 +1,361 @@
+{
+ "eli": "MP/2011/1146",
+ "title": "Uchwała Nr 214 Rady Ministrów z dnia 6 grudnia 2011 r. zmieniająca uchwałę - Regulamin pracy Rady Ministrów",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/1146/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 214 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 grudnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę — Regulamin pracy Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 49 Rady Ministrów z dnia 19 marca 2002 r. — Regulamin pracy Rady Ministrów (M. P. Nr 13, poz. 221, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 6:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ust. 1 i 1a otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Projekty dokumentów rządowych, w tym projekty aktów normatywnych i założeń projektów ustaw, opracowują, z zastrzeżeniem ust. 1b, członkowie Rady Ministrów oraz Szef Kancelarii Prezesa Rady Ministrów, każdy w zakresie swojej właściwości, i uzgadniają je z członkami Rady Ministrów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1a. Wymogu opracowania i uzgodnienia projektu założeń projektu ustawy, o którym mowa w ust. 1, nie stosuje się, jeżeli opracowanie określonego rodzaju projektu ustawy bez uprzedniego przyjęcia przez Radę Ministrów założeń projektu ustawy wynika z wykazu prac legislacyjnych Rady Ministrów.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "ust. 1c otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1c. Opracowanie przez Rządowe Centrum Legislacji projektu ustawy w trybie określonym w ust. 1b następuje we współpracy z organem wnioskującym, który przekazuje Rządowemu Centrum Legislacji szczegółowe propozycje rozwiązań niezbędnych do opracowania projektu ustawy oraz przedstawia informacje i wyjaśnienia dotyczące projektu ustawy.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "po ust. 1c dodaje się ust. 1ca i 1cb w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1ca. Podmioty wymienione w § 1a pkt 2 są obowiązane, w zakresie swojej właściwości, do współpracy z organem wnioskującym oraz Rządowym Centrum Legislacji w sprawach opracowywania projektu ustawy w trybie określonym w ust. 1b, w tym do przedstawiania informacji i wyjaśnień dotyczących projektu ustawy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1cb. Zagadnienia o charakterze legislacyjnym związane z opracowywaniem projektu ustawy w trybie określonym w ust. 1b rozstrzyga Rządowe Centrum Legislacji.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "w ust. 1d pkt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) włącza do uzasadnienia projektu ustawy syntetyczne przedstawienie wyników oceny, o której mowa w § 9 ust. 1, zwane dalej „oceną skutków regulacji (OSR)”, i kieruje projekt ustawy do rozpatrzenia przez stały komitet Rady Ministrów, z zastrzeżeniem § 12 ust. 1a — w przypadku braku uwag, o których mowa w pkt 1.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 9:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Organ wnioskujący dokonuje oceny przewidywanych skutków (kosztów i korzyści) społeczno-gospodarczych regulacji przed opracowaniem projektu aktu normatywnego, a w przypadku projektu ustawy opracowanego przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b — przed skierowaniem projektu do rozpatrzenia przez stały komitet Rady Ministrów albo do uzgodnień.”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "ust. 3 i 4 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Organ wnioskujący, z zastrzeżeniem § 6 ust. 1a, opracowuje i uzgadnia projekt założeń projektu ustawy, obejmujący zwięzłe przedstawienie celu projektowanej ustawy oraz zakresu przewidywanej regulacji i zasadniczych kwestii wymagających uregulowania, w tym zniesienia dotychczasowych lub powołania nowych organów lub instytucji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Odrębną część projektu założeń projektu ustawy stanowi przedstawienie:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) testu regulacyjnego obejmującego w szczególności wstępną analizę ekonomiczną, finansową i społeczną, w tym oszacowanie obciążeń regulacyjnych, oraz porównanie z rozwiązaniami przyjętymi w innych krajach, a także wskazanie osoby odpowiedzialnej za projekt,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) wyników konsultacji, jeżeli zostały przeprowadzone, w szczególności jeżeli obowiązek zasięgnięcia opinii wynika z obowiązujących przepisów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 10 w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „Odrębną część uzasadnienia stanowi ocena skutków regulacji (OSR) zawierająca:”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "§ 11 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przed skierowaniem do uzgodnień organ wnioskujący, z zastrzeżeniem ust. 5, przesyła Kancelarii Prezesa Rady Ministrów projekt aktu normatywnego wraz z uzasadnieniem. W odniesieniu do projektów ustaw Kancelaria Prezesa Rady Ministrów przedstawia stanowisko dotyczące OSR, w szczególności pod względem jej zakresu i zakresu konsultacji społecznych, a w przypadku projektów innych aktów normatywnych może przedstawić takie stanowisko. Przepisy § 13 ust. 2 i 3 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kancelaria Prezesa Rady Ministrów sporządza OSR, jeżeli Prezes Rady Ministrów powierzy dokonanie takiej oceny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Organ wnioskujący zajmuje stanowisko w przypadku:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) p rzedstawienia przez Kancelarię Prezesa Rady Ministrów stanowiska w trybie, o którym mowa w ust. 1,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) s porządzenia OSR przez Kancelarię Prezesa Rady Ministrów w trybie, o którym mowa w ust. 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— które wraz ze stanowiskiem Kancelarii Prezesa Rady Ministrów lub OSR sporządzoną przez Kancelarię Prezesa Rady Ministrów dołącza do projektu aktu normatywnego kierowanego do uzgodnień.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Przed skierowaniem do uzgodnień projektu ustawy opracowanego na podstawie założeń projektu ustawy organ wnioskujący, z zastrzeżeniem ust. 5, przesyła projekt ustawy do zbadania Kancelarii Prezesa Rady Ministrów w celu zapewnienia zgodności projektu ustawy z przyjętymi założeniami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Przepisów ust. 1—4 nie stosuje się do projektu ustawy opracowywanego przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b, którego organ wnioskujący nie skierował do uzgodnień na podstawie § 12 ust. 1a. W takim przypadku:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) o rgan wnioskujący przesyła projekt ustawy do zbadania Kancelarii Prezesa Rady Ministrów w celu zapewnienia zgodności projektu ustawy z przyjętymi założeniami przed skierowaniem do rozpatrzenia przez stały komitet Rady Ministrów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) p o skierowaniu projektu ustawy przez organ wnioskujący do rozpatrzenia przez stały komitet Rady Ministrów Kancelaria Prezesa Rady Ministrów przedstawia stanowisko dotyczące zgodności OSR z założeniami projektu ustawy przyjętymi przez Radę Ministrów oraz aktualności przedstawionych w niej wyników, o których mowa w § 10 ust. 6 pkt 3.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 12:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "ust. 1a otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. W przypadku projektu ustawy opracowanego przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b organ wnioskujący może, przed skierowaniem do rozpatrzenia przez stały komitet Rady Ministrów, skierować projekt do uzgodnień z członkami Rady Ministrów oraz Szefem Kancelarii Prezesa Rady Ministrów. Zagadnienia o charakterze legislacyjnym związane ze zgłaszanymi uwagami rozstrzyga Rządowe Centrum Legislacji.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "w ust. 2a zdanie pierwsze otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Projekt ustawy o szczególnej doniosłości społecznej, ekonomicznej lub prawnej opracowywany przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b, który nie został skierowany do uzgodnień na podstawie ust. 1a, organ wnioskujący kieruje do zaopiniowania przez Radę Legislacyjną przy Prezesie Rady Ministrów przed skierowaniem projektu do rozpatrzenia przez stały komitet Rady Ministrów.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "w ust. 3a zdanie pierwsze otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Projekt ustawy, którego przepisy dotyczą funkcjonowania samorządu terytorialnego, opracowywany przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b, który nie został skierowany do uzgodnień na podstawie ust. 1a, organ wnioskujący przekazuje Komisji Wspólnej Rządu i Samorządu Terytorialnego przed skierowaniem projektu do rozpatrzenia przez stały komitet Rady Ministrów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "§ 15a otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 15a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Do projektu ustawy opracowywanego przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b nie stosuje się przepisów § 14—14c i § 15 ust. 1, chyba że organ wnioskujący skierował projekt ustawy do uzgodnień na podstawie § 12 ust. 1a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do projektu ustawy opracowywanego przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b, którego organ wnioskujący nie skierował do uzgodnień na podstawie § 12 ust. 1a, przepisy § 15 ust. 2 i 3 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w § 16 ust. 1a otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a. Projekt ustawy opracowany przez Rządowe Centrum Legislacji w trybie określonym w § 6 ust. 1b, który nie został skierowany do uzgodnień na podstawie § 12 ust. 1a, organ wnioskujący przekazuje, przed skierowaniem do rozpatrzenia przez stały komitet Rady Ministrów, ministrowi właściwemu do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej, w celu opracowania i przedstawienia opinii tego ministra co do zgodności projektu z prawem Unii Europejskiej, zwanej dalej „opinią o zgodności projektu z prawem Unii Europejskiej”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "w § 21 w ust. 3 dodaje się zdanie trzecie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Zagadnienia legislacyjne, które wyłoniły się w trakcie rozpatrywania projektu, rozstrzyga przewodniczący.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "§ 64 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 64. W sprawach określonych w § 12 ust. 1 i 1a, § 14a ust. 2 i § 38 Szef Kancelarii Prezesa Rady Ministrów działa z upoważnienia Prezesa Rady Ministrów.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do projektów założeń projektów ustaw skierowanych do uzgodnień przed dniem wejścia w życie niniejszej uchwały oraz do projektów ustaw opracowywanych na podstawie takich założeń stosuje się przepisy dotychczasowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli opracowanie określonego rodzaju projektu ustawy bez uprzedniego przyjęcia przez Radę Ministrów założeń projektu ustawy wynika z wydanego przed dniem wejścia w życie niniejszej uchwały postanowienia Prezesa Rady Ministrów albo działającego z jego upoważnienia Sekretarza Rady Ministrów, wymogu opracowania i uzgodnienia projektu założeń projektu ustawy nie stosuje się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej uchwały zostały ogłoszone w M. P. z 2002 r. Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734, z 2005 r. Nr 55, poz. 757, z 2006 r. Nr 40, poz. 439, z 2009 r. Nr 20, poz. 246, z 2010 r. Nr 5, poz. 47 oraz z 2011 r. Nr 1, poz. 6, Nr 50, poz. 553 i Nr 78, poz. 785."
+ }
+}

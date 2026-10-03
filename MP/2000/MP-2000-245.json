@@ -1,0 +1,44 @@
+{
+ "eli": "MP/2000/245",
+ "title": "Uchwała Nr 30 Rady Ministrów z dnia 20 kwietnia 2000 r. w sprawie uznania za nie obowiązującą uchwały w sprawie zasad ustalania kursu złotego w stosunku do walut obcych.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/245/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 30 RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 kwietnia 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie uznania za nie obowiązującą uchwały w sprawie zasad ustalania kursu złotego w stosunku do walut obcych."
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów postanawia, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uznaje się za nie obowiązującą uchwałę nr 71 Rady Ministrów z dnia 16 maja 1991 r. w sprawie zasad ustalania kursu złotego w stosunku do walut obcych (Monitor Polski Nr 17, poz. 111).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Buzek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,203 @@
+{
+ "eli": "MP/2010/947",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 11 października 2010 r. zmieniająca uchwałę w sprawie ustalenia wzorów kart do głosowania w wyborach wójtów, burmistrzów i prezydentów miast",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/947/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 października 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustalenia wzorów kart do głosowania w wyborach wójtów, burmistrzów i prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 5 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191) Państwowa Komisja Wyborcza uchwała, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 2 października 2006 r. w sprawie ustalenia wzorów kart do głosowania w wyborach wójtów, burmistrzów i prezydentów miast (M. P. Nr 70, poz. 711 oraz z 2007 r. Nr 12, poz. 120) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ust. 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Karta do głosowania w górnej części z lewej strony jest opatrzona oznaczeniem „Wybory …………………....………...........................…..”",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "oraz nazwą gminy lub miasta, a pośrodku, w górnej części karty jest umieszczony napis „KARTA DO GŁOSOWANIA w wyborach (odpowiednio) wójta, burmistrza, prezydenta miasta w dniu ……......…. r.”, a poniżej — „Kandydaci na (odpowiednio) wójta, burmistrza, prezydenta miasta”.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "ust. 9 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„9. W ponownym głosowaniu karta do głosowania jest drukowana na papierze koloru różowego i ma format A-6. W górnej części karty pośrodku jest umieszczony napis „KARTA DO GŁOSOWANIA w wyborach (odpowiednio) wójta, burmistrza, prezydenta miasta w ponownym głosowaniu w dniu ………....... r.”. Przepisy ust. 1 i ust. 3—5 stosuje się odpowiednio.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "dodaje się ust. 11 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„11. Wzór karty do głosowania w ponownym głosowaniu, w sytuacji o której mowa w ust. 7, stanowi załącznik nr 5 do uchwały.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "załącznik nr 3 do uchwały otrzymuje brzmienie zgodne z załącznikiem nr 1 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "dodaje się załącznik nr 5 do uchwały stanowiący załącznik nr 2 do niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 11 października 2010 r. (poz. 947) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Wybory ........................................................... x) ........................................................... (Wójta, Burmistrza, Prezydenta Miasta) (nazwa gminy/miasta)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "w wyborach ............................................................................. x) (wójta, burmistrza, prezydenta miasta)"
+    },
+    {
+     "type": "text",
+     "text": "w dniu ................................ r."
+    },
+    {
+     "type": "text",
+     "text": "Kandydat na ................................................................ x) (wójta, burmistrza, prezydenta miasta)"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony przez ..................................................................................................................... (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "o TAK …………………......................................................................…… (nazwisko i imię — imiona) o NIE"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA Głosując za wyborem kandydata, stawia się znak „x” w kratce oznaczonej słowem „TAK” z lewej strony obok nazwiska kandydata. Głosując przeciwko wyborowi kandydata, stawia się znak „x” w kratce oznaczonej słowem „NIE” z lewej strony obok nazwiska kandydata. Postawienie znaku „x” w obu kratkach albo niepostawienie znaku „x” w żadnej kratce powoduje nieważność głosu."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Wybory ........................................................... x) ........................................................... (Wójta, Burmistrza, Prezydenta Miasta) (nazwa gminy/miasta)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "w wyborach ............................................................................. x) (wójta, burmistrza, prezydenta miasta)"
+    },
+    {
+     "type": "text",
+     "text": "w ponownym głosowaniu"
+    },
+    {
+     "type": "text",
+     "text": "w dniu ................................ r."
+    },
+    {
+     "type": "text",
+     "text": "Kandydat na ................................................................ x) (wójta, burmistrza, prezydenta miasta)"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony przez ..................................................................................................................... (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "o TAK …………………......................................................................…… (nazwisko i imię — imiona) o NIE"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA Głosując za wyborem kandydata, stawia się znak „x” w kratce oznaczonej słowem „TAK” z lewej strony obok nazwiska kandydata. Głosując przeciwko wyborowi kandydata, stawia się znak „x” w kratce oznaczonej słowem „NIE” z lewej strony obok nazwiska kandydata. Postawienie znaku „x” w obu kratkach albo niepostawienie znaku „x” w żadnej kratce powoduje nieważność głosu."
+    },
+    {
+     "type": "text",
+     "text": "(miejsce na umieszczenie pieczęci (pieczęć gminnej — miejskiej obwodowej komisji wyborczej) komisji wyborczej) x) Umieścić odpowiednio. (miejsce na umieszczenie pieczęci (pieczęć gminnej — miejskiej obwodowej komisji wyborczej) komisji wyborczej) x) Umieścić odpowiednio."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

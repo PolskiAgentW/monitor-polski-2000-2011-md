@@ -1,0 +1,185 @@
+{
+ "eli": "MP/2003/393",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 26 maja 2003 r. w sprawie trybu przesyłania do Państwowej Komisji Wyborczej danych i protokołów głosowania w referendum ogólnokrajowym obejmujących wyniki głosowania z obszaru właściwości komisarza wyborczego",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/393/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 maja 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie trybu przesyłania do Państwowej Komisji Wyborczej danych i protokołów głosowania w referendum ogólnokrajowym obejmujących wyniki głosowania z obszaru właściwości komisarza wyborczego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 3 i art. 28 ust. 3 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. Nr 57, poz. 507 i Nr 85, poz. 782) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się tryb przesyłania do Państwowej Komisji Wyborczej danych i protokołów głosowania w referendum ogólnokrajowym obejmujących wyniki głosowania z obszaru właściwości komisarza wyborczego, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 26 maja 2003 r. (poz. 393)"
+    },
+    {
+     "type": "text",
+     "text": "TRYB PRZESYŁANIA DO PAŃSTWOWEJ KOMISJI WYBORCZEJ DANYCH I PROTOKOŁÓW GŁOSOWANIA W REFERENDUM OGÓLNOKRAJOWYM OBEJMUJĄCYCH WYNIKI GŁOSOWANIA Z OBSZARU WŁAŚCIWOŚCI KOMISARZA WYBORCZEGO"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Komisarz wyborczy przesyła do Państwowej Komisji Wyborczej dane z protokołów głosowania w obwodach otrzymanych z obwodowych komisji do spraw referendum na obszarze jego właściwości, przy wykorzystaniu sieci elektronicznego przekazywania danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Transmisji danych, o których mowa w pkt 1, komisarz wyborczy dokonuje po wprowadzeniu do systemu informatycznego, wspomagającego komisarza wyborczego, danych z 10% protokołów głosowania w obwodach z obszaru właściwości komisarza.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kolejne transmisje danych dokonywane są nie rzadziej niż:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "po wprowadzeniu do systemu informatycznego — po zakończeniu poprzedniej transmisji — danych z kolejnych 10% protokołów głosowania w obwodach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "co 60 minut.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Niezwłocznie po sporządzeniu protokołu głosowania na obszarze właściwości komisarza wyborczego dane z protokołu przekazywane są do Państwowej Komisji Wyborczej w sposób określony w pkt 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Przy transmisji danych do Państwowej Komisji Wyborczej mogą być obecni mężowie zaufania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Po wykonaniu czynności, o których mowa w pkt 1 i 3, komisarz wyborczy przekazuje do Państwowej Komisji Wyborczej telefaksem pod wskazany numer jeden egzemplarz protokołu głosowania na obszarze jego właściwości. Każda strona protokołu powinna być oznaczona pieczęcią komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Jeżeli protokół zawiera dodatkowe załączniki z uwagami mężów zaufania, a także stanowisko komisarza wyborczego odnośnie do wniesionych uwag, dokumenty te należy również przekazać Państwowej Komisji Wyborczej w trybie określonym w pkt 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Po dokonaniu czynności, o których mowa w pkt 5 i 6, komisarz wyborczy lub upoważniony przez niego pracownik delegatury Krajowego Biura Wyborczego dostarcza do Państwowej Komisji Wyborczej następujące dokumenty, zwane dalej „dokumentacją”:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_7/pkt_1",
+       "text": "protokół głosowania na obszarze właściwości komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_7/pkt_2",
+       "text": "załączniki do protokołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_7/pkt_3",
+       "text": "sporządzone przez komisarza wyborczego zbiorcze zestawienie zarzutów zgłoszonych do obwodowych komisji do spraw referendum zarówno przez mężów zaufania, jak i przez członków komisji obwodowych wraz ze stanowiskiem komisji obwodowych oraz własnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_7/pkt_4",
+       "text": "dyskietki bądź inne nośniki informatyczne zawierające dane z protokołów głosowania w obwodach oraz protokołu głosowania na obszarze właściwości komisarza wyborczego, zarejestrowane w systemie informatycznym wspomagającym komisarza wyborczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Dokumentację przekazuje się w kopertach zaklejonych i opieczętowanych na wszystkich złączach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_2/ust_9",
+     "text": "Dokumentacja dostarczana jest najdogodniejszym (umożliwiającym najszybsze dostarczenie) środkiem transportu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_2/ust_10",
+     "text": "Sposób zabezpieczenia dokumentacji podczas transportu komisarz wyborczy ustala z właściwym komendantem jednostki Policji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_2/ust_11",
+     "text": "Przyjęcie dokumentacji od komisarza wyborczego następuje w siedzibie Państwowej Komisji Wyborczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_2/ust_12",
+     "text": "Pozostałe dokumenty z przeprowadzonego referendum przekazuje się na przechowanie dyrektorowi właściwej delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

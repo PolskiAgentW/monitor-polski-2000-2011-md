@@ -1,0 +1,90 @@
+{
+ "eli": "MP/2000/346",
+ "title": "Zarządzenie Narodowego Banku Polskiego z dnia 23 maja 2000 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/346/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 maja 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938 i z 1998 r. Nr 160, poz. 1063) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wzory, stop, próbę, masę i wielkość emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł, określone w załączniku do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 7 czerwca 2000 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Narodowego Banku Polskiego: H. Gronkiewicz-Waltz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 23 maja 2000 r. (poz. 346)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZORY, STOP, PRÓBA, MASA I WIELKOŚĆ EMISJI MONET NOMINALNEJ WARTOŚCI 2 ZŁ, 10 ZŁ I 200 ZŁ"
+    },
+    {
+     "type": "text",
+     "text": "Cechy graficzne Wartość strona główna strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, po bokach orła Posąg św. Jana oznaczenie roku emi- Chrzciciela na tle stysji: 20-00, pod orłem lizowanej panoramy 2 zł napis: ZŁ 2 ZŁ, w oto- Wrocławia. U dołu ku napis: RZECZ- półkolem napis: POSPOLITA POLSKA 1000-LECIE WROC- poprzedzony oraz za- ŁAWIA kończony sześcioma perełkami. Pod lewą łapą orła znak mennicy: MW"
+    },
+    {
+     "type": "text",
+     "text": "Na tle stylizowanego wizerunku ratusza we Wrocławiu wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Nad Wizerunek herbu orłem z prawej stro- Wrocławia wkompony oznaczenie roku nowany we fragment 10 zł emisji: 2000. Z lewej portalu. U dołu półstrony orła napis: 10 kolem napis: 1000- oraz półkolem: ZŁO- -LECIE WROCŁAWIA TYCH. U góry półkolem napis: RZECZ- POSPOLITA POL- SKA. Pod lewą łapą orła znak mennicy: MW"
+    },
+    {
+     "type": "text",
+     "text": "Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Obok prawej łapy orła oznaczenie Stylizowany wizeruroku emisji: 2000. nek św. Jana Chrzci- Wokół orła oraz ciela z herbem Wrooznaczenia roku emi- cławia. Wokół wizesji nieregularny orna- runku nieregularny 200 zł ment z perełek. U do- ornament z perełek łu półkolem napis: oraz napis: TYSIĄC- 200 / ZŁOTYCH. U gó- LECIE WROCŁAWIA ry półkolem napis: rozdzielony gwiazd- RZECZPOSPOLITA kami. W otoku niere- POLSKA rozdzielony gularny ornament gwiazdkami. W otoku z perełek. nieregularny ornament z perełek. Pod lewą łapą orła znak mennicy: MW Masa Średnica Wielkość Brzeg (w gra- (w mili- Stop (próba) emisji (bok) mach) metrach) (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "Na boku napis: NARO- DOWY BANK 8,15 27,0 CuAl5Zn5Sn1 500.000 POLSKI rozdzielony gwiazdką"
+    },
+    {
+     "type": "text",
+     "text": "gładki 14,14 32,0 Ag 925/1000 32.000"
+    },
+    {
+     "type": "text",
+     "text": "gładki 15,50 27,0 Au 900/1000 2.000"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

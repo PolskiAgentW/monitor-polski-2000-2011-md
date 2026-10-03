@@ -1,0 +1,61 @@
+{
+ "eli": "MP/2003/688",
+ "title": "Obwieszczenie Ministra Finansów z dnia 18 września 2003 r. w sprawie ogłoszenia kwot, o których mowa w art. 12 ust. 1 pkt 1 ustawy o finansach publicznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/688/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 września 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia kwot, o których mowa w art. 12 ust. 1 pkt 1 ustawy o finansach publicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 1 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.[^1]), w oparciu o dostępne dane, ogłasza się za pierwszą połowę roku budżetowego 2003 następujące kwoty:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "państwowego długu publicznego — 388 929,8 mln zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez podmioty sektora finansów publicznych — 32 909,9 mln zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "długu Skarbu Państwa — 362 639,2 mln zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa — 32 265,7 mln zł.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów: w z. W. Ciesielski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874 i Nr 166, poz. 1611."
+ }
+}

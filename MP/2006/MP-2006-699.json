@@ -1,0 +1,840 @@
+{
+ "eli": "MP/2006/699",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 25 września 2006 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze, w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz wójtów, burmistrzów, prezydentów miast",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/699/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 września 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze, w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz wójtów, burmistrzów, prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 1 pkt 4 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.[^1]), art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.[^2]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się dla wyborów do rad gmin w gminach do 20 tysięcy mieszkańców wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 1 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ustala się dla wyborów do rad gmin w gminach powyżej 20 tysięcy mieszkańców wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 2 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ustala się dla wyborów do rad powiatów wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 3 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Ustala się dla wyborów do sejmików województw wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 4 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Ustala się dla wyborów do Rady miasta stołecznego Warszawy wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 5 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Ustala się dla wyborów do rad dzielnic miasta stołecznego Warszawy wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 6 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Ustala się dla wyborów wójta (burmistrza, prezydenta miasta) wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 7 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Ustala się dla wyborów wójta (burmistrza, prezydenta miasta) przeprowadzanych w sytuacji, o której mowa w art. 11 ust. 3 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta, wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 8 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Ustala się dla ponownego głosowania w wyborach wójta (burmistrza, prezydenta miasta) wzór protokołu głosowania w obwodzie, stanowiący załącznik nr 9 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Ustala się dla ponownego głosowania w wyborach wójta (burmistrza, prezydenta miasta) wzór protokołu głosowania w obwodzie w sytuacji, o której mowa w art. 11 ust. 3 ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta, stanowiący załącznik nr 10 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "W wyborach do rad miast na prawach powiatów stosuje się odpowiednio wzór protokołu głosowania określony w § 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 2 września 2002 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze, w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz wójtów, burmistrzów, prezydentów miast (M. P. Nr 39, poz. 608).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 25 września 2006 r. (poz. 699) Załącznik nr 1 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": ". | Liczba głosów nieważnych w tym z powodu postawienia znaku „X” obok większej liczby nazwisk \" | kandydatów niż liczba mandatów w okręg w tym z powodu niepostawienia znaku ,,X” obok nazwiska żadnego \"| kandydata w tym z powodu postawienia znaku „X” wyłącznie obok nazwiska \"| skreślonego kandydata (art. 113 ust. 2) w tym z powodu postawienia znaku „„X” wyłącznie obok nazwiska \"| kandydata z unieważnionej listy kandydatów (art. 113 ust. 3) Uwaga! Suma liczb z pkt. 8a. — 8d. musi być równa liczbie z pkt. 8."
+    },
+    {
+     "type": "ocr",
+     "text": "9. | Liczba głosów ważnych EEEE Uwaga! Suma liczb z pkt. 8. i 9. musi być równa liczbie z pkt. 7."
+    },
+    {
+     "type": "ocr",
+     "text": "10. Na poszczególnych kandydatów z list kandydatów oddano następującą liczbę głosów ważnych: Lista nr............ EEE (nr listy) (skrót nazwy komitetu wyborczego) Lp. | Nazwisko i imiona kandydata Liczba głosów ważnych 1 2 3 4 5 Uwaga! Liczba głosów otrzymanych przez któregokolwiek kandydata nie może być większa od liczby głosów ważnych (pkt 9)."
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr............ ENEA"
+    },
+    {
+     "type": "ocr",
+     "text": "Lp. | Nazwisko i imiona kandydata 2|>© | |-—"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Liczba głosów otrzymanych przez któregokolwiek kandydata nie może być większa od liczby głosów ważnych (pkt 9)."
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr............ EEEE (nr listy) (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. UWAGI I ADNOTACJE 11” 12” 13” 14” 15” 16”"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2. a sumą liczb z pkt. 3. i pkt. 4.; jeżeli różnica nie występuje, wpisać „brak uwag”: Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 5. a liczbą z pkt. 3.; jeżeli różnica nie występuje, wpisać „brak uwag”: bed uwag :"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię — imiona, funkcja w Komisji) (podpis)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "9 Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. *9'W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II. USTALENIE WYNIKÓW GŁOSOWANIA"
+    },
+    {
+     "type": "ocr",
+     "text": "Komisja stwierdziła, że pieczęcie na urnie pozostały nienaruszone. Po wyjęciu kart z umy Komisja ustaliła na ich podstawie następujące wyniki głosowania:"
+    },
+    {
+     "type": "ocr",
+     "text": ". | Liczba oddanych kart do głosowania, czyli liczba kart wyjętych z urny Uwaga! Liczba z pkt. 5. powinna być równa liczbie z pkt. 3.; jeśli tak nie jest — przypuszczalną przyczynę należy omówić w pkt. 12. . | Liczba kart nieważnych"
+    },
+    {
+     "type": "ocr",
+     "text": ". | Liczba kart ważnych Uwaga! Suma liczb z pkt. 6. i 7. musi być równa liczbie z pkt. 5. . | Liczba głosów nieważnych w tym z powodu postawienia znaku ,.X” obok nazwiska dwóch lub \"| większej liczby kandydatów z różnych list w tym z powodu niepostawienia znaku „X” obok nazwiska żadnego \"| kandydata z którejkolwiek z list w tym z powodu postawienia znaku „X” wyłącznie obok nazwiska \" | skreślonego kandydata (art. 113 ust. 2) w tym z powodu postawienia znaku „X” wyłącznie obok nazwiska \"| kandydata z unieważnionej listy kandydatów (art. 113 ust. 3) Uwaga! Suma liczb z pkt. 8a. — 8d. musi być równa liczbie z pkt. 8."
+    },
+    {
+     "type": "ocr",
+     "text": "9. | Liczba głosów ważnych DEE Uwaga! Suma liczb z pkt. 8. 19. musi być równa liczbie z pkt. 7."
+    },
+    {
+     "type": "ocr",
+     "text": "10. Na poszczególne listy kandydatów i kandydatów z tych list oddano następującą liczbę głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Lista nr............ EEEE (nr listy) (skrót nazwy komitetu wyborczego) [Liczba głosów ważnych oddanych na listę: ||| ||| ||| [TJ Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ REECE (nr listy) (skrót nazwy komitetu wyborczego) Liczba głosów ważnych oddanych na listę: Pf fT Na poszczególnych kandydatów z tej listy oddano następujące liczby głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ ch eceecccccucauscecueceueveceseceuescusceeeseseseseseseueceuceeeestseseseeseneseuererepsnsnereuavenacesesceneseceees (nr listy) (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II. UWAGI I ADNOTACJE 11” Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2. a sumą liczb"
+    },
+    {
+     "type": "ocr",
+     "text": "12” Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 5. a liczbą z pkt. 3.; jeżeli różnica nie występuje, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "13” W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, W CZTANCZA EEEE"
+    },
+    {
+     "type": "ocr",
+     "text": "14”"
+    },
+    {
+     "type": "ocr",
+     "text": "15°"
+    },
+    {
+     "type": "ocr",
+     "text": "16”"
+    },
+    {
+     "type": "ocr",
+     "text": "1) 2) 3) 4) 5) 6) 7) 8) 9)"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "\") Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. *9'W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ EEEE"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr........... EEEE"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ EEE (nr listy) (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. UWAGI I ADNOTACJE 11° Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2. a sumą liczb 12” Uwagio przypuszezalnej przyczynie różnicy pomiędzy liczbą z pkt. 5.a liczbą z pkt. 3.; jeżeli różnica nie występuje, wpisać „brak uwag”: u... 13” W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „nie wydano ': 14” 15”) 16” OE"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) 5 Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu. zaznaczając to w odpowiednim punkcie protokołu. “OW razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ EEEE"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem ”) musi się równać liczbie głosów ważnych oddanych na tę listę."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. (nr listy) (skrót nazwy komitetu wyborczego) Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. UWAGI I ADNOTACJE 11 12” 13° 14” 15” 16” 1)"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2. a sumą liczb z pkt. 3. i pkt. 4.; jeżeli różnica nie występuje, wpisać „brak uwag”! .........-eeeeesasaeasia122. Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 5. a liczbą z pkt. 3.; jeżeli różnica nie występuje, wpisać „brak Uwag”: Lea aaa aaa aaa W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „nie wydano ':"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) 9 Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. \"PW razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 15 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": ". | Liczba głosów nieważnych"
+    },
+    {
+     "type": "ocr",
+     "text": "w tym z powodu postawienia znaku ,,X” obok nazwiska dwóch lub większej liczby kandydatów z różnych list w tym z powodu niepostawienia znaku „X” obok nazwiska żadnego \"| kandydata z którejkolwiek z list w tym z powodu postawienia znaku „X” wyłącznie obok nazwiska \" | skreślonego kandydata (art. 113 ust. 2) w tym z powodu postawienia znaku „X” wyłącznie obok nazwiska \"| kandydata z unieważnionej listy kandydatów (art. 113 ust. 3) Uwaga! Suma liczb z pkt. 8a. — 8d. musi być równa liczbie z pkt. 8."
+    },
+    {
+     "type": "ocr",
+     "text": "9. | Liczba głosów ważnych EEEE Uwaga! Suma liczb z pkt. 8. 1 9. musi być równa liczbie z pkt. 7."
+    },
+    {
+     "type": "ocr",
+     "text": "10. Na poszczególne listy kandydatów i kandydatów z tych list oddano następującą liczbę głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanic strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ EEEE"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ —...... eee aaa aaa 003"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ — enensesesesssssssssssssescececececececececececececeeeeseseseseseseseneececscecseecacececeseseseeeesacaqaqeteeeqeqeqanes (nr listy) (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. UWAGI I ADNOTACJE 11” Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2. a sumą liczb z pkt. 3. i pkt. 4.; jeżeli różnica nie występuje, wpisać „brak uwag”: ..... cece rete eeeees"
+    },
+    {
+     "type": "ocr",
+     "text": "12” Uwagio przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 5. a liczbą z pkt. 3.; jeżeli różnica nie występuje, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "13” W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „NIe Wydano : Lecce ecescccccsessssecseseseseseeseseseacsesesscsesessseseseseeecseseseseenscsesetsesesnseneees"
+    },
+    {
+     "type": "ocr",
+     "text": "14°"
+    },
+    {
+     "type": "ocr",
+     "text": "15”"
+    },
+    {
+     "type": "ocr",
+     "text": "16”"
+    },
+    {
+     "type": "ocr",
+     "text": "| PA O ZW OE OWA NE OE OE"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "9 Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. “OW razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 19 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II. USTALENIE WYNIKÓW GŁOSOWANIA Komisja stwierdziła, że pieczęcie na urnie pozostały nienaruszone. Po wyjęciu kart z urny Komisja ustaliła na ich podstawie następujące wyniki głosowania:"
+    },
+    {
+     "type": "ocr",
+     "text": ". | Liczba oddanych kart do głosowania, czyli liczba kart wyjętych z urny Uwaga! Liczba z pkt. 5. powinna być równa liczbie z pkt. 3.; jeśli tak nie jest — przypuszczalną przyczynę nalcży omówić w pkt. 12. . | Liczba kart nieważnych"
+    },
+    {
+     "type": "ocr",
+     "text": ". | Liczba kart ważnych Uwaga! Suma liczb z pkt. 6. i 7. musi być równa liczbie z pkt. 5. . | Liczba głosów nieważnych"
+    },
+    {
+     "type": "ocr",
+     "text": "w tym z powodu postawienia znaku „X” obok nazwiska dwóch lub \" | większej liczby kandydatów z różnych list w tym z powodu niepostawienia znaku ,,X” obok nazwiska żadnego \" | kandydata z którejkolwiek z list w tym z powodu postawienia znaku „X” wyłącznie obok nazwiska \" | skreślonego kandydata (art. 113 ust. 2) w tym z powodu postawienia znaku „X” wyłącznie obok nazwiska * | kandydata z unieważnionej listy kandydatów (art. 113 ust. 3) Uwaga! Suma liczb z pkt. 8a. — 8d. musi być równa liczbie z pkt. 8. Liczba głosów ważnych EEE Uwaga! Suma liczb z pkt. 8. 19. musi być równa liczbie z pkt. 7."
+    },
+    {
+     "type": "ocr",
+     "text": "10. Na poszczególne listy kandydatów i kandydatów z tych list oddano następującą liczbę głosów ważnych:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ ZOE"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę."
+    },
+    {
+     "type": "ocr",
+     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów z danej listy (rubryka „„Razem”) musi się równać liczbie głosów ważnych oddanych na tę listę. Lista nr............ EEEE (nr listy) (skrót nazwy komitet wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. UWAGI I ADNOTACJE 11° 12” 13” 14” 15” 16” 1)"
+    },
+    {
+     "type": "ocr",
+     "text": "Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2. a sumą liczb z pkt. 3. i pkt. 4.; jeżeli różnica nie występuje, wpisać „brak uwag”’: Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 5.a liczbą z pkt. 3.; jeżeli różnica nie występuje, wpisać „brak uwag”: W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „nie wydano ':"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) % Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. “OW razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 23 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II. NA POSZCZEGÓLNYCH KANDYDATÓW NA WÓJTA, BURMISTRZA, PREZYDENTA MIASTA* ODDANO NASTĘPUJĄCE LICZBY GŁOSÓW WAŻNYCH Nazwisko i imię Zgłoszony przez Komitet Wyborczy"
+    },
+    {
+     "type": "ocr",
+     "text": "Liczba głosów ważnych"
+    },
+    {
+     "type": "ocr",
+     "text": "* Niepotrzebne skreślić. Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8.” Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2 a sumą liczb z pkt 3 i pkt 4; jeżeli różnica nie występuje, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "9.) Uwagi o przypuszczalnej przyczynie ewentualnych różnic pomiędzy liczbą z pkt 5 a liczbą z pkt 3; jeżeli różnica nie występuje, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "10.” W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „nie wydano:"
+    },
+    {
+     "type": "ocr",
+     "text": "11.” Zarzuty mężów zaufania; jeżeli nie zgłoszono, wpisać „nie zgłoszono”””:"
+    },
+    {
+     "type": "ocr",
+     "text": "13.) Inne uwagi; jeżeli nie ma, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji) 9 Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. “YW razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. ZA WYBOREM KANDYDATA NA WÓJTA, BURMISTRZA, PREZYDENTA MIASTA* ORAZ PRZECIW WYBOROWI KANDYDATA ODDANO NASTĘPUJĄCE LICZBY GŁOSÓW WAŻNYCH Dane kandydata"
+    },
+    {
+     "type": "ocr",
+     "text": "Zgłoszony przez Komitet Liczba głosów ważnych za wyborem kandydata Liczba głosów ważnych przeciw wyborowi kandydata EEEE"
+    },
+    {
+     "type": "ocr",
+     "text": "* Niepotrzebne skreślić. Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8.) Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2 a sumą liczb z pkt 3 i pkt 4; jeżeli różnica nie występuje, wpisać \"brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "9,) Uwagi o przypuszczalnej przyczynie ewentualnych różnic pomiędzy liczbą z pkt 5 a liczbą z pkt 3; jeżeli różnica nie występuje, wpisać \"brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "10.) W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „nie wydano ':"
+    },
+    {
+     "type": "ocr",
+     "text": "11.9 Zarzuty mężów zaufania; jeżeli nic zgłoszono, wpisać „nic zgłoszono"
+    },
+    {
+     "type": "ocr",
+     "text": "12. Zarzuty członków Komisji; jeżeli nie zgłoszono, wpisać ,,nie zgtoszono.”"
+    },
+    {
+     "type": "ocr",
+     "text": "13.) Inne uwagi; jeżeli nie ma, wpisać „brak uwag ':"
+    },
+    {
+     "type": "ocr",
+     "text": "PY PE ONA FW SYNA O ONA YA OWA (pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "“| Jeżeli treść dotycząca danego punktu nie mieści sie na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. “W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 9 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 29 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II. ZA WYBOREM NA POSZCZEGÓLNYCH KANDYDATÓW NA WÓJTA, BURMISTRZA, PREZYDENTA MIASTA* ODDANO NASTĘPUJĄCE LICZBY GŁOSÓW WAŻNYCH Dane kandydatów Nazwisko i imi Zgłoszony przez Komitet Liczba głosów ważnych"
+    },
+    {
+     "type": "ocr",
+     "text": "ę Wyborczy izba głosów ważnych y"
+    },
+    {
+     "type": "ocr",
+     "text": "* Niepotrzebne skreślić. Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 31 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8.) Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt. 2 a sumą liczb z pkt 3 i pkt 4; jeżeli różnica nie występuje, wpisać „brak uwag”: 9.) Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt 5., a liczbą z pkt 3; jeżeli różnica nie występuje, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "10.” W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „nie wydano ': » ky, ."
+    },
+    {
+     "type": "ocr",
+     "text": "11.” Zarzuty mężów zaufania; jeżeli nie zgłoszono, wpisać „nie zgłoszono 12.” Zarzuty członków Komisji; jeżeli nie zgłoszono, wpisać „nie zgłoszono” \"\": 13.” Inne uwagi; jeżeli nie ma, wpisać „brak uwag”:"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "5. Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. *9'W razie zgłoszenia uwag przez mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 10 WZÓR",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 32 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "II. ZA WYBOREM KANDYDATA NA WÓJTA, BURMISTRZA, PREZYDENTA MIASTA* ORAZ PRZECIW WYBOROWI KANDYDATA ODDANO NASTĘPUJĄCE LICZBY GŁOSÓW WAŻNYCH Dane kandydata Nazwisko i imię Zgłoszony przez Komitet Wyborczy Liczba głosów ważnych za wyborem kandydata Liczba głosów ważnych przeciw wyborowi kandydata"
+    },
+    {
+     "type": "ocr",
+     "text": "* Niepotrzebne skreślić. Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "8.” Uwagi o przypuszczalnej przyczynie różnicy pomiędzy liczbą z pkt. 2 a sumą liczb z pkt 3 i pkt 4; jeżeli różnica nie występuje, wpisać „brak uwag”: 9.) Uwagi o przypuszczalnej przyczynie ewentualnych różnic pomiędzy liczbą z pkt 5 a liczbą z pkt 3; jeżeli różnica nie występuje, wpisać „brak uwag”: 10.” W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać „nie wydano”:"
+    },
+    {
+     "type": "ocr",
+     "text": "12.” Zarzuty członków Komisji; jeżeli nie zgłoszono, wpisać „nie zgłoszono”:"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "* Jeżeli treść dotycząca danego punktu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. \"W razie zgłoszenia uwag przez. mężów zaufania lub członków Komisji, stanowisko Komisji do zarzutów należy dołączyć do protokołu."
+    },
+    {
+     "type": "ocr",
+     "text": "Symbol kontrolny systemu informatycznego"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. 175, poz. 1457 oraz z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055 i Nr 159, poz. 1127.",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1089 i Nr 214, poz. 1806, z 2004 r. Nr 102, poz. 1055 oraz z 2005 r. Nr 175, poz. 1457."
+ }
+}

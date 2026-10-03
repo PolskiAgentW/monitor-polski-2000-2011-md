@@ -1,0 +1,89 @@
+{
+ "eli": "MP/2008/843",
+ "title": "Uchwała Centralnej Komisji do Spraw Stopni i Tytułów z dnia 10 grudnia 2008 r. zmieniająca uchwałę w sprawie określenia dziedzin nauki i dziedzin sztuki oraz dyscyplin naukowych i artystycznych",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/843/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA CENTRALNEJ KOMISJI DO SPRAW STOPNI I TYTUŁÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 grudnia 2008 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie określenia dziedzin nauki i dziedzin sztuki oraz dyscyplin naukowych i artystycznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595 oraz z 2005 r. Nr 164, poz. 1365) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Centralnej Komisji do Spraw Stopni i Tytułów z dnia 24 października 2005 r. w sprawie określenia dziedzin nauki i dziedzin sztuki oraz dyscyplin naukowych i artystycznych (M. P. Nr 79, poz. 1120) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "dodaje się dziedzinę nauki „11a. Nauki o zdrowiu”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w dziedzinie nauki 13. Nauki rolnicze dodaje się dyscyplinę naukową „1a) biotechnologia”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w dziedzinie nauki 14. Nauki techniczne dodaje się dyscyplinę naukową „8a) energetyka”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w dziedzinie sztuki 20. Sztuki plastyczne:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "zmienia się nazwę dyscypliny artystycznej 2) sztuki użytkowe na „2) sztuki projektowe”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "dodaje się dyscyplinę artystyczną „3) konserwacja i restauracja dzieł sztuki”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie po upływie 30 dni od dnia jej ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Centralnej Komisji do Spraw Stopni i Tytułów: T. Kaczorek"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,153 @@
+{
+ "eli": "MP/2010/46",
+ "title": "Wyrok Trybunału Konstytucyjnego z dnia 20 stycznia 2010 r. sygn. akt Kp 6/09",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/46/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "WYROK TRYBUNAŁU KONSTYTUCYJNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 stycznia 2010 r."
+  },
+  {
+   "type": "text",
+   "text": "sygn. akt Kp 6/09"
+  },
+  {
+   "type": "text",
+   "text": "Trybunał Konstytucyjny w składzie:"
+  },
+  {
+   "type": "text",
+   "text": "Bohdan Zdziennicki — przewodniczący,"
+  },
+  {
+   "type": "text",
+   "text": "Stanisław Biernat — sprawozdawca,"
+  },
+  {
+   "type": "text",
+   "text": "Zbigniew Cieślak,"
+  },
+  {
+   "type": "text",
+   "text": "Maria Gintowt-Jankowicz,"
+  },
+  {
+   "type": "text",
+   "text": "Mirosław Granat,"
+  },
+  {
+   "type": "text",
+   "text": "Marian Grzybowski,"
+  },
+  {
+   "type": "text",
+   "text": "Wojciech Hermeliński,"
+  },
+  {
+   "type": "text",
+   "text": "Adam Jamróz,"
+  },
+  {
+   "type": "text",
+   "text": "Marek Kotlinowski,"
+  },
+  {
+   "type": "text",
+   "text": "Teresa Liszcz,"
+  },
+  {
+   "type": "text",
+   "text": "Ewa Łętowska,"
+  },
+  {
+   "type": "text",
+   "text": "Marek Mazurkiewicz,"
+  },
+  {
+   "type": "text",
+   "text": "Janusz Niemcewicz,"
+  },
+  {
+   "type": "text",
+   "text": "Andrzej Rzepliński,"
+  },
+  {
+   "type": "text",
+   "text": "protokolant: Krzysztof Zalecki,"
+  },
+  {
+   "type": "text",
+   "text": "po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 20 stycznia 2010 r., wniosku Prezydenta Rzeczypospolitej Polskiej złożonego w trybie art. 122 ust. 3 Konstytucji Rzeczypospolitej Polskiej o zbadanie zgodności:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "art. 8 ustawy z dnia 24 kwietnia 2009 r. o zmianie ustawy o partiach politycznych oraz niektórych innych ustaw w zakresie, w jakim z naruszeniem zasad bezpieczeństwa prawnego i pewności prawa, ochrony praw słusznie nabytych oraz ochrony interesów w toku, w okresie roku budżetowego, w czasie trwania kadencji Sejmu, przepis ten ogranicza wysokość subwencji przysługującej partiom politycznym z budżetu państwa, z art. 2 i art. 11 ust. 1 Konstytucji,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "a rt. 10 w związku z art. 8 ust. 3 ustawy powołanej w punkcie 1 w zakresie, w jakim przepisy te naruszają zasadę prawidłowej legislacji poprzez niezapewnienie odpowiedniej vacatio legis, z art. 2 Konstytucji,",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "orzeka:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Art. 8 ustawy z dnia 24 kwietnia 2009 r. o zmianie ustawy o partiach politycznych oraz niektórych innych ustaw:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "jest zgodny z zasadami: zaufania do państwa i stanowionego przez nie prawa, ochrony praw nabytych oraz ochrony interesów w toku wynikającymi z art. 2 Konstytucji Rzeczypospolitej Polskiej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "jest zgodny z art. 11 ust. 1 Konstytucji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Art. 8 ust. 3 w związku z art. 10 ustawy powołanej w punkcie 1 w zakresie, w jakim przewiduje zastosowanie sposobu obliczania wysokości rocznej subwencji, określonego w art. 8 ust. 1 powołanej ustawy, do ustalania kwot rat należnych za kwartały zakończone lub rozpoczęte przed dniem wejścia w życie tej ustawy, jest niezgodny z zasadą prawidłowej legislacji wynikającą z art. 2 Konstytucji.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Regulacja powołana w punkcie 2 nie jest nierozerwalnie związana z całą ustawą.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Bohdan Zdziennicki Stanisław Biernat Zbigniew Cieślak Maria Gintowt-Jankowicz Mirosław Granat Marian Grzybowski Wojciech Hermeliński Adam Jamróz Marek Kotlinowski Teresa Liszcz Ewa Łętowska Marek Mazurkiewicz Janusz Niemcewicz Andrzej Rzepliński — 203 —"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,497 @@
+{
+ "eli": "MP/2003/33",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 6 stycznia 2003 r. w sprawie ustalenia wzorów urzędowych formularzy oraz druków wyborczych stosowanych w wyborach ponownych, uzupełniających, przedterminowych, wyborach nowych rad i w wyborach przedterminowych wójtów, burmistrzów i prezydentów miast oraz o zmianie uchwały w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic w m.st. Warszawie",
+ "converter": "eli2md 0.6.24",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/33/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 stycznia 2003 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów urzędowych formularzy oraz druków wyborczych stosowanych w wyborach ponownych, uzupełniających, przedterminowych, wyborach nowych rad i w wyborach przedterminowych wójtów, burmistrzów i prezydentów miast oraz o zmianie uchwały w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic w m.st. Warszawie"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 1 pkt 4, art. 19 ust. 5, art. 111 ust. 3 i art. 112 ust. 2 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. Nr 95, poz. 602 i Nr 160, poz. 1060, z 2001 r. Nr 45, poz. 497 i Nr 89, poz. 971 oraz z 2002 r. Nr 23, poz. 220, Nr 68. poz. 632, Nr 113, poz. 984, Nr 127, poz. 1089 i Nr 214, poz. 1806), art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, Nr 127, poz. 1089 i Nr 214, poz. 1806) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W wyborach ponownych, uzupełniających, przedterminowych i wyborach nowych rad gmin, rad powiatów, sejmików województw, Rady miasta stołecznego Warszawy i rad dzielnic miasta stołecznego Warszawy oraz w wyborach przedterminowych wójtów, burmistrzów i prezydentów miast stosuje się odpowiednio wzory urzędowych formularzy oraz druków wyborczych, ustalone w związku z wyborami przeprowadzanymi w dniu 27 października 2002 r., z uwzględnieniem wzorów ustalonych niniejszą uchwałą.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Dla przeprowadzenia wyborów, o których mowa w § 1, ustala się wzory:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "protokołu rejestracji listy kandydatów na radnych w wyborach ponownych, uzupełniających/przedterminowych, wyborach nowych rad, stanowiący załącznik nr 1 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "potwierdzenia zgłoszenia do rejestracji kandydata na wójta, burmistrza, prezydenta miasta w wyborach przedterminowych, w których wybiera się tylko wójta, burmistrza, prezydenta miasta, stanowiący załącznik nr 2 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "protokołu rejestracji kandydata na wójta, burmistrza, prezydenta miasta w wyborach przedterminowych, w których wybiera się tylko wójta, burmistrza, prezydenta miasta, stanowiący załącznik nr 3 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "zaświadczenia dla męża zaufania w wyborach przedterminowych, w których wybiera się tylko wójta, burmistrza, prezydenta miasta, stanowiący załącznik nr 4 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "zaświadczenia dla zastępcy pełnomocnika w wyborach przedterminowych, w których wybiera się tylko wójta, burmistrza, prezydenta miasta, stanowiący załącznik nr 5 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "protokołu z wyborów uzupełniających/ponownych, stosowanego w wyborach do rad gmin w gminach do 20 tys. mieszkańców, stanowiący załącznik nr 6 do uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "obwieszczenia terytorialnej komisji wyborczej o obsadzeniu mandatu(ów) radnych w wyborach uzupełniających/ponownych bez głosowania, stanowiący załącznik nr 7 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W wyborach uzupełniających i ponownych zarządzonych dla obsadzenia nie wszystkich mandatów w okręgu stosuje się wzór „Protokołu głosowania w obwodzie na kandydatów na radnych” ustalony dla wyborów do rad gmin w gminach do 20 tys. mieszkańców, który stanowi załącznik nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 2 września 2002 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze, w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz wójtów, burmistrzów, prezydentów miast (M.P. Nr 39, poz. 608) ze zmianą w pkt II.6a protokołu polegającą na dodaniu po wyrazie „mandatów” wyrazów „do obsadzenia”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W wyborach uzupełniających do rady gminy w gminie liczącej do 20 tys. mieszkańców stosuje się pierwszą część „Informacji o sposobie głosowania w wyborach zarządzonych na dzień 27 października 2002 r. w wyborach do rady gminy w gminie liczącej do 20 tys. mieszkańców” stanowiącej załącznik nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 7 października 2002 r. w sprawie ustalenia wzorów informacji o sposobie głosowania w wyborach do rad gmin, rad powiatów, sejmików województw, Rady miasta stołecznego Warszawy i rad dzielnic w m.st. Warszawie oraz w wyborach wójtów, burmistrzów i prezydentów miast, zarządzonych na dzień 27 października 2002 r. (M.P. Nr 47, poz. 695) z następującą zmianą: wyraz „mandatów” zastępuje się wyrazami „wybieranych radnych”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 26 sierpnia 2002 r. w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic w m.st. Warszawie (M.P. Nr 37, poz. 588) w § 4 dodaje się ust. 1a w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„1a. W wyborach ponownych, uzupełniających, przedterminowych i wyborach nowych rad oraz w wyborach przedterminowych wójta, burmistrza i prezydenta miasta pełnomocnicy komitetów wyborczych dokonujący zgłoszenia, o którym mowa w ust. 1, są obowiązani przedłożyć organowi właściwemu do powołania danej komisji uwierzytelnioną kopię dokumentu o utworzeniu komitetu wyborczego.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 6 stycznia 2003 r. (poz. 33) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "str. 2"
+    },
+    {
+     "type": "ocr",
+     "text": "II Do zgłoszenia zostały dołączone następujące dokumenty: ”"
+    },
+    {
+     "type": "ocr",
+     "text": "1) dokument o utworzeniu Komitetu Wyborczego dla wyborów .................. pana , których dotyczy zgłoszenie zawierające dane wymienione: (rodzaj)"
+    },
+    {
+     "type": "ocr",
+     "text": "a) wart. 64c ust. 5 Ordynacji wyborczej — w wypadku komitetu wyborczego partii politycznej, *"
+    },
+    {
+     "type": "ocr",
+     "text": "b) w art. 64d ust. 6 Ordynacji wyborczej — w wypadku koalicyjnego komitetu wyborczego partii politycznych, * 5"
+    },
+    {
+     "type": "ocr",
+     "text": "c) wart. 64e ust. 6 Ordynacji wyborczej — w wypadku komitetu wyborczego stowarzyszenia lub organizacji społecznej,"
+    },
+    {
+     "type": "ocr",
+     "text": "d) wart. 64f ust. 1 i ust. 6 pkt 1-3 Ordynacji wyborczej — w wypadku komitetu wyborczego wyborców w gminie powyżej 20 tys. mieszkańców, 5"
+    },
+    {
+     "type": "ocr",
+     "text": "e) wart. 64f ust. 1 i ust. 6 pkt 1-2 Ordynacji wyborczej (oświadczenie) — M wypadku komitetu wyborczego wyborców w gminie poniżej 20 tys. mieszkańców;"
+    },
+    {
+     "type": "ocr",
+     "text": "2) dokumenty wymagane zgodnie:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) zart. 64c ust. 6 Ordynacji wyborczej — w wypadku komitetu wyborczego partii politycznej, >"
+    },
+    {
+     "type": "ocr",
+     "text": "b) z art. 64d ust. 7 Ordynacji „yyborczej — w wypadku koalicyjnego komitetu wyborczego partii politycznych, ”"
+    },
+    {
+     "type": "ocr",
+     "text": "c) zart. 64e ust. 7 Ordynacji wyborczej — w wypadku komitetu wyborczego stowarzyszenia lub organizacji społecznej,"
+    },
+    {
+     "type": "ocr",
+     "text": "d) z art. 64f ust. 7 Ordynacji wyborczej — w wypadku komitetu wyborczego wyborców w gminie powyżej 20 tys. mieszkańców, >"
+    },
+    {
+     "type": "ocr",
+     "text": "e) zart. 64f ust. 7 pkt 2 Ordynacji wyborczej w zakresie dotyczącym wyłącznie pełnomocnika wyborczego — w wypadku komitetu wyborczego wyborców w gminie poniżej 20 tys. mieszkańców; ©"
+    },
+    {
+     "type": "ocr",
+     "text": "3) upoważnienie do zgłoszenia list kandydatów na radnych w imieniu Komitetu Wyborczego wystawione przez pełnomocnika wyborczego Komitetu Wyborczego (jeżeli zgłoszenia listy kandydatów dokonuje osoba upoważniona przez pełnomocnika wyborczego Komitetu Wyborczego);"
+    },
+    {
+     "type": "ocr",
+     "text": "4) wykaz osób popierających zgłoszenie listy kandydatów na radnych zawierający waży podpisów;"
+    },
+    {
+     "type": "ocr",
+     "text": "5) oświadczenia ..........--.--11-11--.. kandydatów na radnych o wyrażeniu zgody na kandydowanie oraz (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "posiadaniu prawa wybieralności; . ss oe . . . ook"
+    },
+    {
+     "type": "ocr",
+     "text": "6) pismo właściwego statutowo organu partii politycznej/organizacji ZE"
+    },
+    {
+     "type": "ocr",
+     "text": "ORO R eee eee eee eee e eee See eee DHE SEEDED ODO HS EEEOHETESEEEEDEDOT DES EDESOOED EDEN SES ESE SOUS REED ES USED ODED SE DEES DE SEEE SESS E EO ES DEED EOE DED SEEHEEE ESE eeeee (nazwa partii politycznej lub organizacji)"
+    },
+    {
+     "type": "ocr",
+     "text": "potwierdzające: poparcie poszczególnych kandydatów na radnych przez partię polityczną/organizację;"
+    },
+    {
+     "type": "ocr",
+     "text": "POOR nem merece reer een rene eee eee RED EE EDO DEDEHE DES ESE DEEDES EES ESE USER EE EERE DERE EEE EERE OHSU SEDO SESE ODE ES ESSE OOOH SEH E OSHA SEDO EEO EE OOOO DEEDES DDE DSEO See"
+    },
+    {
+     "type": "ocr",
+     "text": "Il RE Komisja Wyborcza stwierdza, że listę kandydatów na radnych zgłoszono zgodnie z przepisami Ordynacji wyborczej do rad gmin, rad powiatów i sejmików województw i postanawia zarejestrować w okręgu wyborczym Nr ..... listę kandydatów, oznaczoną nazwą/skrótem nazwy komitetu wyborczego: ...........e-.eeseeuo owa aaa wawa aaa aaa anawa anawa naa ano ana casseeesoeee , (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "na której zostali zgłoszeni:"
+    },
+    {
+     "type": "note",
+     "text": "[Strony 5-7 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "str. 2"
+    },
+    {
+     "type": "ocr",
+     "text": "W zgłoszeniu kandydata pełnomocnik wskazał nazwę /skrót nazwy ” - nie wskazał nazwy /skrótu nazwy komitetu wyborczego, którym w związku z art. 2 ust. 2 i art. 7 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, Nr 127, poz. 1089 i Nr 214, poz. 1806) na podstawie art. 102 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz.U. Nr 95, poz. 602, ze zmianami) należy oznaczyć kandydata na urzędowych obwieszczeniach oraz na karcie do głosowania - w brzmieniu:"
+    },
+    {
+     "type": "ocr",
+     "text": "OZZIE eee rere tr reer eer ZSZ re reese erie rere ere ere eee ree ete (wskazana nazwa lub skrót nazwy komitetu wyborczego — nie więcej niż 40 znaków drukarskich)"
+    },
+    {
+     "type": "ocr",
+     "text": "II"
+    },
+    {
+     "type": "ocr",
+     "text": "Do zgłoszenia zostały dołączone następujące dokumenty: *"
+    },
+    {
+     "type": "ocr",
+     "text": "1) dokument o utworzeniu Komitetu Wyborczego dla wyborów przedterminowych, których dotyczy zgłoszenie zawierające dane wymienione:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) w art. 64c ust. 5 Ordynacji wyborczej — w wypadku komitetu wyborczego partii politycznej,"
+    },
+    {
+     "type": "ocr",
+     "text": "b) w art. 64d ust. 6 Ordynacji wyborczej — w wypadku koalicyjnego komitetu wyborczego partii politycznych, ”"
+    },
+    {
+     "type": "ocr",
+     "text": "c) wart. 64e ust. 6 Ordynacji wyborczej — w wypadku komitetu wyborczego stowarzyszenia lub organizacji społecznej, ”"
+    },
+    {
+     "type": "ocr",
+     "text": "d) w art. 64f ust. 1 i ust. 6 pkt 1—3 Ordynacji wyborczej — w wypadku komitetu wyborczego wyborców w gminie powyżej 20 tys. mieszkańców,"
+    },
+    {
+     "type": "ocr",
+     "text": "e) w art. 64f ust. 1 i ust. 6 pkt 1-2 Ordynacji wyborczej (oświadczenie) — w wypadku komitetu wyborczego wyborców w gminie poniżej 20 tys. mieszkańców;"
+    },
+    {
+     "type": "ocr",
+     "text": "2) dokumenty wymagane zgodnie:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) zart. 64c ust. 6 Ordynacji wyborczej — w wypadku komitetu wyborczego partii politycznej, ”"
+    },
+    {
+     "type": "ocr",
+     "text": "b) z art. 64d ust. 7 Ordynacji wyborczej — w wypadku koalicyjnego komitetu wyborczego partii politycznych, ?"
+    },
+    {
+     "type": "ocr",
+     "text": "c) zart. 64e ust. 7 Ordynacji wyborczej — w wypadku komitetu wyborczego stowarzyszenia lub organizacji społecznej, ”"
+    },
+    {
+     "type": "ocr",
+     "text": "d) z art. 64f ust. 7 Ordynacji wyborczej — w wypadku komitetu wyborczego wyborców w gminie powyżej 20 tys. mieszkańców, ”"
+    },
+    {
+     "type": "ocr",
+     "text": "e) zart. 64f ust. 7 pkt 2 Ordynacji wyborczej w zakresie dotyczącym wyłącznie pełnomocnika wyborczego — w wypadku komitetu wyborczego wyborców w gminie poniżej 20 tys. mieszkańców; ?"
+    },
+    {
+     "type": "ocr",
+     "text": "3) upoważnienie do zgłaszania kandydata na wójta/burmistrza/prezydenta miasta w imieniu Komitetu Wyborczego wystawione przez pełnomocnika wyborczego Komitetu Wyborczego (jeżeli zgłoszenia kandydata dokonuje osoba upoważniona przez pełnomocnika wyborczego Komitetu Wyborczego); ”"
+    },
+    {
+     "type": "ocr",
+     "text": "4) oświadczenie zgłaszanego kandydata o wyrażeniu zgody na kandydowanie oraz posiadaniu prawa wybieralności;"
+    },
+    {
+     "type": "ocr",
+     "text": "5) pismo właściwego statutowo organu partii politycznej/organizacji ) eee"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwa partii politycznej lub organizacji)"
+    },
+    {
+     "type": "ocr",
+     "text": "potwierdzające poparcie dla kandydata przez partię polityczną/organizację; ”"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "str. 3"
+    },
+    {
+     "type": "ocr",
+     "text": "6) wykaz wyborców popierających kandydata na wójta (burmistrza, prezydenta miasta) zawierają- CY ZEE odpisów. y (liczba) POCP"
+    },
+    {
+     "type": "ocr",
+     "text": "IM"
+    },
+    {
+     "type": "ocr",
+     "text": "EE Komisja Wyborcza stwierdza, że zgłoszenie kandydata zostało dokonane zgodnie z przepisami ustawy o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta przy odpowiednim zastosowaniu przepisów Ordynacji wyborczej do rad gmin, rad powiatów i sejmików województw, i w związku z tym postanawia zarejestrować jako: Kandydata a PORE (wójta, burmistrza, prezydenta) (gminy- miasta — nazwa)"
+    },
+    {
+     "type": "ocr",
+     "text": "(imię — imiona, nazwisko kandydata) WIEK .....ecssccsssesseessseoseree , wykształcenie .......s..eoee eee oaza aaa acasanao naa , zamieszkałego"
+    },
+    {
+     "type": "ocr",
+     "text": "(lat) (podać jakie: podstawowe, średnie, wyższe) EJ"
+    },
+    {
+     "type": "ocr",
+     "text": "EEEE , członka ) EECC (nazwa miejscowości) (nazwa partii politycznej, do której należy kandydat) który nie należy do partii politycznej, ZZIOSZONE ZO PLZETZ ZR , . *"
+    },
+    {
+     "type": "ocr",
+     "text": "POPIETANEO PRZEZ wau aaa (nazwa lub skrót nazwy partii bądź organizacji popierającej kandydata — nie więcej niż 40 znaków drukarskich)"
+    },
+    {
+     "type": "ocr",
+     "text": "Niniejszy protokół rejestracji kandydata sporządzono w trzech egzemplarzach, z których po jednym otrzymują: pełnomocnik wyborczy Komitetu Wyborczego i Komisarz Wyborczy, jeden zaś egzemplarz pozostaje w aktach Komisji. Przewodniczący il antttenateaceretcnsereeneeeenrecsseeeeenene Zastępca Przewodniczącego a eenaeetecesateerseccenseterrscetconeceneocees Członkowie: i /podpisy/"
+    },
+    {
+     "type": "ocr",
+     "text": "/pieczęć Komisji/"
+    },
+    {
+     "type": "ocr",
+     "text": "\"Niepotrzebne skreślić."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "str. 2"
+    },
+    {
+     "type": "ocr",
+     "text": "2) z listy nr ....... ustalonej w porządku alfabetycznym, w wyniku losowania radnym/ą zostal/a wybrany/a kandydat/ka: (nazwisko i imię - imiona) C.? W związku z tym, iż ....... kandydatów z różnych list (listy nr ....) otrzymało największą i równą liczbę głosów:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) radnym/ą został kandydat z listy nr ........ , której kandydaci w okręgu łącznie uzyskali EE , czyli najwięcej głosów: (nazwisko i imię - imiona)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) radnym/ą został, w wyniku losowania w związku z tym, że także łączna liczba głosów oddanych na kandydatów z tych list była równa, kandydat z listy nr .......... (nazwisko i imię - imiona) D.* W związku z tym, iż w okręgu wyborczym liczba zarejestrowanych kandydatów jest mniejsza lub równa liczbie obsadzanych mandatów, następujący zarejestrowany/i kandydat/ci uzyskał/li mandat/y radnego bez przeprowadzania głosowania: Z listy Nr ....... aaa aaa aaa aaa aaa aaa zza aaaa aaa aaa azaanzzana0e (oznaczenie listy) aaa OC CCA"
+    },
+    {
+     "type": "ocr",
+     "text": "\"OZ PO CE (oznaczenie listy) RE esac RY ZRRĘREKGGŚG"
+    },
+    {
+     "type": "ocr",
+     "text": "W okręgu .............---- mandat/ów pozostał/je nieobsadzony/ch. (liczba) E.* W związku z tym, iż w okręgu wyborczym nie została zarejestrowana żadna lista, wyborów nie przeprowadzono i w okręgu ................... mandatów pozostaje nieobsadzonych. (liczba)"
+    },
+    {
+     "type": "ocr",
+     "text": "| RECE (opis przebiegu losowania w pkt B2 i C2)"
+    },
+    {
+     "type": "ocr",
+     "text": "Okręg wyborczy nr ........... , w którym wybierano ................. radnych. III. Zarzuty pełnomocników:"
+    },
+    {
+     "type": "ocr",
+     "text": "Miejsce na parafowanie strony przez członków Komisji"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "str. 3 V. Uwagi Komisji związane z ustaleniem wyników wyborów oraz ewentualnymi zarzutami pełnomocników i członków Komisji: .............eeee eee eee eee ooo wawa wawa aaa aaa aaa aacace"
+    },
+    {
+     "type": "ocr",
+     "text": "(pieczęć Komisji)"
+    },
+    {
+     "type": "ocr",
+     "text": "Załączniki: Zestawienie wyników głosowania Z .............. okręgów wyborczych. Protokół obsadzenia mandatu bez głosowania."
+    },
+    {
+     "type": "ocr",
+     "text": "” Wypełnia się tylko w sytuacjach, o których mowa w art. 122 ust. 2 Ordynacji wyborczej. 2 Wypełnia się tylko w sytuacjach, o których mowa w art. 122 ust. 3 Ordynacji wyborczej. > wypełnia się tylko w sytuacji określonej w art. 188 Ordynacji wyborczej, gdy liczba mandatów w okręgu wyborczym jest większa niż 1. 3 Wypełnia się tylko w przypadku określonym w art. 108 ust. 2 Ordynacji wyborczej."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 17 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

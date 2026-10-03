@@ -1,0 +1,171 @@
+{
+ "eli": "MP/2009/591",
+ "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 5 czerwca 2009 r. o zmianach wprowadzonych do Szczegółowego opisu priorytetów Programu Operacyjnego Kapitał Ludzki 2007-2013",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/591/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT MINISTRA ROZWOJU REGIONALNEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 czerwca 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianach wprowadzonych do Szczegółowego opisu priorytetów Programu Operacyjnego Kapitał Ludzki 2007—2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ust. 3 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712) ogłasza się, co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zmieniona treść Szczegółowego opisu priorytetów Programu Operacyjnego Kapitał Ludzki 2007—2013 została zamieszczona na stronach internetowych administrowanych przez Ministerstwo Rozwoju Regionalnego: www.mrr.gov.pl oraz www.efs.gov.pl;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "zmienioną treść Szczegółowego opisu priorytetów Programu Operacyjnego Kapitał Ludzki 2007—2013 stosuje się od dnia 1 czerwca 2009 r.;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "zmiany wprowadzone do Szczegółowego opisu priorytetów Programu Operacyjnego Kapitał Ludzki 2007—2013 obejmują:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "część ogólną dokumentu, w której dostosowano opis systemu wyboru projektów w ramach Programu Operacyjnego Kapitał Ludzki 2007—2013 do aktualnego brzmienia „Zasad dokonywania wyboru projektów w ramach PO KL 2007—2013”,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "Priorytet II, w którym: — zmieniono nazwę Instytucji Wdrażającej (Instytucji Pośredniczącej II stopnia) dla Działania 2.3 — obecnie jest to minister właściwy do spraw zdrowia — Departament Funduszy Europejskich, — w Poddziałaniu 2.3.2 dodano nowego beneficjenta — Centrum Kształcenia Podyplomowego Pielęgniarek i Położnych oraz zmodyfikowano brzmienie typów operacji oraz grup docelowych w celu umożliwienia realizacji dodatkowych projektów systemowych ukierunkowanych na kształcenie kadr systemu ratownictwa medycznego, — w Poddziałaniu 2.3.3 dodano nowego beneficjenta — minister właściwy do spraw zdrowia — Departament Ubezpieczenia Zdrowotnego, w celu umożliwienia realizacji projektu systemowego w zakresie szkolenia kadry zarządzającej szpitali oraz rozszerzono grupę docelową o pracowników zakładów opieki zdrowotnej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "Priorytet III, w którym dodano nowy typ projektu umożliwiający przygotowanie kadr badawczych w dziedzinie badań edukacyjnych, m.in. przez uruchomienie studiów podyplomowych i studiów doktoranckich,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_3/lit_d",
+     "text": "Priorytet VI, w którym:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— dodano nowy typ projektu obejmujący jednorazowe dodatki relokacyjne (mobilnościowe) dla pracownika, który uzyskał zatrudnienie w wyniku wsparcia udzielonego w ramach projektu,"
+      },
+      {
+       "type": "text",
+       "text": "— wyłączono powiatowe urzędy pracy z grona beneficjentów uprawnionych do ubiegania się o wsparcie na realizację projektów w ramach Poddziałania 6.1.1 oraz Działania 6.2,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_3/lit_e",
+     "text": "Priorytet VII, w którym:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— usunięto regulacje dotyczące konieczności składania oświadczeń o nieskorzystaniu z tych samych form wsparcia przez osoby niepełnosprawne, młodzież w wieku 15—25 lat zagrożoną wykluczeniem społecznym oraz członków mniejszości etnicznych w ramach projektów realizowanych w Działaniu 1.3,"
+      },
+      {
+       "type": "text",
+       "text": "— doprecyzowano definicję inicjatywy lokalnej poprzez podkreślenie konieczności udziału mieszkańców nie tylko w formułowaniu założeń, ale również w realizacji projektu,"
+      },
+      {
+       "type": "text",
+       "text": "— w Poddziałaniu 7.2.1 wprowadzono możliwość zastosowania przez beneficjentów klauzul społecznych przy zlecaniu zadań projektu,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_3/lit_f",
+     "text": "Priorytet VIII, w którym:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— w Poddziałaniu 8.1.2 uszczegółowiono regulacje dotyczące wsparcia dla zwalnianych pracowników (outplacement), w tym dodano wsparcie w postaci:"
+      },
+      {
+       "type": "text",
+       "text": "— jednorazowego dodatku relokacyjnego (mobilnościowego) dla osoby, która uzyskała zatrudnienie w wyniku wsparcia udzielonego w ramach projektu w odległości powyżej 50 km od miejsca zamieszkania,"
+      },
+      {
+       "type": "text",
+       "text": "— jednorazowego dodatku motywacyjnego dla osoby, która uzyskała zatrudnienie za wynagrodzeniem niższym niż u dotychczasowego pracodawcy,"
+      },
+      {
+       "type": "text",
+       "text": "— jednorazowych środków na rozpoczęcie działalności gospodarczej,"
+      },
+      {
+       "type": "text",
+       "text": "— w Poddziałaniu 8.1.4 doprecyzowano, że badania i analizy powinny przyczynić się do formułowania właściwych mechanizmów zaradczych w strategiach rozwoju województwa,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_3/lit_g",
+     "text": "Priorytet IX, w którym:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— zdefiniowano programy rozwojowe szkół i placówek oświatowych realizowanych w Priorytecie IX,"
+      },
+      {
+       "type": "text",
+       "text": "— w Poddziałaniu 9.1.2 uzupełniono grupy docelowe o placówki oświatowe i ich wychowanków,"
+      },
+      {
+       "type": "text",
+       "text": "— w Poddziałaniu 9.1.3 doprecyzowano kryterium szczególnie uzdolnionych uczniów, dodając osiągnięcia w turniejach na szczeblu wojewódzkim, oraz doprecyzowano kryterium dochodowe, określając je jako maksimum dwukrotność kwoty kryterium dochodowego określonego w przepisach o świadczeniach rodzinnych,"
+      },
+      {
+       "type": "text",
+       "text": "— w Działaniu 9.3 zmieniono nazwę Działania na „Upowszechnienie formalnego kształcenia ustawicznego w formach szkolnych”,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_3/lit_h",
+     "text": "zmiany o charakterze redakcyjnym i interpunkcyjnym w całym dokumencie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Rozwoju Regionalnego: w z. J. Pawłowski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju minister właściwy do spraw rozwoju regionalnego jest Instytucją Zarządzającą Programem Operacyjnym Kapitał Ludzki. Minister Rozwoju Regionalnego kieruje działem administracji rządowej — rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju Regionalnego (Dz. U. Nr 216, poz. 1600)."
+ }
+}

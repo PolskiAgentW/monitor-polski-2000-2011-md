@@ -1,0 +1,444 @@
+{
+ "eli": "MP/2006/205",
+ "title": "Zarządzenie Ministra Skarbu Państwa z dnia 3 marca 2006 r. w sprawie sposobu i trybu przygotowywania, przyjmowania i prezentowania stanowisk Prokuratorii Generalnej Skarbu Państwa w sprawach o istotnym znaczeniu dla ochrony praw lub interesów Skarbu Państwa",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/205/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA SKARBU PAŃSTWA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 marca 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu i trybu przygotowywania, przyjmowania i prezentowania stanowisk Prokuratorii Generalnej Skarbu Państwa w sprawach o istotnym znaczeniu dla ochrony praw lub interesów Skarbu Państwa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 2 ustawy z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. Nr 169, poz. 1417 i Nr 264, poz. 2205) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ilekroć w zarządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "Prokuratorii Generalnej — należy przez to rozumieć Prokuratorię Generalną Skarbu Państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "radcy — należy przez to rozumieć radcę lub starszego radcę Prokuratorii Generalnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "stanowisku — należy przez to rozumieć stanowisko przyjmowane kolegialnie przez Prokuratorię Generalną w sprawach o istotnym znaczeniu dla ochrony praw lub interesów Skarbu Państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "ustawie — należy przez to rozumieć ustawę z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "O konieczności przyjęcia stanowiska przez Prokuratorię Generalną decyduje Prezes Prokuratorii Generalnej z własnej inicjatywy lub na wniosek:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "wiceprezesa Prokuratorii Generalnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "dyrektora komórki organizacyjnej Głównego Urzędu Prokuratorii Generalnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "dyrektora oddziału Prokuratorii Generalnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "radcy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "pełnomocnika procesowego, o którym mowa w art. 17 ust. 1 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przy kwalifikowaniu sprawy do kategorii spraw o istotnym znaczeniu dla ochrony praw lub interesów Skarbu Państwa Prezes Prokuratorii Generalnej kieruje się następującymi przesłankami:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "potrzebą ustosunkowania się Prokuratorii Generalnej do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "orzecznictwa sądów, trybunałów lub innych organów orzekających,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "obowiązujących przepisów prawnych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "koniecznością zainicjowania przez Prokuratorię Generalną zmiany obowiązujących przepisów prawnych dotyczących praw lub interesów Skarbu Państwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "precedensowym charakterem sprawy, mogącym odnosić się do innych spraw z udziałem Skarbu Państwa albo mogącym mieć istotne znaczenie dla Skarbu Państwa lub finansów publicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "wartością przedmiotu sprawy, wskazującą na jej istotne znaczenie dla finansów publicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "przedmiotem sprawy, który:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_5/lit_a",
+       "text": "wskazuje, iż jej rozstrzygnięcie może mieć znaczenie dla dobrego imienia Rzeczypospolitej Polskiej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_5/lit_b",
+       "text": "dotyczy udziału Skarbu Państwa w spółkach kapitałowych o istotnym znaczeniu dla porządku publicznego lub bezpieczeństwa publicznego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Wniosek o przyjęcie stanowiska, o którym mowa w § 2, zawiera:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "określenie przedmiotu sprawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "wskazanie problemu wymagającego rozstrzygnięcia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "wskazanie przesłanki określonej w § 3, uzasadniającej konieczność przyjęcia stanowiska przez Prokuratorię Generalną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Minister właściwy do spraw Skarbu Państwa może wystąpić o przyjęcie stanowiska w każdej sprawie, którą uzna za sprawę o istotnym znaczeniu dla ochrony praw lub interesów Skarbu Państwa. Wystąpienie takie jest wiążące dla Prezesa Prokuratorii Generalnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Stanowisko jest przyjmowane przez co najmniej trzyosobowy zespół powołany przez Prezesa Prokuratorii Generalnej w drodze zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W skład zespołu powołuje się radców. Prezes Prokuratorii Generalnej może również sam wejść w skład zespołu lub powołać w jego skład wiceprezesa Prokuratorii Generalnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "W zarządzeniu o powołaniu zespołu określa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "osoby wchodzące w skład zespołu, ze wskazaniem przewodniczącego zespołu, zwanego dalej „przewodniczącym”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "sprawę wymagającą przyjęcia stanowiska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "referenta sprawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_3/pkt_4",
+       "text": "termin przyjęcia stanowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Prezes Prokuratorii Generalnej może zmienić zarządzenie, o którym mowa w ust. 3, z własnej inicjatywy lub na wniosek przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przewodniczący organizuje prace zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Referent sprawy przygotowuje materiały niezbędne do przyjęcia stanowiska.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W posiedzeniach zespołu może brać udział, z głosem doradczym, Prezes lub wiceprezes Prokuratorii Generalnej oraz dyrektor oddziału Prokuratorii Generalnej, jeżeli nie wchodzą w skład zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Zespół może zasięgać opinii osób posiadających wiadomości specjalne, a także wysłuchiwać poglądów radców niewchodzących w skład zespołu. Rozstrzygnięcia w tym zakresie podejmuje przewodniczący z własnej inicjatywy lub na wniosek członka zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Zespół przyjmuje stanowisko wraz z uzasadnieniem w formie uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Projekt stanowiska wraz z uzasadnieniem sporządza referent sprawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Uchwała w przedmiocie stanowiska jest przyjmowana w głosowaniu jawnym, zwykłą większością głosów, w obecności co najmniej trzech członków zespołu, w tym przewodniczącego i referenta sprawy. W przypadku równej liczby głosów, rozstrzyga głos przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Członkowie zespołu oddają głosy tylko „za” lub „przeciw”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Uchwałę w przedmiocie stanowiska podpisują członkowie zespołu obecni przy jej przyjmowaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "W uchwale w przedmiocie stanowiska wskazuje się również członków zespołu nieobecnych podczas głosowania i podaje się przyczynę ich nieobecności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Referent sprawy sporządza protokół z prac zespołu, w którym uwzględnia się w szczególności rozstrzygnięcia przewodniczącego oraz wynik głosowania uchwały w przedmiocie stanowiska. Do protokołu załącza się podjętą uchwałę w przedmiocie stanowiska, listy obecności członków zespołu na posiedzeniach oraz opinie i poglądy, o których mowa w § 8, jeżeli zostały sporządzone na piśmie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Protokół podpisują członkowie zespołu obecni na posiedzeniu, na którym została przyjęta uchwała w przedmiocie stanowiska.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Stanowisko jest prezentowane w formie pisemnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Stanowisko prezentuje Prezes Prokuratorii Generalnej podmiotom określonym w art. 5 ustawy, w związku z których działalnością zostało ono przyjęte.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Prezes Prokuratorii Generalnej może zaprezentować stanowisko podmiotom innym, niż wskazane w ust. 2, jeżeli uzna, że wymaga tego przedmiot stanowiska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Stanowisko przyjęte na wniosek, o którym mowa w § 5, a także stanowisko przyjęte z przyczyn określonych w § 3 pkt 3—5 Prezes Prokuratorii Generalnej prezentuje ministrowi właściwemu do spraw Skarbu Państwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zarządzenie wchodzi w życie z dniem 15 marca 2006 r. i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu Państwa: W. Jasiński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Skarbu Państwa kieruje działem administracji rządowej — Skarb Państwa, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 31 października 2005 r. w sprawie szczegółowego zakresu działania Ministra Skarbu Państwa (Dz. U. Nr 220, poz. 1894)."
+ }
+}

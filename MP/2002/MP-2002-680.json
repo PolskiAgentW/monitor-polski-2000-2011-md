@@ -1,0 +1,49 @@
+{
+ "eli": "MP/2002/680",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 4 października 2002 r. w 20. rocznicę tragicznych wydarzeń w Lublinie.",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/680/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 października 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w 20. rocznicę tragicznych wydarzeń w Lubinie."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Mija dwadzieścia lat od tragicznych wydarzeń z dnia 31 sierpnia 1982 r. w Lubinie. Wówczas to w rocznicę Porozumień Sierpniowych 1980 r. ludzie wyszli na ulicę, aby upomnieć się o prawa do wolności słowa i swobody zrzeszania się w związku zawodowe, które to prawa zostały im odjęte.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W odpowiedzi na to oddziały ZOMO otworzyły ogień, w wyniku czego doszło do śmierci niewinnych ludzi."
+    },
+    {
+     "type": "text",
+     "text": "Senat Rzeczypospolitej Polskiej chyli dziś głowy przed ofiarami tych tragicznych wydarzeń, wskazując jednocześnie przyszłym pokoleniom, że strzelanie do ludzi wyrażających pokojowo swoje poglądy stanowi zbrodnię, która nigdy więcej nie powinna plamić honoru naszego kraju."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: L. Pastusiak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

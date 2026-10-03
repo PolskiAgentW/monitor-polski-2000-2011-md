@@ -1,0 +1,460 @@
+{
+ "eli": "MP/2004/290",
+ "title": "Uchwała Rady Polityki Pieniężnej z dnia 31 marca 2004 r. w sprawie regulaminu Rady Polityki Pieniężnej",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/290/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA RADY POLITYKI PIENIĘŻNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 marca 2004 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie regulaminu Rady Polityki Pieniężnej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z późn. zm.[^1]) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się regulamin Rady Polityki Pieniężnej, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc uchwała Rady Polityki Pieniężnej z dnia 21 lutego 1998 r. w sprawie regulaminu Rady Polityki Pieniężnej (M. P. Nr 7, poz. 159 i Nr 29, poz. 409 oraz z 2000 r. Nr 10, poz. 193).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Polityki Pieniężnej: L. Balcerowicz"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie Rady Polityki Pieniężnej: J. Czekaj, D. Filar, S. Nieckarz, M. Noga, S. Owsiak, M. Pietrewicz, A. Sławiński, H. Wasilewska-Trenkner, A. Wojtyna"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do uchwały Rady Polityki Pieniężnej z dnia 31 marca 2004 r. (poz. 290)"
+    },
+    {
+     "type": "text",
+     "text": "REGULAMIN RADY POLITYKI PIENIĘŻNEJ"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Regulamin określa tryb działania Rady Polityki Pieniężnej, zwanej dalej „Radą”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Posiedzenia Rady odbywają się co najmniej raz w miesiącu, w dniu ustalonym przez Radę. Posiedzenia te zwołuje Przewodniczący Rady.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Posiedzenia Rady mogą być również zwoływane z inicjatywy własnej Przewodniczącego Rady lub na pisemny wniosek trzech jej członków. Wniosek określa proponowany przedmiot obrad i zawiera uzasadnienie potrzeby zwołania posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Posiedzenia zwołane na wniosek członków Rady odbywają się nie później niż w ciągu 14 dni od dnia złożenia wniosku Przewodniczącemu Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Podpisane przez Przewodniczącego Rady zawiadomienie o posiedzeniu, wraz z jego porządkiem oraz materiałami dotyczącymi przedmiotu obrad, przekazywane są członkom Rady i Zarządowi Narodowego Banku Polskiego (NBP), co najmniej trzy dni przed posiedzeniem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W szczególnie uzasadnionych przypadkach Przewodniczący Rady może zwołać posiedzenie bez zachowania trybu i terminów, o których mowa w § 3 i § 4.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W posiedzeniach Rady uczestniczą wiceprezesi NBP bez prawa udziału w głosowaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Na posiedzenia Rady, za jej zgodą, mogą zostać zaproszeni przez Przewodniczącego Rady pracownicy NBP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Na posiedzenia Rady, za jej zgodą, mogą zostać zaproszeni przez Przewodniczącego Rady eksperci zewnętrzni celem przedstawienia opinii.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Posiedzenia Rady prowadzi Przewodniczący Rady. W przypadku jego nieobecności, Rada przy obecności co najmniej 5 członków, większością głosów w głosowaniu tajnym, wybiera ze swego grona prowadzącego posiedzenie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Przedmiotem posiedzeń Rady są sprawy zastrzeżone do jej kompetencji w ustawie o Narodowym Banku Polskim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Obrady Rady prowadzi się w trybie zastrzeżonym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Przewodniczący Rady albo prowadzący posiedzenie Rady zarządza prowadzenie obrad nad poszczególnymi punktami porządku lub całością obrad w trybie poufnym, tajnym lub ściśle tajnym, jeżeli prowadzenie obrad w tym trybie wynika z przepisu ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Rada może zarządzić prowadzenie obrad w trybie poufnym, tajnym lub ściśle tajnym w przypadkach innych niż wymienione w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Członkowie Rady przy głosowaniu uchwał mogą głosować tylko „za” lub „przeciw”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Uchwały Rady podejmowane są w głosowaniu większością głosów przy obecności co najmniej pięciu członków. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "W przypadku gdy uchwała jest wielopunktowa, głosowanie przeprowadza się kolejno nad każdym punktem oddzielnie, po czym głosuje się nad całością uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Przewodniczącemu Rady i członkom Rady przysługuje prawo zgłaszania zdania odrębnego, jeżeli nie zgadzają się z treścią podjętej uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "Uchwały Rady podpisywane są przez Przewodniczącego Rady i wszystkich członków Rady biorących udział w głosowaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_10/ust_6",
+     "text": "Dokumenty Rady niebędące uchwałami przyjmowane są w drodze uzgodnienia, a jeżeli jest to niemożliwe, Przewodniczący Rady albo prowadzący posiedzenie poddaje przyjęcie dokumentu pod głosowanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Z posiedzeń Rady sporządza się protokół przedstawiany Radzie do przyjęcia na najbliższym posiedzeniu zwołanym po upływie 14 dni od posiedzenia, którego protokół dotyczy. Protokół dostarczany jest członkom Rady najpóźniej na 3 dni przed posiedzeniem, na którym ma być przyjęty. W głosowaniu nad przyjęciem protokołu biorą udział tylko członkowie Rady obecni na posiedzeniu, z którego protokół sporządzono.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Przyjęty przez Radę protokół podpisuje Przewodniczący Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Protokół zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_3/pkt_1",
+       "text": "numer kolejny protokołu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_3/pkt_2",
+       "text": "datę posiedzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_3/pkt_3",
+       "text": "listę osób obecnych na posiedzeniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_3/pkt_4",
+       "text": "porządek obrad,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_3/pkt_5",
+       "text": "informację w sprawie powziętych uchwał,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_3/pkt_6",
+       "text": "przebieg dyskusji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Do protokołu załącza się w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_4/pkt_1",
+       "text": "uchwały,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_4/pkt_2",
+       "text": "zgłoszone i podpisane przez zgłaszających zdania odrębne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_4/pkt_3",
+       "text": "wyniki głosowań nad uchwałami oraz wnioskami, które nie uzyskały większości głosów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_4/pkt_4",
+       "text": "komunikaty i informacje prasowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Oryginały protokołów z posiedzeń Rady przechowuje Gabinet Prezesa NBP — z wyjątkiem protokołów tajnych, sporządzonych w jednym egzemplarzu i przechowywanych w Kancelarii Tajnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "Kopie protokołu przekazuje się Przewodniczącemu Rady, członkom Rady i członkom Zarządu NBP, z zastrzeżeniem ust. 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_11/ust_7",
+     "text": "Nagrany przebieg posiedzenia Rady jest przechowywany przez Gabinet Prezesa NBP. Z posiedzeń Rady sporządzane są stenogramy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rada w ramach przyznanych jej kompetencji może wystąpić do Zarządu NBP z zaleceniem podjęcia określonych działań.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Projekty uchwał i materiały na posiedzenie Rady, z wyjątkiem protokołu, o którym mowa w § 11, podlegają uprzedniemu rozpatrzeniu przez Zarząd NBP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Zarząd NBP może przygotować opinię do materiałów, których charakter na to pozwala.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Rada występuje do Zarządu NBP o przygotowanie określonych innych materiałów analitycznych i informacyjnych dotyczących przedmiotu prac Rady, a będących w dyspozycji NBP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Rada może wystąpić do Zarządu NBP o zlecenie przygotowania określonego opracowania (opinia, analiza itp.) przez podmiot zewnętrzny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Rada na bieżąco otrzymuje wszystkie dostępne materiały o charakterze statystycznym, informacyjnym i analitycznym niezbędne do wykonywania przez nią swoich obowiązków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rada może powoływać zespoły robocze, w skład których mogą wchodzić eksperci zewnętrzni.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "W terminach określonych przez Radę, Przewodniczący Rady albo prowadzący posiedzenie przy udziale co najmniej dwóch członków Rady przekazuje środkom masowego przekazu komunikat o decyzjach podjętych na jej posiedzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Członkowie Rady mogą udzielać środkom masowego przekazu informacji o podstawach podjętych przez Radę decyzji oraz o zasadach polityki pieniężnej NBP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Prezes NBP podejmuje decyzje o zagranicznych wyjazdach członków Rady, w ramach budżetu zatwierdzonego w planie finansowym NBP, kierując się opinią trzyosobowego zespołu wyłonionego przez Radę ze swego grona.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Obsługę kancelaryjną Rady zapewnia Gabinet Prezesa NBP.",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800, z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178 oraz z 2003 r. Nr 65, poz. 594, Nr 137, poz. 1303, Nr 209, poz. 2035 i Nr 228, poz. 2260."
+ }
+}

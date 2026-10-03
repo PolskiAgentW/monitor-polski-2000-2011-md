@@ -1,0 +1,52 @@
+{
+ "eli": "MP/2009/690",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2009 r. w sprawie wykazu zakładów zajmujących się wytwarzaniem lub obrotem paszami",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/690/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE M|N|STRA ROLN|CTWA I ROZWOJU WSI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 maja 2009 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu zakładów zajmujących się wytwarzaniem lub obrotem paszami[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 4 i art. 39 ust. 2 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z 2008 r. Nr 144, poz. 899 oraz z 2009 r. Nr 18, poz. 97) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "wykaz zakładów zajmujących się wytwarzaniem lub wprowadzaniem do obrotu pasz, których działalność podlega rejestracji albo zatwierdzeniu przez powiatowego lekarza weterynarii, określony w załączniku nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wykaz zakładów państw trzecich, z których dopuszcza się przywóz pasz, określony w załączniku nr 2 do obwieszczenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa i Rozwoju Wsi: w z. K. Plocke"
+    },
+    {
+     "type": "text",
+     "text": "(Załączniki do obwieszczenia stanowią oddzielny załącznik do niniejszego numeru)"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej — rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 listopada 2007 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 216, poz. 1599).",
+  "2": "Obwieszczenie wykonuje postanowienia rozporządzenia (WE) nr 183/2005 Parlamentu Europejskiego i Rady z dnia 12 stycznia 2005 r. ustanawiającego wymagania dotyczące higieny pasz (Dz. Urz. UE L 35 z 08.02.2005, str. 1)."
+ }
+}

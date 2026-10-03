@@ -1,0 +1,373 @@
+{
+ "eli": "MP/2006/31",
+ "title": "Zarządzenie Nr 4 Prezesa Rady Ministrów z dnia 3 stycznia 2006 r. w sprawie statutu Rady do Spraw Przeciwdziałania Narkomanii",
+ "converter": "eli2md 0.6.22",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/31/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 4 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 stycznia 2006 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie statutu Rady do Spraw Przeciwdziałania Narkomanii"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Określa się statut Rady do Spraw Przeciwdziałania Narkomanii, stanowiący załącznik do zarządzenia. ———————",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia[^1].",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: K. Marcinkiewicz"
+  },
+  {
+   "type": "text",
+   "text": "¹⁾ Z dniem wejścia w życie niniejszego zarządzenia traci moc rozporządzenie Prezesa Rady Ministrów z dnia 6 marca 2001 r. w sprawie określenia składu i zadań Rady do Spraw Przeciwdziałania Narkomanii oraz szczegółowych warunków i trybu jej działania (Dz. U. Nr 17, poz. 188 oraz z 2002 r. Nr 179, poz. 1491) zachowane w mocy na podstawie art. 89 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485)."
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do zarządzenia nr 4 Prezesa Rady Ministrów z dnia 3 stycznia 2006 r. (poz. 31)"
+  },
+  {
+   "type": "text",
+   "text": "STATUT RADY DO SPRAW PRZECIWDZIAŁANIA NARKOMANII"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rada do Spraw Przeciwdziałania Narkomanii, zwana dalej „Radą”, obraduje na posiedzeniach, które zwołuje przewodniczący Rady w zależności od potrzeb, nie rzadziej jednak niż 2 razy w roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przewodniczący Rady:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "zwołuje posiedzenia Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "ustala propozycje porządku obrad posiedzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "prowadzi posiedzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "współpracuje z Krajowym Biurem do Spraw Przeciwdziałania Narkomanii w zakresie realizacji zadań Rady.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Przewodniczący Rady jest obowiązany zwołać posiedzenie Rady w terminie 30 dni od otrzymania przedstawionego przez co najmniej 6 członków Rady wniosku o zwołanie takiego posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Przewodniczący Rady jest obowiązany zwołać posiedzenie Rady również na wniosek Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "Porządek dzienny posiedzenia, o którym mowa w ust. 3 i 4, obejmuje rozpatrzenie spraw zawartych we wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_1/ust_6",
+     "text": "Zawiadomienie o posiedzeniu Rady wraz z jego porządkiem dziennym doręcza się członkom Rady co najmniej na 14 dni przed terminem posiedzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przewodniczący Rady, jego zastępca oraz sekretarz Rady tworzą prezydium, które organizuje pracę Rady, w tym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "inicjuje prace Rady;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "opracowuje harmonogram posiedzeń na dany rok;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "opracowuje informacje dla Prezesa Rady Ministrów z działalności Rady za rok poprzedni;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "opracowuje sprawozdanie z działalności Rady za okres całej kadencji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Sekretarz Rady:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "organizuje spotkania prezydium;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "koordynuje prace członków prezydium;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "współpracuje z członkami Rady w zakresie realizacji przyjętych uchwał;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "współdziała z przewodniczącym Rady i jego zastępcą w realizacji zadań Rady;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "zawiadamia osoby wchodzące w skład Rady o terminie posiedzenia Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zastępca przewodniczącego Rady wykonuje obowiązki przewodniczącego w przypadku jego nieobecności lub niemożności pełnienia przez niego obowiązków.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Głosowania Rady są jawne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Głosowanie tajne może zarządzić przewodniczący Rady z własnej inicjatywy lub na wniosek co najmniej jednego członka Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przyjęte przez Radę uchwały podpisuje przewodniczący Rady albo zastępca przewodniczącego Rady w przypadku, o którym mowa w § 4, oraz sekretarz Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Przewodniczący Rady, powołując zespoły robocze, o których mowa w art. 17 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, określa szczegółowe zadania tych zespołów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przewodniczącego zespołu roboczego wyznacza przewodniczący Rady spośród członków zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Posiedzenia zespołu roboczego zwołuje sekretarz Rady na wniosek przewodniczącego zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Zespół roboczy wydaje opinie i przedstawia wnioski w formie uchwał podejmowanych większością głosów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Z każdego posiedzenia Rady i zespołu roboczego sporządza się protokół stanowiący zapis przebiegu obrad.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Protokół posiedzenia zawiera ponadto:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "datę posiedzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "porządek obrad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_2/pkt_3",
+       "text": "imiona i nazwiska uczestników posiedzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_2/pkt_4",
+       "text": "informację na temat przebiegu obrad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_2/pkt_5",
+       "text": "przewidywany termin kolejnego posiedzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Protokół podpisują protokolant oraz przewodniczący Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Do protokołu dołącza się listę obecności oraz uchwały podjęte na posiedzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_8/ust_5",
+     "text": "Protokół otrzymuje przewodniczący Rady. Każdy członek Rady ma prawo wglądu do protokołu.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
