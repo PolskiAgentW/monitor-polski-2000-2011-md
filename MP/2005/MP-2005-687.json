@@ -57,124 +57,124 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Strony, zgodnie z postanowieniami niniejszej umowy oraz prawem obowiązującym na terytoriach Rzeczypospolitej Polskiej i Republiki Korei, będą umacniać i rozwijać współpracę w dziedzinie turystyki w celu lepszego poznania historii i kultury obu narodów.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Strony, zgodnie z postanowieniami niniejszej umowy oraz prawem obowiązującym na terytoriach Rzeczypospolitej Polskiej i Republiki Korei, będą umacniać i rozwijać współpracę w dziedzinie turystyki w celu lepszego poznania historii i kultury obu narodów."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Strony będą popierać nawiązywanie i rozwój współpracy pomiędzy organizacjami i przedsiębiorcami obu państw, uczestniczącymi w rozwoju turystyki międzynarodowej, a także sprzyjać podejmowaniu inwestycji i wspólnych przedsięwzięć w dziedzinie turystyki przez te organizacje i przedsiębiorców.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierać nawiązywanie i rozwój współpracy pomiędzy organizacjami i przedsiębiorcami obu państw, uczestniczącymi w rozwoju turystyki międzynarodowej, a także sprzyjać podejmowaniu inwestycji i wspólnych przedsięwzięć w dziedzinie turystyki przez te organizacje i przedsiębiorców."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "text",
-   "text": "Współpraca, o której mowa w artykule 2, będzie się odbywała w szczególności poprzez:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "podejmowanie wspólnych przedsięwzięć w celu świadczenia usług turystycznych turystom z obu państw,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "wymianę specjalistów w dziedzinie turystyki,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "wymianę informacji dotyczących turystyki,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "pomoc w kształceniu kadr dla turystyki.",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Współpraca, o której mowa w artykule 2, będzie się odbywała w szczególności poprzez:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "podejmowanie wspólnych przedsięwzięć w celu świadczenia usług turystycznych turystom z obu państw,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą popierać wymianę informacji w następujących dziedzinach:"
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "wymianę specjalistów w dziedzinie turystyki,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_3/lit_c",
+     "text": "wymianę informacji dotyczących turystyki,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_3/lit_d",
+     "text": "pomoc w kształceniu kadr dla turystyki.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "statystyka turystyczna,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "programy kształcenia specjalistów w dziedzinie turystyki,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "materiały reklamowe i działalność promocyjna w dziedzinie turystyki,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "regulacje prawne dotyczące ochrony zasobów turystycznych i dóbr kultury,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "regulacje prawne dotyczące działalności turystycznej.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony będą popierać wymianę informacji w następujących dziedzinach:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "statystyka turystyczna,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą sprzyjać wymianie specjalistów i pracowników, specjalizujących się w turystyce, a także współpracy instytucji prowadzących badania w dziedzinie turystyki."
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "programy kształcenia specjalistów w dziedzinie turystyki,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "lit",
+     "num": "c",
+     "path": "art_4/lit_c",
+     "text": "materiały reklamowe i działalność promocyjna w dziedzinie turystyki,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każda ze Stron będzie sprzyjać powstawaniu na terytorium swojego państwa ośrodków informacji turystycznej drugiej Strony."
+     "type": "lit",
+     "num": "d",
+     "path": "art_4/lit_d",
+     "text": "regulacje prawne dotyczące ochrony zasobów turystycznych i dóbr kultury,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą wymieniać informacje i dzielić się doświadczeniami związanymi z ich udziałem w pracach międzynarodowych organizacji turystycznych."
-    },
+     "type": "lit",
+     "num": "e",
+     "path": "art_4/lit_e",
+     "text": "regulacje prawne dotyczące działalności turystycznej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strony będą sprzyjać wymianie specjalistów i pracowników, specjalizujących się w turystyce, a także współpracy instytucji prowadzących badania w dziedzinie turystyki.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Każda ze Stron będzie sprzyjać powstawaniu na terytorium swojego państwa ośrodków informacji turystycznej drugiej Strony.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą wymieniać informacje i dzielić się doświadczeniami związanymi z ich udziałem w pracach międzynarodowych organizacji turystycznych.",
+   "children": [
     {
      "type": "text",
      "text": "Acknowledging the need for creating a legal basis for cooperation in the field of tourism,"
@@ -206,251 +206,257 @@
     {
      "type": "text",
      "text": "The cooperation, referred to in Article 2, shall be realised through the following, in particular:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_7/lit_a",
+     "text": "undertaking of joint ventures with the aim of providing tourism-related services to tourists from both countries,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_7/lit_b",
+     "text": "exchange of experts in the field of tourism,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_7/lit_c",
+     "text": "exchange of tourism-related information,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_7/lit_d",
+     "text": "assistance in the training of personnel.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "The Parties shall encourage the exchange of information in the following areas:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_7/lit_a",
+     "text": "tourism statistics;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_7/lit_b",
+     "text": "educational programmes in tourism-related areas,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_7/lit_c",
+     "text": "promotional materials and activities in the field of tourism,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_7/lit_d",
+     "text": "domestic legislation related to the protection of tourism resources and cultural heritage,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_7/lit_e",
+     "text": "domestic legislation related to the regulation of tourism activities.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "The Parties shall facilitate the exchange of experts and personnel, specializing in the field of tourism, as well as the cooperation between institutions responsible for conducting research in the field of tourism."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Each Party shall facilitate the establishment of tourism information centres of the other Party in its own territory."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "The Parties shall exchange information and share know-how gained as a result of their participation in international tourism organisations."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "undertaking of joint ventures with the aim of providing tourism-related services to tourists from both countries,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "exchange of experts in the field of tourism,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "exchange of tourism-related information,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "assistance in the training of personnel.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 4"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Strony utworzą Komisję Wspólną, której zadaniem będzie zapewnienie należytego wykonania postanowień niniejszej umowy oraz rozwiązywanie problemów mogących powstać w toku jej realizacji.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "The Parties shall encourage the exchange of information in the following areas:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Komisja Wspólna składać się będzie z wyznaczonych przez Strony przedstawicieli zajmujących się działalnością w dziedzinie turystyki. Komisji będą przewodniczyć przedstawiciele każdej ze Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Komisja Wspólna zbierze się po raz pierwszy w ciągu sześciu miesięcy od dnia wejścia umowy w życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Komisja Wspólna na swym pierwszym posiedzeniu opracuje regulamin, w którym określi tryb pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Komisja Wspólna spotykać się będzie w miarę potrzeby, na pisemny wniosek jednej ze Stron, na przemian w Rzeczypospolitej Polskiej i Republice Korei. Artykuł 9",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem państwa każdej ze Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie po upływie 30 dni od dnia otrzymania noty późniejszej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Umowa niniejsza zawarta jest na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze okresy pięcioletnie, jeżeli żadna ze Stron nie wypowie jej, w drodze notyfikacji, najpóźniej na sześć miesięcy przed upływem danego okresu ważności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane zgodnie z umową w czasie jej obowiązywania aż do czasu ich zakończenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "NA DOWÓD CZEGO niżej podpisani, odpowiednio upoważnieni przez swoje Rządy, podpisali niniejszą umowę."
+      },
+      {
+       "type": "text",
+       "text": "SPORZĄDZONO w Warszawie dnia 3 grudnia 2004 r. w dwóch egzemplarzach, każdy w językach polskim, koreańskim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne. W razie rozbieżności przy ich interpretacji tekst w języku angielskim będzie uważany za rozstrzygający."
+      },
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Korei Article 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "The Parties shall establish a Joint Commission to be responsible for the effective implementation of this Agreement and the resolution of any problems that may arise in the course of its implementation.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "The Joint Commission shall be composed of representatives involved in the field of tourism and appointed by the Parties. It shall be co-chaired by a representative of each Party.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "The Joint Commission‘s first meeting shall be held within six months of the entry into force of this Agreement.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "At its first meeting, the Joint Commission shall draw up a set of regulations to define the procedures governing its activities.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "The Joint Commission shall meet, as and when necessary, at the written request of either Party, alternately in the Republic of Poland and the Republic of Korea. Article 9",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "The Parties shall notify each other through diplomatic channels of the completion of their domestic procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force 30 days after the date of the receipt of the latter notification.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "This Agreement shall remain in force for an initial period of five years. It shall be automatically extended for successive five-year periods, unless it is terminated by either Party by giving written notice to the other Party at least six months prior to the expiry of the relevant five-year period.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Termination of this Agreement shall be without prejudice to the duration or validity of any cooperation activities undertaken in accordance with this Agreement prior to its termination.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement."
+      },
+      {
+       "type": "text",
+       "text": "DONE in duplicate at Warsaw on the 3 of December 2004 in the Polish, Korean and English languages, all texts being equally authentic. In case of any divergence of interpretation, the English text shall prevail."
+      },
+      {
+       "type": "text",
+       "text": "On behalf of On behalf of the Government of the Government of the Republic of Poland the Republic of Korea"
+      },
+      {
+       "type": "note",
+       "text": "[Strony 4-6 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "tourism statistics;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "educational programmes in tourism-related areas,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "promotional materials and activities in the field of tourism,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "domestic legislation related to the protection of tourism resources and cultural heritage,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "domestic legislation related to the regulation of tourism activities.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "The Parties shall facilitate the exchange of experts and personnel, specializing in the field of tourism, as well as the cooperation between institutions responsible for conducting research in the field of tourism."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Each Party shall facilitate the establishment of tourism information centres of the other Party in its own territory."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "The Parties shall exchange information and share know-how gained as a result of their participation in international tourism organisations."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony utworzą Komisję Wspólną, której zadaniem będzie zapewnienie należytego wykonania postanowień niniejszej umowy oraz rozwiązywanie problemów mogących powstać w toku jej realizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja Wspólna składać się będzie z wyznaczonych przez Strony przedstawicieli zajmujących się działalnością w dziedzinie turystyki. Komisji będą przewodniczyć przedstawiciele każdej ze Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja Wspólna zbierze się po raz pierwszy w ciągu sześciu miesięcy od dnia wejścia umowy w życie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Komisja Wspólna na swym pierwszym posiedzeniu opracuje regulamin, w którym określi tryb pracy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Komisja Wspólna spotykać się będzie w miarę potrzeby, na pisemny wniosek jednej ze Stron, na przemian w Rzeczypospolitej Polskiej i Republice Korei. Artykuł 9",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem państwa każdej ze Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie po upływie 30 dni od dnia otrzymania noty późniejszej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umowa niniejsza zawarta jest na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze okresy pięcioletnie, jeżeli żadna ze Stron nie wypowie jej, w drodze notyfikacji, najpóźniej na sześć miesięcy przed upływem danego okresu ważności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane zgodnie z umową w czasie jej obowiązywania aż do czasu ich zakończenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "NA DOWÓD CZEGO niżej podpisani, odpowiednio upoważnieni przez swoje Rządy, podpisali niniejszą umowę."
-    },
-    {
-     "type": "text",
-     "text": "SPORZĄDZONO w Warszawie dnia 3 grudnia 2004 r. w dwóch egzemplarzach, każdy w językach polskim, koreańskim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne. W razie rozbieżności przy ich interpretacji tekst w języku angielskim będzie uważany za rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Korei Article 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Parties shall establish a Joint Commission to be responsible for the effective implementation of this Agreement and the resolution of any problems that may arise in the course of its implementation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Joint Commission shall be composed of representatives involved in the field of tourism and appointed by the Parties. It shall be co-chaired by a representative of each Party.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The Joint Commission‘s first meeting shall be held within six months of the entry into force of this Agreement.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "At its first meeting, the Joint Commission shall draw up a set of regulations to define the procedures governing its activities.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "The Joint Commission shall meet, as and when necessary, at the written request of either Party, alternately in the Republic of Poland and the Republic of Korea. Article 9",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Parties shall notify each other through diplomatic channels of the completion of their domestic procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force 30 days after the date of the receipt of the latter notification.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Agreement shall remain in force for an initial period of five years. It shall be automatically extended for successive five-year periods, unless it is terminated by either Party by giving written notice to the other Party at least six months prior to the expiry of the relevant five-year period.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Termination of this Agreement shall be without prejudice to the duration or validity of any cooperation activities undertaken in accordance with this Agreement prior to its termination.",
-   "children": [
-    {
-     "type": "text",
-     "text": "IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "DONE in duplicate at Warsaw on the 3 of December 2004 in the Polish, Korean and English languages, all texts being equally authentic. In case of any divergence of interpretation, the English text shall prevail."
-    },
-    {
-     "type": "text",
-     "text": "On behalf of On behalf of the Government of the Government of the Republic of Poland the Republic of Korea"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 4-6 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
-    }
-   ]
+   ],
+   "label": "Artykuł 8"
   }
  ],
  "annexes": [],

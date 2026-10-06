@@ -106,51 +106,54 @@
     {
      "type": "text",
      "text": "uzgodniły, co następuje:"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 1"
-    },
-    {
-     "type": "text",
-     "text": "Przedmiot"
-    },
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Przedmiot",
+   "children": [
     {
      "type": "text",
      "text": "Niniejsza umowa określa zobowiązanie finansowe Wspólnoty wobec Rzeczypospolitej Polskiej na rok 2000."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Zobowiązanie"
-    },
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Zobowiązanie",
+   "children": [
     {
      "type": "text",
      "text": "Finansowy wkład Wspólnoty w roku 2000 ogranicza się do 171570075 euro. Zobowiązanie to jest ważne wyłącznie w odniesieniu do realizacji Programu zgodnie z Wieloletnią Umową Finansową zawartą pomiędzy Wspólnotą a Rzecząpospolitą Polską."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Okres zobowiązania"
-    },
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Okres zobowiązania",
+   "children": [
     {
      "type": "text",
      "text": "Komisja automatycznie wycofa się z jakiejkolwiek części zobowiązania, które nie zostało uregulowane płatnością na rachunek lub w odniesieniu do którego nie otrzymała akceptowalnego wniosku o płatność najpóźniej do 31 grudnia 2002 r."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Punkty kontaktowe"
-    },
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Punkty kontaktowe",
+   "children": [
     {
      "type": "text",
      "text": "Korespondencja dotycząca każdej sprawy objętej zakresem niniejszej umowy, zaopatrzona, w odpowiednich przypadkach, w numer oraz tytuł Programu, powinna być kierowana pod następujące adresy:"
@@ -246,11 +249,16 @@
     {
      "type": "text",
      "text": "Niniejsza umowa wchodzi w życie w dniu wzajem- This Agreement shall enter into force on the date nego powiadomienia się przez obydwie Umawiające when both Contracting Parties have notified each się Strony o zakończeniu wszystkich formalności ko- other of the completion of all necessary formalities for niecznych dla jej zawarcia. its conclusion."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6 Article 6"
-    },
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Article 6",
+   "children": [
     {
      "type": "text",
      "text": "Podpisanie Signature"
@@ -258,28 +266,29 @@
     {
      "type": "text",
      "text": "Niniejsza umowa zostanie sporządzona w dwóch This Agreement shall be drawn up in duplicate in egzemplarzach w języku angielskim oraz w języku pol- English and in Polish, only the English text being skim, przy czym jedynie tekst w języku angielskim jest authentic. autentyczny."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Brukseli w dniu dwudziestym dzie- Done at Brussels, this twenty-ninth day of March in wiątym marca w roku dwutysięcznym pierwszym. the year two thousand and one."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu Komisji W imieniu Rządu For Commission of the For the Republic Wspólnot Europejskich: Rzeczypospolitej Polskiej: European Communities: of Poland:"
-    },
-    {
-     "type": "text",
-     "text": "Członek Komisji Sekretarz Stanu Member Secretary of State Sekretarz Komitetu of the Commission Secretary Integracji Europejskiej of the Committee for European Integration"
-    },
-    {
-     "type": "text",
-     "text": "F. Fischler J. Saryusz-Wolski F. Fischler J. Saryusz-Wolski"
-    },
-    {
-     "type": "text",
-     "text": "¹ Dz. U. WE 26. 06. 1999, Nr L 161, str. 87—93. ¹ OJ No. L 161, 26.6.1999, p. 87—93."
     }
-   ]
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Brukseli w dniu dwudziestym dzie- Done at Brussels, this twenty-ninth day of March in wiątym marca w roku dwutysięcznym pierwszym. the year two thousand and one."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu Komisji W imieniu Rządu For Commission of the For the Republic Wspólnot Europejskich: Rzeczypospolitej Polskiej: European Communities: of Poland:"
+  },
+  {
+   "type": "text",
+   "text": "Członek Komisji Sekretarz Stanu Member Secretary of State Sekretarz Komitetu of the Commission Secretary Integracji Europejskiej of the Committee for European Integration"
+  },
+  {
+   "type": "text",
+   "text": "F. Fischler J. Saryusz-Wolski F. Fischler J. Saryusz-Wolski"
+  },
+  {
+   "type": "text",
+   "text": "¹ Dz. U. WE 26. 06. 1999, Nr L 161, str. 87—93. ¹ OJ No. L 161, 26.6.1999, p. 87—93."
   }
  ],
  "annexes": [],

@@ -37,215 +37,235 @@
    "text": "uzgodnili, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "W ramach ustanowionego przez stronę mongolską „Programu Stypendialnego” Strona polska przyjmie i skieruje na studia w polskich uczelniach corocznie do 10 obywateli Mongolii legitymujących się zalegalizowanym lub opatrzonym apostille świadectwem dojrzałości (maturalnym), uprawniającym do ubiegania się o przyjęcie na studia w uczelniach każdego typu w państwie, w którego systemie działa instytucja wydająca świadectwo, albo zalegalizowanym lub opatrzonym apostille dyplomem ukończenia studiów wyższych uzyskanym w Mongolii lub innym państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Osoby, o których mowa w ustępie 1, będą przyjmowane na studia licencjackie lub inżynierskie (bachelor), na jednolite lub uzupełniające studia magisterskie albo na studia doktoranckie oraz na kursy przygotowawcze do podjęcia studiów w języku polskim w uczelniach publicznych nadzorowanych przez ministra właściwego do spraw szkolnictwa wyższego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Osoby, o których mowa w ustępie 1, będą odbywały studia prowadzone w języku polskim lub językach obcych na zasadach odpłatności.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "W ramach ustanowionego przez stronę mongolską „Programu Stypendialnego” Strona polska przyjmie i skieruje na studia w polskich uczelniach corocznie do 10 obywateli Mongolii legitymujących się zalegalizowanym lub opatrzonym apostille świadectwem dojrzałości (maturalnym), uprawniającym do ubiegania się o przyjęcie na studia w uczelniach każdego typu w państwie, w którego systemie działa instytucja wydająca świadectwo, albo zalegalizowanym lub opatrzonym apostille dyplomem ukończenia studiów wyższych uzyskanym w Mongolii lub innym państwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Osoby, o których mowa w ustępie 1, będą przyjmowane na studia licencjackie lub inżynierskie (bachelor), na jednolite lub uzupełniające studia magisterskie albo na studia doktoranckie oraz na kursy przygotowawcze do podjęcia studiów w języku polskim w uczelniach publicznych nadzorowanych przez ministra właściwego do spraw szkolnictwa wyższego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Osoby, o których mowa w ustępie 1, będą odbywały studia prowadzone w języku polskim lub językach obcych na zasadach odpłatności.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strona mongolska będzie przekazywać dokumenty osób, o których mowa w artykule 1 ustęp 1, w szczególności wniosek o przyjęcie na studia wraz z kserokopią dokumentu tożsamości i świadectwa dojrzałości lub dyplomu uzyskanego w Mongolii lub innym państwie uprawniającego do podjęcia studiów, do polskiego Biura Uznawalności Wykształcenia i Wymiany Międzynarodowej za pośrednictwem Ambasady Mongolii w Rzeczypospolitej Polskiej w terminie do dnia 31 marca każdego roku, poprzedzającego rok akademicki, w którym rozpoczną one studia.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Warunkiem przyjęcia osób, o których mowa w artykule 1 ustęp 1, na niektóre kierunki studiów, wymagające szczególnych predyspozycji będzie zdanie egzaminów potwierdzających ich predyspozycje do podjęcia tych studiów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wnioski Strony mongolskiej będą rozpatrywane zgodnie z przepisami prawa polskiego dotyczącymi kształcenia cudzoziemców w Polsce.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Strona polska informuje o wynikach przeprowadzonego postępowania kwalifikacyjnego Ambasadę Rzeczypospolitej Polskiej w Mongolii i Ambasadę Mongolii w Rzeczypospolitej Polskiej, a także polskiego Ministra Finansów i polski Bank Gospodarstwa Krajowego.",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Strona mongolska będzie przekazywać dokumenty osób, o których mowa w artykule 1 ustęp 1, w szczególności wniosek o przyjęcie na studia wraz z kserokopią dokumentu tożsamości i świadectwa dojrzałości lub dyplomu uzyskanego w Mongolii lub innym państwie uprawniającego do podjęcia studiów, do polskiego Biura Uznawalności Wykształcenia i Wymiany Międzynarodowej za pośrednictwem Ambasady Mongolii w Rzeczypospolitej Polskiej w terminie do dnia 31 marca każdego roku, poprzedzającego rok akademicki, w którym rozpoczną one studia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Osoby, o których mowa w artykule 1 ustęp 1, zakwalifikowane na studia w Polsce:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Warunkiem przyjęcia osób, o których mowa w artykule 1 ustęp 1, na niektóre kierunki studiów, wymagające szczególnych predyspozycji będzie zdanie egzaminów potwierdzających ich predyspozycje do podjęcia tych studiów.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Wnioski Strony mongolskiej będą rozpatrywane zgodnie z przepisami prawa polskiego dotyczącymi kształcenia cudzoziemców w Polsce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Strona polska informuje o wynikach przeprowadzonego postępowania kwalifikacyjnego Ambasadę Rzeczypospolitej Polskiej w Mongolii i Ambasadę Mongolii w Rzeczypospolitej Polskiej, a także polskiego Ministra Finansów i polski Bank Gospodarstwa Krajowego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Osoby, o których mowa w artykule 1 ustęp 1, zakwalifikowane na studia w Polsce:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_3/pkt_1",
      "text": "zobowiązane są uzyskać wizę uprawniającą do wjazdu na terytorium Rzeczypospolitej Polskiej oraz dokument uprawniający do pobytu w Rzeczypospolitej Polskiej;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_3/pkt_2",
      "text": "założą konto w banku mającym siedzibę na terytorium Rzeczypospolitej Polskiej i poinformują polskiego Ministra Finansów o numerze tego konta;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_3/pkt_3",
      "text": "wykupią polisę ubezpieczeniową na wypadek choroby lub następstw nieszczęśliwych wypadków albo przystąpią do ubezpieczenia w Narodowym Funduszu Zdrowia;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_4/pkt_4",
+     "path": "art_3/pkt_4",
      "text": "poinformują polskiego Ministra Finansów i Ambasadę Mongolii w Rzeczypospolitej Polskiej o wysokości opłat za studia oraz numerze rachunku bankowego uczelni, na który wpłacone zostaną te opłaty;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "ust_4/pkt_5",
+     "path": "art_3/pkt_5",
      "text": "zawrą, zgodnie z przepisami prawa mongolskiego, umowę z Ministerstwem Edukacji, Kultury i Nauki Mongolii, w której zobowiążą się do efektywnego świadczenia pracy na rzecz mongolskiej instytucji publicznej przez okres nie krótszy niż 3 lata po ukończeniu studiów w Polsce.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Polski Minister Finansów, w porozumieniu z polskim Ministrem Nauki i Szkolnictwa Wyższego oraz na podstawie informacji Ambasady Mongolii w Rzeczypospolitej Polskiej, zleca polskiemu Bankowi Gospodarstwa Krajowego dokonanie płatności z „Programu Stypendialnego”:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 4"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_1/pkt_1",
+       "text": "na rachunek uczelni, w której osoby zakwalifikowane odbywają studia — w wysokości opłaty ustalonej przez władze uczelni dla danego kierunku studiów, nie niższej jednak niż równowartość 2 000 euro za rok akademicki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_1/pkt_2",
+       "text": "na konto osób, o których mowa w artykule 1 ustęp 1, zakwalifikowanych na studia w Polsce — w PLN w wysokości stanowiącej równowartość 300 USD miesięcznie na pokrycie kosztów utrzymania (stypendium socjalne) oraz w wysokości stanowiącej równowartość 100 USD miesięcznie na pokrycie opłat za zakwaterowanie, przez okres 10 miesięcy w ciągu roku akademickiego. Do przeliczeń USD/PLN będzie miał zastosowanie kurs kupna Narodowego Banku Polskiego z dnia przekazania środków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_4/ust_1/pkt_3",
+       "text": "na konto osób, o których mowa w artykule 1 ustęp 1, zakwalifikowanych na studia w Polsce z tytułu zwrotu kosztów podróży z Mongolii do Rzeczypospolitej Polskiej i z powrotem, raz w ciągu roku akademickiego, w wysokości zgodnej z ceną biletu, a także z tytułu zakupu polisy ubezpieczeniowej lub przystąpienia do ubezpieczenia, o których mowa w artykule 3 punkt 3, w wysokości zgodnej z poniesionymi i udokumentowanymi kosztami. Jeżeli wydatki te zostały poniesione w USD lub walucie mongolskiej MNT, do przeliczeń USD/PLN stosuje się kurs kupna Narodowego Banku Polskiego z dnia przekazania środków, a do przeliczeń MNT/PLN średni kurs publikowany przez Narodowy Bank Polski dla tej waluty z dnia wypłaty.",
+       "children": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Polski Minister Finansów, w porozumieniu z polskim Ministrem Nauki i Szkolnictwa Wyższego oraz na podstawie informacji Ambasady Mongolii w Rzeczypospolitej Polskiej, zleca polskiemu Bankowi Gospodarstwa Krajowego dokonanie płatności z „Programu Stypendialnego”:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "na rachunek uczelni, w której osoby zakwalifikowane odbywają studia — w wysokości opłaty ustalonej przez władze uczelni dla danego kierunku studiów, nie niższej jednak niż równowartość 2 000 euro za rok akademicki;",
-     "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "na konto osób, o których mowa w artykule 1 ustęp 1, zakwalifikowanych na studia w Polsce — w PLN w wysokości stanowiącej równowartość 300 USD miesięcznie na pokrycie kosztów utrzymania (stypendium socjalne) oraz w wysokości stanowiącej równowartość 100 USD miesięcznie na pokrycie opłat za zakwaterowanie, przez okres 10 miesięcy w ciągu roku akademickiego. Do przeliczeń USD/PLN będzie miał zastosowanie kurs kupna Narodowego Banku Polskiego z dnia przekazania środków;",
+     "path": "art_4/ust_2",
+     "text": "Polski Minister Finansów przekazuje corocznie w terminie do dnia 31 stycznia każdego roku kalendarzowego Umawiającym się Stronom i Ambasadzie Mongolii w Rzeczypospolitej Polskiej oraz polskiemu Ministrowi Spraw Zagranicznych i mongolskiemu Ministerstwu Spraw Zagranicznych informacje o łącznej wysokości środków finansowych wypłaconych z „Programu Stypendialnego” na cele określone w ustępie 1 i 3.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "na konto osób, o których mowa w artykule 1 ustęp 1, zakwalifikowanych na studia w Polsce z tytułu zwrotu kosztów podróży z Mongolii do Rzeczypospolitej Polskiej i z powrotem, raz w ciągu roku akademickiego, w wysokości zgodnej z ceną biletu, a także z tytułu zakupu polisy ubezpieczeniowej lub przystąpienia do ubezpieczenia, o których mowa w artykule 3 punkt 3, w wysokości zgodnej z poniesionymi i udokumentowanymi kosztami. Jeżeli wydatki te zostały poniesione w USD lub walucie mongolskiej MNT, do przeliczeń USD/PLN stosuje się kurs kupna Narodowego Banku Polskiego z dnia przekazania środków, a do przeliczeń MNT/PLN średni kurs publikowany przez Narodowy Bank Polski dla tej waluty z dnia wypłaty.",
+     "path": "art_4/ust_3",
+     "text": "Wszelkie koszty i opłaty bankowe związane z otwarciem, prowadzeniem i zamknięciem rachunku otwartego „Program Stypendialny” w polskim Banku Gospodarstwa Krajowego są pokrywane ze środków przekazywanych na „Program Stypendialny”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_4/ust_4",
+     "text": "Strona mongolska zobowiązuje się do wpłacania na rachunek otwarty w polskim Banku Gospodarstwa Krajowego, pod nazwą „Program Stypendialny”, środków finansowych w wysokości umożliwiającej niezakłócone pokrywanie wydatków, o których mowa w ustępie 1.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Polski Minister Finansów przekazuje corocznie w terminie do dnia 31 stycznia każdego roku kalendarzowego Umawiającym się Stronom i Ambasadzie Mongolii w Rzeczypospolitej Polskiej oraz polskiemu Ministrowi Spraw Zagranicznych i mongolskiemu Ministerstwu Spraw Zagranicznych informacje o łącznej wysokości środków finansowych wypłaconych z „Programu Stypendialnego” na cele określone w ustępie 1 i 3.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wszelkie koszty i opłaty bankowe związane z otwarciem, prowadzeniem i zamknięciem rachunku otwartego „Program Stypendialny” w polskim Banku Gospodarstwa Krajowego są pokrywane ze środków przekazywanych na „Program Stypendialny”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Strona mongolska zobowiązuje się do wpłacania na rachunek otwarty w polskim Banku Gospodarstwa Krajowego, pod nazwą „Program Stypendialny”, środków finansowych w wysokości umożliwiającej niezakłócone pokrywanie wydatków, o których mowa w ustępie 1.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Świadectwa dojrzałości (maturalne) i dyplomy ukończenia studiów uzyskane w Mongolii lub innym państwie przez osoby, o których mowa w artykule 1 ustęp 1, będą uznawane zgodnie z przepisami prawa polskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Strona mongolska zapewnia, że dyplomy ukończenia studiów uzyskane przez obywateli Mongolii, którzy ukończyli w Polsce studia w ramach „Programu Stypendialnego”, będą uznawane za równoważne z odpowiednimi dokumentami ukończenia studiów wyższych wydawanymi w Mongolii.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Świadectwa dojrzałości (maturalne) i dyplomy ukończenia studiów uzyskane w Mongolii lub innym państwie przez osoby, o których mowa w artykule 1 ustęp 1, będą uznawane zgodnie z przepisami prawa polskiego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strona mongolska zapewnia, że dyplomy ukończenia studiów uzyskane przez obywateli Mongolii, którzy ukończyli w Polsce studia w ramach „Programu Stypendialnego”, będą uznawane za równoważne z odpowiednimi dokumentami ukończenia studiów wyższych wydawanymi w Mongolii.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "W sprawach dotyczących podejmowania i odbywania przez obywateli Mongolii studiów w polskich uczelniach na podstawie niniejszego Porozumienia wykonawczego, a nieuregulowanych postanowieniami tego Porozumienia, stosuje się przepisy prawa polskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Spory dotyczące interpretacji postanowień niniejszego Porozumienia wykonawczego będą rozstrzygane w drodze negocjacji między Umawiającymi się Stronami.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W sprawach dotyczących podejmowania i odbywania przez obywateli Mongolii studiów w polskich uczelniach na podstawie niniejszego Porozumienia wykonawczego, a nieuregulowanych postanowieniami tego Porozumienia, stosuje się przepisy prawa polskiego.",
-   "children": []
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Postanowień niniejszego Porozumienia wykonawczego nie stosuje się do obywateli Mongolii, którzy w dniu wejścia w życie tego Porozumienia odbywają studia w polskich uczelniach lub podejmą studia w Polsce zgodnie z Umową między Rządem Rzeczypospolitej Polskiej a Rządem Mongolii o współpracy w dziedzinie kultury, oświaty i nauki, podpisaną w Warszawie dnia 9 grudnia 1999 r.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Spory dotyczące interpretacji postanowień niniejszego Porozumienia wykonawczego będą rozstrzygane w drodze negocjacji między Umawiającymi się Stronami.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Niniejsze Porozumienie wykonawcze wchodzi w życie z dniem podpisania i pozostaje w mocy do czasu wypłacenia z „Programu Stypendialnego” środków finansowych w łącznej wysokości 2 000 000,00 USD na cele określone w artykule 4 ustęp 1 i 3, nie dłużej jednak niż przez okres 10 lat.",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Postanowień niniejszego Porozumienia wykonawczego nie stosuje się do obywateli Mongolii, którzy w dniu wejścia w życie tego Porozumienia odbywają studia w polskich uczelniach lub podejmą studia w Polsce zgodnie z Umową między Rządem Rzeczypospolitej Polskiej a Rządem Mongolii o współpracy w dziedzinie kultury, oświaty i nauki, podpisaną w Warszawie dnia 9 grudnia 1999 r."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsze Porozumienie wykonawcze wchodzi w życie z dniem podpisania i pozostaje w mocy do czasu wypłacenia z „Programu Stypendialnego” środków finansowych w łącznej wysokości 2 000 000,00 USD na cele określone w artykule 4 ustęp 1 i 3, nie dłużej jednak niż przez okres 10 lat."
-    },
     {
      "type": "text",
      "text": "Niniejsze Porozumienie wykonawcze zostało podpisane w Warszawie dnia 18 lipca 2007 r. w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim, mongolskim i angielskim, przy czym wszystkie teksty mają jednakową moc prawną. W razie rozbieżności przy ich interpretacji tekst w języku angielskim będzie uważany za rozstrzygający."
@@ -442,7 +462,8 @@
      "type": "ocr",
      "text": "For the Minister For the Ministry of Science and Higher Education of Education, Culture and Science of the Republic of Poland of Mongolia ef gag \"|"
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   }
  ],
  "annexes": [],

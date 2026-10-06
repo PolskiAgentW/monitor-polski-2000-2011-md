@@ -17,951 +17,1008 @@
    "text": "Rząd Rzeczypospolitej Polskiej i Rząd Republiki Mołdowy, zwane dalej Umawiającymi się Stronami, kierując się dążeniem do rozwoju przewozów drogowych osób i ładunków między obu Państwami oraz w tranzycie przez ich terytoria, uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Postanowienia niniejszej umowy mają zastosowanie do międzynarodowych przewozów osób i ładunków między Rzecząpospolitą Polską a Republiką Mołdowy, w tranzycie przez ich terytoria, a także do krajów trzecich i w odwrotnym kierunku, wykonywanych pojazdami zarejestrowanymi na terytorium Państwa jednej z Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przewoźnicy jednej Umawiającej się Strony nie są uprawnieni do wykonywania przewozów osób lub ładunków między dwoma miejscami położonymi na terytorium Państwa drugiej Umawiającej się Strony. Wykonywanie takich przewozów jest możliwe w przypadku uzyskania przez przewoźnika specjalnego zezwolenia właściwego organu drugiej Umawiającej się Strony.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Dla celów niniejszej umowy:"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, zamieszkałą lub mającą swoją siedzibę na terytorium państwa jednej z Umawiających się Stron i która ma prawo wykonywania międzynarodowych przewozów drogowych zgodnie z obowiązującym ustawodawstwem wewnętrznym tego Państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „pojazd” oznacza:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "pojazd drogowy z napędem mechanicznym, który jest skonstruowany lub przystosowany do wykonywania przewozów drogowych osób i ładunków lub do ciągnięcia pojazdów przeznaczonych do tych przewozów;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Postanowienia niniejszej umowy mają zastosowanie do międzynarodowych przewozów osób i ładunków między Rzecząpospolitą Polską a Republiką Mołdowy, w tranzycie przez ich terytoria, a także do krajów trzecich i w odwrotnym kierunku, wykonywanych pojazdami zarejestrowanymi na terytorium Państwa jednej z Umawiających się Stron.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "zespół pojazdów złożony z pojazdu spełniającego warunki wymienione w punkcie a) oraz z przyczepy lub naczepy.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Przewoźnicy jednej Umawiającej się Strony nie są uprawnieni do wykonywania przewozów osób lub ładunków między dwoma miejscami położonymi na terytorium Państwa drugiej Umawiającej się Strony. Wykonywanie takich przewozów jest możliwe w przypadku uzyskania przez przewoźnika specjalnego zezwolenia właściwego organu drugiej Umawiającej się Strony.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Dla celów niniejszej umowy:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, zamieszkałą lub mającą swoją siedzibę na terytorium państwa jednej z Umawiających się Stron i która ma prawo wykonywania międzynarodowych przewozów drogowych zgodnie z obowiązującym ustawodawstwem wewnętrznym tego Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Określenie „pojazd” oznacza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_2/lit_a",
+       "text": "pojazd drogowy z napędem mechanicznym, który jest skonstruowany lub przystosowany do wykonywania przewozów drogowych osób i ładunków lub do ciągnięcia pojazdów przeznaczonych do tych przewozów;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_2/lit_b",
+       "text": "zespół pojazdów złożony z pojazdu spełniającego warunki wymienione w punkcie a) oraz z przyczepy lub naczepy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Określenie „autobus” oznacza pojazd samochodowy przeznaczony konstrukcyjnie do przewozu więcej niż 9 osób, łącznie z kierowcą. Definicja odnosi się także do pojazdów, w których w wyniku przebudowy liczba miejsc uległa zmniejszeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Określenie „regularny przewóz osób” oznacza przewóz osób autobusami kursującymi po określonych trasach według rozkładu jazdy i na podstawie taryf uprzednio ustalonych i ogłoszonych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_2/ust_5",
+     "text": "Określenie „przewóz wahadłowy” oznacza wielokrotny przewóz uprzednio zorganizowanych grup podróżnych z tego samego miejsca odjazdu do tego samego miejsca przeznaczenia. Za miejsca odjazdu lub przeznaczenia należy rozumieć miejscowość odjazdu lub przeznaczenia, jak też jej okolice. W czasie takiego przewozu żadna osoba nie może być dodatkowo zabrana ani pozostawiona na trasie przejazdu. Pierwszy przejazd powrotny i ostatni przejazd „tam” odbywają się w stanie próżnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_2/ust_6",
+     "text": "Określenie „przewóz okazjonalny” oznacza przewóz osób inny niż określony w ustępach 4 i 5.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Określenie „autobus” oznacza pojazd samochodowy przeznaczony konstrukcyjnie do przewozu więcej niż 9 osób, łącznie z kierowcą. Definicja odnosi się także do pojazdów, w których w wyniku przebudowy liczba miejsc uległa zmniejszeniu.",
-   "children": []
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Przewoźnicy jednej z Umawiających się Stron mogą wykonywać regularne przewozy osób autobusami między terytoriami państw obu Umawiających się Stron oraz w tranzycie przez ich terytoria, na podstawie uzyskanego wcześniej zezwolenia właściwego organu drugiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Właściwy organ każdej Umawiającej się Strony wydaje zezwolenia na część przewozu wykonywaną na terytorium jej Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Sposoby i warunki wydawania zezwoleń oraz ich wykorzystania zostaną określone w protokole wykonawczym do umowy, o którym mowa w artykule 15 ustęp 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "Przewozy wahadłowe tak jak i przewozy regularne wykonywane są na podstawie wcześniej uzyskanych zezwoleń.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Określenie „regularny przewóz osób” oznacza przewóz osób autobusami kursującymi po określonych trasach według rozkładu jazdy i na podstawie taryf uprzednio ustalonych i ogłoszonych.",
-   "children": []
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Przewozy okazjonalne osób autobusami między obydwoma Państwami albo tranzytem przez ich terytoria wykonywane są bez zezwoleń w przypadkach, gdy grupa osób w tym samym składzie jest przewożona tym samym autobusem na całej trasie przejazdu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_1/lit_a",
+       "text": "jeżeli przewóz rozpoczyna się i kończy na terytorium państwa Umawiającej się Strony, w którym autobus jest zarejestrowany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_1/lit_b",
+       "text": "jeżeli przewóz rozpoczyna się na terytorium państwa Umawiającej się Strony, w którym jest zarejestrowany autobus, i kończy na terytorium państwa drugiej Umawiającej się Strony, pod warunkiem że autobus opuści to terytorium w stanie próżnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Zezwolenia nie są także wymagane na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_2/lit_a",
+       "text": "wjazd pustych autobusów w celu powrotnego przewozu przez tego samego przewoźnika grupy osób z miejsca znajdującego się na terytorium państwa drugiej Umawiającej się Strony, do którego ta grupa była wcześniej przywieziona (w przypadku wymienionym w ustępie 1 litera b) do miejsca początkowego wyjazdu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_2/lit_b",
+       "text": "zamianę niesprawnego autobusu na inny autobus.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Przy wykonywaniu przewozów przewidzianych w ustępie 1 i ustępie 2 litera a), kierowca autobusu obowiązany jest posiadać dokument zawierający listę podróżnych według wzoru określonego w protokole wykonawczym do niniejszej umowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Określenie „przewóz wahadłowy” oznacza wielokrotny przewóz uprzednio zorganizowanych grup podróżnych z tego samego miejsca odjazdu do tego samego miejsca przeznaczenia. Za miejsca odjazdu lub przeznaczenia należy rozumieć miejscowość odjazdu lub przeznaczenia, jak też jej okolice. W czasie takiego przewozu żadna osoba nie może być dodatkowo zabrana ani pozostawiona na trasie przejazdu. Pierwszy przejazd powrotny i ostatni przejazd „tam” odbywają się w stanie próżnym.",
-   "children": []
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Przewoźnicy Umawiających się Stron mogą wykonywać przewozy ładunków oraz wykonywać przejazdy w stanie próżnym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_1/lit_a",
+       "text": "między miejscem położonym na terytorium państwa jednej Umawiającej się Strony a miejscem położonym na terytorium państwa drugiej Umawiającej się Strony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_1/lit_b",
+       "text": "w tranzycie przez terytorium państwa drugiej Umawiającej się Strony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/ust_1/lit_c",
+       "text": "między miejscem położonym na terytorium państwa jednej z Umawiających się Stron a miejscem położonym na terytorium państwa trzeciego i na odwrót.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Przewoźnicy jednej z Umawiających się Stron mają prawo zabierania ładunku powrotnego z terytorium państwa drugiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Przewoźnicy jednej z Umawiających się Stron mogą wykonywać przewozy między miejscem położonym na terytorium państwa drugiej Umawiającej się Strony a miejscem położonym na terytorium trzeciego państwa, pod warunkiem że pojazd przejeżdża najkrótszą drogą tranzytem przez terytorium Państwa, w którym pojazd przewoźnika jest zarejestrowany, bądź po otrzymaniu specjalnego zezwolenia od właściwych organów drugiej Umawiającej się Strony.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "6",
-   "path": "ust_6",
-   "text": "Określenie „przewóz okazjonalny” oznacza przewóz osób inny niż określony w ustępach 4 i 5.",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy jednej z Umawiających się Stron mogą wykonywać regularne przewozy osób autobusami między terytoriami państw obu Umawiających się Stron oraz w tranzycie przez ich terytoria, na podstawie uzyskanego wcześniej zezwolenia właściwego organu drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwy organ każdej Umawiającej się Strony wydaje zezwolenia na część przewozu wykonywaną na terytorium jej Państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Sposoby i warunki wydawania zezwoleń oraz ich wykorzystania zostaną określone w protokole wykonawczym do umowy, o którym mowa w artykule 15 ustęp 3.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przewozy wahadłowe tak jak i przewozy regularne wykonywane są na podstawie wcześniej uzyskanych zezwoleń.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy okazjonalne osób autobusami między obydwoma Państwami albo tranzytem przez ich terytoria wykonywane są bez zezwoleń w przypadkach, gdy grupa osób w tym samym składzie jest przewożona tym samym autobusem na całej trasie przejazdu:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "jeżeli przewóz rozpoczyna się i kończy na terytorium państwa Umawiającej się Strony, w którym autobus jest zarejestrowany,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Przewozy ładunków wymienionych w artykule 5, z wyjątkiem przewozów określonych w artykule 7, mogą być wykonywane jedynie na podstawie zezwoleń, wydanych uprzednio przez właściwy organ Umawiającej się Strony państwa rejestracji pojazdu w imieniu właściwego organu drugiej Umawiającej się Strony.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "jeżeli przewóz rozpoczyna się na terytorium państwa Umawiającej się Strony, w którym jest zarejestrowany autobus, i kończy na terytorium państwa drugiej Umawiającej się Strony, pod warunkiem że autobus opuści to terytorium w stanie próżnym.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Każde zezwolenie jest ważne na jedną jazdę tam i z powrotem, jeśli w zezwoleniu nie określono tego inaczej.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zezwolenia nie są także wymagane na:",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "wjazd pustych autobusów w celu powrotnego przewozu przez tego samego przewoźnika grupy osób z miejsca znajdującego się na terytorium państwa drugiej Umawiającej się Strony, do którego ta grupa była wcześniej przywieziona (w przypadku wymienionym w ustępie 1 litera b) do miejsca początkowego wyjazdu,",
-     "children": []
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Nie wymagają zezwoleń przewozy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_1/lit_a",
+       "text": "mienia przesiedleńczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_1/lit_b",
+       "text": "uszkodzonych pojazdów, zarejestrowanych na terytorium państwa jednej z Umawiających się Stron,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_7/ust_1/lit_c",
+       "text": "środków transportu, zwierząt, inwentarza i mienia sportowego przeznaczonych na imprezy sportowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_7/ust_1/lit_d",
+       "text": "eksponatów, urządzeń i materiałów przeznaczonych na targi i wystawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_7/ust_1/lit_e",
+       "text": "dekoracji oraz rekwizytów teatralnych, instrumentów muzycznych, wyposażenia i sprzętu niezbędnego dla realizacji zdjęć filmowych, audycji radiowych i telewizyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_7/ust_1/lit_f",
+       "text": "zwłok lub urn z prochami osób zmarłych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_7/ust_1/lit_g",
+       "text": "ładunków wykonywanych pojazdami o ładowności do 3,5 t i masie całkowitej do 6,0 t łącznie z przyczepą lub naczepą,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_7/ust_1/lit_h",
+       "text": "w celu udzielenia pomocy w czasie klęsk żywiołowych, awarii i katastrof.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "zamianę niesprawnego autobusu na inny autobus.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Przy wykonywaniu przewozów przewidzianych w ustępie 1 i ustępie 2 litera a), kierowca autobusu obowiązany jest posiadać dokument zawierający listę podróżnych według wzoru określonego w protokole wykonawczym do niniejszej umowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy Umawiających się Stron mogą wykonywać przewozy ładunków oraz wykonywać przejazdy w stanie próżnym:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "między miejscem położonym na terytorium państwa jednej Umawiającej się Strony a miejscem położonym na terytorium państwa drugiej Umawiającej się Strony,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "w tranzycie przez terytorium państwa drugiej Umawiającej się Strony,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "między miejscem położonym na terytorium państwa jednej z Umawiających się Stron a miejscem położonym na terytorium państwa trzeciego i na odwrót.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przewoźnicy jednej z Umawiających się Stron mają prawo zabierania ładunku powrotnego z terytorium państwa drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Przewoźnicy jednej z Umawiających się Stron mogą wykonywać przewozy między miejscem położonym na terytorium państwa drugiej Umawiającej się Strony a miejscem położonym na terytorium trzeciego państwa, pod warunkiem że pojazd przejeżdża najkrótszą drogą tranzytem przez terytorium Państwa, w którym pojazd przewoźnika jest zarejestrowany, bądź po otrzymaniu specjalnego zezwolenia od właściwych organów drugiej Umawiającej się Strony.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy ładunków wymienionych w artykule 5, z wyjątkiem przewozów określonych w artykule 7, mogą być wykonywane jedynie na podstawie zezwoleń, wydanych uprzednio przez właściwy organ Umawiającej się Strony państwa rejestracji pojazdu w imieniu właściwego organu drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każde zezwolenie jest ważne na jedną jazdę tam i z powrotem, jeśli w zezwoleniu nie określono tego inaczej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Nie wymagają zezwoleń przewozy:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "mienia przesiedleńczego,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Nie wymagają zezwoleń przejazdy pojazdów pomocy drogowej oraz pojazdów wjeżdżających w celu zamiany uszkodzonych pojazdów.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "uszkodzonych pojazdów, zarejestrowanych na terytorium państwa jednej z Umawiających się Stron,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Komisja Mieszana, o której mowa w artykule 15, jest upoważniona do uzupełnienia listy z ustępu 1 i 2.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "środków transportu, zwierząt, inwentarza i mienia sportowego przeznaczonych na imprezy sportowe,",
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Przy wykonywaniu przewozów wymienionych w ustępach 1 i 2 kierowca pojazdu obowiązany jest posiadać niezbędne dokumenty potwierdzające fakt, że zezwolenia na te przewozy nie są wymagane.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Zezwolenia na wykonywanie przewozów ładunków są wydawane w granicach kontyngentów, ustalanych we wspólnym porozumieniu każdego roku przez właściwe organy Umawiających się Stron.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "eksponatów, urządzeń i materiałów przeznaczonych na targi i wystawy,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Kategorie zezwoleń, warunki i sposoby ich wykorzystywania zostaną określone w protokole wykonawczym do umowy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "dekoracji oraz rekwizytów teatralnych, instrumentów muzycznych, wyposażenia i sprzętu niezbędnego dla realizacji zdjęć filmowych, audycji radiowych i telewizyjnych,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Zezwolenie jest ważne jeden rok kalendarzowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Przewozy pojazdami, których masa całkowita lub rozmiary z ładunkiem lub bez ładunku przekraczają normy dopuszczone na terytorium państwa jednej Umawiającej się Strony, wymagają zezwolenia specjalnego wydanego przez organy tej Umawiającej się Strony.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "zwłok lub urn z prochami osób zmarłych,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Zezwolenie specjalne, o którym mowa w ustępie 1, może ograniczać przejazd pojazdu do określonej trasy bądź nakładać inne obowiązki lub ograniczenia.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "ładunków wykonywanych pojazdami o ładowności do 3,5 t i masie całkowitej do 6,0 t łącznie z przyczepą lub naczepą,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Zezwolenie specjalne, o którym mowa w ust. 1, zastępuje zezwolenie na przewóz, o którym mowa w artykule 6 ustęp 1 niniejszej umowy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_1/lit_h",
-     "text": "w celu udzielenia pomocy w czasie klęsk żywiołowych, awarii i katastrof.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania zezwoleń specjalnych na przewozy materiałów niebezpiecznych i odpadów, wykonywane przez przewoźników drugiej Umawiającej się Strony.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Nie wymagają zezwoleń przejazdy pojazdów pomocy drogowej oraz pojazdów wjeżdżających w celu zamiany uszkodzonych pojazdów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja Mieszana, o której mowa w artykule 15, jest upoważniona do uzupełnienia listy z ustępu 1 i 2.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przy wykonywaniu przewozów wymienionych w ustępach 1 i 2 kierowca pojazdu obowiązany jest posiadać niezbędne dokumenty potwierdzające fakt, że zezwolenia na te przewozy nie są wymagane.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zezwolenia na wykonywanie przewozów ładunków są wydawane w granicach kontyngentów, ustalanych we wspólnym porozumieniu każdego roku przez właściwe organy Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Kategorie zezwoleń, warunki i sposoby ich wykorzystywania zostaną określone w protokole wykonawczym do umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zezwolenie jest ważne jeden rok kalendarzowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy pojazdami, których masa całkowita lub rozmiary z ładunkiem lub bez ładunku przekraczają normy dopuszczone na terytorium państwa jednej Umawiającej się Strony, wymagają zezwolenia specjalnego wydanego przez organy tej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zezwolenie specjalne, o którym mowa w ustępie 1, może ograniczać przejazd pojazdu do określonej trasy bądź nakładać inne obowiązki lub ograniczenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zezwolenie specjalne, o którym mowa w ust. 1, zastępuje zezwolenie na przewóz, o którym mowa w artykule 6 ustęp 1 niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania zezwoleń specjalnych na przewozy materiałów niebezpiecznych i odpadów, wykonywane przez przewoźników drugiej Umawiającej się Strony.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy osób i ładunków, wymienione w niniejszej Umowie, podlegają podatkom i opłatom według zasad obowiązujących na terytorium państwa drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy każdej z Umawiających się Stron mogą wnioskować o częściowe lub całkowite zwolnienie z podatków lub opłat, o których mowa w ustępie 1, z wyjątkiem przewozów określonych w artykule 9 ustęp 1.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Przepis ustępu 2 nie dotyczy podatku od towarów i usług.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Paliwo znajdujące się w normalnych zbiornikach, wbudowanych fabrycznie na stałe w pojazdach, jest zwolnione od opłat celnych i innych należności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Części zamienne, które są czasowo wwożone w celu naprawy pojazdu uszkodzonego lub który uległ awarii na terytorium państwa drugiej Umawiającej się Strony, zwalnia się z opłat celnych, podatków i innych należności, o ile prawo drugiej Umawiającej się Strony tak stanowi.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Niewykorzystane części zapasowe i części zapasowe wymienione powinny być wywiezione z powrotem."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Zezwolenia i inne dokumenty, wymagane stosownie do postanowień niniejszej umowy oraz prawa wewnętrznego Umawiających się Stron, powinny znajdować się w pojeździe i być okazywane na każde żądanie organów kontrolnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy jednej Umawiającej się Strony, jak również załogi pojazdów podczas swojego pobytu na terytorium państwa drugiej Umawiającej się Strony powinny przestrzegać przepisów prawnych obowiązujących na tym terytorium, dotyczących w szczególności przewozów i ruchu drogowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sprawy nieuregulowane w niniejszej umowie bądź w innych konwencjach międzynarodowych, których stronami są Rzeczpospolita Polska i Republika Mołdowa, będą rozstrzygane zgodnie z ich ustawodawstwem wewnętrznym.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W przypadku naruszenia postanowień niniejszej Umowy przez przewoźnika jednej Umawiającej się Strony na terytorium państwa drugiej Umawiającej się Strony, właściwe organy tej drugiej Umawiającej się Strony poinformują o tym właściwe organy Umawiającej się Strony, na której terytorium pojazd jest zarejestrowany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy Umawiającej się Strony, na której terytorium państwa naruszenie miało miejsce, mogą zwrócić się do właściwych organów drugiej Umawiającej się Strony o:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "ostrzeżenie przewoźnika, który dokonał naruszenia,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Przewozy osób i ładunków, wymienione w niniejszej Umowie, podlegają podatkom i opłatom według zasad obowiązujących na terytorium państwa drugiej Umawiającej się Strony.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "zawieszenie czasowe, częściowe lub całkowite praw przewoźnika do wykonywania przewozów na terytorium państwa Umawiającej się Strony, gdzie dokonano naruszenia.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Właściwe organy każdej z Umawiających się Stron mogą wnioskować o częściowe lub całkowite zwolnienie z podatków lub opłat, o których mowa w ustępie 1, z wyjątkiem przewozów określonych w artykule 9 ustęp 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Przepis ustępu 2 nie dotyczy podatku od towarów i usług.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Organ, który podjął powyższe środki, poinformuje o tym właściwy organ drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia niniejszego artykułu nie wykluczają sankcji przewidzianych w ustawodawstwie obowiązującym w państwie, na którego terytorium naruszenie zostało popełnione.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Paliwo znajdujące się w normalnych zbiornikach, wbudowanych fabrycznie na stałe w pojazdach, jest zwolnione od opłat celnych i innych należności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Części zamienne, które są czasowo wwożone w celu naprawy pojazdu uszkodzonego lub który uległ awarii na terytorium państwa drugiej Umawiającej się Strony, zwalnia się z opłat celnych, podatków i innych należności, o ile prawo drugiej Umawiającej się Strony tak stanowi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Niewykorzystane części zapasowe i części zapasowe wymienione powinny być wywiezione z powrotem."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu zapewnienia należytego wykonywania postanowień niniejszej umowy Umawiające się Strony ustanowią Komisję Mieszaną.",
-   "children": []
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Zezwolenia i inne dokumenty, wymagane stosownie do postanowień niniejszej umowy oraz prawa wewnętrznego Umawiających się Stron, powinny znajdować się w pojeździe i być okazywane na każde żądanie organów kontrolnych.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja będzie zbierała się na wniosek jednej z Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja sporządzi protokół wykonawczy do niniejszej umowy.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Przewoźnicy jednej Umawiającej się Strony, jak również załogi pojazdów podczas swojego pobytu na terytorium państwa drugiej Umawiającej się Strony powinny przestrzegać przepisów prawnych obowiązujących na tym terytorium, dotyczących w szczególności przewozów i ruchu drogowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Sprawy nieuregulowane w niniejszej umowie bądź w innych konwencjach międzynarodowych, których stronami są Rzeczpospolita Polska i Republika Mołdowa, będą rozstrzygane zgodnie z ich ustawodawstwem wewnętrznym.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie w dniu otrzymania noty późniejszej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa jest zawarta na okres pięciu lat i ulega automatycznie przedłużeniu na kolejne okresy jednoroczne, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na trzy miesiące przed upływem okresu jej ważności.",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Sporządzono w Kiszyniowie dnia 10 grudnia 1997 r. w dwóch egzemplarzach, każdy w językach polskim, mołdawskim i rosyjskim, przy czym wszystkie teksty są jednakowo autentyczne. W przypadku rozbieżności przy ich interpretacji tekst rosyjski uważany będzie za rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Z upoważnienia Rządu Rządu Rzeczypospolitej Polskiej Republiki Mołdowy"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ACORD intre Guvernul Republicii Polone gi Guvernul Republicii Moldova privind transporturile auto internationale"
-    },
-    {
-     "type": "ocr",
-     "text": "Guvermil Guvemul Republicii Polone si Guvernul Republicii Moldova, denumite tn continnare Parti Contractante, aspirind la dezvoltarea transportului auto de pasageri si marfuri intre ambele State, precum $1 in tranzit prin teritoriile lor, au convenit asupra celor ce urmeaza:"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 1"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Prevederile prezentului Acord se aplica la transporturile de pasageri si marfuri, intre Republica Polona si Republica Moldova, in tranzit prin teritoriile lor, precum si prinstate terje sireturul, efectuate cu mijloace de transport auto, inmatriculate pe teritoriul statului uneia dintre Partile Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Transportatorii uneia dintre Partile Contractante nu au dreptul są efectueze transporturile de pasageri gi marfuri intre douń puncte situate pe teritoriul statului celeiaite Parti Contractante. Efectuarea a astfel de transporturi se permite in caz dacń transportatorul a primit pentru aceasta o autorizatie speciala de la autoritatea competenta a celejlalte Parti Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 2"
-    },
-    {
-     "type": "ocr",
-     "text": "in scopurile prezentului Acord:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Termenul \"transportator\" inseamna o persoand fizich sau juridica, stabilith sau care are sediul pe teritoriul statului uneia dintre Partile Contractante si care are dreptul la efectuarea transporturilor auto internationale, conform legislatiei interne in vigoare a acestui stat."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Termenul \"mijloc de transport” inseamna: a} mijlocuł de transport auto cu propulsie mecanica, construit sau adaptat pentru efectuarea transporturilor auto de pasageri gi mórfuri, sau pentru tractiunea mijlocului de transport predestinat pentru acestę transporturi."
-    },
-    {
-     "type": "ocr",
-     "text": "b) autotrenul care este compus din mijlocul de transport, care corespunde conditiiior mentionate in subpunctul a), de asemenea cu remorca san semiremorcą."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Termenul \"autobus\" inseamna mijlocul de transport auto, predestinat conform"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, por+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "constructiei sale pentru transporturile a mai mult de noua pasageri, impreuná cu soferul. Acest termen se refera de asemenea si la mijloacele de transport auto, in care numa de locuri s-a micsorat In urma reconstructiei lor. 4, Termenul “transporturi regulate de pasageri” inseamna transporturile de pasagen cu autobuse care circuld pe itinerare stabilite conform orarelor circuiatiei gi tarifelor stabilite si amuntate din timp."
-    },
-    {
-     "type": "ocr",
-     "text": "5. Termenul “transporturi pendulare ” inseamná transporturile multiple a grupurilor de pasageri din timp formate din punctul de plecare in punctul de destinatie. Prin punctul de plecare sau destinatie trebnie de infeles localitatea de plecare sau de destinatie, de asemenea si imprejurimile ei. In timpul acestui fel de transport nici un pasager nu poate fi imbarcat adáugator sau debarcat pe parcursul cálátoriei. Prima caélatorie “retur” si ultima calatorie \"tur\" se efectueaza in gol."
-    },
-    {
-     "type": "ocr",
-     "text": "6. Termenu! \"transporturi nereguiate” inseamná alte transporturi de pasager) decit cele mentionate in punctele 4 si 5."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 3"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Transportatorii unei Parti Contractante pot efectua transporturi regulate de pasageri cu autobuse intre teritoriile statelor ambelor Parti Contractante, de asemenea in tranzit prin teritoriile lor, in baza autorizatiei, eliberate din timp de autoritatea competentá a celeilalte Parti Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Autoritatea competenta a fiecarei Parti Contractante elibereaza autorizatia pentru acea portiune a transportului care se efectueazá pe teritoriul statului ei."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Modalitatile si conditiile de eliberare a autorizatiilor, precum si folosirea lor se stabilesc in Protocolul Aditional al Acordului, despre care se vorbeste in punctul 3 al Articolului 15."
-    },
-    {
-     "type": "ocr",
-     "text": "4. Transporturile pendulare astfel ca gi transporturile regulate se efectueaza in baza autorizatiilor primite in prealabil."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 4"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Transporturile neregulate de pasageri cu autobuse intre ambele state sau in tranzit prin teritoriile lor se efectueazã fara autorizatii, in cazul cind grupul de pasageri in una si aceeasi componentá este transportat cu unul si acelasi autobus pe tot parcursul caélatoriei, si in acelasi timp:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) transportul se incepe si se terminá pe teritoriul statului acelei Parti Contractante unde este inmatriculat autobusul;"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "b) transportul se incepe pe teritoriul statului Partii Contractante unde este inmatriculat autobusul si se termina pe teritoriul statului celeilalte Parti Contractante cu conditia ca autobusul páráseste in gol acest teritoriu."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Autorizatile de asemenea nu se solicitá pentru:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) intrarea autobuselor in gol cu scopul transportárii retur de cútre acelasi transportator a grupului de pasageri din punctul care se afd pe teritoriul statlol celellalte Parti Contractante, unde acest grup a fost transportat anterior (in caznl prevázul in subpunctui b) al punctului 1), in punctul initial de plecare:"
-    },
-    {
-     "type": "ocr",
-     "text": "b) schimbul autobusului defectat cu alt antobus."
-    },
-    {
-     "type": "ocr",
-     "text": "3. La efectuarea transporturilor, prevázute in punctele 1 si 2. subpuncul a), soferul autobusului trebuie sá aib4 cu sine documental cu lista pasageriior dupa modelul stabilk in Protocolul Aditional al prezentului Acord."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 5"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Transportatorii Partilor Contractante pot electua transporturi de márfuri sau o calatorie in gol:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) intre un punct care se afla pe teritorilu! statului uneia dintre Partile Contractante $i un punct care se aflá pe teritoriul statului celeilalte Pani Contractante:"
-    },
-    {
-     "type": "ocr",
-     "text": "b) in tranzit prin teritoriul statului celeilalte Parti Contractante:"
-    },
-    {
-     "type": "ocr",
-     "text": "c) intre un punct care se aflá pe teritoriul statului uneia dintre Partile Contractante si un punct care se aflá pe teritoriul statului tert si invers. 2.Transportatorii uneia dintre Párfile Contractante au dreptul de a exporta maría retur de pe teritoriul statului celeilalte Parti Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Transportatorii uneia dintre Partile Contractante pot efectua transporturile intre un punct care se aflá pe teritoriul statului celeilalte Parti Contractante si un punct care se aflá pe teritoriul statului tert cu conditia cá mijlocul de transport auto se deplaseaza pe cea mai scurtá cale in tranzit prin teritoriul statului, in care este inmatriculat mijlocul de transport auto al transportatorului, dupa primirea unei autorizatii speciale de la autoritatea competentá a celeilalte Parti Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 6"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Transporturile de márfuri, mentionate in Articolul 5, cu exceptia transporturilor determinate in Articolul 7, pot fi efectuate numai in baza autorizatiilor, eliberate in prealabil de cátre autoritatea competentá a Pártii Contractante, pe teritoriul careia este inmatriculat mijlocul de transport auto, din numele autoritátil competente a celeilalte"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Parti Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Fiecare autorizatie este valabila pentru efectuarea unei cólśtorii tur-retur daca fn autorizatie nu este indicat altfel."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 7"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Autorizatiile nu se solicita pentru transporturile:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) averii, in caz de stramutare:"
-    },
-    {
-     "type": "ocr",
-     "text": "b) mijloacelor de transport auto avariate, Inmatriculate pe teritoriul statului uneia dintre Partile Contractante;"
-    },
-    {
-     "type": "ocr",
-     "text": "c) mijloacelor de transport, animalelor, inventarului sportiv si accesoriilor predestinate pentru petrecerea manifestatiilor sportive;"
-    },
-    {
-     "type": "ocr",
-     "text": "d) exponatelor, utilajului si materialelor predestinate pentru iarmaroace si expoziti;"
-    },
-    {
-     "type": "ocr",
-     "text": "e) decoratiilor teatrale si rechizitelor, instrumentelor muzicale, inzestrarii necesare pentru efectuarea filmarilor de cinema, emisiunilor radio si televizaie;"
-    },
-    {
-     "type": "ocr",
-     "text": "f) corpurilor sau urnelor cu osemintele decedatilor;"
-    },
-    {
-     "type": "ocr",
-     "text": "g) marfurilor transportate cu vehicule a caror capacitate de incarcare este pind la 3,5 t gi masa totala pind la 6 tone impreund cu remorca sau semiremorca."
-    },
-    {
-     "type": "ocr",
-     "text": "h) la acordarea ajutorului in timpul calamitśtilor naturale, accidentelor gi catastrofelor."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Autorizatiile nu se solicita de asemenea pentru trecerea vehiculelor de asistenta tehnica si a mijloacelor de transport care se indreapta cu scopul inlocuirii mijlocului de transport avariat."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Comisia Mixta despre care se vorbeste in Articolul 15 are dreptul de a completa lista in punctele I gi 2."
-    },
-    {
-     "type": "ocr",
-     "text": "4. in timpul efectuśrii transporturilor, rnentionate in punctele 1 si 2, soferul vehiculului este obligat sa aibé documentele necesare care confirma faptul ca pentru aceste transporturi nu se solicita autorizatii."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 8"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Autorizatiile pentru transportu! marfurilor se elibereazA in limitele contingentelor stabilite anual de comun acord de cśtre autoritafile competente ale Partilor Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Tipurile de antorizatii, conditiile si modalitatile utiliz4rii lor sint determinate in Protocolul Aditional al prezentului Acord."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Valabilitatea autorizatiei - un an calendaristic."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 9"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Pentru efectuarea transporturilor cu vehicule, masa totalá sau dimensiunile cárora cu marfá sau fara marfá, depásesc normele admise pe teritoriul statului uneia dintre Partie Contractante, se solicitá o autorizatie specialá, eliberatá de autoritátile acestei Partii Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Autorizatile speciale, despre care se vorbeste in punctul 1, pot limita trecerea mijlocului de transport auto pe un itinerar determinat sau de a impune alte obligatii $i restrictil. 3, Autorizatile speciale despre care se vorbestein punctdl 1 inlocuiesc autorizatille pentru transporturile despre care se vorbeste in punctul l al Articolului 6 al prezentulul Acord."
-    },
-    {
-     "type": "ocr",
-     "text": "4. Fiecare Parte Contractantá isi rezervá dreptul de a elibera autorizatii speciale pentru transporturile márfurilor periculoase gi deseurilor, care se efectueazá de cátre transportatori celeñlalte Parti Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 10"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Transporturile de pasageri si márfuri, mentionate In prezentul Acord, sint supuse impozitárii si taxdrii conform legilor in vigoare pe teritoriul statului celeilalte Parti Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Autoritatile competente ale fiecárei dintre Pártile Contractante pot sá inainteze propunerea referitor la eliberarea partialá sau completá de impozitele sau taxele, despre care se vorbeste in punctul 1 al prezentului Articol , cu exceptia transporturilor, mentionate in punctul 1 al Articolului 9."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Prevederea punctului 2 nu se referá la taxa pe valoarea adáugatá."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 11"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Combustibilul in rezervoarele standard montate la mijloacele de transport auto de uzina costructoare, este scutit de impozitele vamale si alte taxe."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Piesele de schimb temporar importate cu scopul repararii mijlocului de transport auto deteriorat sau avariat pe teritoriul statului altei Párfi Contractante, sint"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "scutite de taxele vamale, impozite gi alte incasari, pe cit permite legislatia celeilalte Parti Contractante. Piesele de schimb neutilizate gi cele schimbate sint supuse reexportarii."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLULI2"
-    },
-    {
-     "type": "ocr",
-     "text": "Autorizattile si alte documente necesare conform prevederilor prezentului Acord, precum gi legislatiei interne a Partilor Contractante trebuie sa se afle la bordul mijlocului de transport auto, gi sA fie prezentate la fiecare solicitare a organelor de control."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL13"
-    },
-    {
-     "type": "ocr",
-     "text": "1.Transportatorii unei Parti Contractante de asemenea si membrii echipajelor mijloacelor de transport auto in timpul aflówii pe teritoriul statului celeilalte Parti Contractante, sint obligafi sa respecte prevederile legale in vigoare pe acest teritoriu, in special referitor la transportare gi circulatia rutiera."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Problemele nereglementate in prezentul Acord sau in alte conventii internationale, partile carora sint Republica Polona si Republica Moldova, se vor regiementa conform legislatiei lor interne."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 14"
-    },
-    {
-     "type": "ocr",
-     "text": "1. In cazul incźlcśrii prevederilor prezentului Acord de cśtre transportatorul unei Parti Contractante pe teritoriul statului celeilalte Parti Contractante, autoritatile competente ale acestei alte Parti Contractante informeaza despre aceasta autoritatile competente ale Partii Contractante, pe teritoriul statului careia este inmatriculat mijlocul de transport auto."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Autoritatile competente ale Partii Contractante pe teritoriul statului careia a fost comisą incalcarea, se pot adresala autoritétile competente ale celeilalte Parti Contractante intru:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) avertizarea transportatorului, care a comis incdlearea;"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "b) suspendarea temporara, partiala sau deplina a dreptului transportatorului de a efectua transportul pe teritoriul statului acelei Parti Contractante, unde a fost comisa incdlc area."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Organul competent care a aplicat masurile susnumite, informeaza despre aceasta autoritatea competenta a celeilalte Parti Contractante. 4, Prevederile prezentului Articol nu exclud sanctiunile prevazute de legislatia in vigoare in {ara pe teritoriul careia a fost comisa incdlcarea."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOŁUL 15"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Pentru asigurarea indeplinirii corespunzatoare a prevederilor prezennnuj Acord, Partile Contractante formeazA o Comisie Mixta."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Comisia Mixtą se va intruni la propunerea uneia dintre Partie Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Comisia MixtA intocmeste Protocolul Aditional la Prezentui Acord."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICOLUL 16"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Prezentul Acord se adopta in conformitate cu legislatia fiecadrei dintre Partile Contractante, despre ce se confirma prin schimbul de notificari. Acordul intra in vigoare din data primirii ultimei notificari."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Prezentul Acord se incheie pentru un termen de cinci ani. Automat se prelungeste pentru urmśtorul termen de un an, daca nici una dintre Partile Contractante nu-l denunta pe calea notificarii cu trei luni pindla expirarea termenului lui de valabilitate."
-    },
-    {
-     "type": "ocr",
-     "text": "poloneza, moldoveneasca gi rusą, toate textele avind aceeagi valoare. in cazul aparitiel unor divergente in interpretarea lor textul in limba rus& va prevala."
-    },
-    {
-     "type": "ocr",
-     "text": "Pentru Guvernul Republicii Polone"
-    },
-    {
-     "type": "ocr",
-     "text": "Se"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 12-20 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "W przypadku naruszenia postanowień niniejszej Umowy przez przewoźnika jednej Umawiającej się Strony na terytorium państwa drugiej Umawiającej się Strony, właściwe organy tej drugiej Umawiającej się Strony poinformują o tym właściwe organy Umawiającej się Strony, na której terytorium pojazd jest zarejestrowany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Właściwe organy Umawiającej się Strony, na której terytorium państwa naruszenie miało miejsce, mogą zwrócić się do właściwych organów drugiej Umawiającej się Strony o:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/ust_2/lit_a",
+       "text": "ostrzeżenie przewoźnika, który dokonał naruszenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/ust_2/lit_b",
+       "text": "zawieszenie czasowe, częściowe lub całkowite praw przewoźnika do wykonywania przewozów na terytorium państwa Umawiającej się Strony, gdzie dokonano naruszenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Organ, który podjął powyższe środki, poinformuje o tym właściwy organ drugiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Postanowienia niniejszego artykułu nie wykluczają sankcji przewidzianych w ustawodawstwie obowiązującym w państwie, na którego terytorium naruszenie zostało popełnione.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "W celu zapewnienia należytego wykonywania postanowień niniejszej umowy Umawiające się Strony ustanowią Komisję Mieszaną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Komisja będzie zbierała się na wniosek jednej z Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Komisja sporządzi protokół wykonawczy do niniejszej umowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie w dniu otrzymania noty późniejszej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Niniejsza umowa jest zawarta na okres pięciu lat i ulega automatycznie przedłużeniu na kolejne okresy jednoroczne, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na trzy miesiące przed upływem okresu jej ważności.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Kiszyniowie dnia 10 grudnia 1997 r. w dwóch egzemplarzach, każdy w językach polskim, mołdawskim i rosyjskim, przy czym wszystkie teksty są jednakowo autentyczne. W przypadku rozbieżności przy ich interpretacji tekst rosyjski uważany będzie za rozstrzygający."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Z upoważnienia Rządu Rządu Rzeczypospolitej Polskiej Republiki Mołdowy"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ACORD intre Guvernul Republicii Polone gi Guvernul Republicii Moldova privind transporturile auto internationale"
+  },
+  {
+   "type": "ocr",
+   "text": "Guvermil Guvemul Republicii Polone si Guvernul Republicii Moldova, denumite tn continnare Parti Contractante, aspirind la dezvoltarea transportului auto de pasageri si marfuri intre ambele State, precum $1 in tranzit prin teritoriile lor, au convenit asupra celor ce urmeaza:"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 1"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Prevederile prezentului Acord se aplica la transporturile de pasageri si marfuri, intre Republica Polona si Republica Moldova, in tranzit prin teritoriile lor, precum si prinstate terje sireturul, efectuate cu mijloace de transport auto, inmatriculate pe teritoriul statului uneia dintre Partile Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Transportatorii uneia dintre Partile Contractante nu au dreptul są efectueze transporturile de pasageri gi marfuri intre douń puncte situate pe teritoriul statului celeiaite Parti Contractante. Efectuarea a astfel de transporturi se permite in caz dacń transportatorul a primit pentru aceasta o autorizatie speciala de la autoritatea competenta a celejlalte Parti Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 2"
+  },
+  {
+   "type": "ocr",
+   "text": "in scopurile prezentului Acord:"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Termenul \"transportator\" inseamna o persoand fizich sau juridica, stabilith sau care are sediul pe teritoriul statului uneia dintre Partile Contractante si care are dreptul la efectuarea transporturilor auto internationale, conform legislatiei interne in vigoare a acestui stat."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Termenul \"mijloc de transport” inseamna: a} mijlocuł de transport auto cu propulsie mecanica, construit sau adaptat pentru efectuarea transporturilor auto de pasageri gi mórfuri, sau pentru tractiunea mijlocului de transport predestinat pentru acestę transporturi."
+  },
+  {
+   "type": "ocr",
+   "text": "b) autotrenul care este compus din mijlocul de transport, care corespunde conditiiior mentionate in subpunctul a), de asemenea cu remorca san semiremorcą."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Termenul \"autobus\" inseamna mijlocul de transport auto, predestinat conform"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, por+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "constructiei sale pentru transporturile a mai mult de noua pasageri, impreuná cu soferul. Acest termen se refera de asemenea si la mijloacele de transport auto, in care numa de locuri s-a micsorat In urma reconstructiei lor. 4, Termenul “transporturi regulate de pasageri” inseamna transporturile de pasagen cu autobuse care circuld pe itinerare stabilite conform orarelor circuiatiei gi tarifelor stabilite si amuntate din timp."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Termenul “transporturi pendulare ” inseamná transporturile multiple a grupurilor de pasageri din timp formate din punctul de plecare in punctul de destinatie. Prin punctul de plecare sau destinatie trebnie de infeles localitatea de plecare sau de destinatie, de asemenea si imprejurimile ei. In timpul acestui fel de transport nici un pasager nu poate fi imbarcat adáugator sau debarcat pe parcursul cálátoriei. Prima caélatorie “retur” si ultima calatorie \"tur\" se efectueaza in gol."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Termenu! \"transporturi nereguiate” inseamná alte transporturi de pasager) decit cele mentionate in punctele 4 si 5."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 3"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Transportatorii unei Parti Contractante pot efectua transporturi regulate de pasageri cu autobuse intre teritoriile statelor ambelor Parti Contractante, de asemenea in tranzit prin teritoriile lor, in baza autorizatiei, eliberate din timp de autoritatea competentá a celeilalte Parti Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Autoritatea competenta a fiecarei Parti Contractante elibereaza autorizatia pentru acea portiune a transportului care se efectueazá pe teritoriul statului ei."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Modalitatile si conditiile de eliberare a autorizatiilor, precum si folosirea lor se stabilesc in Protocolul Aditional al Acordului, despre care se vorbeste in punctul 3 al Articolului 15."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Transporturile pendulare astfel ca gi transporturile regulate se efectueaza in baza autorizatiilor primite in prealabil."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 4"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Transporturile neregulate de pasageri cu autobuse intre ambele state sau in tranzit prin teritoriile lor se efectueazã fara autorizatii, in cazul cind grupul de pasageri in una si aceeasi componentá este transportat cu unul si acelasi autobus pe tot parcursul caélatoriei, si in acelasi timp:"
+  },
+  {
+   "type": "ocr",
+   "text": "a) transportul se incepe si se terminá pe teritoriul statului acelei Parti Contractante unde este inmatriculat autobusul;"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "b) transportul se incepe pe teritoriul statului Partii Contractante unde este inmatriculat autobusul si se termina pe teritoriul statului celeilalte Parti Contractante cu conditia ca autobusul páráseste in gol acest teritoriu."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Autorizatile de asemenea nu se solicitá pentru:"
+  },
+  {
+   "type": "ocr",
+   "text": "a) intrarea autobuselor in gol cu scopul transportárii retur de cútre acelasi transportator a grupului de pasageri din punctul care se afd pe teritoriul statlol celellalte Parti Contractante, unde acest grup a fost transportat anterior (in caznl prevázul in subpunctui b) al punctului 1), in punctul initial de plecare:"
+  },
+  {
+   "type": "ocr",
+   "text": "b) schimbul autobusului defectat cu alt antobus."
+  },
+  {
+   "type": "ocr",
+   "text": "3. La efectuarea transporturilor, prevázute in punctele 1 si 2. subpuncul a), soferul autobusului trebuie sá aib4 cu sine documental cu lista pasageriior dupa modelul stabilk in Protocolul Aditional al prezentului Acord."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 5"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Transportatorii Partilor Contractante pot electua transporturi de márfuri sau o calatorie in gol:"
+  },
+  {
+   "type": "ocr",
+   "text": "a) intre un punct care se afla pe teritorilu! statului uneia dintre Partile Contractante $i un punct care se aflá pe teritoriul statului celeilalte Pani Contractante:"
+  },
+  {
+   "type": "ocr",
+   "text": "b) in tranzit prin teritoriul statului celeilalte Parti Contractante:"
+  },
+  {
+   "type": "ocr",
+   "text": "c) intre un punct care se aflá pe teritoriul statului uneia dintre Partile Contractante si un punct care se aflá pe teritoriul statului tert si invers. 2.Transportatorii uneia dintre Párfile Contractante au dreptul de a exporta maría retur de pe teritoriul statului celeilalte Parti Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Transportatorii uneia dintre Partile Contractante pot efectua transporturile intre un punct care se aflá pe teritoriul statului celeilalte Parti Contractante si un punct care se aflá pe teritoriul statului tert cu conditia cá mijlocul de transport auto se deplaseaza pe cea mai scurtá cale in tranzit prin teritoriul statului, in care este inmatriculat mijlocul de transport auto al transportatorului, dupa primirea unei autorizatii speciale de la autoritatea competentá a celeilalte Parti Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 6"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Transporturile de márfuri, mentionate in Articolul 5, cu exceptia transporturilor determinate in Articolul 7, pot fi efectuate numai in baza autorizatiilor, eliberate in prealabil de cátre autoritatea competentá a Pártii Contractante, pe teritoriul careia este inmatriculat mijlocul de transport auto, din numele autoritátil competente a celeilalte"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Parti Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Fiecare autorizatie este valabila pentru efectuarea unei cólśtorii tur-retur daca fn autorizatie nu este indicat altfel."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 7"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Autorizatiile nu se solicita pentru transporturile:"
+  },
+  {
+   "type": "ocr",
+   "text": "a) averii, in caz de stramutare:"
+  },
+  {
+   "type": "ocr",
+   "text": "b) mijloacelor de transport auto avariate, Inmatriculate pe teritoriul statului uneia dintre Partile Contractante;"
+  },
+  {
+   "type": "ocr",
+   "text": "c) mijloacelor de transport, animalelor, inventarului sportiv si accesoriilor predestinate pentru petrecerea manifestatiilor sportive;"
+  },
+  {
+   "type": "ocr",
+   "text": "d) exponatelor, utilajului si materialelor predestinate pentru iarmaroace si expoziti;"
+  },
+  {
+   "type": "ocr",
+   "text": "e) decoratiilor teatrale si rechizitelor, instrumentelor muzicale, inzestrarii necesare pentru efectuarea filmarilor de cinema, emisiunilor radio si televizaie;"
+  },
+  {
+   "type": "ocr",
+   "text": "f) corpurilor sau urnelor cu osemintele decedatilor;"
+  },
+  {
+   "type": "ocr",
+   "text": "g) marfurilor transportate cu vehicule a caror capacitate de incarcare este pind la 3,5 t gi masa totala pind la 6 tone impreund cu remorca sau semiremorca."
+  },
+  {
+   "type": "ocr",
+   "text": "h) la acordarea ajutorului in timpul calamitśtilor naturale, accidentelor gi catastrofelor."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Autorizatiile nu se solicita de asemenea pentru trecerea vehiculelor de asistenta tehnica si a mijloacelor de transport care se indreapta cu scopul inlocuirii mijlocului de transport avariat."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Comisia Mixta despre care se vorbeste in Articolul 15 are dreptul de a completa lista in punctele I gi 2."
+  },
+  {
+   "type": "ocr",
+   "text": "4. in timpul efectuśrii transporturilor, rnentionate in punctele 1 si 2, soferul vehiculului este obligat sa aibé documentele necesare care confirma faptul ca pentru aceste transporturi nu se solicita autorizatii."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 8"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Autorizatiile pentru transportu! marfurilor se elibereazA in limitele contingentelor stabilite anual de comun acord de cśtre autoritafile competente ale Partilor Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Tipurile de antorizatii, conditiile si modalitatile utiliz4rii lor sint determinate in Protocolul Aditional al prezentului Acord."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Valabilitatea autorizatiei - un an calendaristic."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 9"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Pentru efectuarea transporturilor cu vehicule, masa totalá sau dimensiunile cárora cu marfá sau fara marfá, depásesc normele admise pe teritoriul statului uneia dintre Partie Contractante, se solicitá o autorizatie specialá, eliberatá de autoritátile acestei Partii Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Autorizatile speciale, despre care se vorbeste in punctul 1, pot limita trecerea mijlocului de transport auto pe un itinerar determinat sau de a impune alte obligatii $i restrictil. 3, Autorizatile speciale despre care se vorbestein punctdl 1 inlocuiesc autorizatille pentru transporturile despre care se vorbeste in punctul l al Articolului 6 al prezentulul Acord."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Fiecare Parte Contractantá isi rezervá dreptul de a elibera autorizatii speciale pentru transporturile márfurilor periculoase gi deseurilor, care se efectueazá de cátre transportatori celeñlalte Parti Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 10"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Transporturile de pasageri si márfuri, mentionate In prezentul Acord, sint supuse impozitárii si taxdrii conform legilor in vigoare pe teritoriul statului celeilalte Parti Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Autoritatile competente ale fiecárei dintre Pártile Contractante pot sá inainteze propunerea referitor la eliberarea partialá sau completá de impozitele sau taxele, despre care se vorbeste in punctul 1 al prezentului Articol , cu exceptia transporturilor, mentionate in punctul 1 al Articolului 9."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Prevederea punctului 2 nu se referá la taxa pe valoarea adáugatá."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 11"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Combustibilul in rezervoarele standard montate la mijloacele de transport auto de uzina costructoare, este scutit de impozitele vamale si alte taxe."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Piesele de schimb temporar importate cu scopul repararii mijlocului de transport auto deteriorat sau avariat pe teritoriul statului altei Párfi Contractante, sint"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "scutite de taxele vamale, impozite gi alte incasari, pe cit permite legislatia celeilalte Parti Contractante. Piesele de schimb neutilizate gi cele schimbate sint supuse reexportarii."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLULI2"
+  },
+  {
+   "type": "ocr",
+   "text": "Autorizattile si alte documente necesare conform prevederilor prezentului Acord, precum gi legislatiei interne a Partilor Contractante trebuie sa se afle la bordul mijlocului de transport auto, gi sA fie prezentate la fiecare solicitare a organelor de control."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL13"
+  },
+  {
+   "type": "ocr",
+   "text": "1.Transportatorii unei Parti Contractante de asemenea si membrii echipajelor mijloacelor de transport auto in timpul aflówii pe teritoriul statului celeilalte Parti Contractante, sint obligafi sa respecte prevederile legale in vigoare pe acest teritoriu, in special referitor la transportare gi circulatia rutiera."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Problemele nereglementate in prezentul Acord sau in alte conventii internationale, partile carora sint Republica Polona si Republica Moldova, se vor regiementa conform legislatiei lor interne."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 14"
+  },
+  {
+   "type": "ocr",
+   "text": "1. In cazul incźlcśrii prevederilor prezentului Acord de cśtre transportatorul unei Parti Contractante pe teritoriul statului celeilalte Parti Contractante, autoritatile competente ale acestei alte Parti Contractante informeaza despre aceasta autoritatile competente ale Partii Contractante, pe teritoriul statului careia este inmatriculat mijlocul de transport auto."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Autoritatile competente ale Partii Contractante pe teritoriul statului careia a fost comisą incalcarea, se pot adresala autoritétile competente ale celeilalte Parti Contractante intru:"
+  },
+  {
+   "type": "ocr",
+   "text": "a) avertizarea transportatorului, care a comis incdlearea;"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "b) suspendarea temporara, partiala sau deplina a dreptului transportatorului de a efectua transportul pe teritoriul statului acelei Parti Contractante, unde a fost comisa incdlc area."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Organul competent care a aplicat masurile susnumite, informeaza despre aceasta autoritatea competenta a celeilalte Parti Contractante. 4, Prevederile prezentului Articol nu exclud sanctiunile prevazute de legislatia in vigoare in {ara pe teritoriul careia a fost comisa incdlcarea."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOŁUL 15"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Pentru asigurarea indeplinirii corespunzatoare a prevederilor prezennnuj Acord, Partile Contractante formeazA o Comisie Mixta."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Comisia Mixtą se va intruni la propunerea uneia dintre Partie Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Comisia MixtA intocmeste Protocolul Aditional la Prezentui Acord."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICOLUL 16"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Prezentul Acord se adopta in conformitate cu legislatia fiecadrei dintre Partile Contractante, despre ce se confirma prin schimbul de notificari. Acordul intra in vigoare din data primirii ultimei notificari."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Prezentul Acord se incheie pentru un termen de cinci ani. Automat se prelungeste pentru urmśtorul termen de un an, daca nici una dintre Partile Contractante nu-l denunta pe calea notificarii cu trei luni pindla expirarea termenului lui de valabilitate."
+  },
+  {
+   "type": "ocr",
+   "text": "poloneza, moldoveneasca gi rusą, toate textele avind aceeagi valoare. in cazul aparitiel unor divergente in interpretarea lor textul in limba rus& va prevala."
+  },
+  {
+   "type": "ocr",
+   "text": "Pentru Guvernul Republicii Polone"
+  },
+  {
+   "type": "ocr",
+   "text": "Se"
+  },
+  {
+   "type": "note",
+   "text": "[Strony 12-20 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
   }
  ],
  "annexes": [],

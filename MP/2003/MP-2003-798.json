@@ -45,41 +45,41 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Dla celów niniejszego Memorandum o porozumieniu mają zastosowanie następujące definicje:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "„BIRE” oznacza Biuro Informacji Rady Europy w Warszawie,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "„Rząd” oznacza Rząd Rzeczypospolitej Polskiej,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "„funkcjonariusz BIRE” oznacza członka personelu BIRE zatrudnionego na podstawie przepisów i regulaminów Rady Europy, niebędącego członkiem miejscowego personelu pomocniczego.",
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Dla celów niniejszego Memorandum o porozumieniu mają zastosowanie następujące definicje:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "„BIRE” oznacza Biuro Informacji Rady Europy w Warszawie,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "BIRE posiada osobowość prawną. Ma zdolność do zawierania umów, nabywania i zbywania majątku ruchomego i posiadania konta bankowego w obcej walucie."
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "„Rząd” oznacza Rząd Rzeczypospolitej Polskiej,",
+     "children": []
     },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "„funkcjonariusz BIRE” oznacza członka personelu BIRE zatrudnionego na podstawie przepisów i regulaminów Rady Europy, niebędącego członkiem miejscowego personelu pomocniczego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "BIRE posiada osobowość prawną. Ma zdolność do zawierania umów, nabywania i zbywania majątku ruchomego i posiadania konta bankowego w obcej walucie.",
+   "children": [
     {
      "type": "text",
      "text": "Memorandum of Understanding between the Government of the Republic of Poland and the Council of Europe concerning the status of the Council of Europe Information Office in Warsaw"
@@ -115,61 +115,62 @@
     {
      "type": "text",
      "text": "For purpose of this Memorandum of Understanding the following definitions shall apply:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "„IOCE” means the Council of Europe Information Office in Warsaw,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "„Government” means the Government of the Republic of Poland,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "„Officials of the IOCE” means members of the IOCE staff employed under the staff regulations and rules of the Council of Europe with the exception of auxiliary staff recruited locally.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "The IOCE possesses juridical personality. It shall have the capacity to conclude contracts, to acquire and dispose of movable goods and may hold a bank account in foreign currency."
+      },
+      {
+       "type": "text",
+       "text": "BIRE stanowi część składową Rady Europy i jest finansowane z jej budżetu."
+      },
+      {
+       "type": "text",
+       "text": "Rada Europy mianuje szefa BIRE w Warszawie, który będzie nim kierować. Rada Europy poinformuje Rząd o tej nominacji."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "„IOCE” means the Council of Europe Information Office in Warsaw,",
-   "children": []
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "BIRE może używać emblematu Rady Europy.",
+   "children": [],
+   "label": "Artykuł 3"
   },
   {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "„Government” means the Government of the Republic of Poland,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "„Officials of the IOCE” means members of the IOCE staff employed under the staff regulations and rules of the Council of Europe with the exception of auxiliary staff recruited locally.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Archiwa BIRE oraz wszelkie należące do niego lub będące w jego posiadaniu dokumenty są nietykalne.",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 2"
-    },
-    {
-     "type": "text",
-     "text": "The IOCE possesses juridical personality. It shall have the capacity to conclude contracts, to acquire and dispose of movable goods and may hold a bank account in foreign currency."
-    },
-    {
-     "type": "text",
-     "text": "BIRE stanowi część składową Rady Europy i jest finansowane z jej budżetu."
-    },
-    {
-     "type": "text",
-     "text": "Rada Europy mianuje szefa BIRE w Warszawie, który będzie nim kierować. Rada Europy poinformuje Rząd o tej nominacji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "BIRE może używać emblematu Rady Europy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Archiwa BIRE oraz wszelkie należące do niego lub będące w jego posiadaniu dokumenty są nietykalne."
-    },
     {
      "type": "text",
      "text": "Pomieszczenia BIRE, jego majątek, fundusze i aktywa, bez względu na to, gdzie i w czyim posiadaniu się znajdują, nie podlegają rewizji, zajęciu, konfiskacie, wywłaszczeniu lub jakiejkolwiek innej formie ingerencji w trybie postępowania administracyjnego, sądowego lub w wyniku działań ustawodawczych."
@@ -177,222 +178,224 @@
     {
      "type": "text",
      "text": "Fundusze, aktywa, dochody i innego rodzaju majątek BIRE są zwolnione:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "od wszelkich podatków bezpośrednich, jednakże BIRE nie będzie domagać się zwolnienia od opłat, które stanowią zapłatę za świadczenie usług użyteczności publicznej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "od opłat celnych oraz zakazów i ograniczeń przywozu i wywozu w stosunku do przedmiotów potrzebnych BIRE do jego użytku służbowego, pod warunkiem, że przedmioty wwiezione w ramach takich zezwoleń nie będą sprzedawane w Polsce, chyba że na warunkach zatwierdzonych przez Rząd;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_4/lit_c",
+     "text": "od opłat celnych, zakazów i ograniczeń przywozu i wywozu w stosunku do publikacji i dokumentacji otrzymywanych z Rady Europy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "od wszelkich podatków bezpośrednich, jednakże BIRE nie będzie domagać się zwolnienia od opłat, które stanowią zapłatę za świadczenie usług użyteczności publicznej;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "od opłat celnych oraz zakazów i ograniczeń przywozu i wywozu w stosunku do przedmiotów potrzebnych BIRE do jego użytku służbowego, pod warunkiem, że przedmioty wwiezione w ramach takich zezwoleń nie będą sprzedawane w Polsce, chyba że na warunkach zatwierdzonych przez Rząd;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "od opłat celnych, zakazów i ograniczeń przywozu i wywozu w stosunku do publikacji i dokumentacji otrzymywanych z Rady Europy.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Funkcjonariusze BIRE będą korzystać z następujących przywilejów i immunitetów:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "lit",
+     "num": "a",
+     "path": "art_5/lit_a",
+     "text": "immunitetu sądowego w odniesieniu do wszelkich czynności, w tym wypowiedzi ustnych lub pisemnych, dokonanych przez nich w charakterze urzędowym i w granicach ich kompetencji,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Funkcjonariusze BIRE będą korzystać z następujących przywilejów i immunitetów:"
+     "type": "lit",
+     "num": "b",
+     "path": "art_5/lit_b",
+     "text": "zwolnienia od opodatkowania ich pensji i innych poborów wypłacanych im przez Radę Europy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sekretarz Generalny Rady Europy będzie podawał do wiadomości Rządu nazwiska funkcjonariuszy BIRE, którym przyznano wyżej wymienione przywileje i immunitety."
+      },
+      {
+       "type": "text",
+       "text": "The IOCE is part of the Council of Europe and is financed from the Council of Europe budget."
+      },
+      {
+       "type": "text",
+       "text": "The Council of Europe appoints the Head of Office in Warsaw. He will lead the IOCE in Warsaw. The Council of Europe shall inform the Government of this appointment."
+      },
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "The IOCE may display the Council of Europe’s emblem."
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "The archives of the IOCE and all documents belonging to it or held by it shall be inviolable."
+      },
+      {
+       "type": "text",
+       "text": "The premises of the IOCE, its property, funds and assets, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of interference, whether by administrative, judicial or legislative action."
+      },
+      {
+       "type": "text",
+       "text": "Funds, assets, income and other IOCE property shall be exempt from:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_5/lit_a",
+     "text": "any form of direct taxes, on condition that the IOCE will not claim exemption from payment for local public services;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_5/lit_b",
+     "text": "customs duties, prohibitions and restrictions on articles imported or exported by the IOCE for its official use, provided that articles imported under such exemption will not be sold in Poland, except under conditions approved by the Government;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_5/lit_c",
+     "text": "customs duties, prohibitions and restrictions on imports and exports in respect of its publications and documentation received from the Council of Europe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "IOCE officials shall enjoy the following privileges and immunities:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_5/lit_a",
+     "text": "immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity and within the limit of their authority,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_5/lit_b",
+     "text": "exemption from taxation on the salaries and emoluments paid to them by the Council of Europe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "The Secretary General of the Council of Europe shall inform the Government of the names of the IOCE officials to whom above-mentioned privileges and immunities shall apply."
+      },
+      {
+       "type": "text",
+       "text": "W odniesieniu do zrzeczenia się immunitetu funkcjonariuszy BIRE będzie miał zastosowanie artykuł 19 Porozumienia ogólnego o przywilejach i immunitetach Rady Europy."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "immunitetu sądowego w odniesieniu do wszelkich czynności, w tym wypowiedzi ustnych lub pisemnych, dokonanych przez nich w charakterze urzędowym i w granicach ich kompetencji,",
-   "children": []
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Członkowie personelu pomocniczego, zatrudnieni na miejscu przez BIRE, będą korzystali z immunitetu sądowego w stosunku do ich wypowiedzi ustnych i pisemnych oraz czynności dokonanych przez nich w charakterze urzędowym.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "zwolnienia od opodatkowania ich pensji i innych poborów wypłacanych im przez Radę Europy.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "BIRE korzysta ze wszystkich zasobów, wyposażenia i dokumentacji należących dotychczas do Ośrodka Informacji i Dokumentacji Rady Europy w Warszawie; aktywa te pozostają własnością Rady Europy.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Niniejsze memorandum o porozumieniu wchodzi w życie z dniem podpisania.",
    "children": [
-    {
-     "type": "text",
-     "text": "Sekretarz Generalny Rady Europy będzie podawał do wiadomości Rządu nazwiska funkcjonariuszy BIRE, którym przyznano wyżej wymienione przywileje i immunitety."
-    },
-    {
-     "type": "text",
-     "text": "The IOCE is part of the Council of Europe and is financed from the Council of Europe budget."
-    },
-    {
-     "type": "text",
-     "text": "The Council of Europe appoints the Head of Office in Warsaw. He will lead the IOCE in Warsaw. The Council of Europe shall inform the Government of this appointment."
-    },
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "The IOCE may display the Council of Europe’s emblem."
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "The archives of the IOCE and all documents belonging to it or held by it shall be inviolable."
-    },
-    {
-     "type": "text",
-     "text": "The premises of the IOCE, its property, funds and assets, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of interference, whether by administrative, judicial or legislative action."
-    },
-    {
-     "type": "text",
-     "text": "Funds, assets, income and other IOCE property shall be exempt from:"
-    }
-   ]
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "any form of direct taxes, on condition that the IOCE will not claim exemption from payment for local public services;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "customs duties, prohibitions and restrictions on articles imported or exported by the IOCE for its official use, provided that articles imported under such exemption will not be sold in Poland, except under conditions approved by the Government;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "customs duties, prohibitions and restrictions on imports and exports in respect of its publications and documentation received from the Council of Europe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "IOCE officials shall enjoy the following privileges and immunities:"
-    }
-   ]
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity and within the limit of their authority,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "exemption from taxation on the salaries and emoluments paid to them by the Council of Europe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "The Secretary General of the Council of Europe shall inform the Government of the names of the IOCE officials to whom above-mentioned privileges and immunities shall apply."
-    },
-    {
-     "type": "text",
-     "text": "W odniesieniu do zrzeczenia się immunitetu funkcjonariuszy BIRE będzie miał zastosowanie artykuł 19 Porozumienia ogólnego o przywilejach i immunitetach Rady Europy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Członkowie personelu pomocniczego, zatrudnieni na miejscu przez BIRE, będą korzystali z immunitetu sądowego w stosunku do ich wypowiedzi ustnych i pisemnych oraz czynności dokonanych przez nich w charakterze urzędowym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "BIRE korzysta ze wszystkich zasobów, wyposażenia i dokumentacji należących dotychczas do Ośrodka Informacji i Dokumentacji Rady Europy w Warszawie; aktywa te pozostają własnością Rady Europy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsze memorandum o porozumieniu wchodzi w życie z dniem podpisania."
-    },
     {
      "type": "text",
      "text": "Niniejsze memorandum o porozumieniu pozostanie w mocy tak długo, jak długo BIRE będzie działać w Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 4 lipca 2002 r., w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym oba teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu Rządu W imieniu Rady Europy Rzeczypospolitej Polskiej"
-    },
-    {
-     "type": "text",
-     "text": "W. Cimoszewicz W. Schwimmer As far as the waiver of IOCE officials’ immunity is concerned, Article 19 of the General Agreement on Privileges and Immunities of the Council of Europe shall apply."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Auxiliary personnel recruited locally to perform services for the IOCE shall enjoy immunity from legal process in respect of words spoken or written and any act performed by them in their official capacity."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "The IOCE will benefit from all resources, equipment and documentation previously held at the disposal of the Information and Documentation Office on the Council of Europe; these assets remain the property of the Council of Europe."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "This Memorandum of Understanding shall enter into force on the date of signature."
-    },
-    {
-     "type": "text",
-     "text": "This Memorandum of Understanding shall remain in force for the duration of the presence of the IOCE in the Republic of Poland."
-    },
-    {
-     "type": "text",
-     "text": "Done in Warsaw this 4 th day of July 2002, in two copies, each in Polish and English, both texts being of equal authenticity."
-    },
-    {
-     "type": "text",
-     "text": "For the Government For the Council of Europe of the Republic of Poland"
-    },
-    {
-     "type": "text",
-     "text": "W. Cimoszewicz W. Schwimmer"
     }
-   ]
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 4 lipca 2002 r., w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym oba teksty mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu Rządu W imieniu Rady Europy Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "W. Cimoszewicz W. Schwimmer As far as the waiver of IOCE officials’ immunity is concerned, Article 19 of the General Agreement on Privileges and Immunities of the Council of Europe shall apply."
+  },
+  {
+   "type": "text",
+   "text": "Article 6"
+  },
+  {
+   "type": "text",
+   "text": "Auxiliary personnel recruited locally to perform services for the IOCE shall enjoy immunity from legal process in respect of words spoken or written and any act performed by them in their official capacity."
+  },
+  {
+   "type": "text",
+   "text": "Article 7"
+  },
+  {
+   "type": "text",
+   "text": "The IOCE will benefit from all resources, equipment and documentation previously held at the disposal of the Information and Documentation Office on the Council of Europe; these assets remain the property of the Council of Europe."
+  },
+  {
+   "type": "text",
+   "text": "Article 8"
+  },
+  {
+   "type": "text",
+   "text": "This Memorandum of Understanding shall enter into force on the date of signature."
+  },
+  {
+   "type": "text",
+   "text": "This Memorandum of Understanding shall remain in force for the duration of the presence of the IOCE in the Republic of Poland."
+  },
+  {
+   "type": "text",
+   "text": "Done in Warsaw this 4 th day of July 2002, in two copies, each in Polish and English, both texts being of equal authenticity."
+  },
+  {
+   "type": "text",
+   "text": "For the Government For the Council of Europe of the Republic of Poland"
+  },
+  {
+   "type": "text",
+   "text": "W. Cimoszewicz W. Schwimmer"
   }
  ],
  "annexes": [],

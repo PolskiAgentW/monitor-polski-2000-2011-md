@@ -41,756 +41,762 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Przedmiot umowy"
-  },
-  {
-   "type": "text",
-   "text": "Umowa niniejsza ma zastosowanie do międzynarodowego przewozu ładunków w systemie transportu kombinowanego pomiędzy terytoriami Państw obu Umawiających się Stron lub w tranzycie przez terytoria ich Państw."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Definicje"
-  },
-  {
-   "type": "text",
-   "text": "W rozumieniu niniejszej umowy następujące określenia oznaczają:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "międzynarodowy transport kombinowany — taki system przewozu, w którym ciężarowy pojazd drogowy zarejestrowany na terytorium jednego z Państw Umawiających się Stron lub jednostka transportu intermodalnego, przewożone są przez większą część drogi koleją lub drogą wodną z terytorium Państwa jednej z Umawiających się Stron na terytorium Państwa drugiej Umawiającej się Strony lub tranzytem; ciężarowy pojazd drogowy wykonuje dowożenie i odwożenie na odcinku pomiędzy miejscem nadania lub przeznaczenia a najbliższym terminalem transportu kombinowanego,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "ciężarowy pojazd drogowy — drogowy pojazd silnikowy lub zestaw pojazdów drogowych składający się z pojazdu silnikowego z przyczepą lub ciągnika z naczepą,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "jednostka transportu intermodalnego — kontener co najmniej 20-stopowy (długości 6 m), nadwozie wymienne, naczepa dostosowana do transportu intermodalnego,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "dowożenie i odwożenie — przewóz jednostek transportu intermodalnego ciężarowymi pojazdami drogowymi od miejsca przekroczenia granicy lub miejsca załadunku do najbliższego terminalu transportu kombinowanego zgodnie z kierunkiem jazdy oraz od terminalu transportu kombinowanego do najbliższego miejsca wyładunku lub miejsca przekroczenia granicy wykonywany zgodnie z kierunkiem jazdy; dotyczy to także przejazdów ciężarowych pojazdów drogowych wykonujących transport kombinowany towarzyszący,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "terminal transportu kombinowanego — miejsce, w którym jednostki transportu intermodalnego i ciężarowe pojazdy drogowe są załadowywane, v presvedčení, že systém kombinovanej dopravy vytvára nové možnosti rozvoja medzinárodnej nákladnej dopravy sohl’adom na ochranu životného prostredia aodl’ahčenie ciest,",
-   "children": []
-  },
-  {
-   "type": "text",
-   "text": "vnadväznosti na ustanovenia dohôdadohovorov, ktoré sa týkajú medzinárodnej nákladnej dopravy, aktorými sú obe zmluvné strany viazané,"
-  },
-  {
-   "type": "text",
-   "text": "dohodli sa takto:"
-  },
-  {
-   "type": "text",
-   "text": "Článok 1"
-  },
-  {
-   "type": "text",
-   "text": "Predmet dohody"
-  },
-  {
-   "type": "text",
-   "text": "Táto dohoda sa vzt’ahuje na medzinárodnú nákladnú prepravu systémom kombinovanej dopravy medzi územiami štátov obidvoch zmluvných stránalebo tranzitom cez ich územia."
-  },
-  {
-   "type": "text",
-   "text": "Článok 2"
-  },
-  {
-   "type": "text",
-   "text": "Pojmy"
-  },
-  {
-   "type": "text",
-   "text": "V tejto dohode použité pojmy majú nasledovný význam:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "„medzinárodná kombinovaná doprava” je taký systém prepravy, počas ktorého cestné nákladné vozidlo evidované na území štátu jednej zo zmluvných stránalebo intermodálna prepravná jednotka je prepravovaná zúzemia štátu jednej zmluvnej strany na územie štátu druhej zmluvnej strany alebo tranzitom cez územia štátov zmluvných strán z väčšej časti železničnou alebo vodnou dopravou. Cestné nákladné vozidlo vykonáva zvoz arozvoz na úseku medzi miestom odoslania alebo miestom určenia a najbližším terminálom kombinovanej dopravy;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "„cestné nákladné vozidlo” je cestné motorové vozidlo alebo cestná súprava skladajúca sa z nákladného automobilu s prívesom alebo zt’ahačasnávesom;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "„intermodálna prepravná jednotka” je kontajner dlhý najmenej 20 stôp (6 m), výmenná nadstavba, náves vhodný na intermodálnu dopravu;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "„zvoz arozvoz” je preprava intermodálnych prepravných jednotiek cestnými nákladnými vozidlami zmiesta prekročenia hranice alebo zmiesta nakladania do najbližšieho terminálu kombinovanej dopravy v smere jazdy, resp. z terminálu kombinovanej dopravy k najbližšiemu miestu vykladania alebo miestu prekročenia hranice v smere jazdy. Týka sa to tiež jazdy cestných nákladných vozidiel vykonávajúcich sprevádzanú kombinovanú dopravu;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "„terminál kombinovanej dopravy” je miesto, v ktorom intermodálne prepravné jednotky a cestné nákladné vozidlá sú nakladané, vyklawyładowywane lub przeładowywane z jednego środka transportu na inny rodzaj transportu,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "f",
-   "path": "lit_f",
-   "text": "transport kombinowany towarzyszący — przewóz ciężarowego pojazdu drogowego wraz z kierowcą transportem kolejowym (Ro-La) lub wodnym (Ro-Ro),",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "g",
-   "path": "lit_g",
-   "text": "transport kombinowany nietowarzyszący — przewóz jednostek transportu intermodalnego transportem kolejowym lub wodnym (Ro-Ro).",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Trasy przewozów"
-    },
-    {
-     "type": "text",
-     "text": "Trasy przewozów w systemie transportu kombinowanego ustalane będą przez zainteresowane koleje, przedsiębiorstwa żeglugowe oraz transportu kombinowanego Państw obu Umawiających się Stron."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Transport kombinowany nietowarzyszący"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony zobowiązują się do zapewnienia takich warunków przedsiębiorstwom wykonującym przewozy kombinowane, które będą motywowały ich do tego, aby umowy o wzajemnej współpracy były realizowane w ten sposób, że dowożenie i odwożenie do/z terminalu w kombinowanym transporcie nietowarzyszącym na terytorium Państwa każdej z Umawiających się Stron będzie wykonywane przez przewoźnika tej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Transport kombinowany towarzyszący"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony zobowiązują się w miarę możliwości do zapewnienia w jak największym stopniu warunków realizacji transportu kombinowanego towarzyszącego z terytorium Państwa jednej z Umawiających się Stron do terytorium Państwa drugiej z Umawiających się Stron lub tranzytem przez terytoria ich Państw."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Dokumenty"
-    }
-   ]
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Dokumentem zawarcia umowy na przewóz w systemie transportu kombinowanego jest list przewozowy określony w „Przepisach ujednoliconych o umowie międzynarodowego przewozu towarów kolejami (CIM)” stanowiących załącznik B do „Konwencji o międzynarodowym przewozie kolejami (COTIF)”, sporządzonej w Bernie dnia 9 maja 1980 r., konosament żeglugowy lub inny równoważny dokument.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dokumenty, o których mowa w ustępie 1, a także inne niezbędne dokumenty powinny znajdować się w ciężarowym pojeździe drogowym i być okazywane do kontroli na każde żądanie właściwych organów.",
+   "path": "art_1",
+   "text": "Przedmiot umowy",
    "children": [
     {
      "type": "text",
-     "text": "dané alebo prekladané z jedného druhu dopravy na iný druh dopravy;"
+     "text": "Umowa niniejsza ma zastosowanie do międzynarodowego przewozu ładunków w systemie transportu kombinowanego pomiędzy terytoriami Państw obu Umawiających się Stron lub w tranzycie przez terytoria ich Państw."
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Definicje",
+   "children": [
+    {
+     "type": "text",
+     "text": "W rozumieniu niniejszej umowy następujące określenia oznaczają:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "międzynarodowy transport kombinowany — taki system przewozu, w którym ciężarowy pojazd drogowy zarejestrowany na terytorium jednego z Państw Umawiających się Stron lub jednostka transportu intermodalnego, przewożone są przez większą część drogi koleją lub drogą wodną z terytorium Państwa jednej z Umawiających się Stron na terytorium Państwa drugiej Umawiającej się Strony lub tranzytem; ciężarowy pojazd drogowy wykonuje dowożenie i odwożenie na odcinku pomiędzy miejscem nadania lub przeznaczenia a najbliższym terminalem transportu kombinowanego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "ciężarowy pojazd drogowy — drogowy pojazd silnikowy lub zestaw pojazdów drogowych składający się z pojazdu silnikowego z przyczepą lub ciągnika z naczepą,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "jednostka transportu intermodalnego — kontener co najmniej 20-stopowy (długości 6 m), nadwozie wymienne, naczepa dostosowana do transportu intermodalnego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "dowożenie i odwożenie — przewóz jednostek transportu intermodalnego ciężarowymi pojazdami drogowymi od miejsca przekroczenia granicy lub miejsca załadunku do najbliższego terminalu transportu kombinowanego zgodnie z kierunkiem jazdy oraz od terminalu transportu kombinowanego do najbliższego miejsca wyładunku lub miejsca przekroczenia granicy wykonywany zgodnie z kierunkiem jazdy; dotyczy to także przejazdów ciężarowych pojazdów drogowych wykonujących transport kombinowany towarzyszący,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "terminal transportu kombinowanego — miejsce, w którym jednostki transportu intermodalnego i ciężarowe pojazdy drogowe są załadowywane, v presvedčení, že systém kombinovanej dopravy vytvára nové možnosti rozvoja medzinárodnej nákladnej dopravy sohl’adom na ochranu životného prostredia aodl’ahčenie ciest,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "vnadväznosti na ustanovenia dohôdadohovorov, ktoré sa týkajú medzinárodnej nákladnej dopravy, aktorými sú obe zmluvné strany viazané,"
+    },
+    {
+     "type": "text",
+     "text": "dohodli sa takto:"
+    },
+    {
+     "type": "text",
+     "text": "Článok 1"
+    },
+    {
+     "type": "text",
+     "text": "Predmet dohody"
+    },
+    {
+     "type": "text",
+     "text": "Táto dohoda sa vzt’ahuje na medzinárodnú nákladnú prepravu systémom kombinovanej dopravy medzi územiami štátov obidvoch zmluvných stránalebo tranzitom cez ich územia."
+    },
+    {
+     "type": "text",
+     "text": "Článok 2"
+    },
+    {
+     "type": "text",
+     "text": "Pojmy"
+    },
+    {
+     "type": "text",
+     "text": "V tejto dohode použité pojmy majú nasledovný význam:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "„medzinárodná kombinovaná doprava” je taký systém prepravy, počas ktorého cestné nákladné vozidlo evidované na území štátu jednej zo zmluvných stránalebo intermodálna prepravná jednotka je prepravovaná zúzemia štátu jednej zmluvnej strany na územie štátu druhej zmluvnej strany alebo tranzitom cez územia štátov zmluvných strán z väčšej časti železničnou alebo vodnou dopravou. Cestné nákladné vozidlo vykonáva zvoz arozvoz na úseku medzi miestom odoslania alebo miestom určenia a najbližším terminálom kombinovanej dopravy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "„cestné nákladné vozidlo” je cestné motorové vozidlo alebo cestná súprava skladajúca sa z nákladného automobilu s prívesom alebo zt’ahačasnávesom;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "„intermodálna prepravná jednotka” je kontajner dlhý najmenej 20 stôp (6 m), výmenná nadstavba, náves vhodný na intermodálnu dopravu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "„zvoz arozvoz” je preprava intermodálnych prepravných jednotiek cestnými nákladnými vozidlami zmiesta prekročenia hranice alebo zmiesta nakladania do najbližšieho terminálu kombinovanej dopravy v smere jazdy, resp. z terminálu kombinovanej dopravy k najbližšiemu miestu vykladania alebo miestu prekročenia hranice v smere jazdy. Týka sa to tiež jazdy cestných nákladných vozidiel vykonávajúcich sprevádzanú kombinovanú dopravu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "„terminál kombinovanej dopravy” je miesto, v ktorom intermodálne prepravné jednotky a cestné nákladné vozidlá sú nakladané, vyklawyładowywane lub przeładowywane z jednego środka transportu na inny rodzaj transportu,",
+     "children": []
     },
     {
      "type": "lit",
      "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "„sprevádzaná kombinovaná doprava” je preprava cestných nákladných vozidiel železničnou (Ro-La) alebo vodnou dopravou (Ro-Ro) spolu sposádkou vozidla;",
+     "path": "art_2/lit_f",
+     "text": "transport kombinowany towarzyszący — przewóz ciężarowego pojazdu drogowego wraz z kierowcą transportem kolejowym (Ro-La) lub wodnym (Ro-Ro),",
      "children": []
     },
     {
      "type": "lit",
      "num": "g",
-     "path": "ust_2/lit_g",
-     "text": "„nesprevádzaná kombinovaná doprava” je preprava intermodálnych prepravných jednotiek železničnou alebo vodnou dopravouz (Ro-Ro).",
-     "children": [
-      {
-       "type": "text",
-       "text": "Článok 3"
-      },
-      {
-       "type": "text",
-       "text": "Trasy prepráv"
-      },
-      {
-       "type": "text",
-       "text": "Trasy prepráv v systéme kombinovanej dopravy budú dohodnuté medzi zainteresovanými železnicami, plavebnými podnikmi aspoločnost’ami zaoberajúcimi sa kombinovanou dopravu v štátoch obidvoch zmluvných strán."
-      },
-      {
-       "type": "text",
-       "text": "Článok 4"
-      },
-      {
-       "type": "text",
-       "text": "Nesprevádzaná kombinovaná doprava"
-      },
-      {
-       "type": "text",
-       "text": "Zmluvné strany sa zaväzujú, žezabezpečia pre spoločnosti zaoberajúce sa kombinovanou dopravou podmienky, ktoré ich budú motivovat’, aby sa dohody ovzájomnej spolupráci realizovali tak, žezvoz arozvoz do/zterminálu kombinovanej dopravy vnesprevádzanej kombinovanej doprave vykoná dopravca na území štátu svojej zmluvnej strany."
-      },
-      {
-       "type": "text",
-       "text": "Článok 5"
-      },
-      {
-       "type": "text",
-       "text": "Sprevádzaná kombinovaná doprava"
-      },
-      {
-       "type": "text",
-       "text": "Zmluvné strany sa zaväzujú, že podl’a vlastých možností zabezpečia včonajväčšej miere podmienky pre realizáciu sprevádzanej kombinovanej dopravy zúzemia štátu jednej zmluvnej strany na územie štátu druhej zmluvnej strany alebo tranzitom cez územie ich štátov."
-      },
-      {
-       "type": "text",
-       "text": "Článok 6"
-      },
-      {
-       "type": "text",
-       "text": "Doklady"
-      },
-      {
-       "type": "text",
-       "text": "(1) Dokladom ouzavretí zmluvy opreprave kombinovanej dopravy je nákladný list stanovený Jednotnými právnymi predpismi pre Zmluvu o medzinárodnej železničnej preprave tovaru (CIM), ktoré sú Dodatkom BkDohovoru omedzinárodnej železničnej preprave (COTIF) prijatému v Berne 9. mája 1980, plavebný konosament alebo iný rovnocenný doklad."
-      },
-      {
-       "type": "text",
-       "text": "(2) Doklady uvedené v ods. 1 a tiež iné nevyhnutné doklady musia byt’ počas prepravy uložené vcestnom nákladnom vozidle a na každé požiadanie príslušných orgánov predložené na kontrolu."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 7"
-      },
-      {
-       "type": "text",
-       "text": "Zwolnienia"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W systemie przewozów Ro-La i Ro-Ro Umawiające się Strony zwalniają, na zasadach wzajemności, dowożenie i odwożenie wykonywane w Polsce w promieniu 70 km, a w Słowacji w promieniu 50 km w linii prostej od granicy państwa lub od miejsca załadunku do terminalu lub z terminalu do granicy państwa lub do miejsca wyładunku:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "w Polsce z opłat za przejazd po drogach krajowych wykorzystywanych w międzynarodowym transporcie drogowym,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "w Słowacji z podatku drogowego.",
+     "path": "art_2/lit_g",
+     "text": "transport kombinowany nietowarzyszący — przewóz jednostek transportu intermodalnego transportem kolejowym lub wodnym (Ro-Ro).",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przewozy wymienione w ustępie 1 zwalnia się z obowiązku posiadania zezwoleń na wykonywanie międzynarodowych przewozów drogowych, o ile takie zezwolenia będą wymagane.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Warunkiem zwolnienia z zezwoleń i opłat, o których mowa w ustępach 1 i 2, jest:",
+   "path": "art_3",
+   "text": "Trasy przewozów",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "przy dowożeniu dowód opłaconej rezerwacji przewozu ciężarowego pojazdu drogowego koleją lub drogą wodną,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "przy odwożeniu udokumentowane wykonanie przewozu.",
-     "children": []
+     "type": "text",
+     "text": "Trasy przewozów w systemie transportu kombinowanego ustalane będą przez zainteresowane koleje, przedsiębiorstwa żeglugowe oraz transportu kombinowanego Państw obu Umawiających się Stron."
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia ustępu 1 nie dotyczą opłat za korzystanie z płatnych autostrad, dróg przeznaczonych dla pojazdów silnikowych, tuneli i mostów oraz opłat za przewóz ładunków przekraczających dopuszczalną masę i wymiary.",
+   "path": "art_4",
+   "text": "Transport kombinowany nietowarzyszący",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Zezwolenia premiowe"
+     "text": "Umawiające się Strony zobowiązują się do zapewnienia takich warunków przedsiębiorstwom wykonującym przewozy kombinowane, które będą motywowały ich do tego, aby umowy o wzajemnej współpracy były realizowane w ten sposób, że dowożenie i odwożenie do/z terminalu w kombinowanym transporcie nietowarzyszącym na terytorium Państwa każdej z Umawiających się Stron będzie wykonywane przez przewoźnika tej Umawiającej się Strony."
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wykonywanie przewozów w systemie transportu kombinowanego towarzyszącego premiowane jest przez Umawiające się Strony przyznawaniem zezwoleń premiowych na wykonywanie międzynarodowych przewozów drogowych, o ile takie zezwolenia będą stosowane.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy Umawiających się Stron ustalają warunki i dokonują między sobą wymiany zezwoleń premiowych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Wspieranie transportu kombinowanego"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą podejmować działania stymulujące rozwój transportu kombinowanego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony, w miarę swoich możliwości, zobowiązują się wspierać kolej i porty w zakresie rozbudowy infrastruktury.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony zwolnią przewoźników drogowych wykonujących czynności dowozowe i odwozowe z zakazu przejazdów po drogach w week- Článok 7",
-   "children": [
-    {
-     "type": "text",
-     "text": "Oslobodenie"
-    },
-    {
-     "type": "text",
-     "text": "(1) Vsystéme prepravy Ro-La aRo-Ro zmluvné strany oslobodzujú na základe vzájomnosti zvoz arozvoz realizovaný vPol’sku vokruhu 70 km ana Slovensku vokruhu 50 km po priamej čiare zo štátnej hranice alebo zmiesta nakladania do terminálu alebo z terminálu po štátnu hranicu alebo do miesta vykládky:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "v Pol’sku od poplatkov za prepravu po štátnych cestách využívaných v medzinárodnej cestnej preprave,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "na Slovensku od cestnej dane.",
-     "children": [
-      {
-       "type": "text",
-       "text": "(2) Preprava uvedená v ods. 1 je oslobodená od povinnosti mat’ povolenia na medzinárodnú cestnú dopravu, pokial’ tieto povolenia budú uplatňované."
-      },
-      {
-       "type": "text",
-       "text": "(3) Podmienkou oslobodenia od povolení apoplatkov uvedených vods. 1 a2 je:"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "pri zvoze doklad ozaplatení rezervácie prepravy cestného nákladného vozidla železničnou alebo vodnou dopravou,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "pri rozvoze doklad ovykonaní prepravy.",
-     "children": [
-      {
-       "type": "text",
-       "text": "(4) Ustanovenia ods. 1 sa nevzt’ahujú na poplatky za spoplatňované dial’nice, cesty pre motorové vozidlá, tunely a mosty a tiež na poplatky za nadmernú alebo nadrozmemú prepravu."
-      },
-      {
-       "type": "text",
-       "text": "Článok 8"
-      },
-      {
-       "type": "text",
-       "text": "Odmeňovacie povolenia"
-      },
-      {
-       "type": "text",
-       "text": "(1) Vykonávanie prepravy systémom sprevádzanej kombinovanej dopravy je odmeňované zmluvnými stranami pridel’ovanímodmeňovacích povolení na medzinárodnú cestnú dopravu, pokial’ tieto povolenia budú udel’ované."
-      },
-      {
-       "type": "text",
-       "text": "(2) Príslušné orgány zmluvných stránsi vzájomne vymenia odmeňovacie povolenia."
-      },
-      {
-       "type": "text",
-       "text": "Článok 9"
-      },
-      {
-       "type": "text",
-       "text": "Podpora kombinovanej dopravy"
-      },
-      {
-       "type": "text",
-       "text": "(1) Zmluvné strany budú vykonávat’ činnosti stimulujúce rozvoj kombinovanej dopravy."
-      },
-      {
-       "type": "text",
-       "text": "(2) Zmluvné strany podl’a svojich možností sa zaväzujú podporovat’ výstavbu infraštruktúry nadväzne na železnice aprístavy na vodnej ceste."
-      },
-      {
-       "type": "text",
-       "text": "(3) Zmluvné strany oslobodia cestných dopravcov vykonávajúcich zvoz arozvoz od zákazu jazdy vdňoch pracovného vol’na a pracovného pokoja v súlade endy i dni świąteczne, zgodnie z przepisami prawa obowiązującego na terytoriach Państw obu Umawiających się Stron."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony będą czyniły starania, aby infrastruktura kolejowa odpowiadała parametrom określonym w Europejskiej umowie o ważnych międzynarodowych liniach transportu kombinowanego i obiektach towarzyszących (AGTC), a czas postoju pociągów na przejściach granicznych, eksploatowanych szczególnie w systemie Ro-La, nie przekraczał 30 minut.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Umawiające się Strony zobowiązują się do stworzenia warunków do wykorzystania przy dowożeniu i odwożeniu ciężarowych pojazdów drogowych o masie brutto do 44 ton.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Umawiające się Strony będą dążyły do przeniesienia procedur celnych do terminali transportu kombinowanego.",
+   "path": "art_5",
+   "text": "Transport kombinowany towarzyszący",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 10"
+     "text": "Umawiające się Strony zobowiązują się w miarę możliwości do zapewnienia w jak największym stopniu warunków realizacji transportu kombinowanego towarzyszącego z terytorium Państwa jednej z Umawiających się Stron do terytorium Państwa drugiej z Umawiających się Stron lub tranzytem przez terytoria ich Państw."
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Dokumenty",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Dokumentem zawarcia umowy na przewóz w systemie transportu kombinowanego jest list przewozowy określony w „Przepisach ujednoliconych o umowie międzynarodowego przewozu towarów kolejami (CIM)” stanowiących załącznik B do „Konwencji o międzynarodowym przewozie kolejami (COTIF)”, sporządzonej w Bernie dnia 9 maja 1980 r., konosament żeglugowy lub inny równoważny dokument.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Przestrzeganie przepisów"
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Dokumenty, o których mowa w ustępie 1, a także inne niezbędne dokumenty powinny znajdować się w ciężarowym pojeździe drogowym i być okazywane do kontroli na każde żądanie właściwych organów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "dané alebo prekladané z jedného druhu dopravy na iný druh dopravy;"
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_6/ust_2/lit_f",
+       "text": "„sprevádzaná kombinovaná doprava” je preprava cestných nákladných vozidiel železničnou (Ro-La) alebo vodnou dopravou (Ro-Ro) spolu sposádkou vozidla;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_6/ust_2/lit_g",
+       "text": "„nesprevádzaná kombinovaná doprava” je preprava intermodálnych prepravných jednotiek železničnou alebo vodnou dopravouz (Ro-Ro).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Článok 3"
+        },
+        {
+         "type": "text",
+         "text": "Trasy prepráv"
+        },
+        {
+         "type": "text",
+         "text": "Trasy prepráv v systéme kombinovanej dopravy budú dohodnuté medzi zainteresovanými železnicami, plavebnými podnikmi aspoločnost’ami zaoberajúcimi sa kombinovanou dopravu v štátoch obidvoch zmluvných strán."
+        },
+        {
+         "type": "text",
+         "text": "Článok 4"
+        },
+        {
+         "type": "text",
+         "text": "Nesprevádzaná kombinovaná doprava"
+        },
+        {
+         "type": "text",
+         "text": "Zmluvné strany sa zaväzujú, žezabezpečia pre spoločnosti zaoberajúce sa kombinovanou dopravou podmienky, ktoré ich budú motivovat’, aby sa dohody ovzájomnej spolupráci realizovali tak, žezvoz arozvoz do/zterminálu kombinovanej dopravy vnesprevádzanej kombinovanej doprave vykoná dopravca na území štátu svojej zmluvnej strany."
+        },
+        {
+         "type": "text",
+         "text": "Článok 5"
+        },
+        {
+         "type": "text",
+         "text": "Sprevádzaná kombinovaná doprava"
+        },
+        {
+         "type": "text",
+         "text": "Zmluvné strany sa zaväzujú, že podl’a vlastých možností zabezpečia včonajväčšej miere podmienky pre realizáciu sprevádzanej kombinovanej dopravy zúzemia štátu jednej zmluvnej strany na územie štátu druhej zmluvnej strany alebo tranzitom cez územie ich štátov."
+        },
+        {
+         "type": "text",
+         "text": "Článok 6"
+        },
+        {
+         "type": "text",
+         "text": "Doklady"
+        },
+        {
+         "type": "text",
+         "text": "(1) Dokladom ouzavretí zmluvy opreprave kombinovanej dopravy je nákladný list stanovený Jednotnými právnymi predpismi pre Zmluvu o medzinárodnej železničnej preprave tovaru (CIM), ktoré sú Dodatkom BkDohovoru omedzinárodnej železničnej preprave (COTIF) prijatému v Berne 9. mája 1980, plavebný konosament alebo iný rovnocenný doklad."
+        },
+        {
+         "type": "text",
+         "text": "(2) Doklady uvedené v ods. 1 a tiež iné nevyhnutné doklady musia byt’ počas prepravy uložené vcestnom nákladnom vozidle a na každé požiadanie príslušných orgánov predložené na kontrolu."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zwolnienia",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "W systemie przewozów Ro-La i Ro-Ro Umawiające się Strony zwalniają, na zasadach wzajemności, dowożenie i odwożenie wykonywane w Polsce w promieniu 70 km, a w Słowacji w promieniu 50 km w linii prostej od granicy państwa lub od miejsca załadunku do terminalu lub z terminalu do granicy państwa lub do miejsca wyładunku:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_1/lit_a",
+       "text": "w Polsce z opłat za przejazd po drogach krajowych wykorzystywanych w międzynarodowym transporcie drogowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_1/lit_b",
+       "text": "w Słowacji z podatku drogowego.",
+       "children": []
+      }
+     ]
     },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Przewozy wymienione w ustępie 1 zwalnia się z obowiązku posiadania zezwoleń na wykonywanie międzynarodowych przewozów drogowych, o ile takie zezwolenia będą wymagane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Warunkiem zwolnienia z zezwoleń i opłat, o których mowa w ustępach 1 i 2, jest:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_3/lit_a",
+       "text": "przy dowożeniu dowód opłaconej rezerwacji przewozu ciężarowego pojazdu drogowego koleją lub drogą wodną,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_3/lit_b",
+       "text": "przy odwożeniu udokumentowane wykonanie przewozu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Postanowienia ustępu 1 nie dotyczą opłat za korzystanie z płatnych autostrad, dróg przeznaczonych dla pojazdów silnikowych, tuneli i mostów oraz opłat za przewóz ładunków przekraczających dopuszczalną masę i wymiary.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Zezwolenia premiowe",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Wykonywanie przewozów w systemie transportu kombinowanego towarzyszącego premiowane jest przez Umawiające się Strony przyznawaniem zezwoleń premiowych na wykonywanie międzynarodowych przewozów drogowych, o ile takie zezwolenia będą stosowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Właściwe organy Umawiających się Stron ustalają warunki i dokonują między sobą wymiany zezwoleń premiowych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Wspieranie transportu kombinowanego",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Umawiające się Strony będą podejmować działania stymulujące rozwój transportu kombinowanego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Umawiające się Strony, w miarę swoich możliwości, zobowiązują się wspierać kolej i porty w zakresie rozbudowy infrastruktury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Umawiające się Strony zwolnią przewoźników drogowych wykonujących czynności dowozowe i odwozowe z zakazu przejazdów po drogach w week- Článok 7",
+     "children": [
+      {
+       "type": "text",
+       "text": "Oslobodenie"
+      },
+      {
+       "type": "text",
+       "text": "(1) Vsystéme prepravy Ro-La aRo-Ro zmluvné strany oslobodzujú na základe vzájomnosti zvoz arozvoz realizovaný vPol’sku vokruhu 70 km ana Slovensku vokruhu 50 km po priamej čiare zo štátnej hranice alebo zmiesta nakladania do terminálu alebo z terminálu po štátnu hranicu alebo do miesta vykládky:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/ust_3/lit_a",
+       "text": "v Pol’sku od poplatkov za prepravu po štátnych cestách využívaných v medzinárodnej cestnej preprave,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/ust_3/lit_b",
+       "text": "na Slovensku od cestnej dane.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Preprava uvedená v ods. 1 je oslobodená od povinnosti mat’ povolenia na medzinárodnú cestnú dopravu, pokial’ tieto povolenia budú uplatňované."
+        },
+        {
+         "type": "text",
+         "text": "(3) Podmienkou oslobodenia od povolení apoplatkov uvedených vods. 1 a2 je:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/ust_3/lit_a",
+       "text": "pri zvoze doklad ozaplatení rezervácie prepravy cestného nákladného vozidla železničnou alebo vodnou dopravou,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/ust_3/lit_b",
+       "text": "pri rozvoze doklad ovykonaní prepravy.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(4) Ustanovenia ods. 1 sa nevzt’ahujú na poplatky za spoplatňované dial’nice, cesty pre motorové vozidlá, tunely a mosty a tiež na poplatky za nadmernú alebo nadrozmemú prepravu."
+        },
+        {
+         "type": "text",
+         "text": "Článok 8"
+        },
+        {
+         "type": "text",
+         "text": "Odmeňovacie povolenia"
+        },
+        {
+         "type": "text",
+         "text": "(1) Vykonávanie prepravy systémom sprevádzanej kombinovanej dopravy je odmeňované zmluvnými stranami pridel’ovanímodmeňovacích povolení na medzinárodnú cestnú dopravu, pokial’ tieto povolenia budú udel’ované."
+        },
+        {
+         "type": "text",
+         "text": "(2) Príslušné orgány zmluvných stránsi vzájomne vymenia odmeňovacie povolenia."
+        },
+        {
+         "type": "text",
+         "text": "Článok 9"
+        },
+        {
+         "type": "text",
+         "text": "Podpora kombinovanej dopravy"
+        },
+        {
+         "type": "text",
+         "text": "(1) Zmluvné strany budú vykonávat’ činnosti stimulujúce rozvoj kombinovanej dopravy."
+        },
+        {
+         "type": "text",
+         "text": "(2) Zmluvné strany podl’a svojich možností sa zaväzujú podporovat’ výstavbu infraštruktúry nadväzne na železnice aprístavy na vodnej ceste."
+        },
+        {
+         "type": "text",
+         "text": "(3) Zmluvné strany oslobodia cestných dopravcov vykonávajúcich zvoz arozvoz od zákazu jazdy vdňoch pracovného vol’na a pracovného pokoja v súlade endy i dni świąteczne, zgodnie z przepisami prawa obowiązującego na terytoriach Państw obu Umawiających się Stron."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Umawiające się Strony będą czyniły starania, aby infrastruktura kolejowa odpowiadała parametrom określonym w Europejskiej umowie o ważnych międzynarodowych liniach transportu kombinowanego i obiektach towarzyszących (AGTC), a czas postoju pociągów na przejściach granicznych, eksploatowanych szczególnie w systemie Ro-La, nie przekraczał 30 minut.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_9/ust_5",
+     "text": "Umawiające się Strony zobowiązują się do stworzenia warunków do wykorzystania przy dowożeniu i odwożeniu ciężarowych pojazdów drogowych o masie brutto do 44 ton.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_9/ust_6",
+     "text": "Umawiające się Strony będą dążyły do przeniesienia procedur celnych do terminali transportu kombinowanego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Przestrzeganie przepisów",
+   "children": [
     {
      "type": "text",
      "text": "Przewoźnik i jego personel są zobowiązani do przestrzegania przepisów prawa obowiązujących na terytorium Państwa drugiej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów"
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W przypadku gdy przewoźnik lub jego personel jednej z Umawiających się Stron narusza na terytorium Państwa drugiej Umawiającej się Strony postanowienia niniejszej umowy, właściwe organy tej drugiej Umawiającej się Strony poinformują o tym właściwe organy Umawiającej się Strony, na terytorium Państwa której ciężarowy pojazd drogowy jest zarejestrowany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy Umawiającej się Strony, na terytorium Państwa której naruszenie miało miejsce, mogą zwrócić się do właściwych organów drugiej Umawiającej się Strony o ostrzeżenie przewoźnika, który dokonał naruszenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy Umawiających się Stron będą się wzajemnie informować o podjętych działaniach mających na celu przeciwdziałanie naruszeniu przepisów.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Naruszenie przepisów",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 12"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "W przypadku gdy przewoźnik lub jego personel jednej z Umawiających się Stron narusza na terytorium Państwa drugiej Umawiającej się Strony postanowienia niniejszej umowy, właściwe organy tej drugiej Umawiającej się Strony poinformują o tym właściwe organy Umawiającej się Strony, na terytorium Państwa której ciężarowy pojazd drogowy jest zarejestrowany.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Ochrona danych"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Właściwe organy Umawiającej się Strony, na terytorium Państwa której naruszenie miało miejsce, mogą zwrócić się do właściwych organów drugiej Umawiającej się Strony o ostrzeżenie przewoźnika, który dokonał naruszenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Właściwe organy Umawiających się Stron będą się wzajemnie informować o podjętych działaniach mających na celu przeciwdziałanie naruszeniu przepisów.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony zobowiązują się do niewykorzystywania żadnych danych i informacji udostępnianych przez drugą Umawiającą się Stronę w związku z wykonywaniem niniejszej umowy, przeciw jej interesom, oraz do nieudostępniania ich stronie trzeciej bez uprzedniej pisemnej zgody drugiej Umawiającej się Strony. Informacje te wykorzystują wyłącznie w określonym celu.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Ochrona danych",
    "children": [
     {
-     "type": "text",
-     "text": "s vnútroštátnymi právnymi predpismi na území štátov obidvoch zmluvných strán."
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Umawiające się Strony zobowiązują się do niewykorzystywania żadnych danych i informacji udostępnianych przez drugą Umawiającą się Stronę w związku z wykonywaniem niniejszej umowy, przeciw jej interesom, oraz do nieudostępniania ich stronie trzeciej bez uprzedniej pisemnej zgody drugiej Umawiającej się Strony. Informacje te wykorzystują wyłącznie w określonym celu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "s vnútroštátnymi právnymi predpismi na území štátov obidvoch zmluvných strán."
+      },
+      {
+       "type": "text",
+       "text": "(4) Zmluvné strany sa budú usilovat’, aby železničná infraštruktúra bola zosúladená sparametrami uvedenými v Európskej dohode o najdôležitejších trasách medzinárodnej kombinovanej dopravy apríslušných objektoch (Dohoda AGTC), aaby čas pobytu vlakov na hraničných priechodoch prevádzkovaných predovšetkým v systéme Ro-La neprekročil 30 minút."
+      },
+      {
+       "type": "text",
+       "text": "(5) Zmluvné strany sa zaväzujú vytvorit’ pri zvoze a rozvoze cestných nákladných vozidiel podmienky prepravy do celkovej hmotnosti 44 t."
+      },
+      {
+       "type": "text",
+       "text": "(6) Zmluvné strany sa budú usilovat’ presunút’ colné vybavovanie do terminálov kombinovanej dopravy."
+      },
+      {
+       "type": "text",
+       "text": "Článok 10"
+      },
+      {
+       "type": "text",
+       "text": "Dodržiavanie prepisov"
+      },
+      {
+       "type": "text",
+       "text": "Dopravca a jeho personál je povinný dodržiavat’ právne predpisy platné na území štátu druhej zmluvnej strany."
+      },
+      {
+       "type": "text",
+       "text": "Článok 11"
+      },
+      {
+       "type": "text",
+       "text": "Porušovanie predpisov"
+      },
+      {
+       "type": "text",
+       "text": "(1) Vprípade, žedopravca jednej zmluvnej strany alebo jeho personál porušia na území štátu druhej zmluvnej strany ustanovenia tejto dohody, príslušné orgány štátu druhej zmluvnej strany budú o tom informovat’ príslušné orgán štátu zmluvnej strany, na území ktorého je cestné nákladné vozidlo evidované."
+      },
+      {
+       "type": "text",
+       "text": "(2) Príslušné orgány štátu zmluvnej strany, na území ktorého nastalo porušenie predpisov, môžupožiadat’ príslušné orgány štátu druhej zmluvnej strany oupozornenie dopravcu, ktorý porušil predpisy."
+      },
+      {
+       "type": "text",
+       "text": "(3) Príslušné orgány štátov zmluvných strán sa budú vzájomne informovat’ o prijatých opatreniach, ktorých ciel’om bude predchádzat’ porušovaniu predpisov."
+      },
+      {
+       "type": "text",
+       "text": "Článok 12"
+      },
+      {
+       "type": "text",
+       "text": "Ochrana údajov"
+      },
+      {
+       "type": "text",
+       "text": "(1) Zmluvné strany sa zaväzujú, že nevyužijú a nepoužijú údaje ainformácie druhej zmluvnej strany súvisiace s vykonávaním tejto dohody proti jej záujmom, nesprístupnia ich tretej strane bez predchádzajúceho písomného súhlasu druhej zmluvnej strany a použijú ich výlučne na uvedený ciel’."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(4) Zmluvné strany sa budú usilovat’, aby železničná infraštruktúra bola zosúladená sparametrami uvedenými v Európskej dohode o najdôležitejších trasách medzinárodnej kombinovanej dopravy apríslušných objektoch (Dohoda AGTC), aaby čas pobytu vlakov na hraničných priechodoch prevádzkovaných predovšetkým v systéme Ro-La neprekročil 30 minút."
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Dane i informacje, zgodnie z ustępem 1 niniejszego artykułu, można udostępniać jedynie dla potrzeb organów państwowych, prokuratury i sądów Państw Umawiających się Stron, o ile wymaga tego wszczęcie postępowania karnego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(5) Zmluvné strany sa zaväzujú vytvorit’ pri zvoze a rozvoze cestných nákladných vozidiel podmienky prepravy do celkovej hmotnosti 44 t."
-    },
-    {
-     "type": "text",
-     "text": "(6) Zmluvné strany sa budú usilovat’ presunút’ colné vybavovanie do terminálov kombinovanej dopravy."
-    },
-    {
-     "type": "text",
-     "text": "Článok 10"
-    },
-    {
-     "type": "text",
-     "text": "Dodržiavanie prepisov"
-    },
-    {
-     "type": "text",
-     "text": "Dopravca a jeho personál je povinný dodržiavat’ právne predpisy platné na území štátu druhej zmluvnej strany."
-    },
-    {
-     "type": "text",
-     "text": "Článok 11"
-    },
-    {
-     "type": "text",
-     "text": "Porušovanie predpisov"
-    },
-    {
-     "type": "text",
-     "text": "(1) Vprípade, žedopravca jednej zmluvnej strany alebo jeho personál porušia na území štátu druhej zmluvnej strany ustanovenia tejto dohody, príslušné orgány štátu druhej zmluvnej strany budú o tom informovat’ príslušné orgán štátu zmluvnej strany, na území ktorého je cestné nákladné vozidlo evidované."
-    },
-    {
-     "type": "text",
-     "text": "(2) Príslušné orgány štátu zmluvnej strany, na území ktorého nastalo porušenie predpisov, môžupožiadat’ príslušné orgány štátu druhej zmluvnej strany oupozornenie dopravcu, ktorý porušil predpisy."
-    },
-    {
-     "type": "text",
-     "text": "(3) Príslušné orgány štátov zmluvných strán sa budú vzájomne informovat’ o prijatých opatreniach, ktorých ciel’om bude predchádzat’ porušovaniu predpisov."
-    },
-    {
-     "type": "text",
-     "text": "Článok 12"
-    },
-    {
-     "type": "text",
-     "text": "Ochrana údajov"
-    },
-    {
-     "type": "text",
-     "text": "(1) Zmluvné strany sa zaväzujú, že nevyužijú a nepoužijú údaje ainformácie druhej zmluvnej strany súvisiace s vykonávaním tejto dohody proti jej záujmom, nesprístupnia ich tretej strane bez predchádzajúceho písomného súhlasu druhej zmluvnej strany a použijú ich výlučne na uvedený ciel’."
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Ochrona i udostępnianie danych będzie odbywać się zgodnie z przepisami prawa Państw obu Umawiających się Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dane i informacje, zgodnie z ustępem 1 niniejszego artykułu, można udostępniać jedynie dla potrzeb organów państwowych, prokuratury i sądów Państw Umawiających się Stron, o ile wymaga tego wszczęcie postępowania karnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Ochrona i udostępnianie danych będzie odbywać się zgodnie z przepisami prawa Państw obu Umawiających się Stron.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Komisja do Spraw Transportu Kombinowanego",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "W celu zapewnienia należytego wykonywania postanowień niniejszej umowy oraz wymiany informacji, właściwe organy Umawiających się Stron powołają Komisję do Spraw Transportu Kombinowanego, której posiedzenia zwoływane będą w miarę potrzeb przynajmniej raz w roku przemiennie na terytoriach Państw obu Umawiających się Stron. Każda z Umawiających się Stron powoła do Komisji po pięciu członków w terminie do 30 dni od dnia wejścia w życie niniejszej umowy.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Komisja do Spraw Transportu Kombinowanego"
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Komisja upoważniona jest do proponowania zmian, poprawek i uzupełnień do niniejszej umowy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu zapewnienia należytego wykonywania postanowień niniejszej umowy oraz wymiany informacji, właściwe organy Umawiających się Stron powołają Komisję do Spraw Transportu Kombinowanego, której posiedzenia zwoływane będą w miarę potrzeb przynajmniej raz w roku przemiennie na terytoriach Państw obu Umawiających się Stron. Każda z Umawiających się Stron powoła do Komisji po pięciu członków w terminie do 30 dni od dnia wejścia w życie niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja upoważniona jest do proponowania zmian, poprawek i uzupełnień do niniejszej umowy.",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Wejście w życie i ważność umowy",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem Państwa każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie pierwszego dnia drugiego miesiąca następującego po dniu otrzymania noty późniejszej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wejście w życie i ważność umowy"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Niniejsza umowa zawarta jest na czas nieokreślony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Umowa może być wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci moc po upływie 6 miesięcy od dnia otrzymania wypowiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Niniejszą umowę można zmieniać oraz uzupełniać na podstawie wzajemnego porozumienia Umawiających się Stron. Zmiany oraz uzupełnienia powinny być sporządzane w formie pisemnej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem Państwa każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie pierwszego dnia drugiego miesiąca następującego po dniu otrzymania noty późniejszej.",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w Żywcu dnia 28 kwietnia 2001 r., w dwóch egzemplarzach, każdy w językach polskim i słowackim, przy czym obydwa teksty mają jednakową moc."
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa zawarta jest na czas nieokreślony.",
-   "children": []
+   "type": "text",
+   "text": "Z upoważnienia Z upoważnienia Rządu Rządu Rzeczypospolitej Polskiej Republiki Słowackiej (2) Údaje a informácie podl’a ods. 1 tohto článku možno poskytnút’ len pre potreby štátnych orgánov, prokuratúry a súdov štátov zmluvných strán, ak to vyžaduje začatie trestného konania."
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umowa może być wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci moc po upływie 6 miesięcy od dnia otrzymania wypowiedzenia.",
-   "children": []
+   "type": "text",
+   "text": "(3) Ochrana a vydávanie údajov sa bude vykonávat’ vsúlade svnútroštátnymi pránymi predpismi obidvoch zmluvných strán."
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Niniejszą umowę można zmieniać oraz uzupełniać na podstawie wzajemnego porozumienia Umawiających się Stron. Zmiany oraz uzupełnienia powinny być sporządzane w formie pisemnej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Sporządzono w Żywcu dnia 28 kwietnia 2001 r., w dwóch egzemplarzach, każdy w językach polskim i słowackim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Z upoważnienia Rządu Rządu Rzeczypospolitej Polskiej Republiki Słowackiej (2) Údaje a informácie podl’a ods. 1 tohto článku možno poskytnút’ len pre potreby štátnych orgánov, prokuratúry a súdov štátov zmluvných strán, ak to vyžaduje začatie trestného konania."
-    },
-    {
-     "type": "text",
-     "text": "(3) Ochrana a vydávanie údajov sa bude vykonávat’ vsúlade svnútroštátnymi pránymi predpismi obidvoch zmluvných strán."
-    },
-    {
-     "type": "text",
-     "text": "Článok 13"
-    },
-    {
-     "type": "text",
-     "text": "Komisia pre kombinovanú dopravu"
-    },
-    {
-     "type": "text",
-     "text": "(1) Príslušné orgány zmluvných strán v záujme správneho vykonávania ustanovení tejto dohody ana účely výmeny informácií vytvoria komisiu pre kombinovanú dopravu, ktorej zasadnutia sa budú zvolávat’ podl’a potreby najmenej raz do roka striedavo na území štátov zmluvných strán. Každá zmluvná strana vymenuje do zmiešanej komisie po pät’ členov v termíne do tridsat’ dní po nadobudnutí platnosti tejto dohody."
-    },
-    {
-     "type": "text",
-     "text": "(2) Komisia pre kombinovanú dopravu má právo navrhovat’ zmeny adoplnky ktejto dohode."
-    },
-    {
-     "type": "text",
-     "text": "Článok 14"
-    },
-    {
-     "type": "text",
-     "text": "Nadobudnutie platnosti askončenie platnosti"
-    },
-    {
-     "type": "text",
-     "text": "(1) Táto dohoda podlieha schváleniu v súlade s právnymi predpismi každej zo zmluvných strán, čo bude potvrdené výmenou nót. Dohoda nadobudne platnost’ prvý deň druhého mesiaca nasledujúceho po dni prijatia neskoršej nóty."
-    },
-    {
-     "type": "text",
-     "text": "(2) Táto dohoda sa uzaviera na dobu neurčitú."
-    },
-    {
-     "type": "text",
-     "text": "(3) Každá zo zmluvných stránmôžedohodu písomne vypovedat’. Platnost’ dohody skončí po uplynutí 6mesiacov odo dňadoručenia oznámenia ovýpovedi druhej zmluvnej strane."
-    },
-    {
-     "type": "text",
-     "text": "(4) Táto dohoda môže byt’ menená a doplňovaná na základe vzájomnej dohody zmluvných strán. Zmeny a doplnky musia byt’ vykonané písomnou formou."
-    },
-    {
-     "type": "text",
-     "text": "Dané v Zywiec dňa 28. aprila 2001 v dvoch pôvodných vyhotoveniach, každé vpol’skom aslovenskom jazyku, pričom obidve znenia majú rovnakú platnost’."
-    },
-    {
-     "type": "text",
-     "text": "Za vládu Za vládu Pol’skej republiky Slovenskej republiky"
-    }
-   ]
+   "type": "text",
+   "text": "Článok 13"
+  },
+  {
+   "type": "text",
+   "text": "Komisia pre kombinovanú dopravu"
+  },
+  {
+   "type": "text",
+   "text": "(1) Príslušné orgány zmluvných strán v záujme správneho vykonávania ustanovení tejto dohody ana účely výmeny informácií vytvoria komisiu pre kombinovanú dopravu, ktorej zasadnutia sa budú zvolávat’ podl’a potreby najmenej raz do roka striedavo na území štátov zmluvných strán. Každá zmluvná strana vymenuje do zmiešanej komisie po pät’ členov v termíne do tridsat’ dní po nadobudnutí platnosti tejto dohody."
+  },
+  {
+   "type": "text",
+   "text": "(2) Komisia pre kombinovanú dopravu má právo navrhovat’ zmeny adoplnky ktejto dohode."
+  },
+  {
+   "type": "text",
+   "text": "Článok 14"
+  },
+  {
+   "type": "text",
+   "text": "Nadobudnutie platnosti askončenie platnosti"
+  },
+  {
+   "type": "text",
+   "text": "(1) Táto dohoda podlieha schváleniu v súlade s právnymi predpismi každej zo zmluvných strán, čo bude potvrdené výmenou nót. Dohoda nadobudne platnost’ prvý deň druhého mesiaca nasledujúceho po dni prijatia neskoršej nóty."
+  },
+  {
+   "type": "text",
+   "text": "(2) Táto dohoda sa uzaviera na dobu neurčitú."
+  },
+  {
+   "type": "text",
+   "text": "(3) Každá zo zmluvných stránmôžedohodu písomne vypovedat’. Platnost’ dohody skončí po uplynutí 6mesiacov odo dňadoručenia oznámenia ovýpovedi druhej zmluvnej strane."
+  },
+  {
+   "type": "text",
+   "text": "(4) Táto dohoda môže byt’ menená a doplňovaná na základe vzájomnej dohody zmluvných strán. Zmeny a doplnky musia byt’ vykonané písomnou formou."
+  },
+  {
+   "type": "text",
+   "text": "Dané v Zywiec dňa 28. aprila 2001 v dvoch pôvodných vyhotoveniach, každé vpol’skom aslovenskom jazyku, pričom obidve znenia majú rovnakú platnost’."
+  },
+  {
+   "type": "text",
+   "text": "Za vládu Za vládu Pol’skej republiky Slovenskej republiky"
   }
  ],
  "annexes": [],

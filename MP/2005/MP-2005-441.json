@@ -45,293 +45,294 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Umawiające się Strony będą popierać współpracę i wymianę doświadczeń w dziedzinie kultury, sztuki, edukacji i sportu oraz w zakresie problematyki związanej z młodzieżą i środkami masowego przekazu.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę i wymianę doświadczeń w dziedzinie kultury, sztuki, edukacji i sportu oraz w zakresie problematyki związanej z młodzieżą i środkami masowego przekazu."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "W celu upowszechniania znajomości kultury i edukacji drugiego kraju Umawiające się Strony będą popierać:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "nawiązywanie kontaktów między zainteresowanymi instytucjami i ekspertami w dziedzinie kultury i sztuki, wymianę wizyt artystów i delegacji stowarzyszeń twórczych, a także wymianę informacji i materiałów dotyczących kultury,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "wzajemne organizowanie przedsięwzięć kulturalnych, takich jak wystawy plastyczne, imprezy muzyczne oraz przeglądy filmowe i teatralne,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "współpracę między archiwami państwowymi, muzeami i bibliotekami,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "współpracę na rzecz zachowania materialnego i niematerialnego dziedzictwa kultury, w tym współpracę między instytucjami zajmującymi się AGREEMENT",
-   "children": []
-  },
-  {
-   "type": "text",
-   "text": "between the Government of the Republic of Poland and the Government of the Republic of Indonesia on cultural and educational co-operation"
-  },
-  {
-   "type": "text",
-   "text": "The Government of the Republic of Poland and the Government of the Republic of Indonesia, hereinafter referred to as „the Contracting Parties”,"
-  },
-  {
-   "type": "text",
-   "text": "Seeking to strengthen the existing relations of friendship between the peoples of Poland and Indonesia and desirous of supporting and expanding their co-operation in the areas of culture, education and sports, as well as in the scope of problems related to youth and the mass media,"
-  },
-  {
-   "type": "text",
-   "text": "Convinced that such co-operation enhances a further mutual understanding and knowledge of the two countries,"
-  },
-  {
-   "type": "text",
-   "text": "Pursuant to the laws and regulations of the two countries,"
-  },
-  {
-   "type": "text",
-   "text": "Have agreed as follows:"
-  },
-  {
-   "type": "text",
-   "text": "Article 1"
-  },
-  {
-   "type": "text",
-   "text": "The Contracting Parties shall support cooperation and exchanges of experience in the areas of culture, arts, education and sports, as well as in the scope of problems related to youth and the mass media."
-  },
-  {
-   "type": "text",
-   "text": "Article 2"
-  },
-  {
-   "type": "text",
-   "text": "In order to spread the knowledge of culture and education of the other country, the Contracting Parties shall provide support to:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "establishment of contacts between the interested institutions and experts of culture and art, exchange of visits by artists and delegations from artistic associations, as well as exchanges of cultural-related information and materials,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "organisation of cultural events on a reciprocal basis, including art exhibitions, music events, as well as film and theatre reviews,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "co-operation between state archives, museums and libraries,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "co-operation to preserve tangible and intangible cultural heritage, including co-operation between institutions responsible for conservation of konserwacją zabytków historii i sztuki oraz jednostkami prowadzącymi badania archeologiczne,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "bezpośrednią współpracę między uczelniami, a także akademiami nauk oraz zainteresowanymi placówkami naukowymi obu krajów,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "f",
-   "path": "lit_f",
-   "text": "wymianę wizyt, pobyty studyjne i wykłady specjalistów, w tym naukowców, nauczycieli akademickich oraz nauczycieli.",
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W celu upowszechniania znajomości kultury i edukacji drugiego kraju Umawiające się Strony będą popierać:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "nawiązywanie kontaktów między zainteresowanymi instytucjami i ekspertami w dziedzinie kultury i sztuki, wymianę wizyt artystów i delegacji stowarzyszeń twórczych, a także wymianę informacji i materiałów dotyczących kultury,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "wzajemne organizowanie przedsięwzięć kulturalnych, takich jak wystawy plastyczne, imprezy muzyczne oraz przeglądy filmowe i teatralne,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "współpracę między archiwami państwowymi, muzeami i bibliotekami,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "współpracę na rzecz zachowania materialnego i niematerialnego dziedzictwa kultury, w tym współpracę między instytucjami zajmującymi się AGREEMENT",
+     "children": []
     },
     {
      "type": "text",
-     "text": "Umawiające się Strony będą popierać współpracę między organizacjami młodzieżowymi, w szczególności poprzez wymianę delegacji."
+     "text": "between the Government of the Republic of Poland and the Government of the Republic of Indonesia on cultural and educational co-operation"
     },
     {
      "type": "text",
-     "text": "Artykuł 4"
+     "text": "The Government of the Republic of Poland and the Government of the Republic of Indonesia, hereinafter referred to as „the Contracting Parties”,"
     },
     {
      "type": "text",
-     "text": "Umawiające się Strony będą popierać współpracę w dziedzinie kultury fizycznej i sportu."
+     "text": "Seeking to strengthen the existing relations of friendship between the peoples of Poland and Indonesia and desirous of supporting and expanding their co-operation in the areas of culture, education and sports, as well as in the scope of problems related to youth and the mass media,"
     },
     {
      "type": "text",
-     "text": "Artykuł 5"
+     "text": "Convinced that such co-operation enhances a further mutual understanding and knowledge of the two countries,"
     },
     {
      "type": "text",
-     "text": "Umawiające się Strony będą popierały współpracę między publicznymi instytucjami prasowymi, radiowymi i telewizyjnymi."
+     "text": "Pursuant to the laws and regulations of the two countries,"
     },
     {
      "type": "text",
-     "text": "Artykuł 6"
+     "text": "Have agreed as follows:"
     },
     {
      "type": "text",
-     "text": "Każda z Umawiających się Stron uzna prawa autorskie i prawa pokrewne przysługujące osobom fizycznym i prawnym drugiej Umawiającej się Strony na własnym terytorium, jak też wynikające z działań wykonywanych w związku z niniejszą umową, oraz zagwarantuje ochronę tych praw w wypadku, gdyby nie były one chronione przez umowy o charakterze międzynarodowym."
+     "text": "Article 1"
     },
     {
      "type": "text",
-     "text": "Artykuł 7"
+     "text": "The Contracting Parties shall support cooperation and exchanges of experience in the areas of culture, arts, education and sports, as well as in the scope of problems related to youth and the mass media."
     },
     {
      "type": "text",
-     "text": "Strony będą współpracować w celu niedopuszczenia do nielegalnego wwozu, wywozu i przekazywania dóbr kultury, stanowiących ich dziedzictwo kulturalne, zgodnie z przepisami prawnymi obowiązującymi w danym kraju, a także zgodnie z podpisanymi przez obie Strony odnośnymi konwencjami międzynarodowymi."
+     "text": "Article 2"
     },
     {
      "type": "text",
-     "text": "Artykuł 8"
+     "text": "In order to spread the knowledge of culture and education of the other country, the Contracting Parties shall provide support to:"
     },
     {
-     "type": "text",
-     "text": "W celu realizacji niniejszej umowy mogą być uzgadniane okresowe międzyrządowe porozumienia wymiany kulturalnej i edukacyjnej lub porozumienia między odpowiednimi resortami, w tym ogólne warunki finansowe realizacji tej umowy."
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "establishment of contacts between the interested institutions and experts of culture and art, exchange of visits by artists and delegations from artistic associations, as well as exchanges of cultural-related information and materials,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "organisation of cultural events on a reciprocal basis, including art exhibitions, music events, as well as film and theatre reviews,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W razie potrzeby przedstawiciele Umawiających się Stron będą się spotykać, na przemian w każdym z krajów, w celu oceny realizacji niniejszej umowy i przygotowania zaleceń co do dalszej współpracy."
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "co-operation between state archives, museums and libraries,",
+     "children": []
     },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "co-operation to preserve tangible and intangible cultural heritage, including co-operation between institutions responsible for conservation of konserwacją zabytków historii i sztuki oraz jednostkami prowadzącymi badania archeologiczne,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "bezpośrednią współpracę między uczelniami, a także akademiami nauk oraz zainteresowanymi placówkami naukowymi obu krajów,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_2/lit_f",
+     "text": "wymianę wizyt, pobyty studyjne i wykłady specjalistów, w tym naukowców, nauczycieli akademickich oraz nauczycieli.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony będą popierać współpracę między organizacjami młodzieżowymi, w szczególności poprzez wymianę delegacji.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie kultury fizycznej i sportu.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą popierały współpracę między publicznymi instytucjami prasowymi, radiowymi i telewizyjnymi.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Każda z Umawiających się Stron uzna prawa autorskie i prawa pokrewne przysługujące osobom fizycznym i prawnym drugiej Umawiającej się Strony na własnym terytorium, jak też wynikające z działań wykonywanych w związku z niniejszą umową, oraz zagwarantuje ochronę tych praw w wypadku, gdyby nie były one chronione przez umowy o charakterze międzynarodowym.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą współpracować w celu niedopuszczenia do nielegalnego wwozu, wywozu i przekazywania dóbr kultury, stanowiących ich dziedzictwo kulturalne, zgodnie z przepisami prawnymi obowiązującymi w danym kraju, a także zgodnie z podpisanymi przez obie Strony odnośnymi konwencjami międzynarodowymi.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "W celu realizacji niniejszej umowy mogą być uzgadniane okresowe międzyrządowe porozumienia wymiany kulturalnej i edukacyjnej lub porozumienia między odpowiednimi resortami, w tym ogólne warunki finansowe realizacji tej umowy.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "W razie potrzeby przedstawiciele Umawiających się Stron będą się spotykać, na przemian w każdym z krajów, w celu oceny realizacji niniejszej umowy i przygotowania zaleceń co do dalszej współpracy.",
+   "children": [
     {
      "type": "text",
      "text": "historical and artistic monuments and archaeological research,"
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_9/lit_e",
+     "text": "direct co-operation between schools of higher learning, academies of sciences and interested institutions of both countries,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_9/lit_f",
+     "text": "exchange of visits, study visits and lectures by specialists, including scholars, academic and school teachers.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties shall support co-operation of youth organisations, in particular exchanges of delegations."
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties shall support co-operation in the fields of physical education and sports."
+      },
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties shall encourage co-operation between their public press, radio and television institutions."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Each of the Contracting Parties shall recognize the copyrights and its neighbouring rights owned by persons and legal entities of the other Contracting Party within its respective territory and any result of activities which are performed under this Agreement, and shall also ensure the protection of such rights if they are not protected by international agreements."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties shall co-operate in order to prevent illegal importation, exportation and transfer of items belonging to their cultural heritage, in conformity with the legal regulations of both countries as well as in conformity with proper international conventions."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "For the purpose of implementation of this Agreement, intergovernmental protocols may be periodically negotiated for cultural and educational exchanges, as well as agreements between the interested ministries, including general financial conditions of this Agreement."
+      },
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "As needed, officials of the Contracting Parties shall meet alternately in each of the countries, to review the implementation of this Agreement and to prepare recommendations for their further co-operation."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "direct co-operation between schools of higher learning, academies of sciences and interested institutions of both countries,",
-   "children": []
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Umawiające się Strony ustaliły, że zainteresowane instytucje, zajmujące się różnymi dziedzinami niniejszej umowy, mogą zawierać między sobą programy okresowe określające szczegóły ich współpracy.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "lit",
-   "num": "f",
-   "path": "lit_f",
-   "text": "exchange of visits, study visits and lectures by specialists, including scholars, academic and school teachers.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Problemy wynikające z interpretacji lub realizacji niniejszej umowy będą rozstrzygane polubownie w drodze konsultacji lub negocjacji między Umawiającymi się Stronami, z wykorzystaniem kanału dyplomatycznego.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Wszelkie zmiany dotyczące treści niniejszej umowy będą uzgadniane poprzez wymianę not i wejdą w życie w terminie określonym przez Umawiające się Strony.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron i wejdzie w życie z datą otrzymania noty późniejszej, potwierdzającej spełnienie niezbędnych wewnętrznych wymogów prawnych.",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties shall support co-operation of youth organisations, in particular exchanges of delegations."
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties shall support co-operation in the fields of physical education and sports."
-    },
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties shall encourage co-operation between their public press, radio and television institutions."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Each of the Contracting Parties shall recognize the copyrights and its neighbouring rights owned by persons and legal entities of the other Contracting Party within its respective territory and any result of activities which are performed under this Agreement, and shall also ensure the protection of such rights if they are not protected by international agreements."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties shall co-operate in order to prevent illegal importation, exportation and transfer of items belonging to their cultural heritage, in conformity with the legal regulations of both countries as well as in conformity with proper international conventions."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "For the purpose of implementation of this Agreement, intergovernmental protocols may be periodically negotiated for cultural and educational exchanges, as well as agreements between the interested ministries, including general financial conditions of this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "As needed, officials of the Contracting Parties shall meet alternately in each of the countries, to review the implementation of this Agreement and to prepare recommendations for their further co-operation."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony ustaliły, że zainteresowane instytucje, zajmujące się różnymi dziedzinami niniejszej umowy, mogą zawierać między sobą programy okresowe określające szczegóły ich współpracy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Problemy wynikające z interpretacji lub realizacji niniejszej umowy będą rozstrzygane polubownie w drodze konsultacji lub negocjacji między Umawiającymi się Stronami, z wykorzystaniem kanału dyplomatycznego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Wszelkie zmiany dotyczące treści niniejszej umowy będą uzgadniane poprzez wymianę not i wejdą w życie w terminie określonym przez Umawiające się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron i wejdzie w życie z datą otrzymania noty późniejszej, potwierdzającej spełnienie niezbędnych wewnętrznych wymogów prawnych."
-    },
     {
      "type": "text",
      "text": "Umowa niniejsza zawarta jest na okres pięciu lat, przy czym ulegnie ona automatycznemu przedłużeniu na kolejne okresy pięcioletnie, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji przynajmniej na sześć miesięcy przed upływem kolejnego okresu obowiązywania."
@@ -412,7 +413,8 @@
      "type": "text",
      "text": "Minister Minister Spraw Zagranicznych Spraw Zagranicznych Minister Minister of Foreign Affairs for Foreign Affairs"
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   }
  ],
  "annexes": [],

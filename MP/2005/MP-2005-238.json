@@ -45,366 +45,395 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa jest „umową” w rozumieniu artykułu 8 Konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa ma zastosowanie do planowanej działalności, która może spowodować znaczące oddziaływanie transgraniczne, dla której przeprowadza się, zgodnie z prawem wewnętrznym, obowiązującym w Państwie każdej ze Stron, postępowanie w sprawie oceny oddziaływania na środowisko oraz sporządza się dokumentację oceny oddziaływania na środowisko planowanej działalności. Umowa niniejsza nie ma zastosowania do planowanych działalności służących obronie narodowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Na potrzeby niniejszej umowy będą stosowane odpowiednie definicje Konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przy postępowaniu w sprawie oceny oddziaływania na środowisko planowanej działalności, o której mowa w ustępie 2, mają zastosowanie zasady zawarte w artykułach od 2 do 7 Konwencji oraz postanowienia niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Jeżeli o dopuszczalności planowanej działalności, o której mowa w ustępie 2, rozstrzyga się w ramach kilku postępowań, niniejsza umowa znajduje zastosowanie do wszystkich postępowań, w których przeprowadzane jest postępowanie w sprawie oceny oddziaływania na środowisko oraz sporządza się dokumentację oceny oddziaływania na środowisko planowanej działalności.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą powiadamiały się o planowanych działalnościach, określonych w artykule 1 ustęp 2 niniejszej umowy, niezwłocznie po uzyskaniu informacji o takiej działalności, wysyłając powiadomienie według wzoru stanowiącego załącznik I do niniejszej umowy. Wraz z powiadomieniem zostaną przekazane dane, o których mowa w artykule 3 ustęp 2 Konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Powiadomienie, o którym mowa w ustępie 1, będzie przekazywane w następujący sposób:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "w przypadku gdy Stroną pochodzenia jest Rzeczpospolita Polska — powiadomienie przekazuje minister właściwy do spraw środowiska Rzeczypospolitej Polskiej Ministrowi Środowiska Republiki Litewskiej;",
+     "path": "art_1/ust_1",
+     "text": "Niniejsza umowa jest „umową” w rozumieniu artykułu 8 Konwencji.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "w przypadku gdy Stroną pochodzenia jest Republika Litewska — powiadomienie przekazuje Minister Środowiska Republiki Litewskiej ministrowi właściwemu do spraw środowiska Rzeczypospolitej Polskiej.",
+     "path": "art_1/ust_2",
+     "text": "Niniejsza umowa ma zastosowanie do planowanej działalności, która może spowodować znaczące oddziaływanie transgraniczne, dla której przeprowadza się, zgodnie z prawem wewnętrznym, obowiązującym w Państwie każdej ze Stron, postępowanie w sprawie oceny oddziaływania na środowisko oraz sporządza się dokumentację oceny oddziaływania na środowisko planowanej działalności. Umowa niniejsza nie ma zastosowania do planowanych działalności służących obronie narodowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Na potrzeby niniejszej umowy będą stosowane odpowiednie definicje Konwencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Przy postępowaniu w sprawie oceny oddziaływania na środowisko planowanej działalności, o której mowa w ustępie 2, mają zastosowanie zasady zawarte w artykułach od 2 do 7 Konwencji oraz postanowienia niniejszej umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "Jeżeli o dopuszczalności planowanej działalności, o której mowa w ustępie 2, rozstrzyga się w ramach kilku postępowań, niniejsza umowa znajduje zastosowanie do wszystkich postępowań, w których przeprowadzane jest postępowanie w sprawie oceny oddziaływania na środowisko oraz sporządza się dokumentację oceny oddziaływania na środowisko planowanej działalności.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strona narażona potwierdzi, bez zbędnej zwłoki, Stronie pochodzenia otrzymanie powiadomienia zgodnie z ustępem 1 niniejszego artykułu, przesyłając potwierdzenie odbioru powiadomienia według wzoru stanowiącego załącznik II do niniejszej umowy, i zawiadomi, czy zamierza uczestniczyć w postępowaniu w sprawie oceny oddziaływania na środowisko, przysyłając deklarację uczestnictwa według wzoru stanowiącego załącznik III do niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli Strona narażona jest zainteresowana uczestnictwem w postępowaniu w sprawie oceny oddziaływania na środowisko, to Strony uzgadniają terminy etapów postępowania według załącznika IV.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Po sporządzeniu, zgodnie z artykułem 4 ustęp 1 Konwencji, dokumentacji oceny oddziaływania na środowisko planowanej działalności oraz po zadeklarowaniu przez Stronę narażoną uczestnictwa w postępowaniu, Strona pochodzenia jest zobowiązana do niezwłocznego przekazania dokumentacji Stronie narażonej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony zapewnią możliwość udziału opinii publicznej w postępowaniu w sprawie oceny oddziaływania na środowisko planowanej działalności, o której mowa w artykule 1 ustęp 2 niniejszej umowy, zgodnie z prawem ich Państw. Opinia publiczna Strony narażonej będzie miała możliwość zgłoszenia uwag lub zastrzeżeń przez taki okres, jaki jest przewidziany do zgłaszania takich uwag lub zastrzeżeń w przepisach wewnętrznych Państwa Strony narażonej.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Opinia publiczna Strony narażonej ma możliwość zgłaszania uwag lub zastrzeżeń:",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "w przypadku gdy Stroną narażoną jest Rzeczpospolita Polska — do Ministra Środowiska Republiki Litewskiej oraz do ministra właściwego do spraw środowiska Rzeczypospolitej Polskiej;",
+     "path": "art_2/ust_1",
+     "text": "Strony będą powiadamiały się o planowanych działalnościach, określonych w artykule 1 ustęp 2 niniejszej umowy, niezwłocznie po uzyskaniu informacji o takiej działalności, wysyłając powiadomienie według wzoru stanowiącego załącznik I do niniejszej umowy. Wraz z powiadomieniem zostaną przekazane dane, o których mowa w artykule 3 ustęp 2 Konwencji.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "w przypadku gdy Stroną narażoną jest Republika Litewska — do ministra właściwego do spraw środowiska Rzeczypospolitej Polskiej oraz do Ministra Środowiska Republiki Litewskiej.",
+     "path": "art_2/ust_2",
+     "text": "Powiadomienie, o którym mowa w ustępie 1, będzie przekazywane w następujący sposób:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 5"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_2/pkt_1",
+       "text": "w przypadku gdy Stroną pochodzenia jest Rzeczpospolita Polska — powiadomienie przekazuje minister właściwy do spraw środowiska Rzeczypospolitej Polskiej Ministrowi Środowiska Republiki Litewskiej;",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Strona narażona przekaże Stronie pochodzenia swoje stanowisko dotyczące dokumentacji oceny oddziaływania na środowisko oraz planowanej działalności, z uwzględnieniem uwag lub zastrzeżeń opinii publicznej:"
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_2/pkt_2",
+       "text": "w przypadku gdy Stroną pochodzenia jest Republika Litewska — powiadomienie przekazuje Minister Środowiska Republiki Litewskiej ministrowi właściwemu do spraw środowiska Rzeczypospolitej Polskiej.",
+       "children": []
       }
      ]
     },
     {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Strona narażona potwierdzi, bez zbędnej zwłoki, Stronie pochodzenia otrzymanie powiadomienia zgodnie z ustępem 1 niniejszego artykułu, przesyłając potwierdzenie odbioru powiadomienia według wzoru stanowiącego załącznik II do niniejszej umowy, i zawiadomi, czy zamierza uczestniczyć w postępowaniu w sprawie oceny oddziaływania na środowisko, przysyłając deklarację uczestnictwa według wzoru stanowiącego załącznik III do niniejszej umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Jeżeli Strona narażona jest zainteresowana uczestnictwem w postępowaniu w sprawie oceny oddziaływania na środowisko, to Strony uzgadniają terminy etapów postępowania według załącznika IV.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Po sporządzeniu, zgodnie z artykułem 4 ustęp 1 Konwencji, dokumentacji oceny oddziaływania na środowisko planowanej działalności oraz po zadeklarowaniu przez Stronę narażoną uczestnictwa w postępowaniu, Strona pochodzenia jest zobowiązana do niezwłocznego przekazania dokumentacji Stronie narażonej.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Strony zapewnią możliwość udziału opinii publicznej w postępowaniu w sprawie oceny oddziaływania na środowisko planowanej działalności, o której mowa w artykule 1 ustęp 2 niniejszej umowy, zgodnie z prawem ich Państw. Opinia publiczna Strony narażonej będzie miała możliwość zgłoszenia uwag lub zastrzeżeń przez taki okres, jaki jest przewidziany do zgłaszania takich uwag lub zastrzeżeń w przepisach wewnętrznych Państwa Strony narażonej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Opinia publiczna Strony narażonej ma możliwość zgłaszania uwag lub zastrzeżeń:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_2/pkt_1",
+       "text": "w przypadku gdy Stroną narażoną jest Rzeczpospolita Polska — do Ministra Środowiska Republiki Litewskiej oraz do ministra właściwego do spraw środowiska Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_2/pkt_2",
+       "text": "w przypadku gdy Stroną narażoną jest Republika Litewska — do ministra właściwego do spraw środowiska Rzeczypospolitej Polskiej oraz do Ministra Środowiska Republiki Litewskiej.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strona narażona przekaże Stronie pochodzenia swoje stanowisko dotyczące dokumentacji oceny oddziaływania na środowisko oraz planowanej działalności, z uwzględnieniem uwag lub zastrzeżeń opinii publicznej:",
+   "children": [
+    {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_5/pkt_1",
      "text": "w przypadku gdy Stroną narażoną jest Rzeczpospolita Polska — minister właściwy do spraw środowiska Rzeczypospolitej Polskiej przekaże stanowisko dotyczące planowanej działalności do Ministra Środowiska Republiki Litewskiej;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_5/pkt_2",
      "text": "w przypadku gdy Stroną narażoną jest Republika Litewska — Minister Środowiska Republiki Litewskiej przekaże stanowisko dotyczące planowanej działalności do ministra właściwego do spraw środowiska Rzeczypospolitej Polskiej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      },
-      {
-       "type": "text",
-       "text": "Strona pochodzenia, po przekazaniu dokumentacji oceny oddziaływania na środowisko planowanej działalności, powinna bez zbędnej zwłoki rozpocząć, zgodnie z artykułem 5 Konwencji, konsultacje dotyczące potencjalnego oddziaływania transgranicznego planowanej działalności oraz środków redukowania lub eliminowania tego oddziaływania."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 7"
-      },
-      {
-       "type": "text",
-       "text": "Strona pochodzenia przekaże Stronie narażonej decyzję końcową dotyczącą planowanej działalności, zgodnie z artykułem 6 Konwencji, niezwłocznie po tym, kiedy zostanie ona doręczona wnioskodawcy planowanej działalności:"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strona pochodzenia, po przekazaniu dokumentacji oceny oddziaływania na środowisko planowanej działalności, powinna bez zbędnej zwłoki rozpocząć, zgodnie z artykułem 5 Konwencji, konsultacje dotyczące potencjalnego oddziaływania transgranicznego planowanej działalności oraz środków redukowania lub eliminowania tego oddziaływania.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strona pochodzenia przekaże Stronie narażonej decyzję końcową dotyczącą planowanej działalności, zgodnie z artykułem 6 Konwencji, niezwłocznie po tym, kiedy zostanie ona doręczona wnioskodawcy planowanej działalności:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_7/pkt_1",
      "text": "w przypadku gdy Stroną pochodzenia jest Rzeczpospolita Polska — minister właściwy do spraw środowiska Rzeczypospolitej Polskiej przekaże decyzję końcową dotyczącą planowanej działalności do Ministra Środowiska Republiki Litewskiej;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_7/pkt_2",
      "text": "w przypadku gdy Stroną pochodzenia jest Republika Litewska — Minister Środowiska Republiki Litewskiej przekaże decyzję końcową dotyczącą planowanej działalności do ministra właściwego do spraw środowiska Rzeczypospolitej Polskiej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Strony mogą za obopólnym porozumieniem, zgodnie z artykułem 7 Konwencji, wskazać na potrzebę wykonania analizy porealizacyjnej, przeprowadzanej po zrealizowaniu planowanej działalności.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Strona pochodzenia przekaże Stronie narażonej następujące dokumenty przetłumaczone na język urzędowy Strony narażonej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_9/ust_1/pkt_1",
+       "text": "powiadomienie zgodnie z artykułem 3 ustępy 2 i 5 Konwencji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_9/ust_1/pkt_2",
+       "text": "nietechniczne streszczenie dokumentacji oceny oddziaływania na środowisko zgodnie z artykułem 4 ustęp 1 Konwencji oraz te fragmenty dokumentacji oceny oddziaływania na środowisko, które są konieczne do tego, aby Strona narażona mogła zapoznać się z rozmiarem i rodzajem narażenia oraz zająć stanowisko w tym względzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_9/ust_1/pkt_3",
+       "text": "decyzję końcową wraz z uzasadnieniem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_9/ust_1/pkt_4",
+       "text": "inne dokumenty, które sporządza Strona pochodzenia i które są konieczne dla przebiegu procedury, a w szczególności zaproszenia na konsultacje i protokoły z tych konsultacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_9/ust_1/pkt_5",
+       "text": "wyniki analizy porealizacyjnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Strona narażona przekaże Stronie pochodzenia pisemne informacje, opinie i dokumenty, w tym stanowisko, w swoim własnym języku urzędowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Strona pochodzenia, organizująca konsultacje, rozmowy i spotkania w celu rozpoznania problemu, zapewni obecność tłumacza dla Strony narażonej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "W sprawach koordynacji realizacji niniejszej umowy właściwi są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_10/ust_1/pkt_1",
+       "text": "po stronie polskiej — minister właściwy do spraw środowiska Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_10/ust_1/pkt_2",
+       "text": "po stronie litewskiej — Minister Środowiska Republiki Litewskiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Strony w realizacji niniejszej umowy zapewnią uczestnictwo kompetentnych organów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Strony niniejszej umowy mogą w razie potrzeby powołać polsko-litewską grupę roboczą w celu koordynacji oceny oddziaływania na środowisko w kontekście transgranicznym planowanej działalności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_10/ust_4",
+     "text": "Za zgodą obu Stron do współpracy mogą zostać włączone organizacje pozarządowe.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Wszystkie kwestie sporne, dotyczące interpretacji i wdrażania niniejszej umowy, Strony będą rozwiązywały w drodze negocjacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Postanowienia artykułu 15 ustępy 2 i 3 Konwencji mają zastosowanie w tym przypadku, gdy Strony wyczerpią wszystkie możliwości rozwiązywania sporu przewidziane w ustępie 1 niniejszego artykułu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Niniejsza umowa wchodzi w życie z dniem podpisania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Niniejsza umowa jest zawarta na czas nieokreślony. Może być ona wypowiedziana przez każdą ze Stron w drodze notyfikacji. Wypowiedzenie takie staje się skuteczne po upływie 6 miesięcy od dnia otrzymania notyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Niniejsza umowa może być zmieniona w formie pisemnej za zgodą obu Stron, w drodze wymiany not.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Niniejsza umowa nie narusza praw i zobowiązań Stron, wynikających z zawartych przez nie umów międzynarodowych.",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 8"
+       "text": "SPORZĄDZONO w Warszawie dnia 27 maja 2004 r., w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim i litewskim, przy czym obydwa teksty mają jednakową moc."
       },
       {
        "type": "text",
-       "text": "Strony mogą za obopólnym porozumieniem, zgodnie z artykułem 7 Konwencji, wskazać na potrzebę wykonania analizy porealizacyjnej, przeprowadzanej po zrealizowaniu planowanej działalności."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9"
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Litewskiej"
       }
      ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strona pochodzenia przekaże Stronie narażonej następujące dokumenty przetłumaczone na język urzędowy Strony narażonej:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "powiadomienie zgodnie z artykułem 3 ustępy 2 i 5 Konwencji;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "nietechniczne streszczenie dokumentacji oceny oddziaływania na środowisko zgodnie z artykułem 4 ustęp 1 Konwencji oraz te fragmenty dokumentacji oceny oddziaływania na środowisko, które są konieczne do tego, aby Strona narażona mogła zapoznać się z rozmiarem i rodzajem narażenia oraz zająć stanowisko w tym względzie;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "decyzję końcową wraz z uzasadnieniem;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "inne dokumenty, które sporządza Strona pochodzenia i które są konieczne dla przebiegu procedury, a w szczególności zaproszenia na konsultacje i protokoły z tych konsultacji;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_1/pkt_5",
-     "text": "wyniki analizy porealizacyjnej.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strona narażona przekaże Stronie pochodzenia pisemne informacje, opinie i dokumenty, w tym stanowisko, w swoim własnym języku urzędowym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strona pochodzenia, organizująca konsultacje, rozmowy i spotkania w celu rozpoznania problemu, zapewni obecność tłumacza dla Strony narażonej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W sprawach koordynacji realizacji niniejszej umowy właściwi są:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "po stronie polskiej — minister właściwy do spraw środowiska Rzeczypospolitej Polskiej;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "po stronie litewskiej — Minister Środowiska Republiki Litewskiej.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony w realizacji niniejszej umowy zapewnią uczestnictwo kompetentnych organów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony niniejszej umowy mogą w razie potrzeby powołać polsko-litewską grupę roboczą w celu koordynacji oceny oddziaływania na środowisko w kontekście transgranicznym planowanej działalności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Za zgodą obu Stron do współpracy mogą zostać włączone organizacje pozarządowe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wszystkie kwestie sporne, dotyczące interpretacji i wdrażania niniejszej umowy, Strony będą rozwiązywały w drodze negocjacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia artykułu 15 ustępy 2 i 3 Konwencji mają zastosowanie w tym przypadku, gdy Strony wyczerpią wszystkie możliwości rozwiązywania sporu przewidziane w ustępie 1 niniejszego artykułu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa wchodzi w życie z dniem podpisania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa jest zawarta na czas nieokreślony. Może być ona wypowiedziana przez każdą ze Stron w drodze notyfikacji. Wypowiedzenie takie staje się skuteczne po upływie 6 miesięcy od dnia otrzymania notyfikacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza umowa może być zmieniona w formie pisemnej za zgodą obu Stron, w drodze wymiany not.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Niniejsza umowa nie narusza praw i zobowiązań Stron, wynikających z zawartych przez nie umów międzynarodowych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "SPORZĄDZONO w Warszawie dnia 27 maja 2004 r., w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim i litewskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Litewskiej"
-    }
-   ]
+   ],
+   "label": "Artykuł 12"
   }
  ],
  "annexes": [

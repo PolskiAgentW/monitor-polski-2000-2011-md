@@ -69,58 +69,62 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Strony, w celu lepszego zapoznania społeczeństw z życiem, historią i kulturą narodów obu Państw, będą sprzyjać wszelkim formom współpracy w dziedzinie turystyki.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Współpraca w dziedzinie turystyki będzie realizowana zgodnie z postanowieniami niniejszej umowy i z prawem obowiązującym w każdym z Państw-Stron.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Strony, w celu lepszego zapoznania społeczeństw z życiem, historią i kulturą narodów obu Państw, będą sprzyjać wszelkim formom współpracy w dziedzinie turystyki.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą stwarzać warunki do nawiązywania i rozwoju współpracy między polskimi i meksykańskimi organizacjami uczestniczącymi w rozwoju turystyki międzynarodowej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjać współpracy między organizacjami zainteresowanymi rozwojem turystyki, zarówno w formach zorganizowanych, jak i indywidualnych, a także wymianie grup specjalistycznych, organizacji kongresów, sympozjów, wystaw oraz innych imprez sprzyjających wzrostowi ruchu turystycznego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą dążyć do uproszczenia formalności granicznych, celnych i innych związanych z wymianą turystyczną między obu Państwami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać wymianę informacji w następujących dziedzinach:"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Współpraca w dziedzinie turystyki będzie realizowana zgodnie z postanowieniami niniejszej umowy i z prawem obowiązującym w każdym z Państw-Stron.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Strony będą stwarzać warunki do nawiązywania i rozwoju współpracy między polskimi i meksykańskimi organizacjami uczestniczącymi w rozwoju turystyki międzynarodowej.",
+   "children": [],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Strony będą sprzyjać współpracy między organizacjami zainteresowanymi rozwojem turystyki, zarówno w formach zorganizowanych, jak i indywidualnych, a także wymianie grup specjalistycznych, organizacji kongresów, sympozjów, wystaw oraz innych imprez sprzyjających wzrostowi ruchu turystycznego.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony będą dążyć do uproszczenia formalności granicznych, celnych i innych związanych z wymianą turystyczną między obu Państwami.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strony będą popierać wymianę informacji w następujących dziedzinach:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_5/pkt_1",
      "text": "akty normatywne regulujące działalność turystyczną;",
      "children": [
       {
@@ -152,439 +156,452 @@
        "text": "Artículo 1"
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Las Partes, con el objetivo del mejor conocimiento de la vida, la historia y la cultura de los pueblos de ambos países, van a apoyar todas las formas de cooperación en materia de turismo.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "La cooperación en materia de turismo será realizada de acuerdo con lo establecido en el presente Convenio y de conformidad con la legislación nacional de cada Parte.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artículo 2"
     },
     {
-     "type": "text",
-     "text": "Las Partes se comprometen a crear condiciones favorables para el establecimiento y desarrollo de la cooperación entre las organizaciones polacas y mexicanas que participen en el desarrollo del turismo internacional."
-    },
-    {
-     "type": "text",
-     "text": "Artículo 3"
-    },
-    {
-     "type": "text",
-     "text": "Las Partes apoyarán la cooperación entre las organizaciones interesadas en el desarrollo del turismo, tanto en las formas organizadas como individuales; asi como el intercambio de grupos especializados; la organización de congresos, simposios, exposiciones y diversos eventos que fortalezcan el turismo."
-    },
-    {
-     "type": "text",
-     "text": "Artículo 4"
-    },
-    {
-     "type": "text",
-     "text": "Las Partes velarán por la simplificación de los requerimientos fronterizos, arancelarios y otros relacionados con el intercambio turístico entre ambos países."
-    },
-    {
-     "type": "text",
-     "text": "Artículo 5"
-    },
-    {
-     "type": "text",
-     "text": "Las Partes apoyarán el intercambio de información en las siguientes áreas:"
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "legislación nacional que regula la actividad turística;",
+     "path": "art_5/ust_1",
+     "text": "Las Partes, con el objetivo del mejor conocimiento de la vida, la historia y la cultura de los pueblos de ambos países, van a apoyar todas las formas de cooperación en materia de turismo.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "akty normatywne związane z ochroną przyrody oraz dóbr kultury;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "statystyka turystyczna;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_2/pkt_4",
-     "text": "doświadczenia w zakresie obsługi turystów.",
+     "path": "art_5/ust_2",
+     "text": "La cooperación en materia de turismo será realizada de acuerdo con lo establecido en el presente Convenio y de conformidad con la legislación nacional de cada Parte.",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 6"
+       "text": "Artículo 2"
       },
       {
        "type": "text",
-       "text": "Strony będą sprzyjać wymianie specjalistów oraz pracowników naukowych specjalizujących się w turystyce, a także współpracy instytucji prowadzących badania w dziedzinie turystyki, w szczególności w zakresie turystyki proekologicznej i historycznej."
+       "text": "Las Partes se comprometen a crear condiciones favorables para el establecimiento y desarrollo de la cooperación entre las organizaciones polacas y mexicanas que participen en el desarrollo del turismo internacional."
       },
       {
        "type": "text",
-       "text": "Artykuł 7"
+       "text": "Artículo 3"
       },
       {
        "type": "text",
-       "text": "Strony będą popierać działania mające na celu:"
+       "text": "Las Partes apoyarán la cooperación entre las organizaciones interesadas en el desarrollo del turismo, tanto en las formas organizadas como individuales; asi como el intercambio de grupos especializados; la organización de congresos, simposios, exposiciones y diversos eventos que fortalezcan el turismo."
+      },
+      {
+       "type": "text",
+       "text": "Artículo 4"
+      },
+      {
+       "type": "text",
+       "text": "Las Partes velarán por la simplificación de los requerimientos fronterizos, arancelarios y otros relacionados con el intercambio turístico entre ambos países."
+      },
+      {
+       "type": "text",
+       "text": "Artículo 5"
+      },
+      {
+       "type": "text",
+       "text": "Las Partes apoyarán el intercambio de información en las siguientes áreas:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_5/ust_2/pkt_1",
+       "text": "legislación nacional que regula la actividad turística;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_2/pkt_2",
+       "text": "akty normatywne związane z ochroną przyrody oraz dóbr kultury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_5/ust_2/pkt_3",
+       "text": "statystyka turystyczna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_5/ust_2/pkt_4",
+       "text": "doświadczenia w zakresie obsługi turystów.",
+       "children": []
       }
      ]
-    },
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strony będą sprzyjać wymianie specjalistów oraz pracowników naukowych specjalizujących się w turystyce, a także współpracy instytucji prowadzących badania w dziedzinie turystyki, w szczególności w zakresie turystyki proekologicznej i historycznej.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą popierać działania mające na celu:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_7/pkt_1",
      "text": "prowadzenie kampanii promocyjnych w dziedzinie turystyki;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_7/pkt_2",
      "text": "udział w targach turystycznych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_2/pkt_3",
+     "path": "art_7/pkt_3",
      "text": "organizację pobytów studyjnych dla przedstawicieli organizacji turystycznych oraz dziennikarzy;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_2/pkt_4",
+     "path": "art_7/pkt_4",
      "text": "organizowanie seminariów i warsztatów turystycznych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "ust_2/pkt_5",
+     "path": "art_7/pkt_5",
      "text": "wymianę i dystrybucję materiałów promocyjnych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Każda ze Stron będzie sprzyjać powstawaniu na terytorium swojego Państwa ośrodków informacji turystycznej drugiej Strony."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą rozwijać współpracę w ramach Światowej Organizacji Turystyki (WTO) i innych międzynarodowych organizacji turystycznych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 10"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu zapewnienia należytego wykonania umowy, a także rozwiązywania problemów mogących powstać w toku jej realizacji, Strony utworzą Komisję Mieszaną do spraw Współpracy w Dziedzinie Turystyki, zwaną dalej „Komisją”.",
-   "children": []
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Każda ze Stron będzie sprzyjać powstawaniu na terytorium swojego Państwa ośrodków informacji turystycznej drugiej Strony.",
+   "children": [],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja zbierze się po raz pierwszy w ciągu sześciu miesięcy od dnia wejścia w życie umowy, a następnie zbierać się będzie w miarę potrzeby, na pisemny wniosek jednej ze Stron, na przemian w Rzeczypospolitej Polskiej i Meksykańskich Stanach Zjednoczonych, w terminach uzgadnianych przez Strony drogą dyplomatyczną.",
-   "children": []
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Strony będą rozwijać współpracę w ramach Światowej Organizacji Turystyki (WTO) i innych międzynarodowych organizacji turystycznych.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja na swym pierwszym posiedzeniu opracuje regulamin, w którym określi tryb pracy.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
    "children": [
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "legislación relacionada con la protección de los recursos naturales y de los bienes culturales;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "estadística turística, y",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_3/pkt_4",
-     "text": "experiencias en los servicios turísticos.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artículo 6"
-      },
-      {
-       "type": "text",
-       "text": "Las Partes apoyarán el intercambio de expertos e investigadores en materia de turismo, así como la cooperación entre las instituciones que realizan investigaciones en materia de turismo, particularmente en el campo del turismo ecológico e histórico."
-      },
-      {
-       "type": "text",
-       "text": "Artículo 7"
-      },
-      {
-       "type": "text",
-       "text": "Las Partes apoyarán las acciones que tienen como objetivo:"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "efectuar campañas de promoción en materia de turismo;",
+     "path": "art_10/ust_1",
+     "text": "W celu zapewnienia należytego wykonania umowy, a także rozwiązywania problemów mogących powstać w toku jej realizacji, Strony utworzą Komisję Mieszaną do spraw Współpracy w Dziedzinie Turystyki, zwaną dalej „Komisją”.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "participar en ferias turísticas;",
+     "path": "art_10/ust_2",
+     "text": "Komisja zbierze się po raz pierwszy w ciągu sześciu miesięcy od dnia wejścia w życie umowy, a następnie zbierać się będzie w miarę potrzeby, na pisemny wniosek jednej ze Stron, na przemian w Rzeczypospolitej Polskiej i Meksykańskich Stanach Zjednoczonych, w terminach uzgadnianych przez Strony drogą dyplomatyczną.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "organizar viajes de familiarización para representantes de agencias turísticas y periodistas;",
+     "path": "art_10/ust_3",
+     "text": "Komisja na swym pierwszym posiedzeniu opracuje regulamin, w którym określi tryb pracy.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_10/ust_3/pkt_2",
+       "text": "legislación relacionada con la protección de los recursos naturales y de los bienes culturales;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_10/ust_3/pkt_3",
+       "text": "estadística turística, y",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_10/ust_3/pkt_4",
+       "text": "experiencias en los servicios turísticos.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Artículo 6"
+        },
+        {
+         "type": "text",
+         "text": "Las Partes apoyarán el intercambio de expertos e investigadores en materia de turismo, así como la cooperación entre las instituciones que realizan investigaciones en materia de turismo, particularmente en el campo del turismo ecológico e histórico."
+        },
+        {
+         "type": "text",
+         "text": "Artículo 7"
+        },
+        {
+         "type": "text",
+         "text": "Las Partes apoyarán las acciones que tienen como objetivo:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_10/ust_3/pkt_1",
+       "text": "efectuar campañas de promoción en materia de turismo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_10/ust_3/pkt_2",
+       "text": "participar en ferias turísticas;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_10/ust_3/pkt_3",
+       "text": "organizar viajes de familiarización para representantes de agencias turísticas y periodistas;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_10/ust_3/pkt_4",
+       "text": "organizar seminarios y talleres turísticos;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_10/ust_3/pkt_5",
+       "text": "intercambiar y distribuir material de promoción.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Artículo 8"
+        },
+        {
+         "type": "text",
+         "text": "Cada Parte apoyará el establecimiento en su territorio de centros de información turística de la otra Parte."
+        },
+        {
+         "type": "text",
+         "text": "Artículo 9"
+        },
+        {
+         "type": "text",
+         "text": "Las Partes desarrollarán la cooperación en el marco de la OMT y de otras organizaciones turísticas internacionales."
+        },
+        {
+         "type": "text",
+         "text": "Artículo 10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Para asegurar la debida ejecución del presente Convenio, así como solucionar los problemas que pueden surgir durante su realización, las Partes establecerán una Comisión Mixta de Cooperación Turística, en adelante denominada „la Comisión”.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "La Comisión se reunirá por primera vez dentro de los seis meses siguientes a partir de la fecha de entrada en vigor del presente Convenio, y subsecuentemente se reunirá según las necesidades y a solicitud por escrito de una de las Partes, alternativamente en la República de Polonia y en los Estados Unidos Mexicanos, en las fechas acordadas por las Partes a través de la vía diplomática.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Durante su primera reunión la Comisión elaborará el reglamento que determinará el área de su trabajo.",
+     "children": []
+    },
+    {
+     "type": "ust",
      "num": "4",
-     "path": "ust_3/pkt_4",
-     "text": "organizar seminarios y talleres turísticos;",
+     "path": "art_10/ust_4",
+     "text": "Komisja składać się będzie z wyznaczonych przez Strony przedstawicieli, zajmujących się działalnością w dziedzinie turystyki.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem Państwa każdej ze Stron, co zostanie stwierdzone w drodze wymiany not.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_3/pkt_5",
-     "text": "intercambiar y distribuir material de promoción.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Umowa wejdzie w życie z dniem otrzymania noty późniejszej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Umowa niniejsza zawarta jest na okres pięciu lat i ulega automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna ze Stron nie wypowie jej, w drodze notyfikacji, najpóźniej na sześć miesięcy przed upływem danego okresu obowiązywania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Umowa niniejsza może być zmieniona za pisemną zgodą obu Stron. Wspomniane zmiany wejdą w życie po wzajemnym powiadomieniu przez Strony o wypełnieniu wewnętrznych procedur.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane w czasie obowiązywania umowy, aż do czasu ich zakończenia.",
      "children": [
       {
        "type": "text",
-       "text": "Artículo 8"
+       "text": "PODPISANO w Warszawie dnia 14 maja 2004 r. w dwóch egzemplarzach, w językach polskim i hiszpańskim, przy czym oba teksty mają jednakową moc."
       },
       {
        "type": "text",
-       "text": "Cada Parte apoyará el establecimiento en su territorio de centros de información turística de la otra Parte."
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Meksykańskich Stanów Polskiej Zjednoczonych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "La Comisión será integrada por los representantes indicados por las Partes que desarrollan actividad en el campo de turismo.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artículo 11"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "El presente Convenio será sometido a la aprobación de conformidad con la legislación nacional de cada Parte, lo que será comunicado a través del intercambio de notas.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "El presente Convenio entrará en vigor en la fecha de recepción de la última notificación.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artículo 12"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "El presente Convenio tendrá una vigencia de cinco (5) años, prorrogables automáticamente por periodos de igual duración, a menos que una de las Partes comunique por escrito a la Otra su decisión de darlo por terminado, a través de la vía diplomática, con seis meses de antelación.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "El presente Convenio podrá ser modificado mediante el consentimiento escrito de las Partes. Dichas modificaciones entrarán en vigor una vez que las Partes se hayan comunicado el cumplimiento de sus procedimientos internos.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "La terminación del presente Convenio no afectará los programas y proyectos que hubiesen sido acordados y realizados durante su vigencia; hasta su conclusión.",
+     "children": [
+      {
+       "type": "text",
+       "text": "FIRMADO en la Ciudad de Varsovia el 14 de mayo de 2004, en dos ejemplares en los idiomas polaco y español, siendo ambos textos igualmente auténticos."
       },
       {
        "type": "text",
-       "text": "Artículo 9"
+       "text": "Por el Gobierno de la Por el Gobierno de los República de Polonia Estados Unidos Mexicanos"
       },
       {
        "type": "text",
-       "text": "Las Partes desarrollarán la cooperación en el marco de la OMT y de otras organizaciones turísticas internacionales."
+       "text": "237"
       },
       {
        "type": "text",
-       "text": "Artículo 10"
+       "text": "OŚWIADCZENIE RZĄDOWE"
+      },
+      {
+       "type": "text",
+       "text": "z dnia 31 stycznia 2005 r."
+      },
+      {
+       "type": "text",
+       "text": "w sprawie zatwierdzenia Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Meksykańskich Stanów Zjednoczonych o współpracy w dziedzinie turystyki, podpisanej w Warszawie dnia 14 maja 2004 r."
+      },
+      {
+       "type": "text",
+       "text": "Podaje się niniejszym do wiadomości, że na podstawie art. 12 ust. 3 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443 oraz z 2002 r. Nr 216, poz. 1824) Rada Ministrów Rzeczypospolitej Polskiej zatwierdziła w dniu 5 sierpnia 2004 r. Umowę między Rządem Rzeczypospolitej Polskiej a Rządem Meksykańskich Stanów Zjednoczonych o współpracy w dziedzinie turystyki, podpisaną w Warszawie dnia 14 maja 2004 r."
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 11 umowy weszła ona w życie w dniu 7 grudnia 2004 r."
       }
      ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Para asegurar la debida ejecución del presente Convenio, así como solucionar los problemas que pueden surgir durante su realización, las Partes establecerán una Comisión Mixta de Cooperación Turística, en adelante denominada „la Comisión”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "La Comisión se reunirá por primera vez dentro de los seis meses siguientes a partir de la fecha de entrada en vigor del presente Convenio, y subsecuentemente se reunirá según las necesidades y a solicitud por escrito de una de las Partes, alternativamente en la República de Polonia y en los Estados Unidos Mexicanos, en las fechas acordadas por las Partes a través de la vía diplomática.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Durante su primera reunión la Comisión elaborará el reglamento que determinará el área de su trabajo.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Komisja składać się będzie z wyznaczonych przez Strony przedstawicieli, zajmujących się działalnością w dziedzinie turystyki.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem Państwa każdej ze Stron, co zostanie stwierdzone w drodze wymiany not.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umowa wejdzie w życie z dniem otrzymania noty późniejszej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza zawarta jest na okres pięciu lat i ulega automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna ze Stron nie wypowie jej, w drodze notyfikacji, najpóźniej na sześć miesięcy przed upływem danego okresu obowiązywania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umowa niniejsza może być zmieniona za pisemną zgodą obu Stron. Wspomniane zmiany wejdą w życie po wzajemnym powiadomieniu przez Strony o wypełnieniu wewnętrznych procedur.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane w czasie obowiązywania umowy, aż do czasu ich zakończenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "PODPISANO w Warszawie dnia 14 maja 2004 r. w dwóch egzemplarzach, w językach polskim i hiszpańskim, przy czym oba teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Meksykańskich Stanów Polskiej Zjednoczonych"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "La Comisión será integrada por los representantes indicados por las Partes que desarrollan actividad en el campo de turismo.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artículo 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "El presente Convenio será sometido a la aprobación de conformidad con la legislación nacional de cada Parte, lo que será comunicado a través del intercambio de notas.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "El presente Convenio entrará en vigor en la fecha de recepción de la última notificación.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artículo 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "El presente Convenio tendrá una vigencia de cinco (5) años, prorrogables automáticamente por periodos de igual duración, a menos que una de las Partes comunique por escrito a la Otra su decisión de darlo por terminado, a través de la vía diplomática, con seis meses de antelación.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "El presente Convenio podrá ser modificado mediante el consentimiento escrito de las Partes. Dichas modificaciones entrarán en vigor una vez que las Partes se hayan comunicado el cumplimiento de sus procedimientos internos.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "La terminación del presente Convenio no afectará los programas y proyectos que hubiesen sido acordados y realizados durante su vigencia; hasta su conclusión.",
-   "children": [
-    {
-     "type": "text",
-     "text": "FIRMADO en la Ciudad de Varsovia el 14 de mayo de 2004, en dos ejemplares en los idiomas polaco y español, siendo ambos textos igualmente auténticos."
-    },
-    {
-     "type": "text",
-     "text": "Por el Gobierno de la Por el Gobierno de los República de Polonia Estados Unidos Mexicanos"
-    },
-    {
-     "type": "text",
-     "text": "237"
-    },
-    {
-     "type": "text",
-     "text": "OŚWIADCZENIE RZĄDOWE"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 31 stycznia 2005 r."
-    },
-    {
-     "type": "text",
-     "text": "w sprawie zatwierdzenia Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Meksykańskich Stanów Zjednoczonych o współpracy w dziedzinie turystyki, podpisanej w Warszawie dnia 14 maja 2004 r."
-    },
-    {
-     "type": "text",
-     "text": "Podaje się niniejszym do wiadomości, że na podstawie art. 12 ust. 3 ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. Nr 39, poz. 443 oraz z 2002 r. Nr 216, poz. 1824) Rada Ministrów Rzeczypospolitej Polskiej zatwierdziła w dniu 5 sierpnia 2004 r. Umowę między Rządem Rzeczypospolitej Polskiej a Rządem Meksykańskich Stanów Zjednoczonych o współpracy w dziedzinie turystyki, podpisaną w Warszawie dnia 14 maja 2004 r."
-    },
-    {
-     "type": "text",
-     "text": "Zgodnie z art. 11 umowy weszła ona w życie w dniu 7 grudnia 2004 r."
-    }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
    "type": "signature",

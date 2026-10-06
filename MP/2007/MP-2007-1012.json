@@ -33,74 +33,75 @@
    "text": "Rząd Rzeczypospolitej Polskiej oraz Rząd Syryjskiej Republiki Arabskiej, zwane dalej łącznie „Umawiającymi się Stronami”, wspólnie uzgodniły wprowadzenie następujących zmian do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Syryjskiej Republiki Arabskiej w sprawie spłaty i restrukturyzacji zadłużenia Syryjskiej Republiki Arabskiej wobec Rzeczypospolitej Polskiej z dnia 16 grudnia 2004 r., zwanej dalej „Umową z dnia 16 grudnia 2004 r.”:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Waluta płatności"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Począwszy od dnia podpisania niniejszego porozumienia wszystkie kwoty wymienione w artykule 4 Umowy z dnia 16 grudnia 2004 r. będą płatne w euro.",
+   "path": "art_1",
+   "text": "Waluta płatności",
    "children": [
     {
-     "type": "text",
-     "text": "AGREEMENT"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Począwszy od dnia podpisania niniejszego porozumienia wszystkie kwoty wymienione w artykule 4 Umowy z dnia 16 grudnia 2004 r. będą płatne w euro.",
+     "children": [
+      {
+       "type": "text",
+       "text": "AGREEMENT"
+      },
+      {
+       "type": "text",
+       "text": "between the Government of the Republic of Poland and the Government of the Syrian Arab Republic on the amendment to the Agreement between the Government of the Republic of Poland and the Government of the Syrian Arab Republic on repayment and restructuring of the debt of the Syrian Arab Republic towards the Republic of Poland"
+      },
+      {
+       "type": "text",
+       "text": "The Government of the Republic of Poland and the Government of the Syrian Arab Republic hereinafter collectively referred to as „Contracting Parties”, have agreed on introducing the following amendments to the Agreement between the Government of the Republic of Poland and the Government of the Syrian Arab Republic on repayment and restructuring of the debt of the Syrian Arab Republic towards the Republic of Poland dated 16 th December, 2004, henceforth called „Agreement dated 16 th December, 2004”:"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "text",
+       "text": "Payment Currency"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "between the Government of the Republic of Poland and the Government of the Syrian Arab Republic on the amendment to the Agreement between the Government of the Republic of Poland and the Government of the Syrian Arab Republic on repayment and restructuring of the debt of the Syrian Arab Republic towards the Republic of Poland"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "As from the date of signing this Agreement, all amounts mentioned in Article 4 of the Agreement dated 16 th December, 2004 shall be paid in EURO.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "The Government of the Republic of Poland and the Government of the Syrian Arab Republic hereinafter collectively referred to as „Contracting Parties”, have agreed on introducing the following amendments to the Agreement between the Government of the Republic of Poland and the Government of the Syrian Arab Republic on repayment and restructuring of the debt of the Syrian Arab Republic towards the Republic of Poland dated 16 th December, 2004, henceforth called „Agreement dated 16 th December, 2004”:"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "Payment Currency"
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Przypadające do zapłaty kwoty w USD będą przeliczane na euro według kursu Europejskiego Banku Centralnego „EURO Foreign Exchange Reference Rates”, publikowanego przez Reutersa na stronie ECB 37 dwa dni robocze przed datą zapadalności.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "As from the date of signing this Agreement, all amounts mentioned in Article 4 of the Agreement dated 16 th December, 2004 shall be paid in EURO.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Przypadające do zapłaty kwoty w USD będą przeliczane na euro według kursu Europejskiego Banku Centralnego „EURO Foreign Exchange Reference Rates”, publikowanego przez Reutersa na stronie ECB 37 dwa dni robocze przed datą zapadalności.",
+   "path": "art_2",
+   "text": "Utrzymanie w mocy",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Utrzymanie w mocy"
-    },
     {
      "type": "text",
      "text": "Wszystkie pozostałe postanowienia Umowy z dnia 16 grudnia 2004 r. niezmienione niniejszym porozumieniem pozostają w mocy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Data wejścia w życie"
-    },
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Data wejścia w życie",
+   "children": [
     {
      "type": "text",
      "text": "Niniejsze porozumienie wchodzi w życie z dniem podpisania."
@@ -116,52 +117,53 @@
     {
      "type": "text",
      "text": "J. Chodorowicz M. Al-Hussein"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Amounts due for payment in USD shall be calculated in EURO using the exchange rate of the European Central Bank „EURO Foreign Exchange Reference Rates” published by Reuters ECB 37 two working days before due date.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "Maintenance of Rights"
+      },
+      {
+       "type": "text",
+       "text": "All other items of the Agreement dated 16 th December, 2004 that are not affected by this Agreement shall remain in force."
+      },
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "Effectiveness Date"
+      },
+      {
+       "type": "text",
+       "text": "This Agreement shall enter into force as of the date of signing."
+      },
+      {
+       "type": "text",
+       "text": "DONE at Damascus on October 31,2006 in two originals in English, both being equally authentic."
+      },
+      {
+       "type": "text",
+       "text": "On behalf On behalf of the Government of the Government of the Republic of Poland of the Syrian Arab Republic"
+      },
+      {
+       "type": "text",
+       "text": "J. Chodorowicz M. Al-Hussein"
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Amounts due for payment in USD shall be calculated in EURO using the exchange rate of the European Central Bank „EURO Foreign Exchange Reference Rates” published by Reuters ECB 37 two working days before due date.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 2"
-    },
-    {
-     "type": "text",
-     "text": "Maintenance of Rights"
-    },
-    {
-     "type": "text",
-     "text": "All other items of the Agreement dated 16 th December, 2004 that are not affected by this Agreement shall remain in force."
-    },
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "Effectiveness Date"
-    },
-    {
-     "type": "text",
-     "text": "This Agreement shall enter into force as of the date of signing."
-    },
-    {
-     "type": "text",
-     "text": "DONE at Damascus on October 31,2006 in two originals in English, both being equally authentic."
-    },
-    {
-     "type": "text",
-     "text": "On behalf On behalf of the Government of the Government of the Republic of Poland of the Syrian Arab Republic"
-    },
-    {
-     "type": "text",
-     "text": "J. Chodorowicz M. Al-Hussein"
-    }
-   ]
+   ],
+   "label": "Artykuł 3"
   }
  ],
  "annexes": [],

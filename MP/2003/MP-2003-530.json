@@ -37,244 +37,269 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Ruch graniczny między Rzecząpospolitą Polską i Ukrainą odbywa się przez następujące przejścia graniczne:",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "kolejowe:",
+     "path": "art_1/ust_1",
+     "text": "Ruch graniczny między Rzecząpospolitą Polską i Ukrainą odbywa się przez następujące przejścia graniczne:",
      "children": [
       {
-       "type": "text",
-       "text": "1.1. Dorohusk — Jagodzin,"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_1/pkt_1",
+       "text": "kolejowe:",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.1. Dorohusk — Jagodzin,"
+        },
+        {
+         "type": "text",
+         "text": "1.2. Hrubieszów — Włodzimierz Wołyński,"
+        },
+        {
+         "type": "text",
+         "text": "1.3. Przemyśl — Mościska;"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "1.2. Hrubieszów — Włodzimierz Wołyński,"
-      },
-      {
-       "type": "text",
-       "text": "1.3. Przemyśl — Mościska;"
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_1/pkt_2",
+       "text": "drogowe:",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.1. Dorohusk — Jagodzin,"
+        },
+        {
+         "type": "text",
+         "text": "2.2. Hrebenne — Rawa Ruska,"
+        },
+        {
+         "type": "text",
+         "text": "2.3. Medyka — Szeginie."
+        }
+       ]
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "drogowe:",
-     "children": [
-      {
-       "type": "text",
-       "text": "2.1. Dorohusk — Jagodzin,"
-      },
-      {
-       "type": "text",
-       "text": "2.2. Hrebenne — Rawa Ruska,"
-      },
-      {
-       "type": "text",
-       "text": "2.3. Medyka — Szeginie."
-      }
-     ]
+     "path": "art_1/ust_2",
+     "text": "Przejścia graniczne, wymienione w ustępie 1, są dostępne do przekraczania granicy państwowej przez osoby, środki transportu i towary bez względu na ich przynależność państwową w ciągu całej doby.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Przejścia graniczne, wymienione w ustępie 1, są dostępne do przekraczania granicy państwowej przez osoby, środki transportu i towary bez względu na ich przynależność państwową w ciągu całej doby.",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przekraczanie granicy państwowej przez osoby w drogowych przejściach granicznych odbywa się środkami transportu lub pieszo.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przekraczanie granicy państwowej pieszo w czynnych drogowych przejściach granicznych odbywa się na specjalnie wydzielonych pasach ruchu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony zobowiązują się podjąć niezbędne kroki dla prawidłowego funkcjonowania istniejących przejść granicznych, uwzględniając przewidywany wzrost ilości przekroczeń granicy przez osoby, w tym w ruchu pieszym, środki transportu i towary."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony zobowiązują się otworzyć dla całodobowego ruchu ciężarowych środków transportu i towarów, bez względu na ich przynależność państwową, następujące przejścia graniczne:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "kolejowe, Werhrata — Rawa Ruska,",
+     "path": "art_2/ust_1",
+     "text": "Przekraczanie granicy państwowej przez osoby w drogowych przejściach granicznych odbywa się środkami transportu lub pieszo.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "drogowe, Korczowa — Krakowiec.",
+     "path": "art_2/ust_2",
+     "text": "Przekraczanie granicy państwowej pieszo w czynnych drogowych przejściach granicznych odbywa się na specjalnie wydzielonych pasach ruchu.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przed otwarciem przejść granicznych, wyszczególnionych w ustępie 1, każda z Umawiających się Stron przygotuje na terytorium swego państwa odpowiednią infrastrukturę, uwzględniając przewidywany wzrost ruchu środków transportu i towarów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przy projektowaniu oraz podczas budowy obiektów przejść granicznych kompetentne organy Umawiających się Stron będą po wzajemnym porozumieniu się przewidywać możliwość stworzenia warunków do jednoczesnego przeprowadzenia granicznej, celnej i innych rodzajów kontroli przez właściwe organy obu Umawiających się Stron, na terytorium jednego lub drugiego państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Założenia projektowe i projekty realizacyjne obiektów przejść granicznych podlegają wzajemnemu uzgodnieniu przez właściwe organy Umawiających się Stron.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Uwzględniając interesy obu państw, właściwe organy Umawiających się Stron wszechstronnie współdziałają na rzecz usprawnienia ruchu granicznego, optymalnego wykorzystania istniejących oraz otwarcia nowych dogodnie położonych przejść granicznych. Przy realizacji tych zadań właściwe organy Umawiających się Stron przestrzegają zasad zawartych w artykule 5 niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Utworzenie nowych, otwarcie lub zamknięcie przejść granicznych, a także zawieszenie, ograniczenie lub rozszerzenie rodzajów ruchu w czynnych przejściach granicznych odbywa się na podstawie wzajemnego uzgodnienia w drodze wymiany not."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony mogą zawiesić lub ograniczyć ruch graniczny w poszczególnych przejściach granicznych z ważnych względów sanitarno-zdrowotnych, zagrożenia bezpieczeństwa publicznego bądź z powodu klęsk żywiołowych. Umawiająca się Strona zamierzająca zawiesić lub ograniczyć ruch graniczny zawiadamia o tym drugą Umawiającą się Stronę nie później niż na pięć dni przed planowanym jego zawieszeniem lub ograniczeniem.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadkach niecierpiących zwłoki powiadomienie, o którym mowa w ustępie 1, powinno nastąpić nie później niż na dwadzieścia cztery godziny przed planowanym zawieszeniem lub ograniczeniem ruchu granicznego.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "O zawieszeniu lub ograniczeniu ruchu granicznego w związku z zaplanowanym remontem obiektów przejść granicznych lub urządzeń komunikacyjnych Umawiające się Strony informują się wzajemnie nie później niż na trzy miesiące przed rozpoczęciem prac remontowych, podając termin ich zakończenia.",
+   "path": "art_3",
+   "text": "Umawiające się Strony zobowiązują się podjąć niezbędne kroki dla prawidłowego funkcjonowania istniejących przejść granicznych, uwzględniając przewidywany wzrost ilości przekroczeń granicy przez osoby, w tym w ruchu pieszym, środki transportu i towary.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Umawiające się Strony zobowiązują się otworzyć dla całodobowego ruchu ciężarowych środków transportu i towarów, bez względu na ich przynależność państwową, następujące przejścia graniczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_1/pkt_1",
+       "text": "kolejowe, Werhrata — Rawa Ruska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_1/pkt_2",
+       "text": "drogowe, Korczowa — Krakowiec.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Komendant Główny Straży Granicznej Rzeczypospolitej Polskiej i Przewodniczący Państwowego Komitetu do spraw Ochrony Granicy Państwowej Ukrainy, po wzajemnym porozumieniu się i uzgodnieniu z właściwymi organami swoich państw, mogą w uzasadnionych przypadkach, przy zachowaniu odpowiednich wymogów i kontroli, zezwolić na przekroczenie granicy państwowej:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Przed otwarciem przejść granicznych, wyszczególnionych w ustępie 1, każda z Umawiających się Stron przygotuje na terytorium swego państwa odpowiednią infrastrukturę, uwzględniając przewidywany wzrost ruchu środków transportu i towarów.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Przy projektowaniu oraz podczas budowy obiektów przejść granicznych kompetentne organy Umawiających się Stron będą po wzajemnym porozumieniu się przewidywać możliwość stworzenia warunków do jednoczesnego przeprowadzenia granicznej, celnej i innych rodzajów kontroli przez właściwe organy obu Umawiających się Stron, na terytorium jednego lub drugiego państwa.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Założenia projektowe i projekty realizacyjne obiektów przejść granicznych podlegają wzajemnemu uzgodnieniu przez właściwe organy Umawiających się Stron.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Uwzględniając interesy obu państw, właściwe organy Umawiających się Stron wszechstronnie współdziałają na rzecz usprawnienia ruchu granicznego, optymalnego wykorzystania istniejących oraz otwarcia nowych dogodnie położonych przejść granicznych. Przy realizacji tych zadań właściwe organy Umawiających się Stron przestrzegają zasad zawartych w artykule 5 niniejszej umowy.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Utworzenie nowych, otwarcie lub zamknięcie przejść granicznych, a także zawieszenie, ograniczenie lub rozszerzenie rodzajów ruchu w czynnych przejściach granicznych odbywa się na podstawie wzajemnego uzgodnienia w drodze wymiany not.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Umawiające się Strony mogą zawiesić lub ograniczyć ruch graniczny w poszczególnych przejściach granicznych z ważnych względów sanitarno-zdrowotnych, zagrożenia bezpieczeństwa publicznego bądź z powodu klęsk żywiołowych. Umawiająca się Strona zamierzająca zawiesić lub ograniczyć ruch graniczny zawiadamia o tym drugą Umawiającą się Stronę nie później niż na pięć dni przed planowanym jego zawieszeniem lub ograniczeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "W przypadkach niecierpiących zwłoki powiadomienie, o którym mowa w ustępie 1, powinno nastąpić nie później niż na dwadzieścia cztery godziny przed planowanym zawieszeniem lub ograniczeniem ruchu granicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "O zawieszeniu lub ograniczeniu ruchu granicznego w związku z zaplanowanym remontem obiektów przejść granicznych lub urządzeń komunikacyjnych Umawiające się Strony informują się wzajemnie nie później niż na trzy miesiące przed rozpoczęciem prac remontowych, podając termin ich zakończenia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Komendant Główny Straży Granicznej Rzeczypospolitej Polskiej i Przewodniczący Państwowego Komitetu do spraw Ochrony Granicy Państwowej Ukrainy, po wzajemnym porozumieniu się i uzgodnieniu z właściwymi organami swoich państw, mogą w uzasadnionych przypadkach, przy zachowaniu odpowiednich wymogów i kontroli, zezwolić na przekroczenie granicy państwowej:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_9/pkt_1",
      "text": "w przejściach granicznych, w których nie przewiduje się tego rodzaju przekroczeń granicy państwowej,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_9/pkt_2",
      "text": "poza czynnymi przejściami granicznymi.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Niniejsza umowa podlega zatwierdzeniu przez Rząd Rzeczypospolitej Polskiej oraz Rząd Ukrainy i wejdzie w życie po dokonaniu wymiany not, powiadamiających o tym zatwierdzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Niniejsza umowa zawarta jest na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku umowa utraci moc po upływie dwunastu miesięcy od dnia takiej notyfikacji.",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 10"
+       "text": "Niniejszą umowę sporządzono w Warszawie dnia 18 maja 1992 r. w dwóch egzemplarzach, każdy w językach polskim i ukraińskim, przy czym obydwa teksty mają jednakową moc."
+      },
+      {
+       "type": "text",
+       "text": "Za Rząd Za Rząd Rzeczypospolitej Polskiej Ukrainy"
+      },
+      {
+       "type": "note",
+       "text": "[Strony 3-8 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
       }
      ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega zatwierdzeniu przez Rząd Rzeczypospolitej Polskiej oraz Rząd Ukrainy i wejdzie w życie po dokonaniu wymiany not, powiadamiających o tym zatwierdzeniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa zawarta jest na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku umowa utraci moc po upływie dwunastu miesięcy od dnia takiej notyfikacji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Niniejszą umowę sporządzono w Warszawie dnia 18 maja 1992 r. w dwóch egzemplarzach, każdy w językach polskim i ukraińskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Za Rząd Za Rząd Rzeczypospolitej Polskiej Ukrainy"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 3-8 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    }
-   ]
+   ],
+   "label": "Artykuł 10"
   }
  ],
  "annexes": [],

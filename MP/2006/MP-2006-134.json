@@ -25,102 +25,104 @@
    "text": "W celu rozwoju przyjacielskich stosunków w dziedzinie kultury między narodami swoich krajów, w oparciu o artykuł 21 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Chorwacji o współpracy w dziedzinie kultury i edukacji, podpisanej w Zagrzebiu dnia 14 września 1995 r., Minister Kultury Rzeczypospolitej Polskiej oraz Ministerstwo Kultury Republiki Chorwacji, zwani dalej „Stronami”, uzgodnili niniejszy Program współpracy kulturalnej na lata 2005—2007."
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "We wszystkich dziedzinach kultury i sztuki Strony wspierać będą różne formy współpracy oraz wymiany przyczyniające się do lepszego wzajemnego poznania i zbliżenia."
-  },
-  {
-   "type": "text",
-   "text": "PROGRAM kulturne suradnje izmedu - Ministra kulture Republike Poljske i Ministarstva kulture Republike Hrvatske za godine 2005 — 2007"
-  },
-  {
-   "type": "text",
-   "text": "Ucilju razvijanja prijateljskih odnosa izmedunaro- - da dviju zemalja na području kulture, pozivajući se na članak 21. Ugovora izmedu - Vlade Republike Poljske i Vlade Republike Hrvatske o kulturnoj i prosvjetnoj suradnji, koji je potpisan uZagrebu 14. rujna 1995. godine, Ministar kulture Republike Poljske iMinistarstvo kulture Republike Hrvatske (u daljnjem tekstu: stranke) dogovorili su sljedeći Program kulturne suradnje za godine 2005—2007."
-  },
-  {
-   "type": "text",
-   "text": "Članak 1"
-  },
-  {
-   "type": "text",
-   "text": "Stranke će poticati različite oblike i sadržaje suradnje irazmjene, na svim područjima kulture iumjetnosti, koji pridonose boljem medusobnom upoznavanju i zbližavanju."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Strony wspierać będą wymianę w dziedzinie sztuk plastycznych oraz wystaw muzealnych, które zostaną uzgodnione bezpośrednio przez zainteresowane galerie i muzea."
-  },
-  {
-   "type": "text",
-   "text": "W czasie obowiązywania tego programu Strony przewidują wymianę następujących wystaw:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "„Wojownicy pomiędzy Wschodem i Zachodem — późna epoka żelaza na terenie kontynentalnej Chorwacji” w Państwowym Muzeum Archeologicznym w Warszawie, organizatorem będzie Muzeum Archeologiczne w Zagrzebiu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "wystawa archeologiczna „Skarby średniowiecznej Polski” w Muzeum Archeologicznym w Zagrzebiu, organizatorem będzie Państwowe Muzeum Archeologiczne w Warszawie;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "„Secesja w Chorwacji” w Muzeum Narodowym w Krakowie, organizatorem będzie Muzeum Sztuki i Rzemiosła w Zagrzebiu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "„Polska tkanina artystyczna” w Muzeum Sztuki i Rzemiosła w Zagrzebiu, organizatorem będzie Centralne Muzeum Włókiennictwa w Łodzi;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "5",
-   "path": "pkt_5",
-   "text": "„Współczesny rysunek chorwacki” w Warszawie, Centrum Sztuki Współczesnej Zamek Ujazdowski, organizatorem będzie Galeria „Klovićevi dvori” w Zagrzebiu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "6",
-   "path": "pkt_6",
-   "text": "„Nowa sztuka polska” w Galerii „Klovićevi dvori” w Zagrzebiu, organizatorem będzie Centrum Sztuki Współczesnej Zamek Ujazdowski.",
+   "path": "art_1",
+   "text": "We wszystkich dziedzinach kultury i sztuki Strony wspierać będą różne formy współpracy oraz wymiany przyczyniające się do lepszego wzajemnego poznania i zbliżenia.",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 3"
+     "text": "PROGRAM kulturne suradnje izmedu - Ministra kulture Republike Poljske i Ministarstva kulture Republike Hrvatske za godine 2005 — 2007"
     },
     {
      "type": "text",
-     "text": "Strony prowadzić będą wymianę profesjonalnych i renomowanych amatorskich zespołów artystycznych w ramach międzynarodowych festiwali, znaczących imprez kulturalnych lub na zaproszenie drugiej Strony."
+     "text": "Ucilju razvijanja prijateljskih odnosa izmedunaro- - da dviju zemalja na području kulture, pozivajući se na članak 21. Ugovora izmedu - Vlade Republike Poljske i Vlade Republike Hrvatske o kulturnoj i prosvjetnoj suradnji, koji je potpisan uZagrebu 14. rujna 1995. godine, Ministar kulture Republike Poljske iMinistarstvo kulture Republike Hrvatske (u daljnjem tekstu: stranke) dogovorili su sljedeći Program kulturne suradnje za godine 2005—2007."
     },
+    {
+     "type": "text",
+     "text": "Članak 1"
+    },
+    {
+     "type": "text",
+     "text": "Stranke će poticati različite oblike i sadržaje suradnje irazmjene, na svim područjima kulture iumjetnosti, koji pridonose boljem medusobnom upoznavanju i zbližavanju."
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Strony wspierać będą wymianę w dziedzinie sztuk plastycznych oraz wystaw muzealnych, które zostaną uzgodnione bezpośrednio przez zainteresowane galerie i muzea.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W czasie obowiązywania tego programu Strony przewidują wymianę następujących wystaw:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "„Wojownicy pomiędzy Wschodem i Zachodem — późna epoka żelaza na terenie kontynentalnej Chorwacji” w Państwowym Muzeum Archeologicznym w Warszawie, organizatorem będzie Muzeum Archeologiczne w Zagrzebiu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "wystawa archeologiczna „Skarby średniowiecznej Polski” w Muzeum Archeologicznym w Zagrzebiu, organizatorem będzie Państwowe Muzeum Archeologiczne w Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "„Secesja w Chorwacji” w Muzeum Narodowym w Krakowie, organizatorem będzie Muzeum Sztuki i Rzemiosła w Zagrzebiu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_2/pkt_4",
+     "text": "„Polska tkanina artystyczna” w Muzeum Sztuki i Rzemiosła w Zagrzebiu, organizatorem będzie Centralne Muzeum Włókiennictwa w Łodzi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_2/pkt_5",
+     "text": "„Współczesny rysunek chorwacki” w Warszawie, Centrum Sztuki Współczesnej Zamek Ujazdowski, organizatorem będzie Galeria „Klovićevi dvori” w Zagrzebiu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_2/pkt_6",
+     "text": "„Nowa sztuka polska” w Galerii „Klovićevi dvori” w Zagrzebiu, organizatorem będzie Centrum Sztuki Współczesnej Zamek Ujazdowski.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Strony prowadzić będą wymianę profesjonalnych i renomowanych amatorskich zespołów artystycznych w ramach międzynarodowych festiwali, znaczących imprez kulturalnych lub na zaproszenie drugiej Strony.",
+   "children": [
     {
      "type": "text",
      "text": "Szczegółowe warunki wymiany, o której mowa w pierwszym akapicie niniejszego artykułu, takie jak wybór zespołu, określenie repertuaru, programu pobytu i terminu wizyty, Strony będą uzgadniać na zasadach wzajemności w drodze kontaktów roboczych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Strony wspierać będą zorganizowanie Tygodnia Filmu Polskiego w Zagrzebiu i Tygodnia Filmu Chorwackiego w Warszawie."
-    },
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony wspierać będą zorganizowanie Tygodnia Filmu Polskiego w Zagrzebiu i Tygodnia Filmu Chorwackiego w Warszawie.",
+   "children": [
     {
      "type": "text",
      "text": "Strony wspierać będą uczestnictwo kinematografii kraju partnera w międzynarodowych festiwalach filmowych, organizowanych na terenie swego kraju, zgodnie z regulaminami tych festiwali."
@@ -140,86 +142,87 @@
     {
      "type": "text",
      "text": "Stranke će za vrijeme važenja ovoga Programa podržati razmjenu sljedećih izložbi:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_4/pkt_1",
+     "text": "„Ratnici izmedu - Istoka i Zapada — Starije željezno doba u kontinentalnoj Hrvatskoj” u Državnom arheološkom muzeju uVaršavi, u organizaciji Arheološkog muzeja u Zagrebu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_4/pkt_2",
+     "text": "Arheološka izložba „Blago srednjovjekovne Poljske” uArheološkom muzeju u Zagrebu, u organizaciji Državnog arheološkog muzeja uVaršavi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_4/pkt_3",
+     "text": "„Secesija u Hrvatskoj” u Nacionalnom muzeju u Krakovu, u organizaciji Muzeja za umjetnost i obrt u Zagrebu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_4/pkt_4",
+     "text": "„Poljska umjetnička tkanina” u Muzeju za umjetnost i obrt u Zagrebu, u organizaciji Centralnog muzeja tkanina u Lodu; -",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_4/pkt_5",
+     "text": "„Suvremeni hrvatski crtež” u Varšavi, Centar suvremene umjetnosti Zamek Ujazdowsky, uorganizaciji Galerije „Klovićevi dvori” u Zagrebu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_4/pkt_6",
+     "text": "„Nova poljska umjetnost” u Galeriji „Klovićevi dvori” uZagrebu, uorganizaciji Centra suvremene umjetnosti — Zamek Ujazdowsky uVaršavi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Članak 3"
+      },
+      {
+       "type": "text",
+       "text": "Stranke će razmjenjivati umjetničke i kvalitetne amaterske ansamble na medunarodnim - festivalima, važnijim kulturnim priredbama ili na poziv druge stranke."
+      },
+      {
+       "type": "text",
+       "text": "Detaljne uvjete razmjene navedene u stavku 1. ovog članka — kao što su izbor ansambla, odredivan- - je repertoara, program boravka i termin posjeta — stranke će dogovarati uradnim kontaktima, na bazi reciprociteta."
+      },
+      {
+       "type": "text",
+       "text": "Članak 4"
+      },
+      {
+       "type": "text",
+       "text": "Stranke će podržati organiziranje Tjedna poljskog filma u Zagrebu iTjedna hrvatskog filma uVaršavi."
+      },
+      {
+       "type": "text",
+       "text": "Stranke će podržati sudjelovanje predstavnika i prikazivanje filmova na medunarodnim - filmskim festivalima koji se održavaju udvjema zemljama, uskladu s pravilnicima tih festivala."
+      },
+      {
+       "type": "text",
+       "text": "Stranke će podržati izravnu suradnju izmedu - filmskih ustanova, organizacija i producenata te suradnju izmedu - nacionalnih kinoteka i udruženja filmskih djelatnika."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "„Ratnici izmedu - Istoka i Zapada — Starije željezno doba u kontinentalnoj Hrvatskoj” u Državnom arheološkom muzeju uVaršavi, u organizaciji Arheološkog muzeja u Zagrebu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Arheološka izložba „Blago srednjovjekovne Poljske” uArheološkom muzeju u Zagrebu, u organizaciji Državnog arheološkog muzeja uVaršavi;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "„Secesija u Hrvatskoj” u Nacionalnom muzeju u Krakovu, u organizaciji Muzeja za umjetnost i obrt u Zagrebu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "„Poljska umjetnička tkanina” u Muzeju za umjetnost i obrt u Zagrebu, u organizaciji Centralnog muzeja tkanina u Lodu; -",
-   "children": []
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "5",
-   "path": "pkt_5",
-   "text": "„Suvremeni hrvatski crtež” u Varšavi, Centar suvremene umjetnosti Zamek Ujazdowsky, uorganizaciji Galerije „Klovićevi dvori” u Zagrebu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "6",
-   "path": "pkt_6",
-   "text": "„Nova poljska umjetnost” u Galeriji „Klovićevi dvori” uZagrebu, uorganizaciji Centra suvremene umjetnosti — Zamek Ujazdowsky uVaršavi.",
+   "path": "art_5",
+   "text": "Strony wspierać będą współpracę między polskimi i chorwackimi instytucjami do spraw ochrony dziedzictwa kulturowego w celu wymiany ekspertów i informacji o stanie dziedzictwa kulturowego i realizacji jego ochrony w obu krajach.",
    "children": [
-    {
-     "type": "text",
-     "text": "Članak 3"
-    },
-    {
-     "type": "text",
-     "text": "Stranke će razmjenjivati umjetničke i kvalitetne amaterske ansamble na medunarodnim - festivalima, važnijim kulturnim priredbama ili na poziv druge stranke."
-    },
-    {
-     "type": "text",
-     "text": "Detaljne uvjete razmjene navedene u stavku 1. ovog članka — kao što su izbor ansambla, odredivan- - je repertoara, program boravka i termin posjeta — stranke će dogovarati uradnim kontaktima, na bazi reciprociteta."
-    },
-    {
-     "type": "text",
-     "text": "Članak 4"
-    },
-    {
-     "type": "text",
-     "text": "Stranke će podržati organiziranje Tjedna poljskog filma u Zagrebu iTjedna hrvatskog filma uVaršavi."
-    },
-    {
-     "type": "text",
-     "text": "Stranke će podržati sudjelovanje predstavnika i prikazivanje filmova na medunarodnim - filmskim festivalima koji se održavaju udvjema zemljama, uskladu s pravilnicima tih festivala."
-    },
-    {
-     "type": "text",
-     "text": "Stranke će podržati izravnu suradnju izmedu - filmskih ustanova, organizacija i producenata te suradnju izmedu - nacionalnih kinoteka i udruženja filmskih djelatnika."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Strony wspierać będą współpracę między polskimi i chorwackimi instytucjami do spraw ochrony dziedzictwa kulturowego w celu wymiany ekspertów i informacji o stanie dziedzictwa kulturowego i realizacji jego ochrony w obu krajach."
-    },
     {
      "type": "text",
      "text": "Strony wymienią fachową wiedzę i doświadczenia wynikające z analiz i waloryzacji zespołów zabytkowych i krajobrazowych (szczególnie fortyfikacji austro-węgierskich) oraz dotyczące metod ich odnowy i zagospodarowania."
@@ -227,51 +230,53 @@
     {
      "type": "text",
      "text": "Strony będą współpracować w ramach wspólnych projektów, warsztatów, seminariów, wykładów, wystaw oraz wyjazdów studyjnych, poprzez poznawanie i korzystanie z doświadczeń polskich i chorwackich specjalistów w dziedzinie restauracji budownictwa historycznego. Liczbę specjalistów i czas trwania ich pobytu Strony uzgodnią w odrębnej umowie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą współpracować w celu niedopuszczenia do nielegalnego wwozu, wywozu i przekazywania dóbr kultury stanowiących ich dziedzictwo kulturowe, zgodnie z prawem obowiązującym w danym kraju, a także zgodnie z podpisanymi przez obie Strony konwencjami międzynarodowymi."
-    },
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strony będą współpracować w celu niedopuszczenia do nielegalnego wwozu, wywozu i przekazywania dóbr kultury stanowiących ich dziedzictwo kulturowe, zgodnie z prawem obowiązującym w danym kraju, a także zgodnie z podpisanymi przez obie Strony konwencjami międzynarodowymi.",
+   "children": [
     {
      "type": "text",
      "text": "Strony będą współpracować w dziedzinie zwrotu dóbr kultury, które zostały nielegalnie wywiezione z terytorium kraju jednej ze Stron lub zostały nielegalnie wwiezione na to terytorium."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Strony wspierać będą bezpośrednią współpracę muzeów oraz galerii określoną w umowach między zainteresowanymi instytucjami o wymianie ekspertów, publikacji oraz dokumentacji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Strony wspierać będą bezpośrednią współpracę określoną w umowie między Naczelną Dyrekcją Archiwów Państwowych i Chorwackim Archiwum Państwowym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Strony wspierać będą współpracę między Biblioteką Narodową w Warszawie oraz Biblioteką Narodową i Uniwersytecką w Zagrzebiu. Zakres i formy współpracy zostaną określone w umowie między wymienionymi instytucjami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Strony wspierać będą współpracę między stowarzyszeniami literatów oraz wymianę literatów i tłumaczy literatury."
-    },
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony wspierać będą bezpośrednią współpracę muzeów oraz galerii określoną w umowach między zainteresowanymi instytucjami o wymianie ekspertów, publikacji oraz dokumentacji.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Strony wspierać będą bezpośrednią współpracę określoną w umowie między Naczelną Dyrekcją Archiwów Państwowych i Chorwackim Archiwum Państwowym.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Strony wspierać będą współpracę między Biblioteką Narodową w Warszawie oraz Biblioteką Narodową i Uniwersytecką w Zagrzebiu. Zakres i formy współpracy zostaną określone w umowie między wymienionymi instytucjami.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Strony wspierać będą współpracę między stowarzyszeniami literatów oraz wymianę literatów i tłumaczy literatury.",
+   "children": [
     {
      "type": "text",
      "text": "Članak 5"
@@ -331,88 +336,90 @@
     {
      "type": "text",
      "text": "Stranke će podržati suradnju izmedu - udruga književnika te razmjenu književnika iknjiževnih prevoditelja."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Strony wspierać będą tłumaczenia i publikacje znaczących dzieł literackich oraz innych dzieł autorów polskich i chorwackich."
-    },
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Strony wspierać będą tłumaczenia i publikacje znaczących dzieł literackich oraz innych dzieł autorów polskich i chorwackich.",
+   "children": [
     {
      "type": "text",
      "text": "Strony wspierać będą uczestnictwo wydawców i księgarzy w spotkaniach branżowych oraz międzynarodowych targach książki w obu krajach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Zasady wymiany delegacji są następujące:"
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "najpóźniej z dwumiesięcznym wyprzedzeniem Strona wysyłająca przekaże Stronie przyjmującej dane dotyczące członków delegacji oraz potrzeb związanych z ich wizytą;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Strona przyjmująca w terminie 40 dni od otrzymania propozycji wypowie się odnośnie do akceptacji wizyty oraz jej terminu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "po otrzymaniu informacji o akceptacji wizyty, najpóźniej na 20 dni przed przybyciem delegacji, Strona wysyłająca przekaże Stronie przyjmującej dokładne dane dotyczące daty i miejsca przybycia oraz środka komunikacji.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Zasady wymiany delegacji są następujące:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_12/pkt_1",
+     "text": "najpóźniej z dwumiesięcznym wyprzedzeniem Strona wysyłająca przekaże Stronie przyjmującej dane dotyczące członków delegacji oraz potrzeb związanych z ich wizytą;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Zasady finansowania wymiany osób i zespołów są następujące:"
+     "type": "pkt",
+     "num": "2",
+     "path": "art_12/pkt_2",
+     "text": "Strona przyjmująca w terminie 40 dni od otrzymania propozycji wypowie się odnośnie do akceptacji wizyty oraz jej terminu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_12/pkt_3",
+     "text": "po otrzymaniu informacji o akceptacji wizyty, najpóźniej na 20 dni przed przybyciem delegacji, Strona wysyłająca przekaże Stronie przyjmującej dokładne dane dotyczące daty i miejsca przybycia oraz środka komunikacji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "Strona wysyłająca pokryje koszty podróży oraz przewóz rekwizytów, kostiumów i instrumentów muzycznych do pierwszej miejscowości na terenie państwa przyjmującego i z powrotem;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Strona przyjmująca poniesie koszty zakwaterowania i wyżywienia, koszty przewozu krajowego, koszty organizacji i zapowiedzi przedstawienia.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Zasady finansowania wymiany osób i zespołów są następujące:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_13/pkt_1",
+     "text": "Strona wysyłająca pokryje koszty podróży oraz przewóz rekwizytów, kostiumów i instrumentów muzycznych do pierwszej miejscowości na terenie państwa przyjmującego i z powrotem;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Warunki organizacji i zasady finansowania wystaw ustalą zainteresowane instytucje (muzea i galerie) w odrębnych umowach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Niniejszy program wejdzie w życie w dniu podpisania i pozostanie w mocy do dnia 31 grudnia 2007 r."
-    },
+     "type": "pkt",
+     "num": "2",
+     "path": "art_13/pkt_2",
+     "text": "Strona przyjmująca poniesie koszty zakwaterowania i wyżywienia, koszty przewozu krajowego, koszty organizacji i zapowiedzi przedstawienia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Warunki organizacji i zasady finansowania wystaw ustalą zainteresowane instytucje (muzea i galerie) w odrębnych umowach.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Niniejszy program wejdzie w życie w dniu podpisania i pozostanie w mocy do dnia 31 grudnia 2007 r.",
+   "children": [
     {
      "type": "text",
      "text": "PODPISANO w Zagrzebiu dnia 31 października 2005 r. w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim i chorwackim, przy czym obydwa teksty mają jednakową moc."
@@ -436,77 +443,78 @@
     {
      "type": "text",
      "text": "Odredbe o razmjeni izaslanstava su sljedeće:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_15/pkt_1",
+     "text": "najkasnije dva mjeseca unaprijed, stranka šiljateljica dostavit će stranki primateljici podatke o članovima izaslanstva ipotrebama vezanim uz njihov posjet;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_15/pkt_2",
+     "text": "u roku od četrdeset dana od primitka prijedloga stranka primateljica obavijestit će stranku šiljateljicu otome prihvaća li posjet te odatumu posjeta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_15/pkt_3",
+     "text": "po primitku obavijesti o prihvaćanju posjeta, stranka šiljateljica dostavit će stranki primateljici točne podatke odatumu imjestu dolaska te oprijevozniku, najkasnije dvadeset dana unaprijed.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Članak 13"
+      },
+      {
+       "type": "text",
+       "text": "Financijske odredbe o razmjeni osoba i ansambala su sljedeće:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_15/pkt_1",
+     "text": "stranka šiljateljica će snositi troškove medunarodnog putovanja te prijevoza rekvizita, kostima iglazbenih instrumenata do prvog mjesta udržavi primateljici i natrag;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_15/pkt_2",
+     "text": "stranka primateljica će snositi troškove smještaja i prehrane, troškove prijevoza na svom području, troškove organizacije i najave predstava.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Članak 14"
+      },
+      {
+       "type": "text",
+       "text": "Uvjete organizacije i načela financiranja izložbi utvrdit će zainteresirane ustanove (muzeji i galerije) u posebnim ugovorima."
+      },
+      {
+       "type": "text",
+       "text": "Članak 15"
+      },
+      {
+       "type": "text",
+       "text": "Ovaj Program stupa na snagu danom potpisivanja i ostaje na snazi do 31. prosinca 2007. godine."
+      },
+      {
+       "type": "text",
+       "text": "OVAJ PROGRAM potpisan je uZagrebu dana 31. listopada 2005. u dva izvornika, svaki na poljskom ihrvatskom jeziku, pri čemu su oba teksta jednako vjerodostojna."
+      },
+      {
+       "type": "text",
+       "text": "Za Ministar kulture Za Ministarstvo kulture Republike Poljske Republike Hrvatske"
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "najkasnije dva mjeseca unaprijed, stranka šiljateljica dostavit će stranki primateljici podatke o članovima izaslanstva ipotrebama vezanim uz njihov posjet;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "u roku od četrdeset dana od primitka prijedloga stranka primateljica obavijestit će stranku šiljateljicu otome prihvaća li posjet te odatumu posjeta;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "po primitku obavijesti o prihvaćanju posjeta, stranka šiljateljica dostavit će stranki primateljici točne podatke odatumu imjestu dolaska te oprijevozniku, najkasnije dvadeset dana unaprijed.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Članak 13"
-    },
-    {
-     "type": "text",
-     "text": "Financijske odredbe o razmjeni osoba i ansambala su sljedeće:"
-    }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "stranka šiljateljica će snositi troškove medunarodnog putovanja te prijevoza rekvizita, kostima iglazbenih instrumenata do prvog mjesta udržavi primateljici i natrag;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "stranka primateljica će snositi troškove smještaja i prehrane, troškove prijevoza na svom području, troškove organizacije i najave predstava.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Članak 14"
-    },
-    {
-     "type": "text",
-     "text": "Uvjete organizacije i načela financiranja izložbi utvrdit će zainteresirane ustanove (muzeji i galerije) u posebnim ugovorima."
-    },
-    {
-     "type": "text",
-     "text": "Članak 15"
-    },
-    {
-     "type": "text",
-     "text": "Ovaj Program stupa na snagu danom potpisivanja i ostaje na snazi do 31. prosinca 2007. godine."
-    },
-    {
-     "type": "text",
-     "text": "OVAJ PROGRAM potpisan je uZagrebu dana 31. listopada 2005. u dva izvornika, svaki na poljskom ihrvatskom jeziku, pri čemu su oba teksta jednako vjerodostojna."
-    },
-    {
-     "type": "text",
-     "text": "Za Ministar kulture Za Ministarstvo kulture Republike Poljske Republike Hrvatske"
-    }
-   ]
+   ],
+   "label": "Artykuł 15"
   }
  ],
  "annexes": [],

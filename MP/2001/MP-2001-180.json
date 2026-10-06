@@ -9,40 +9,55 @@
    "text": "Monitor Polski N r 11 — 200 — Poz. 179 i 180"
   },
   {
-   "type": "text",
-   "text": "Artykuł 7 Artikel 7"
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Artikel 7",
+   "children": [
+    {
+     "type": "text",
+     "text": "Bezpieczeństwo prawne Rechtssicherheit"
+    },
+    {
+     "type": "text",
+     "text": "Rzeczpospolita Polska nie będzie dochodziła, re- Die Republik Polen wird weitere Forderungen prezentowała ani też popierała dalszych roszczeń wo- gegenüber der Republik Österreich oder bec Republiki Austrii lub austriackich przedsiębiorstw österreichischen Unternehmen aus dem Titel z tytułu wykonywania w okresie reżimu narodowoso- ehemalige Sklaven- und Zwangsarbeit unter dem cjalistycznego pracy niewolniczej ipracy przymusowej nationalsozialistischen Regime auf dem heutigen na dzisiejszym terytorium Republiki Austrii. Gebiet der Republik Österreich nicht geltend machen und weder vertreten noch unterstützen."
+    }
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "Bezpieczeństwo prawne Rechtssicherheit"
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Artikel 8",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wnioski byłych iobecnych obywateli polskich Anträge früherer oder heutiger polnischer nieobjętych umową Staatsbürger außerhalb des Abkommens"
+    },
+    {
+     "type": "text",
+     "text": "Umowa niniejsza nie narusza możliwości byłych Dieses Abkommen berührt nicht die Möglichkeit i obecnych obywateli polskich, nieobjętych niniejszą früherer oder heutiger polnischer Staatsbürger, die umową, do zgłaszania wniosków bezpośrednio do nicht unter dieses Abkommen fallen, Anträge direkt an Funduszu. den Fonds zu richten."
+    }
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "Rzeczpospolita Polska nie będzie dochodziła, re- Die Republik Polen wird weitere Forderungen prezentowała ani też popierała dalszych roszczeń wo- gegenüber der Republik Österreich oder bec Republiki Austrii lub austriackich przedsiębiorstw österreichischen Unternehmen aus dem Titel z tytułu wykonywania w okresie reżimu narodowoso- ehemalige Sklaven- und Zwangsarbeit unter dem cjalistycznego pracy niewolniczej ipracy przymusowej nationalsozialistischen Regime auf dem heutigen na dzisiejszym terytorium Republiki Austrii. Gebiet der Republik Österreich nicht geltend machen und weder vertreten noch unterstützen."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8 Artikel 8"
-  },
-  {
-   "type": "text",
-   "text": "Wnioski byłych iobecnych obywateli polskich Anträge früherer oder heutiger polnischer nieobjętych umową Staatsbürger außerhalb des Abkommens"
-  },
-  {
-   "type": "text",
-   "text": "Umowa niniejsza nie narusza możliwości byłych Dieses Abkommen berührt nicht die Möglichkeit i obecnych obywateli polskich, nieobjętych niniejszą früherer oder heutiger polnischer Staatsbürger, die umową, do zgłaszania wniosków bezpośrednio do nicht unter dieses Abkommen fallen, Anträge direkt an Funduszu. den Fonds zu richten."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9 Artikel 9"
-  },
-  {
-   "type": "text",
-   "text": "Wejście wżycie Inkrafttreten"
-  },
-  {
-   "type": "text",
-   "text": "Niniejsza umowa wchodzi wżycie wdniu otrzyma- Dieses Abkommen tritt an dem Tage in Kraft, an nia ostatniego pisemnego potwierdzenia, w którym dem die letzte schriftliche Mitteilung in Empfang Strony Umowy informują się wzajemnie o spełnieniu genommen wird, mit denen die Vertragsparteien wewnątrzkrajowych przesłanek wejścia umowy w ży- einander über die Erfüllung der innerstaatlichen cie. Voraussetzungen für das Inkrafttreten des Abkommens in Kenntnis gesetzt haben."
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Artikel 9",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wejście wżycie Inkrafttreten"
+    },
+    {
+     "type": "text",
+     "text": "Niniejsza umowa wchodzi wżycie wdniu otrzyma- Dieses Abkommen tritt an dem Tage in Kraft, an nia ostatniego pisemnego potwierdzenia, w którym dem die letzte schriftliche Mitteilung in Empfang Strony Umowy informują się wzajemnie o spełnieniu genommen wird, mit denen die Vertragsparteien wewnątrzkrajowych przesłanek wejścia umowy w ży- einander über die Erfüllung der innerstaatlichen cie. Voraussetzungen für das Inkrafttreten des Abkommens in Kenntnis gesetzt haben."
+    }
+   ],
+   "label": "Artykuł 9"
   },
   {
    "type": "text",

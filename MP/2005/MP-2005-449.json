@@ -45,494 +45,504 @@
    "text": "I. Kultura i sztuka"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą sprzyjały wymianie filmów na warunkach komercyjnych i niekomercyjnych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Każda Strona będzie wspierała popularyzację filmów drugiej Strony oraz będzie zapraszała drugą Stronę do udziału w festiwalach międzynarodowych i przeglądach filmów organizowanych w swoich krajach, zgodnie z regulaminem tych imprez."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierały bezpośrednią współpracę w dziedzinie kinematografii między polskimi i tadżyckimi instytucjami i organizacjami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 4"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą dążyły do organizowania koncertów i występów artystycznych na terytorium drugiej Strony."
-  },
-  {
-   "type": "text",
-   "text": "Strony wymienią, na zasadach wzajemności, zespoły folklorystyczne na Międzynarodowych Festiwalach Folkloru organizowanych w obu krajach."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 5"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierały udział swoich zespołów i solistów w festiwalach artystycznych organizowanych w kraju partnera."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 6"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierały współpracę instytucji i organizacji związanych z ruchem amatorskim i sztuką ludową. Strony umożliwią, na zasadach wzajemności, wymianę specjalistów w obu dziedzinach."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą dążyły do organizowania w kraju partnera wystaw sztuki współczesnej lub dawnej. Szczegóły współpracy zostaną uzgodnione między zainteresowanymi instytucjami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierały bezpośrednią współpracę w dziedzinie archeologii, muzealnictwa, konserwacji i ochrony zabytków między zainteresowanymi instytucjami polskimi i tadżyckimi. Szczegóły współpracy zostaną uzgodnione między zainteresowanymi instytucjami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Każda ze Stron, zgodnie z przepisami prawa obowiązującymi w danym kraju oraz zgodnie z zawartymi przez obie Strony odpowiednimi umowami międzynarodowymi, będzie dążyła do zapobiegania nielegalnemu wwozowi, wywozowi i przekazywaniu dóbr kultury stanowiących ich dziedzictwo kulturowe."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierały współpracę swoich Bibliotek Narodowych w zakresie wymiany ekspertów, a także informacji i mikrofilmów. Strony będą dążyły do realizacji wspólnych projektów edukacyjnych w dziedzinie czytelnictwa książek oraz działalności bibliotecznej i wydawniczej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą dążyły do zawarcia bezpośrednich porozumień w dziedzinie archiwistyki między centralnymi zarządami archiwów państwowych, w szczególności w zakresie dostępu do archiwów dla celów naukowych, społecznych i prawnych, wymiany doświadczeń, publikacji i mikrofilmów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą wspierały bezpośrednią współpracę w dziedzinie radiofonii i telewizji."
-  },
-  {
-   "type": "text",
-   "text": "II. Edukacja i nauka"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą współpracowały w dziedzinie edukacji i nauki, zwracając szczególną uwagę na następujące zagadnienia:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "wymianę informacji o systemach edukacji, planach ich rozwoju i kierunkach reformowania;",
-   "children": []
+   "path": "art_1",
+   "text": "Strony będą sprzyjały wymianie filmów na warunkach komercyjnych i niekomercyjnych.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "2",
-   "path": "pkt_2",
-   "text": "kształcenie kadr w specjalnościach będących przedmiotem zainteresowania obu Stron;",
-   "children": []
+   "path": "art_2",
+   "text": "Każda Strona będzie wspierała popularyzację filmów drugiej Strony oraz będzie zapraszała drugą Stronę do udziału w festiwalach międzynarodowych i przeglądach filmów organizowanych w swoich krajach, zgodnie z regulaminem tych imprez.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "3",
-   "path": "pkt_3",
-   "text": "popieranie wzajemnej współpracy między szkołami i innymi instytucjami edukacyjnymi wszystkich szczebli;",
-   "children": []
+   "path": "art_3",
+   "text": "Strony będą popierały bezpośrednią współpracę w dziedzinie kinematografii między polskimi i tadżyckimi instytucjami i organizacjami.",
+   "children": [],
+   "label": "Artykuł 3"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "4",
-   "path": "pkt_4",
-   "text": "popieranie wspólnych imprez, konferencji, sympozjów, olimpiad i konkursów naukowych dla dzieci i młodzieży.",
+   "path": "art_4",
+   "text": "Strony będą dążyły do organizowania koncertów i występów artystycznych na terytorium drugiej Strony.",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierały kontakty w celu nawiązania bezpośredniej współpracy między instytucjami naukowymi, szkołami wyższymi i innymi zainteresowanymi instytucjami naukowo-badawczymi obu krajów, w zakresie:"
+     "text": "Strony wymienią, na zasadach wzajemności, zespoły folklorystyczne na Międzynarodowych Festiwalach Folkloru organizowanych w obu krajach."
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "prowadzenia wspólnych badań naukowych;",
-   "children": []
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strony będą popierały udział swoich zespołów i solistów w festiwalach artystycznych organizowanych w kraju partnera.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "wymiany pracowników naukowo-dydaktycznych oraz naukowców i specjalistów w celu prowadzenia zajęć, udziału w kongresach, seminariach, konferencjach i sympozjach naukowych;",
-   "children": []
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strony będą popierały współpracę instytucji i organizacji związanych z ruchem amatorskim i sztuką ludową. Strony umożliwią, na zasadach wzajemności, wymianę specjalistów w obu dziedzinach.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "wymiany informacji na temat publikacji naukowych.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą dążyły do organizowania w kraju partnera wystaw sztuki współczesnej lub dawnej. Szczegóły współpracy zostaną uzgodnione między zainteresowanymi instytucjami.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Strony będą popierały bezpośrednią współpracę w dziedzinie archeologii, muzealnictwa, konserwacji i ochrony zabytków między zainteresowanymi instytucjami polskimi i tadżyckimi. Szczegóły współpracy zostaną uzgodnione między zainteresowanymi instytucjami.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Każda ze Stron, zgodnie z przepisami prawa obowiązującymi w danym kraju oraz zgodnie z zawartymi przez obie Strony odpowiednimi umowami międzynarodowymi, będzie dążyła do zapobiegania nielegalnemu wwozowi, wywozowi i przekazywaniu dóbr kultury stanowiących ich dziedzictwo kulturowe.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Strony będą popierały współpracę swoich Bibliotek Narodowych w zakresie wymiany ekspertów, a także informacji i mikrofilmów. Strony będą dążyły do realizacji wspólnych projektów edukacyjnych w dziedzinie czytelnictwa książek oraz działalności bibliotecznej i wydawniczej.",
+   "children": [],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Strony będą dążyły do zawarcia bezpośrednich porozumień w dziedzinie archiwistyki między centralnymi zarządami archiwów państwowych, w szczególności w zakresie dostępu do archiwów dla celów naukowych, społecznych i prawnych, wymiany doświadczeń, publikacji i mikrofilmów.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Strony będą wspierały bezpośrednią współpracę w dziedzinie radiofonii i telewizji.",
    "children": [
     {
      "type": "text",
-     "text": "Zainteresowane instytucje będą wspólnie określały dziedziny i warunki finansowe współpracy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Strona polska przyzna rocznie Stronie tadżyckiej:"
+     "text": "II. Edukacja i nauka"
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "do 8 miejsc w szkołach wyższych, wolnych od opłat za naukę, bez świadczeń stypendialnych;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "do 4 miejsc na studiach doktoranckich różnych specjalności, wolnych od opłat za naukę, bez świadczeń stypendialnych;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "łącznie 18 miesięcy na staże naukowo-badawcze trwające od 1 do 9 miesięcy, wolne od opłat za naukę, bez świadczeń stypendialnych.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Strony będą współpracowały w dziedzinie edukacji i nauki, zwracając szczególną uwagę na następujące zagadnienia:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_13/pkt_1",
+     "text": "wymianę informacji o systemach edukacji, planach ich rozwoju i kierunkach reformowania;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strona tadżycka przyzna rocznie Stronie polskiej 24 miesiące na staże naukowo-badawcze, trwające od 1 do 9 miesięcy, wolne od opłat za naukę, bez świadczeń stypendialnych."
+     "type": "pkt",
+     "num": "2",
+     "path": "art_13/pkt_2",
+     "text": "kształcenie kadr w specjalnościach będących przedmiotem zainteresowania obu Stron;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 17"
+     "type": "pkt",
+     "num": "3",
+     "path": "art_13/pkt_3",
+     "text": "popieranie wzajemnej współpracy między szkołami i innymi instytucjami edukacyjnymi wszystkich szczebli;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strona polska, na zaproszenie Strony tadżyckiej, skieruje nauczycieli języka polskiego i pracowników dydaktycznych z zakresu innych przedmiotów do pracy w szkołach i uczelniach Republiki Tadżykistanu."
+     "type": "pkt",
+     "num": "4",
+     "path": "art_13/pkt_4",
+     "text": "popieranie wspólnych imprez, konferencji, sympozjów, olimpiad i konkursów naukowych dla dzieci i młodzieży.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Strony będą popierały kontakty w celu nawiązania bezpośredniej współpracy między instytucjami naukowymi, szkołami wyższymi i innymi zainteresowanymi instytucjami naukowo-badawczymi obu krajów, w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_14/pkt_1",
+     "text": "prowadzenia wspólnych badań naukowych;",
+     "children": []
     },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_14/pkt_2",
+     "text": "wymiany pracowników naukowo-dydaktycznych oraz naukowców i specjalistów w celu prowadzenia zajęć, udziału w kongresach, seminariach, konferencjach i sympozjach naukowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_14/pkt_3",
+     "text": "wymiany informacji na temat publikacji naukowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zainteresowane instytucje będą wspólnie określały dziedziny i warunki finansowe współpracy."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Strona polska przyzna rocznie Stronie tadżyckiej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_15/pkt_1",
+     "text": "do 8 miejsc w szkołach wyższych, wolnych od opłat za naukę, bez świadczeń stypendialnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_15/pkt_2",
+     "text": "do 4 miejsc na studiach doktoranckich różnych specjalności, wolnych od opłat za naukę, bez świadczeń stypendialnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_15/pkt_3",
+     "text": "łącznie 18 miesięcy na staże naukowo-badawcze trwające od 1 do 9 miesięcy, wolne od opłat za naukę, bez świadczeń stypendialnych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Strona tadżycka przyzna rocznie Stronie polskiej 24 miesiące na staże naukowo-badawcze, trwające od 1 do 9 miesięcy, wolne od opłat za naukę, bez świadczeń stypendialnych.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Strona polska, na zaproszenie Strony tadżyckiej, skieruje nauczycieli języka polskiego i pracowników dydaktycznych z zakresu innych przedmiotów do pracy w szkołach i uczelniach Republiki Tadżykistanu.",
+   "children": [
     {
      "type": "text",
      "text": "Strona tadżycka udzieli wsparcia przy organizacji nauczania języka polskiego i w języku polskim dla obywateli Republiki Tadżykistanu, w tym osób pochodzenia polskiego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 18"
-    },
-    {
-     "type": "text",
-     "text": "Strona tadżycka, na zaproszenie Strony polskiej, skieruje nauczycieli i wykładowców języka tadżyckiego do pracy w szkołach i uczelniach Rzeczypospolitej Polskiej."
-    },
+    }
+   ],
+   "label": "Artykuł 17"
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Strona tadżycka, na zaproszenie Strony polskiej, skieruje nauczycieli i wykładowców języka tadżyckiego do pracy w szkołach i uczelniach Rzeczypospolitej Polskiej.",
+   "children": [
     {
      "type": "text",
      "text": "Strona polska udzieli wsparcia przy organizacji nauczania języka tadżyckiego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjały wymianie informacji między swoimi odpowiednimi instytucjami. Strony będą wspierały wymianę publikacji i pomocy naukowych, umożliwiających poznanie historii, geografii i kultury obu krajów."
-    },
+    }
+   ],
+   "label": "Artykuł 18"
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Strony będą sprzyjały wymianie informacji między swoimi odpowiednimi instytucjami. Strony będą wspierały wymianę publikacji i pomocy naukowych, umożliwiających poznanie historii, geografii i kultury obu krajów.",
+   "children": [
     {
      "type": "text",
      "text": "III. Młodzież i sport"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierały rozwój kontaktów między młodzieżą obu krajów oraz wymianę informacji i wyników badań socjologicznych w dziedzinie pracy z młodzieżą i doświadczeń w zakresie pracy instytutów i instytucji socjalnych, udzielających pomocy psychologicznej, prawnej i innej młodym ludziom oraz ich rodzinom w dziedzinie propagowania zdrowego trybu życia, zapobiegania przestępczości, narkomanii i HIV/AIDS wśród młodzieży."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierały rozwój kontaktów między związkami i klubami sportowymi obu krajów."
-    },
+    }
+   ],
+   "label": "Artykuł 19"
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Strony będą popierały rozwój kontaktów między młodzieżą obu krajów oraz wymianę informacji i wyników badań socjologicznych w dziedzinie pracy z młodzieżą i doświadczeń w zakresie pracy instytutów i instytucji socjalnych, udzielających pomocy psychologicznej, prawnej i innej młodym ludziom oraz ich rodzinom w dziedzinie propagowania zdrowego trybu życia, zapobiegania przestępczości, narkomanii i HIV/AIDS wśród młodzieży.",
+   "children": [],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Strony będą popierały rozwój kontaktów między związkami i klubami sportowymi obu krajów.",
+   "children": [
     {
      "type": "text",
      "text": "Współpraca instytucji sportowych będzie obejmowała:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_21/pkt_1",
+     "text": "popularyzację narodowych dyscyplin sportu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_21/pkt_2",
+     "text": "wymianę doświadczeń oraz materiałów naukowych i metodycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_21/pkt_3",
+     "text": "organizację seminariów i szkoleń podnoszących kwalifikacje specjalistów w dziedzinie kultury fizycznej i sportu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_21/pkt_4",
+     "text": "wymianę ekspertów w dziedzinie kultury fizycznej i sportu, walki z dopingiem oraz zapewnienia bezpieczeństwa podczas imprez sportowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_21/pkt_5",
+     "text": "wymianę trenerów i instruktorów różnych dyscyplin sportu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zainteresowane instytucje będą wzajemnie określały zasady wymiany i warunki finansowe współpracy."
+      },
+      {
+       "type": "text",
+       "text": "IV. Warunki wymiany osobowej"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 21"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "popularyzację narodowych dyscyplin sportu;",
-   "children": []
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Wymiana osobowa będzie się odbywała w ramach: studiów doktoranckich, studiów wyższych, odbywania staży naukowo-badawczych, delegowania pracowników dydaktycznych i nauczycieli języka polskiego, delegowania pracowników dydaktycznych i nauczycieli języka tadżyckiego, jak również wizyt krótkoterminowych.",
+   "children": [],
+   "label": "Artykuł 22"
   },
   {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "wymianę doświadczeń oraz materiałów naukowych i metodycznych;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "organizację seminariów i szkoleń podnoszących kwalifikacje specjalistów w dziedzinie kultury fizycznej i sportu;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "wymianę ekspertów w dziedzinie kultury fizycznej i sportu, walki z dopingiem oraz zapewnienia bezpieczeństwa podczas imprez sportowych;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "5",
-   "path": "pkt_5",
-   "text": "wymianę trenerów i instruktorów różnych dyscyplin sportu.",
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Osobom uczestniczącym w wymianie na podstawie artykułów 15 i 16 programu:",
    "children": [
-    {
-     "type": "text",
-     "text": "Zainteresowane instytucje będą wzajemnie określały zasady wymiany i warunki finansowe współpracy."
-    },
-    {
-     "type": "text",
-     "text": "IV. Warunki wymiany osobowej"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 22"
-    },
-    {
-     "type": "text",
-     "text": "Wymiana osobowa będzie się odbywała w ramach: studiów doktoranckich, studiów wyższych, odbywania staży naukowo-badawczych, delegowania pracowników dydaktycznych i nauczycieli języka polskiego, delegowania pracowników dydaktycznych i nauczycieli języka tadżyckiego, jak również wizyt krótkoterminowych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 23"
-    },
-    {
-     "type": "text",
-     "text": "Osobom uczestniczącym w wymianie na podstawie artykułów 15 i 16 programu:"
-    },
     {
      "type": "text",
      "text": "Strona przyjmująca zapewni:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_23/pkt_1",
+     "text": "bezpłatną naukę w państwowych szkołach wyższych oraz jednostkach uprawnionych do prowadzenia studiów doktoranckich;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_23/pkt_2",
+     "text": "informację o przyjęciu kandydatów na studia w terminie do końca czerwca bieżącego roku;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Strona wysyłająca zapewni:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_23/pkt_1",
+     "text": "pokrycie kosztów podróży do miejsca odbywania nauki lub stażu i z powrotem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_23/pkt_2",
+     "text": "ubezpieczenie (polisę) na wypadek nagłych zachorowań lub nieszczęśliwego wypadku, z wyjątkiem przypadków, gdy prawo do świadczeń zdrowotnych wynika z przepisów prawnych Strony przyjmującej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_23/pkt_3",
+     "text": "wypłatę świadczeń stypendialnych na pokrycie kosztów utrzymania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_23/pkt_4",
+     "text": "wysłanie informacji o kandydatach i wybranych przez nich kierunkach do dnia 31 marca bieżącego roku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 23"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "bezpłatną naukę w państwowych szkołach wyższych oraz jednostkach uprawnionych do prowadzenia studiów doktoranckich;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "informację o przyjęciu kandydatów na studia w terminie do końca czerwca bieżącego roku;",
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Nauczycielom i pracownikom dydaktycznym kierowanym na podstawie artykułu 17 programu do pracy w szkołach i szkołach wyższych Republiki Tadżykistanu Strona tadżycka zapewni:",
    "children": [
     {
-     "type": "text",
-     "text": "Strona wysyłająca zapewni:"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_24/pkt_1",
+     "text": "miesięczne wynagrodzenie (również za czas urlopu);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_24/pkt_2",
+     "text": "niezbędną opiekę lekarską w nagłych zachorowaniach i nieszczęśliwych wypadkach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_24/pkt_3",
+     "text": "bezpłatne zakwaterowanie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_24/pkt_4",
+     "text": "pomoc przy dokonywaniu niezbędnych formalności związanych z wjazdem, pobytem i zatrudnieniem (bezpłatna: wielokrotna wiza roczna, rejestracja i pozwolenie na pracę).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Strona polska pokrywa koszty podróży nauczycieli i pracowników dydaktycznych z miejsca zamieszkania do miejsca zatrudnienia i z powrotem. Dokumenty zainteresowanych zostaną przekazane drogą dyplomatyczną."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 24"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "pokrycie kosztów podróży do miejsca odbywania nauki lub stażu i z powrotem;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "ubezpieczenie (polisę) na wypadek nagłych zachorowań lub nieszczęśliwego wypadku, z wyjątkiem przypadków, gdy prawo do świadczeń zdrowotnych wynika z przepisów prawnych Strony przyjmującej;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "wypłatę świadczeń stypendialnych na pokrycie kosztów utrzymania;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "wysłanie informacji o kandydatach i wybranych przez nich kierunkach do dnia 31 marca bieżącego roku.",
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Nauczycielom i pracownikom dydaktycznym kierowanym na podstawie artykułu 18 programu do pracy w szkołach i szkołach wyższych Rzeczypospolitej Polskiej Strona polska zapewni:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 24"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_25/pkt_1",
+     "text": "miesięczne wynagrodzenie (również za czas urlopu);",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Nauczycielom i pracownikom dydaktycznym kierowanym na podstawie artykułu 17 programu do pracy w szkołach i szkołach wyższych Republiki Tadżykistanu Strona tadżycka zapewni:"
+     "type": "pkt",
+     "num": "2",
+     "path": "art_25/pkt_2",
+     "text": "niezbędną opiekę lekarską w nagłych zachorowaniach i nieszczęśliwych wypadkach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_25/pkt_3",
+     "text": "bezpłatne zakwaterowanie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_25/pkt_4",
+     "text": "pomoc w załatwieniu niezbędnych formalności związanych z wjazdem, pobytem i zatrudnieniem (bezpłatna: wielokrotna roczna wiza, rejestracja i pozwolenie na pracę).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Strona tadżycka pokrywa koszty podróży nauczycieli i pracowników dydaktycznych z miejsca zamieszkania do miejsca zatrudnienia i z powrotem. Dokumenty zainteresowanych przekazane zostaną drogą dyplomatyczną."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 25"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "miesięczne wynagrodzenie (również za czas urlopu);",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "niezbędną opiekę lekarską w nagłych zachorowaniach i nieszczęśliwych wypadkach;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "bezpłatne zakwaterowanie;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "pomoc przy dokonywaniu niezbędnych formalności związanych z wjazdem, pobytem i zatrudnieniem (bezpłatna: wielokrotna wiza roczna, rejestracja i pozwolenie na pracę).",
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Osoby, które podjęły naukę na studiach wyższych, studiach doktoranckich oraz stażach przed wejściem w życie niniejszego programu, będą kontynuowały naukę do jej zakończenia na dotychczasowych warunkach.",
    "children": [
-    {
-     "type": "text",
-     "text": "Strona polska pokrywa koszty podróży nauczycieli i pracowników dydaktycznych z miejsca zamieszkania do miejsca zatrudnienia i z powrotem. Dokumenty zainteresowanych zostaną przekazane drogą dyplomatyczną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 25"
-    },
-    {
-     "type": "text",
-     "text": "Nauczycielom i pracownikom dydaktycznym kierowanym na podstawie artykułu 18 programu do pracy w szkołach i szkołach wyższych Rzeczypospolitej Polskiej Strona polska zapewni:"
-    }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "miesięczne wynagrodzenie (również za czas urlopu);",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "niezbędną opiekę lekarską w nagłych zachorowaniach i nieszczęśliwych wypadkach;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "bezpłatne zakwaterowanie;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "pomoc w załatwieniu niezbędnych formalności związanych z wjazdem, pobytem i zatrudnieniem (bezpłatna: wielokrotna roczna wiza, rejestracja i pozwolenie na pracę).",
-   "children": [
-    {
-     "type": "text",
-     "text": "Strona tadżycka pokrywa koszty podróży nauczycieli i pracowników dydaktycznych z miejsca zamieszkania do miejsca zatrudnienia i z powrotem. Dokumenty zainteresowanych przekazane zostaną drogą dyplomatyczną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 26"
-    },
-    {
-     "type": "text",
-     "text": "Osoby, które podjęły naukę na studiach wyższych, studiach doktoranckich oraz stażach przed wejściem w życie niniejszego programu, będą kontynuowały naukę do jej zakończenia na dotychczasowych warunkach."
-    },
     {
      "type": "text",
      "text": "V. Postanowienia ogólne i końcowe"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 27"
-    },
-    {
-     "type": "text",
-     "text": "Program nie wyklucza ewentualnej realizacji innych form współpracy w dziedzinie kultury, edukacji i nauki pod warunkiem, że będą uzgodnione drogą dyplomatyczną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 28"
-    },
-    {
-     "type": "text",
-     "text": "Program wchodzi w życie z dniem podpisania i będzie obowiązywał do wejścia w życie nowego programu, ale nie później niż do dnia 31 grudnia 2007 r."
-    },
+    }
+   ],
+   "label": "Artykuł 26"
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Program nie wyklucza ewentualnej realizacji innych form współpracy w dziedzinie kultury, edukacji i nauki pod warunkiem, że będą uzgodnione drogą dyplomatyczną.",
+   "children": [],
+   "label": "Artykuł 27"
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Program wchodzi w życie z dniem podpisania i będzie obowiązywał do wejścia w życie nowego programu, ale nie później niż do dnia 31 grudnia 2007 r.",
+   "children": [
     {
      "type": "text",
      "text": "Podpisano w Duszanbe w dniu 27 września 2004 r. w dwóch egzemplarzach, każdy w językach polskim, tadżyckim i rosyjskim, przy czym wszystkie teksty mają jednakową moc. W razie rozbieżności przy ich interpretacji tekst rosyjski będzie uważany za rozstrzygający."
@@ -549,7 +559,8 @@
      "type": "note",
      "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     }
-   ]
+   ],
+   "label": "Artykuł 28"
   }
  ],
  "annexes": [],

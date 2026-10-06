@@ -61,79 +61,79 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł I"
+   "type": "art",
+   "num": "I",
+   "path": "art_I",
+   "text": "Rząd Rzeczypospolitej Polskiej wyznaczy Ministra Spraw Wewnętrznych, aby działał jako organ do spraw realizacji niniejszego Memorandum o porozumieniu. Rząd Królestwa Tajlandii wyznaczy Biuro Urzędu ds. Zwalczania Narkotyków [Office of Narcotics Control Board (ONCB)], aby działało jako organ do spraw realizacji niniejszego Memorandum o porozumieniu.",
+   "children": [],
+   "label": "Artykuł I"
   },
   {
-   "type": "text",
-   "text": "Rząd Rzeczypospolitej Polskiej wyznaczy Ministra Spraw Wewnętrznych, aby działał jako organ do spraw realizacji niniejszego Memorandum o porozumieniu. Rząd Królestwa Tajlandii wyznaczy Biuro Urzędu ds. Zwalczania Narkotyków [Office of Narcotics Control Board (ONCB)], aby działało jako organ do spraw realizacji niniejszego Memorandum o porozumieniu."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł II"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą współpracowały zgodnie z ich odpowiednim prawem i przepisami w następujących sprawach:"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zapobiegania nadużywaniu narkotyków;",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wprowadzania prawa w życie;",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zwalczania upraw narkotyków oraz środków chemicznych;",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Leczenia i rehabilitacji oraz",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Realizacji wspólnych programów pomocy technicznej i szkoleniowej.",
+   "type": "art",
+   "num": "II",
+   "path": "art_II",
+   "text": "Umawiające się Strony będą współpracowały zgodnie z ich odpowiednim prawem i przepisami w następujących sprawach:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł III"
+     "type": "ust",
+     "num": "1",
+     "path": "art_II/ust_1",
+     "text": "Zapobiegania nadużywaniu narkotyków;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każda Umawiająca się Strona ułatwi wjazd i wyjazd ze swego terytorium personelu technicznego i członków ich najbliższej rodziny oraz sprzętu używanego przy projektach i programach w ramach niniejszego Memorandum o porozumieniu zgodnie ze swym prawem i przepisami."
+     "type": "ust",
+     "num": "2",
+     "path": "art_II/ust_2",
+     "text": "Wprowadzania prawa w życie;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł IV"
+     "type": "ust",
+     "num": "3",
+     "path": "art_II/ust_3",
+     "text": "Zwalczania upraw narkotyków oraz środków chemicznych;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Niniejsze Memorandum o porozumieniu może ulec zmianie w drodze pisemnej umowy między Umawiającymi się Stronami."
+     "type": "ust",
+     "num": "4",
+     "path": "art_II/ust_4",
+     "text": "Leczenia i rehabilitacji oraz",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł V"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsze Memorandum o porozumieniu podlega przyjęciu i wejdzie w życie w dniu wymiany dokumentów przyjęcia. Taka wymiana dokumentów odbędzie się w Bangkoku tak szybko, jak to możliwe."
-    },
+     "type": "ust",
+     "num": "5",
+     "path": "art_II/ust_5",
+     "text": "Realizacji wspólnych programów pomocy technicznej i szkoleniowej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł II"
+  },
+  {
+   "type": "art",
+   "num": "III",
+   "path": "art_III",
+   "text": "Każda Umawiająca się Strona ułatwi wjazd i wyjazd ze swego terytorium personelu technicznego i członków ich najbliższej rodziny oraz sprzętu używanego przy projektach i programach w ramach niniejszego Memorandum o porozumieniu zgodnie ze swym prawem i przepisami.",
+   "children": [],
+   "label": "Artykuł III"
+  },
+  {
+   "type": "art",
+   "num": "IV",
+   "path": "art_IV",
+   "text": "Niniejsze Memorandum o porozumieniu może ulec zmianie w drodze pisemnej umowy między Umawiającymi się Stronami.",
+   "children": [],
+   "label": "Artykuł IV"
+  },
+  {
+   "type": "art",
+   "num": "V",
+   "path": "art_V",
+   "text": "Niniejsze Memorandum o porozumieniu podlega przyjęciu i wejdzie w życie w dniu wymiany dokumentów przyjęcia. Taka wymiana dokumentów odbędzie się w Bangkoku tak szybko, jak to możliwe.",
+   "children": [
     {
      "type": "text",
      "text": "W DOWÓD CZEGO niżej podpisani, będąc należycie upoważnieni przez swoje Rządy, podpisali niniejsze Memorandum o porozumieniu."
@@ -161,100 +161,101 @@
     {
      "type": "text",
      "text": "The Contracting Parties shall cooperate, subject to their respective laws and regulations, in the following matters:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_V/ust_1",
+     "text": "Drug abuse prevention measures;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_V/ust_2",
+     "text": "Law enforcement measures;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_V/ust_3",
+     "text": "Narcotics crop and chemical control measures;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_V/ust_4",
+     "text": "Treatment and rehabilitation measures; and",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_V/ust_5",
+     "text": "Implementation of joint technical and training assistance programmes.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article III"
+      },
+      {
+       "type": "text",
+       "text": "Each Contracting Party shall facilitate the entry and exit from its territory in accordance with its laws and regulations of technical personnel and members of their immediate family as well as of equipments used in projects and programmes under this Memorandum of Understanding."
+      },
+      {
+       "type": "text",
+       "text": "Article IV"
+      },
+      {
+       "type": "text",
+       "text": "This Memorandum of Understanding may be amended agreement in writing by the Contracting Parties."
+      },
+      {
+       "type": "text",
+       "text": "Article V"
+      },
+      {
+       "type": "text",
+       "text": "This Memorandum of Understanding shall be subject to ratification and shall enter into force on the date on which instruments of ratification are exchanged. This exchange of instruments shall take place at Bangkok as soon as possible."
+      },
+      {
+       "type": "text",
+       "text": "IN WITNESS WHEREOF, the undersigned, being duty authorised by their respective Governments, have signed the present Memorandum of Understanding."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł V"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Drug abuse prevention measures;",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w dwóch egzemplarzach w Warszawie w dniu 23 września 1996 r. w języku angielskim."
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Law enforcement measures;",
-   "children": []
+   "type": "text",
+   "text": "W imieniu Rządu W imieniu Rządu Rzeczypospolitej Polskiej Królestwa Tajlandii"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Narcotics crop and chemical control measures;",
-   "children": []
+   "type": "text",
+   "text": "Andrzej Anklewicz Suriya R-Chanabuddhi"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Treatment and rehabilitation measures; and",
-   "children": []
+   "type": "text",
+   "text": "Zastępca Ministra Spraw Wewnętrznych Ambasador Nadzwyczajny i Pełnomocny Done in duplicate at Warsaw, this 23 of September 1996 in the English language."
   },
   {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Implementation of joint technical and training assistance programmes.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article III"
-    },
-    {
-     "type": "text",
-     "text": "Each Contracting Party shall facilitate the entry and exit from its territory in accordance with its laws and regulations of technical personnel and members of their immediate family as well as of equipments used in projects and programmes under this Memorandum of Understanding."
-    },
-    {
-     "type": "text",
-     "text": "Article IV"
-    },
-    {
-     "type": "text",
-     "text": "This Memorandum of Understanding may be amended agreement in writing by the Contracting Parties."
-    },
-    {
-     "type": "text",
-     "text": "Article V"
-    },
-    {
-     "type": "text",
-     "text": "This Memorandum of Understanding shall be subject to ratification and shall enter into force on the date on which instruments of ratification are exchanged. This exchange of instruments shall take place at Bangkok as soon as possible."
-    },
-    {
-     "type": "text",
-     "text": "IN WITNESS WHEREOF, the undersigned, being duty authorised by their respective Governments, have signed the present Memorandum of Understanding."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w dwóch egzemplarzach w Warszawie w dniu 23 września 1996 r. w języku angielskim."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu Rządu W imieniu Rządu Rzeczypospolitej Polskiej Królestwa Tajlandii"
-    },
-    {
-     "type": "text",
-     "text": "Andrzej Anklewicz Suriya R-Chanabuddhi"
-    },
-    {
-     "type": "text",
-     "text": "Zastępca Ministra Spraw Wewnętrznych Ambasador Nadzwyczajny i Pełnomocny Done in duplicate at Warsaw, this 23 of September 1996 in the English language."
-    },
-    {
-     "type": "text",
-     "text": "For the Government of For the Government of the Republic of Poland the Kingdom of Thailand"
-    },
-    {
-     "type": "text",
-     "text": "Andrzej Anklewicz Suriya R-Chanabuddhi"
-    },
-    {
-     "type": "text",
-     "text": "Deputy Minister of Interior Ambassador Extraordinary and Plenipotentiary"
-    }
-   ]
+   "type": "text",
+   "text": "For the Government of For the Government of the Republic of Poland the Kingdom of Thailand"
+  },
+  {
+   "type": "text",
+   "text": "Andrzej Anklewicz Suriya R-Chanabuddhi"
+  },
+  {
+   "type": "text",
+   "text": "Deputy Minister of Interior Ambassador Extraordinary and Plenipotentiary"
   }
  ],
  "annexes": [],

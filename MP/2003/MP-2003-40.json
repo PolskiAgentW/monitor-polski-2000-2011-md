@@ -29,598 +29,634 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy Umawiających się Stron mogą wykonywać na warunkach określonych w niniejszej umowie międzynarodowe przewozy drogowe między obu państwami i w tranzycie przez ich terytoria pojazdami samochodowymi zarejestrowanymi w kraju ich siedziby.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Prawo, o którym mowa w ustępie 1, przyznaje się tylko przewoźnikom upoważnionym w swoim kraju do wykonywania międzynarodowych przewozów drogowych.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "I. Przewozy podróżnych"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Przewoźnicy Umawiających się Stron mogą wykonywać na warunkach określonych w niniejszej umowie międzynarodowe przewozy drogowe między obu państwami i w tranzycie przez ich terytoria pojazdami samochodowymi zarejestrowanymi w kraju ich siedziby.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Prawo, o którym mowa w ustępie 1, przyznaje się tylko przewoźnikom upoważnionym w swoim kraju do wykonywania międzynarodowych przewozów drogowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. Przewozy podróżnych"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy jednej Umawiającej się Strony mogą wykonywać regularne przewozy podróżnych między obu państwami oraz tranzytem przez ich terytoria tylko pod warunkiem uprzedniego otrzymania zezwolenia właściwego organu drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Przez „regularne przewozy podróżnych” rozumie się przewozy wykonywane autobusami na określonej trasie, według rozkładów jazdy i taryfy uprzednio ustalonych i ogłoszonych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy Umawiających się Stron wspólnie ustalają warunki i tryb udzielania zezwoleń, o których mowa w ustępie 1.",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Przewoźnicy jednej Umawiającej się Strony mogą wykonywać regularne przewozy podróżnych między obu państwami oraz tranzytem przez ich terytoria tylko pod warunkiem uprzedniego otrzymania zezwolenia właściwego organu drugiej Umawiającej się Strony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wykonywanie przewozów podróżnych autobusami innych niż przewozy regularne nie wymaga zezwolenia."
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Przez „regularne przewozy podróżnych” rozumie się przewozy wykonywane autobusami na określonej trasie, według rozkładów jazdy i taryfy uprzednio ustalonych i ogłoszonych.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Właściwe organy Umawiających się Stron wspólnie ustalają warunki i tryb udzielania zezwoleń, o których mowa w ustępie 1.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wykonywanie przewozów podróżnych autobusami innych niż przewozy regularne nie wymaga zezwolenia.",
+   "children": [
     {
      "type": "text",
      "text": "II. Przewozy ładunków"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Z zastrzeżeniem postanowień artykułu 6 przewozy ładunków między obu państwami oraz tranzytem przez ich terytoria są wykonywane na podstawie uprzednio uzyskanych zezwoleń.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zezwolenia, o których mowa w ustępie 1, są wystawiane przewoźnikom przez właściwe organy państwa rejestracji pojazdów samochodowych, w granicach kontyngentów ustalanych corocznie we wspólnym porozumieniu na zasadzie wzajemności między właściwymi organami Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W związku z ustępami 1 i 2 niniejszego artykułu zezwolenia są corocznie wymieniane in blanco między właściwymi organami Umawiających się Stron.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Z zastrzeżeniem postanowień artykułu 6 przewozy ładunków między obu państwami oraz tranzytem przez ich terytoria są wykonywane na podstawie uprzednio uzyskanych zezwoleń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Zezwolenia, o których mowa w ustępie 1, są wystawiane przewoźnikom przez właściwe organy państwa rejestracji pojazdów samochodowych, w granicach kontyngentów ustalanych corocznie we wspólnym porozumieniu na zasadzie wzajemności między właściwymi organami Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "W związku z ustępami 1 i 2 niniejszego artykułu zezwolenia są corocznie wymieniane in blanco między właściwymi organami Umawiających się Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zezwolenie obejmuje zarówno pojazd ciągnący, jak i przyczepę lub naczepę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zezwolenie uprawnia przewoźnika do zabrania ładunku w drodze powrotnej z terytorium drugiej Umawiającej się Strony.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Zezwolenie obejmuje zarówno pojazd ciągnący, jak i przyczepę lub naczepę.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Nie wymaga zezwolenia:"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Zezwolenie uprawnia przewoźnika do zabrania ładunku w drodze powrotnej z terytorium drugiej Umawiającej się Strony.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Nie wymaga zezwolenia:",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_6/lit_a",
      "text": "przewóz eksponatów, sprzętu teatralnego i muzycznego oraz wszelkiego rodzaju inwentarza żywego i martwego przeznaczonego na międzynarodowe targi, wystawy, konkursy, zawody sportowe i inne imprezy odbywające się na terytorium jednej z Umawiających się Stron,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_6/lit_b",
      "text": "przewóz urządzeń przeznaczonych do zapisu radiowego, filmowego lub telewizyjnego na terytorium jednej z Umawiających się Stron,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_6/lit_c",
      "text": "przewóz rzeczy przesiedlenia,",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_2/lit_d",
+     "path": "art_6/lit_d",
      "text": "przewóz zwłok,",
      "children": []
     },
     {
      "type": "lit",
      "num": "e",
-     "path": "ust_2/lit_e",
+     "path": "art_6/lit_e",
      "text": "wjazd próżnego pojazdu samochodowego mającego przewieźć pojazd, który uległ uszkodzeniu, albo ładunek takiego pojazdu.",
      "children": [
       {
        "type": "text",
        "text": "III. Postanowienia ogólne"
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 7"
-      },
-      {
-       "type": "text",
-       "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania na swoim terytorium specjalnego zezwolenia na przewozy wykonywane pojazdami samochodowymi, których ciężar lub rozmiary z ładunkiem lub bez ładunku przekraczają najwyższy ciężar lub rozmiary dopuszczone na tym terytorium, jak również na przewozy materiałów niebezpiecznych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 8"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy jednej Umawiającej się Strony nie są uprawnieni do wykonywania przewozów podróżnych lub ładunków pomiędzy dwiema miejscowościami położonymi na terytorium drugiej Umawiającej się Strony.",
-   "children": []
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania na swoim terytorium specjalnego zezwolenia na przewozy wykonywane pojazdami samochodowymi, których ciężar lub rozmiary z ładunkiem lub bez ładunku przekraczają najwyższy ciężar lub rozmiary dopuszczone na tym terytorium, jak również na przewozy materiałów niebezpiecznych.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przewoźnicy jednej Umawiającej się Strony nie są uprawnieni do wykonywania przewozów podróżnych lub ładunków rozpoczynających się na terytorium drugiej Umawiającej się Strony, a kończących się na terytorium kraju trzeciego, z wyjątkiem przewozów wykonywanych tranzytem przez kraj rejestracji pojazdu samochodowego, lub przewozów, na które zostało wydane specjalne zezwolenie przez właściwy organ tej drugiej Umawiającej się Strony.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Przewoźnicy jednej Umawiającej się Strony nie są uprawnieni do wykonywania przewozów podróżnych lub ładunków pomiędzy dwiema miejscowościami położonymi na terytorium drugiej Umawiającej się Strony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Właściwe organy Umawiających się Stron ustalają we wspólnym porozumieniu sposób i zasady wymiany zezwoleń in blanco, zwrotu wykorzystanych zezwoleń oraz wymiany potrzebnych informacji statystycznych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Przewoźnicy jednej Umawiającej się Strony nie są uprawnieni do wykonywania przewozów podróżnych lub ładunków rozpoczynających się na terytorium drugiej Umawiającej się Strony, a kończących się na terytorium kraju trzeciego, z wyjątkiem przewozów wykonywanych tranzytem przez kraj rejestracji pojazdu samochodowego, lub przewozów, na które zostało wydane specjalne zezwolenie przez właściwy organ tej drugiej Umawiającej się Strony.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy jednej Umawiającej się Strony, wykonujący na terytorium drugiej Umawiającej się Strony przewozy przewidziane w niniejszej umowie, uiszczają obowiązujące na tym terytorium podatki i opłaty.",
-   "children": []
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Właściwe organy Umawiających się Stron ustalają we wspólnym porozumieniu sposób i zasady wymiany zezwoleń in blanco, zwrotu wykorzystanych zezwoleń oraz wymiany potrzebnych informacji statystycznych.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy Umawiających się Stron mogą we wzajemnym porozumieniu zastosować częściowe lub całkowite zwolnienie od tych podatków i opłat.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Przewoźnicy jednej Umawiającej się Strony, wykonujący na terytorium drugiej Umawiającej się Strony przewozy przewidziane w niniejszej umowie, uiszczają obowiązujące na tym terytorium podatki i opłaty.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Prawa jazdy wydane przez właściwy organ jednej Umawiającej się Strony i ważne na jej terytorium będą uznawane za ważne na terytorium drugiej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Paliwo i materiały pędne zawarte w zwykłych zbiornikach pojazdów samochodowych będą wolne od opłat i należności przywozowych, z tym że za zwykły zbiornik uważa się zbiornik przewidziany przez konstruktora dla danego typu pojazdu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Przewoźnicy i ich personel obowiązani są przestrzegać przepisów prawnych obowiązujących na terytorium drugiej Umawiającej się Strony, a w szczególności przepisów dotyczących ruchu drogowego i pojazdów samochodowych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "W przypadku nieszczęśliwych wypadków i innych nadzwyczajnych wydarzeń z pojazdami samochodowymi, wykonującymi przewozy na podstawie niniejszej umowy, właściwe organy Umawiającej się Strony, na której terytorium zaistniał nieszczęśliwy wypadek lub inne nadzwyczajne wydarzenie, przekazują właściwym organom drugiej Umawiającej się Strony, na ich wniosek, protokół lub niezbędne dane dotyczące tego wypadku lub wydarzenia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Właściwe organy Umawiających się Stron podają sobie wzajemnie do wiadomości poważniejsze przypadki naruszeń postanowień niniejszej umowy dokonanych przez przewoźników bądź obsługę pojazdów samochodowych drugiej Umawiającej się Strony i podejmują odpowiednie kroki w celu ich zapobiegania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Rozliczenia i płatności wynikające z wykonywania niniejszej umowy będą dokonywane zgodnie z obowiązującymi Umawiające się Strony umowami płatniczymi."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    },
-    {
-     "type": "text",
-     "text": "Właściwe organy Umawiających się Stron będą popierać zawieranie porozumień między przedsiębiorstwami lub organizacjami transportowymi w sprawie udzielania pomocy technicznej pojazdom samochodowym, które zostały uszkodzone przy wykonywaniu przewozów, jak również porozumień w sprawie zaopatrywania pojazdów samochodowych w materiały pędne i smary oraz świadczenia innych usług."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 18"
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Właściwe organy Umawiających się Stron mogą we wzajemnym porozumieniu zastosować częściowe lub całkowite zwolnienie od tych podatków i opłat.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe organy Umawiających się Stron regulują w protokole wykonawczym sprawy związane z wykonywaniem niniejszej umowy.",
-   "children": []
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Prawa jazdy wydane przez właściwy organ jednej Umawiającej się Strony i ważne na jej terytorium będą uznawane za ważne na terytorium drugiej Umawiającej się Strony.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W celu ułatwienia wykonywania niniejszej umowy oraz podejmowania na jej podstawie potrzebnych decyzji właściwe organy Umawiających się Stron powołują Komisję Mieszaną. Komisja ta zbiera się w razie potrzeby na żądanie właściwego organu jednej z Umawiających się Stron.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Paliwo i materiały pędne zawarte w zwykłych zbiornikach pojazdów samochodowych będą wolne od opłat i należności przywozowych, z tym że za zwykły zbiornik uważa się zbiornik przewidziany przez konstruktora dla danego typu pojazdu.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Przewoźnicy i ich personel obowiązani są przestrzegać przepisów prawnych obowiązujących na terytorium drugiej Umawiającej się Strony, a w szczególności przepisów dotyczących ruchu drogowego i pojazdów samochodowych.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "W przypadku nieszczęśliwych wypadków i innych nadzwyczajnych wydarzeń z pojazdami samochodowymi, wykonującymi przewozy na podstawie niniejszej umowy, właściwe organy Umawiającej się Strony, na której terytorium zaistniał nieszczęśliwy wypadek lub inne nadzwyczajne wydarzenie, przekazują właściwym organom drugiej Umawiającej się Strony, na ich wniosek, protokół lub niezbędne dane dotyczące tego wypadku lub wydarzenia.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Właściwe organy Umawiających się Stron podają sobie wzajemnie do wiadomości poważniejsze przypadki naruszeń postanowień niniejszej umowy dokonanych przez przewoźników bądź obsługę pojazdów samochodowych drugiej Umawiającej się Strony i podejmują odpowiednie kroki w celu ich zapobiegania.",
+   "children": [],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Rozliczenia i płatności wynikające z wykonywania niniejszej umowy będą dokonywane zgodnie z obowiązującymi Umawiające się Strony umowami płatniczymi.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Właściwe organy Umawiających się Stron będą popierać zawieranie porozumień między przedsiębiorstwami lub organizacjami transportowymi w sprawie udzielania pomocy technicznej pojazdom samochodowym, które zostały uszkodzone przy wykonywaniu przewozów, jak również porozumień w sprawie zaopatrywania pojazdów samochodowych w materiały pędne i smary oraz świadczenia innych usług.",
+   "children": [],
+   "label": "Artykuł 17"
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 19"
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Właściwe organy Umawiających się Stron regulują w protokole wykonawczym sprawy związane z wykonywaniem niniejszej umowy.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony podają sobie wzajemnie do wiadomości, które organy należy uważać za właściwe w rozumieniu postanowień niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 20"
+     "type": "ust",
+     "num": "2",
+     "path": "art_18/ust_2",
+     "text": "W celu ułatwienia wykonywania niniejszej umowy oraz podejmowania na jej podstawie potrzebnych decyzji właściwe organy Umawiających się Stron powołują Komisję Mieszaną. Komisja ta zbiera się w razie potrzeby na żądanie właściwego organu jednej z Umawiających się Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 18"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega zatwierdzeniu zgodnie z prawem każdej z Umawiających się Stron i wchodzi w życie w dniu wymiany not stwierdzających jej zatwierdzenie.",
-   "children": []
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Umawiające się Strony podają sobie wzajemnie do wiadomości, które organy należy uważać za właściwe w rozumieniu postanowień niniejszej umowy.",
+   "children": [],
+   "label": "Artykuł 19"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa zostaje zawarta na jeden rok, począwszy od dnia jej wejścia w życie, i będzie automatycznie przedłużana na dalsze okresy jednoroczne, o ile nie zostanie wypowiedziana przez jedną z Umawiających się Stron, w drodze notyfikacji, najpóźniej na trzy miesiące przed upływem jej ważności.",
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Umowę niniejszą sporządzono w Warszawie dnia 18 grudnia 1969 r. w dwóch egzemplarzach, każdy w językach polskim i serbo-chorwackim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Polskiej Rzeczypospolitej Socjalistycznej Federacyjnej Ludowej Republiki Jugosławii"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "SPORAZUM"
-    },
-    {
-     "type": "ocr",
-     "text": "izmedju Vlade Narodne Republike Foljske i Vlade Socijalisticke Federativne Republike Jugoslavije o medjunsrodnom drumskom pre VOZU"
-    },
-    {
-     "type": "ocr",
-     "text": "Vlada Narodne Republike Poljske i Vlada Socijalisticke Federativne Republike Jugoslavije"
-    },
-    {
-     "type": "ocr",
-     "text": "u Zelji da doprinesu razvoju prevoza-putnika i robe izmedju dve drźave, kao i tranzita preko svojin teritorija,"
-    },
-    {
-     "type": "ocr",
-     "text": "dogovorile su se o Ssledećem: Clan 1."
-    },
-    {
-     "type": "ocr",
-     "text": "1. Prevoznici Strana ugovornica mogu pod uslovima odredjenim ovim Sporazumom obavljati medjunarodni drumski prevoz izmedju dve drzave i tranzit preko njihovih teritorija vozilima registrovanim u njihovim zemljama."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Fravo o kojem se govori u stavu 1. daje se samo prevoznicima koji su u svojoj zemlji ovlagéeni da vrże medjunarodni drumski prevoz,"
-    },
-    {
-     "type": "ocr",
-     "text": "I. PREVOZ FUTNIKA"
-    },
-    {
-     "type": "ocr",
-     "text": "Slan 2."
-    },
-    {
-     "type": "ocr",
-     "text": "1. Frevognici jedne Strane ugovornice mou obavijati redovan prevoz putnika izmedju dve drzave ili tranzit preko njiaovih teritorija samo pod uslovom ako ¢rethodno dobiju dozvolu nadleźnog organa druge Strsne ugcvornice."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Fod \"redovnim prevozom putnika\" podrazumeva se prevoz ko” ji se obavlja autobusima na odredjenoj liniji, prema redu vozsnje i tarifi koji su unapred utvrdjeni i objavijeni."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Nadleżni organi Strana ugovornica zajedniśki ¢e odrediti uslove i naćin dodeljivanja dozvola o kojima se govori u stavu 1."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 3."
-    },
-    {
-     "type": "ocr",
-     "text": "Za obavljanje prevoza putnika autobusima koji ne vrśe redovni prevoz nije potrebno nikakvo odobrenje."
-    },
-    {
-     "type": "ocr",
-     "text": "II. PREVOZ ROBE"
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 4."
-    },
-    {
-     "type": "ocr",
-     "text": "1. Sa izuzetkom odredaba iz ¢l. 6. prevoz robe izmedju dve drzave, kao i tranzit preko njihovih teritorija, obavlja se na osnovu unapred dobijenih dozvola."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Dozvole o kojima se govori u stavu 1. izdaju prevoznicima nadleżni organi drźave u kojoj je vozilo registrovano, a u granicama kontingenata koji se svaxe godine sporazunno utvrdjuju izmedju nadleźnih organa strana ugevornica po principu reciprociteta."
-    },
-    {
-     "type": "ocr",
-     "text": "3. U vezi sa stavom 1. i 2. ovog Glana ove dozvole se svake godine razmenjuju blanko izmedju nadleznih organa Strana ugovornica."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 5."
-    },
-    {
-     "type": "ocr",
-     "text": "1. Dozvola obuhvata kako vućno vozilo, tako i prikolicu ili zglotno vozilo."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Dozvola dopuśta prevozniku da u polasku sa teritorije druge Strane ugovornice uzme na prevoz povratni teret."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 6."
-    },
-    {
-     "type": "ocr",
-     "text": "Nisu potrebne dozvole a/ za prevoze eksponata, opreme za pozoriśne i muzicke priredbe, kao i bilo kog inventara — Zivog ili mrtvog - upućenog na medjunarodne sajmove, sportska takmicenja ili druge rriredbe koje se odrzavaju na teritoriji jedne od strana ugovornica,"
-    },
-    {
-     "type": "ocr",
-     "text": "b/ za prevoze uredjaja namenjenih za radio, filmsko ili teleizijsko snimanje na teritoriji jedne od Strana ugovornica, <"
-    },
-    {
-     "type": "ocr",
-     "text": "c/ 2a prevoze selidbenih stvari,"
-    },
-    {
-     "type": "ocr",
-     "text": "d/ za prevoze posmrtnih ostataka, i"
-    },
-    {
-     "type": "ocr",
-     "text": "e/ za ulazak praznog vozila radi prevoza ostecenog vozila ili preuzimanja njegovog tereta."
-    },
-    {
-     "type": "ocr",
-     "text": "III. OFSTE ODREDBE"
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 7."
-    },
-    {
-     "type": "ocr",
-     "text": "Svaka Strana ugovornica zadrzava pravo da na svojoj teritoriji zahteva specijalna odobrenja za prevoze koji se vrśe vozilima cija teźina ili dimenzije sa. robom iii bez robe prelazi najveći teret ili velićinu dozvoljenu na toj teritori- Ji, kao i za prevoz opasnih materija."
-    },
-    {
-     "type": "ocr",
-     "text": "Ćlan 8. l. Frevoznici sa prebivaliśtem na teritoriji jedne Strane ugovornice nisu ovlaśćeni da vrśe prevoz putnika ili robe izmedju dva mesta koja se nalaze na teritoriji druge Strane ugovornice."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "2. Prevoznici jedne Strane ugovornice nisu ovlaśćeni da obavljaju prevoz putnika ili robe koji polaze sa teritorije druge Strane ugovornice a zavrSavaju se na teritoriji treće zemlje. Ovakvi prevozi mogu se obavljati ukoliko se tranzitira zemlja registracije vozila, ili ukoliko se za takav prevoz dobije specijalna dozvola nadleznog organa druge Strane ugovornice."
-    },
-    {
-     "type": "ocr",
-     "text": "Clan 9."
-    },
-    {
-     "type": "ocr",
-     "text": "Nadlezni organi Strana ugovornica sporazumno utvrdjuju naćin i principe razmene blanko dozvola, vraćanja iskoriśćenih dozvola, kao i razmene potrebnih statistickih podataka."
-    },
-    {
-     "type": "ocr",
-     "text": "Elan lo."
-    },
-    {
-     "type": "ocr",
-     "text": "l. Frevoznici jedne Strane ugovornice koji obevljaju prevoz na teritoriji druge Strane ugovoraice predvidjen ovim Sporazumom plaćaju dażbine i takse propisane na toj teritoriji."
-    },
-    {
-     "type": "ocr",
-     "text": "e. Nadleźni organi Strana ugovornica mozu se sporazumeti o delimićnom ili potpunom oslobodjenju od plaćanja tih daźbina i taksa."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 11."
-    },
-    {
-     "type": "ocr",
-     "text": "Vozaćke dozvole koje je izdao nadleźni or.an jedne strane ugovornice i koje vaze na njenoj teritoriji, priznavaće se na teritoriji druge Strane ugovornice."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 12."
-    },
-    {
-     "type": "ocr",
-     "text": "Gorivo i pogonski materijali koji se nalaze u obicnim rezervoarima vozila biće oslobodjeni taksa i uvoznih dazbina, s tim Sto se obićnim rezervoarom smatra rezervoar koji je predvideo konstruktor za taj tip vozila."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Ćlan 13."
-    },
-    {
-     "type": "ocr",
-     "text": "Prevoznici i njihov personal obavezni su da postuju pravne propise koji vaze na teritoriji druge Strsane ugovornice, a posebno propise koji se odnose na motorna vozila i automobilski saobraćaj."
-    },
-    {
-     "type": "ocr",
-     "text": "élan 14,"
-    },
-    {
-     "type": "ocr",
-     "text": "U slucaju saobraćajnih udesa i drugih nezzoda sa vozilom koje obavlja.prevoz na osnovu ovog Sporazuma, nadleżni organi Strane ugovornice na ćijoj se teritoriji dogodio takav slućaj, na zahtev, predaju nadleżnom organu druge Strane ugovornice zapisnik ili neophodne podatke koji se odnose na taj udes ili nezgodu."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 15."
-    },
-    {
-     "type": "ocr",
-     "text": "Nadleźni organi Strana ugovornica medjusobno se obavestavaju o teżim slucajevima krśenja odredaba ovog Sporazuma koje pocine prevoznici ili posada vozila druge Strane ugovornice i preduzimaju odgovarajuće korake u cilju njihovog sprecavanja."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 16."
-    },
-    {
-     "type": "ocr",
-     "text": "Obraćuni i plaćanja koja proisticu iz izvrSenja ovoz Sporazuma vr.iće se u skladu sa platnim sporazumom koji obavezu- Je strane ugovornice,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Ćlan 17,"
-    },
-    {
-     "type": "ocr",
-     "text": "Nadleżni organi Strana ugovornica podponoćiće sklapanje aranźmana /sporazuma/ izmedju transportnih preduzeća i njihovih organizacija o prużanju tehnicke pomoći drumskim vozilima koja pretrpe ośtećenje pri obavljanju prevoza, o snabdevanju pogonskim gorivom i mazivom i pruźanju drugio potrebnih usluga."
-    },
-    {
-     "type": "ocr",
-     "text": "Clan 18."
-    },
-    {
-     "type": "ocr",
-     "text": "1. Protokolom o izvrSenju nadleźni organi Strana ugovornica regulisu pitanja u vezi sa primenom ovog Sporazuma."
-    },
-    {
-     "type": "ocr",
-     "text": "2. U cilju lakSeg izvrśenja ovog Sporazuma, kao i donośenja potrebnin odluka na osnovu njega, nadleźni organi Strana ugovornica obrazuju meśovitu komisiju. Ova komisija se sastaje u slucaju potrebe na zahtev nadleźnih organa jedne od Strana ugovornica."
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 19."
-    },
-    {
-     "type": "ocr",
-     "text": "Strane ugovornice medjusobno se obaveśtavaju o tome koji su organi aadleźni za primenu odredaba ovos Sporazuma,"
-    },
-    {
-     "type": "ocr",
-     "text": "Glan 20."
-    },
-    {
-     "type": "ocr",
-     "text": "1. Ovaj Sporazum podleze odobrenju dveju Vlada u smislu ustavnih propisa svake Strane ugovornice i stupa na snagu na dan razmene nota kojima se potvrdjuje njegovo odobrenje."
-    },
-    {
-     "type": "ocr",
-     "text": "e. On Ge vaziti godinu dana od dana stupanja na snagu i preéutno će se produżavati iz godine u godinu, sem ako ga neka od Strana ugovornica otkaze tri meseca pre isteka njezgovog vazenja."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Ovaj Sporazum je sadinjen u VarSavi dana 18.decembra 1969 g.u dva originalna primerka svaki na poljskom i srpskohrvatskom jeziku, pri éemu oba teksta imaju jednaku snagu."
-    },
-    {
-     "type": "ocr",
-     "text": "Fo ovlaśćenju Vlade Za Vladu -Narodne Republike Poljske, Socijalisticke Federativne Republike Jugoslavije, h"
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Niniejsza umowa podlega zatwierdzeniu zgodnie z prawem każdej z Umawiających się Stron i wchodzi w życie w dniu wymiany not stwierdzających jej zatwierdzenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Niniejsza umowa zostaje zawarta na jeden rok, począwszy od dnia jej wejścia w życie, i będzie automatycznie przedłużana na dalsze okresy jednoroczne, o ile nie zostanie wypowiedziana przez jedną z Umawiających się Stron, w drodze notyfikacji, najpóźniej na trzy miesiące przed upływem jej ważności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Umowę niniejszą sporządzono w Warszawie dnia 18 grudnia 1969 r. w dwóch egzemplarzach, każdy w językach polskim i serbo-chorwackim, przy czym obydwa teksty mają jednakową moc."
+      },
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Polskiej Rzeczypospolitej Socjalistycznej Federacyjnej Ludowej Republiki Jugosławii"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "SPORAZUM"
+      },
+      {
+       "type": "ocr",
+       "text": "izmedju Vlade Narodne Republike Foljske i Vlade Socijalisticke Federativne Republike Jugoslavije o medjunsrodnom drumskom pre VOZU"
+      },
+      {
+       "type": "ocr",
+       "text": "Vlada Narodne Republike Poljske i Vlada Socijalisticke Federativne Republike Jugoslavije"
+      },
+      {
+       "type": "ocr",
+       "text": "u Zelji da doprinesu razvoju prevoza-putnika i robe izmedju dve drźave, kao i tranzita preko svojin teritorija,"
+      },
+      {
+       "type": "ocr",
+       "text": "dogovorile su se o Ssledećem: Clan 1."
+      },
+      {
+       "type": "ocr",
+       "text": "1. Prevoznici Strana ugovornica mogu pod uslovima odredjenim ovim Sporazumom obavljati medjunarodni drumski prevoz izmedju dve drzave i tranzit preko njihovih teritorija vozilima registrovanim u njihovim zemljama."
+      },
+      {
+       "type": "ocr",
+       "text": "2. Fravo o kojem se govori u stavu 1. daje se samo prevoznicima koji su u svojoj zemlji ovlagéeni da vrże medjunarodni drumski prevoz,"
+      },
+      {
+       "type": "ocr",
+       "text": "I. PREVOZ FUTNIKA"
+      },
+      {
+       "type": "ocr",
+       "text": "Slan 2."
+      },
+      {
+       "type": "ocr",
+       "text": "1. Frevognici jedne Strane ugovornice mou obavijati redovan prevoz putnika izmedju dve drzave ili tranzit preko njiaovih teritorija samo pod uslovom ako ¢rethodno dobiju dozvolu nadleźnog organa druge Strsne ugcvornice."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Fod \"redovnim prevozom putnika\" podrazumeva se prevoz ko” ji se obavlja autobusima na odredjenoj liniji, prema redu vozsnje i tarifi koji su unapred utvrdjeni i objavijeni."
+      },
+      {
+       "type": "ocr",
+       "text": "3. Nadleżni organi Strana ugovornica zajedniśki ¢e odrediti uslove i naćin dodeljivanja dozvola o kojima se govori u stavu 1."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 3."
+      },
+      {
+       "type": "ocr",
+       "text": "Za obavljanje prevoza putnika autobusima koji ne vrśe redovni prevoz nije potrebno nikakvo odobrenje."
+      },
+      {
+       "type": "ocr",
+       "text": "II. PREVOZ ROBE"
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 4."
+      },
+      {
+       "type": "ocr",
+       "text": "1. Sa izuzetkom odredaba iz ¢l. 6. prevoz robe izmedju dve drzave, kao i tranzit preko njihovih teritorija, obavlja se na osnovu unapred dobijenih dozvola."
+      },
+      {
+       "type": "ocr",
+       "text": "2. Dozvole o kojima se govori u stavu 1. izdaju prevoznicima nadleżni organi drźave u kojoj je vozilo registrovano, a u granicama kontingenata koji se svaxe godine sporazunno utvrdjuju izmedju nadleźnih organa strana ugevornica po principu reciprociteta."
+      },
+      {
+       "type": "ocr",
+       "text": "3. U vezi sa stavom 1. i 2. ovog Glana ove dozvole se svake godine razmenjuju blanko izmedju nadleznih organa Strana ugovornica."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 5."
+      },
+      {
+       "type": "ocr",
+       "text": "1. Dozvola obuhvata kako vućno vozilo, tako i prikolicu ili zglotno vozilo."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Dozvola dopuśta prevozniku da u polasku sa teritorije druge Strane ugovornice uzme na prevoz povratni teret."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 6."
+      },
+      {
+       "type": "ocr",
+       "text": "Nisu potrebne dozvole a/ za prevoze eksponata, opreme za pozoriśne i muzicke priredbe, kao i bilo kog inventara — Zivog ili mrtvog - upućenog na medjunarodne sajmove, sportska takmicenja ili druge rriredbe koje se odrzavaju na teritoriji jedne od strana ugovornica,"
+      },
+      {
+       "type": "ocr",
+       "text": "b/ za prevoze uredjaja namenjenih za radio, filmsko ili teleizijsko snimanje na teritoriji jedne od Strana ugovornica, <"
+      },
+      {
+       "type": "ocr",
+       "text": "c/ 2a prevoze selidbenih stvari,"
+      },
+      {
+       "type": "ocr",
+       "text": "d/ za prevoze posmrtnih ostataka, i"
+      },
+      {
+       "type": "ocr",
+       "text": "e/ za ulazak praznog vozila radi prevoza ostecenog vozila ili preuzimanja njegovog tereta."
+      },
+      {
+       "type": "ocr",
+       "text": "III. OFSTE ODREDBE"
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 7."
+      },
+      {
+       "type": "ocr",
+       "text": "Svaka Strana ugovornica zadrzava pravo da na svojoj teritoriji zahteva specijalna odobrenja za prevoze koji se vrśe vozilima cija teźina ili dimenzije sa. robom iii bez robe prelazi najveći teret ili velićinu dozvoljenu na toj teritori- Ji, kao i za prevoz opasnih materija."
+      },
+      {
+       "type": "ocr",
+       "text": "Ćlan 8. l. Frevoznici sa prebivaliśtem na teritoriji jedne Strane ugovornice nisu ovlaśćeni da vrśe prevoz putnika ili robe izmedju dva mesta koja se nalaze na teritoriji druge Strane ugovornice."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Prevoznici jedne Strane ugovornice nisu ovlaśćeni da obavljaju prevoz putnika ili robe koji polaze sa teritorije druge Strane ugovornice a zavrSavaju se na teritoriji treće zemlje. Ovakvi prevozi mogu se obavljati ukoliko se tranzitira zemlja registracije vozila, ili ukoliko se za takav prevoz dobije specijalna dozvola nadleznog organa druge Strane ugovornice."
+      },
+      {
+       "type": "ocr",
+       "text": "Clan 9."
+      },
+      {
+       "type": "ocr",
+       "text": "Nadlezni organi Strana ugovornica sporazumno utvrdjuju naćin i principe razmene blanko dozvola, vraćanja iskoriśćenih dozvola, kao i razmene potrebnih statistickih podataka."
+      },
+      {
+       "type": "ocr",
+       "text": "Elan lo."
+      },
+      {
+       "type": "ocr",
+       "text": "l. Frevoznici jedne Strane ugovornice koji obevljaju prevoz na teritoriji druge Strane ugovoraice predvidjen ovim Sporazumom plaćaju dażbine i takse propisane na toj teritoriji."
+      },
+      {
+       "type": "ocr",
+       "text": "e. Nadleźni organi Strana ugovornica mozu se sporazumeti o delimićnom ili potpunom oslobodjenju od plaćanja tih daźbina i taksa."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 11."
+      },
+      {
+       "type": "ocr",
+       "text": "Vozaćke dozvole koje je izdao nadleźni or.an jedne strane ugovornice i koje vaze na njenoj teritoriji, priznavaće se na teritoriji druge Strane ugovornice."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 12."
+      },
+      {
+       "type": "ocr",
+       "text": "Gorivo i pogonski materijali koji se nalaze u obicnim rezervoarima vozila biće oslobodjeni taksa i uvoznih dazbina, s tim Sto se obićnim rezervoarom smatra rezervoar koji je predvideo konstruktor za taj tip vozila."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Ćlan 13."
+      },
+      {
+       "type": "ocr",
+       "text": "Prevoznici i njihov personal obavezni su da postuju pravne propise koji vaze na teritoriji druge Strsane ugovornice, a posebno propise koji se odnose na motorna vozila i automobilski saobraćaj."
+      },
+      {
+       "type": "ocr",
+       "text": "élan 14,"
+      },
+      {
+       "type": "ocr",
+       "text": "U slucaju saobraćajnih udesa i drugih nezzoda sa vozilom koje obavlja.prevoz na osnovu ovog Sporazuma, nadleżni organi Strane ugovornice na ćijoj se teritoriji dogodio takav slućaj, na zahtev, predaju nadleżnom organu druge Strane ugovornice zapisnik ili neophodne podatke koji se odnose na taj udes ili nezgodu."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 15."
+      },
+      {
+       "type": "ocr",
+       "text": "Nadleźni organi Strana ugovornica medjusobno se obavestavaju o teżim slucajevima krśenja odredaba ovog Sporazuma koje pocine prevoznici ili posada vozila druge Strane ugovornice i preduzimaju odgovarajuće korake u cilju njihovog sprecavanja."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 16."
+      },
+      {
+       "type": "ocr",
+       "text": "Obraćuni i plaćanja koja proisticu iz izvrSenja ovoz Sporazuma vr.iće se u skladu sa platnim sporazumom koji obavezu- Je strane ugovornice,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Ćlan 17,"
+      },
+      {
+       "type": "ocr",
+       "text": "Nadleżni organi Strana ugovornica podponoćiće sklapanje aranźmana /sporazuma/ izmedju transportnih preduzeća i njihovih organizacija o prużanju tehnicke pomoći drumskim vozilima koja pretrpe ośtećenje pri obavljanju prevoza, o snabdevanju pogonskim gorivom i mazivom i pruźanju drugio potrebnih usluga."
+      },
+      {
+       "type": "ocr",
+       "text": "Clan 18."
+      },
+      {
+       "type": "ocr",
+       "text": "1. Protokolom o izvrSenju nadleźni organi Strana ugovornica regulisu pitanja u vezi sa primenom ovog Sporazuma."
+      },
+      {
+       "type": "ocr",
+       "text": "2. U cilju lakSeg izvrśenja ovog Sporazuma, kao i donośenja potrebnin odluka na osnovu njega, nadleźni organi Strana ugovornica obrazuju meśovitu komisiju. Ova komisija se sastaje u slucaju potrebe na zahtev nadleźnih organa jedne od Strana ugovornica."
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 19."
+      },
+      {
+       "type": "ocr",
+       "text": "Strane ugovornice medjusobno se obaveśtavaju o tome koji su organi aadleźni za primenu odredaba ovos Sporazuma,"
+      },
+      {
+       "type": "ocr",
+       "text": "Glan 20."
+      },
+      {
+       "type": "ocr",
+       "text": "1. Ovaj Sporazum podleze odobrenju dveju Vlada u smislu ustavnih propisa svake Strane ugovornice i stupa na snagu na dan razmene nota kojima se potvrdjuje njegovo odobrenje."
+      },
+      {
+       "type": "ocr",
+       "text": "e. On Ge vaziti godinu dana od dana stupanja na snagu i preéutno će se produżavati iz godine u godinu, sem ako ga neka od Strana ugovornica otkaze tri meseca pre isteka njezgovog vazenja."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Ovaj Sporazum je sadinjen u VarSavi dana 18.decembra 1969 g.u dva originalna primerka svaki na poljskom i srpskohrvatskom jeziku, pri éemu oba teksta imaju jednaku snagu."
+      },
+      {
+       "type": "ocr",
+       "text": "Fo ovlaśćenju Vlade Za Vladu -Narodne Republike Poljske, Socijalisticke Federativne Republike Jugoslavije, h"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 20"
   }
  ],
  "annexes": [],

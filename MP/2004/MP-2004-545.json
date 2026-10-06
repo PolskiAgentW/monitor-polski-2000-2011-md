@@ -73,97 +73,97 @@
    "text": "Sont convenus de ce qui suit:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Definicje"
-  },
-  {
-   "type": "text",
-   "text": "Dla celów niniejszej umowy użyte określenia oznaczają:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "„Właściwe organy Umawiających się Stron”:",
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Definicje",
    "children": [
     {
      "type": "text",
-     "text": "— w Rzeczypospolitej Polskiej — Ministra Transportu i Gospodarki Morskiej i upoważnione przez niego organy,"
+     "text": "Dla celów niniejszej umowy użyte określenia oznaczają:"
     },
     {
-     "type": "text",
-     "text": "— w Królestwie Maroka — Ministra Transportu i Marynarki Handlowej,"
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "„Właściwe organy Umawiających się Stron”:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— w Rzeczypospolitej Polskiej — Ministra Transportu i Gospodarki Morskiej i upoważnione przez niego organy,"
+      },
+      {
+       "type": "text",
+       "text": "— w Królestwie Maroka — Ministra Transportu i Marynarki Handlowej,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "„Statek Umawiającej się Strony”: każdy statek morski wpisany do rejestru okrętowego zgodnie z przepisami prawa obowiązującymi na terytorium Państwa tej Umawiającej się Strony i podnoszący jej banderę. Definicja ta nie obejmuje:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— okrętów marynarki wojennej,"
+      },
+      {
+       "type": "text",
+       "text": "— statków organów ochrony granic i policji,"
+      },
+      {
+       "type": "text",
+       "text": "— statków nieużytkowanych dla celów handlowych,"
+      },
+      {
+       "type": "text",
+       "text": "— statków badawczych hydrograficznych, oceanograficznych i naukowych,"
+      },
+      {
+       "type": "text",
+       "text": "— statków rybackich,"
+      },
+      {
+       "type": "text",
+       "text": "— statków o napędzie atomowym,"
+      },
+      {
+       "type": "text",
+       "text": "— statków niespełniających norm konwencji międzynarodowych przyjętych przez obie Strony,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "„Przedsiębiorstwo żeglugi morskiej Umawiającej się Strony”: osobę fizyczną lub prawną zarejestrowaną na terytorium Państwa jednej z Umawiających się Stron zgodnie z jej przepisami, posiadającą swoją siedzibę na terytorium tej Umawiającej się Strony, uprawnioną do prowadzenia żeglugi międzynarodowej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "„Członek załogi”: kapitana i każdą inną osobę spełniającą funkcje lub usługi na statku w czasie podróży i której nazwisko znajduje się na liście załogi,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "„Port Umawiającej się Strony”: każdy port morski, włączając redy, każdej z Umawiających się Stron, otwarty dla żeglugi międzynarodowej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "„Statek Umawiającej się Strony”: każdy statek morski wpisany do rejestru okrętowego zgodnie z przepisami prawa obowiązującymi na terytorium Państwa tej Umawiającej się Strony i podnoszący jej banderę. Definicja ta nie obejmuje:",
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Zakres Umowy",
    "children": [
-    {
-     "type": "text",
-     "text": "— okrętów marynarki wojennej,"
-    },
-    {
-     "type": "text",
-     "text": "— statków organów ochrony granic i policji,"
-    },
-    {
-     "type": "text",
-     "text": "— statków nieużytkowanych dla celów handlowych,"
-    },
-    {
-     "type": "text",
-     "text": "— statków badawczych hydrograficznych, oceanograficznych i naukowych,"
-    },
-    {
-     "type": "text",
-     "text": "— statków rybackich,"
-    },
-    {
-     "type": "text",
-     "text": "— statków o napędzie atomowym,"
-    },
-    {
-     "type": "text",
-     "text": "— statków niespełniających norm konwencji międzynarodowych przyjętych przez obie Strony,"
-    }
-   ]
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "„Przedsiębiorstwo żeglugi morskiej Umawiającej się Strony”: osobę fizyczną lub prawną zarejestrowaną na terytorium Państwa jednej z Umawiających się Stron zgodnie z jej przepisami, posiadającą swoją siedzibę na terytorium tej Umawiającej się Strony, uprawnioną do prowadzenia żeglugi międzynarodowej,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "„Członek załogi”: kapitana i każdą inną osobę spełniającą funkcje lub usługi na statku w czasie podróży i której nazwisko znajduje się na liście załogi,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "„Port Umawiającej się Strony”: każdy port morski, włączając redy, każdej z Umawiających się Stron, otwarty dla żeglugi międzynarodowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Zakres Umowy"
-    },
     {
      "type": "text",
      "text": "Niniejsza umowa dotyczy terytorium Rzeczypospolitej Polskiej i terytorium Królestwa Maroka i określa warunki, na jakich zorganizowany jest transport morski między portami obu Państw."
@@ -179,261 +179,263 @@
     {
      "type": "text",
      "text": "Pour les fins du présent Accord, les termes suivants sont définis comme suit:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "«Autorités compétentes»:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Pour la République de Pologne «le Ministre des Transports et de l’Economie Maritime» et les organes autorisés par lui,"
+      },
+      {
+       "type": "text",
+       "text": "— Pour le Royaume du Maroc «le Ministre du Transport et de la Marine Marchande»,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "«Navire de la Partie Contractante» tout navire de mer immatriculé sur le registre d’immatriculation des navires conformément ∫ la législation en vigueur sur le territoire du Pays de la Partie Contractante et battant son pavillon. Cette définition ne comprend pas:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Les navires de guerre;"
+      },
+      {
+       "type": "text",
+       "text": "— Les navires des organes de défense des fronti¯res et de la Police;"
+      },
+      {
+       "type": "text",
+       "text": "— Les navires non utilisés pour des fins commerciales;"
+      },
+      {
+       "type": "text",
+       "text": "— Les navires de recherches hydrographiques, océanographiques et scientifiques;"
+      },
+      {
+       "type": "text",
+       "text": "— Les navires de p˘che;"
+      },
+      {
+       "type": "text",
+       "text": "— Les navires ∫ propulsion nucléaire;"
+      },
+      {
+       "type": "text",
+       "text": "— Les navires non conformes aux normes prévues par les conventions internationales et acceptées par les deux parties,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "«L’entreprise de navigation maritime de la Partie Contractante» personne physique ou morale enregistrée sur le territoire de l’une des Parties Contractantes conformément ∫ sa réglementation, ayant son si¯ge social sur le territoire de cette Partie Contractante et autorisée ∫ opérer sur la navigation internationale,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "«Membre de l’équipage» capitaine et tout autre personne assurant des fonctions ou des services ∫ bord du navire au cours du voyage et dont le nom figure sur le rôle d’équipage,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "«Port de la Partie Contractante» tout port y compris les rades de chacune des Parties Contractantes ouvert ∫ la navigation internationale.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "Le champs de l’Accord"
+      },
+      {
+       "type": "text",
+       "text": "Le présent Accord s’applique au territoire de la République de Pologne et au territoire du Royaume du Maroc et définit les conditions dans lesquelles est organisé le trafic maritime entre les ports des deux Pays."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "«Autorités compétentes»:",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Rozwój dwustronnego transportu morskiego",
    "children": [
     {
-     "type": "text",
-     "text": "— Pour la République de Pologne «le Ministre des Transports et de l’Economie Maritime» et les organes autorisés par lui,"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Umawiające się Strony będą ściśle współpracować w celu wyeliminowania wszelkich przeszkód, które mogłyby utrudniać żeglugę między ich portami, oraz podejmą niezbędne kroki wspierające prowadzenie usług transportu morskiego zaspokajających potrzeby handlu zagranicznego między obu Państwami, zgodnie z przepisami prawa obowiązującymi w Państwach obydwu Umawiających się Stron.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "— Pour le Royaume du Maroc «le Ministre du Transport et de la Marine Marchande»,"
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Umawiające się Strony będą przestrzegać zasad niedyskryminacji i wolnej konkurencji w żegludze morskiej między ich portami na zasadach równości, zrównoważenia i wzajemności interesów, zgodnie z przepisami prawa obowiązującymi w Państwach obydwu Umawiających się Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "«Navire de la Partie Contractante» tout navire de mer immatriculé sur le registre d’immatriculation des navires conformément ∫ la législation en vigueur sur le territoire du Pays de la Partie Contractante et battant son pavillon. Cette définition ne comprend pas:",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Zobowiązania międzynarodowe",
    "children": [
     {
-     "type": "text",
-     "text": "— Les navires de guerre;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Postanowienia niniejszej Umowy nie naruszają praw i zobowiązań Umawiających się Stron, wynikających z wiążących je umów międzynarodowych lub z ich członkostwa w organizacjach międzynarodowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "— Les navires des organes de défense des fronti¯res et de la Police;"
-    },
-    {
-     "type": "text",
-     "text": "— Les navires non utilisés pour des fins commerciales;"
-    },
-    {
-     "type": "text",
-     "text": "— Les navires de recherches hydrographiques, océanographiques et scientifiques;"
-    },
-    {
-     "type": "text",
-     "text": "— Les navires de p˘che;"
-    },
-    {
-     "type": "text",
-     "text": "— Les navires ∫ propulsion nucléaire;"
-    },
-    {
-     "type": "text",
-     "text": "— Les navires non conformes aux normes prévues par les conventions internationales et acceptées par les deux parties,"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Umawiające się Strony dołożą starań, aby związać się odnośnymi umowami międzynarodowymi o bezpieczeństwie w żegludze morskiej, o socjalnych warunkach pracy marynarzy i o ochronie środowiska morskiego.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "«L’entreprise de navigation maritime de la Partie Contractante» personne physique ou morale enregistrée sur le territoire de l’une des Parties Contractantes conformément ∫ sa réglementation, ayant son si¯ge social sur le territoire de cette Partie Contractante et autorisée ∫ opérer sur la navigation internationale,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "«Membre de l’équipage» capitaine et tout autre personne assurant des fonctions ou des services ∫ bord du navire au cours du voyage et dont le nom figure sur le rôle d’équipage,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "«Port de la Partie Contractante» tout port y compris les rades de chacune des Parties Contractantes ouvert ∫ la navigation internationale.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Traktowanie statków w portach i na wodach terytorialnych",
    "children": [
     {
-     "type": "text",
-     "text": "Article 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Każda z Umawiających się Stron zapewnia statkom drugiej Umawiającej się Strony takie samo traktowanie, jakie jest przewidziane dla statków państwa najbardziej uprzywilejowanego w swoich portach, na wodach terytorialnych i innych obszarach podlegających jej suwerennym prawom.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Postanowienia niniejszego artykułu dotyczą również dostępu do portów, poboru opłat i podatków portowych, traktowania podczas pobytu w portach i wyjścia z portów, przy korzystaniu z urządzeń przeładunkowych towarów, jak również dostępu do wszystkich innych usług i urządzeń portowych."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Le champs de l’Accord"
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Zasada wymieniona w ustępie 1 niniejszego artykułu dotyczy również prawa przedsiębiorstw żeglugi morskiej obu Umawiających się Stron do tworzenia przedstawicielstw na terytorium Państwa drugiej Umawiającej się Strony, zgodnie z przepisami prawa obowiązującymi na terytorium jej Państwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "Développement du transport maritime bilatéral"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Le présent Accord s’applique au territoire de la République de Pologne et au territoire du Royaume du Maroc et définit les conditions dans lesquelles est organisé le trafic maritime entre les ports des deux Pays."
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Les Parties Contractantes coop¯rent étroitement en vue d’éliminer tous les obstacles pouvant entraver la navigation entre leurs ports respectifs et prendront les mesures nécessaires pour promouvoir l’instauration de services de transport maritime suffisants en vue de couvrir les intér˘ts du commerce extérieur entre les deux Pays conformément ∫ la législation en vigueur des dites Parties Contractantes.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Les Parties Contractantes respecteront le principe de la non-discrimination et de la libre concurrence dans la navigation maritime entre leurs ports respectifs sur la base de l’égalité, de l’équilibre et de la réciprocité des intér˘ts conformément ∫ la législation en vigueur des deux Parties Contractantes.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "Obligations internationales"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Rozwój dwustronnego transportu morskiego"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Les dispositions du présent Accord ne portent pas atteinte aux droits et obligations des Parties Contractantes résultant des accords internationaux ou découlant de leur engagements au sein des organisations internationales.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Les Parties Contractantes entreprendront des démarches pour appliquer les accords internationaux relatifs ∫ la sécurité de navigation maritime, aux conditions de travail des marins et ∫ la protection de l’environnement marin.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Traitement des navires dans les ports et dans les eaux territoriales"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Chacune des Parties Contractantes assure aux navires de l’autre Partie Contractante les m˘mes droits de traitement que ceux prévus pour les navires des pays les plus privilégiés dans leurs ports, les eaux territoriales et autres espaces se trouvant sous sa souveraineté.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Les dispositions du présent article concernent l’acc¯s aux ports, la perception de taxes et de droits de ports, le traitement durant l’escale dans le port, la sortie du port, les installations de manutention de marchandises ainsi que tous les autres services et installation portuaires."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Le principe cité dans le 1er. paragraphe de cet article, porte aussi sur le droit des entreprises de navigation maritime des deux Parties Contractantes de créer des représentations sur le territoire du Pays de la deuxi¯me Partie Contractante, conformément aux lois en vigueur sur le territoire de leur Pays.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą ściśle współpracować w celu wyeliminowania wszelkich przeszkód, które mogłyby utrudniać żeglugę między ich portami, oraz podejmą niezbędne kroki wspierające prowadzenie usług transportu morskiego zaspokajających potrzeby handlu zagranicznego między obu Państwami, zgodnie z przepisami prawa obowiązującymi w Państwach obydwu Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą przestrzegać zasad niedyskryminacji i wolnej konkurencji w żegludze morskiej między ich portami na zasadach równości, zrównoważenia i wzajemności interesów, zgodnie z przepisami prawa obowiązującymi w Państwach obydwu Umawiających się Stron.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Swobodny transfer",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Zobowiązania międzynarodowe"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Postanowienia niniejszej Umowy nie naruszają praw i zobowiązań Umawiających się Stron, wynikających z wiążących je umów międzynarodowych lub z ich członkostwa w organizacjach międzynarodowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony dołożą starań, aby związać się odnośnymi umowami międzynarodowymi o bezpieczeństwie w żegludze morskiej, o socjalnych warunkach pracy marynarzy i o ochronie środowiska morskiego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Traktowanie statków w portach i na wodach terytorialnych"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron zapewnia statkom drugiej Umawiającej się Strony takie samo traktowanie, jakie jest przewidziane dla statków państwa najbardziej uprzywilejowanego w swoich portach, na wodach terytorialnych i innych obszarach podlegających jej suwerennym prawom.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Postanowienia niniejszego artykułu dotyczą również dostępu do portów, poboru opłat i podatków portowych, traktowania podczas pobytu w portach i wyjścia z portów, przy korzystaniu z urządzeń przeładunkowych towarów, jak również dostępu do wszystkich innych usług i urządzeń portowych."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zasada wymieniona w ustępie 1 niniejszego artykułu dotyczy również prawa przedsiębiorstw żeglugi morskiej obu Umawiających się Stron do tworzenia przedstawicielstw na terytorium Państwa drugiej Umawiającej się Strony, zgodnie z przepisami prawa obowiązującymi na terytorium jej Państwa.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "Développement du transport maritime bilatéral"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Les Parties Contractantes coop¯rent étroitement en vue d’éliminer tous les obstacles pouvant entraver la navigation entre leurs ports respectifs et prendront les mesures nécessaires pour promouvoir l’instauration de services de transport maritime suffisants en vue de couvrir les intér˘ts du commerce extérieur entre les deux Pays conformément ∫ la législation en vigueur des dites Parties Contractantes.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Les Parties Contractantes respecteront le principe de la non-discrimination et de la libre concurrence dans la navigation maritime entre leurs ports respectifs sur la base de l’égalité, de l’équilibre et de la réciprocité des intér˘ts conformément ∫ la législation en vigueur des deux Parties Contractantes.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "Obligations internationales"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Les dispositions du présent Accord ne portent pas atteinte aux droits et obligations des Parties Contractantes résultant des accords internationaux ou découlant de leur engagements au sein des organisations internationales.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Les Parties Contractantes entreprendront des démarches pour appliquer les accords internationaux relatifs ∫ la sécurité de navigation maritime, aux conditions de travail des marins et ∫ la protection de l’environnement marin.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "Traitement des navires dans les ports et dans les eaux territoriales"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Chacune des Parties Contractantes assure aux navires de l’autre Partie Contractante les m˘mes droits de traitement que ceux prévus pour les navires des pays les plus privilégiés dans leurs ports, les eaux territoriales et autres espaces se trouvant sous sa souveraineté.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Les dispositions du présent article concernent l’acc¯s aux ports, la perception de taxes et de droits de ports, le traitement durant l’escale dans le port, la sortie du port, les installations de manutention de marchandises ainsi que tous les autres services et installation portuaires."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Le principe cité dans le 1er. paragraphe de cet article, porte aussi sur le droit des entreprises de navigation maritime des deux Parties Contractantes de créer des représentations sur le territoire du Pays de la deuxi¯me Partie Contractante, conformément aux lois en vigueur sur le territoire de leur Pays.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Swobodny transfer"
-    },
     {
      "type": "text",
      "text": "Każda z Umawiających się Stron przyznaje przedsiębiorstwom żeglugi morskiej drugiej Umawiającej się Strony prawo do wykorzystania przychodów za usługi w transporcie morskim uzyskane na terytorium jej Państwa na płatności wynikające z prowadzonej tam żeglugi morskiej i zapewni swobodny transfer tych przychodów w przeliczeniu na waluty wymienialne."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Dziedziny wyłączone z zakresu umowy"
-    },
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Dziedziny wyłączone z zakresu umowy",
+   "children": [
     {
      "type": "text",
      "text": "Niniejsza umowa nie obejmuje:"
@@ -441,49 +443,49 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_7/lit_a",
      "text": "przewozu pasażerów i towarów między portami tej samej Umawiającej się Strony: żeglugi przybrzeżnej oraz usług pilotowania, pogłębiania, holowania i pomocy zastrzeżonych dla przedsiębiorstw Umawiających się Stron. Jednakże fakt, iż statki jednej z Umawiających się Stron, pływające od portu do portu drugiej Umawiającej się Strony, dokonują rozładunku lub załadunku towarów lub pasażerów pochodzących lub przeznaczonych dla zagranicy, nie będzie uznany za żeglugę kabotażową,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_7/lit_b",
      "text": "naukowych badań morza.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Przestrzeganie przepisów prawnych Umawiających się Stron na ich terytorium"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Statki jednej Umawiającej się Strony, jak również ich załogi, pasażerowie i ładunek, znajdujące się na terytorium Państwa drugiej Umawiającej się Strony, podlegają obowiązującym przepisom prawa Państwa pobytu, a w szczególności w zakresie bezpieczeństwa transportu morskiego, wjazdu, pobytu i wyjazdu załóg i pasażerów, jak również przywozu, wywozu i składowania niebezpiecznych towarów oraz w zakresie rozładunku i ochrony przed zanieczyszczeniem środowiska morskiego, imigracji, ceł, podatków oraz przepisów sanitarnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Podczas pobytu na terytorium Państwa jednej z Umawiających się Stron statki drugiej Umawiającej się Strony podlegają przepisom dotyczącym wyposażenia, urządzeń, środków bezpieczeństwa statków, kontroli bezpieczeństwa żeglugi, zgodnie z obowiązującymi konwencjami międzynarodowymi.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Przestrzeganie przepisów prawnych Umawiających się Stron na ich terytorium",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Statki jednej Umawiającej się Strony, jak również ich załogi, pasażerowie i ładunek, znajdujące się na terytorium Państwa drugiej Umawiającej się Strony, podlegają obowiązującym przepisom prawa Państwa pobytu, a w szczególności w zakresie bezpieczeństwa transportu morskiego, wjazdu, pobytu i wyjazdu załóg i pasażerów, jak również przywozu, wywozu i składowania niebezpiecznych towarów oraz w zakresie rozładunku i ochrony przed zanieczyszczeniem środowiska morskiego, imigracji, ceł, podatków oraz przepisów sanitarnych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Ułatwienia dla transportu morskiego"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Podczas pobytu na terytorium Państwa jednej z Umawiających się Stron statki drugiej Umawiającej się Strony podlegają przepisom dotyczącym wyposażenia, urządzeń, środków bezpieczeństwa statków, kontroli bezpieczeństwa żeglugi, zgodnie z obowiązującymi konwencjami międzynarodowymi.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Ułatwienia dla transportu morskiego",
+   "children": [
     {
      "type": "text",
      "text": "Umawiające się Strony podejmą, w ramach przepisów prawnych obowiązujących na terytorium ich Article 6"
@@ -511,14 +513,14 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_9/lit_a",
      "text": "Le transport de passagers et de marchandises entre les ports de la m˘me Partie Contractante: cabotage ainsi que les services de pilotage, de dragage, de remorquage et d’assistance réservés aux entreprises des Parties Contractantes. Toutefois, le fait pour les navires d’une Partie Contractante navigant d’un port ∫ l’autre de la deuxi¯me Partie Contractante de débarquer ou embarquer des marchandises ou des passagers en provenance ou ∫ destination de l’étranger ne sera pas considéré comme cabotage,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_9/lit_b",
      "text": "Les recherches scientifiques en mer.",
      "children": [
       {
@@ -530,372 +532,375 @@
        "text": "Respect des lois et législations des Parties Contractantes sur leur territoire"
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Les navires de l’une des Parties Contractantes ainsi que les équipages, les passagers et la cargaison qui se trouvent sur le territoire du Pays de la deuxi¯me Partie Contractante, sont soumis ∫ la législation en vigueur dans le pays de séjour et en particulier en mati¯re de sécurité du transport maritime, d’entrée, de séjour et du départ des équipages et des passagers, ainsi que dans le domaine de l’importation, de l’exportation et du stockage des marchandises dangereuses et concernant le débarquement et la protection contre la pollution marine, l’immigration, les douanes, les taxes et les réglementations sanitaires.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Pendant le séjour sur le territoire du pays de l’une des Parties Contractantes, les navires de l’autre Partie Contractante sont soumis aux prescriptions portant sur l’équipement, les installations, les moyens de sécurité des navires, le contrôle de la sécurité de navigation conformément aux conventions internationales en vigueur.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "Facilitation du transport maritime"
+      },
+      {
+       "type": "text",
+       "text": "Les deux Parties Contractantes prendront dans le cadre de leur législation et de leur réglementation Państw oraz ich przepisów portowych, wszelkie niezbędne działania w celu ułatwienia i uproszczenia formalności administracyjnych, celnych i sanitarnych obowiązujących w ich portach oraz wszelkich innych formalności stosowanych w ich portach."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Les navires de l’une des Parties Contractantes ainsi que les équipages, les passagers et la cargaison qui se trouvent sur le territoire du Pays de la deuxi¯me Partie Contractante, sont soumis ∫ la législation en vigueur dans le pays de séjour et en particulier en mati¯re de sécurité du transport maritime, d’entrée, de séjour et du départ des équipages et des passagers, ainsi que dans le domaine de l’importation, de l’exportation et du stockage des marchandises dangereuses et concernant le débarquement et la protection contre la pollution marine, l’immigration, les douanes, les taxes et les réglementations sanitaires.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pendant le séjour sur le territoire du pays de l’une des Parties Contractantes, les navires de l’autre Partie Contractante sont soumis aux prescriptions portant sur l’équipement, les installations, les moyens de sécurité des navires, le contrôle de la sécurité de navigation conformément aux conventions internationales en vigueur.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Wzajemne uznawanie dokumentów statku",
    "children": [
     {
-     "type": "text",
-     "text": "Article 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Każda z Umawiających się Stron uznaje przynależność państwową statków drugiej Strony na podstawie dokumentów znajdujących się na pokładzie tych statków, wydanych przez właściwe organy, zgodnie z przepisami prawnymi tej Umawiającej się Strony, pod której banderą pływa statek.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Facilitation du transport maritime"
-    },
-    {
-     "type": "text",
-     "text": "Les deux Parties Contractantes prendront dans le cadre de leur législation et de leur réglementation Państw oraz ich przepisów portowych, wszelkie niezbędne działania w celu ułatwienia i uproszczenia formalności administracyjnych, celnych i sanitarnych obowiązujących w ich portach oraz wszelkich innych formalności stosowanych w ich portach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Wzajemne uznawanie dokumentów statku"
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Każda z Umawiających się Stron uznaje wszystkie dokumenty znajdujące się na pokładzie statków drugiej Strony dotyczące ich wyposażenia, ich załogi, ich pojemności oraz wszystkie inne certyfikaty i dokumenty wydane przez właściwe organy, zgodnie z przepisami prawnymi tej Umawiającej się Strony, pod której banderą pływa statek.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Każda z Umawiających się Stron uznaje międzynarodowe świadectwa pomiarowe. Statki posiadające takie świadectwa nie mogą być poddawane nowym pomiarom w portach drugiej Umawiającej się Strony. W razie konieczności wszystkie opłaty i koszty muszą być obliczane na podstawie tych świadectw."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron uznaje przynależność państwową statków drugiej Strony na podstawie dokumentów znajdujących się na pokładzie tych statków, wydanych przez właściwe organy, zgodnie z przepisami prawnymi tej Umawiającej się Strony, pod której banderą pływa statek.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda z Umawiających się Stron uznaje wszystkie dokumenty znajdujące się na pokładzie statków drugiej Strony dotyczące ich wyposażenia, ich załogi, ich pojemności oraz wszystkie inne certyfikaty i dokumenty wydane przez właściwe organy, zgodnie z przepisami prawnymi tej Umawiającej się Strony, pod której banderą pływa statek.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Dokumenty tożsamości członków załogi",
    "children": [
     {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron uznaje międzynarodowe świadectwa pomiarowe. Statki posiadające takie świadectwa nie mogą być poddawane nowym pomiarom w portach drugiej Umawiającej się Strony. W razie konieczności wszystkie opłaty i koszty muszą być obliczane na podstawie tych świadectw."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Każda z Umawiających się Stron uznaje dokumenty tożsamości członków załóg wydane przez właściwe organy drugiej Umawiającej się Strony i przyznaje posiadaczom tych dokumentów prawa, o których jest mowa w artykule 12. Dokumentami tymi są:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— dla obywateli Rzeczypospolitej Polskiej — „Książeczka żeglarska”,"
+      },
+      {
+       "type": "text",
+       "text": "— dla obywateli Królestwa Maroka — „Książeczka żeglarska”."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Po wejściu w życie niniejszej umowy każda zmiana dokumentów wymienionych w ustępie 1 przez jedną z Umawiających się Stron będzie przedmiotem notyfikacji do drugiej Umawiającej się Strony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Dokumenty tożsamości członków załogi"
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Członkowie załogi statku jednej z Umawiających się Stron, będący obywatelami państw trzecich, posiadający ważny dokument tożsamości, mają prawo do takiego samego traktowania, jak marynarze jednej z Umawiających się Stron, zgodnie z przepisami prawa obowiązującymi w danym Państwie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "portuaires respectives les mesures nécessaires en vue de faciliter et de simplifier l’accomplissement des formalités administratives, douani¯res et sanitaires en vigueur dans leurs ports respectifs, ainsi que toutes les autres formalités applicables dans leurs ports."
+      },
+      {
+       "type": "text",
+       "text": "Article 10"
+      },
+      {
+       "type": "text",
+       "text": "Reconnaissance mutuelle des documents du navire"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Chacune des Parties Contractantes reconnaît la nationalité des navires de l’autre Partie sur la base des documents se trouvant ∫ bord de ces navires et qui sont délivrés par les autorités compétentes conformément aux dispositions légales et réglementaires de la Partie Contractante dont le navire bat pavillon.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Chacune des Parties Contractantes reconnaît tous les documents se trouvant ∫ bord des navires de l’autre partie relatifs ∫ leur équipement, leur équipage, leur jauge et tous les autres certificats et documents délivrés par les autorités compétentes, conformément aux dispositions légales et réglementaires de la Partie Contractante dont le navire bat pavillon.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Chacune des Parties Contractantes reconnaît les certificats internationaux de jaugeage. Les navires disposant de pareils certificats ne doivent pas ˘tre soumis ∫ une nouvelle évaluation au niveau des ports de l’autre Partie Contractante. En cas de nécessité, toutes les taxes et charges similaires doivent ˘tre calculées sur la base de ces certificats."
+      },
+      {
+       "type": "text",
+       "text": "Article 11"
+      },
+      {
+       "type": "text",
+       "text": "Documents d’identité des membres de l’équipage"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Chacune des Parties Contractantes reconnaît les pi¯ces d’identité des membres des équipages, délivrées par les autorités compétentes de la deuxi¯me Partie Contractante et accorde aux titulaires de ces documents les droits précisés dans l’article 12; ces documents sont:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Pour les citoyens de la République de Pologne «Le livret maritime»."
+      },
+      {
+       "type": "text",
+       "text": "— Pour les citoyens du Royaume du Maroc «Le livret maritime»."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Apr¯s l’entrée en vigueur du présent Accord, toute modification des documents cités au paragraphe 1 donnera lieu ∫ notification ∫ l’autre Partie Contractante.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Les ressortissants d’un pays tiers, membres de l’équipage sur le navire de l’une des Partie Contractante et disposant d’un document de navigation valable ont droit au m˘me traitement que celui réservé aux marins de l’une des Parties Contractantes, conformément ∫ la réglementation en vigueur dans le Pays.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "Umawiające się Strony zobowiązują się do przyjęcia bez zbędnych formalności z terytorium drugiej Umawiającej się Strony członków załogi, obywateli Państwa jednej z Umawiających się Stron, którzy zeszli na ląd na terytorium drugiej Umawiającej się Strony, posiadaczy ważnego dokumentu tożsamości, przebywających w tym kraju, którzy popełnili czyny sprzeczne z postanowieniami artykułu 8 lub 12.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "Umawiające się Strony zobowiązują się do przyjęcia bez zbędnych formalności z terytorium drugiej Umawiającej się Strony członków załogi, którzy nie są obywatelami Państw Umawiających się Stron, którzy znaleźli się na terytorium jednej z Umawiających się Stron z ważnym dokumentem tożsamości, wymienionym w ustępie 1 niniejszego artykułu, którzy popełnili czyny sprzeczne z postanowieniami artykułu 8 lub 12.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dotyczy to także osób przybyłych na terytorium drugiej Umawiającej się Strony w sposób nielegalny, na pokładzie statku."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron uznaje dokumenty tożsamości członków załóg wydane przez właściwe organy drugiej Umawiającej się Strony i przyznaje posiadaczom tych dokumentów prawa, o których jest mowa w artykule 12. Dokumentami tymi są:",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Wjazd, tranzyt i pobyt członków załóg",
    "children": [
     {
-     "type": "text",
-     "text": "— dla obywateli Rzeczypospolitej Polskiej — „Książeczka żeglarska”,"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Każda z Umawiających się Stron zezwala członkom załogi statku drugiej Umawiającej się Strony, posiadającym jeden z dokumentów wymienionych w artykule 11, na zejście na ląd oraz przebywanie w obrębie miasta portowego bez wizy (uprzednio uzyskanego zezwolenia na pobyt) przez czas oczekiwania na statek, zgodnie z przepisami obowiązującymi w Państwie pobytu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "— dla obywateli Królestwa Maroka — „Książeczka żeglarska”."
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Każdy członek załogi, będący posiadaczem jednego z wymienionych w artykule 11 dokumentów, może przejechać tranzytem przez terytorium Państwa drugiej Umawiającej się Strony w następujących przypadkach:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— powrotu do własnego Państwa,"
+      },
+      {
+       "type": "text",
+       "text": "— udania się na swój lub inny statek,"
+      },
+      {
+       "type": "text",
+       "text": "— w innym celu uznanym przez właściwe organy drugiej Umawiającej się Strony za uzasadniony."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Jeżeli według obowiązujących przepisów dotyczących pobytu cudzoziemców wymagane jest uzyskanie wizy (zezwolenia na pobyt uzyskanego przed wyjazdem) na tranzyt, o którym mowa w ustępie 2, zostanie ona wydana w możliwie najkrótszym terminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Właściwe organy Umawiających się Stron wydadzą zezwolenie na pobyt członkowi załogi, który został odwieziony do szpitala na terytorium ich Państwa, na czas leczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Umawiające się Strony zastrzegają sobie prawo odmowy wjazdu na terytorium ich Państwa osób nie-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Les membres de l’équipage, citoyens du Pays de l’une des Parties Contractantes qui sont débarqués sur le territoire de l’autre Partie Contractante, titulaire d’un document valable et séjournant dans ce pays et qui ont commis des actes contraires aux dispositions des articles 8 et 12, seront admis par l’autre Partie Contractante sans formalités supplémentaires.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Les membres de l’équipage, qui ne sont pas citoyens des Parties Contractantes et qui se sont trouvés sur le territoire de l’une des Parties Contractantes munis d’un document tel que mentionné dans le 1er. paragraphe du présent article et qui ont commis des actes contraires aux dispositions des articles 8 ou 12, seront admis par l’autre Partie Contractante sans formalités supplémentaires.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ceci concerne aussi les personnes venant de mani¯re illégale par navire sur le territoire de l’autre Partie Contractante."
+      },
+      {
+       "type": "text",
+       "text": "Article 12"
+      },
+      {
+       "type": "text",
+       "text": "Entrée, transit et séjour des membres des équipages."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Chacune des Parties Contractantes autorise les membres de l’équipage du navire de l’autre Partie Contractante détenant l’un des documents cités dans l’article 11, ∫ débarquer et séjourner sans visa (autorisation de séjour préalable) dans les limites de la ville portuaire durant l’attente du navire, conformément ∫ la réglementation en vigueur dans le Pays de séjour.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Chaque membre de l’équipage, détenant l’un des documents prévue par l’article 11 peut transiter par le territoire du Pays de l’autre Partie Contractante dans les cas suivants:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Retourner vers son pays;"
+      },
+      {
+       "type": "text",
+       "text": "— Regagner son navire ou un autre;"
+      },
+      {
+       "type": "text",
+       "text": "— Voyager dans un autre but, reconnu valable par les autorités compétentes de l’autre Partie Contractante."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Si la réglementation en vigueur concernant le séjour des étrangers impose l’obtention d’un visa (autorisation de séjour délivrée avant le départ) pour effectuer le transit mentionné dans le paragrape 2, il sera délivré dans les plus brefs délais.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Les autorités compétentes des Parties Contractantes délivreront une autorisation de séjour au membre d’équipage hospitalisé sur le territoire du Pays pour la période du traitement médical.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Les Parties Contractantes se réservent le droit de refuser l’entrée sur leur territoire aux personnes pożądanych także w tych przypadkach, gdy osoby te są posiadaczami jednego z dokumentów wymienionych w artykule 11.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_12/ust_6",
+     "text": "Postanowienia zawarte w ustępach 1—5 nie naruszają przepisów prawa Państw Umawiających się Stron dotyczących wjazdu, pobytu i wyjazdu cudzoziemców.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Po wejściu w życie niniejszej umowy każda zmiana dokumentów wymienionych w ustępie 1 przez jedną z Umawiających się Stron będzie przedmiotem notyfikacji do drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Członkowie załogi statku jednej z Umawiających się Stron, będący obywatelami państw trzecich, posiadający ważny dokument tożsamości, mają prawo do takiego samego traktowania, jak marynarze jednej z Umawiających się Stron, zgodnie z przepisami prawa obowiązującymi w danym Państwie.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Wypadki morskie",
    "children": [
     {
-     "type": "text",
-     "text": "portuaires respectives les mesures nécessaires en vue de faciliter et de simplifier l’accomplissement des formalités administratives, douani¯res et sanitaires en vigueur dans leurs ports respectifs, ainsi que toutes les autres formalités applicables dans leurs ports."
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Jeżeli statek podnoszący banderę jednej Umawiającej się Strony ulegnie wypadkowi lub znajdzie się w innej niebezpiecznej sytuacji na wodach wewnętrznych lub na morzu terytorialnym Państwa drugiej Umawiającej się Strony, to właściwe władze tej Umawiającej się Strony podejmą wszystkie niezbędne kroki w celu udzielenia pomocy i opieki pasażerom, członkom załogi, statkowi i towarom, w tym samym zakresie, w jakim byłaby udzielona statkowi pod własną banderą. Podczas ustalania przyczyn wypadków morskich Umawiające się Strony będą stosować zasady wyrażone w postanowieniach Międzynarodowej Organizacji Morskiej oraz zgodne z ustawodawstwem wewnętrznym obu Stron.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Article 10"
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Właściwe organy jednej Umawiającej się Strony, na terytorium Państwa której statek drugiej Umawiającej się Strony doznał wypadku, wymienionego w ustępie 1, powiadomią w możliwie najkrótszym czasie o tym wydarzeniu najbliższy urząd konsularny Państwa drugiej Umawiającej się Strony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Reconnaissance mutuelle des documents du navire"
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "O zaistniałym wypadku lub niebezpiecznej sytuacji statku drugiej Umawiającej się Strony na wodach wewnętrznych lub na morzu terytorialnym zostaną w możliwie najkrótszym czasie poinformowane organy celne. Wyposażenie i urządzenia okrętowe, ładunek, części zamienne i zapasy znajdujące się na uszkodzonym statku nie będą podlegały ocleniu i innym opłatom importowym, jeżeli nie będą one wprowadzone do lokalnego obrotu towarowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_13/ust_4",
+     "text": "Postanowienia niniejszego artykułu nie ograniczają jakichkolwiek praw do roszczeń z tytułu ratownictwa, pomocy i opieki udzielonej statkowi, jego pasażerom, załodze i ładunkowi.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Chacune des Parties Contractantes reconnaît la nationalité des navires de l’autre Partie sur la base des documents se trouvant ∫ bord de ces navires et qui sont délivrés par les autorités compétentes conformément aux dispositions légales et réglementaires de la Partie Contractante dont le navire bat pavillon.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Chacune des Parties Contractantes reconnaît tous les documents se trouvant ∫ bord des navires de l’autre partie relatifs ∫ leur équipement, leur équipage, leur jauge et tous les autres certificats et documents délivrés par les autorités compétentes, conformément aux dispositions légales et réglementaires de la Partie Contractante dont le navire bat pavillon.",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Współpraca techniczna",
    "children": [
-    {
-     "type": "text",
-     "text": "Chacune des Parties Contractantes reconnaît les certificats internationaux de jaugeage. Les navires disposant de pareils certificats ne doivent pas ˘tre soumis ∫ une nouvelle évaluation au niveau des ports de l’autre Partie Contractante. En cas de nécessité, toutes les taxes et charges similaires doivent ˘tre calculées sur la base de ces certificats."
-    },
-    {
-     "type": "text",
-     "text": "Article 11"
-    },
-    {
-     "type": "text",
-     "text": "Documents d’identité des membres de l’équipage"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Chacune des Parties Contractantes reconnaît les pi¯ces d’identité des membres des équipages, délivrées par les autorités compétentes de la deuxi¯me Partie Contractante et accorde aux titulaires de ces documents les droits précisés dans l’article 12; ces documents sont:",
-   "children": [
-    {
-     "type": "text",
-     "text": "— Pour les citoyens de la République de Pologne «Le livret maritime»."
-    },
-    {
-     "type": "text",
-     "text": "— Pour les citoyens du Royaume du Maroc «Le livret maritime»."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Apr¯s l’entrée en vigueur du présent Accord, toute modification des documents cités au paragraphe 1 donnera lieu ∫ notification ∫ l’autre Partie Contractante.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Les ressortissants d’un pays tiers, membres de l’équipage sur le navire de l’une des Partie Contractante et disposant d’un document de navigation valable ont droit au m˘me traitement que celui réservé aux marins de l’une des Parties Contractantes, conformément ∫ la réglementation en vigueur dans le Pays.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony zobowiązują się do przyjęcia bez zbędnych formalności z terytorium drugiej Umawiającej się Strony członków załogi, obywateli Państwa jednej z Umawiających się Stron, którzy zeszli na ląd na terytorium drugiej Umawiającej się Strony, posiadaczy ważnego dokumentu tożsamości, przebywających w tym kraju, którzy popełnili czyny sprzeczne z postanowieniami artykułu 8 lub 12.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Umawiające się Strony zobowiązują się do przyjęcia bez zbędnych formalności z terytorium drugiej Umawiającej się Strony członków załogi, którzy nie są obywatelami Państw Umawiających się Stron, którzy znaleźli się na terytorium jednej z Umawiających się Stron z ważnym dokumentem tożsamości, wymienionym w ustępie 1 niniejszego artykułu, którzy popełnili czyny sprzeczne z postanowieniami artykułu 8 lub 12.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dotyczy to także osób przybyłych na terytorium drugiej Umawiającej się Strony w sposób nielegalny, na pokładzie statku."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Wjazd, tranzyt i pobyt członków załóg"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron zezwala członkom załogi statku drugiej Umawiającej się Strony, posiadającym jeden z dokumentów wymienionych w artykule 11, na zejście na ląd oraz przebywanie w obrębie miasta portowego bez wizy (uprzednio uzyskanego zezwolenia na pobyt) przez czas oczekiwania na statek, zgodnie z przepisami obowiązującymi w Państwie pobytu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdy członek załogi, będący posiadaczem jednego z wymienionych w artykule 11 dokumentów, może przejechać tranzytem przez terytorium Państwa drugiej Umawiającej się Strony w następujących przypadkach:",
-   "children": [
-    {
-     "type": "text",
-     "text": "— powrotu do własnego Państwa,"
-    },
-    {
-     "type": "text",
-     "text": "— udania się na swój lub inny statek,"
-    },
-    {
-     "type": "text",
-     "text": "— w innym celu uznanym przez właściwe organy drugiej Umawiającej się Strony za uzasadniony."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli według obowiązujących przepisów dotyczących pobytu cudzoziemców wymagane jest uzyskanie wizy (zezwolenia na pobyt uzyskanego przed wyjazdem) na tranzyt, o którym mowa w ustępie 2, zostanie ona wydana w możliwie najkrótszym terminie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Właściwe organy Umawiających się Stron wydadzą zezwolenie na pobyt członkowi załogi, który został odwieziony do szpitala na terytorium ich Państwa, na czas leczenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Umawiające się Strony zastrzegają sobie prawo odmowy wjazdu na terytorium ich Państwa osób nie-",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Les membres de l’équipage, citoyens du Pays de l’une des Parties Contractantes qui sont débarqués sur le territoire de l’autre Partie Contractante, titulaire d’un document valable et séjournant dans ce pays et qui ont commis des actes contraires aux dispositions des articles 8 et 12, seront admis par l’autre Partie Contractante sans formalités supplémentaires.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Les membres de l’équipage, qui ne sont pas citoyens des Parties Contractantes et qui se sont trouvés sur le territoire de l’une des Parties Contractantes munis d’un document tel que mentionné dans le 1er. paragraphe du présent article et qui ont commis des actes contraires aux dispositions des articles 8 ou 12, seront admis par l’autre Partie Contractante sans formalités supplémentaires.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Ceci concerne aussi les personnes venant de mani¯re illégale par navire sur le territoire de l’autre Partie Contractante."
-    },
-    {
-     "type": "text",
-     "text": "Article 12"
-    },
-    {
-     "type": "text",
-     "text": "Entrée, transit et séjour des membres des équipages."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Chacune des Parties Contractantes autorise les membres de l’équipage du navire de l’autre Partie Contractante détenant l’un des documents cités dans l’article 11, ∫ débarquer et séjourner sans visa (autorisation de séjour préalable) dans les limites de la ville portuaire durant l’attente du navire, conformément ∫ la réglementation en vigueur dans le Pays de séjour.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Chaque membre de l’équipage, détenant l’un des documents prévue par l’article 11 peut transiter par le territoire du Pays de l’autre Partie Contractante dans les cas suivants:",
-   "children": [
-    {
-     "type": "text",
-     "text": "— Retourner vers son pays;"
-    },
-    {
-     "type": "text",
-     "text": "— Regagner son navire ou un autre;"
-    },
-    {
-     "type": "text",
-     "text": "— Voyager dans un autre but, reconnu valable par les autorités compétentes de l’autre Partie Contractante."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Si la réglementation en vigueur concernant le séjour des étrangers impose l’obtention d’un visa (autorisation de séjour délivrée avant le départ) pour effectuer le transit mentionné dans le paragrape 2, il sera délivré dans les plus brefs délais.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Les autorités compétentes des Parties Contractantes délivreront une autorisation de séjour au membre d’équipage hospitalisé sur le territoire du Pays pour la période du traitement médical.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Les Parties Contractantes se réservent le droit de refuser l’entrée sur leur territoire aux personnes pożądanych także w tych przypadkach, gdy osoby te są posiadaczami jednego z dokumentów wymienionych w artykule 11.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Postanowienia zawarte w ustępach 1—5 nie naruszają przepisów prawa Państw Umawiających się Stron dotyczących wjazdu, pobytu i wyjazdu cudzoziemców.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Wypadki morskie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli statek podnoszący banderę jednej Umawiającej się Strony ulegnie wypadkowi lub znajdzie się w innej niebezpiecznej sytuacji na wodach wewnętrznych lub na morzu terytorialnym Państwa drugiej Umawiającej się Strony, to właściwe władze tej Umawiającej się Strony podejmą wszystkie niezbędne kroki w celu udzielenia pomocy i opieki pasażerom, członkom załogi, statkowi i towarom, w tym samym zakresie, w jakim byłaby udzielona statkowi pod własną banderą. Podczas ustalania przyczyn wypadków morskich Umawiające się Strony będą stosować zasady wyrażone w postanowieniach Międzynarodowej Organizacji Morskiej oraz zgodne z ustawodawstwem wewnętrznym obu Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy jednej Umawiającej się Strony, na terytorium Państwa której statek drugiej Umawiającej się Strony doznał wypadku, wymienionego w ustępie 1, powiadomią w możliwie najkrótszym czasie o tym wydarzeniu najbliższy urząd konsularny Państwa drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "O zaistniałym wypadku lub niebezpiecznej sytuacji statku drugiej Umawiającej się Strony na wodach wewnętrznych lub na morzu terytorialnym zostaną w możliwie najkrótszym czasie poinformowane organy celne. Wyposażenie i urządzenia okrętowe, ładunek, części zamienne i zapasy znajdujące się na uszkodzonym statku nie będą podlegały ocleniu i innym opłatom importowym, jeżeli nie będą one wprowadzone do lokalnego obrotu towarowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia niniejszego artykułu nie ograniczają jakichkolwiek praw do roszczeń z tytułu ratownictwa, pomocy i opieki udzielonej statkowi, jego pasażerom, załodze i ładunkowi.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Współpraca techniczna"
-    },
     {
      "type": "text",
      "text": "Umawiające się Strony będą zachęcać przedsiębiorstwa transportu morskiego oraz inne instytucje związane z transportem morskim swoich Państw do rozwijania wszelkich możliwych form współpracy, w szczególności w dziedzinie szkolnictwa morskiego, administracji portów morskich, ochrony środowiska morskiego i ratownictwa morskiego."
@@ -903,229 +908,231 @@
     {
      "type": "text",
      "text": "jugées indésirables m˘me si elles détiennent l’un des documents mentionnés dans l’article 11."
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_14/ust_6",
+     "text": "Les dispositions des paragraphes 1—5 ne peuvent pas déroger aux droits et réglementations des Pays des Parties Contractante concernant l’entrée, le séjour et le départ des étrangers.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 13"
+      },
+      {
+       "type": "text",
+       "text": "Evénement de mer"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Si un navire battant pavillon de l’une des Parties Contractantes s’échoue, fait naufrage ou se trouve dans une autre situation dangereuse dans les eaux intérieures ou la mer territoriale de l’autre Partie, les autorités compétentes de cette Partie Contractante prendront toutes les mesures possibles pour secourir les passagers, les membres de l’équipage, le navire et la marchandise comme dans le cas de leur propre navire; L’enqu˘te sur les causes de l’accident sera menée par les Parties Contractantes conformément aux dispositions de l’OMI et de la législation interne des deux Parties.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Les autorités compétentes de la Partie Contractante sur le territoire de laquelle le navire de l’autre Partie Contractante a subi l’un des événements évoqués ci-dessus informeront le plus rapidement possible l’office consulaire le plus proche du Pays de l’autre Partie Contractante.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Les autorités douani¯res seront informées le plus rapidement possible sur la nature de l’événement subi par un navire de l’autre Partie Contractante dans les eaux intérieures ou la mer territoriale. Les agr¯s, et apparaux, la cargaison, les pi¯ces de rechange et les provisions de bord du navire accidenté, ne seront pas passibles des droits de douane et d’autres taxes ∫ l’importation s’ils ne sont pas livrés sur le marché local.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Les dispositions de cet article ne limitent aucun droit de revendication de rémunération pour opérations de sauvetage, d’assistance et d’aide apportées au navire, ∫ ses passagers, ∫ l’équipage et ∫ la cargaison.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "text",
+       "text": "Coopération technique"
+      },
+      {
+       "type": "text",
+       "text": "Les Parties Contractantes inciteront les entreprises de transport maritime et les autres institutions liées au transport maritime de leur propre Pays, ∫ développer toutes formes possibles de coopération, en particulier dans les domaines de la formation maritime, de l’administration des ports maritime, de la protection de l’environnement maritime et du sauvetage maritime."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Les dispositions des paragraphes 1—5 ne peuvent pas déroger aux droits et réglementations des Pays des Parties Contractante concernant l’entrée, le séjour et le départ des étrangers.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Konsultacje",
    "children": [
     {
-     "type": "text",
-     "text": "Article 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "W celu zapewnienia efektywnego stosowania niniejszej umowy może zostać zwołane spotkanie przedstawicieli właściwych organów Umawiających się Stron oraz ekspertów wyznaczonych przez Umawiające się Strony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Evénement de mer"
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Spotkanie takie odbędzie się, w razie potrzeby, na wniosek jednej z Umawiających się Stron, w terminie do trzech miesięcy, licząc od daty otrzymania powyższego wniosku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Si un navire battant pavillon de l’une des Parties Contractantes s’échoue, fait naufrage ou se trouve dans une autre situation dangereuse dans les eaux intérieures ou la mer territoriale de l’autre Partie, les autorités compétentes de cette Partie Contractante prendront toutes les mesures possibles pour secourir les passagers, les membres de l’équipage, le navire et la marchandise comme dans le cas de leur propre navire; L’enqu˘te sur les causes de l’accident sera menée par les Parties Contractantes conformément aux dispositions de l’OMI et de la législation interne des deux Parties.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Les autorités compétentes de la Partie Contractante sur le territoire de laquelle le navire de l’autre Partie Contractante a subi l’un des événements évoqués ci-dessus informeront le plus rapidement possible l’office consulaire le plus proche du Pays de l’autre Partie Contractante.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Les autorités douani¯res seront informées le plus rapidement possible sur la nature de l’événement subi par un navire de l’autre Partie Contractante dans les eaux intérieures ou la mer territoriale. Les agr¯s, et apparaux, la cargaison, les pi¯ces de rechange et les provisions de bord du navire accidenté, ne seront pas passibles des droits de douane et d’autres taxes ∫ l’importation s’ils ne sont pas livrés sur le marché local.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Les dispositions de cet article ne limitent aucun droit de revendication de rémunération pour opérations de sauvetage, d’assistance et d’aide apportées au navire, ∫ ses passagers, ∫ l’équipage et ∫ la cargaison.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Rozstrzyganie sporów",
    "children": [
     {
-     "type": "text",
-     "text": "Article 14"
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Wszelkie spory wynikające z interpretacji lub stosowania niniejszej umowy będą rozstrzygane w drodze negocjacji przez właściwe organy Umawiających się Stron.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Coopération technique"
-    },
-    {
-     "type": "text",
-     "text": "Les Parties Contractantes inciteront les entreprises de transport maritime et les autres institutions liées au transport maritime de leur propre Pays, ∫ développer toutes formes possibles de coopération, en particulier dans les domaines de la formation maritime, de l’administration des ports maritime, de la protection de l’environnement maritime et du sauvetage maritime."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Konsultacje"
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "W przypadku nieosiągnięcia porozumienia w drodze negocjacji spory będą rozstrzygane w drodze dyplomatycznej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu zapewnienia efektywnego stosowania niniejszej umowy może zostać zwołane spotkanie przedstawicieli właściwych organów Umawiających się Stron oraz ekspertów wyznaczonych przez Umawiające się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Spotkanie takie odbędzie się, w razie potrzeby, na wniosek jednej z Umawiających się Stron, w terminie do trzech miesięcy, licząc od daty otrzymania powyższego wniosku.",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Wejście w życie i wypowiedzenie umowy",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Niniejsza umowa wchodzi w życie po upływie 30 dni od daty otrzymania ostatniej notyfikacji przez Umawiające się Strony, dotyczącej spełnienia procedur wymaganych dla wejścia w życie niniejszej umowy.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rozstrzyganie sporów"
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Niniejsza umowa jest zawarta na okres 5 lat i ulega automatycznemu przedłużeniu, o ile nie zostanie wypowiedziana przez jedną z Umawiających się Stron z 6-miesięcznym wyprzedzeniem. W takim przypadku umowa traci moc po upływie wymienionego okresu 6 miesięcy od daty wypowiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Niniejsza umowa może ulec zmianie w dowolnym czasie, za obopólną zgodą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "SPORZĄDZONO w Warszawie dnia 20 maja 1999 r., w dwóch oryginalnych egzemplarzach, każdy w językach: polskim, arabskim i francuskim. W razie rozbieżności przy ich interpretacji tekst francuski będzie uważany za rozstrzygający."
+      },
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Królestwa Maroka Article 15"
+      },
+      {
+       "type": "text",
+       "text": "Consultations"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Afin d’assurer une application effective du présent Accord, une réunion peut ˘tre organisée entre les représentants des autorités compétentes des Parties Contractantes et des experts nommés par les Parties Contractantes.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Ce genre de réunion aura lieu, en cas de nécessité, sur proposition de l’une des Parties Contractantes dans un délai de trois mois, ∫ partir de la date de réception de la proposition précitée.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 16"
+      },
+      {
+       "type": "text",
+       "text": "R¯glement de différends"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Tout différend résultant de l’interprétation et de l’application du présent Accord doit ˘tre soumis aux négociations directes des autorités compétentes des Parties Contractantes.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Dans le cas où les négociations directes n’ont pas pu aboutir ∫ la solution du différend, celui-ci devra ˘tre résolu ∫ travers la voie diplomatique.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 17"
+      },
+      {
+       "type": "text",
+       "text": "Entrée en vigueur et dénonciation de l’Accord"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Cet Accord entre en vigueur dans un délai de 30 jours apr¯s la réception de la derni¯re notification par les Parties Contractantes concernant l’accomplissement des procédures recquises pour la mise en vigueur du présent Accord.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Le présent Accord est conclu pour une période de 5 ans et il est renouvelable par tacite reconduction, sauf dénonciation par l’une des Parties Contractantes apr¯s un préavis de 6 mois. L’accord perd sa validité apr¯s ce délai de 6 mois.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Le présent Accord est révisable ∫ tout moment d’un commun accord.",
+     "children": [
+      {
+       "type": "text",
+       "text": "FAIT ∫ Varsovie le 20 mai 1999, en deux exemplaires originaux identiques dans chaque version linguistique: Polonaise, Arabe et Fran˜aise. En cas de divergence d’interprétation, le texte fran˜ais prévaudra."
+      },
+      {
+       "type": "text",
+       "text": "Pour le Gouvernement Pour le Gouvernement de la République de Pologne du Royaume du Maroc"
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wszelkie spory wynikające z interpretacji lub stosowania niniejszej umowy będą rozstrzygane w drodze negocjacji przez właściwe organy Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadku nieosiągnięcia porozumienia w drodze negocjacji spory będą rozstrzygane w drodze dyplomatycznej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie i wypowiedzenie umowy"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa wchodzi w życie po upływie 30 dni od daty otrzymania ostatniej notyfikacji przez Umawiające się Strony, dotyczącej spełnienia procedur wymaganych dla wejścia w życie niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa jest zawarta na okres 5 lat i ulega automatycznemu przedłużeniu, o ile nie zostanie wypowiedziana przez jedną z Umawiających się Stron z 6-miesięcznym wyprzedzeniem. W takim przypadku umowa traci moc po upływie wymienionego okresu 6 miesięcy od daty wypowiedzenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza umowa może ulec zmianie w dowolnym czasie, za obopólną zgodą.",
-   "children": [
-    {
-     "type": "text",
-     "text": "SPORZĄDZONO w Warszawie dnia 20 maja 1999 r., w dwóch oryginalnych egzemplarzach, każdy w językach: polskim, arabskim i francuskim. W razie rozbieżności przy ich interpretacji tekst francuski będzie uważany za rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Królestwa Maroka Article 15"
-    },
-    {
-     "type": "text",
-     "text": "Consultations"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Afin d’assurer une application effective du présent Accord, une réunion peut ˘tre organisée entre les représentants des autorités compétentes des Parties Contractantes et des experts nommés par les Parties Contractantes.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Ce genre de réunion aura lieu, en cas de nécessité, sur proposition de l’une des Parties Contractantes dans un délai de trois mois, ∫ partir de la date de réception de la proposition précitée.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 16"
-    },
-    {
-     "type": "text",
-     "text": "R¯glement de différends"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Tout différend résultant de l’interprétation et de l’application du présent Accord doit ˘tre soumis aux négociations directes des autorités compétentes des Parties Contractantes.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dans le cas où les négociations directes n’ont pas pu aboutir ∫ la solution du différend, celui-ci devra ˘tre résolu ∫ travers la voie diplomatique.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 17"
-    },
-    {
-     "type": "text",
-     "text": "Entrée en vigueur et dénonciation de l’Accord"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Cet Accord entre en vigueur dans un délai de 30 jours apr¯s la réception de la derni¯re notification par les Parties Contractantes concernant l’accomplissement des procédures recquises pour la mise en vigueur du présent Accord.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Le présent Accord est conclu pour une période de 5 ans et il est renouvelable par tacite reconduction, sauf dénonciation par l’une des Parties Contractantes apr¯s un préavis de 6 mois. L’accord perd sa validité apr¯s ce délai de 6 mois.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Le présent Accord est révisable ∫ tout moment d’un commun accord.",
-   "children": [
-    {
-     "type": "text",
-     "text": "FAIT ∫ Varsovie le 20 mai 1999, en deux exemplaires originaux identiques dans chaque version linguistique: Polonaise, Arabe et Fran˜aise. En cas de divergence d’interprétation, le texte fran˜ais prévaudra."
-    },
-    {
-     "type": "text",
-     "text": "Pour le Gouvernement Pour le Gouvernement de la République de Pologne du Royaume du Maroc"
-    }
-   ]
+   ],
+   "label": "Artykuł 17"
   }
  ],
  "annexes": [],

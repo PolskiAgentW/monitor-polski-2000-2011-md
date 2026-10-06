@@ -39,233 +39,243 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Strony ustalają, iż kwota łącznego skonsolidowanego zadłużenia na dzień 31 grudnia 1997 r. z tytułu kredytu udzielonego przez Rząd Polski Rządowi Algierii zgodnie z Umową kredytową z dnia 30 stycznia 1988 r. oraz wymianą listów między Ministerstwem Współpracy Gospodarczej z Zagranicą Rzeczypospolitej Polskiej a Ministerstwem Gospodarki Algierskiej Republiki Ludowo-Demokratycznej z dnia 18 maja 1993 r. wynosi 17.924.183,82 USD i składa się z:"
-  },
-  {
-   "type": "text",
-   "text": "kapitału 14.672.362,30 USD,"
-  },
-  {
-   "type": "text",
-   "text": "odsetek 3.251.821,52 USD."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Łączna kwota rat kapitału i odsetek podlegających restrukturyzacji zgodnie z warunkami uzgodnionymi przez stronę algierską w umowach z Klubem Paryskim, podpisanych w dniu 1 czerwca 1994 r. i 21 lipca 1995 r., z wyjątkiem kwoty, o której mowa w artykule 3 ustęp 1, wynosi 16.214.603,71 USD i składa się z:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "należnej i niezapłaconej w dniu 31 grudnia 1994 r. raty kapitału w wysokości 3.087.687,50 USD oraz odsetek za okres do 31 października 1994 r. w wysokości 650.456,26 USD;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "rat kapitałowych należnych i niezapłaconych w dniach:",
+   "path": "art_1",
+   "text": "Strony ustalają, iż kwota łącznego skonsolidowanego zadłużenia na dzień 31 grudnia 1997 r. z tytułu kredytu udzielonego przez Rząd Polski Rządowi Algierii zgodnie z Umową kredytową z dnia 30 stycznia 1988 r. oraz wymianą listów między Ministerstwem Współpracy Gospodarczej z Zagranicą Rzeczypospolitej Polskiej a Ministerstwem Gospodarki Algierskiej Republiki Ludowo-Demokratycznej z dnia 18 maja 1993 r. wynosi 17.924.183,82 USD i składa się z:",
    "children": [
     {
      "type": "text",
-     "text": "31 grudnia 1995 r. 3.748.828,91 USD"
+     "text": "kapitału 14.672.362,30 USD,"
     },
     {
      "type": "text",
-     "text": "31 grudnia 1996 r. 3.854.080,72 USD"
-    },
-    {
-     "type": "text",
-     "text": "31 grudnia 1997 r. 3.981.765,17 USD"
-    },
-    {
-     "type": "text",
-     "text": "co stanowi łącznie 11.584.674,80 USD,"
-    },
-    {
-     "type": "text",
-     "text": "oraz odsetek za okres od 1 czerwca 1995 r. do 31 maja 1996 r. w wysokości 891.785,15 USD."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
+     "text": "odsetek 3.251.821,52 USD."
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zadłużenie państwa algierskiego z tytułu należnych i niezapłaconych odsetek za okresy od 1.11.1994 r. do 31.12.1994 r., od 1.01.1995 r. do 31.05.1995 r. oraz od 1.06.1996 r. do 31.12.1997 r. w kwocie 1.709.580,11 USD zostanie spłacone jednorazowo przekazem gotówkowym w terminie 30 dni od daty wejścia w życie niniejszej umowy na rachunek, który zostanie wskazany przez Bank Handlowy w Warszawie SA.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Zadłużenie państwa algierskiego składające się z należnych i niezapłaconych:",
+   "path": "art_2",
+   "text": "Łączna kwota rat kapitału i odsetek podlegających restrukturyzacji zgodnie z warunkami uzgodnionymi przez stronę algierską w umowach z Klubem Paryskim, podpisanych w dniu 1 czerwca 1994 r. i 21 lipca 1995 r., z wyjątkiem kwoty, o której mowa w artykule 3 ustęp 1, wynosi 16.214.603,71 USD i składa się z:",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "rat kapitału i odsetek za okresy do 31.05.1994 r. i okres od 1.06.1994 r. do 31.10.1994 r. oraz rat kapitału za okres od 1.11.1994 r. do 31 05.1995 r. zostanie spłacone zgodnie z załącznikiem nr 1 do niniejszej umowy;",
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "należnej i niezapłaconej w dniu 31 grudnia 1994 r. raty kapitału w wysokości 3.087.687,50 USD oraz odsetek za okres do 31 października 1994 r. w wysokości 650.456,26 USD;",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "rat kapitału za okres od 1.06.1995 r. do 31.05.1998 r. oraz odsetek za okres od 1.06.1995 r. do 31.05.1996 r. zostanie spłacone zgodnie z załącznikiem nr 2 do niniejszej umowy;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "w terminie 30 dni od daty wejścia w życie niniejszej umowy strona algierska ureguluje płatności przypadające w roku 1998 zgodnie z załącznikiem nr 1.",
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "rat kapitałowych należnych i niezapłaconych w dniach:",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 4"
+       "text": "31 grudnia 1995 r. 3.748.828,91 USD"
+      },
+      {
+       "type": "text",
+       "text": "31 grudnia 1996 r. 3.854.080,72 USD"
+      },
+      {
+       "type": "text",
+       "text": "31 grudnia 1997 r. 3.981.765,17 USD"
+      },
+      {
+       "type": "text",
+       "text": "co stanowi łącznie 11.584.674,80 USD,"
+      },
+      {
+       "type": "text",
+       "text": "oraz odsetek za okres od 1 czerwca 1995 r. do 31 maja 1996 r. w wysokości 891.785,15 USD."
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Od należności, o których mowa w artykule 2 ustęp 1 i 2 oraz w artykule 3 ustęp 2 litery a, b i c, naliczane będą odsetki od dnia 1 stycznia 1998 r. do dnia faktycznej spłaty w wysokości 3,5% rocznie na bazie 360 dni w roku do faktycznej liczby dni, które upłynęły.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Kapitał i odsetki będą płatne w dniu 31 maja i 30 listopada każdego roku zgodnie z załącznikami nr 1 i 2.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Strona algierska, potwierdzając dobrą wolę podtrzymania i wznowienia wzajemnych stosunków finansowych, wznowi z dniem wejścia w życie niniejszej umowy obsługę płatności wynikających z Umowy kredytowej z dnia 30 stycznia 1988 r., wraz z odsetkami, w wysokości 3,5% rocznie do dnia faktycznej spłaty."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "W przypadku gdy termin płatności kwot należnych zgodnie z artykułami 3—5 nie przypada na dzień roboczy w Stanach Zjednoczonych Ameryki, płatność dokonana będzie w następnym dniu roboczym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Wszystkie podatki, opłaty lub inne koszty, już powstałe lub przyszłe, wymagane w związku z niniejszą umową lub jej skutkami, należne w Algierskiej Republice Ludowo-Demokratycznej, obciążają Rząd Algierii."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Wszystkie kwoty płatne przez Rząd Algierii na mocy niniejszej umowy będą płacone w dolarach Stanów Zjednoczonych Ameryki."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Rząd Algierii zagwarantuje Rządowi Polskiemu, w zakresie wypełnienia zobowiązań wynikających z niniejszej umowy, warunki nie gorsze od warunków, jakie Rząd Algerii zagwarantował innym krajom wierzycielskim. Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Rząd Polski wyznaczył Bank Handlowy w Warszawie SA jako swojego agenta bankowego. Rząd Algierii wyznaczył La Banque d’Algérie jako swojego agenta bankowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Banki wymienione w ustępie 1 zawrą umowę bankową niezbędną dla realizacji niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Bank Handlowy w Warszawie SA otworzy w swoich księgach rachunek kredytowy w USD, nazwany „Rachunkiem Restrukturyzacji 1994—1997”, dla ewidencji kwoty zrestrukturyzowanego zadłużenia, a następnie spłat należnych kwot z tytułu kapitału i odsetek.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Zadłużenie państwa algierskiego z tytułu należnych i niezapłaconych odsetek za okresy od 1.11.1994 r. do 31.12.1994 r., od 1.01.1995 r. do 31.05.1995 r. oraz od 1.06.1996 r. do 31.12.1997 r. w kwocie 1.709.580,11 USD zostanie spłacone jednorazowo przekazem gotówkowym w terminie 30 dni od daty wejścia w życie niniejszej umowy na rachunek, który zostanie wskazany przez Bank Handlowy w Warszawie SA.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wszystkie spory wynikające z realizacji niniejszej umowy będą rozstrzygane polubownie przez Rząd Polski i Rząd Algierii."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Jakiekolwiek zmiany postanowień niniejszej umowy mogą być dokonane tylko w formie pisemnej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej ze Stron, co zostanie stwierdzone w drodze wymiany not. Za dzień wejścia w życie niniejszej umowy uważa się datę otrzymania noty późniejszej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsza umowa pozostanie w mocy do dnia wypełnienia przez Rząd Algierii wszystkich zobowiązań z niej wynikających."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Algierze dnia 31 stycznia 2000 r. w dwóch egzemplarzach, każdy w językach polskim, arabskim i francuskim, przy czym wszystkie teksty mają jednakową moc. W razie rozbieżności przy ich interpretacji tekst francuski będzie rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Algierskiej Republiki Ludowo-Demokratycznej"
-    },
-    {
-     "type": "text",
-     "text": "Krzysztof Ners Brahim Bouzeboudjen"
-    },
-    {
-     "type": "text",
-     "text": "Podsekretarz Stanu Sekretarz Generalny w Ministerstwie Finansów Ministerstwa Finansów"
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Zadłużenie państwa algierskiego składające się z należnych i niezapłaconych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/ust_2/lit_a",
+       "text": "rat kapitału i odsetek za okresy do 31.05.1994 r. i okres od 1.06.1994 r. do 31.10.1994 r. oraz rat kapitału za okres od 1.11.1994 r. do 31 05.1995 r. zostanie spłacone zgodnie z załącznikiem nr 1 do niniejszej umowy;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/ust_2/lit_b",
+       "text": "rat kapitału za okres od 1.06.1995 r. do 31.05.1998 r. oraz odsetek za okres od 1.06.1995 r. do 31.05.1996 r. zostanie spłacone zgodnie z załącznikiem nr 2 do niniejszej umowy;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/ust_2/lit_c",
+       "text": "w terminie 30 dni od daty wejścia w życie niniejszej umowy strona algierska ureguluje płatności przypadające w roku 1998 zgodnie z załącznikiem nr 1.",
+       "children": []
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Od należności, o których mowa w artykule 2 ustęp 1 i 2 oraz w artykule 3 ustęp 2 litery a, b i c, naliczane będą odsetki od dnia 1 stycznia 1998 r. do dnia faktycznej spłaty w wysokości 3,5% rocznie na bazie 360 dni w roku do faktycznej liczby dni, które upłynęły.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Kapitał i odsetki będą płatne w dniu 31 maja i 30 listopada każdego roku zgodnie z załącznikami nr 1 i 2.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strona algierska, potwierdzając dobrą wolę podtrzymania i wznowienia wzajemnych stosunków finansowych, wznowi z dniem wejścia w życie niniejszej umowy obsługę płatności wynikających z Umowy kredytowej z dnia 30 stycznia 1988 r., wraz z odsetkami, w wysokości 3,5% rocznie do dnia faktycznej spłaty.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "W przypadku gdy termin płatności kwot należnych zgodnie z artykułami 3—5 nie przypada na dzień roboczy w Stanach Zjednoczonych Ameryki, płatność dokonana będzie w następnym dniu roboczym.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Wszystkie podatki, opłaty lub inne koszty, już powstałe lub przyszłe, wymagane w związku z niniejszą umową lub jej skutkami, należne w Algierskiej Republice Ludowo-Demokratycznej, obciążają Rząd Algierii.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Wszystkie kwoty płatne przez Rząd Algierii na mocy niniejszej umowy będą płacone w dolarach Stanów Zjednoczonych Ameryki.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Rząd Algierii zagwarantuje Rządowi Polskiemu, w zakresie wypełnienia zobowiązań wynikających z niniejszej umowy, warunki nie gorsze od warunków, jakie Rząd Algerii zagwarantował innym krajom wierzycielskim. Artykuł 10",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Rząd Polski wyznaczył Bank Handlowy w Warszawie SA jako swojego agenta bankowego. Rząd Algierii wyznaczył La Banque d’Algérie jako swojego agenta bankowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Banki wymienione w ustępie 1 zawrą umowę bankową niezbędną dla realizacji niniejszej umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Bank Handlowy w Warszawie SA otworzy w swoich księgach rachunek kredytowy w USD, nazwany „Rachunkiem Restrukturyzacji 1994—1997”, dla ewidencji kwoty zrestrukturyzowanego zadłużenia, a następnie spłat należnych kwot z tytułu kapitału i odsetek.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Wszystkie spory wynikające z realizacji niniejszej umowy będą rozstrzygane polubownie przez Rząd Polski i Rząd Algierii.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Jakiekolwiek zmiany postanowień niniejszej umowy mogą być dokonane tylko w formie pisemnej.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej ze Stron, co zostanie stwierdzone w drodze wymiany not. Za dzień wejścia w życie niniejszej umowy uważa się datę otrzymania noty późniejszej.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Niniejsza umowa pozostanie w mocy do dnia wypełnienia przez Rząd Algierii wszystkich zobowiązań z niej wynikających.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Algierze dnia 31 stycznia 2000 r. w dwóch egzemplarzach, każdy w językach polskim, arabskim i francuskim, przy czym wszystkie teksty mają jednakową moc. W razie rozbieżności przy ich interpretacji tekst francuski będzie rozstrzygający."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Algierskiej Republiki Ludowo-Demokratycznej"
+  },
+  {
+   "type": "text",
+   "text": "Krzysztof Ners Brahim Bouzeboudjen"
+  },
+  {
+   "type": "text",
+   "text": "Podsekretarz Stanu Sekretarz Generalny w Ministerstwie Finansów Ministerstwa Finansów"
   }
  ],
  "annexes": [

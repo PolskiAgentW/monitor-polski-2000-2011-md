@@ -29,550 +29,551 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Zakres stosowania"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Postanowienia niniejszej umowy mają zastosowanie do przewozów podróżnych i ładunków między obu krajami i w tranzycie przez te terytoria wykonywanych pojazdami zarejestrowanymi na terytorium jednej z Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Żadne z postanowień niniejszej umowy nie zezwala przewoźnikom jednej Umawiającej się Strony na wykonywanie przewozu podróżnych lub ładunków między dwoma miejscami znajdującymi się na terytorium drugiej Umawiającej się Strony.",
+   "path": "art_1",
+   "text": "Zakres stosowania",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Postanowienia niniejszej umowy mają zastosowanie do przewozów podróżnych i ładunków między obu krajami i w tranzycie przez te terytoria wykonywanych pojazdami zarejestrowanymi na terytorium jednej z Umawiających się Stron.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Definicje"
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Żadne z postanowień niniejszej umowy nie zezwala przewoźnikom jednej Umawiającej się Strony na wykonywanie przewozu podróżnych lub ładunków między dwoma miejscami znajdującymi się na terytorium drugiej Umawiającej się Strony.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, zamieszkałą lub mającą swoją siedzibę bądź w Rzeczypospolitej Polskiej, bądź na Ukrainie i która ma prawo wykonywania międzynarodowych przewozów drogowych zgodnie z obowiązującym ustawodawstwem wewnętrznym jej Państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „pojazd” oznacza:",
+   "path": "art_2",
+   "text": "Definicje",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "pojazd drogowy z napędem mechanicznym, który jest skonstruowany lub przystosowany, z punktu widzenia jego wykorzystania, do wykonywania przewozów drogowych ładunków lub do ciągnięcia pojazdów przeznaczonych do tych przewozów,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, zamieszkałą lub mającą swoją siedzibę bądź w Rzeczypospolitej Polskiej, bądź na Ukrainie i która ma prawo wykonywania międzynarodowych przewozów drogowych zgodnie z obowiązującym ustawodawstwem wewnętrznym jej Państwa.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "zespół pojazdów złożony z pojazdu spełniającego warunki wymienione w punkcie a) niniejszego ustępu oraz z przyczepy lub naczepy,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "pojazd drogowy z napędem mechanicznym, wyposażony w specjalne urządzenie zamontowane na stałe i stanowiące jego integralną część, które nie jest traktowane jako ładunek,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "pojazd przeznaczony do przewozu więcej niż 9 osób, łącznie z kierowcą.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Określenie „pojazd” oznacza:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 3"
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_2/lit_a",
+       "text": "pojazd drogowy z napędem mechanicznym, który jest skonstruowany lub przystosowany, z punktu widzenia jego wykorzystania, do wykonywania przewozów drogowych ładunków lub do ciągnięcia pojazdów przeznaczonych do tych przewozów,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Regularne przewozy podróżnych"
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_2/lit_b",
+       "text": "zespół pojazdów złożony z pojazdu spełniającego warunki wymienione w punkcie a) niniejszego ustępu oraz z przyczepy lub naczepy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/ust_2/lit_c",
+       "text": "pojazd drogowy z napędem mechanicznym, wyposażony w specjalne urządzenie zamontowane na stałe i stanowiące jego integralną część, które nie jest traktowane jako ładunek,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/ust_2/lit_d",
+       "text": "pojazd przeznaczony do przewozu więcej niż 9 osób, łącznie z kierowcą.",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy jednej z Umawiających się Stron mogą wykonywać regularne przewozy podróżnych autobusami między terytoriami obu Umawiających się Stron oraz w tranzycie przez ich terytoria, po uprzednim otrzymaniu zezwolenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „regularny przewóz podróżnych” oznacza przewóz podróżnych na określonej trasie, według rozkładu jazdy, na podstawie uzgodnionych taryf i określonych punktów zatrzymywania.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Właściwa władza każdej Umawiającej się Strony wydaje zezwolenia na część przewozu wykonywaną na jej terytorium.",
-   "children": []
+   "path": "art_3",
+   "text": "Regularne przewozy podróżnych",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Przewoźnicy jednej z Umawiających się Stron mogą wykonywać regularne przewozy podróżnych autobusami między terytoriami obu Umawiających się Stron oraz w tranzycie przez ich terytoria, po uprzednim otrzymaniu zezwolenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Określenie „regularny przewóz podróżnych” oznacza przewóz podróżnych na określonej trasie, według rozkładu jazdy, na podstawie uzgodnionych taryf i określonych punktów zatrzymywania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Właściwa władza każdej Umawiającej się Strony wydaje zezwolenia na część przewozu wykonywaną na jej terytorium.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "Właściwe władze Umawiających się Stron ustalą protokół wykonawczy do umowy, sposoby i warunku wydawania zezwoleń oraz ich wykorzystywania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Właściwe władze Umawiających się Stron ustalą protokół wykonawczy do umowy, sposoby i warunku wydawania zezwoleń oraz ich wykorzystywania.",
+   "path": "art_4",
+   "text": "Nieregularny przewóz podróżnych",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Przewozy podróżnych autobusami, inne niż przewozy regularne, nie podlegają wymogowi uprzedniego uzyskania zezwoleń właściwych władz Umawiających się Stron, pod warunkiem że:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_1/lit_a",
+       "text": "pojazd przewozi tę samą grupę podróżnych na całej trasie bez wymiany lub pozostawiania podróżnych w trakcie podróży,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_1/lit_b",
+       "text": "przejazd z podróżnymi odbywa się w jednym kierunku, a w kierunku przeciwnym następuje przejazd autobusu w stanie próżnym i na odwrót.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Nieregularny przewóz podróżnych"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Na każdą jazdę nieregularną przewoźnik zobowiązany jest sporządzić listę pasażerów, którą okazuje na żądanie właściwych władz Umawiających się Stron. Wzór listy pasażerów ustali Wspólna Komisja.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy podróżnych autobusami, inne niż przewozy regularne, nie podlegają wymogowi uprzedniego uzyskania zezwoleń właściwych władz Umawiających się Stron, pod warunkiem że:",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Przewóz ładunków",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "pojazd przewozi tę samą grupę podróżnych na całej trasie bez wymiany lub pozostawiania podróżnych w trakcie podróży,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Przewoźnicy każdej Umawiającej się Strony mogą wykonywać przewozy ładunków oraz wykonywać przejazdy w stanie próżnym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_1/lit_a",
+       "text": "między miejscem położonym na terytorium jednej Umawiającej się Strony a miejscem położonym na terytorium drugiej Umawiającej się Strony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_1/lit_b",
+       "text": "w tranzycie przez terytorium drugiej Umawiającej się Strony.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Przewoźnicy jednej z Umawiających się Stron mają prawo zabierania ładunku powrotnego na terytorium drugiej Umawiającej się Strony.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Zezwolenia",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Z wyjątkiem przewozów określonych w artykule 7, przewozy ładunków wymienione w artykule 5 mogą być wykonywane jedynie na podstawie zezwoleń wydanych uprzednio przez właściwą władzę państwa rejestracji pojazdu w imieniu właściwej władzy drugiej Umawiającej się Strony.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "przejazd z podróżnymi odbywa się w jednym kierunku, a w kierunku przeciwnym następuje przejazd autobusu w stanie próżnym i na odwrót.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Właściwe władze Umawiających się Stron przekazują sobie wzajemnie zezwolenia, wymienione w ustępie 1 niniejszego artykułu.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Na każdą jazdę nieregularną przewoźnik zobowiązany jest sporządzić listę pasażerów, którą okazuje na żądanie właściwych władz Umawiających się Stron. Wzór listy pasażerów ustali Wspólna Komisja.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zwolnienia z wymogu zezwoleń",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Nie wymagają zezwoleń przewozy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_1/lit_a",
+       "text": "rzeczy przesiedlenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_1/lit_b",
+       "text": "materiałów i przedmiotów, w tym dzieł sztuki, przeznaczonych na targi, wystawy lub na imprezy o charakterze niehandlowym na terytorium drugiej Umawiającej się Strony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_7/ust_1/lit_c",
+       "text": "sprzętu, przedmiotów i zwierząt przeznaczonych na imprezy teatralne, muzyczne, filmowe lub sportowe, dla cyrków, targów, kiermaszy na terytorium drugiej Umawiającej się Strony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_7/ust_1/lit_d",
+       "text": "sprzętu przeznaczonego dla wykonywania zapisów radiofonicznych, zdjęć filmowych lub telewizyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_7/ust_1/lit_e",
+       "text": "zwłok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_7/ust_1/lit_f",
+       "text": "pojazdów uszkodzonych.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Przewóz ładunków"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy każdej Umawiającej się Strony mogą wykonywać przewozy ładunków oraz wykonywać przejazdy w stanie próżnym:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "między miejscem położonym na terytorium jednej Umawiającej się Strony a miejscem położonym na terytorium drugiej Umawiającej się Strony,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Wspólna Komisja, o której mowa w artykule 15, jest upoważniona do zmiany zakresu stosowanych zwolnień przewidzianych w ustępie poprzednim.",
      "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "w tranzycie przez terytorium drugiej Umawiającej się Strony.",
-     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przewoźnicy jednej z Umawiających się Stron mają prawo zabierania ładunku powrotnego na terytorium drugiej Umawiającej się Strony.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Kontyngent",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Zezwolenia"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Z wyjątkiem przewozów określonych w artykule 7, przewozy ładunków wymienione w artykule 5 mogą być wykonywane jedynie na podstawie zezwoleń wydanych uprzednio przez właściwą władzę państwa rejestracji pojazdu w imieniu właściwej władzy drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe władze Umawiających się Stron przekazują sobie wzajemnie zezwolenia, wymienione w ustępie 1 niniejszego artykułu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Zwolnienia z wymogu zezwoleń"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Nie wymagają zezwoleń przewozy:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "rzeczy przesiedlenia,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Zezwolenia na wykonywanie przewozów ładunków są wydawane w granicach kontyngentów ustalanych wspólnym porozumieniem każdego roku przez właściwe władze Umawiających się Stron.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "materiałów i przedmiotów, w tym dzieł sztuki, przeznaczonych na targi, wystawy lub na imprezy o charakterze niehandlowym na terytorium drugiej Umawiającej się Strony,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Kategorie zezwoleń, warunki i sposoby ich wykorzystywania zostaną ustalone w protokole wykonawczym do umowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Przewozy wymagające specjalnego zezwolenia",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Przewozy pojazdami, których masa całkowita lub rozmiary z ładunkiem lub bez przekraczają normy dopuszczone na terytorium jednej Umawiającej się Strony, wymagają zezwolenia specjalnego wydanego przez władze tej Umawiającej się Strony.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "sprzętu, przedmiotów i zwierząt przeznaczonych na imprezy teatralne, muzyczne, filmowe lub sportowe, dla cyrków, targów, kiermaszy na terytorium drugiej Umawiającej się Strony,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Zezwolenie specjalne, o którym mowa w ustępie 1, może ograniczać przejazd pojazdu do określonej trasy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "sprzętu przeznaczonego dla wykonywania zapisów radiofonicznych, zdjęć filmowych lub telewizyjnych,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Zezwolenie specjalne na przewóz obejmuje zezwolenie na przewóz, o którym mowa w ustępie 1 artykułu 6 niniejszej umowy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "zwłok,",
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania zezwoleń specjalnych na przewozy materiałów niebezpiecznych, wykonywane przez przewoźników drugiej Umawiającej się Strony.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Podatki i opłaty",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Przewozy podróżnych i ładunków, wymienione w niniejszej umowie, podlegają podatkom i opłatom obowiązującym na terytorium drugiej Umawiającej się Strony.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "pojazdów uszkodzonych.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Wspólna Komisja może uzgodnić częściowe lub całkowite zwolnienie z podatków lub opłat, o których mowa w ustępie 1 niniejszego artykułu, z wyjątkiem przewozów określonych w artykule 9 ustęp 1.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wspólna Komisja, o której mowa w artykule 15, jest upoważniona do zmiany zakresu stosowanych zwolnień przewidzianych w ustępie poprzednim.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Paliwo i części zamienne",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 8"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Paliwo znajdujące się w normalnych zbiornikach zainstalowanych w pojazdach zgodnie z instrukcją zakładu-producenta jest zwolnione od opłat celnych i innych należności.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Kontyngent"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Części zamienne, które są czasowo wwożone w celu naprawy pojazdu uszkodzonego lub który uległ awarii na terytorium drugiej Umawiającej się Strony, są zwolnione od opłat celnych, podatków i innych należności pobieranych na podstawie przepisów prawnych obowiązujących na terytorium drugiej Umawiającej się Strony. Części wymienione powinny być wywiezione z powrotem lub zniszczone pod kontrolą celną.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zezwolenia na wykonywanie przewozów ładunków są wydawane w granicach kontyngentów ustalanych wspólnym porozumieniem każdego roku przez właściwe władze Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Kategorie zezwoleń, warunki i sposoby ich wykorzystywania zostaną ustalone w protokole wykonawczym do umowy.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Kontrola",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Przewozy wymagające specjalnego zezwolenia"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy pojazdami, których masa całkowita lub rozmiary z ładunkiem lub bez przekraczają normy dopuszczone na terytorium jednej Umawiającej się Strony, wymagają zezwolenia specjalnego wydanego przez władze tej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zezwolenie specjalne, o którym mowa w ustępie 1, może ograniczać przejazd pojazdu do określonej trasy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zezwolenie specjalne na przewóz obejmuje zezwolenie na przewóz, o którym mowa w ustępie 1 artykułu 6 niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania zezwoleń specjalnych na przewozy materiałów niebezpiecznych, wykonywane przez przewoźników drugiej Umawiającej się Strony.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Podatki i opłaty"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy podróżnych i ładunków, wymienione w niniejszej umowie, podlegają podatkom i opłatom obowiązującym na terytorium drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wspólna Komisja może uzgodnić częściowe lub całkowite zwolnienie z podatków lub opłat, o których mowa w ustępie 1 niniejszego artykułu, z wyjątkiem przewozów określonych w artykule 9 ustęp 1.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Paliwo i części zamienne"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Paliwo znajdujące się w normalnych zbiornikach zainstalowanych w pojazdach zgodnie z instrukcją zakładu-producenta jest zwolnione od opłat celnych i innych należności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Części zamienne, które są czasowo wwożone w celu naprawy pojazdu uszkodzonego lub który uległ awarii na terytorium drugiej Umawiającej się Strony, są zwolnione od opłat celnych, podatków i innych należności pobieranych na podstawie przepisów prawnych obowiązujących na terytorium drugiej Umawiającej się Strony. Części wymienione powinny być wywiezione z powrotem lub zniszczone pod kontrolą celną.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Kontrola"
-    },
     {
      "type": "text",
      "text": "Zezwolenia i inne dokumenty, wymagane stosownie do postanowień niniejszej umowy oraz prawa wewnętrznego, powinny znajdować się w pojeździe i być okazywane na każde żądanie organów kontrolnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Ustawodawstwo wewnętrzne"
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewoźnicy jednej Umawiającej się Strony, jak również załogi pojazdów powinni przestrzegać podczas swojego pobytu na terytorium drugiej Umawiającej się Strony przepisów prawnych obowiązujących na tym terytorium, dotyczących w szczególności przewozów i ruchu drogowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zagadnienia nieuregulowane w niniejszej umowie bądź w innych konwencjach międzynarodowych, których stronami są Umawiające się Strony, będą załatwiane zgodnie z ustawodawstwem wewnętrznym każdej z Umawiających się Stron.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Ustawodawstwo wewnętrzne",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Naruszenia"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W przypadku naruszenia postanowień niniejszej umowy przez przewoźnika jednej z Umawiających się Stron na terytorium drugiej Umawiającej się Strony, właściwe władze tej Umawiającej się Strony poinformują o tym właściwe władze Umawiającej się Strony, na której terytorium pojazd jest zarejestrowany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe władze Umawiającej się Strony, na której terytorium naruszenia miały miejsce, mogą zwrócić się do właściwych władz drugiej Umawiającej się Strony o:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "ostrzeżenie przewoźnika, który dokonał naruszenia,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Przewoźnicy jednej Umawiającej się Strony, jak również załogi pojazdów powinni przestrzegać podczas swojego pobytu na terytorium drugiej Umawiającej się Strony przepisów prawnych obowiązujących na tym terytorium, dotyczących w szczególności przewozów i ruchu drogowego.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "zawieszenie czasowe, częściowe lub całkowite praw przewoźnika do wykonywania przewozów na terytorium Umawiającej się Strony, gdzie dokonano naruszenia.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Zagadnienia nieuregulowane w niniejszej umowie bądź w innych konwencjach międzynarodowych, których stronami są Umawiające się Strony, będą załatwiane zgodnie z ustawodawstwem wewnętrznym każdej z Umawiających się Stron.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Władza, która podjęła powyższe środki, poinformuje o tym właściwą władzę drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia niniejszego artykułu nie wykluczają sankcji przewidzianych w ustawodawstwie obowiązującym w państwie, na którego terytorium naruszenie zostało popełnione.",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Naruszenia",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "W przypadku naruszenia postanowień niniejszej umowy przez przewoźnika jednej z Umawiających się Stron na terytorium drugiej Umawiającej się Strony, właściwe władze tej Umawiającej się Strony poinformują o tym właściwe władze Umawiającej się Strony, na której terytorium pojazd jest zarejestrowany.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Stosowanie umowy"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Właściwe władze Umawiającej się Strony, na której terytorium naruszenia miały miejsce, mogą zwrócić się do właściwych władz drugiej Umawiającej się Strony o:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/ust_2/lit_a",
+       "text": "ostrzeżenie przewoźnika, który dokonał naruszenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/ust_2/lit_b",
+       "text": "zawieszenie czasowe, częściowe lub całkowite praw przewoźnika do wykonywania przewozów na terytorium Umawiającej się Strony, gdzie dokonano naruszenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Władza, która podjęła powyższe środki, poinformuje o tym właściwą władzę drugiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Postanowienia niniejszego artykułu nie wykluczają sankcji przewidzianych w ustawodawstwie obowiązującym w państwie, na którego terytorium naruszenie zostało popełnione.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dla zapewnienia należytego wykonywania postanowień niniejszej umowy Umawiające się Strony ustanowią Wspólną Komisję.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja będzie się zbierała na wniosek jednej z Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja sporządzi protokół wykonawczy do niniejszej umowy.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Stosowanie umowy",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Dla zapewnienia należytego wykonywania postanowień niniejszej umowy Umawiające się Strony ustanowią Wspólną Komisję.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wejście w życie i ważność umowy"
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Komisja będzie się zbierała na wniosek jednej z Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Komisja sporządzi protokół wykonawczy do niniejszej umowy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega przyjęciu zgodnie z ustawodawstwem każdej z Umawiających się Stron i wejdzie w życie w dniu ustalonym w drodze wymiany not dyplomatycznych, stwierdzających to przyjęcie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa jest zawarta na okres jednego roku. Ulega ona automatycznemu przedłużeniu na kolejne okresy jednoroczne, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na trzy miesiące przed upływem okresu jej ważności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza umowa będzie stosowana prowizorycznie od dnia jej podpisania.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wejście w życie i ważność umowy",
    "children": [
     {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 18 maja 1992 r. w dwóch egzemplarzach, każdy w językach polskim i ukraińskim, przy czym oba teksty mają jednakową moc."
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Niniejsza umowa podlega przyjęciu zgodnie z ustawodawstwem każdej z Umawiających się Stron i wejdzie w życie w dniu ustalonym w drodze wymiany not dyplomatycznych, stwierdzających to przyjęcie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Z upoważnienia Z upoważnienia Rządu Rzeczypospolitej Polskiej Rządu Ukrainy"
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Niniejsza umowa jest zawarta na okres jednego roku. Ulega ona automatycznemu przedłużeniu na kolejne okresy jednoroczne, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na trzy miesiące przed upływem okresu jej ważności.",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strony 4-13 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Niniejsza umowa będzie stosowana prowizorycznie od dnia jej podpisania.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 18 maja 1992 r. w dwóch egzemplarzach, każdy w językach polskim i ukraińskim, przy czym oba teksty mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Z upoważnienia Rządu Rzeczypospolitej Polskiej Rządu Ukrainy"
+  },
+  {
+   "type": "note",
+   "text": "[Strony 4-13 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
   }
  ],
  "annexes": [],

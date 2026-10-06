@@ -49,126 +49,130 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony sprzyjać będą rozwojowi wzajemnie korzystnej współpracy gospodarczej we wszystkich dziedzinach i sektorach gospodarki, zgodnie z prawem obowiązującym w państwach Umawiających się Stron, na zasadach równości i wzajemnych korzyści.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "AGREEMENT"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Umawiające się Strony sprzyjać będą rozwojowi wzajemnie korzystnej współpracy gospodarczej we wszystkich dziedzinach i sektorach gospodarki, zgodnie z prawem obowiązującym w państwach Umawiających się Stron, na zasadach równości i wzajemnych korzyści.",
+     "children": [
+      {
+       "type": "text",
+       "text": "AGREEMENT"
+      },
+      {
+       "type": "text",
+       "text": "on economic cooperation between the Government of the Republic of Poland and the Government of the Republic of Korea"
+      },
+      {
+       "type": "text",
+       "text": "The Government of the Republic of Poland and the Government of the Republic of Korea (hereinafter referred to as the “Contracting Parties”),"
+      },
+      {
+       "type": "text",
+       "text": "Desirous of further strengthening the friendly relations existing between the two countries,"
+      },
+      {
+       "type": "text",
+       "text": "Taking into account the international agreements that bind the Contracting Parties in the field of economic cooperation,"
+      },
+      {
+       "type": "text",
+       "text": "Considering the membership of the Republic of Poland in the European Union, and"
+      },
+      {
+       "type": "text",
+       "text": "Striving to expand and develop economic relations between the Republic of Poland and the Republic of Korea,"
+      },
+      {
+       "type": "text",
+       "text": "Have agreed as follows:"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "on economic cooperation between the Government of the Republic of Poland and the Government of the Republic of Korea"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "The Contracting Parties shall foster the development of mutually beneficial economic cooperation in all areas and sectors of their economies, based on equality and mutual benefit, and in accordance with the laws and regulations of the states of the Contracting Parties in force.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "The Government of the Republic of Poland and the Government of the Republic of Korea (hereinafter referred to as the “Contracting Parties”),"
-    },
-    {
-     "type": "text",
-     "text": "Desirous of further strengthening the friendly relations existing between the two countries,"
-    },
-    {
-     "type": "text",
-     "text": "Taking into account the international agreements that bind the Contracting Parties in the field of economic cooperation,"
-    },
-    {
-     "type": "text",
-     "text": "Considering the membership of the Republic of Poland in the European Union, and"
-    },
-    {
-     "type": "text",
-     "text": "Striving to expand and develop economic relations between the Republic of Poland and the Republic of Korea,"
-    },
-    {
-     "type": "text",
-     "text": "Have agreed as follows:"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Celem współpracy realizowanej w ramach niniejszej umowy będzie wykorzystanie potencjału gospodarczego obu państw dla umocnienia dwustronnych stosunków gospodarczych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Contracting Parties shall foster the development of mutually beneficial economic cooperation in all areas and sectors of their economies, based on equality and mutual benefit, and in accordance with the laws and regulations of the states of the Contracting Parties in force.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Celem współpracy realizowanej w ramach niniejszej umowy będzie wykorzystanie potencjału gospodarczego obu państw dla umocnienia dwustronnych stosunków gospodarczych.",
+   "path": "art_2",
+   "text": "Współpraca, o której mowa w artykule 1, będzie realizowana poprzez:",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Współpraca, o której mowa w artykule 1, będzie realizowana poprzez:"
-    },
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_2/pkt_1",
      "text": "współdziałanie w realizacji projektów stanowiących przedmiot wzajemnego zainteresowania w sektorach:",
      "children": [
       {
        "type": "lit",
        "num": "i",
-       "path": "ust_2/pkt_1/lit_i",
+       "path": "art_2/pkt_1/lit_i",
        "text": "przemysłu i górnictwa,",
        "children": []
       },
       {
        "type": "lit",
        "num": "ii",
-       "path": "ust_2/pkt_1/lit_ii",
+       "path": "art_2/pkt_1/lit_ii",
        "text": "energetyki,",
        "children": []
       },
       {
        "type": "lit",
        "num": "iii",
-       "path": "ust_2/pkt_1/lit_iii",
+       "path": "art_2/pkt_1/lit_iii",
        "text": "informacji i łączności,",
        "children": []
       },
       {
        "type": "lit",
        "num": "iv",
-       "path": "ust_2/pkt_1/lit_iv",
+       "path": "art_2/pkt_1/lit_iv",
        "text": "transportu,",
        "children": []
       },
       {
        "type": "lit",
        "num": "v",
-       "path": "ust_2/pkt_1/lit_v",
+       "path": "art_2/pkt_1/lit_v",
        "text": "ochrony środowiska,",
        "children": []
       },
       {
        "type": "lit",
        "num": "vi",
-       "path": "ust_2/pkt_1/lit_vi",
+       "path": "art_2/pkt_1/lit_vi",
        "text": "gospodarki morskiej,",
        "children": []
       },
       {
        "type": "lit",
        "num": "vii",
-       "path": "ust_2/pkt_1/lit_vii",
+       "path": "art_2/pkt_1/lit_vii",
        "text": "architektury i budownictwa,",
        "children": []
       },
@@ -181,429 +185,446 @@
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_2/pkt_2",
      "text": "współdziałanie w dziedzinie certyfikacji i normalizacji;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_2/pkt_3",
+     "path": "art_2/pkt_3",
      "text": "rozwój usług konsultingowych, prawnych, bankowych i technicznych, w tym wspomagających realizację projektów inwestycyjnych na terytoriach obu państw Umawiających się Stron;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_2/pkt_4",
+     "path": "art_2/pkt_4",
      "text": "inicjowanie i popieranie różnorodnych form kontaktów, wymianę specjalistów i personelu technicznego, szkolenia, udział w targach i wystawach, misjach gospodarczych, promocyjnych i innych przedsięwzięciach związanych ze współpracą gospodarczą.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 3"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe organy Umawiających się Stron będą sprzyjać tworzeniu przedstawicielstw, oddziałów, mieszanych izb gospodarczych i innych jednostek prowadzących lub promujących działalność gospodarczą państwa drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zasady tworzenia i prowadzenia działalności przez przedstawicielstwa, oddziały, mieszane izby gospodarcze i inne jednostki prowadzące działalność gospodarczą określa prawo obowiązujące w państwie Umawiającej się Strony, na terytorium którego podejmują one działalność.",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "W celu ułatwienia rozwoju współpracy gospodarczej właściwe organy Umawiających się Stron, zgod-"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The cooperation under this Agreement shall be carried out with the aim of utilising the economic potential of the two countries to strengthen their bilateral economic relations.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 2"
-    },
-    {
-     "type": "text",
-     "text": "The cooperation referred to in the Article 1 shall take the following forms:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "cooperation in the implementation of projects of mutual interest in the areas of:",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_2/lit_i",
-     "text": "industry and mining,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_2/lit_ii",
-     "text": "energy,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "iii",
-     "path": "ust_2/lit_iii",
-     "text": "information and communication,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "iv",
-     "path": "ust_2/lit_iv",
-     "text": "transport,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "v",
-     "path": "ust_2/lit_v",
-     "text": "environmental protection,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "vi",
-     "path": "ust_2/lit_vi",
-     "text": "marine affairs,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "vii",
-     "path": "ust_2/lit_vii",
-     "text": "architecture and the construction industry, and viii) physical planning and housing;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "cooperation in the area of certification and standardisation;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "development of consulting, legal, banking and technical services, including those providing support for the implementation of investment projects in the territories of the states of both Contracting Parties; and",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "initiating and supporting various forms of contact, exchange of experts and technical personnel, training, participation in fairs and exhibitions, economic missions, promotional and other undertakings related to economic cooperation.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 3"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The competent authorities of each Contracting Party shall encourage the establishment of representative offices, branches, joint economic chambers and other entities conducting or promoting economic activities of the state of the other Contracting Party.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The principles of establishing and conducting of activities by representative offices, branches, joint economic chambers and other entities conducting economic activity are defined by the laws and regulations of the state of the Contracting Party where the activities are taking place.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "With the aim of facilitating the development of economic cooperation, the competent authorities of nie z prawem obowiązującym w państwach Umawiających się Stron, będą dokonywać wymiany informacji w zakresie:"
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "prawa regulującego: działalność gospodarczą, inwestycje, standaryzację, certyfikację, warunki udzielania koncesji, licencji i zezwoleń, ochronę własności intelektualnej i przemysłowej, praw autorskich i pokrewnych oraz inne dziedziny stanowiące przedmiot wzajemnego zainteresowania;",
+     "path": "art_3/ust_1",
+     "text": "Właściwe organy Umawiających się Stron będą sprzyjać tworzeniu przedstawicielstw, oddziałów, mieszanych izb gospodarczych i innych jednostek prowadzących lub promujących działalność gospodarczą państwa drugiej Umawiającej się Strony.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "przedsięwzięć sprzyjających nawiązywaniu kontaktów między potencjalnymi partnerami gospodarczymi, w tym w zakresie organizacji wystaw, targów i misji gospodarczych.",
+     "path": "art_3/ust_2",
+     "text": "Zasady tworzenia i prowadzenia działalności przez przedstawicielstwa, oddziały, mieszane izby gospodarcze i inne jednostki prowadzące działalność gospodarczą określa prawo obowiązujące w państwie Umawiającej się Strony, na terytorium którego podejmują one działalność.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "W celu ułatwienia rozwoju współpracy gospodarczej właściwe organy Umawiających się Stron, zgod-",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "The cooperation under this Agreement shall be carried out with the aim of utilising the economic potential of the two countries to strengthen their bilateral economic relations.",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 5"
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "The cooperation referred to in the Article 1 shall take the following forms:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_2/lit_a",
+       "text": "cooperation in the implementation of projects of mutual interest in the areas of:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_4/ust_2/lit_i",
+       "text": "industry and mining,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "art_4/ust_2/lit_ii",
+       "text": "energy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iii",
+       "path": "art_4/ust_2/lit_iii",
+       "text": "information and communication,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iv",
+       "path": "art_4/ust_2/lit_iv",
+       "text": "transport,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "v",
+       "path": "art_4/ust_2/lit_v",
+       "text": "environmental protection,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "vi",
+       "path": "art_4/ust_2/lit_vi",
+       "text": "marine affairs,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "vii",
+       "path": "art_4/ust_2/lit_vii",
+       "text": "architecture and the construction industry, and viii) physical planning and housing;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_2/lit_b",
+       "text": "cooperation in the area of certification and standardisation;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_4/ust_2/lit_c",
+       "text": "development of consulting, legal, banking and technical services, including those providing support for the implementation of investment projects in the territories of the states of both Contracting Parties; and",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_4/ust_2/lit_d",
+       "text": "initiating and supporting various forms of contact, exchange of experts and technical personnel, training, participation in fairs and exhibitions, economic missions, promotional and other undertakings related to economic cooperation.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 3"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "The competent authorities of each Contracting Party shall encourage the establishment of representative offices, branches, joint economic chambers and other entities conducting or promoting economic activities of the state of the other Contracting Party.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "The principles of establishing and conducting of activities by representative offices, branches, joint economic chambers and other entities conducting economic activity are defined by the laws and regulations of the state of the Contracting Party where the activities are taking place.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "With the aim of facilitating the development of economic cooperation, the competent authorities of nie z prawem obowiązującym w państwach Umawiających się Stron, będą dokonywać wymiany informacji w zakresie:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_2/pkt_1",
+       "text": "prawa regulującego: działalność gospodarczą, inwestycje, standaryzację, certyfikację, warunki udzielania koncesji, licencji i zezwoleń, ochronę własności intelektualnej i przemysłowej, praw autorskich i pokrewnych oraz inne dziedziny stanowiące przedmiot wzajemnego zainteresowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_2/pkt_2",
+       "text": "przedsięwzięć sprzyjających nawiązywaniu kontaktów między potencjalnymi partnerami gospodarczymi, w tym w zakresie organizacji wystaw, targów i misji gospodarczych.",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony przeprowadzać będą konsultacje gospodarcze, zwane dalej „konsultacjami”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przedmiotem konsultacji będzie w szczególności:",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "dokonywanie okresowych przeglądów i ocen współpracy gospodarczej;",
+     "path": "art_5/ust_1",
+     "text": "Umawiające się Strony przeprowadzać będą konsultacje gospodarcze, zwane dalej „konsultacjami”.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "przygotowywanie propozycji zmierzających do dalszego rozwoju współpracy gospodarczej;",
-     "children": []
+     "path": "art_5/ust_2",
+     "text": "Przedmiotem konsultacji będzie w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_5/ust_2/pkt_1",
+       "text": "dokonywanie okresowych przeglądów i ocen współpracy gospodarczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_2/pkt_2",
+       "text": "przygotowywanie propozycji zmierzających do dalszego rozwoju współpracy gospodarczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_5/ust_2/pkt_3",
+       "text": "identyfikacja problemów ograniczających rozwój współpracy gospodarczej i proponowanie odpowiednich działań w celu ich eliminacji.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "identyfikacja problemów ograniczających rozwój współpracy gospodarczej i proponowanie odpowiednich działań w celu ich eliminacji.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Konsultacje odbywać się będą w terminach uzgodnionych przez ministrów właściwych do spraw gospodarki każdej z Umawiających się Stron, na przemian w Rzeczypospolitej Polskiej i w Republice Korei.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przewodniczący delegacji narodowych na konsultacje będą wyznaczani przez ministrów, o których mowa w ustępie 3.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa nie narusza praw i zobowiązań wynikających z umów międzynarodowych, stronami których są Rzeczypospolita Polska lub Republika Korei, oraz z ich przynależności do organizacji międzynarodowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa nie narusza praw i zobowiązań Rzeczypospolitej Polskiej wynikających z członkostwa w Unii Europejskiej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem państwa każdej z Umawiających się Stron, the Contracting Parties, in accordance with the laws and regulations of the state of each Contracting Party, shall seek to exchange information concerning:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "legislation governing: economic activity, investment, standardisation, certification, conditions for granting concessions, licences and permits, protection of industrial, intellectual and related property rights, and other areas of mutual interest; and",
+     "path": "art_5/ust_3",
+     "text": "Konsultacje odbywać się będą w terminach uzgodnionych przez ministrów właściwych do spraw gospodarki każdej z Umawiających się Stron, na przemian w Rzeczypospolitej Polskiej i w Republice Korei.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "projects conducive for establishing relations between potential economic partners, including projects concerning organization of exhibitions, fairs and economic missions.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Przewodniczący delegacji narodowych na konsultacje będą wyznaczani przez ministrów, o których mowa w ustępie 3.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Niniejsza umowa nie narusza praw i zobowiązań wynikających z umów międzynarodowych, stronami których są Rzeczypospolita Polska lub Republika Korei, oraz z ich przynależności do organizacji międzynarodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Niniejsza umowa nie narusza praw i zobowiązań Rzeczypospolitej Polskiej wynikających z członkostwa w Unii Europejskiej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem państwa każdej z Umawiających się Stron, the Contracting Parties, in accordance with the laws and regulations of the state of each Contracting Party, shall seek to exchange information concerning:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_1/lit_a",
+       "text": "legislation governing: economic activity, investment, standardisation, certification, conditions for granting concessions, licences and permits, protection of industrial, intellectual and related property rights, and other areas of mutual interest; and",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_1/lit_b",
+       "text": "projects conducive for establishing relations between potential economic partners, including projects concerning organization of exhibitions, fairs and economic missions.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 5"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "The Contracting Parties shall hold consultations on economic cooperation (hereinafter referred to as the ”Consultations”).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "The subject of Consultations shall be, in particular, to:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_2/lit_a",
+       "text": "review and assess economic cooperation on a regular basis;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_2/lit_b",
+       "text": "prepare proposals for the further development of economic cooperation; and",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_7/ust_2/lit_c",
+       "text": "identify obstacles to the development of economic cooperation and propose adequate measures for their elimination.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Consultations shall be held at dates agreed upon between ministers responsible for economy in the state of each Contracting Party, alternatively in the Republic of Poland and in the Republic of Korea.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "The Chairpersons of national delegations for Consultations shall be designated by the ministers referred to in the paragraph 3.",
      "children": [
       {
        "type": "text",
-       "text": "Article 5"
+       "text": "Article 6"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "This Agreement is without prejudice to the rights and obligations of the Republic of Poland and the Republic of Korea arising from international agreements, to which they are the party, and from their membership in international organisations.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "This Agreement is without prejudice to the rights and obligations of the Republic of Poland arising from its membership in the European Union.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "This Agreement shall be adopted in accordance with the respective laws of each of the states of the co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie z dniem otrzymania noty późniejszej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Niniejsza umowa zawarta jest na czas nieokreślony i może być wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci ona moc po upływie sześciu miesięcy od dnia wypowiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Na wniosek jednej z Umawiających się Stron, niniejsza umowa może być uzupełniona i zmieniona w formie pisemnej za obopólną zgodą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "NA DOWÓD CZEGO niżej podpisani, z upoważnienia swoich Rządów podpisali niniejszą umowę."
+      },
+      {
+       "type": "text",
+       "text": "UMOWĘ NINIEJSZĄ sporządzono w Warszawie dnia 3 grudnia 2004 r., w dwóch egzemplarzach, każdy w językach polskim, koreańskim i angielskim, przy czym wszystkie teksty mają jednakową moc. W przypadku rozbieżności w interpretacji umowy, za rozstrzygający uważa się tekst angielski."
+      },
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Korei Contracting Parties and shall be confirmed by the exchange of notes. The Agreement shall come into force on the date of receipt of the latter of the respective notes."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "This Agreement is concluded for an indefinite period of time and shall remain in force until any of the Contracting Parties has given six (6) months prior written notice of its termination.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "This Agreement may be amended and supplemented by mutual agreement in writing at the request of either of the Contracting Parties.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement."
+      },
+      {
+       "type": "text",
+       "text": "DONE in duplicate at Warsaw on the 3 rd December 2004 in the Polish, Korean and English languages, all texts being equally authentic. In case of any divergence in interpretation, the English text shall prevail."
+      },
+      {
+       "type": "text",
+       "text": "For the Government of For the Government of the Republic of Poland the Republic of Korea"
       }
      ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Contracting Parties shall hold consultations on economic cooperation (hereinafter referred to as the ”Consultations”).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The subject of Consultations shall be, in particular, to:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "review and assess economic cooperation on a regular basis;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "prepare proposals for the further development of economic cooperation; and",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "identify obstacles to the development of economic cooperation and propose adequate measures for their elimination.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Consultations shall be held at dates agreed upon between ministers responsible for economy in the state of each Contracting Party, alternatively in the Republic of Poland and in the Republic of Korea.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The Chairpersons of national delegations for Consultations shall be designated by the ministers referred to in the paragraph 3.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement is without prejudice to the rights and obligations of the Republic of Poland and the Republic of Korea arising from international agreements, to which they are the party, and from their membership in international organisations.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Agreement is without prejudice to the rights and obligations of the Republic of Poland arising from its membership in the European Union.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement shall be adopted in accordance with the respective laws of each of the states of the co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie z dniem otrzymania noty późniejszej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa zawarta jest na czas nieokreślony i może być wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci ona moc po upływie sześciu miesięcy od dnia wypowiedzenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Na wniosek jednej z Umawiających się Stron, niniejsza umowa może być uzupełniona i zmieniona w formie pisemnej za obopólną zgodą.",
-   "children": [
-    {
-     "type": "text",
-     "text": "NA DOWÓD CZEGO niżej podpisani, z upoważnienia swoich Rządów podpisali niniejszą umowę."
-    },
-    {
-     "type": "text",
-     "text": "UMOWĘ NINIEJSZĄ sporządzono w Warszawie dnia 3 grudnia 2004 r., w dwóch egzemplarzach, każdy w językach polskim, koreańskim i angielskim, przy czym wszystkie teksty mają jednakową moc. W przypadku rozbieżności w interpretacji umowy, za rozstrzygający uważa się tekst angielski."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Korei Contracting Parties and shall be confirmed by the exchange of notes. The Agreement shall come into force on the date of receipt of the latter of the respective notes."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Agreement is concluded for an indefinite period of time and shall remain in force until any of the Contracting Parties has given six (6) months prior written notice of its termination.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "This Agreement may be amended and supplemented by mutual agreement in writing at the request of either of the Contracting Parties.",
-   "children": [
-    {
-     "type": "text",
-     "text": "IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "DONE in duplicate at Warsaw on the 3 rd December 2004 in the Polish, Korean and English languages, all texts being equally authentic. In case of any divergence in interpretation, the English text shall prevail."
-    },
-    {
-     "type": "text",
-     "text": "For the Government of For the Government of the Republic of Poland the Republic of Korea"
-    }
-   ]
+   ],
+   "label": "Artykuł 7"
   }
  ],
  "annexes": [],

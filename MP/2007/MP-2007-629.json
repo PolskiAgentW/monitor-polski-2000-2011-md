@@ -41,469 +41,489 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą sprzyjać rozwojowi wzajemnie korzystnej współpracy gospodarczej we wszystkich dziedzinach i sektorach gospodarki na zasadach równości, wzajemnych korzyści i zgodnie z prawem obowiązującym w państwach Umawiających się Stron.",
-   "children": []
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Umawiające się Strony będą sprzyjać rozwojowi wzajemnie korzystnej współpracy gospodarczej we wszystkich dziedzinach i sektorach gospodarki na zasadach równości, wzajemnych korzyści i zgodnie z prawem obowiązującym w państwach Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Współpraca realizowana w ramach niniejszej umowy będzie ukierunkowana na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_2/pkt_1",
+       "text": "wykorzystanie potencjału gospodarczego dla wzmocnienia dwustronnych stosunków gospodarczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_2/pkt_2",
+       "text": "intensyfikację dwustronnych stosunków gospodarczych, w szczególności w sferze inwestycji, innowacji i finansowania przedsięwzięć gospodarczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_2/pkt_3",
+       "text": "rozwój międzyregionalnej współpracy gospodarczej.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Współpraca realizowana w ramach niniejszej umowy będzie ukierunkowana na:",
+   "path": "art_2",
+   "text": "Współpraca, o której mowa w artykule 1, będzie realizowana poprzez:",
    "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "wykorzystanie potencjału gospodarczego dla wzmocnienia dwustronnych stosunków gospodarczych;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "intensyfikację dwustronnych stosunków gospodarczych, w szczególności w sferze inwestycji, innowacji i finansowania przedsięwzięć gospodarczych;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "rozwój międzyregionalnej współpracy gospodarczej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 2"
-      },
-      {
-       "type": "text",
-       "text": "Współpraca, o której mowa w artykule 1, będzie realizowana poprzez:"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_2/pkt_1",
      "text": "rozwój współpracy między podmiotami gospodarczymi państw Umawiających się Stron, w szczególności w przemyśle spożywczym i sektorze paliwowo-energetycznym;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_2/pkt_2",
      "text": "realizację projektów inwestycyjnych obejmujących projektowanie, budowę, remont lub przebudowę oraz modernizację w zakresie technologicznym obiektów przez podmioty gospodarcze jednego z państw Umawiających się Stron na terytorium drugiego z państw Umawiających się Stron lub wspólne występowanie podmiotów gospodarczych obu państw Umawiających się Stron na ich terytoriach lub na terytoriach państw trzecich;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_2/pkt_3",
+     "path": "art_2/pkt_3",
      "text": "wdrażanie mechanizmów związanych z finansowaniem, ubezpieczaniem oraz udzielaniem gwarancji dla przedsięwzięć gospodarczych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_2/pkt_4",
+     "path": "art_2/pkt_4",
      "text": "współdziałanie w dziedzinie certyfikacji i standaryzacji;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "ust_2/pkt_5",
+     "path": "art_2/pkt_5",
      "text": "sprzyjanie kontaktom między organizacjami zrzeszającymi podmioty gospodarcze;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "6",
-     "path": "ust_2/pkt_6",
+     "path": "art_2/pkt_6",
      "text": "rozwój usług konsultingowych, prawnych, bankowych i technicznych, w tym wspomagających realizację projektów inwestycyjnych na terytorium obu państw;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "7",
-     "path": "ust_2/pkt_7",
+     "path": "art_2/pkt_7",
      "text": "inicjowanie i popieranie różnorodnych form kontaktów, wymianę specjalistów i personelu technicznego, szkolenia, udział w targach i wystawach, misjach gospodarczych, przedsięwzięciach promocyjnych i innych przedsięwzięciach związanych z współpracą gospodarczą;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "8",
-     "path": "ust_2/pkt_8",
+     "path": "art_2/pkt_8",
      "text": "rozwój współpracy w dziedzinie turystyki.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 3"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe organy Umawiających się Stron będą sprzyjać tworzeniu i działalności przedstawicielstw, oddziałów, mieszanych izb gospodarczych i innych jednostek prowadzących działalność gospodarczą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zasady tworzenia i prowadzenia działalności przez przedstawicielstwa, oddziały, mieszane izby gospodarcze i inne jednostki prowadzące działalność gospodarczą określa prawo obowiązujące w państwie Umawiającej się Strony, na terytorium którego podejmują one działalność.",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Właściwe organy Umawiających się Stron będą sprzyjać tworzeniu i działalności przedstawicielstw, oddziałów, mieszanych izb gospodarczych i innych jednostek prowadzących działalność gospodarczą.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W celu ułatwienia rozwoju współpracy gospodarczej właściwe organy Umawiających się Stron podejmować będą działania prowadzące do wymiany informacji w zakresie:"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Zasady tworzenia i prowadzenia działalności przez przedstawicielstwa, oddziały, mieszane izby gospodarcze i inne jednostki prowadzące działalność gospodarczą określa prawo obowiązujące w państwie Umawiającej się Strony, na terytorium którego podejmują one działalność.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "W celu ułatwienia rozwoju współpracy gospodarczej właściwe organy Umawiających się Stron podejmować będą działania prowadzące do wymiany informacji w zakresie:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_4/pkt_1",
      "text": "prawa regulującego: działalność gospodarczą, inwestycje, standaryzację, certyfikację, licencje, ochronę własności intelektualnej i przemysłowej, praw autorskich i pokrewnych oraz inne dziedziny stanowiące przedmiot wzajemnego zainteresowania;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_4/pkt_2",
      "text": "przedsięwzięć sprzyjających zacieśnieniu kontaktów między podmiotami gospodarczymi państw Umawiających się Stron, w tym w zakresie przeprowadzania wystaw, targów i misji gospodarczych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Umawiające się Strony powołują Polsko-Mołdawską Komisję do spraw Współpracy Gospodarczej, zwaną dalej „Komisją”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Do zadań Komisji należy w szczególności:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 5"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_5/ust_2/pkt_1",
+       "text": "dokonywanie okresowych przeglądów i ocen współpracy gospodarczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_2/pkt_2",
+       "text": "przygotowywanie propozycji zmierzających do dalszego rozwoju współpracy gospodarczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_5/ust_2/pkt_3",
+       "text": "identyfikacja problemów ograniczających rozwój współpracy gospodarczej i proponowanie odpowiednich działań w celu ich eliminacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_5/ust_2/pkt_4",
+       "text": "omawianie spraw spornych dotyczących stosowania lub interpretacji niniejszej umowy.",
+       "children": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony powołują Polsko-Mołdawską Komisję do spraw Współpracy Gospodarczej, zwaną dalej „Komisją”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Do zadań Komisji należy w szczególności:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "dokonywanie okresowych przeglądów i ocen współpracy gospodarczej;",
-     "children": []
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "przygotowywanie propozycji zmierzających do dalszego rozwoju współpracy gospodarczej;",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "identyfikacja problemów ograniczających rozwój współpracy gospodarczej i proponowanie odpowiednich działań w celu ich eliminacji;",
+     "path": "art_5/ust_3",
+     "text": "Komisja składa się z sekcji polskiej i mołdawskiej, pod przewodnictwem przewodniczących powoływanych przez każdą z Umawiających się Stron. Dla rozpatrzenia spraw szczegółowych Komisja w ramach swojej kompetencji może tworzyć grupy robocze z określeniem ich zadań.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "4",
-     "path": "ust_2/pkt_4",
-     "text": "omawianie spraw spornych dotyczących stosowania lub interpretacji niniejszej umowy.",
+     "path": "art_5/ust_4",
+     "text": "Posiedzenia Komisji przeprowadzane będą w miarę potrzeby co najmniej raz w roku, kolejno w Rzeczypospolitej Polskiej i w Republice Mołdowy. Z inicjatywy jednego z przewodniczących może być zwołane nadzwyczajne posiedzenie Komisji lub zainicjowane spotkanie przewodniczących.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "Komisja ustanawia regulamin pracy.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja składa się z sekcji polskiej i mołdawskiej, pod przewodnictwem przewodniczących powoływanych przez każdą z Umawiających się Stron. Dla rozpatrzenia spraw szczegółowych Komisja w ramach swojej kompetencji może tworzyć grupy robocze z określeniem ich zadań.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Posiedzenia Komisji przeprowadzane będą w miarę potrzeby co najmniej raz w roku, kolejno w Rzeczypospolitej Polskiej i w Republice Mołdowy. Z inicjatywy jednego z przewodniczących może być zwołane nadzwyczajne posiedzenie Komisji lub zainicjowane spotkanie przewodniczących.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Komisja ustanawia regulamin pracy.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Niniejsza umowa nie narusza praw i zobowiązań Umawiających się Stron wynikających z umów międzynarodowych, których stronami są Rzeczpospolita Polska lub Republika Mołdowy, oraz z ich przynależności do organizacji międzynarodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Żadne z postanowień niniejszej umowy nie może być interpretowane jako naruszające prawa i zobowiązania Rzeczypospolitej Polskiej wynikające z jej członkostwa w Unii Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "W zakresie spraw, które objęte są niniejszą umową, regulowanych przez Umowę o Partnerstwie i Współpracy ustanawiającą partnerstwo pomiędzy Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Republiką Mołdowy, z drugiej strony, podpisaną w dniu 28 listopada 1994 r. w Brukseli, wraz z jej wszystkimi późniejszymi zmianami i uzupełnieniami, pierwszeństwo będą miały postanowienia powyższej Umowy o Partnerstwie i Współpracy, wraz z jej wszystkimi późniejszymi zmianami i uzupełnieniami.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa nie narusza praw i zobowiązań Umawiających się Stron wynikających z umów międzynarodowych, których stronami są Rzeczpospolita Polska lub Republika Mołdowy, oraz z ich przynależności do organizacji międzynarodowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Żadne z postanowień niniejszej umowy nie może być interpretowane jako naruszające prawa i zobowiązania Rzeczypospolitej Polskiej wynikające z jej członkostwa w Unii Europejskiej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W zakresie spraw, które objęte są niniejszą umową, regulowanych przez Umowę o Partnerstwie i Współpracy ustanawiającą partnerstwo pomiędzy Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Republiką Mołdowy, z drugiej strony, podpisaną w dniu 28 listopada 1994 r. w Brukseli, wraz z jej wszystkimi późniejszymi zmianami i uzupełnieniami, pierwszeństwo będą miały postanowienia powyższej Umowy o Partnerstwie i Współpracy, wraz z jej wszystkimi późniejszymi zmianami i uzupełnieniami.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Umowa niniejsza wchodzi w życie z dniem otrzymania ostatniej notyfikacji o wykonaniu przez Umawiające się Strony wewnętrznych procedur, koniecznych dla jej wejścia w życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Niniejsza umowa zawarta jest na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku niniejsza umowa utraci moc po upływie 6 miesięcy od dnia otrzymania noty wypowiadającej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Za zgodą Umawiających się Stron do niniejszej umowy mogą być wprowadzane zmiany i uzupełnienia w formie pisemnej, które stanowić będą integralną część niniejszej umowy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza wchodzi w życie z dniem otrzymania ostatniej notyfikacji o wykonaniu przez Umawiające się Strony wewnętrznych procedur, koniecznych dla jej wejścia w życie.",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w Krynicy dnia 7 września 2006 r., w dwóch egzemplarzach, każdy w językach polskim i mołdawskim, przy czym obydwa teksty mają jednakową moc."
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa zawarta jest na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku niniejsza umowa utraci moc po upływie 6 miesięcy od dnia otrzymania noty wypowiadającej.",
-   "children": []
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Mołdowy"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Za zgodą Umawiających się Stron do niniejszej umowy mogą być wprowadzane zmiany i uzupełnienia w formie pisemnej, które stanowić będą integralną część niniejszej umowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Sporządzono w Krynicy dnia 7 września 2006 r., w dwóch egzemplarzach, każdy w językach polskim i mołdawskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Mołdowy"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ACORD INTRE GUVERNUL REPUBLICII POLONE SI GUVERNUL REPUBLICII MOLDOVA PRIVIND COOPERAREA ECONOMICA"
-    },
-    {
-     "type": "ocr",
-     "text": "Guvernul Republicii Polone si Guvernul Republicii Moldova, numite in continuare “Parti Contractante”,"
-    },
-    {
-     "type": "ocr",
-     "text": "bazindu-se pe prevederile Tratatului de prietenie si cooperare intre Republica Polona si Republica Moldova, incheiat la Vargovia la 15 noiembrie 1994,"
-    },
-    {
-     "type": "ocr",
-     "text": "tinind cont de clauzele acordurilor internationale, care leagd Partile Contractante in domeniuł cooperśrii economice,"
-    },
-    {
-     "type": "ocr",
-     "text": "avind in vedere calitatea de membru al Uniunii Europene a Republicii Polone,"
-    },
-    {
-     "type": "ocr",
-     "text": "fiind convingi ca prezentul Acord va consolida dezvoltarea cooperarii economice reciproce,"
-    },
-    {
-     "type": "ocr",
-     "text": "au convenit asupra celor ce urmeaza:"
-    },
-    {
-     "type": "ocr",
-     "text": "Articolul 1"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Pźrtile Contractante vor contribui la dezvoltarea unei cooperari economice reciproc avantajoase in toate domeniile si sectoarele economiei, bazindu-se pe principiile egalitafii, avantajului reciproc si in conformitate cu legislatia fn vigoare in tarile Partilor Contractante."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Cooperarea realizata in cadrul acestui Acord va fi directionata spre:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) valorificarea potentialului economic pentru consolidarea _ relatiilor economice bilaterale,"
-    },
-    {
-     "type": "ocr",
-     "text": "2) intensificarea relatiilor economice bilaterale, in deosebi in domeniul investitiilor, inovatiilor si finantarii actiunilor economice,"
-    },
-    {
-     "type": "ocr",
-     "text": "3) dezvoltarea cooperarii economice interregionale."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Articolul 2"
-    },
-    {
-     "type": "ocr",
-     "text": "Cooperarea mentionata in Articolul 1 va fi realizata prin: 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "2)"
-    },
-    {
-     "type": "ocr",
-     "text": "3)"
-    },
-    {
-     "type": "ocr",
-     "text": "4) 5) 6)"
-    },
-    {
-     "type": "ocr",
-     "text": "1)"
-    },
-    {
-     "type": "ocr",
-     "text": "8)"
-    },
-    {
-     "type": "ocr",
-     "text": "dezvoltarea cooperarii intre agentii economici ai Partilor Contractante, in deosebi in industria alimentara si sectorul energetic-de combustibil, realizarea proiectelor investitionale ce cuprind proiectarea, constructia si repararea sau reconstructia gi modernizarea in domeniul tehnologic a obiectelor de c&tre agentii economici ai unuia dintre statele PArtilor Contractante pe teritoriul celuilalt stat al Partilor Contractante sau activitatea comuna a agentilor economici ai ambelor state ale Partilor Contractante pe teritoriul lor sau pe teritoriul statelor terte, introducerea unor mecanisme legate de finantarea, asigurarea $i oferirea de garantii pentru actiuni economice, cooperarea in domeniul certificarii gi standardizarii, inlesnirea contactelor intre asociatiile agentilor economici, dezvoltarea unor servicii de consulting, juridice, bancare gi tehnice, inclusiv a celora ce sprijinń realizarea unor proiecte investitionale pe teritoriul ambelor state, initierea gi sustinerea unor diverse forme de contacte, schimb de specialisti $i personal tehnic, instruire, participare la tirguri gi expozitii, misiuni economice, actiuni promotionale si altor actiuni legate de cooperarea economica, dezvoltarea cooperarii in domeniul turismului."
-    },
-    {
-     "type": "ocr",
-     "text": "Articolul 3"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Organele competente ale Partilor Contractante vor inlesni crearea si activitatea reprezentantelor, sectiilor si camerelor economice comune si a altor unit&ti ce desfasoara activitati economice."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Principiile de creare si desfasurare a activitatii de cdtre reprezentante, sectii, camere economice comune gi alte unitati care desfagoara activitate economica sunt definite de legislatia existenta in statul P&rtii Contractante, pe teritoriul careia ele igi desfasoara activitatea."
-    },
-    {
-     "type": "ocr",
-     "text": "Articolul 4"
-    },
-    {
-     "type": "ocr",
-     "text": "In scopul facilitarii dezvoltarii cooperarii economice organele competente ale Partilor Contractante vor intreprinde actiuni in directia schimbului de informatii in domeniul: 1)"
-    },
-    {
-     "type": "ocr",
-     "text": "normelor de reglementare.:. a _ activitatii economice, investifiilor, standardizarii, certificarii, licentierii, a protectiei proprietatii intelectuale si"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "industriale, drepturilor de autor si celor adiacente si alte domenii ce sunt subiecte de interes reciproc,"
-    },
-    {
-     "type": "ocr",
-     "text": "2) mąsurilor ce inlesnesc consolidarea contactelor intre agentii economici ai statelor Partilor Contractante, inclusiv in domeniul organizśrii expozitiilor, tirgurilor si misiunilor economice."
-    },
-    {
-     "type": "ocr",
-     "text": "Articolul 5"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Partile Contractante creeaza Comisia polono-moldoveneasca pentru cooperare economica, numita in continuare “Comisia”."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Sarcinile Comisiei sunt:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) realizarea analizelor periodice $i aprecierilor cooperarii economice,"
-    },
-    {
-     "type": "ocr",
-     "text": "2) pregatirea propunerilor indreptate spre dezvoltarea in continuare a cooperśrii economice,"
-    },
-    {
-     "type": "ocr",
-     "text": "3) identificarea obstacolelor care limiteaza dezvoltarea cooperarii economice si propunerea actiunilor corespunzatoare in scopul eliminArii lor,"
-    },
-    {
-     "type": "ocr",
-     "text": "4) abordarea problemelor litigioase referitoare la aplicarea sau interpretarea prezentului Acord."
-    },
-    {
-     "type": "ocr",
-     "text": "3. Comisia este alc&tuité din delegatiile poloneza si moldoveneasca, conduse de presedinti desemnati de catre fiecare dintre Partile Contractante. Pentru examinarea unor subiecte concrete Comisia in cadrul competentei sale poate crea grupuri de lucru cu stabilirea sarcinilor lor."
-    },
-    {
-     "type": "ocr",
-     "text": "4. Sedintele Comisiei vor avea loc pe masura necesitśtii, de regula cel putin o data pe an, succesiv in Republica Polona si Republica Moldova. La initiativa unuia dintre presedinti poate fi convocata sedinta extraordinarń a Comisiei sau initiata intrevederea presedintilor."
-    },
-    {
-     "type": "ocr",
-     "text": "5. Comisia igi adopta regulamentul de functionare."
-    },
-    {
-     "type": "ocr",
-     "text": "Articolul 6"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Prezentul Acord nu lezeaza drepturile si obligatiile Partilor Contractante ce rezulté din tratatele internationale, la care sunt parti Republica Polond sau Republica Moldova si nici apartenentei sale la organizatiile internationale."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Nici o prevedere a prezentului Acord nu poate fi interpretata in sensul ca incalca drepturile si obligatiile Republicii Polone ce rezulta din calitatea ei de membru la Uniunea Europeana."
-    },
-    {
-     "type": "ocr",
-     "text": "3. In domeniul chestiunilor, care sunt cuprinse de cdtre acest Acord, reglementate de catre Acordul de Parteneriat si Cooperare care instituie parteneriatul intre Comunitatile Europene gi statele lor membre, pe de o parte, si Republica Moldova pe de alta parte, semnat la Bruxelles la 28.11.1994, cu modificarile si completarile ulterioare, care sunt cuprinse in acest Acord, prioritate vor avea prevederile Acordului de Parteneriat si Cooperare mentionat mai sus, cu modificarile si completarile ulterioare."
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    }
-   ]
+   "type": "note",
+   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ACORD INTRE GUVERNUL REPUBLICII POLONE SI GUVERNUL REPUBLICII MOLDOVA PRIVIND COOPERAREA ECONOMICA"
+  },
+  {
+   "type": "ocr",
+   "text": "Guvernul Republicii Polone si Guvernul Republicii Moldova, numite in continuare “Parti Contractante”,"
+  },
+  {
+   "type": "ocr",
+   "text": "bazindu-se pe prevederile Tratatului de prietenie si cooperare intre Republica Polona si Republica Moldova, incheiat la Vargovia la 15 noiembrie 1994,"
+  },
+  {
+   "type": "ocr",
+   "text": "tinind cont de clauzele acordurilor internationale, care leagd Partile Contractante in domeniuł cooperśrii economice,"
+  },
+  {
+   "type": "ocr",
+   "text": "avind in vedere calitatea de membru al Uniunii Europene a Republicii Polone,"
+  },
+  {
+   "type": "ocr",
+   "text": "fiind convingi ca prezentul Acord va consolida dezvoltarea cooperarii economice reciproce,"
+  },
+  {
+   "type": "ocr",
+   "text": "au convenit asupra celor ce urmeaza:"
+  },
+  {
+   "type": "ocr",
+   "text": "Articolul 1"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Pźrtile Contractante vor contribui la dezvoltarea unei cooperari economice reciproc avantajoase in toate domeniile si sectoarele economiei, bazindu-se pe principiile egalitafii, avantajului reciproc si in conformitate cu legislatia fn vigoare in tarile Partilor Contractante."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Cooperarea realizata in cadrul acestui Acord va fi directionata spre:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) valorificarea potentialului economic pentru consolidarea _ relatiilor economice bilaterale,"
+  },
+  {
+   "type": "ocr",
+   "text": "2) intensificarea relatiilor economice bilaterale, in deosebi in domeniul investitiilor, inovatiilor si finantarii actiunilor economice,"
+  },
+  {
+   "type": "ocr",
+   "text": "3) dezvoltarea cooperarii economice interregionale."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Articolul 2"
+  },
+  {
+   "type": "ocr",
+   "text": "Cooperarea mentionata in Articolul 1 va fi realizata prin: 1)"
+  },
+  {
+   "type": "ocr",
+   "text": "2)"
+  },
+  {
+   "type": "ocr",
+   "text": "3)"
+  },
+  {
+   "type": "ocr",
+   "text": "4) 5) 6)"
+  },
+  {
+   "type": "ocr",
+   "text": "1)"
+  },
+  {
+   "type": "ocr",
+   "text": "8)"
+  },
+  {
+   "type": "ocr",
+   "text": "dezvoltarea cooperarii intre agentii economici ai Partilor Contractante, in deosebi in industria alimentara si sectorul energetic-de combustibil, realizarea proiectelor investitionale ce cuprind proiectarea, constructia si repararea sau reconstructia gi modernizarea in domeniul tehnologic a obiectelor de c&tre agentii economici ai unuia dintre statele PArtilor Contractante pe teritoriul celuilalt stat al Partilor Contractante sau activitatea comuna a agentilor economici ai ambelor state ale Partilor Contractante pe teritoriul lor sau pe teritoriul statelor terte, introducerea unor mecanisme legate de finantarea, asigurarea $i oferirea de garantii pentru actiuni economice, cooperarea in domeniul certificarii gi standardizarii, inlesnirea contactelor intre asociatiile agentilor economici, dezvoltarea unor servicii de consulting, juridice, bancare gi tehnice, inclusiv a celora ce sprijinń realizarea unor proiecte investitionale pe teritoriul ambelor state, initierea gi sustinerea unor diverse forme de contacte, schimb de specialisti $i personal tehnic, instruire, participare la tirguri gi expozitii, misiuni economice, actiuni promotionale si altor actiuni legate de cooperarea economica, dezvoltarea cooperarii in domeniul turismului."
+  },
+  {
+   "type": "ocr",
+   "text": "Articolul 3"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Organele competente ale Partilor Contractante vor inlesni crearea si activitatea reprezentantelor, sectiilor si camerelor economice comune si a altor unit&ti ce desfasoara activitati economice."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Principiile de creare si desfasurare a activitatii de cdtre reprezentante, sectii, camere economice comune gi alte unitati care desfagoara activitate economica sunt definite de legislatia existenta in statul P&rtii Contractante, pe teritoriul careia ele igi desfasoara activitatea."
+  },
+  {
+   "type": "ocr",
+   "text": "Articolul 4"
+  },
+  {
+   "type": "ocr",
+   "text": "In scopul facilitarii dezvoltarii cooperarii economice organele competente ale Partilor Contractante vor intreprinde actiuni in directia schimbului de informatii in domeniul: 1)"
+  },
+  {
+   "type": "ocr",
+   "text": "normelor de reglementare.:. a _ activitatii economice, investifiilor, standardizarii, certificarii, licentierii, a protectiei proprietatii intelectuale si"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "industriale, drepturilor de autor si celor adiacente si alte domenii ce sunt subiecte de interes reciproc,"
+  },
+  {
+   "type": "ocr",
+   "text": "2) mąsurilor ce inlesnesc consolidarea contactelor intre agentii economici ai statelor Partilor Contractante, inclusiv in domeniul organizśrii expozitiilor, tirgurilor si misiunilor economice."
+  },
+  {
+   "type": "ocr",
+   "text": "Articolul 5"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Partile Contractante creeaza Comisia polono-moldoveneasca pentru cooperare economica, numita in continuare “Comisia”."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Sarcinile Comisiei sunt:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) realizarea analizelor periodice $i aprecierilor cooperarii economice,"
+  },
+  {
+   "type": "ocr",
+   "text": "2) pregatirea propunerilor indreptate spre dezvoltarea in continuare a cooperśrii economice,"
+  },
+  {
+   "type": "ocr",
+   "text": "3) identificarea obstacolelor care limiteaza dezvoltarea cooperarii economice si propunerea actiunilor corespunzatoare in scopul eliminArii lor,"
+  },
+  {
+   "type": "ocr",
+   "text": "4) abordarea problemelor litigioase referitoare la aplicarea sau interpretarea prezentului Acord."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Comisia este alc&tuité din delegatiile poloneza si moldoveneasca, conduse de presedinti desemnati de catre fiecare dintre Partile Contractante. Pentru examinarea unor subiecte concrete Comisia in cadrul competentei sale poate crea grupuri de lucru cu stabilirea sarcinilor lor."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Sedintele Comisiei vor avea loc pe masura necesitśtii, de regula cel putin o data pe an, succesiv in Republica Polona si Republica Moldova. La initiativa unuia dintre presedinti poate fi convocata sedinta extraordinarń a Comisiei sau initiata intrevederea presedintilor."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Comisia igi adopta regulamentul de functionare."
+  },
+  {
+   "type": "ocr",
+   "text": "Articolul 6"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Prezentul Acord nu lezeaza drepturile si obligatiile Partilor Contractante ce rezulté din tratatele internationale, la care sunt parti Republica Polond sau Republica Moldova si nici apartenentei sale la organizatiile internationale."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Nici o prevedere a prezentului Acord nu poate fi interpretata in sensul ca incalca drepturile si obligatiile Republicii Polone ce rezulta din calitatea ei de membru la Uniunea Europeana."
+  },
+  {
+   "type": "ocr",
+   "text": "3. In domeniul chestiunilor, care sunt cuprinse de cdtre acest Acord, reglementate de catre Acordul de Parteneriat si Cooperare care instituie parteneriatul intre Comunitatile Europene gi statele lor membre, pe de o parte, si Republica Moldova pe de alta parte, semnat la Bruxelles la 28.11.1994, cu modificarile si completarile ulterioare, care sunt cuprinse in acest Acord, prioritate vor avea prevederile Acordului de Parteneriat si Cooperare mentionat mai sus, cu modificarile si completarile ulterioare."
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
   }
  ],
  "annexes": [],

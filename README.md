@@ -56,7 +56,7 @@ Wszystkie lata 2000–2011 (stan API z 2026-10-03). Akty, którym API później 
 aktualizowane.
 
 <!-- stats:start -->
-Stan na 2026-10-03 16:25 UTC (liczone z `index.csv`).
+Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -164,6 +164,11 @@ Zmiana 2026-10-03 (eli2md 0.6.23 i 0.6.24, wszystkie 480 aktów z OCR przeliczon
   strona więcej idzie przez OCR (3 → 4).
 - Pozostałe 11 497 aktów (bez stron z OCR) mają w polu `converter` wersję 0.6.22: obie zmiany dotyczą tylko stron
   z OCR, więc nie były przeliczane.
+
+Zmiana 2026-10-07 (eli2md 0.6.39, 152 akty; opis w README eli2md, wpis 0.6.39): w umowach międzynarodowych i podobnych
+aktach „Artykuł N” jest w JSON węzłem `art` z polem `label`. `.md` się nie zmienił, więc pole `converter` (w `.md`,
+`.json` i `index.csv`) zostaje wersją, w której powstał `.md`; `.json` zbudowano z niego kodem drzewa 0.6.39. Słowa
+w drzewach: zgubione 0. Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru).
 
 **Czego te liczby nie mówią:**
 

@@ -25,113 +25,114 @@
    "text": "Rząd Polskiej Rzeczypospolitej Ludowej i Cesarski Rząd Iranu, pragnąc ułatwić przewozy drogowe pasażerów i ładunków między obydwoma krajami oraz w tranzycie przez ich terytoria, uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Zakres zastosowania"
-  },
-  {
-   "type": "text",
-   "text": "Postanowienia niniejszej umowy będą mieć zastosowanie do przewozu pasażerów i ładunków, podczas którego punkt początkowy lub docelowy trasy przejazdu jest położony na terytorium jednej z Umawiających się Stron, albo w tranzycie przez to terytorium, pojazdami zarejestrowanymi na terytorium drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Definicje"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, mającą siedzibę w Polsce lub w Iranie, która jest upoważniona stosownie do prawa obowiązującego w danym kraju do wykonywania międzynarodowych przewozów drogowych pasażerów i ładunków.",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Określenie „pojazd” oznacza środek transportu zbudowany specjalnie do używania na drogach, z napędem mechanicznym, i, zależnie od okoliczności, jego przyczepę lub naczepę, przeznaczony do przewozu:",
+   "path": "art_1",
+   "text": "Zakres zastosowania",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_2/lit_a",
-     "text": "więcej niż ośmiu pasażerów siedzących, nie licząc kierowcy, albo",
+     "type": "text",
+     "text": "Postanowienia niniejszej umowy będą mieć zastosowanie do przewozu pasażerów i ładunków, podczas którego punkt początkowy lub docelowy trasy przejazdu jest położony na terytorium jednej z Umawiających się Stron, albo w tranzycie przez to terytorium, pojazdami zarejestrowanymi na terytorium drugiej Umawiającej się Strony."
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Definicje",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, mającą siedzibę w Polsce lub w Iranie, która jest upoważniona stosownie do prawa obowiązującego w danym kraju do wykonywania międzynarodowych przewozów drogowych pasażerów i ładunków.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_2/lit_b",
-     "text": "ładunków.",
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "Określenie „pojazd” oznacza środek transportu zbudowany specjalnie do używania na drogach, z napędem mechanicznym, i, zależnie od okoliczności, jego przyczepę lub naczepę, przeznaczony do przewozu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/pkt_2/lit_a",
+       "text": "więcej niż ośmiu pasażerów siedzących, nie licząc kierowcy, albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/pkt_2/lit_b",
+       "text": "ładunków.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "Określenie „zezwolenie” obejmuje wszelkie rodzaje zezwoleń, koncesji albo pozwoleń, które są wymagane zgodnie z obowiązującymi przepisami każdej Umawiającej się Strony.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "3",
-   "path": "pkt_3",
-   "text": "Określenie „zezwolenie” obejmuje wszelkie rodzaje zezwoleń, koncesji albo pozwoleń, które są wymagane zgodnie z obowiązującymi przepisami każdej Umawiającej się Strony.",
+   "path": "art_3",
+   "text": "Przewozy pasażerów",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "Przewóz pasażerów zgodny z następującymi warunkami będzie zwolniony od obowiązku uzyskania zezwoleń:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/pkt_1/lit_a",
+       "text": "przewóz określonych osób określonym pojazdem na całej trasie, której punkty początkowy i końcowy są położone na terytorium Umawiającej się Strony, gdzie zarejestrowany jest pojazd, bez pozostawiania lub zabierania podróżnych na trasie przejazdu albo na przystankach poza wymienionym krajem (przewóz charterowy), albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/pkt_1/lit_b",
+       "text": "przewóz grupy ludzi z punktu w kraju, gdzie pojazd został zarejestrowany, do punktu na terytorium drugiej Umawiającej się Strony, pod warunkiem że pojazd opuszcza terytorium tej drugiej z Umawiających się Stron bez pasażerów, albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/pkt_1/lit_c",
+       "text": "przejazd tranzytem przez terytorium drugiej Umawiającej się Strony, z wyjątkiem powtarzających się jazd o charakterze regularnym, które odbywają się w okresie krótszym niż szesnaście dni. W przypadku tranzytu bez pasażerów przewoźnik powinien udowodnić, że pojazd przejedzie w stanie próżnym i bez pasażerów przez terytorium drugiej Umawiającej się Strony.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Przewozy pasażerów"
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "Z wyjątkiem przewozów określonych w pierwszym ustępie niniejszego artykułu, na inne rodzaje przewozu wymaga się uzyskania zezwoleń zgodnie z prawem wewnętrznym i przepisami Umawiających się Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "Przewóz pasażerów zgodny z następującymi warunkami będzie zwolniony od obowiązku uzyskania zezwoleń:",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Przewozy ładunków",
    "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_1/lit_a",
-     "text": "przewóz określonych osób określonym pojazdem na całej trasie, której punkty początkowy i końcowy są położone na terytorium Umawiającej się Strony, gdzie zarejestrowany jest pojazd, bez pozostawiania lub zabierania podróżnych na trasie przejazdu albo na przystankach poza wymienionym krajem (przewóz charterowy), albo",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_1/lit_b",
-     "text": "przewóz grupy ludzi z punktu w kraju, gdzie pojazd został zarejestrowany, do punktu na terytorium drugiej Umawiającej się Strony, pod warunkiem że pojazd opuszcza terytorium tej drugiej z Umawiających się Stron bez pasażerów, albo",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "pkt_1/lit_c",
-     "text": "przejazd tranzytem przez terytorium drugiej Umawiającej się Strony, z wyjątkiem powtarzających się jazd o charakterze regularnym, które odbywają się w okresie krótszym niż szesnaście dni. W przypadku tranzytu bez pasażerów przewoźnik powinien udowodnić, że pojazd przejedzie w stanie próżnym i bez pasażerów przez terytorium drugiej Umawiającej się Strony.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Z wyjątkiem przewozów określonych w pierwszym ustępie niniejszego artykułu, na inne rodzaje przewozu wymaga się uzyskania zezwoleń zgodnie z prawem wewnętrznym i przepisami Umawiających się Stron.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Przewozy ładunków"
-    },
     {
      "type": "text",
      "text": "Przewoźnicy jednej Umawiającej się Strony mają prawo czasowego wprowadzania swoich pojazdów, z ładunkiem lub w stanie próżnym, na terytorium drugiej Umawiającej się Strony w celu przewozu ładunków zgodnie z następującymi zasadami:"
@@ -139,134 +140,138 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "pkt_2/lit_a",
+     "path": "art_4/lit_a",
      "text": "z każdego uzgodnionego punktu na terytorium jednej Umawiającej się Strony do każdego uzgodnionego punktu na terytorium drugiej Umawiającej się Strony albo",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "pkt_2/lit_b",
+     "path": "art_4/lit_b",
      "text": "w tranzycie przez terytorium drugiej Umawiającej się Strony.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Zastosowanie prawa wewnętrznego",
+   "children": [
+    {
+     "type": "text",
+     "text": "We wszystkich przypadkach, które nie są objęte postanowieniami niniejszej umowy, przewoźnicy i kierowcy pojazdów jednej Umawiającej się Strony będą przestrzegać praw i przepisów drugiej Umawiającej się Strony łącznie z przepisami odnoszącymi się do długości, szerokości i wysokości ładunku oraz nacisku osi, podczas przejazdu przez terytorium drugiej Umawiającej się Strony."
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Zakaz przewozów wewnętrznych",
+   "children": [
+    {
+     "type": "text",
+     "text": "Postanowienia niniejszej umowy nie upoważniają przewoźników każdej z Umawiających się Stron do wykonywania przewozów pasażerów lub ładunków na terytorium drugiej Umawiającej się Strony z jednego punktu do drugiego na tym samym terytorium, chyba że uzyskają oni pozwolenie właściwych władz odpowiedniej Umawiającej się Strony."
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zwolnienia od podatków i opłat",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pojazdy zarejestrowane na terytorium jednej z Umawiających się Stron, użyte do przewozu pasażerów i ładunków na terytorium drugiej Umawiającej się Strony zgodnie z postanowieniami niniejszej umowy będą zwolnione, na zasadzie wzajemności, od wszelkich opłat i podatków nakładanych na pojazdy zagraniczne."
+    },
+    {
+     "type": "text",
+     "text": "Zezwolenia uprawniające do używania dróg, mostów i tuneli zbudowanych na zasadzie koncesji, opłaty za uzyskanie zezwolenia na wykonywanie przewozu z przekroczonym ciężarem i wymiarami pojazdów albo w dniach gdy przewozy są zabronione, a także opłaty za świadczone usługi będą przestrzegane i uiszczane."
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Formalności celne",
+   "children": [
+    {
+     "type": "text",
+     "text": "Paliwo i olej zawarte w zwykłych zbiornikach pojazdu jednej Umawiającej się Strony, wjeżdżającego czasowo na terytorium drugiej Umawiającej się Strony, jest zwolnione od należności i opłat wwozowych oraz od zakazów i ograniczeń przywozowych."
+    },
+    {
+     "type": "text",
+     "text": "Czasowy wwóz części zamiennych dla naprawy określonego pojazdu wprowadzonego uprzednio na okres czasowy jest zwolniony od należności i opłat wwozowych oraz zakazów i ograniczeń przywozowych. Umawiające się Strony będą wymagać okazania dokumentów dotyczących czasowego wwozu tych części. Części zamienione będą albo zwolnione, zniszczone lub też wywiezione z powrotem pod nadzorem władz celnych."
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Naruszenia",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_9/pkt_1",
+     "text": "Właściwe władze Umawiających się Stron nadzorują przestrzeganie postanowień niniejszej umowy przez przewoźników.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_9/pkt_2",
+     "text": "Władze Umawiającej się Strony, na której terytorium zarejestrowany jest pojazd, w przypadku gdy jej przewoźnicy i kierowcy pojazdów znajdujących się na terytorium drugiej Umawiającej się Strony naruszą postanowienia niniejszej umowy oraz ustawy i przepisy dotyczące ruchu drogowego oraz przewozów obowiązujące na tym terytorium, podejmą następujące kroki na żądanie właściwych władz tej drugiej Umawiającej się Strony:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 5"
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/pkt_2/lit_a",
+       "text": "ostrzeżenie,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Zastosowanie prawa wewnętrznego"
-      },
-      {
-       "type": "text",
-       "text": "We wszystkich przypadkach, które nie są objęte postanowieniami niniejszej umowy, przewoźnicy i kierowcy pojazdów jednej Umawiającej się Strony będą przestrzegać praw i przepisów drugiej Umawiającej się Strony łącznie z przepisami odnoszącymi się do długości, szerokości i wysokości ładunku oraz nacisku osi, podczas przejazdu przez terytorium drugiej Umawiającej się Strony."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      },
-      {
-       "type": "text",
-       "text": "Zakaz przewozów wewnętrznych"
-      },
-      {
-       "type": "text",
-       "text": "Postanowienia niniejszej umowy nie upoważniają przewoźników każdej z Umawiających się Stron do wykonywania przewozów pasażerów lub ładunków na terytorium drugiej Umawiającej się Strony z jednego punktu do drugiego na tym samym terytorium, chyba że uzyskają oni pozwolenie właściwych władz odpowiedniej Umawiającej się Strony."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 7"
-      },
-      {
-       "type": "text",
-       "text": "Zwolnienia od podatków i opłat"
-      },
-      {
-       "type": "text",
-       "text": "Pojazdy zarejestrowane na terytorium jednej z Umawiających się Stron, użyte do przewozu pasażerów i ładunków na terytorium drugiej Umawiającej się Strony zgodnie z postanowieniami niniejszej umowy będą zwolnione, na zasadzie wzajemności, od wszelkich opłat i podatków nakładanych na pojazdy zagraniczne."
-      },
-      {
-       "type": "text",
-       "text": "Zezwolenia uprawniające do używania dróg, mostów i tuneli zbudowanych na zasadzie koncesji, opłaty za uzyskanie zezwolenia na wykonywanie przewozu z przekroczonym ciężarem i wymiarami pojazdów albo w dniach gdy przewozy są zabronione, a także opłaty za świadczone usługi będą przestrzegane i uiszczane."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Formalności celne"
-      },
-      {
-       "type": "text",
-       "text": "Paliwo i olej zawarte w zwykłych zbiornikach pojazdu jednej Umawiającej się Strony, wjeżdżającego czasowo na terytorium drugiej Umawiającej się Strony, jest zwolnione od należności i opłat wwozowych oraz od zakazów i ograniczeń przywozowych."
-      },
-      {
-       "type": "text",
-       "text": "Czasowy wwóz części zamiennych dla naprawy określonego pojazdu wprowadzonego uprzednio na okres czasowy jest zwolniony od należności i opłat wwozowych oraz zakazów i ograniczeń przywozowych. Umawiające się Strony będą wymagać okazania dokumentów dotyczących czasowego wwozu tych części. Części zamienione będą albo zwolnione, zniszczone lub też wywiezione z powrotem pod nadzorem władz celnych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9"
-      },
-      {
-       "type": "text",
-       "text": "Naruszenia"
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/pkt_2/lit_b",
+       "text": "zawieszenie zezwolenia czasowo, częściowo lub całkowicie, na wykonywanie przewozów na terytorium Umawiającej się Strony, gdzie naruszenie miało miejsce.",
+       "children": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "Właściwe władze Umawiających się Stron nadzorują przestrzeganie postanowień niniejszej umowy przez przewoźników.",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Władze Umawiającej się Strony, na której terytorium zarejestrowany jest pojazd, w przypadku gdy jej przewoźnicy i kierowcy pojazdów znajdujących się na terytorium drugiej Umawiającej się Strony naruszą postanowienia niniejszej umowy oraz ustawy i przepisy dotyczące ruchu drogowego oraz przewozów obowiązujące na tym terytorium, podejmą następujące kroki na żądanie właściwych władz tej drugiej Umawiającej się Strony:",
-   "children": [
+    },
     {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_2/lit_a",
-     "text": "ostrzeżenie,",
+     "type": "pkt",
+     "num": "3",
+     "path": "art_9/pkt_3",
+     "text": "Właściwe władze pierwszej Umawiającej się Strony powiadamiają właściwe władze drugiej Umawiającej się Strony o podjętych środkach wyszczególnionych w ustępie 2 niniejszego artykułu.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_2/lit_b",
-     "text": "zawieszenie zezwolenia czasowo, częściowo lub całkowicie, na wykonywanie przewozów na terytorium Umawiającej się Strony, gdzie naruszenie miało miejsce.",
+     "type": "pkt",
+     "num": "4",
+     "path": "art_9/pkt_4",
+     "text": "Każda Umawiająca się Strona będzie respektować kary, które mogą być nałożone przez sądy lub właściwe władze drugiej Umawiającej się Strony zgodnie z ustawami i przepisami wewnętrznymi, w związku z naruszeniami mającymi miejsce na terytorium drugiej Umawiającej się Strony.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "Właściwe władze pierwszej Umawiającej się Strony powiadamiają właściwe władze drugiej Umawiającej się Strony o podjętych środkach wyszczególnionych w ustępie 2 niniejszego artykułu.",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "Każda Umawiająca się Strona będzie respektować kary, które mogą być nałożone przez sądy lub właściwe władze drugiej Umawiającej się Strony zgodnie z ustawami i przepisami wewnętrznymi, w związku z naruszeniami mającymi miejsce na terytorium drugiej Umawiającej się Strony.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Właściwe władze",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Właściwe władze"
-    },
     {
      "type": "text",
      "text": "Umawiające się Strony podadzą sobie wzajemnie do wiadomości, które władze są odpowiedzialne za wykonywanie niniejszej umowy."
@@ -274,347 +279,353 @@
     {
      "type": "text",
      "text": "Wymienione władze będą porozumiewać się ze sobą bezpośrednio."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Sposób wykonywania umowy"
-    },
-    {
-     "type": "text",
-     "text": "Właściwe władze Umawiających się Stron uzgodnią sposób wykonywania niniejszej umowy w formie protokołu, który będzie ustalony w tym samym czasie co ta umowa."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Komisja Mieszana"
-    },
-    {
-     "type": "text",
-     "text": "Tworzy się Komisję Mieszaną, składającą się z przedstawicieli obu Umawiających się Stron, w celu opracowywania postanowień szczegółowych i nadzoru nad właściwym wykonywaniem niniejszej umowy oraz rozwiązywania problemów, które mogą wyniknąć. Komisja będzie odbywać posiedzenia na wniosek każdej z Umawiających się Stron na przemian w Polsce i w Iranie. Komisja jest uprawniona do zmiany protokołu wyszczególnionego w artykule 11."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Płatności"
-    },
-    {
-     "type": "text",
-     "text": "Wszystkie płatności wynikające ze stosowania niniejszej umowy będą dokonywane zgodnie z obowiązującymi umowami płatniczymi między obydwoma Umawiającymi się Stronami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Agencje"
-    },
-    {
-     "type": "text",
-     "text": "Agencja polskich firm i instytucji transportowych w Iranie, jak również agencja irańskich firm i instytucji transportowych w Polsce będzie powierzona jednej z firm lub instytucji transportowych zatwierdzonych przez właściwe władze odpowiedniej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie i okres ważności"
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "Niniejsza umowa wejdzie w życie w dniu wymiany pisemnych not potwierdzających zatwierdzenie wymienionej umowy przez odpowiednie władze obu Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Niniejsza umowa została zawarta na okres jednego roku.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Sposób wykonywania umowy",
    "children": [
     {
      "type": "text",
-     "text": "Po tym okresie jej ważność będzie automatycznie przedłużana na każdy następny rok, jeżeli żadna ze stron nie wyrazi na piśmie swojego życzenia o wypowiedzeniu jej co najmniej na trzy miesiące przed datą jej wygaśnięcia."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 4 grudnia 1976 r. w dwóch egzemplarzach w języku angielskim, przy czym oba teksty są jednakowo autentyczne."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Z upoważnienia Rządu Polskiej Cesarskiego Rzeczypospolitej Ludowej Rządu Iranu"
-    },
-    {
-     "type": "text",
-     "text": "W. August Morteza Zamani"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "AGREEMENT ON INTERNATIONAL ROAD TRANSPORT BETWEEN THE GOVERNMENT OF THE POLISH PEOPLE'S REPUBLIC AND THE IMPERIAL GOVERNMENT OF IRAN"
-    },
-    {
-     "type": "ocr",
-     "text": "The Government of the Polish People's Republic, and The Imperial Government of Iran, being desirous to facilitate the transportation of passengers and goods by road between the two countries, as well as in transit through their territories, have agreed as follows:"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 1 AREA OF PERFORMANCE"
-    },
-    {
-     "type": "ocr",
-     "text": "The provisions of the present Agreement shall be applied to the transportation of passengers and goods in which the origin or destination of the transport route is located within the territory of one of the Contracting Parties, or in transit through that territory by the vehicles registered in the territory of the other Contracting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 2"
-    },
-    {
-     "type": "ocr",
-     "text": "DEFINITIONS"
-    },
-    {
-     "type": "ocr",
-     "text": "[1/ The term \"Carrier\" means a physical or juridical person residing in Poland or Iran which is authorized by the laws in force in the country, to carry out international trensportation of passengers and goods on the roads."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "/2/ The term \"Vehicle\" is defined as the means of transport especially built for roads, with mechanical propulsion and should the case arise, its trailer or semitrailer which is designed for the transportation of :"
-    },
-    {
-     "type": "ocr",
-     "text": "/a/ more than eight seated passengers, excluding the driver, or /b/ goods"
-    },
-    {
-     "type": "ocr",
-     "text": "/3/ The term \"Licence\" shall include any kind of licences, concessions or permissions which shall be demanded according to the current regulations of each of the Contracting Parties."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 3"
-    },
-    {
-     "type": "ocr",
-     "text": "PASSENGER TRANSPORT"
-    },
-    {
-     "type": "ocr",
-     "text": "/1/ The carriage of passengers under the following conditions shall be exempted from obtaining licences :"
-    },
-    {
-     "type": "ocr",
-     "text": "/a/ the transportation of certain persons by a certain vehicle, along the whote journey, in which the point of origin and destination fall within the territory of the Contracting Party where vehicle has been registered and through the route or in the case of a stopover outside the said country, no passenger leaves or enters the vehicle /Charter travelling/, or"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "/b/ transportation of a group of people from a point in the country where the vehicle has been registered to a point in the territory of the other Contracting Party provided that the vehicle leaves the territory of the latter Contracting Party without any passenger, or"
-    },
-    {
-     "type": "ocr",
-     "text": "/c/ journey, in the form of transit through the territory of the other Contracting Party, excluding repeated journeys on regular basis which take place in a period of less than sixteen days. When in transit without passengers, the Carrier should prove that the vehicle shall pass empty and without any passenger through the territory of the other Contracting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "/2/ With the exception of transportation mentioned in the first paragraph of this Article, for other kinds of transportation, licences should be obtained in accordance with the national laws and regulations of the Contracting Parties."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 4 TRANSPORT OF GOODS The Carriers of one Contracting Party shall have the right to enter their vehicles, loaded or empty, on"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "a temporary basis into the territory of the other Contracting Party for the purpose of transporting goods, under the following manners :"
-    },
-    {
-     "type": "ocr",
-     "text": "/a/ from any agreed point in the territory of one Contracting Party to any agreed point within the territory of the other Contracting Party, or"
-    },
-    {
-     "type": "ocr",
-     "text": "[b/ in transit through the territory of the other Contracting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 5"
-    },
-    {
-     "type": "ocr",
-     "text": "IMPLEMENTATION OF NATIONAL LAWS"
-    },
-    {
-     "type": "ocr",
-     "text": "In all the cases which are not covered by the provisions of this Agreement the Carriers and the drivers of the vehicles of one Contracting Party shall obey the laws and regulations of the other Contracting Party. including those regulations related to length, width and height of load as well as axle pressure, during the passage through the territory of the other Contracting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 6 PROHIBITION OF INTERNAL TRANSPORTATION"
-    },
-    {
-     "type": "ocr",
-     "text": "The provisions of the present Agreement shall not permit the Carriers of either Contracting Party to carry passengers or goods within the territory of the other Contracting Party from one point to another within the same territory, unless permitted by the competent authorities"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "of the respective Contracting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 7"
-    },
-    {
-     "type": "ocr",
-     "text": "EXEMPTION FROM DUTIES AND CHARGES"
-    },
-    {
-     "type": "ocr",
-     "text": "The vehicles registered on the territory of one of the Contracting Parties, used for transportation of passengers and goods on the territory of the other Contracting Party in accordance with the provisions of this Agreement, shall be exempted, on reciprocal basis, from all charges and taxes which are levied on foreign vehicles. Concession rights connected with the use of roads, bridges and tunnels built on concession, fees for obtaining authorization for transportation with excess of weight and dimensions of the vehicles, or on days when transportation is prohibited, and also fees for services rendered shall be observed and paid."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 8 CUSTOMS FORMALITIES"
-    },
-    {
-     "type": "ocr",
-     "text": "Fuel and oil which is in the standard tanks of the vehicle of one Contracting Party entering temporarily on the territory of the other Contracting Party shall be exempted from import duties and charges and shall not be subject to import prohibitions and limitations. Temporary entrance of spare parts for repair of a certain vehicle which has already entered on a temporary basis shall be exempted from import duties and charges and shall not be subject to import prohibi-"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "tions and limitations, The Contracting Parties shall request for temporary import documents to be presented for these parts. The exchanged parts shall be either released, destroyed or re-exported under the supervision of customs authorities."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 9"
-    },
-    {
-     "type": "ocr",
-     "text": "VIOLATIONS"
-    },
-    {
-     "type": "ocr",
-     "text": "/1/ The competent authorities of the Contracting Parties shall supervise the observance of the provisions of the present Agreement by the carriers."
-    },
-    {
-     "type": "ocr",
-     "text": "/2/ The authorities of the Contracting Party on the territory of which the vehicle has been registered shall, in case its carriers and drivers of vehicles while on the territory of the other Contracting Party infringe the regulations of the present Agreement and the laws and regulations of traffic and transportation which are in force in that territory, take the following steps as and when requested by the competent authorities of the latter Contracting Party: /a/ warning, /b/ suspension of permission to effect transportation on the territory of the Contracting Party where the infringement has taken place, either temporarily, partly or completely. /3/ The competent authorities of the former Contracting Party shall notify the competent authorities of the latter Contracting Party of the measures taken, as stipulated in paragraph /2/ of this Article."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "/4/ Each Contracting Party shall respect the punishments that may be enforced by the courts or the competent authorities of the other Contracting Party in accordance with the national laws and regulations for the violations taken place on the territory of the latter Contracting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 10 COMPETENT AUTHORITIES The Contracting Parties shall notify each other of the authorities responsible for the implementation of the present Agreement, The said authorities will communicate directly with each other."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 11 IMPLEM ENTATION PROCEDURE"
-    },
-    {
-     "type": "ocr",
-     "text": "The competent authorities of the Contracting Parties shall agree upon the way of implementation of the present Agreement by means of a Protocol which shall be concluded simultaneously with this Agreement."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 12 JOINT COMMISSION A Joint Commission consisting of the representatives of the two Contracting Parties shall be set up in order to work out details and supervise the proper implementation of this Agreement and to solve the problems which may arise. The Commission shall hold its meetings at the request of either of the two Parties alternately in Poland and Iran. The Commission shall have the right to modify the Protocol mentioned in"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 11,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 13 PAYMENTS All payments deriving from the application of this Agreement shall be settled according to the existing Payments Agreement in force between the two Contracting Parties."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 14 AGENCIES"
-    },
-    {
-     "type": "ocr",
-     "text": "The agency for the Polish transportation firms and institutions in Iran as well as the agency for Iranian transportation firms and institutions in Poland shall be assigned to one the transportation firms or institutions which has to be approved by the competent authorities of the respective Contracting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICLE 15 ENTRY INTO FORCE AND DURATION OF VALIDITY"
-    },
-    {
-     "type": "ocr",
-     "text": "/1/ This Agreement shall come into force as from the date of exchange of written notes confirming the approval of the said Agreement by the respective authorities of the two Contracting Parties."
-    },
-    {
-     "type": "ocr",
-     "text": "/2/ This Agreement is concluded for a period of one"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "year. Thereafter its validity shall be automatically extended for each coming year, unless either Contracting Party expresses its intention in writing to terminate it at least three months prior to the date of its expiry."
-    },
-    {
-     "type": "ocr",
-     "text": "Done in duplicate at Warsaw, this 4th day of December"
-    },
-    {
-     "type": "ocr",
-     "text": "1976. in the English language, both texts being equally authentic."
-    },
-    {
-     "type": "ocr",
-     "text": "For the Government of the For the Imperial Polish People's Republic Government of Iran"
-    },
-    {
-     "type": "ocr",
-     "text": "Włodzimierz August Morteza Zamani"
+     "text": "Właściwe władze Umawiających się Stron uzgodnią sposób wykonywania niniejszej umowy w formie protokołu, który będzie ustalony w tym samym czasie co ta umowa."
     }
-   ]
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Komisja Mieszana",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tworzy się Komisję Mieszaną, składającą się z przedstawicieli obu Umawiających się Stron, w celu opracowywania postanowień szczegółowych i nadzoru nad właściwym wykonywaniem niniejszej umowy oraz rozwiązywania problemów, które mogą wyniknąć. Komisja będzie odbywać posiedzenia na wniosek każdej z Umawiających się Stron na przemian w Polsce i w Iranie. Komisja jest uprawniona do zmiany protokołu wyszczególnionego w artykule 11."
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Płatności",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wszystkie płatności wynikające ze stosowania niniejszej umowy będą dokonywane zgodnie z obowiązującymi umowami płatniczymi między obydwoma Umawiającymi się Stronami."
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Agencje",
+   "children": [
+    {
+     "type": "text",
+     "text": "Agencja polskich firm i instytucji transportowych w Iranie, jak również agencja irańskich firm i instytucji transportowych w Polsce będzie powierzona jednej z firm lub instytucji transportowych zatwierdzonych przez właściwe władze odpowiedniej Umawiającej się Strony."
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Wejście w życie i okres ważności",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_15/pkt_1",
+     "text": "Niniejsza umowa wejdzie w życie w dniu wymiany pisemnych not potwierdzających zatwierdzenie wymienionej umowy przez odpowiednie władze obu Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_15/pkt_2",
+     "text": "Niniejsza umowa została zawarta na okres jednego roku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Po tym okresie jej ważność będzie automatycznie przedłużana na każdy następny rok, jeżeli żadna ze stron nie wyrazi na piśmie swojego życzenia o wypowiedzeniu jej co najmniej na trzy miesiące przed datą jej wygaśnięcia."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 4 grudnia 1976 r. w dwóch egzemplarzach w języku angielskim, przy czym oba teksty są jednakowo autentyczne."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Z upoważnienia Rządu Polskiej Cesarskiego Rzeczypospolitej Ludowej Rządu Iranu"
+  },
+  {
+   "type": "text",
+   "text": "W. August Morteza Zamani"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "AGREEMENT ON INTERNATIONAL ROAD TRANSPORT BETWEEN THE GOVERNMENT OF THE POLISH PEOPLE'S REPUBLIC AND THE IMPERIAL GOVERNMENT OF IRAN"
+  },
+  {
+   "type": "ocr",
+   "text": "The Government of the Polish People's Republic, and The Imperial Government of Iran, being desirous to facilitate the transportation of passengers and goods by road between the two countries, as well as in transit through their territories, have agreed as follows:"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 1 AREA OF PERFORMANCE"
+  },
+  {
+   "type": "ocr",
+   "text": "The provisions of the present Agreement shall be applied to the transportation of passengers and goods in which the origin or destination of the transport route is located within the territory of one of the Contracting Parties, or in transit through that territory by the vehicles registered in the territory of the other Contracting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 2"
+  },
+  {
+   "type": "ocr",
+   "text": "DEFINITIONS"
+  },
+  {
+   "type": "ocr",
+   "text": "[1/ The term \"Carrier\" means a physical or juridical person residing in Poland or Iran which is authorized by the laws in force in the country, to carry out international trensportation of passengers and goods on the roads."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "/2/ The term \"Vehicle\" is defined as the means of transport especially built for roads, with mechanical propulsion and should the case arise, its trailer or semitrailer which is designed for the transportation of :"
+  },
+  {
+   "type": "ocr",
+   "text": "/a/ more than eight seated passengers, excluding the driver, or /b/ goods"
+  },
+  {
+   "type": "ocr",
+   "text": "/3/ The term \"Licence\" shall include any kind of licences, concessions or permissions which shall be demanded according to the current regulations of each of the Contracting Parties."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 3"
+  },
+  {
+   "type": "ocr",
+   "text": "PASSENGER TRANSPORT"
+  },
+  {
+   "type": "ocr",
+   "text": "/1/ The carriage of passengers under the following conditions shall be exempted from obtaining licences :"
+  },
+  {
+   "type": "ocr",
+   "text": "/a/ the transportation of certain persons by a certain vehicle, along the whote journey, in which the point of origin and destination fall within the territory of the Contracting Party where vehicle has been registered and through the route or in the case of a stopover outside the said country, no passenger leaves or enters the vehicle /Charter travelling/, or"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "/b/ transportation of a group of people from a point in the country where the vehicle has been registered to a point in the territory of the other Contracting Party provided that the vehicle leaves the territory of the latter Contracting Party without any passenger, or"
+  },
+  {
+   "type": "ocr",
+   "text": "/c/ journey, in the form of transit through the territory of the other Contracting Party, excluding repeated journeys on regular basis which take place in a period of less than sixteen days. When in transit without passengers, the Carrier should prove that the vehicle shall pass empty and without any passenger through the territory of the other Contracting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "/2/ With the exception of transportation mentioned in the first paragraph of this Article, for other kinds of transportation, licences should be obtained in accordance with the national laws and regulations of the Contracting Parties."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 4 TRANSPORT OF GOODS The Carriers of one Contracting Party shall have the right to enter their vehicles, loaded or empty, on"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "a temporary basis into the territory of the other Contracting Party for the purpose of transporting goods, under the following manners :"
+  },
+  {
+   "type": "ocr",
+   "text": "/a/ from any agreed point in the territory of one Contracting Party to any agreed point within the territory of the other Contracting Party, or"
+  },
+  {
+   "type": "ocr",
+   "text": "[b/ in transit through the territory of the other Contracting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 5"
+  },
+  {
+   "type": "ocr",
+   "text": "IMPLEMENTATION OF NATIONAL LAWS"
+  },
+  {
+   "type": "ocr",
+   "text": "In all the cases which are not covered by the provisions of this Agreement the Carriers and the drivers of the vehicles of one Contracting Party shall obey the laws and regulations of the other Contracting Party. including those regulations related to length, width and height of load as well as axle pressure, during the passage through the territory of the other Contracting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 6 PROHIBITION OF INTERNAL TRANSPORTATION"
+  },
+  {
+   "type": "ocr",
+   "text": "The provisions of the present Agreement shall not permit the Carriers of either Contracting Party to carry passengers or goods within the territory of the other Contracting Party from one point to another within the same territory, unless permitted by the competent authorities"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "of the respective Contracting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 7"
+  },
+  {
+   "type": "ocr",
+   "text": "EXEMPTION FROM DUTIES AND CHARGES"
+  },
+  {
+   "type": "ocr",
+   "text": "The vehicles registered on the territory of one of the Contracting Parties, used for transportation of passengers and goods on the territory of the other Contracting Party in accordance with the provisions of this Agreement, shall be exempted, on reciprocal basis, from all charges and taxes which are levied on foreign vehicles. Concession rights connected with the use of roads, bridges and tunnels built on concession, fees for obtaining authorization for transportation with excess of weight and dimensions of the vehicles, or on days when transportation is prohibited, and also fees for services rendered shall be observed and paid."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 8 CUSTOMS FORMALITIES"
+  },
+  {
+   "type": "ocr",
+   "text": "Fuel and oil which is in the standard tanks of the vehicle of one Contracting Party entering temporarily on the territory of the other Contracting Party shall be exempted from import duties and charges and shall not be subject to import prohibitions and limitations. Temporary entrance of spare parts for repair of a certain vehicle which has already entered on a temporary basis shall be exempted from import duties and charges and shall not be subject to import prohibi-"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "tions and limitations, The Contracting Parties shall request for temporary import documents to be presented for these parts. The exchanged parts shall be either released, destroyed or re-exported under the supervision of customs authorities."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 9"
+  },
+  {
+   "type": "ocr",
+   "text": "VIOLATIONS"
+  },
+  {
+   "type": "ocr",
+   "text": "/1/ The competent authorities of the Contracting Parties shall supervise the observance of the provisions of the present Agreement by the carriers."
+  },
+  {
+   "type": "ocr",
+   "text": "/2/ The authorities of the Contracting Party on the territory of which the vehicle has been registered shall, in case its carriers and drivers of vehicles while on the territory of the other Contracting Party infringe the regulations of the present Agreement and the laws and regulations of traffic and transportation which are in force in that territory, take the following steps as and when requested by the competent authorities of the latter Contracting Party: /a/ warning, /b/ suspension of permission to effect transportation on the territory of the Contracting Party where the infringement has taken place, either temporarily, partly or completely. /3/ The competent authorities of the former Contracting Party shall notify the competent authorities of the latter Contracting Party of the measures taken, as stipulated in paragraph /2/ of this Article."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "/4/ Each Contracting Party shall respect the punishments that may be enforced by the courts or the competent authorities of the other Contracting Party in accordance with the national laws and regulations for the violations taken place on the territory of the latter Contracting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 10 COMPETENT AUTHORITIES The Contracting Parties shall notify each other of the authorities responsible for the implementation of the present Agreement, The said authorities will communicate directly with each other."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 11 IMPLEM ENTATION PROCEDURE"
+  },
+  {
+   "type": "ocr",
+   "text": "The competent authorities of the Contracting Parties shall agree upon the way of implementation of the present Agreement by means of a Protocol which shall be concluded simultaneously with this Agreement."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 12 JOINT COMMISSION A Joint Commission consisting of the representatives of the two Contracting Parties shall be set up in order to work out details and supervise the proper implementation of this Agreement and to solve the problems which may arise. The Commission shall hold its meetings at the request of either of the two Parties alternately in Poland and Iran. The Commission shall have the right to modify the Protocol mentioned in"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 11,"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 13 PAYMENTS All payments deriving from the application of this Agreement shall be settled according to the existing Payments Agreement in force between the two Contracting Parties."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 14 AGENCIES"
+  },
+  {
+   "type": "ocr",
+   "text": "The agency for the Polish transportation firms and institutions in Iran as well as the agency for Iranian transportation firms and institutions in Poland shall be assigned to one the transportation firms or institutions which has to be approved by the competent authorities of the respective Contracting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICLE 15 ENTRY INTO FORCE AND DURATION OF VALIDITY"
+  },
+  {
+   "type": "ocr",
+   "text": "/1/ This Agreement shall come into force as from the date of exchange of written notes confirming the approval of the said Agreement by the respective authorities of the two Contracting Parties."
+  },
+  {
+   "type": "ocr",
+   "text": "/2/ This Agreement is concluded for a period of one"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "year. Thereafter its validity shall be automatically extended for each coming year, unless either Contracting Party expresses its intention in writing to terminate it at least three months prior to the date of its expiry."
+  },
+  {
+   "type": "ocr",
+   "text": "Done in duplicate at Warsaw, this 4th day of December"
+  },
+  {
+   "type": "ocr",
+   "text": "1976. in the English language, both texts being equally authentic."
+  },
+  {
+   "type": "ocr",
+   "text": "For the Government of the For the Imperial Polish People's Republic Government of Iran"
+  },
+  {
+   "type": "ocr",
+   "text": "Włodzimierz August Morteza Zamani"
   }
  ],
  "annexes": [],

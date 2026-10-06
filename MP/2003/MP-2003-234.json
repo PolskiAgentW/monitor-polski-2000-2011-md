@@ -37,179 +37,188 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą umacniać i rozwijać współpracę w dziedzinie turystyki na zasadach równości i wzajemnych korzyści oraz zgodnie z postanowieniami niniejszej umowy, prawem Rzeczypospolitej Polskiej i Federacji Rosyjskiej oraz międzynarodowymi umowami, których stronami są Rzeczpospolita Polska i Federacja Rosyjska."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać nawiązywanie i rozwój współpracy między polskimi i rosyjskimi organizacjami uczestniczącymi w rozwoju turystyki międzynarodowej, podejmującymi inwestycje w dziedzinie turystyki, a także prowadzącymi wspólne przedsięwzięcia w celu obsługi turystów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą dążyć do uproszczenia granicznych, celnych i innych formalności związanych z wymianą turystyczną między Rzecząpospolitą Polską a Federacją Rosyjską."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 4"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą wspierać współpracę organizacji w zakresie rozwoju turystyki zarówno w formach zorganizowanych, jak i indywidualnych, a także wymianę grup specjalistycznych, w tym w celu udziału w festiwalach, wystawach, sympozjach i kongresach."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 5"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać wymianę informacji w następujących dziedzinach:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "statystyka turystyczna,",
-   "children": []
+   "path": "art_1",
+   "text": "Umawiające się Strony będą umacniać i rozwijać współpracę w dziedzinie turystyki na zasadach równości i wzajemnych korzyści oraz zgodnie z postanowieniami niniejszej umowy, prawem Rzeczypospolitej Polskiej i Federacji Rosyjskiej oraz międzynarodowymi umowami, których stronami są Rzeczpospolita Polska i Federacja Rosyjska.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "2",
-   "path": "pkt_2",
-   "text": "akty normatywne regulujące działalność turystyczną,",
-   "children": []
+   "path": "art_2",
+   "text": "Umawiające się Strony będą popierać nawiązywanie i rozwój współpracy między polskimi i rosyjskimi organizacjami uczestniczącymi w rozwoju turystyki międzynarodowej, podejmującymi inwestycje w dziedzinie turystyki, a także prowadzącymi wspólne przedsięwzięcia w celu obsługi turystów.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "3",
-   "path": "pkt_3",
-   "text": "akty normatywne związane z ochroną przyrody oraz dóbr kultury,",
-   "children": []
+   "path": "art_3",
+   "text": "Umawiające się Strony będą dążyć do uproszczenia granicznych, celnych i innych formalności związanych z wymianą turystyczną między Rzecząpospolitą Polską a Federacją Rosyjską.",
+   "children": [],
+   "label": "Artykuł 3"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "4",
-   "path": "pkt_4",
-   "text": "doświadczenia w zakresie obsługi turystów.",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą wspierać współpracę organizacji w zakresie rozwoju turystyki zarówno w formach zorganizowanych, jak i indywidualnych, a także wymianę grup specjalistycznych, w tym w celu udziału w festiwalach, wystawach, sympozjach i kongresach.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą popierać wymianę informacji w następujących dziedzinach:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_5/pkt_1",
+     "text": "statystyka turystyczna,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron będzie podejmować niezbędne działania w celu informowania obywateli swoich państw, wyjeżdżających na imprezy turystyczne na terytorium państwa drugiej Umawiającej się Strony, o obowiązujących w tym państwie przepisach dotyczących wjazdu, pobytu i wyjazdu cudzoziemców."
+     "type": "pkt",
+     "num": "2",
+     "path": "art_5/pkt_2",
+     "text": "akty normatywne regulujące działalność turystyczną,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "pkt",
+     "num": "3",
+     "path": "art_5/pkt_3",
+     "text": "akty normatywne związane z ochroną przyrody oraz dóbr kultury,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony będą sprzyjać wymianie pracowników naukowych, specjalistów, dziennikarzy specjalizujących się w tematyce turystycznej, a także współpracy pomiędzy przedsiębiorcami prowadzącymi działalność turystyczną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą rozwijać współpracę w ramach Światowej Organizacji Turystyki (WTO) i innych międzynarodowych organizacji turystycznych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron będzie sprzyjać powstawaniu na terytorium swojego państwa ośrodków informacji turystycznej drugiej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony utworzą grupę roboczą, działającą w ramach Wspólnej Polsko-Rosyjskiej Komisji do Spraw Handlu i Współpracy Gospodarczej, której zadaniem będzie koordynowanie i kontrola realizacji postanowień niniejszej umowy oraz przedstawianie zaleceń w zakresie dwustronnej współpracy turystycznej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "W razie rozbieżności w interpretacji przepisów niniejszej umowy obie Umawiające się Strony będą je rozstrzygać w ramach Polsko-Rosyjskiej Komisji do Spraw Handlu i Współpracy Gospodarczej, a w przypadku nierozstrzygnięcia — na drodze dyplomatycznej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem państwa każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie z dniem otrzymania noty późniejszej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "pkt",
+     "num": "4",
+     "path": "art_5/pkt_4",
+     "text": "doświadczenia w zakresie obsługi turystów.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowę zawarto na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu ważności.",
-   "children": []
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Każda z Umawiających się Stron będzie podejmować niezbędne działania w celu informowania obywateli swoich państw, wyjeżdżających na imprezy turystyczne na terytorium państwa drugiej Umawiającej się Strony, o obowiązujących w tym państwie przepisach dotyczących wjazdu, pobytu i wyjazdu cudzoziemców.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane zgodnie z umową w czasie jej obowiązywania aż do czasu ich zakończenia.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony będą sprzyjać wymianie pracowników naukowych, specjalistów, dziennikarzy specjalizujących się w tematyce turystycznej, a także współpracy pomiędzy przedsiębiorcami prowadzącymi działalność turystyczną.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony będą rozwijać współpracę w ramach Światowej Organizacji Turystyki (WTO) i innych międzynarodowych organizacji turystycznych.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Każda z Umawiających się Stron będzie sprzyjać powstawaniu na terytorium swojego państwa ośrodków informacji turystycznej drugiej Umawiającej się Strony.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Umawiające się Strony utworzą grupę roboczą, działającą w ramach Wspólnej Polsko-Rosyjskiej Komisji do Spraw Handlu i Współpracy Gospodarczej, której zadaniem będzie koordynowanie i kontrola realizacji postanowień niniejszej umowy oraz przedstawianie zaleceń w zakresie dwustronnej współpracy turystycznej.",
+   "children": [],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "W razie rozbieżności w interpretacji przepisów niniejszej umowy obie Umawiające się Strony będą je rozstrzygać w ramach Polsko-Rosyjskiej Komisji do Spraw Handlu i Współpracy Gospodarczej, a w przypadku nierozstrzygnięcia — na drodze dyplomatycznej.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem państwa każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Umowa wejdzie w życie z dniem otrzymania noty późniejszej.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Umowę zawarto na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu ważności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane zgodnie z umową w czasie jej obowiązywania aż do czasu ich zakończenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W dniu wejścia w życie niniejszej umowy traci moc Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Związku Socjalistycznych Republik Radzieckich o współpracy w dziedzinie turystyki, podpisana dnia 15 listopada 1971 r.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umowę niniejszą sporządzono w Warszawie dnia 16 stycznia 2002 r. w dwóch egzemplarzach, każdy w językach polskim i rosyjskim, przy czym obydwa teksty mają jednakową moc.",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Federacji Rosyjskiej"
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "W dniu wejścia w życie niniejszej umowy traci moc Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Związku Socjalistycznych Republik Radzieckich o współpracy w dziedzinie turystyki, podpisana dnia 15 listopada 1971 r.",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strony 3-5 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Umowę niniejszą sporządzono w Warszawie dnia 16 stycznia 2002 r. w dwóch egzemplarzach, każdy w językach polskim i rosyjskim, przy czym obydwa teksty mają jednakową moc.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Federacji Rosyjskiej"
+      },
+      {
+       "type": "note",
+       "text": "[Strony 3-5 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   }
  ],
  "annexes": [],

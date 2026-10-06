@@ -69,34 +69,42 @@
    "text": "Monitor Polski N r 11 — 197 — Poz. 179"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1 Artikel 1"
-  },
-  {
-   "type": "text",
-   "text": "Definicje Definitionen"
-  },
-  {
-   "type": "text",
-   "text": "Dla celów niniejszej umowy: Fürdie Zwecke dieses Abkommens"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "określenie „Fundusz” oznacza ustanowiony na (1) bezeichnet der Begriff „Fonds” den durch mocy austriackiej ustawy federalnej Fundusz na rzecz österreichisches Bundesgesetz eingerichteten Fonds dobrowolnych świadczeń Republiki Austrii dla byłych für freiwillige Leistungen der Republik Österreich an robotników niewolniczych i robotników przymuso- ehemalige Sklaven- und Zwangsarbeiter des wych reżimu narodowosocjalistycznego (Fundusz Po- nationalsozialistischen Regimes (Versöhnungsfonds), jednania),",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "określenie „Fundacja” oznacza ustanowioną (2) bezeichnet der Begriff „Stiftung” die von der przez Rzeczpospolitą Polską Fundację „Polsko-Nie- Republik Polen gegründete Stiftung „Deutschmieckie Pojednanie”. -Polnische Aussöhnung”.",
+   "path": "art_1",
+   "text": "Artikel 1",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 2 Artikel 2"
+     "text": "Definicje Definitionen"
     },
+    {
+     "type": "text",
+     "text": "Dla celów niniejszej umowy: Fürdie Zwecke dieses Abkommens"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "określenie „Fundusz” oznacza ustanowiony na (1) bezeichnet der Begriff „Fonds” den durch mocy austriackiej ustawy federalnej Fundusz na rzecz österreichisches Bundesgesetz eingerichteten Fonds dobrowolnych świadczeń Republiki Austrii dla byłych für freiwillige Leistungen der Republik Österreich an robotników niewolniczych i robotników przymuso- ehemalige Sklaven- und Zwangsarbeiter des wych reżimu narodowosocjalistycznego (Fundusz Po- nationalsozialistischen Regimes (Versöhnungsfonds), jednania),",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "określenie „Fundacja” oznacza ustanowioną (2) bezeichnet der Begriff „Stiftung” die von der przez Rzeczpospolitą Polską Fundację „Polsko-Nie- Republik Polen gegründete Stiftung „Deutschmieckie Pojednanie”. -Polnische Aussöhnung”.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Artikel 2",
+   "children": [
     {
      "type": "text",
      "text": "Przedmiot umowy Gegenstand des Abkommens"
@@ -104,206 +112,228 @@
     {
      "type": "text",
      "text": "Austriacki Rząd Federalny ustanowi Fundusz, któ- Die österreichische Bundesregierung wird den ry — za pośrednictwem Fundacji — wypłaci jednora- Fonds veranlassen, in einem Höchstmaß von ÖS 550 zowe świadczenia finansowe wmaksymalnej wysoko- Millionen über die Stiftung einmalige finanzielle ści 550 milionów szylingów austriackich na rzecz osób Beiträge an natürliche Personen zu leisten, die vom fizycznych deportowanych przez reżim narodowoso- nationalsozialistischen Regime auf das Gebiet der cjalistyczny na terytorium dzisiejszej Republiki Austrii, heutigen Republik Österreich deportiert und zur które zostały zobowiązane do pracy niewolniczej lub Sklaven- oder Zwangsarbeit verpflichtet wurden, im przymusowej iktóre wmomencie deportacji były oby- Zeitpunkt ihrer Deportation polnische Staatsbürger watelami polskimi, a w dniu 15 lutego 2000 r. miały waren und am 15. Februar 2000 ihren ständigen stałe miejsce zamieszkania w Rzeczypospolitej Pol- Wohnsitz in der Republik Polen hatten. skiej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3 Artikel 3"
-    },
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Artikel 3",
+   "children": [
     {
      "type": "text",
      "text": "Zasady otrzymywania świadczeń Grundsätze fürden Empfang von Leistungen"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Uprawnionymi do otrzymania świadczeń są byli (1) Als Leistungsempfänger kommen ehemalige robotnicy niewolniczy irobotnicy przymusowi, depor- vom nationalsozialistischen Regime auf das Gebiet towani przez reżim narodowosocjalistyczny na teryto- der heutigen Republik Österreich deportierte Sklavenrium dzisiejszej Republiki Austrii, oile nie mogą otrzy- oder Zwangsarbeiter, insoferne sie keine Leistungen mać świadczeń z tytułu byłej pracy niewolniczej lub aus dem Titel ehemalige Sklaven- und Zwangsarbeit pracy przymusowej od Fundacji „Pamięć, Odpowie- von der Stiftung „Erinnerung, Verantwortung und dzialność i Przyszłość” Republiki Federalnej Niemiec, Zukunft” der Bundesrepublik Deutschland erhalten amianowicie: können, in Betracht,nämlich",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "robotnicy niewolniczy (105000 szylingów austriac- a) Sklavenarbeiter (ÖS105.000), kich),",
-     "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "robotnicy przymusowi wprzemyśle (35000 szylin- b) Zwangsarbeiter in der Industrie (ÖS35.000), gów austriackich),",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "robotnicy przymusowi w rolnictwie (20 000 szylin- c) Zwangsarbeiter in der Landwirtschaft (ÖS20.000), gów austriackich),",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "deportowane wraz z rodzicami dzieci i małoletni d) mitdeportierte Kinder und Minderjährige vor przed ukończeniem 12. roku życia oraz dzieci uro- Vollendung des 12. Lebensjahres und Kinder, die dzone na terytorium dzisiejszej Republiki Austrii während des Zwangsarbeitseinsatzes ihrer Mutter w okresie wykonywania przez matkę pracy przy- auf dem Gebiet der heutigen Republik Österreich musowej (odpowiednio do kategorii rodziców) geboren wurden (je nach Kategorie der Eltern), oraz und",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "robotnice przymusowe, które urodziły dzieci wtak e) weibliche Zwangsarbeiter, die Kinder in zwanych domach położniczych dla robotnic ze Ostarbeiterinnenentbindungsheimen zur Welt Monitor Polski N r 11 — 198 — Poz. 179",
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Uprawnionymi do otrzymania świadczeń są byli (1) Als Leistungsempfänger kommen ehemalige robotnicy niewolniczy irobotnicy przymusowi, depor- vom nationalsozialistischen Regime auf das Gebiet towani przez reżim narodowosocjalistyczny na teryto- der heutigen Republik Österreich deportierte Sklavenrium dzisiejszej Republiki Austrii, oile nie mogą otrzy- oder Zwangsarbeiter, insoferne sie keine Leistungen mać świadczeń z tytułu byłej pracy niewolniczej lub aus dem Titel ehemalige Sklaven- und Zwangsarbeit pracy przymusowej od Fundacji „Pamięć, Odpowie- von der Stiftung „Erinnerung, Verantwortung und dzialność i Przyszłość” Republiki Federalnej Niemiec, Zukunft” der Bundesrepublik Deutschland erhalten amianowicie: können, in Betracht,nämlich",
      "children": [
       {
-       "type": "text",
-       "text": "Wschodu albo zostały przymuszone do przerwania brachten oder zum Schwangerschaftsabbruch ciąży (dodatkowo 5000 szylingów austriackich), genötigt wurden (zusätzlich ÖS5.000),"
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/ust_1/lit_a",
+       "text": "robotnicy niewolniczy (105000 szylingów austriac- a) Sklavenarbeiter (ÖS105.000), kich),",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "którzy wmomencie deportacji byli obywatelami pol- die im Zeitpunkt ihrer Deportation polnische skimi, a w dniu 15 lutego 2000 r. mieli stałe miejsce Staatsbürger waren und am 15. Februar 2000 ihren zamieszkania wRzeczypospolitej Polskiej. ständigen Wohnsitz in der Republik Polen hatten."
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/ust_1/lit_b",
+       "text": "robotnicy przymusowi wprzemyśle (35000 szylin- b) Zwangsarbeiter in der Industrie (ÖS35.000), gów austriackich),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/ust_1/lit_c",
+       "text": "robotnicy przymusowi w rolnictwie (20 000 szylin- c) Zwangsarbeiter in der Landwirtschaft (ÖS20.000), gów austriackich),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_3/ust_1/lit_d",
+       "text": "deportowane wraz z rodzicami dzieci i małoletni d) mitdeportierte Kinder und Minderjährige vor przed ukończeniem 12. roku życia oraz dzieci uro- Vollendung des 12. Lebensjahres und Kinder, die dzone na terytorium dzisiejszej Republiki Austrii während des Zwangsarbeitseinsatzes ihrer Mutter w okresie wykonywania przez matkę pracy przy- auf dem Gebiet der heutigen Republik Österreich musowej (odpowiednio do kategorii rodziców) geboren wurden (je nach Kategorie der Eltern), oraz und",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_3/ust_1/lit_e",
+       "text": "robotnice przymusowe, które urodziły dzieci wtak e) weibliche Zwangsarbeiter, die Kinder in zwanych domach położniczych dla robotnic ze Ostarbeiterinnenentbindungsheimen zur Welt Monitor Polski N r 11 — 198 — Poz. 179",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wschodu albo zostały przymuszone do przerwania brachten oder zum Schwangerschaftsabbruch ciąży (dodatkowo 5000 szylingów austriackich), genötigt wurden (zusätzlich ÖS5.000),"
+        },
+        {
+         "type": "text",
+         "text": "którzy wmomencie deportacji byli obywatelami pol- die im Zeitpunkt ihrer Deportation polnische skimi, a w dniu 15 lutego 2000 r. mieli stałe miejsce Staatsbürger waren und am 15. Februar 2000 ihren zamieszkania wRzeczypospolitej Polskiej. ständigen Wohnsitz in der Republik Polen hatten."
+        }
+       ]
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wnioski w sprawie świadczenia należy zgłaszać (2) Leistungen sind höchstpersönlich und osobiście iwyraźnie. Do ponownego zgłaszania wnio- ausdrücklich zu beantragen. Personen, deren sków o wypłatę nie są zobowiązane osoby, których vollständige und überprüfte Unterlagen über die von pełna i zweryfikowana dokumentacja o świadczonej ihnen geleistete Sklaven- und Zwangsarbeit sich im przez nie pracy niewolniczej lub pracy przymusowej Besitz der Stiftung befinden, sind nicht verpflichtet, znajduje się wposiadaniu Fundacji. Jeżeli uprawniony neue Anträge auf Auszahlungen einzureichen. Ist der zmarł w dniu 15 lutego 2000 r. lub później, prawo do Leistungsberechtigte am oder nach dem 15. Februar świadczenia przechodzi na spadkobierców zgodnie 2000 verstorben, treten an seine Stelle die Erben nach zprawem polskim. Wodniesieniu do świadczeń obję- polnischem Recht. Ein Rechtsanspruch auf Leistungen tych niniejszą umową nie istnieje roszczenie prawne. gemäß diesem Abkommen besteht nicht.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wnioskodawca musi udokumentować lub w in- (3) Der Antragsteller hat die Leistungsvorny sposób uwiarygodnić istnienie przesłanek do otrzy- aussetzungen durch Urkundennachzuweisen oder auf mania świadczenia. Przy otrzymaniu świadczenia skła- andere Weise glaubhaft zu machen. Beim Empfang da się oświadczenie o nieodwołalnym zrzeczeniu się der Leistung ist eine Erklärung abzugeben, dass auf dochodzenia wobec Republiki Austrii lub austriackich die Geltendmachung von Forderungen gegen die Reprzedsiębiorstw oraz Republiki Federalnej Niemiec lub publik Österreich und österreichische Unternehmen przedsiębiorstw niemieckich roszczeń z tytułu pracy und gegen die Bundesrepublik Deutschland und niewolniczej lub pracy przymusowej objętych niniej- deutsche Unternehmen für Sklaven- und Zwangsszą umową. arbeit gemäß diesem Abkommen unwiderruflich verzichtet wird.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Austriacki Rząd Federalny iRząd Rzeczypospoli- (4) Die Regierung der Republik Polen und die tej Polskiej informują się odrębnie o szczegółach ure- österreichische Bundesregierung informieren eingulowań dotyczących otrzymywania i zakresu świad- ander gesondert über die Einzelheiten der Regelung czeń. fürEmpfang und Umfang der Leistungen.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4 Artikel 4"
     },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Wnioski w sprawie świadczenia należy zgłaszać (2) Leistungen sind höchstpersönlich und osobiście iwyraźnie. Do ponownego zgłaszania wnio- ausdrücklich zu beantragen. Personen, deren sków o wypłatę nie są zobowiązane osoby, których vollständige und überprüfte Unterlagen über die von pełna i zweryfikowana dokumentacja o świadczonej ihnen geleistete Sklaven- und Zwangsarbeit sich im przez nie pracy niewolniczej lub pracy przymusowej Besitz der Stiftung befinden, sind nicht verpflichtet, znajduje się wposiadaniu Fundacji. Jeżeli uprawniony neue Anträge auf Auszahlungen einzureichen. Ist der zmarł w dniu 15 lutego 2000 r. lub później, prawo do Leistungsberechtigte am oder nach dem 15. Februar świadczenia przechodzi na spadkobierców zgodnie 2000 verstorben, treten an seine Stelle die Erben nach zprawem polskim. Wodniesieniu do świadczeń obję- polnischem Recht. Ein Rechtsanspruch auf Leistungen tych niniejszą umową nie istnieje roszczenie prawne. gemäß diesem Abkommen besteht nicht.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Wnioskodawca musi udokumentować lub w in- (3) Der Antragsteller hat die Leistungsvorny sposób uwiarygodnić istnienie przesłanek do otrzy- aussetzungen durch Urkundennachzuweisen oder auf mania świadczenia. Przy otrzymaniu świadczenia skła- andere Weise glaubhaft zu machen. Beim Empfang da się oświadczenie o nieodwołalnym zrzeczeniu się der Leistung ist eine Erklärung abzugeben, dass auf dochodzenia wobec Republiki Austrii lub austriackich die Geltendmachung von Forderungen gegen die Reprzedsiębiorstw oraz Republiki Federalnej Niemiec lub publik Österreich und österreichische Unternehmen przedsiębiorstw niemieckich roszczeń z tytułu pracy und gegen die Bundesrepublik Deutschland und niewolniczej lub pracy przymusowej objętych niniej- deutsche Unternehmen für Sklaven- und Zwangsszą umową. arbeit gemäß diesem Abkommen unwiderruflich verzichtet wird.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "Austriacki Rząd Federalny iRząd Rzeczypospoli- (4) Die Regierung der Republik Polen und die tej Polskiej informują się odrębnie o szczegółach ure- österreichische Bundesregierung informieren eingulowań dotyczących otrzymywania i zakresu świad- ander gesondert über die Einzelheiten der Regelung czeń. fürEmpfang und Umfang der Leistungen.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Artikel 4",
+   "children": [
     {
      "type": "text",
      "text": "Zasady przekazywania świadczeń Grundsätze fürdie Erbringung der Leistung"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wypłata środków udostępnionych przez Fun- (1) Die Auszahlung der vom Fonds zur Verfügung dusz następuje za pośrednictwem Fundacji. Środki gestellten Mittel erfolgt durch die Stiftung. Mittel des Funduszu przekazywane będą wzależności od potrzeb Fonds werden je nach Bedarf innerhalb kürzest wmożliwie najkrótszym terminie na podstawie przed- möglicher Frist aufgrund der von der Stiftung łożonych przez Fundację i sprawdzonych wyrywkowo übermittelten und vom Fonds stichprobenartig przez Fundusz list osób według kategorii określonych überprüften Listen der Personen gemäß den in Artikel w artykule 3 ustęp 1, które spełniają przesłanki do 3 Absatz 1 genannten Kategorien, die die otrzymania świadczeń. Leistungsvoraussetzungen erfüllen, zugewiesen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypłaty dokonywane są w walucie wymienial- (2) Die Zahlungen erfolgen in konvertibler nej (dewizy) na konto Fundacji wskazane Austriackie- Währung (Devisen) auf das Konto der Stiftung, das die mu Rządowi Federalnemu przez Rząd Rzeczypospolitej Regierung der Republik Polen der österreichischen Polskiej. Budesregierung angeben wird.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Rząd Rzeczypospolitej Polskiej zobowiązuje się (3) Die Regierung der Republik Polen verpflichtet do zwolnienia świadczeń przekazywanych na mocy ni- sich, Leistungen nach diesem Abkommen von allen niejszej umowy od wszelkich obciążeń, podatków Abgaben, Steuern und Gebühren zu befreien, die iopłat oraz do przekazywania świadczeń bez potrąceń. Leistungen ohne Abzüge weiterzugeben und W szczególności świadczenia te nie mogą prowadzić insbesondere keine Minderung von Einkünften der do zmniejszenia osobom uprawnionym przychodów Leistungsberechtigten aus dem System der sozialen zsystemu zabezpieczenia socjalnego, systemu ochro- Sicherheit, dem Gesundheitswesen oder aus anderen ny zdrowia oraz zinnych tytułów. Bereichen herbeizuführen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Fundacja zadba, aby osobom, których wnioski (4) Die Stiftung wird dafür Sorge tragen, daß o świadczenie zostały odrzucone, umożliwić zwróce- Personen, deren Anträge auf Leistungen sie nie się do instancji odwoławczej Fundacji. abgewiesen hat, die Möglichkeit der Anrufung einer Beschwerdestelle der Stiftung eingeräumt wird.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Monitor Polski N r 11 — 199 — Poz. 179"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Celem zagwarantowania możliwie największej (5) Im Interesse größtmöglicher Transparenz bei przejrzystości przy realizacji niniejszej umowy przewi- der Durchführung dieses Abkommens ist eine duje się odpowiednią, regularną, międzynarodową entsprechende regelmäßige internationale Wirtkontrolę gospodarczą Fundacji, ustaloną wdrodze po- schaftsprüfung der Stiftung vorzusehen, deren rozumienia między Fundacją i Funduszem. Stosowne Auswahl im Einvernehmen zwischen Stiftung und koszty ponosi Fundusz. Fonds zu treffen ist. Die anfallenden Kosten werden vom Fonds übernommen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Wtoku realizacji świadczeń należy zapewnić, by (6) Bei der Gewährung der Leistung ist Vorsorge zu austriackie pochodzenie środków oraz cel świadczeń treffen, dass die österreichische Herkunft der Mittel zostały należycie przedstawione uprawnionym do und der Leistungszweck gegenüber den otrzymania świadczeń oraz opinii publicznej. Leistungsberechtigten und der Öffentlichkeit entsprechend betont werden.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Szczegóły przekazywania świadczeń zostaną (7) Einzelheiten der Leistungserbringung sind in uregulowane w porozumieniach między Funduszem Verträgen zwischen dem Fonds und der Stiftung zu a Fundacją. Porozumienia te regulować będą także regeln. In diesen Verträgen ist auch die Übernahme przejęcie przez Fundusz odpowiedniego pokrycia po- der angemessenen Deckung der bei der Stiftung wstających po stronie Fundacji kosztów osobowych entstehenden Personal- und Sachkosten durch Mittel i rzeczowych. Ponadto zapewnione zostanie, by des Fonds zu regeln. Weiters ist sicherzustellen, daß es w przypadku pracy niewolniczej lub pracy przymuso- bei Sklaven- und Zwangsarbeit, die teilweise sowohl wej, objętej częściowo świadczeniami Funduszu oraz im Leistungsbereich der deutschen Stiftung, als auch częściowo fundacji niemieckiej, nie dochodziło do in jenem des Fonds geleistet wurde, zu keinen przypadków podwójnych wypłat. Doppelzahlungen kommt.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5 Artikel 5"
     },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Wypłata środków udostępnionych przez Fun- (1) Die Auszahlung der vom Fonds zur Verfügung dusz następuje za pośrednictwem Fundacji. Środki gestellten Mittel erfolgt durch die Stiftung. Mittel des Funduszu przekazywane będą wzależności od potrzeb Fonds werden je nach Bedarf innerhalb kürzest wmożliwie najkrótszym terminie na podstawie przed- möglicher Frist aufgrund der von der Stiftung łożonych przez Fundację i sprawdzonych wyrywkowo übermittelten und vom Fonds stichprobenartig przez Fundusz list osób według kategorii określonych überprüften Listen der Personen gemäß den in Artikel w artykule 3 ustęp 1, które spełniają przesłanki do 3 Absatz 1 genannten Kategorien, die die otrzymania świadczeń. Leistungsvoraussetzungen erfüllen, zugewiesen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Wypłaty dokonywane są w walucie wymienial- (2) Die Zahlungen erfolgen in konvertibler nej (dewizy) na konto Fundacji wskazane Austriackie- Währung (Devisen) auf das Konto der Stiftung, das die mu Rządowi Federalnemu przez Rząd Rzeczypospolitej Regierung der Republik Polen der österreichischen Polskiej. Budesregierung angeben wird.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Rząd Rzeczypospolitej Polskiej zobowiązuje się (3) Die Regierung der Republik Polen verpflichtet do zwolnienia świadczeń przekazywanych na mocy ni- sich, Leistungen nach diesem Abkommen von allen niejszej umowy od wszelkich obciążeń, podatków Abgaben, Steuern und Gebühren zu befreien, die iopłat oraz do przekazywania świadczeń bez potrąceń. Leistungen ohne Abzüge weiterzugeben und W szczególności świadczenia te nie mogą prowadzić insbesondere keine Minderung von Einkünften der do zmniejszenia osobom uprawnionym przychodów Leistungsberechtigten aus dem System der sozialen zsystemu zabezpieczenia socjalnego, systemu ochro- Sicherheit, dem Gesundheitswesen oder aus anderen ny zdrowia oraz zinnych tytułów. Bereichen herbeizuführen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_4/ust_4",
+     "text": "Fundacja zadba, aby osobom, których wnioski (4) Die Stiftung wird dafür Sorge tragen, daß o świadczenie zostały odrzucone, umożliwić zwróce- Personen, deren Anträge auf Leistungen sie nie się do instancji odwoławczej Fundacji. abgewiesen hat, die Möglichkeit der Anrufung einer Beschwerdestelle der Stiftung eingeräumt wird.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Monitor Polski N r 11 — 199 — Poz. 179"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_4/ust_5",
+     "text": "Celem zagwarantowania możliwie największej (5) Im Interesse größtmöglicher Transparenz bei przejrzystości przy realizacji niniejszej umowy przewi- der Durchführung dieses Abkommens ist eine duje się odpowiednią, regularną, międzynarodową entsprechende regelmäßige internationale Wirtkontrolę gospodarczą Fundacji, ustaloną wdrodze po- schaftsprüfung der Stiftung vorzusehen, deren rozumienia między Fundacją i Funduszem. Stosowne Auswahl im Einvernehmen zwischen Stiftung und koszty ponosi Fundusz. Fonds zu treffen ist. Die anfallenden Kosten werden vom Fonds übernommen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_4/ust_6",
+     "text": "Wtoku realizacji świadczeń należy zapewnić, by (6) Bei der Gewährung der Leistung ist Vorsorge zu austriackie pochodzenie środków oraz cel świadczeń treffen, dass die österreichische Herkunft der Mittel zostały należycie przedstawione uprawnionym do und der Leistungszweck gegenüber den otrzymania świadczeń oraz opinii publicznej. Leistungsberechtigten und der Öffentlichkeit entsprechend betont werden.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_4/ust_7",
+     "text": "Szczegóły przekazywania świadczeń zostaną (7) Einzelheiten der Leistungserbringung sind in uregulowane w porozumieniach między Funduszem Verträgen zwischen dem Fonds und der Stiftung zu a Fundacją. Porozumienia te regulować będą także regeln. In diesen Verträgen ist auch die Übernahme przejęcie przez Fundusz odpowiedniego pokrycia po- der angemessenen Deckung der bei der Stiftung wstających po stronie Fundacji kosztów osobowych entstehenden Personal- und Sachkosten durch Mittel i rzeczowych. Ponadto zapewnione zostanie, by des Fonds zu regeln. Weiters ist sicherzustellen, daß es w przypadku pracy niewolniczej lub pracy przymuso- bei Sklaven- und Zwangsarbeit, die teilweise sowohl wej, objętej częściowo świadczeniami Funduszu oraz im Leistungsbereich der deutschen Stiftung, als auch częściowo fundacji niemieckiej, nie dochodziło do in jenem des Fonds geleistet wurde, zu keinen przypadków podwójnych wypłat. Doppelzahlungen kommt.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Artikel 5",
+   "children": [
     {
      "type": "text",
      "text": "Ochrona danych Datenschutz"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Fundacja iFundusz uprawnione są do uzyskiwa- (1) Die Stiftung und der Fonds sind berechtigt, von nia wurzędach iinnych instytucjach publicznych infor- Behörden und anderen öffentlichen Einrichtungen macji niezbędnych do wypełniania swych zadań. Od- Auskünfte einzuholen, die zur Erfüllung ihrer mawia się udzielenia informacji, jeżeli wynika to ze Aufgaben erforderlich sind. Eine Auskunftserteilung szczególnych przepisów ustawowych lub jeżeli wyma- unterbleibt, soweit besondere gesetzliche gający ochrony poufny interes danej osoby przeważa Bestimmungen dem entgegenstehen oder die nad interesem Fundacji lub Funduszu. schutzwürdigen Geheimhaltungsinteressen des Betroffenen die berechtigten Informationsinteressen der Stiftung oder des Fonds überwiegen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Uzyskane informacje mogą być użyte jedynie dla (2) Die eingeholten Auskünfte dürfen nur für die realizacji celów niniejszej umowy, a dane osobowe Erfüllung der Zwecke nach diesem Abkommen, wnioskodawcy jedynie dla celów procedury przyzna- personenbezogene Daten eines Antragstellers nur wania świadczenia. Użycie tych informacji dla innych fürdas Verfahren zur Leistungsgewährung verwendet celów jest dozwolone jedynie pod warunkiem wyraź- werden. Die Verwendung dieser Daten für andere nej zgody wnioskodawcy. Zwecke ist zulässig, wenn der Antragsteller ausdrücklich zustimmt.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6 Artikel 6"
     },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Fundacja iFundusz uprawnione są do uzyskiwa- (1) Die Stiftung und der Fonds sind berechtigt, von nia wurzędach iinnych instytucjach publicznych infor- Behörden und anderen öffentlichen Einrichtungen macji niezbędnych do wypełniania swych zadań. Od- Auskünfte einzuholen, die zur Erfüllung ihrer mawia się udzielenia informacji, jeżeli wynika to ze Aufgaben erforderlich sind. Eine Auskunftserteilung szczególnych przepisów ustawowych lub jeżeli wyma- unterbleibt, soweit besondere gesetzliche gający ochrony poufny interes danej osoby przeważa Bestimmungen dem entgegenstehen oder die nad interesem Fundacji lub Funduszu. schutzwürdigen Geheimhaltungsinteressen des Betroffenen die berechtigten Informationsinteressen der Stiftung oder des Fonds überwiegen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Uzyskane informacje mogą być użyte jedynie dla (2) Die eingeholten Auskünfte dürfen nur für die realizacji celów niniejszej umowy, a dane osobowe Erfüllung der Zwecke nach diesem Abkommen, wnioskodawcy jedynie dla celów procedury przyzna- personenbezogene Daten eines Antragstellers nur wania świadczenia. Użycie tych informacji dla innych fürdas Verfahren zur Leistungsgewährung verwendet celów jest dozwolone jedynie pod warunkiem wyraź- werden. Die Verwendung dieser Daten für andere nej zgody wnioskodawcy. Zwecke ist zulässig, wenn der Antragsteller ausdrücklich zustimmt.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Artikel 6",
+   "children": [
     {
      "type": "text",
      "text": "Przedstawiciele Vertretung"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Rząd Rzeczypospolitej Polskiej może delegować (1) Die Regierung der Republik Polen kann einen jednego przedstawiciela jako członka Kuratorium Fun- Vertreter als Mitglied in das Kuratorium des duszu Pojednania. Versöhnungsfonds entsenden.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Rząd Rzeczypospolitej Polskiej zadba, aby umoż- (2) Die Regierung der Republik Polen wird liwić osobom wskazanym przez Fundusz wgląd wpra- dafür Sorge tragen, daß vom Fonds zu benennenden ce Fundacji związane zrealizacją niniejszej umowy. Personen gestattet wird, in die Arbeiten der Stiftung, die mit der Durchführung dieses Abkommens zusammenhängen, Einsicht zu nehmen.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Monitor Polski N r 11 — 200 — Poz. 179 i 180"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Rząd Rzeczypospolitej Polskiej może delegować (1) Die Regierung der Republik Polen kann einen jednego przedstawiciela jako członka Kuratorium Fun- Vertreter als Mitglied in das Kuratorium des duszu Pojednania. Versöhnungsfonds entsenden.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Rząd Rzeczypospolitej Polskiej zadba, aby umoż- (2) Die Regierung der Republik Polen wird liwić osobom wskazanym przez Fundusz wgląd wpra- dafür Sorge tragen, daß vom Fonds zu benennenden ce Fundacji związane zrealizacją niniejszej umowy. Personen gestattet wird, in die Arbeiten der Stiftung, die mit der Durchführung dieses Abkommens zusammenhängen, Einsicht zu nehmen.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Artikel 7",
    "children": [
-    {
-     "type": "text",
-     "text": "Monitor Polski N r 11 — 200 — Poz. 179 i 180"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7 Artikel 7"
-    },
     {
      "type": "text",
      "text": "Bezpieczeństwo prawne Rechtssicherheit"
@@ -311,11 +341,16 @@
     {
      "type": "text",
      "text": "Rzeczpospolita Polska nie będzie dochodziła, re- Die Republik Polen wird weitere Forderungen prezentowała ani też popierała dalszych roszczeń wo- gegenüber der Republik Österreich oder bec Republiki Austrii lub austriackich przedsiębiorstw österreichischen Unternehmen aus dem Titel z tytułu wykonywania w okresie reżimu narodowoso- ehemalige Sklaven- und Zwangsarbeit unter dem cjalistycznego pracy niewolniczej ipracy przymusowej nationalsozialistischen Regime auf dem heutigen na dzisiejszym terytorium Republiki Austrii. Gebiet der Republik Österreich nicht geltend machen und weder vertreten noch unterstützen."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8 Artikel 8"
-    },
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Artikel 8",
+   "children": [
     {
      "type": "text",
      "text": "Wnioski byłych iobecnych obywateli polskich Anträge früherer oder heutiger polnischer nieobjętych umową Staatsbürger außerhalb des Abkommens"
@@ -323,11 +358,16 @@
     {
      "type": "text",
      "text": "Umowa niniejsza nie narusza możliwości byłych Dieses Abkommen berührt nicht die Möglichkeit i obecnych obywateli polskich, nieobjętych niniejszą früherer oder heutiger polnischer Staatsbürger, die umową, do zgłaszania wniosków bezpośrednio do nicht unter dieses Abkommen fallen, Anträge direkt an Funduszu. den Fonds zu richten."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9 Artikel 9"
-    },
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Artikel 9",
+   "children": [
     {
      "type": "text",
      "text": "Wejście wżycie Inkrafttreten"
@@ -335,40 +375,41 @@
     {
      "type": "text",
      "text": "Niniejsza umowa wchodzi wżycie wdniu otrzyma- Dieses Abkommen tritt an dem Tage in Kraft, an nia ostatniego pisemnego potwierdzenia, w którym dem die letzte schriftliche Mitteilung in Empfang Strony Umowy informują się wzajemnie o spełnieniu genommen wird, mit denen die Vertragsparteien wewnątrzkrajowych przesłanek wejścia umowy w ży- einander über die Erfüllung der innerstaatlichen cie. Voraussetzungen für das Inkrafttreten des Abkommens in Kenntnis gesetzt haben."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Wiedniu dnia 24 października Geschehen zu Wien, am 24 Oktober 2000, in zwei 2000r., wdwóch egzemplarzach, każdy wjęzykach pol- Urschriften, jede in polnischer und deutscher Sprache, skim iniemieckim, przy czym obydwa teksty mają jed- wobei jeder Wortlaut gleichermaßen authentisch ist. nakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Zupoważnienia Zupoważnienia Fürdie Regierung Fürdie österreichische Rządu Rzeczypospolitej Austriackiego Rządu der Republik Polen: Bundesregierung: Polskiej Federalnego"
-    },
-    {
-     "type": "text",
-     "text": "J. Kranz M. Schaumayer J. Kranz M. Schaumayer"
-    },
-    {
-     "type": "text",
-     "text": "180"
-    },
-    {
-     "type": "text",
-     "text": "OŚWIADCZENIE RZĄDOWE"
-    },
-    {
-     "type": "text",
-     "text": "zdnia 27 marca 2001 r."
-    },
-    {
-     "type": "text",
-     "text": "wsprawie zatwierdzenia Umowy między Rządem Rzeczypospolitej Polskiej aAustriackim Rządem Federalnym o współpracy w dziedzinie dobrowolnych świadczeń Republiki Austrii na rzecz byłych robotników niewolniczych i robotników przymusowych reżimu narodowosocjalistycznego, sporządzonej w Wiedniu dnia 24 października 2000 r."
-    },
-    {
-     "type": "text",
-     "text": "Podaje się niniejszym do wiadomości, że na pod- strii na rzecz byłych robotników niewolniczych irobotstawie art. 6 ust. 3, w związku z art. 13 ust. 1 ustawy ników przymusowych reżimu narodowosocjalistyczz dnia 14 kwietnia 2000 r. o umowach międzynarodo- nego. Umowa została sporządzona w Wiedniu dnia wych (Dz. U. Nr 39, poz. 443), Rada Ministrów Rzeczy- 24października 2000 r. pospolitej Polskiej udzieliła w dniu 23 października 2000 r. zgody na związanie Rzeczypospolitej Polskiej Zgodnie z artykułem 9 powyższej umowy weszła Umową między Rządem Rzeczypospolitej Polskiej ona wżycie wdniu 13 grudnia 2000 r. a Austriackim Rządem Federalnym o współpracy w dziedzinie dobrowolnych świadczeń Republiki Au- Minister Spraw Zagranicznych: W. Bartoszewski"
     }
-   ]
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Wiedniu dnia 24 października Geschehen zu Wien, am 24 Oktober 2000, in zwei 2000r., wdwóch egzemplarzach, każdy wjęzykach pol- Urschriften, jede in polnischer und deutscher Sprache, skim iniemieckim, przy czym obydwa teksty mają jed- wobei jeder Wortlaut gleichermaßen authentisch ist. nakową moc."
+  },
+  {
+   "type": "text",
+   "text": "Zupoważnienia Zupoważnienia Fürdie Regierung Fürdie österreichische Rządu Rzeczypospolitej Austriackiego Rządu der Republik Polen: Bundesregierung: Polskiej Federalnego"
+  },
+  {
+   "type": "text",
+   "text": "J. Kranz M. Schaumayer J. Kranz M. Schaumayer"
+  },
+  {
+   "type": "text",
+   "text": "180"
+  },
+  {
+   "type": "text",
+   "text": "OŚWIADCZENIE RZĄDOWE"
+  },
+  {
+   "type": "text",
+   "text": "zdnia 27 marca 2001 r."
+  },
+  {
+   "type": "text",
+   "text": "wsprawie zatwierdzenia Umowy między Rządem Rzeczypospolitej Polskiej aAustriackim Rządem Federalnym o współpracy w dziedzinie dobrowolnych świadczeń Republiki Austrii na rzecz byłych robotników niewolniczych i robotników przymusowych reżimu narodowosocjalistycznego, sporządzonej w Wiedniu dnia 24 października 2000 r."
+  },
+  {
+   "type": "text",
+   "text": "Podaje się niniejszym do wiadomości, że na pod- strii na rzecz byłych robotników niewolniczych irobotstawie art. 6 ust. 3, w związku z art. 13 ust. 1 ustawy ników przymusowych reżimu narodowosocjalistyczz dnia 14 kwietnia 2000 r. o umowach międzynarodo- nego. Umowa została sporządzona w Wiedniu dnia wych (Dz. U. Nr 39, poz. 443), Rada Ministrów Rzeczy- 24października 2000 r. pospolitej Polskiej udzieliła w dniu 23 października 2000 r. zgody na związanie Rzeczypospolitej Polskiej Zgodnie z artykułem 9 powyższej umowy weszła Umową między Rządem Rzeczypospolitej Polskiej ona wżycie wdniu 13 grudnia 2000 r. a Austriackim Rządem Federalnym o współpracy w dziedzinie dobrowolnych świadczeń Republiki Au- Minister Spraw Zagranicznych: W. Bartoszewski"
   }
  ],
  "annexes": [],

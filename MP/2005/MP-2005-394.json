@@ -65,26 +65,27 @@
    "text": "STRONY POSTANAWIAJĄ, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Wymiana informacji"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Strony podejmują decyzję o systematycznej wymianie informacji dotyczących wykroczeń, co do których prowadzone jest postępowanie w jednym z krajów i popełnionych przez przewoźników drogowych zarejestrowanych w innych krajach.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony mogą w przypadku kontroli będących następstwem naruszenia przepisów lub wypadków drogowych, do których doszło na ich terytorium, zwrócić się do instytucji z kraju pochodzenia danego przewoźnika drogowego o przeprowadzenie kontroli przedsiębiorstwa rzeczonego przewoźnika. Strony do-",
-   "children": []
+   "path": "art_1",
+   "text": "Wymiana informacji",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Strony podejmują decyzję o systematycznej wymianie informacji dotyczących wykroczeń, co do których prowadzone jest postępowanie w jednym z krajów i popełnionych przez przewoźników drogowych zarejestrowanych w innych krajach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Strony mogą w przypadku kontroli będących następstwem naruszenia przepisów lub wypadków drogowych, do których doszło na ich terytorium, zwrócić się do instytucji z kraju pochodzenia danego przewoźnika drogowego o przeprowadzenie kontroli przedsiębiorstwa rzeczonego przewoźnika. Strony do-",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
   }
  ],
  "annexes": [
@@ -140,81 +141,83 @@
      "text": "1.2. Les Participants peuvent, ∫ la suite de contrôles, de constatations d’infractions ou d’accidents constatés sur leur territoire, requérir aupr¯s des Participants du pays d’établissement du transporteur routier une enqu˘te dans l’entreprise du transporteur concerné. Les Participants s’efforcent de łożą wszelkich starań, aby spełnić powyższą prośbę oraz poinformować zainteresowaną Stronę o wynikach inspekcji."
     },
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Koordynacja działań kontrolnych"
-    },
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "ust_1",
-     "text": "Strony zgadzają się okresowo organizować wspólne lub skoordynowane inspekcje. Wyznaczą osoby kontaktowe odpowiedzialne za taką koordynację między zainteresowanymi krajami.",
-     "children": []
-    },
-    {
-     "type": "ust",
+     "type": "art",
      "num": "2",
-     "path": "ust_2",
-     "text": "Strony dołożą wszelkich starań, aby wykorzystać dostępne technologie w celu zapewnienia największej efektywności wzajemnych kontaktów oraz koordynacji między zainteresowanymi państwami.",
+     "path": "art_2",
+     "text": "Koordynacja działań kontrolnych",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 3"
+       "type": "ust",
+       "num": "1",
+       "path": "art_2/ust_1",
+       "text": "Strony zgadzają się okresowo organizować wspólne lub skoordynowane inspekcje. Wyznaczą osoby kontaktowe odpowiedzialne za taką koordynację między zainteresowanymi krajami.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Szkolenia"
-      },
+       "type": "ust",
+       "num": "2",
+       "path": "art_2/ust_2",
+       "text": "Strony dołożą wszelkich starań, aby wykorzystać dostępne technologie w celu zapewnienia największej efektywności wzajemnych kontaktów oraz koordynacji między zainteresowanymi państwami.",
+       "children": []
+      }
+     ],
+     "label": "Artykuł 2"
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Szkolenia",
+     "children": [
       {
        "type": "text",
        "text": "Strony zgadzają się na promowanie wymiany doświadczeń między zainteresowanymi krajami oraz na organizowanie wspólnych programów szkoleniowych odpowiadających potrzebom służb kontrolnych w celu lepszego poznania organizacji oraz instrumentów kontroli używanych w zainteresowanych krajach."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 4"
-      },
-      {
-       "type": "text",
-       "text": "Wyposażenie"
-      },
-      {
-       "type": "text",
-       "text": "Strony zgadzają się, aby informować się wzajemnie o nowych rozwiązaniach technologicznych oraz zgadzają się na wymianę wszelkich użytecznych informacji w tym zakresie."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 5"
-      },
-      {
-       "type": "text",
-       "text": "Konsultacje"
       }
-     ]
+     ],
+     "label": "Artykuł 3"
     },
     {
-     "type": "ust",
-     "num": "1",
-     "path": "ust_1",
-     "text": "Organizowane będą okresowe konsultacje w celu przeglądu sytuacji w różnych dziedzinach objętych współpracą oraz zbadania ewentualnych kierunków rozwoju.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Celem konsultacji będzie również podejmowanie wspólnych inicjatyw oraz, w możliwym stopniu, przyjmowanie wspólnych stanowisk w odniesieniu do polityki kontroli transportu drogowego Unii Europejskiej.",
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "Wyposażenie",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 6"
+       "text": "Strony zgadzają się, aby informować się wzajemnie o nowych rozwiązaniach technologicznych oraz zgadzają się na wymianę wszelkich użytecznych informacji w tym zakresie."
+      }
+     ],
+     "label": "Artykuł 4"
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "Konsultacje",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_5/ust_1",
+       "text": "Organizowane będą okresowe konsultacje w celu przeglądu sytuacji w różnych dziedzinach objętych współpracą oraz zbadania ewentualnych kierunków rozwoju.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Współpraca w ramach niniejszego porozumienia administracyjnego odbywać się będzie w zgodzie z prawem krajowym oraz międzynarodowym, a także z aktami międzynarodowymi odnoszącymi się do niego."
-      },
+       "type": "ust",
+       "num": "2",
+       "path": "art_5/ust_2",
+       "text": "Celem konsultacji będzie również podejmowanie wspólnych inicjatyw oraz, w możliwym stopniu, przyjmowanie wspólnych stanowisk w odniesieniu do polityki kontroli transportu drogowego Unii Europejskiej.",
+       "children": []
+      }
+     ],
+     "label": "Artykuł 5"
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Współpraca w ramach niniejszego porozumienia administracyjnego odbywać się będzie w zgodzie z prawem krajowym oraz międzynarodowym, a także z aktami międzynarodowymi odnoszącymi się do niego.",
+     "children": [
       {
        "type": "text",
        "text": "Współpraca odbywać się będzie w ramach instytucji nazwanej „Euro Contrôle Route”, utworzonej przez donner suite ∫ ces requ˘tes dans la mesure du possible et informent la partie requérante des résultats de l’enqu˘te."
@@ -286,39 +289,42 @@
       {
        "type": "text",
        "text": "Elle s’effectue au sein d’une instance appelée „Euro Contrôle Route”, instituée par le présent niniejsze porozumienie administracyjne, której przewodniczyć będą przedstawiciele kolejnych stron w sześciomiesięcznych okresach. Sekretariat tej instytucji prowadzony będzie przez Sekretariat Generalny Unii Gospodarczej Beneluksu."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 7"
-      },
-      {
-       "type": "text",
-       "text": "Wejście w życie"
-      },
+      }
+     ],
+     "label": "Artykuł 6"
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "Wejście w życie",
+     "children": [
       {
        "type": "text",
        "text": "Niniejsze porozumienie administracyjne wchodzi w życie z dniem podpisania."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Zakończenie"
-      },
+      }
+     ],
+     "label": "Artykuł 7"
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "Zakończenie",
+     "children": [
       {
        "type": "text",
        "text": "Niniejsze porozumienie administracyjne zostaje zawarte na czas nieokreślony. Może ono zostać wypowiedziane w każdej chwili, z zachowaniem miesięcznego wypowiedzenia, przez każdą ze stron poprzez złożenie stosownej notyfikacji pozostałym stronom."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9"
-      },
-      {
-       "type": "text",
-       "text": "Udział państw trzecich"
-      },
+      }
+     ],
+     "label": "Artykuł 8"
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "Udział państw trzecich",
+     "children": [
       {
        "type": "text",
        "text": "Za zgodą wszystkich stron niniejszym porozumieniem administracyjnym mogą być objęte państwa trzecie, pod warunkiem iż państwa te zaakceptują wszystkie przepisy tegoż porozumienia."
@@ -399,7 +405,8 @@
        "type": "text",
        "text": "La Ministre des Transports, des. Travaux Publics et de la Gestion des Eaux des Pays-Bas"
       }
-     ]
+     ],
+     "label": "Artykuł 9"
     }
    ]
   }

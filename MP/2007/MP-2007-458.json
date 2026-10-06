@@ -45,114 +45,116 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "(a) Niniejszym powołuje się Międzynarodową Komisję, w której skład wejdzie po jednym przedstawicielu rządów Państw Sygnatariuszy niniejszej umowy i której przewodniczyć będzie jeden z tych przedstawicieli. Pierwszym przewodniczącym Międzynarodowej Komisji będzie przedstawiciel Belgii."
-  },
-  {
-   "type": "text",
-   "text": "(b) Międzynarodowa Komisja może mocą jednomyślnie podjętej uchwały zapraszać przedstawicieli wyznaczonych przez inne zainteresowane rządy do uczestnictwa we wszystkich dyskusjach dotyczących kwestii interesujących te rządy. Sekretarz Generalny Unii Zachodnioeuropejskiej lub jego przedstawiciel oraz przedstawiciel Międzynarodowego Komitetu Czerwonego Krzyża mogą, na życzenie, być obecni w czasie dyskusji; otrzymują oni kopię protokołów z wszystkich posiedzeń Międzynarodowej Komisji."
-  },
-  {
-   "type": "text",
-   "text": "(c) Posiedzenie Międzynarodowej Komisji zwołuje jej przewodniczący po raz pierwszy najpóźniej w ciągu 60 dni od daty wejścia w życie niniejszej umowy. Następne posiedzenia Międzynarodowej Komisji odbywają się zgodnie z jej własnymi uchwałami, z tym że Przewodniczący zwołuje jej posiedzenia w ciągu 30 dni na wniosek dwóch członków Komisji lub Sekretarza Generalnego Unii Zachodnioeuropejskiej lub Międzynarodowego Komitetu Czerwonego Krzyża."
-  },
-  {
-   "type": "text",
-   "text": "(d) Międzynarodowa Komisja podejmuje decyzje mocą uchwały przyjętej zwykłą większością głosów obecnych lub reprezentowanych członków uczestniczących w głosowaniu, o ile Międzynarodowa Komisja nie podejmie uchwały o innej treści i nie określi wyraźnie niczego innego."
-  },
-  {
-   "type": "text",
-   "text": "(e) Międzynarodowa Komisja przyjmie swój własny regulamin działania, o ile nie jest on jeszcze ustalony."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "(a) Zadaniem Międzynarodowej Komisji jest zapewnienie współpracy między rządami reprezentowanymi w Komisji w kwestiach Międzynarodowej Służby Poszukiwań oraz opracowanie wytycznych w sprawie działalności Międzynarodowej Służby Poszukiwań, uzgodnionych z Międzynarodowym Komitetem Czerwonego Krzyża."
-  },
-  {
-   "type": "text",
-   "text": "(b) Wytyczne wymienione w ustępie (a) niniejszego artykułu zostaną przekazane Międzynarodowemu Komitetowi Czerwonego Krzyża do realizacji."
-  },
-  {
-   "type": "text",
-   "text": "(c) Szczegóły wykonania wytycznych wymienionych w ustępie (a) oraz współpracy między Międzynarodową Komisją a Międzynarodowym Komitetem Czerwonego Krzyża zostaną uregulowane szczególnymi porozumieniami zawartymi między Międzynarodową Komisją a Międzynarodowym Komitetem Czerwonego Krzyża."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "text",
-   "text": "Rządy, które podpiszą niniejszą umowę, upoważniają niniejszym Przewodniczącego Międzynarodowej Komisji do:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "zawarcia w ich imieniu Porozumienia z Międzynarodowym Komitetem Czerwonego Krzyża, stanowiącego załącznik A;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "przyjęcia — po jednogłośnym upoważnieniu przez członków Komisji — kolejnych porozumień, które mogą się okazać niezbędne w celu wprowadzenia zmian we wspomnianym porozumieniu.",
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "(a) Niniejszym powołuje się Międzynarodową Komisję, w której skład wejdzie po jednym przedstawicielu rządów Państw Sygnatariuszy niniejszej umowy i której przewodniczyć będzie jeden z tych przedstawicieli. Pierwszym przewodniczącym Międzynarodowej Komisji będzie przedstawiciel Belgii.",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 4"
+     "text": "(b) Międzynarodowa Komisja może mocą jednomyślnie podjętej uchwały zapraszać przedstawicieli wyznaczonych przez inne zainteresowane rządy do uczestnictwa we wszystkich dyskusjach dotyczących kwestii interesujących te rządy. Sekretarz Generalny Unii Zachodnioeuropejskiej lub jego przedstawiciel oraz przedstawiciel Międzynarodowego Komitetu Czerwonego Krzyża mogą, na życzenie, być obecni w czasie dyskusji; otrzymują oni kopię protokołów z wszystkich posiedzeń Międzynarodowej Komisji."
     },
     {
      "type": "text",
-     "text": "Do Wysokiego Komisarza Narodów Zjednoczonych ds. Uchodźców lub innej organizacji Narodów Zjednoczonych, która przejmie jego zadania międzynarodowej ochrony uchodźców, zostanie skierowana prośba o oddelegowanie do Międzynarodowej Komisji stałego obserwatora w celu reprezentowania interesów osób podlegających jego kompetencjom."
+     "text": "(c) Posiedzenie Międzynarodowej Komisji zwołuje jej przewodniczący po raz pierwszy najpóźniej w ciągu 60 dni od daty wejścia w życie niniejszej umowy. Następne posiedzenia Międzynarodowej Komisji odbywają się zgodnie z jej własnymi uchwałami, z tym że Przewodniczący zwołuje jej posiedzenia w ciągu 30 dni na wniosek dwóch członków Komisji lub Sekretarza Generalnego Unii Zachodnioeuropejskiej lub Międzynarodowego Komitetu Czerwonego Krzyża."
     },
     {
      "type": "text",
-     "text": "Artykuł 5"
+     "text": "(d) Międzynarodowa Komisja podejmuje decyzje mocą uchwały przyjętej zwykłą większością głosów obecnych lub reprezentowanych członków uczestniczących w głosowaniu, o ile Międzynarodowa Komisja nie podejmie uchwały o innej treści i nie określi wyraźnie niczego innego."
     },
     {
      "type": "text",
-     "text": "Organizacje pozarządowe, które mają uzasadniony interes w pracach Międzynarodowej Służby Poszukiwań, mogą przekazywać Międzynarodowej Komisji sugestie i być zapraszane przez Międzynarodową Komisję do uczestniczenia w jej posiedzeniach, poświęconych tym sugestiom, na warunkach ustalonych przez Komisję."
+     "text": "(e) Międzynarodowa Komisja przyjmie swój własny regulamin działania, o ile nie jest on jeszcze ustalony."
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "(a) Zadaniem Międzynarodowej Komisji jest zapewnienie współpracy między rządami reprezentowanymi w Komisji w kwestiach Międzynarodowej Służby Poszukiwań oraz opracowanie wytycznych w sprawie działalności Międzynarodowej Służby Poszukiwań, uzgodnionych z Międzynarodowym Komitetem Czerwonego Krzyża.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(b) Wytyczne wymienione w ustępie (a) niniejszego artykułu zostaną przekazane Międzynarodowemu Komitetowi Czerwonego Krzyża do realizacji."
     },
     {
      "type": "text",
-     "text": "Artykuł 6"
+     "text": "(c) Szczegóły wykonania wytycznych wymienionych w ustępie (a) oraz współpracy między Międzynarodową Komisją a Międzynarodowym Komitetem Czerwonego Krzyża zostaną uregulowane szczególnymi porozumieniami zawartymi między Międzynarodową Komisją a Międzynarodowym Komitetem Czerwonego Krzyża."
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Rządy, które podpiszą niniejszą umowę, upoważniają niniejszym Przewodniczącego Międzynarodowej Komisji do:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "zawarcia w ich imieniu Porozumienia z Międzynarodowym Komitetem Czerwonego Krzyża, stanowiącego załącznik A;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każdy z rządów reprezentowanych w Międzynarodowej Komisji oraz Wysoki Komisarz Narodów Zjednoczonych ds. Uchodźców lub inna organizacja Narodów Zjednoczonych, która przejmie jego zadania międzynarodowej ochrony uchodźców, mają prawo utrzymywać przy Międzynarodowej Służbie Poszukiwań, na swój koszt, biuro łącznikowe."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "W ramach swoich przepisów prawnych rządy reprezentowane w Międzynarodowej Komisji udzielą Międzynarodowej Służbie Poszukiwań wsparcia na drodze kontroli, sporządzenia odpisów oraz, o ile nie będzie to stało w sprzeczności z interesami uczestniczącego rządu lub rządów i bez naruszenia praw własności do tych dokumentów, przekazania Międzynarodowej Służbie Poszukiwań wszystkich dokumentów znajdujących się obecnie lub w przyszłości w państwowych, publicznych lub prywatnych archiwach ich państw, a które dotyczą kręgu osób, określonego w ustępie 1 preambuły niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Po podpisaniu trzech egzemplarzy kompletnego rejestru archiwów i dokumentacji Międzynarodowej Służby Poszukiwań, który został sporządzony na podstawie Protokołu z 19 października 1955 r. przez przedstawicieli rządów Republiki Francuskiej, Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Stanów Zjednoczonych Ameryki z jednej strony, a Międzynarodowego Komitetu Czerwonego Krzyża z drugiej strony, trzy rządy dołączą jeden egzemplarz rejestru do oryginalnego tekstu niniejszej umowy; drugi egzemplarz zostanie przekazany Sekretarzowi Generalnemu Narodów Zjednoczonych, podczas gdy trzeci egzemplarz pozostanie w Międzynarodowym Komitecie Czerwonego Krzyża przez okres sprawowania przez niego mandatu odnośnie do Międzynarodowej Służby Poszukiwań. Dyrektor Międzynarodowej Służby Poszukiwań zapewni, że rejestr ten będzie na bieżąco aktualizowany."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Okres obowiązywania Umowy o utworzeniu Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań z dnia 6 czerwca 1955 r. w wersji protokołu o przedłużeniu jej obowiązywania i wprowadzeniu zmian z dnia 23 sierpnia 1960 r. (zwanej poniżej „Umową”), zostaje z zastrzeżeniem poniższych warunków odnowiony i przedłużony na czas nieokreślony."
-    },
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "przyjęcia — po jednogłośnym upoważnieniu przez członków Komisji — kolejnych porozumień, które mogą się okazać niezbędne w celu wprowadzenia zmian we wspomnianym porozumieniu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Do Wysokiego Komisarza Narodów Zjednoczonych ds. Uchodźców lub innej organizacji Narodów Zjednoczonych, która przejmie jego zadania międzynarodowej ochrony uchodźców, zostanie skierowana prośba o oddelegowanie do Międzynarodowej Komisji stałego obserwatora w celu reprezentowania interesów osób podlegających jego kompetencjom.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Organizacje pozarządowe, które mają uzasadniony interes w pracach Międzynarodowej Służby Poszukiwań, mogą przekazywać Międzynarodowej Komisji sugestie i być zapraszane przez Międzynarodową Komisję do uczestniczenia w jej posiedzeniach, poświęconych tym sugestiom, na warunkach ustalonych przez Komisję.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Każdy z rządów reprezentowanych w Międzynarodowej Komisji oraz Wysoki Komisarz Narodów Zjednoczonych ds. Uchodźców lub inna organizacja Narodów Zjednoczonych, która przejmie jego zadania międzynarodowej ochrony uchodźców, mają prawo utrzymywać przy Międzynarodowej Służbie Poszukiwań, na swój koszt, biuro łącznikowe.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "W ramach swoich przepisów prawnych rządy reprezentowane w Międzynarodowej Komisji udzielą Międzynarodowej Służbie Poszukiwań wsparcia na drodze kontroli, sporządzenia odpisów oraz, o ile nie będzie to stało w sprzeczności z interesami uczestniczącego rządu lub rządów i bez naruszenia praw własności do tych dokumentów, przekazania Międzynarodowej Służbie Poszukiwań wszystkich dokumentów znajdujących się obecnie lub w przyszłości w państwowych, publicznych lub prywatnych archiwach ich państw, a które dotyczą kręgu osób, określonego w ustępie 1 preambuły niniejszej umowy.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Po podpisaniu trzech egzemplarzy kompletnego rejestru archiwów i dokumentacji Międzynarodowej Służby Poszukiwań, który został sporządzony na podstawie Protokołu z 19 października 1955 r. przez przedstawicieli rządów Republiki Francuskiej, Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Stanów Zjednoczonych Ameryki z jednej strony, a Międzynarodowego Komitetu Czerwonego Krzyża z drugiej strony, trzy rządy dołączą jeden egzemplarz rejestru do oryginalnego tekstu niniejszej umowy; drugi egzemplarz zostanie przekazany Sekretarzowi Generalnemu Narodów Zjednoczonych, podczas gdy trzeci egzemplarz pozostanie w Międzynarodowym Komitecie Czerwonego Krzyża przez okres sprawowania przez niego mandatu odnośnie do Międzynarodowej Służby Poszukiwań. Dyrektor Międzynarodowej Służby Poszukiwań zapewni, że rejestr ten będzie na bieżąco aktualizowany.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Okres obowiązywania Umowy o utworzeniu Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań z dnia 6 czerwca 1955 r. w wersji protokołu o przedłużeniu jej obowiązywania i wprowadzeniu zmian z dnia 23 sierpnia 1960 r. (zwanej poniżej „Umową”), zostaje z zastrzeżeniem poniższych warunków odnowiony i przedłużony na czas nieokreślony.",
+   "children": [
     {
      "type": "text",
      "text": "Uważa się, że Porozumienie niniejsze weszło w życie ze skutkiem od dnia 5 maja 1965 r., jak tylko wszystkie rządy wymienione w preambule przekazały rządowi Republiki Federalnej Niemiec swoją zgodę na to porozumienie."
@@ -160,20 +162,21 @@
     {
      "type": "text",
      "text": "Każda strona umowy może wypowiedzieć członkostwo z zachowaniem rocznego okresu wypowiedzenia na koniec każdego roku kalendarzowego, w drodze notyfikacji, Rządowi Republiki Federalnej Niemiec, który powiadomi pozostałe strony niniejszego porozumienia o otrzymaniu takiej notyfikacji."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego podpisani pełnomocnicy opatrzyli niniejszy protokół swoimi podpisami."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w językach niemieckim, angielskim i francuskim, przy czym teksty w każdym z tych trzech języków posiadają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Rząd Republiki Federalnej Niemiec przekaże po jednym uwierzytelnionym odpisie rządom, które podpisały niniejszą umowę, pozostałym rządom po przyjęciu przez nie członkostwa w Międzynarodowej Komisji oraz Sekretarzowi Generalnemu Narodów Zjednoczonych w celu rejestracji zgodnie z artykułem 102 Karty Narodów Zjednoczonych oraz Sekretarzowi Generalnemu Unii Zachodnioeuropejskiej."
     }
-   ]
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego podpisani pełnomocnicy opatrzyli niniejszy protokół swoimi podpisami."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w językach niemieckim, angielskim i francuskim, przy czym teksty w każdym z tych trzech języków posiadają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "Rząd Republiki Federalnej Niemiec przekaże po jednym uwierzytelnionym odpisie rządom, które podpisały niniejszą umowę, pozostałym rządom po przyjęciu przez nie członkostwa w Międzynarodowej Komisji oraz Sekretarzowi Generalnemu Narodów Zjednoczonych w celu rejestracji zgodnie z artykułem 102 Karty Narodów Zjednoczonych oraz Sekretarzowi Generalnemu Unii Zachodnioeuropejskiej."
   }
  ],
  "annexes": [
@@ -225,112 +228,114 @@
      "text": "uzgodniły, co następuje:"
     },
     {
-     "type": "text",
-     "text": "Artykuł 1"
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "Po wyrażeniu jednogłośnej akceptacji przez członków Międzynarodowej Komisji Międzynarodowy Komitet Czerwonego Krzyża powoła obywatela szwajcarskiego na stanowisko dyrektora Międzynarodowej Służby Poszukiwań i w porozumieniu z Międzynarodową Komisją ustali warunki jego zatrudnienia. Dyrektor ten, który będzie wynagradzany przez Międzynarodowy Komitet Czerwonego Krzyża, obejmie swój urząd szybko jak tylko możliwe po wejściu w życie niniejszego porozumienia.",
+     "children": [],
+     "label": "Artykuł 1"
     },
     {
-     "type": "text",
-     "text": "Po wyrażeniu jednogłośnej akceptacji przez członków Międzynarodowej Komisji Międzynarodowy Komitet Czerwonego Krzyża powoła obywatela szwajcarskiego na stanowisko dyrektora Międzynarodowej Służby Poszukiwań i w porozumieniu z Międzynarodową Komisją ustali warunki jego zatrudnienia. Dyrektor ten, który będzie wynagradzany przez Międzynarodowy Komitet Czerwonego Krzyża, obejmie swój urząd szybko jak tylko możliwe po wejściu w życie niniejszego porozumienia."
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "Za kierowanie i zarządzanie Międzynarodową Służbą Poszukiwań Dyrektor ponosi odpowiedzialność wobec Międzynarodowego Komitetu Czerwonego Krzyża i działa zgodnie z instrukcjami Międzynarodowego Komitetu Czerwonego Krzyża, które będą zgodne z postanowieniami niniejszego porozumienia i wytycznymi uzgodnionymi między Międzynarodową Komisją a Międzynarodowym Komitetem Czerwonego Krzyża.",
+     "children": [],
+     "label": "Artykuł 2"
     },
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Każdy członek Międzynarodowej Komisji i każdy funkcjonariusz łącznikowy wyznaczony przez jeden z rządów reprezentowanych w Międzynarodowej Komisji oraz przedstawiciel Wysokiego Komisarza Narodów Zjednoczonych ds. Uchodźców lub każdej innej organizacji Narodów Zjednoczonych, która przejmie realizację jego zadania międzynarodowej ochrony uchodźców, i wyznaczony przez niego funkcjonariusz łącznikowy mają w porozumieniu z Dyrektorem Międzynarodowej Służby Poszukiwań, zgodnie z postanowieniami poniższego artykułu 5, prawo wglądu do wszystkich archiwów i dokumentów znajdujących się w Międzynarodowej Służbie Poszukiwań.",
+     "children": [],
+     "label": "Artykuł 3"
     },
     {
-     "type": "text",
-     "text": "Za kierowanie i zarządzanie Międzynarodową Służbą Poszukiwań Dyrektor ponosi odpowiedzialność wobec Międzynarodowego Komitetu Czerwonego Krzyża i działa zgodnie z instrukcjami Międzynarodowego Komitetu Czerwonego Krzyża, które będą zgodne z postanowieniami niniejszego porozumienia i wytycznymi uzgodnionymi między Międzynarodową Komisją a Międzynarodowym Komitetem Czerwonego Krzyża."
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "Zadanie Międzynarodowej Służby Poszukiwań polega głównie na udzielaniu bezpośrednio zainteresowanym osobom indywidualnych informacji w sprawach humanitarnych ze swoich archiwów i dokumentów. Takie informacje wydawane będą we właściwy sposób nieodpłatnie na podstawie stosownego wniosku. Informacje te udostępniane będą do takich samych celów również członkom Międzynarodowej Komisji, funkcjonariuszom łącznikowym rządów reprezentowanych w Międzynarodowej Komisji oraz Wysokiemu Komisarzowi Narodów Zjednoczonych ds. Uchodźców lub innej organizacji Narodów Zjednoczonych, która przejmie realizację jego zadania międzynarodowej ochrony uchodźców, a także, po jednogłośnym zatwierdzeniu przez Międzynarodową Komisję i za zgodą Międzynarodowego Komitetu Czerwonego Krzyża, również każdej organizacji rządowej i pozarządowej, która wystąpiła o taką informację w interesie osób uprawnionych lub ich przedstawicieli prawnych.",
+     "children": [],
+     "label": "Artykuł 4"
     },
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "Międzynarodowa Służba Poszukiwań, członkowie Międzynarodowej Komisji oraz funkcjonariusze łącznikowi podejmą wszelkie stosowne kroki na rzecz uniknięcia udzielania informacji o osobie lub osobach, które mogłyby naruszyć interesy zainteresowanej osoby lub zainteresowanych osób lub członków ich rodzin.",
+     "children": [],
+     "label": "Artykuł 5"
     },
     {
-     "type": "text",
-     "text": "Każdy członek Międzynarodowej Komisji i każdy funkcjonariusz łącznikowy wyznaczony przez jeden z rządów reprezentowanych w Międzynarodowej Komisji oraz przedstawiciel Wysokiego Komisarza Narodów Zjednoczonych ds. Uchodźców lub każdej innej organizacji Narodów Zjednoczonych, która przejmie realizację jego zadania międzynarodowej ochrony uchodźców, i wyznaczony przez niego funkcjonariusz łącznikowy mają w porozumieniu z Dyrektorem Międzynarodowej Służby Poszukiwań, zgodnie z postanowieniami poniższego artykułu 5, prawo wglądu do wszystkich archiwów i dokumentów znajdujących się w Międzynarodowej Służbie Poszukiwań."
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Po podpisaniu trzech egzemplarzy kompletnego rejestru archiwów i dokumentacji Międzynarodowej Służby Poszukiwań, który został sporządzony na podstawie Protokołu z dnia 19 października 1955 r. przez przedstawicieli rządów Republiki Francuskiej, Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Stanów Zjednoczonych Ameryki z jednej strony a Międzynarodowego Komitetu Czerwonego Krzyża z drugiej strony, trzy rządy dołączą jeden egzemplarz do oryginalnego tekstu Umowy o utworzeniu Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań; drugi egzemplarz zostanie przekazany Sekretarzowi Generalnemu Narodów Zjednoczonych, podczas gdy trzeci egzemplarz pozostanie w Międzynarodowym Komitecie Czerwonego Krzyża przez okres sprawowania przez niego mandatu odnośnie do Międzynarodowej Służby Poszukiwań. Dyrektor Międzynarodowej Służby Poszukiwań zapewni, że rejestr ten będzie na bieżąco aktualizowany.",
+     "children": [],
+     "label": "Artykuł 6"
     },
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "Dyrektor może w każdym momencie wezwać członka Międzynarodowej Komisji do wystąpienia do swojego rządu o udostępnienie Międzynarodowej Służbie Poszukiwań oryginałów lub kopii dokumentów, których oryginał lub kopia znajdują lub kiedykolwiek znajdowały się w Międzynarodowej Służbie Poszukiwań, a które przechowywane są przez ten rząd lub w jego imieniu.",
+     "children": [],
+     "label": "Artykuł 7"
     },
     {
-     "type": "text",
-     "text": "Zadanie Międzynarodowej Służby Poszukiwań polega głównie na udzielaniu bezpośrednio zainteresowanym osobom indywidualnych informacji w sprawach humanitarnych ze swoich archiwów i dokumentów. Takie informacje wydawane będą we właściwy sposób nieodpłatnie na podstawie stosownego wniosku. Informacje te udostępniane będą do takich samych celów również członkom Międzynarodowej Komisji, funkcjonariuszom łącznikowym rządów reprezentowanych w Międzynarodowej Komisji oraz Wysokiemu Komisarzowi Narodów Zjednoczonych ds. Uchodźców lub innej organizacji Narodów Zjednoczonych, która przejmie realizację jego zadania międzynarodowej ochrony uchodźców, a także, po jednogłośnym zatwierdzeniu przez Międzynarodową Komisję i za zgodą Międzynarodowego Komitetu Czerwonego Krzyża, również każdej organizacji rządowej i pozarządowej, która wystąpiła o taką informację w interesie osób uprawnionych lub ich przedstawicieli prawnych."
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "[uchylony]",
+     "children": [],
+     "label": "Artykuł 8"
     },
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "(a) Międzynarodowy Komitet Czerwonego Krzyża przekazuje Międzynarodowej Komisji w odstępach półrocznych lub — jeżeli okaże się to konieczne — w krótszych odstępach czasu sprawozdanie z działalności Międzynarodowej Służby Poszukiwań.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(b) Międzynarodowy Komitet Czerwonego Krzyża przekazuje rządowi Republiki Federalnej Niemiec, po uzgodnieniu z Międzynarodową Komisją, do 1 marca każdego roku kosztorys budżetu. Międzynarodowa Komisja otrzymuje od Międzynarodowego Komitetu Czerwonego Krzyża kopię rozliczenia różnych wydatków i wpływów za poprzedni rok finansowy, które do 1 lutego każdego roku zostanie przekazane rządowi Republiki Federalnej Niemiec."
+      }
+     ],
+     "label": "Artykuł 9"
     },
     {
-     "type": "text",
-     "text": "Międzynarodowa Służba Poszukiwań, członkowie Międzynarodowej Komisji oraz funkcjonariusze łącznikowi podejmą wszelkie stosowne kroki na rzecz uniknięcia udzielania informacji o osobie lub osobach, które mogłyby naruszyć interesy zainteresowanej osoby lub zainteresowanych osób lub członków ich rodzin."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Po podpisaniu trzech egzemplarzy kompletnego rejestru archiwów i dokumentacji Międzynarodowej Służby Poszukiwań, który został sporządzony na podstawie Protokołu z dnia 19 października 1955 r. przez przedstawicieli rządów Republiki Francuskiej, Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Stanów Zjednoczonych Ameryki z jednej strony a Międzynarodowego Komitetu Czerwonego Krzyża z drugiej strony, trzy rządy dołączą jeden egzemplarz do oryginalnego tekstu Umowy o utworzeniu Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań; drugi egzemplarz zostanie przekazany Sekretarzowi Generalnemu Narodów Zjednoczonych, podczas gdy trzeci egzemplarz pozostanie w Międzynarodowym Komitecie Czerwonego Krzyża przez okres sprawowania przez niego mandatu odnośnie do Międzynarodowej Służby Poszukiwań. Dyrektor Międzynarodowej Służby Poszukiwań zapewni, że rejestr ten będzie na bieżąco aktualizowany."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Dyrektor może w każdym momencie wezwać członka Międzynarodowej Komisji do wystąpienia do swojego rządu o udostępnienie Międzynarodowej Służbie Poszukiwań oryginałów lub kopii dokumentów, których oryginał lub kopia znajdują lub kiedykolwiek znajdowały się w Międzynarodowej Służbie Poszukiwań, a które przechowywane są przez ten rząd lub w jego imieniu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "[uchylony]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "(a) Międzynarodowy Komitet Czerwonego Krzyża przekazuje Międzynarodowej Komisji w odstępach półrocznych lub — jeżeli okaże się to konieczne — w krótszych odstępach czasu sprawozdanie z działalności Międzynarodowej Służby Poszukiwań."
-    },
-    {
-     "type": "text",
-     "text": "(b) Międzynarodowy Komitet Czerwonego Krzyża przekazuje rządowi Republiki Federalnej Niemiec, po uzgodnieniu z Międzynarodową Komisją, do 1 marca każdego roku kosztorys budżetu. Międzynarodowa Komisja otrzymuje od Międzynarodowego Komitetu Czerwonego Krzyża kopię rozliczenia różnych wydatków i wpływów za poprzedni rok finansowy, które do 1 lutego każdego roku zostanie przekazane rządowi Republiki Federalnej Niemiec."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "(1) Okres obowiązywania porozumienia przedłuża się na czas nieokreślony."
-    },
-    {
-     "type": "text",
-     "text": "(2) Każda strona Umowy może wypowiedzieć Porozumienie z zachowaniem rocznego okresu wypowiedzenia na koniec każdego roku kalendarzowego."
-    },
-    {
-     "type": "text",
-     "text": "Wypowiedzenie kieruje:"
-    },
-    {
-     "type": "text",
-     "text": "Przewodniczący Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań w imieniu wymienionych powyżej Rządów do Międzynarodowego Komitetu Czerwonego Krzyża"
-    },
-    {
-     "type": "text",
-     "text": "lub"
-    },
-    {
-     "type": "text",
-     "text": "Komitet lub w imieniu Komitetu do Przewodniczącego Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań, który powiadomi rządy członkowskie Komisji o otrzymaniu takiej notyfikacji."
-    },
-    {
-     "type": "text",
-     "text": "Uważa się, że Porozumienie niniejsze weszło w życie ze skutkiem od dnia 5 maja 1965 r."
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "(1) Okres obowiązywania porozumienia przedłuża się na czas nieokreślony.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Każda strona Umowy może wypowiedzieć Porozumienie z zachowaniem rocznego okresu wypowiedzenia na koniec każdego roku kalendarzowego."
+      },
+      {
+       "type": "text",
+       "text": "Wypowiedzenie kieruje:"
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań w imieniu wymienionych powyżej Rządów do Międzynarodowego Komitetu Czerwonego Krzyża"
+      },
+      {
+       "type": "text",
+       "text": "lub"
+      },
+      {
+       "type": "text",
+       "text": "Komitet lub w imieniu Komitetu do Przewodniczącego Międzynarodowej Komisji ds. Międzynarodowej Służby Poszukiwań, który powiadomi rządy członkowskie Komisji o otrzymaniu takiej notyfikacji."
+      },
+      {
+       "type": "text",
+       "text": "Uważa się, że Porozumienie niniejsze weszło w życie ze skutkiem od dnia 5 maja 1965 r."
+      }
+     ],
+     "label": "Artykuł 10"
     },
     {
      "type": "text",

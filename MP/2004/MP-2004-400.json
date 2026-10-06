@@ -33,533 +33,579 @@
    "text": "Zakres stosowania"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Postanowienia niniejszej umowy mają zastosowanie do międzynarodowych przewozów osób i rzeczy między Rzecząpospolitą Polską a Republiką Uzbekistanu, w tranzycie przez ich terytoria oraz między terytorium państwa trzeciego a terytorium państwa drugiej Strony i w odwrotnym kierunku, wykonywanych pojazdami zarejestrowanymi na terytorium państwa jednej ze Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przewoźnikowi jednej Strony zabrania się wykonywania przewozów osób lub rzeczy między dwoma miejscami położonymi na terytorium państwa drugiej Strony, jeśli przepisy prawa wewnętrznego państwa tej Strony nie stanowią inaczej.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Dla celów niniejszej umowy użyte w niej określenia oznaczają:"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "przewoźnik — osoba fizyczna, osoba prawna lub inna jednostka określona przepisami prawa wewnętrznego, zarejestrowana na terytorium państwa jednej ze Stron, która ma prawo wykonywania międzynarodowych przewozów drogowych osób i rzeczy na podstawie przepisów prawa wewnętrznego tego państwa;",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "pojazd — pojazd samochodowy wyposażony w silnik, przeznaczony konstrukcyjnie do przewozu drogowego rzeczy lub osób;",
-   "children": [
-    {
-     "type": "text",
-     "text": "pojęcie to obejmuje także zespół pojazdów złożony z pojazdu ciągnącego, przyczepy lub naczepy;"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "autobus — pojazd samochodowy przeznaczony do przewozu osób i posiadający ponad 9 miejsc siedzących, włączając w to miejsce kierowcy;",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "regularny przewóz osób — przewóz osób autobusem, wykonywany na podstawie uzgodnionego rozkładu jazdy, taryf i trasy przejazdu;",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "wahadłowe przewozy — wielokrotne przewozy zorganizowanych grup podróżnych tam i z powrotem, między tym samym miejscem początkowym i tym samym miejscem docelowym, przy spełnieniu następujących dodatkowych warunków:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_5/pkt_1",
-     "text": "każda grupa osób przewieziona do miejsca docelowego wraca w tym samym składzie do miejsca początkowego;",
+     "path": "art_1/ust_1",
+     "text": "Postanowienia niniejszej umowy mają zastosowanie do międzynarodowych przewozów osób i rzeczy między Rzecząpospolitą Polską a Republiką Uzbekistanu, w tranzycie przez ich terytoria oraz między terytorium państwa trzeciego a terytorium państwa drugiej Strony i w odwrotnym kierunku, wykonywanych pojazdami zarejestrowanymi na terytorium państwa jednej ze Stron.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_5/pkt_2",
-     "text": "zakwaterowanie w miejscu docelowym lub podczas podróży;",
+     "path": "art_1/ust_2",
+     "text": "Przewoźnikowi jednej Strony zabrania się wykonywania przewozów osób lub rzeczy między dwoma miejscami położonymi na terytorium państwa drugiej Strony, jeśli przepisy prawa wewnętrznego państwa tej Strony nie stanowią inaczej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Dla celów niniejszej umowy użyte w niej określenia oznaczają:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "przewoźnik — osoba fizyczna, osoba prawna lub inna jednostka określona przepisami prawa wewnętrznego, zarejestrowana na terytorium państwa jednej ze Stron, która ma prawo wykonywania międzynarodowych przewozów drogowych osób i rzeczy na podstawie przepisów prawa wewnętrznego tego państwa;",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_5/pkt_3",
-     "text": "pierwszy przejazd powrotny i ostatni przejazd docelowy odbywają się autobusem bez podróżnych.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "pojazd — pojazd samochodowy wyposażony w silnik, przeznaczony konstrukcyjnie do przewozu drogowego rzeczy lub osób;",
      "children": [
       {
        "type": "text",
-       "text": "Jako miejsce początkowe i docelowe należy rozumieć miejscowość odjazdu lub przeznaczenia, jak również miejscowości położone w promieniu 50 kilometrów od miejscowości odjazdu lub przeznaczenia;"
+       "text": "pojęcie to obejmuje także zespół pojazdów złożony z pojazdu ciągnącego, przyczepy lub naczepy;"
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "okazjonalne przewozy osób — przewozy inne niż określone w ustępach 4 i 5 niniejszego artykułu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewozy osób"
     },
     {
-     "type": "text",
-     "text": "Artykuł 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Regularne, wahadłowe i okazjonalne przewozy osób autobusami są wykonywane na podstawie zezwoleń określonych w przepisach prawa wewnętrznego państw Stron, z wyjątkiem przewozów określonych w artykule 4, które wykonywane są bez zezwoleń.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zezwolenia na regularne przewozy osób wydawane są, po wzajemnym uzgodnieniu przez właściwe organy państw Stron, na część przewozu wykonywaną na terytorium ich państw.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Okazjonalne przewozy osób autobusami są wykonywane bez zezwoleń pod warunkiem, że:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "autobus przewozi tę samą grupę podróżnych w obu kierunkach bez wymiany lub pozostawiania osób na terytorium państwa drugiej Strony;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "przejazd autobusu z podróżnymi odbywa się w jednym kierunku, a w kierunku powrotnym następuje przejazd autobusu bez podróżnych;",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "przejazd autobusu bez podróżnych odbywa się w celu zabrania i przewiezienia z powrotem grupy podróżnych wwiezionej wcześniej przez tego samego przewoźnika.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przy wykonywaniu przewozów przewidzianych w ustępie 1 niniejszego artykułu, kierowca autobusu obowiązany jest posiadać dokument zawierający listę podróżnych zgodną ze wzorem określonym przez właściwe organy państw Stron.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewozy rzeczy"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy rzeczy między terytoriami państw Stron, a także tranzytem przez ich terytoria, jak również do/z krajów trzecich, z wyłączeniem przewozów określonych w artykule 6 niniejszej umowy, wykonywane są przez pojazdy na podstawie zezwoleń wydawanych przez właściwe organy państw Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Na każdy przejazd i na każdy pojazd powinno być wydane osobne zezwolenie. Zezwolenie uprawnia do jednego przejazdu „tam” i „z powrotem”. Przejazd pojazdu bez rzeczy wymaga również zezwolenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy państw Stron każdego roku przekazują sobie wzajemnie uzgodnioną liczbę zezwoleń.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przy przejazdach zespołu pojazdów, w których pojazd ciągnący oraz przyczepa lub naczepa zarejestrowane są w różnych państwach, postanowienia niniejszej umowy mają zastosowanie do całego zespołu pojazdów, jeśli pojazd ciągnący zarejestrowany jest na terytorium państwa jednej ze Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Zezwolenia są ważne jeden rok kalendarzowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Nie wymaga zezwolenia wykonywanie następujących przewozów:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "mienia ruchomego przy przesiedleniach;",
+     "path": "art_2/ust_3",
+     "text": "autobus — pojazd samochodowy przeznaczony do przewozu osób i posiadający ponad 9 miejsc siedzących, włączając w to miejsce kierowcy;",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "materiałów i przedmiotów, w tym dzieł sztuki, przeznaczonych na targi, wystawy lub na imprezy o charakterze niehandlowym;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "środków transportowych, zwierząt, inwentarza i mienia sportowego przeznaczonego na imprezy sportowe;",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "dekoracji i rekwizytów teatralnych, instrumentów muzycznych, materiałów i przedmiotów przeznaczonych wyłącznie dla celów reklamowych i informacyjnych, sprzętu przeznaczonego do wykonywania zapisów radiofonicznych, zdjęć filmowych i telewizyjnych oraz przedstawień cyrkowych;",
+     "path": "art_2/ust_4",
+     "text": "regularny przewóz osób — przewóz osób autobusem, wykonywany na podstawie uzgodnionego rozkładu jazdy, taryf i trasy przejazdu;",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "5",
-     "path": "ust_1/pkt_5",
-     "text": "zwłok lub urn z prochami zmarłych;",
-     "children": []
+     "path": "art_2/ust_5",
+     "text": "wahadłowe przewozy — wielokrotne przewozy zorganizowanych grup podróżnych tam i z powrotem, między tym samym miejscem początkowym i tym samym miejscem docelowym, przy spełnieniu następujących dodatkowych warunków:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_5/pkt_1",
+       "text": "każda grupa osób przewieziona do miejsca docelowego wraca w tym samym składzie do miejsca początkowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_5/pkt_2",
+       "text": "zakwaterowanie w miejscu docelowym lub podczas podróży;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/ust_5/pkt_3",
+       "text": "pierwszy przejazd powrotny i ostatni przejazd docelowy odbywają się autobusem bez podróżnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jako miejsce początkowe i docelowe należy rozumieć miejscowość odjazdu lub przeznaczenia, jak również miejscowości położone w promieniu 50 kilometrów od miejscowości odjazdu lub przeznaczenia;"
+        }
+       ]
+      }
+     ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "6",
-     "path": "ust_1/pkt_6",
-     "text": "wykonywanych w ramach pomocy humanitarnej i medycznej, ratownictwa lub w przypadku klęsk żywiołowych;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "7",
-     "path": "ust_1/pkt_7",
-     "text": "wykonywanych pojazdami o ładowności łącznie z przyczepą do 3,5 tony lub dopuszczalnej masie całkowitej łącznie z przyczepą do 6,0 ton.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Nie wymagają zezwoleń przejazdy:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "pojazdów bez rzeczy, które mają zamienić uszkodzone pojazdy i przejąć rzeczy z pojazdów uszkodzonych na terytorium państwa drugiej Strony lub na terytorium państwa trzeciego;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "pojazdów pomocy drogowej.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony mogą uzgodnić, że przewozy inne niż wymienione w ustępie 1 i przejazdy inne niż określone w ustępie 2 niniejszego artykułu nie wymagają zezwolenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przewozy pojazdami, których masa całkowita, nacisk osi lub wymiary z ładunkiem lub bez ładunku przekraczają normy dopuszczone na terytorium państwa drugiej Strony wymagają specjalnego zezwolenia określonego w przepisach prawa wewnętrznego państwa tej Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zezwolenie specjalne, o którym mowa w ustępie 1 niniejszego artykułu, może ograniczać przejazd pojazdu do określonej trasy bądź nakładać inne obowiązki lub ograniczenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zezwolenie specjalne zastępuje zezwolenie, o którym mowa w artykule 5 ustęp 1 niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przewóz towarów niebezpiecznych i towarów o przeznaczeniu wojskowym, a także ich tranzyt przez terytorium państw Stron, wykonywany jest zgodnie z przepisami prawa wewnętrznego państw Stron.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Postanowienia ogólne"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Zezwolenia i inne dokumenty, wymagane stosownie do postanowień niniejszej umowy oraz przepisów prawa wewnętrznego państw Stron, powinny znajdować się w pojeździe i być okazywane na każde żądanie organów kontroli."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Przewozy osób i rzeczy w ramach niniejszej umowy podlegają cłom, podatkom, opłatom i innym płatnościom zgodnie z przepisami prawa wewnętrznego państw Stron, z wyłączeniem opłat i płatności związanych z korzystaniem i utrzymaniem dróg, jeśli takie opłaty i płatności nie są stosowane do pojazdów zarejestrowanych na terytorium państwa danej Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wyposażenie oraz zapasy niezbędne do normalnej eksploatacji pojazdu, w tym materiały pędne w zbiorniku paliwa przewidzianym fabrycznie dla danego rodzaju pojazdu oraz oleje i smary zwalnia się z ceł, podatków i innych płatności przy wwozie na terytorium państwa Strony, zgodnie z przepisami prawa wewnętrznego państwa tej Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Części zamienne, które są czasowo wwożone w celu naprawy uszkodzonego pojazdu lub który uległ awarii na terytorium państwa drugiej Strony, zwalnia się z ceł, podatków i innych płatności, zgodnie z przepisami prawa wewnętrznego państwa tej Strony.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Niewykorzystane części zapasowe i części wymienione powinny być wywiezione z terytorium państwa drugiej Strony, zgodnie z przepisami prawa wewnętrznego państwa tej Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu zapewnienia prawidłowej realizacji postanowień niniejszej umowy właściwe organy Stron tworzą Komisję Mieszaną.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Posiedzenia Komisji Mieszanej odbywają się na prośbę jednej ze Stron, na przemian na terytorium Rzeczypospolitej Polskiej i Republiki Uzbekistanu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Podstawowymi zadaniami Komisji Mieszanej są:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "określenie trybu i warunków wydawania zezwoleń na przewozy osób;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "określenie kategorii zezwoleń na przewozy rzeczy oraz warunki i sposoby ich wykorzystywania;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "wymiana informacji o właściwych organach, odpowiedzialnych za realizację poszczególnych postanowień niniejszej umowy;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_3/pkt_4",
-     "text": "rozpatrywanie spraw, które mogą się pojawić w związku z realizacją niniejszej umowy.",
+     "path": "art_2/ust_6",
+     "text": "okazjonalne przewozy osób — przewozy inne niż określone w ustępach 4 i 5 niniejszego artykułu.",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 12"
+       "text": "Przewozy osób"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W przypadku naruszenia postanowień niniejszej umowy przez przewoźnika jednej Strony na terytorium państwa drugiej Strony, właściwe organy państwa drugiej Strony poinformują o tym naruszeniu właściwe organy państwa Strony, na terytorium której pojazd jest zarejestrowany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy państwa Strony, na terytorium której miało miejsce naruszenie, mogą zwrócić się do właściwych organów państwa drugiej Strony o podjęcie odpowiednich środków wobec przewoźnika, który dopuścił się naruszenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy państw Stron powinny poinformować się wzajemnie o podjętych środkach.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Regularne, wahadłowe i okazjonalne przewozy osób autobusami są wykonywane na podstawie zezwoleń określonych w przepisach prawa wewnętrznego państw Stron, z wyjątkiem przewozów określonych w artykule 4, które wykonywane są bez zezwoleń.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Niniejsza umowa nie narusza praw i obowiązków Stron wynikających z innych umów międzynarodowych, którymi związane są Strony."
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Zezwolenia na regularne przewozy osób wydawane są, po wzajemnym uzgodnieniu przez właściwe organy państw Stron, na część przewozu wykonywaną na terytorium ich państw.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Okazjonalne przewozy osób autobusami są wykonywane bez zezwoleń pod warunkiem, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_1/pkt_1",
+       "text": "autobus przewozi tę samą grupę podróżnych w obu kierunkach bez wymiany lub pozostawiania osób na terytorium państwa drugiej Strony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_1/pkt_2",
+       "text": "przejazd autobusu z podróżnymi odbywa się w jednym kierunku, a w kierunku powrotnym następuje przejazd autobusu bez podróżnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_4/ust_1/pkt_3",
+       "text": "przejazd autobusu bez podróżnych odbywa się w celu zabrania i przewiezienia z powrotem grupy podróżnych wwiezionej wcześniej przez tego samego przewoźnika.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Przy wykonywaniu przewozów przewidzianych w ustępie 1 niniejszego artykułu, kierowca autobusu obowiązany jest posiadać dokument zawierający listę podróżnych zgodną ze wzorem określonym przez właściwe organy państw Stron.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przewozy rzeczy"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Przewozy rzeczy między terytoriami państw Stron, a także tranzytem przez ich terytoria, jak również do/z krajów trzecich, z wyłączeniem przewozów określonych w artykule 6 niniejszej umowy, wykonywane są przez pojazdy na podstawie zezwoleń wydawanych przez właściwe organy państw Stron.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Przewoźnicy jednej Strony, jak również załogi pojazdów obowiązani są — podczas swojego pobytu na terytorium państwa drugiej Strony — przestrzegać przepisów prawa wewnętrznego państwa tej Strony."
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Na każdy przejazd i na każdy pojazd powinno być wydane osobne zezwolenie. Zezwolenie uprawnia do jednego przejazdu „tam” i „z powrotem”. Przejazd pojazdu bez rzeczy wymaga również zezwolenia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Właściwe organy państw Stron każdego roku przekazują sobie wzajemnie uzgodnioną liczbę zezwoleń.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sprawy nieuregulowane niniejszą umową oraz umowami międzynarodowymi, którymi związane są obie Strony, będą rozstrzygane zgodnie z przepisami prawa wewnętrznego państw Stron."
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Przy przejazdach zespołu pojazdów, w których pojazd ciągnący oraz przyczepa lub naczepa zarejestrowane są w różnych państwach, postanowienia niniejszej umowy mają zastosowanie do całego zespołu pojazdów, jeśli pojazd ciągnący zarejestrowany jest na terytorium państwa jednej ze Stron.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "Zezwolenia są ważne jeden rok kalendarzowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Nie wymaga zezwolenia wykonywanie następujących przewozów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_6/ust_1/pkt_1",
+       "text": "mienia ruchomego przy przesiedleniach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_6/ust_1/pkt_2",
+       "text": "materiałów i przedmiotów, w tym dzieł sztuki, przeznaczonych na targi, wystawy lub na imprezy o charakterze niehandlowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_6/ust_1/pkt_3",
+       "text": "środków transportowych, zwierząt, inwentarza i mienia sportowego przeznaczonego na imprezy sportowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_6/ust_1/pkt_4",
+       "text": "dekoracji i rekwizytów teatralnych, instrumentów muzycznych, materiałów i przedmiotów przeznaczonych wyłącznie dla celów reklamowych i informacyjnych, sprzętu przeznaczonego do wykonywania zapisów radiofonicznych, zdjęć filmowych i telewizyjnych oraz przedstawień cyrkowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_6/ust_1/pkt_5",
+       "text": "zwłok lub urn z prochami zmarłych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_6/ust_1/pkt_6",
+       "text": "wykonywanych w ramach pomocy humanitarnej i medycznej, ratownictwa lub w przypadku klęsk żywiołowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_6/ust_1/pkt_7",
+       "text": "wykonywanych pojazdami o ładowności łącznie z przyczepą do 3,5 tony lub dopuszczalnej masie całkowitej łącznie z przyczepą do 6,0 ton.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Nie wymagają zezwoleń przejazdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_6/ust_2/pkt_1",
+       "text": "pojazdów bez rzeczy, które mają zamienić uszkodzone pojazdy i przejąć rzeczy z pojazdów uszkodzonych na terytorium państwa drugiej Strony lub na terytorium państwa trzeciego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_6/ust_2/pkt_2",
+       "text": "pojazdów pomocy drogowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Strony mogą uzgodnić, że przewozy inne niż wymienione w ustępie 1 i przejazdy inne niż określone w ustępie 2 niniejszego artykułu nie wymagają zezwolenia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Przewozy pojazdami, których masa całkowita, nacisk osi lub wymiary z ładunkiem lub bez ładunku przekraczają normy dopuszczone na terytorium państwa drugiej Strony wymagają specjalnego zezwolenia określonego w przepisach prawa wewnętrznego państwa tej Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Zezwolenie specjalne, o którym mowa w ustępie 1 niniejszego artykułu, może ograniczać przejazd pojazdu do określonej trasy bądź nakładać inne obowiązki lub ograniczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Zezwolenie specjalne zastępuje zezwolenie, o którym mowa w artykule 5 ustęp 1 niniejszej umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Przewóz towarów niebezpiecznych i towarów o przeznaczeniu wojskowym, a także ich tranzyt przez terytorium państw Stron, wykonywany jest zgodnie z przepisami prawa wewnętrznego państw Stron.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Postanowienia ogólne"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Zezwolenia i inne dokumenty, wymagane stosownie do postanowień niniejszej umowy oraz przepisów prawa wewnętrznego państw Stron, powinny znajdować się w pojeździe i być okazywane na każde żądanie organów kontroli.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Przewozy osób i rzeczy w ramach niniejszej umowy podlegają cłom, podatkom, opłatom i innym płatnościom zgodnie z przepisami prawa wewnętrznego państw Stron, z wyłączeniem opłat i płatności związanych z korzystaniem i utrzymaniem dróg, jeśli takie opłaty i płatności nie są stosowane do pojazdów zarejestrowanych na terytorium państwa danej Strony.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Wyposażenie oraz zapasy niezbędne do normalnej eksploatacji pojazdu, w tym materiały pędne w zbiorniku paliwa przewidzianym fabrycznie dla danego rodzaju pojazdu oraz oleje i smary zwalnia się z ceł, podatków i innych płatności przy wwozie na terytorium państwa Strony, zgodnie z przepisami prawa wewnętrznego państwa tej Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Części zamienne, które są czasowo wwożone w celu naprawy uszkodzonego pojazdu lub który uległ awarii na terytorium państwa drugiej Strony, zwalnia się z ceł, podatków i innych płatności, zgodnie z przepisami prawa wewnętrznego państwa tej Strony.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Niewykorzystane części zapasowe i części wymienione powinny być wywiezione z terytorium państwa drugiej Strony, zgodnie z przepisami prawa wewnętrznego państwa tej Strony."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "W celu zapewnienia prawidłowej realizacji postanowień niniejszej umowy właściwe organy Stron tworzą Komisję Mieszaną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Posiedzenia Komisji Mieszanej odbywają się na prośbę jednej ze Stron, na przemian na terytorium Rzeczypospolitej Polskiej i Republiki Uzbekistanu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Podstawowymi zadaniami Komisji Mieszanej są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/ust_3/pkt_1",
+       "text": "określenie trybu i warunków wydawania zezwoleń na przewozy osób;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_3/pkt_2",
+       "text": "określenie kategorii zezwoleń na przewozy rzeczy oraz warunki i sposoby ich wykorzystywania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_11/ust_3/pkt_3",
+       "text": "wymiana informacji o właściwych organach, odpowiedzialnych za realizację poszczególnych postanowień niniejszej umowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_11/ust_3/pkt_4",
+       "text": "rozpatrywanie spraw, które mogą się pojawić w związku z realizacją niniejszej umowy.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "W przypadku naruszenia postanowień niniejszej umowy przez przewoźnika jednej Strony na terytorium państwa drugiej Strony, właściwe organy państwa drugiej Strony poinformują o tym naruszeniu właściwe organy państwa Strony, na terytorium której pojazd jest zarejestrowany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Właściwe organy państwa Strony, na terytorium której miało miejsce naruszenie, mogą zwrócić się do właściwych organów państwa drugiej Strony o podjęcie odpowiednich środków wobec przewoźnika, który dopuścił się naruszenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Właściwe organy państw Stron powinny poinformować się wzajemnie o podjętych środkach.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Niniejsza umowa nie narusza praw i obowiązków Stron wynikających z innych umów międzynarodowych, którymi związane są Strony.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Przewoźnicy jednej Strony, jak również załogi pojazdów obowiązani są — podczas swojego pobytu na terytorium państwa drugiej Strony — przestrzegać przepisów prawa wewnętrznego państwa tej Strony.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Sprawy nieuregulowane niniejszą umową oraz umowami międzynarodowymi, którymi związane są obie Strony, będą rozstrzygane zgodnie z przepisami prawa wewnętrznego państw Stron.",
+   "children": [
     {
      "type": "text",
      "text": "Postanowienia końcowe"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Do niniejszej umowy, po wzajemnym uzgodnieniu, Strony mogą wprowadzić zmiany i uzupełnienia, które wchodzą w życie zgodnie z procedurą określoną w artykule 17 niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza wchodzi w życie po upływie trzydziestu dni od dnia otrzymania ostatniej noty potwierdzającej spełnienie przez Strony procedur prawa wewnętrznego, niezbędnych dla wejścia w życie umowy.",
-   "children": []
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Do niniejszej umowy, po wzajemnym uzgodnieniu, Strony mogą wprowadzić zmiany i uzupełnienia, które wchodzą w życie zgodnie z procedurą określoną w artykule 17 niniejszej umowy.",
+   "children": [],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umowa niniejsza jest zawarta na czas nieokreślony. Każda Strona drogą dyplomatyczną może zawiadomić drugą Stronę o zamiarze wypowiedzenia niniejszej umowy. W takim przypadku niniejsza umowa traci moc po upływie sześciu miesięcy od dnia zawiadomienia.",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Umowę niniejszą sporządzono w Warszawie dnia 10 lipca 2003 r. w dwóch egzemplarzach, każdy w językach polskim, uzbeckim i rosyjskim, przy czym wszystkie teksty mają jednakową moc."
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Umowa niniejsza wchodzi w życie po upływie trzydziestu dni od dnia otrzymania ostatniej noty potwierdzającej spełnienie przez Strony procedur prawa wewnętrznego, niezbędnych dla wejścia w życie umowy.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W razie rozbieżności przy interpretacji postanowień niniejszej umowy tekst w języku rosyjskim uważany będzie za rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Uzbekistanu"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 4-19 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Umowa niniejsza jest zawarta na czas nieokreślony. Każda Strona drogą dyplomatyczną może zawiadomić drugą Stronę o zamiarze wypowiedzenia niniejszej umowy. W takim przypadku niniejsza umowa traci moc po upływie sześciu miesięcy od dnia zawiadomienia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Umowę niniejszą sporządzono w Warszawie dnia 10 lipca 2003 r. w dwóch egzemplarzach, każdy w językach polskim, uzbeckim i rosyjskim, przy czym wszystkie teksty mają jednakową moc."
+      },
+      {
+       "type": "text",
+       "text": "W razie rozbieżności przy interpretacji postanowień niniejszej umowy tekst w języku rosyjskim uważany będzie za rozstrzygający."
+      },
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Uzbekistanu"
+      },
+      {
+       "type": "note",
+       "text": "[Strony 4-19 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 17"
   }
  ],
  "annexes": [],

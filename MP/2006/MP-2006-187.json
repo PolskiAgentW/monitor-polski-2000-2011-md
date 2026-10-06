@@ -45,293 +45,306 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Dla celów umowy uznaje się, że:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "określenie „szkoła wyższa” odnosi się do wszystkich instytucji, które zgodnie z porządkiem prawnym państwa każdej z Umawiających się Stron mają charakter szkół wyższych lub są uprawnione do nadawania stopni i tytułów;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "określenie „dokument o wykształceniu oraz o nadaniu stopni i tytułów”:",
+   "path": "art_1",
+   "text": "Dla celów umowy uznaje się, że:",
    "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_2/lit_a",
-     "text": "w Rzeczypospolitej Polskiej oznacza: świadectwo dojrzałości, dyplomy ukończenia studiów, dyplomy nadania stopni naukowych „doktor” i „doktor habilitowany”, dyplomy nadania stopni „doktor sztuki” i „doktor habilitowany sztuki”, a także dokumenty nadania tytułu naukowego „profesor” lub tytułu „profesor sztuki”, DOHODA",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "medzi vládou Pol’skej republiky a vládou Slovenskej republiky o vzájomnom uznávaní častí štúdia a rovnocennosti dokladov o vzdelaní,hodností a titulov získaných v Pol’skej republike a v Slovenskej republike"
-    },
-    {
-     "type": "text",
-     "text": "Vláda Pol’skej republiky avláda Slovenskej repuliky (d’alej len „zmluvné strany”),"
-    },
-    {
-     "type": "text",
-     "text": "v duchu priatel’stva charakterizujúceho vzt’ahy medzi obidvomi štátmi,"
-    },
-    {
-     "type": "text",
-     "text": "majúcna zreteli prehlbovanie spolupráce voblasti vedy a vzdelávania,"
-    },
-    {
-     "type": "text",
-     "text": "vyjadrujúcvôl’uul’ahčit’ mobilitu študentov apracovníkov vysokých škôl oboch štátov,"
-    },
-    {
-     "type": "text",
-     "text": "dohodli sa takto:"
-    },
-    {
-     "type": "text",
-     "text": "Článok 1"
-    },
-    {
-     "type": "text",
-     "text": "Na účely tejto dohody sa"
-    },
-    {
-     "type": "text",
-     "text": "(1) pojem „vysoká škola” vzt’ahuje na všetky inštitúcie, ktoré v súlade s právnym poriadkom štátu každej zmluvnej strany majú charakter vysokej školy alebo majú právo udel’ovat’ vedecké hodnosti,"
-    },
-    {
-     "type": "text",
-     "text": "(2) pojem „doklad o vzdelaní, udelených hodnostiach a tituloch”"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_2/lit_a",
-     "text": "v Pol’skej republike vzt’ahuje na maturitné vysvedčenie, diplomy o skončení štúdia, diplomy oudelení vedeckých hodností „doktor” alebo „doktor habilitowany”, diplomy o udelení hodností „doktor sztuki” alebo „doktor habilitowany sztuki”, ako aj na doklady o udelení redeckého titulu „profesor” alebo titulu „profesor sztuki”,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_2/lit_b",
-     "text": "w Republice Słowackiej oznacza: świadectwo egzaminu maturalnego, dokumenty ukończenia studiów, dokumenty nadania tytułów naukowo-pedagogicznych lub artystyczno-pedagogicznych „docent” i „profesor”, a także dyplomy nadania stopnia naukowego;",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "określenie „egzamin”:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_3/lit_a",
-     "text": "w Rzeczypospolitej Polskiej odnosi się do egzaminów końcowych, jak również egzaminów semestralnych i rocznych złożonych w okresie studiów,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_3/lit_b",
-     "text": "w Republice Słowackiej odnosi się do egzaminów państwowych, egzaminów końcowych, jak również egzaminów semestralnych i rocznych złożonych w okresie studiów.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 2"
-      },
-      {
-       "type": "text",
-       "text": "Świadectwo dojrzałości uzyskane w Rzeczypospolitej Polskiej i świadectwo egzaminu maturalnego uzyskane w Republice Słowackiej uznaje się za równoważne oraz dające prawo do ubiegania się o przyjęcie do szkół wyższych w państwie każdej z Umawiających się Stron."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 3"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Na wniosek studenta będą zaliczane i uznawane przez szkoły wyższe Umawiających się Stron okresy studiów, osiągnięte wyniki oraz zdane egzaminy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadku różnic programowych uznanie okresów studiów może być uzależnione od zdania egzaminów uzupełniających.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Dyplomy potwierdzające uzyskanie tytułu zawodowego „licencjat” lub „inżynier” w Rzeczypospolitej Polskiej oraz dyplomy potwierdzające uzyskanie akademickiego tytułu „bakalár” (w skrócie „Bc.”) w Republice Słowackiej uznaje się za równoważne."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dyplomy potwierdzające ukończenie studiów magisterskich w Rzeczypospolitej Polskiej oraz dyplomy potwierdzające ukończenie studiów wyższych w programie studiów drugiego stopnia w Republice Słowackiej uznaje się za równoważne, zgodnie z tabelą porównawczą, która stanowi załącznik do niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dyplomy, o których mowa w ust. 1, dają ich posiadaczom prawo do ubiegania się o przyjęcie na studia doktoranckie, nadanie stopnia naukowego „doktor” lub stopnia „doktor sztuki” w Rzeczypospolitej Polskiej oraz przyjęcia na studia doktoranckie i nadanie tytułu akademickiego „doktor” („philosophiae doctor”, w skrócie: „PhD.”) lub tytułu akademickiego „doktor umenia” („artis doctor”, w skrócie: „ArtD.”) w Republice Słowackiej.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "v Slovenskej republike vzt’ahuje na vysvedčenie o maturitnej skúške, doklady o absolvovaní štúdia, doklady o udelení vedecko-pedagogických alebo umelecko-pedagogických titulov „docent” alebo „profesor”, ako aj na diplom o udelení vedeckej hodnosti,",
-     "children": [
-      {
-       "type": "text",
-       "text": "(3) pojem „skúška”"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "vPol’skej republike vzt’ahuje na záverečné skúšky, ako aj na semestrálne skúšky a ročníkové skúšky vykonané počas štúdia,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "vSlovenskej republike vzt’ahuje na štátne skúšky, záverečné skúšky, ako aj na semestrálne skúšky a ročníkové skúšky vykonané počas štúdia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Článok 2"
-      },
-      {
-       "type": "text",
-       "text": "Maturitné vysvedčenie vydané vPol’skej republike a vysvedčenie o maturitnej skúške vydané v Slovenskej republike sa uznávajú za rovnocenné aoprávňujú uchádzat’ sa o prijatie na vysoké školy v štáte každej zo zmluvných strán."
-      },
-      {
-       "type": "text",
-       "text": "Článok 3"
-      },
-      {
-       "type": "text",
-       "text": "(1) Na žiadost’ študenta budú vysoké školy oboch zmluvných strán započítavat’ alebo uznávat’ časti štúdia, dosiahnuté výsledky a vykonané skúšky."
-      },
-      {
-       "type": "text",
-       "text": "(2) V prípade rozdielnych programov môže byt’ uznanie časti štúdia podmienené vykonaním doplňujúcich skúšok."
-      },
-      {
-       "type": "text",
-       "text": "Článok 4"
-      },
-      {
-       "type": "text",
-       "text": "Diplomy potvrdzujúce získanie profesijného titulu „licencjat” alebo „inżynier” vPol’skej republike adiplomy potvrdzujúce získanie akademického titulu „bakalár” (skratka „Bc.”) v Slovenskej republike sa uznávajú za rovnocenné."
-      },
-      {
-       "type": "text",
-       "text": "Článok 5"
-      },
-      {
-       "type": "text",
-       "text": "(1) Diplomy potvrdzujúce skončenie magisterského štúdia v Pol’skej republike a diplomy potvrdzujúce skončenie vysokoškolského štúdia v študijnom programe druhého stupňa v Slovenskej republike sa uznávajú za rovnocenné podl’aporovnávacej tabul’ky, ktorá je prílohou tejto dohody."
-      },
-      {
-       "type": "text",
-       "text": "(2) Diplomy uvedené v odseku 1 oprávňujú ich držitel’ov uchádzat’ sa o prijatie na doktorandské štúdium a udelenie vedeckej hodnosti „doktor” alebo hodnosti „doktor sztuki” vPol’skej republike aoprijatie na doktorandské štúdium a udelenie akademického titulu „doktor” („philosophiae doctor”, skratka „PhD.”) alebo akademického titulu „doktor umenia” („artis doctor”, skratka „ArtD.”) vSlovenskej republike."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dyplomy nadania stopnia naukowego „doktor” lub stopnia „doktor sztuki” uzyskane w Rzeczypospolitej Polskiej oraz dyplomy nadania tytułu akademickiego „doktor” („philosophiae doctor”, w skrócie: „PhD.”) lub tytułu akademickiego „doctor umenia” („artis doctor”, w skrócie: „ArtD.”) uzyskane w Republice Słowackiej uznaje się za równoważne.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dyplomy, o których mowa w ust. 1, dają ich posiadaczom prawo do ubiegania się o nadanie stopnia naukowego „doktor habilitowany” lub stopnia „doktor habilitowany sztuki” w Rzeczypospolitej Polskiej oraz stopnia naukowego „doktor vied” (w skrócie: „DrSc.”) albo tytułu naukowo-pedagogicznego lub artystyczno-pedagogicznego „docent” (w skrócie: „doc.”) w Republice Słowackiej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Dyplomy nadania stopnia naukowego „doktor habilitowany” lub stopnia „doktor habilitowany sztuki” uzyskane w Rzeczypospolitej Polskiej oraz dokumenty nadania tytułu naukowo-pedagogicznego lub artystyczno-pedagogicznego „docent” (w skrócie: „doc.”) oraz dyplomy o nadaniu stopnia naukowego „doctor vied” (w skrócie: „DrSc.”) uzyskane w Republice Słowackiej uznaje się za równoważne."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Dokumenty nadania tytułu naukowego „profesor” lub tytułu „profesor sztuki” uzyskane w Rzeczypospolitej Polskiej oraz dokumenty nadania tytułu naukowo-pedagogicznego lub artystyczno-pedagogicznego „profesor” (w skrócie: „prof.”) uzyskane w Republice Słowackiej uznaje się za równoważne."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Dokumenty o wykształceniu oraz nadaniu stopni i tytułów wydane zgodnie z wcześniej obowiązującymi przepisami będą uznane za równoważne zgodnie z prawem obowiązującym w tym zakresie w państwie każdej z Umawiających się Stron."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Osoba, której przyznano:"
-    },
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_1/pkt_1",
+     "text": "określenie „szkoła wyższa” odnosi się do wszystkich instytucji, które zgodnie z porządkiem prawnym państwa każdej z Umawiających się Stron mają charakter szkół wyższych lub są uprawnione do nadawania stopni i tytułów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "określenie „dokument o wykształceniu oraz o nadaniu stopni i tytułów”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "w Rzeczypospolitej Polskiej oznacza: świadectwo dojrzałości, dyplomy ukończenia studiów, dyplomy nadania stopni naukowych „doktor” i „doktor habilitowany”, dyplomy nadania stopni „doktor sztuki” i „doktor habilitowany sztuki”, a także dokumenty nadania tytułu naukowego „profesor” lub tytułu „profesor sztuki”, DOHODA",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "medzi vládou Pol’skej republiky a vládou Slovenskej republiky o vzájomnom uznávaní častí štúdia a rovnocennosti dokladov o vzdelaní,hodností a titulov získaných v Pol’skej republike a v Slovenskej republike"
+      },
+      {
+       "type": "text",
+       "text": "Vláda Pol’skej republiky avláda Slovenskej repuliky (d’alej len „zmluvné strany”),"
+      },
+      {
+       "type": "text",
+       "text": "v duchu priatel’stva charakterizujúceho vzt’ahy medzi obidvomi štátmi,"
+      },
+      {
+       "type": "text",
+       "text": "majúcna zreteli prehlbovanie spolupráce voblasti vedy a vzdelávania,"
+      },
+      {
+       "type": "text",
+       "text": "vyjadrujúcvôl’uul’ahčit’ mobilitu študentov apracovníkov vysokých škôl oboch štátov,"
+      },
+      {
+       "type": "text",
+       "text": "dohodli sa takto:"
+      },
+      {
+       "type": "text",
+       "text": "Článok 1"
+      },
+      {
+       "type": "text",
+       "text": "Na účely tejto dohody sa"
+      },
+      {
+       "type": "text",
+       "text": "(1) pojem „vysoká škola” vzt’ahuje na všetky inštitúcie, ktoré v súlade s právnym poriadkom štátu každej zmluvnej strany majú charakter vysokej školy alebo majú právo udel’ovat’ vedecké hodnosti,"
+      },
+      {
+       "type": "text",
+       "text": "(2) pojem „doklad o vzdelaní, udelených hodnostiach a tituloch”"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "v Pol’skej republike vzt’ahuje na maturitné vysvedčenie, diplomy o skončení štúdia, diplomy oudelení vedeckých hodností „doktor” alebo „doktor habilitowany”, diplomy o udelení hodností „doktor sztuki” alebo „doktor habilitowany sztuki”, ako aj na doklady o udelení redeckého titulu „profesor” alebo titulu „profesor sztuki”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "w Republice Słowackiej oznacza: świadectwo egzaminu maturalnego, dokumenty ukończenia studiów, dokumenty nadania tytułów naukowo-pedagogicznych lub artystyczno-pedagogicznych „docent” i „profesor”, a także dyplomy nadania stopnia naukowego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "określenie „egzamin”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "w Rzeczypospolitej Polskiej odnosi się do egzaminów końcowych, jak również egzaminów semestralnych i rocznych złożonych w okresie studiów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "w Republice Słowackiej odnosi się do egzaminów państwowych, egzaminów końcowych, jak również egzaminów semestralnych i rocznych złożonych w okresie studiów.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Świadectwo dojrzałości uzyskane w Rzeczypospolitej Polskiej i świadectwo egzaminu maturalnego uzyskane w Republice Słowackiej uznaje się za równoważne oraz dające prawo do ubiegania się o przyjęcie do szkół wyższych w państwie każdej z Umawiających się Stron.",
+   "children": [],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Na wniosek studenta będą zaliczane i uznawane przez szkoły wyższe Umawiających się Stron okresy studiów, osiągnięte wyniki oraz zdane egzaminy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "W przypadku różnic programowych uznanie okresów studiów może być uzależnione od zdania egzaminów uzupełniających.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dyplomy potwierdzające uzyskanie tytułu zawodowego „licencjat” lub „inżynier” w Rzeczypospolitej Polskiej oraz dyplomy potwierdzające uzyskanie akademickiego tytułu „bakalár” (w skrócie „Bc.”) w Republice Słowackiej uznaje się za równoważne.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Dyplomy potwierdzające ukończenie studiów magisterskich w Rzeczypospolitej Polskiej oraz dyplomy potwierdzające ukończenie studiów wyższych w programie studiów drugiego stopnia w Republice Słowackiej uznaje się za równoważne, zgodnie z tabelą porównawczą, która stanowi załącznik do niniejszej umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Dyplomy, o których mowa w ust. 1, dają ich posiadaczom prawo do ubiegania się o przyjęcie na studia doktoranckie, nadanie stopnia naukowego „doktor” lub stopnia „doktor sztuki” w Rzeczypospolitej Polskiej oraz przyjęcia na studia doktoranckie i nadanie tytułu akademickiego „doktor” („philosophiae doctor”, w skrócie: „PhD.”) lub tytułu akademickiego „doktor umenia” („artis doctor”, w skrócie: „ArtD.”) w Republice Słowackiej.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_2/lit_b",
+       "text": "v Slovenskej republike vzt’ahuje na vysvedčenie o maturitnej skúške, doklady o absolvovaní štúdia, doklady o udelení vedecko-pedagogických alebo umelecko-pedagogických titulov „docent” alebo „profesor”, ako aj na diplom o udelení vedeckej hodnosti,",
+       "children": [
+        {
+         "type": "text",
+         "text": "(3) pojem „skúška”"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_2/lit_a",
+       "text": "vPol’skej republike vzt’ahuje na záverečné skúšky, ako aj na semestrálne skúšky a ročníkové skúšky vykonané počas štúdia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_2/lit_b",
+       "text": "vSlovenskej republike vzt’ahuje na štátne skúšky, záverečné skúšky, ako aj na semestrálne skúšky a ročníkové skúšky vykonané počas štúdia.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Článok 2"
+        },
+        {
+         "type": "text",
+         "text": "Maturitné vysvedčenie vydané vPol’skej republike a vysvedčenie o maturitnej skúške vydané v Slovenskej republike sa uznávajú za rovnocenné aoprávňujú uchádzat’ sa o prijatie na vysoké školy v štáte každej zo zmluvných strán."
+        },
+        {
+         "type": "text",
+         "text": "Článok 3"
+        },
+        {
+         "type": "text",
+         "text": "(1) Na žiadost’ študenta budú vysoké školy oboch zmluvných strán započítavat’ alebo uznávat’ časti štúdia, dosiahnuté výsledky a vykonané skúšky."
+        },
+        {
+         "type": "text",
+         "text": "(2) V prípade rozdielnych programov môže byt’ uznanie časti štúdia podmienené vykonaním doplňujúcich skúšok."
+        },
+        {
+         "type": "text",
+         "text": "Článok 4"
+        },
+        {
+         "type": "text",
+         "text": "Diplomy potvrdzujúce získanie profesijného titulu „licencjat” alebo „inżynier” vPol’skej republike adiplomy potvrdzujúce získanie akademického titulu „bakalár” (skratka „Bc.”) v Slovenskej republike sa uznávajú za rovnocenné."
+        },
+        {
+         "type": "text",
+         "text": "Článok 5"
+        },
+        {
+         "type": "text",
+         "text": "(1) Diplomy potvrdzujúce skončenie magisterského štúdia v Pol’skej republike a diplomy potvrdzujúce skončenie vysokoškolského štúdia v študijnom programe druhého stupňa v Slovenskej republike sa uznávajú za rovnocenné podl’aporovnávacej tabul’ky, ktorá je prílohou tejto dohody."
+        },
+        {
+         "type": "text",
+         "text": "(2) Diplomy uvedené v odseku 1 oprávňujú ich držitel’ov uchádzat’ sa o prijatie na doktorandské štúdium a udelenie vedeckej hodnosti „doktor” alebo hodnosti „doktor sztuki” vPol’skej republike aoprijatie na doktorandské štúdium a udelenie akademického titulu „doktor” („philosophiae doctor”, skratka „PhD.”) alebo akademického titulu „doktor umenia” („artis doctor”, skratka „ArtD.”) vSlovenskej republike."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Dyplomy nadania stopnia naukowego „doktor” lub stopnia „doktor sztuki” uzyskane w Rzeczypospolitej Polskiej oraz dyplomy nadania tytułu akademickiego „doktor” („philosophiae doctor”, w skrócie: „PhD.”) lub tytułu akademickiego „doctor umenia” („artis doctor”, w skrócie: „ArtD.”) uzyskane w Republice Słowackiej uznaje się za równoważne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Dyplomy, o których mowa w ust. 1, dają ich posiadaczom prawo do ubiegania się o nadanie stopnia naukowego „doktor habilitowany” lub stopnia „doktor habilitowany sztuki” w Rzeczypospolitej Polskiej oraz stopnia naukowego „doktor vied” (w skrócie: „DrSc.”) albo tytułu naukowo-pedagogicznego lub artystyczno-pedagogicznego „docent” (w skrócie: „doc.”) w Republice Słowackiej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Dyplomy nadania stopnia naukowego „doktor habilitowany” lub stopnia „doktor habilitowany sztuki” uzyskane w Rzeczypospolitej Polskiej oraz dokumenty nadania tytułu naukowo-pedagogicznego lub artystyczno-pedagogicznego „docent” (w skrócie: „doc.”) oraz dyplomy o nadaniu stopnia naukowego „doctor vied” (w skrócie: „DrSc.”) uzyskane w Republice Słowackiej uznaje się za równoważne.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Dokumenty nadania tytułu naukowego „profesor” lub tytułu „profesor sztuki” uzyskane w Rzeczypospolitej Polskiej oraz dokumenty nadania tytułu naukowo-pedagogicznego lub artystyczno-pedagogicznego „profesor” (w skrócie: „prof.”) uzyskane w Republice Słowackiej uznaje się za równoważne.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Dokumenty o wykształceniu oraz nadaniu stopni i tytułów wydane zgodnie z wcześniej obowiązującymi przepisami będą uznane za równoważne zgodnie z prawem obowiązującym w tym zakresie w państwie każdej z Umawiających się Stron.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Osoba, której przyznano:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_10/pkt_1",
      "text": "w Rzeczypospolitej Polskiej tytuł zawodowy, stopień lub tytuł,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_10/pkt_2",
      "text": "w Republice Słowackiej akademicki tytuł, naukowo-pedagogiczny tytuł, artystyczno-pedagogiczny tytuł lub stopień naukowy,",
      "children": [
       {
@@ -385,76 +398,85 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_2/pkt_2/lit_a",
+       "path": "art_10/pkt_2/lit_a",
        "text": "vPol’skej republike profesijný titul, hodnost’ alebo titul,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_2/pkt_2/lit_b",
+       "path": "art_10/pkt_2/lit_b",
        "text": "v Slovenskej republike akademický titul, vedecko-pedagogický titul, umelecko-pedagogický titul alebo vedecká hodnost’,",
        "children": []
       },
       {
        "type": "text",
        "text": "ktoré sú vymenované v článkoch 4, 5, 6, 7 a 8 dohody, je oprávnená používat’ ich v podobe, ktorá zodpovedá príslušným právnym predpisom štátov zmluvných strán."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 11"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Kwestie wynikające z niniejszej umowy, a wymagające uzgodnień, będą rozstrzygane przez komisję specjalistów złożoną z sześciu przedstawicieli, po trzech delegowanych przez każdą z Umawiających się Stron. Członków komisji powołują ministrowie edukacji państw Umawiających się Stron. Lista specjalistów zostanie przekazana drugiej Stronie drogą dyplomatyczną.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja specjalistów będzie aktualizować tabelę porównawczą, stanowiącą załącznik do umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Posiedzenia komisji specjalistów będą odbywać się na prośbę jednej z Umawiających się Stron. Miejsce i termin spotkania będą ustalane drogą dyplomatyczną.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 12"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Kwestie wynikające z niniejszej umowy, a wymagające uzgodnień, będą rozstrzygane przez komisję specjalistów złożoną z sześciu przedstawicieli, po trzech delegowanych przez każdą z Umawiających się Stron. Członków komisji powołują ministrowie edukacji państw Umawiających się Stron. Lista specjalistów zostanie przekazana drugiej Stronie drogą dyplomatyczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Komisja specjalistów będzie aktualizować tabelę porównawczą, stanowiącą załącznik do umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Posiedzenia komisji specjalistów będą odbywać się na prośbę jednej z Umawiających się Stron. Miejsce i termin spotkania będą ustalane drogą dyplomatyczną.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega zatwierdzeniu zgodnie z prawem państwa każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Za dzień wejścia w życie umowy uważać się będzie pierwszy dzień trzeciego miesiąca, który nastąpi po doręczeniu noty późniejszej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z dniem wejścia w życie niniejszej umowy traci moc obowiązującą Porozumienie między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Czechosłowackiej Republiki Socjalistycznej w sprawie równoważności dokumentów o wykształceniu, stopniach i tytułach naukowych, wydawanych w Polskiej Rzeczypospolitej Ludowej i Czechosłowackiej Republice Socjalistycznej, sporządzone w Warszawie dnia 16 grudnia 1987 r., wyłącznie w stosunkach między Rzecząpospolitą Polską a Republiką Słowacką.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Niniejsza umowa podlega zatwierdzeniu zgodnie z prawem państwa każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Za dzień wejścia w życie umowy uważać się będzie pierwszy dzień trzeciego miesiąca, który nastąpi po doręczeniu noty późniejszej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umowa niniejsza zawarta jest na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. Umowa traci moc po upływie jednego roku od dnia otrzymania noty wypowiadającej przez drugą Umawiającą się Stronę."
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Z dniem wejścia w życie niniejszej umowy traci moc obowiązującą Porozumienie między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Czechosłowackiej Republiki Socjalistycznej w sprawie równoważności dokumentów o wykształceniu, stopniach i tytułach naukowych, wydawanych w Polskiej Rzeczypospolitej Ludowej i Czechosłowackiej Republice Socjalistycznej, sporządzone w Warszawie dnia 16 grudnia 1987 r., wyłącznie w stosunkach między Rzecząpospolitą Polską a Republiką Słowacką.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Umowa niniejsza zawarta jest na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. Umowa traci moc po upływie jednego roku od dnia otrzymania noty wypowiadającej przez drugą Umawiającą się Stronę.",
+   "children": [
     {
      "type": "text",
      "text": "SPORZĄDZONO w Warszawie dnia 18 lipca 2005 r. w dwóch egzemplarzach, każdy w językach polskim i słowackim, przy czym oba teksty mają jednakową moc."
@@ -503,7 +525,8 @@
      "type": "text",
      "text": "Za vládu Za vládu Pol’skej republiky Slovenskej republiky"
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   }
  ],
  "annexes": [

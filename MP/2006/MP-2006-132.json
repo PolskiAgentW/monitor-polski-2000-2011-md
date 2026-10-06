@@ -33,118 +33,123 @@
    "text": "uzgodnili, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą współpracowały w następujących głównych dziedzinach:"
-  },
-  {
-   "type": "text",
-   "text": "— wymiana informacji o systemach edukacji, planach ich rozwoju i kierunkach reform,"
-  },
-  {
-   "type": "text",
-   "text": "— kształcenie i podnoszenie kwalifikacji kadr pedagogicznych w specjalnościach będących przedmiotem obustronnego zainteresowania,"
-  },
-  {
-   "type": "text",
-   "text": "— rozwój, wspieranie i podnoszenie poziomu nauczania języka polskiego i literatury polskiej w Federacji Rosyjskiej oraz języka rosyjskiego i literatury rosyjskiej w Rzeczypospolitej Polskiej na wszystkich szczeblach nauczania,"
-  },
-  {
-   "type": "text",
-   "text": "— wspieranie współpracy między szkołami wyższymi Państw-Stron w dziedzinie nauki, a w szczególności wspólnych badań nad historią stosunków polsko-rosyjskich,"
-  },
-  {
-   "type": "text",
-   "text": "— przeprowadzanie wspólnych imprez naukowych, konferencji, sympozjów, a także olimpiad i konkursów dla uczniów i studentów,"
-  },
-  {
-   "type": "text",
-   "text": "— rozwój bezpośrednich kontaktów i współpracy między wszystkimi typami placówek edukacyjnych Państw-Stron."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Strony w każdym roku skierują do państwowych szkół wyższych Państw-Stron do 120 osób na naukę trwającą 1 semestr, w tym Strona rosyjska przyjmie do 100 studentów starszych lat studiów uczących się języka rosyjskiego."
-  },
-  {
-   "type": "text",
-   "text": "Okresy pobytu, warunki przyjmowania i liczbę kandydatów w ramach niniejszego artykułu Strony będą uzgadniały corocznie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "text",
-   "text": "Strony każdego roku skierują do państwowych szkół wyższych Państw-Stron pracowników naukowo-dydaktycznych i doktorantów na staże naukowe łącznie do 60 osobomiesięcy."
-  },
-  {
-   "type": "text",
-   "text": "Okresy, warunki pobytu i liczbę stażystów w ramach niniejszego artykułu Strony będą uzgadniały corocznie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 4"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierały rozwój i podnoszenie poziomu nauczania języka polskiego i literatury polskiej w placówkach edukacyjnych Federacji Rosyjskiej oraz języka rosyjskiego i literatury rosyjskiej w placówkach edukacyjnych Rzeczypospolitej Polskiej."
-  },
-  {
-   "type": "text",
-   "text": "W tym celu Strony będą organizowały każdego roku:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "kursy podnoszenia kwalifikacji dla nauczycieli — Strona polska dla nauczycieli języka polskiego z Federacji Rosyjskiej, a Strona rosyjska dla nauczycieli języka rosyjskiego z Rzeczypospolitej Polskiej,",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "letnie kursy językowe — języka polskiego w Rzeczypospolitej Polskiej i języka rosyjskiego w Federacji Rosyjskiej — dla studentów i doktorantów.",
+   "path": "art_1",
+   "text": "Strony będą współpracowały w następujących głównych dziedzinach:",
    "children": [
     {
      "type": "text",
-     "text": "Okresy pobytu, warunki przyjmowania kandydatów i ich liczbę w ramach niniejszego artykułu Strony będą uzgadniały corocznie."
+     "text": "— wymiana informacji o systemach edukacji, planach ich rozwoju i kierunkach reform,"
     },
     {
      "type": "text",
-     "text": "Artykuł 5"
+     "text": "— kształcenie i podnoszenie kwalifikacji kadr pedagogicznych w specjalnościach będących przedmiotem obustronnego zainteresowania,"
     },
     {
      "type": "text",
-     "text": "Strony będą sprzyjały kierowaniu wykładowców i nauczycieli w charakterze lektorów języka polskiego i literatury oraz języka rosyjskiego i literatury do długoterminowej pracy pedagogicznej w placówkach edukacyjnych drugiego Państwa na wniosek Strony przyjmującej."
+     "text": "— rozwój, wspieranie i podnoszenie poziomu nauczania języka polskiego i literatury polskiej w Federacji Rosyjskiej oraz języka rosyjskiego i literatury rosyjskiej w Rzeczypospolitej Polskiej na wszystkich szczeblach nauczania,"
     },
+    {
+     "type": "text",
+     "text": "— wspieranie współpracy między szkołami wyższymi Państw-Stron w dziedzinie nauki, a w szczególności wspólnych badań nad historią stosunków polsko-rosyjskich,"
+    },
+    {
+     "type": "text",
+     "text": "— przeprowadzanie wspólnych imprez naukowych, konferencji, sympozjów, a także olimpiad i konkursów dla uczniów i studentów,"
+    },
+    {
+     "type": "text",
+     "text": "— rozwój bezpośrednich kontaktów i współpracy między wszystkimi typami placówek edukacyjnych Państw-Stron."
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Strony w każdym roku skierują do państwowych szkół wyższych Państw-Stron do 120 osób na naukę trwającą 1 semestr, w tym Strona rosyjska przyjmie do 100 studentów starszych lat studiów uczących się języka rosyjskiego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Okresy pobytu, warunki przyjmowania i liczbę kandydatów w ramach niniejszego artykułu Strony będą uzgadniały corocznie."
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Strony każdego roku skierują do państwowych szkół wyższych Państw-Stron pracowników naukowo-dydaktycznych i doktorantów na staże naukowe łącznie do 60 osobomiesięcy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Okresy, warunki pobytu i liczbę stażystów w ramach niniejszego artykułu Strony będą uzgadniały corocznie."
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony będą popierały rozwój i podnoszenie poziomu nauczania języka polskiego i literatury polskiej w placówkach edukacyjnych Federacji Rosyjskiej oraz języka rosyjskiego i literatury rosyjskiej w placówkach edukacyjnych Rzeczypospolitej Polskiej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W tym celu Strony będą organizowały każdego roku:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_4/pkt_1",
+     "text": "kursy podnoszenia kwalifikacji dla nauczycieli — Strona polska dla nauczycieli języka polskiego z Federacji Rosyjskiej, a Strona rosyjska dla nauczycieli języka rosyjskiego z Rzeczypospolitej Polskiej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_4/pkt_2",
+     "text": "letnie kursy językowe — języka polskiego w Rzeczypospolitej Polskiej i języka rosyjskiego w Federacji Rosyjskiej — dla studentów i doktorantów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okresy pobytu, warunki przyjmowania kandydatów i ich liczbę w ramach niniejszego artykułu Strony będą uzgadniały corocznie."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strony będą sprzyjały kierowaniu wykładowców i nauczycieli w charakterze lektorów języka polskiego i literatury oraz języka rosyjskiego i literatury do długoterminowej pracy pedagogicznej w placówkach edukacyjnych drugiego Państwa na wniosek Strony przyjmującej.",
+   "children": [
     {
      "type": "text",
      "text": "Warunki ich pobytu będą uzgadniane drogą dyplomatyczną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjały zapewnieniu placówkom edukacyjnym, w których wykładany jest odpowiednio język polski i rosyjski oraz przedmioty w tych językach, podręczników, literatury metodycznej i środków dydaktycznych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą dążyły, aby podręczniki szkolne do historii, geografii i literatury obu krajów przyczyniały się do lepszego wzajemnego zrozumienia przez narody Państw-Stron."
-    },
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strony będą sprzyjały zapewnieniu placówkom edukacyjnym, w których wykładany jest odpowiednio język polski i rosyjski oraz przedmioty w tych językach, podręczników, literatury metodycznej i środków dydaktycznych.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą dążyły, aby podręczniki szkolne do historii, geografii i literatury obu krajów przyczyniały się do lepszego wzajemnego zrozumienia przez narody Państw-Stron.",
+   "children": [
     {
      "type": "text",
      "text": "W tym celu reaktywowane będą prace polsko-rosyjskiej Komisji do spraw doskonalenia treści podręczników szkolnych do historii, geografii i literatury."
@@ -152,63 +157,66 @@
     {
      "type": "text",
      "text": "W skład Komisji wejdzie po 5 osób z każdej Strony. Posiedzenia Komisji będą odbywały się raz w roku, na przemian w Rzeczypospolitej Polskiej i Federacji Rosyjskiej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą kontynuowały prace nad projektem Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Federacji Rosyjskiej o wzajemnym uznawaniu okresów studiów oraz równoważności dokumentów o wykształceniu i nadaniu stopni naukowych wydanych w Rzeczypospolitej Polskiej i Federacji Rosyjskiej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjały udziałowi naukowców i specjalistów w seminariach naukowych, konferencjach, sympozjach itp."
-    },
-    {
-     "type": "text",
-     "text": "Warunki uczestnictwa określane będą każdorazowo przez organizatorów przedsięwzięć."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjały realizacji wspólnych przedsięwzięć (konkursów, olimpiad językowych i przedmiotowych, zawodów międzynarodowych, wspólnych programów artystycznych itp.) aktywizujących proces nauczania młodzieży i sprzyjających rozszerzeniu jej zakresu zainteresowania."
-    },
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Strony będą kontynuowały prace nad projektem Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Federacji Rosyjskiej o wzajemnym uznawaniu okresów studiów oraz równoważności dokumentów o wykształceniu i nadaniu stopni naukowych wydanych w Rzeczypospolitej Polskiej i Federacji Rosyjskiej.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Strony będą sprzyjały udziałowi naukowców i specjalistów w seminariach naukowych, konferencjach, sympozjach itp.",
+   "children": [
     {
      "type": "text",
      "text": "Warunki uczestnictwa określane będą każdorazowo przez organizatorów przedsięwzięć."
-    },
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Strony będą sprzyjały realizacji wspólnych przedsięwzięć (konkursów, olimpiad językowych i przedmiotowych, zawodów międzynarodowych, wspólnych programów artystycznych itp.) aktywizujących proces nauczania młodzieży i sprzyjających rozszerzeniu jej zakresu zainteresowania.",
+   "children": [
     {
      "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "W celu omówienia stanu realizacji i perspektyw współpracy Strony będą wymieniały delegacje specjalistów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsze porozumienie nie wyklucza możliwości realizacji innych przedsięwzięć, dodatkowo uzgodnionych przez Strony, w ramach ich kompetencji i zgodnie z ustawodawstwem każdego Państwa-Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsze porozumienie wchodzi w życie z dniem podpisania."
-    },
+     "text": "Warunki uczestnictwa określane będą każdorazowo przez organizatorów przedsięwzięć."
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "W celu omówienia stanu realizacji i perspektyw współpracy Strony będą wymieniały delegacje specjalistów.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Niniejsze porozumienie nie wyklucza możliwości realizacji innych przedsięwzięć, dodatkowo uzgodnionych przez Strony, w ramach ich kompetencji i zgodnie z ustawodawstwem każdego Państwa-Strony.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Niniejsze porozumienie wchodzi w życie z dniem podpisania.",
+   "children": [
     {
      "type": "text",
      "text": "Niniejsze porozumienie jest zawarte na okres 3 lat. Ulega ono automatycznemu przedłużeniu na następne 3 lata, o ile żadna ze Stron, w okresie nie krótszym niż 6 miesięcy przed upływem okresu ważności, nie powiadomi pisemnie drugiej Strony o zamiarze jego wypowiedzenia."
@@ -225,7 +233,8 @@
      "type": "note",
      "text": "[Strony 3-5 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   }
  ],
  "annexes": [],

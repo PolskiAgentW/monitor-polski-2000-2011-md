@@ -45,30 +45,38 @@
    "text": "uzgodniły, co następuje: Acordam o seguinte: Have agreed as follows:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1 Artigo 1 Article 1"
-  },
-  {
-   "type": "text",
-   "text": "Przedmiot umowy ˙mbito Scope"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą przyczyniać się 1. As Partes envidarão todos os 1. The Parties will strive to do umacniania i rozwoju współ- esfor˜os para desenvolver e strengthen and develop pracy w dziedzinie turystyki w celu fortalecer a coopera˜ão no cooperation in the field of tourism lepszego poznania historii i kultury domínio do Turismo, com o with a view of promoting a better obu narodów. objectivo de estimular um melhor understanding of the history and conhecimento da história e da culture of both nations. cultura de ambas as Na˜ões.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Współpraca w dziedzinie tu- 2. A Coopera˜ão no domínio 2. Cooperation in the field of rystyki będzie realizowana zgodnie do Turismo será implementada tourism will be implemented in z postanowieniami niniejszej umo- tendo em considera˜ão as normas accordance with the provisions of wy i prawem obowiązującym estipuladas neste Acordo, bem this Agreement and the national w każdym z Państw Stron. como a legisla˜ão nacional das legislation of the Parties. Partes.",
+   "path": "art_1",
+   "text": "Artigo 1 Article 1",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 2 Artigo 2 Article 2"
+     "text": "Przedmiot umowy ˙mbito Scope"
     },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Strony będą przyczyniać się 1. As Partes envidarão todos os 1. The Parties will strive to do umacniania i rozwoju współ- esfor˜os para desenvolver e strengthen and develop pracy w dziedzinie turystyki w celu fortalecer a coopera˜ão no cooperation in the field of tourism lepszego poznania historii i kultury domínio do Turismo, com o with a view of promoting a better obu narodów. objectivo de estimular um melhor understanding of the history and conhecimento da história e da culture of both nations. cultura de ambas as Na˜ões.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Współpraca w dziedzinie tu- 2. A Coopera˜ão no domínio 2. Cooperation in the field of rystyki będzie realizowana zgodnie do Turismo será implementada tourism will be implemented in z postanowieniami niniejszej umo- tendo em considera˜ão as normas accordance with the provisions of wy i prawem obowiązującym estipuladas neste Acordo, bem this Agreement and the national w każdym z Państw Stron. como a legisla˜ão nacional das legislation of the Parties. Partes.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Artigo 2 Article 2",
+   "children": [
     {
      "type": "text",
      "text": "Współpraca Coopera˜ão Cooperation"
@@ -76,11 +84,16 @@
     {
      "type": "text",
      "text": "Strony będą popierać nawiązy- As Partes apoiarão o The Parties will support the wanie i rozwój współpracy między estabelecimento da coopera˜ão establishment and development of polskimi i portugalskimi przedsię- entre empresários e organiza˜ões cooperation between Polish and biorcami i organizacjami, uczestni- polacas e portuguesas que Portuguese entrepreneurs and czącymi w rozwoju turystyki mię- participem no desenvolvimento do organisations participating in the dzynarodowej, podejmującymi in- turismo a nível internacional, que development of international westycje w dziedzinie turystyki, promovam o investimento turístico tourism, undertaking investments a także prowadzącymi wspólne e trabalhem em ”joint-ventures” in the field of tourism and przedsięwzięcia w celu obsługi tu- com o objectivo de apoiar os operating joint ventures with the rystów. turistas. aim of servicing tourists."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3 Artigo 3 Article 3"
-    },
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Artigo 3 Article 3",
+   "children": [
     {
      "type": "text",
      "text": "Przedmiot współpracy Formas de Coopera˜ão Scope of the Cooperation"
@@ -92,219 +105,251 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_3/lit_a",
      "text": "podejmowanie wspólnych przed- a) da cria˜ão de ”joint-ventures” a) undertaking joint ventures with sięwzięć w celu organizacji ob- com o objectivo de apoiar os the aim of servicing tourists sługi turystów z obu Państw, turistas; from both countries,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_3/lit_b",
      "text": "wymianę specjalistów, b) do intercâmbio de peritos; b) exchange of experts,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_3/lit_c",
      "text": "pomoc w kształceniu kadr dla c) do apoio ∫ forma˜ão de c) assistance in educating turystyki. quadros do sector turístico. personnel for the servicing of tourists.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 4 Artigo 4 Article 4"
-      },
-      {
-       "type": "text",
-       "text": "Wymiana informacji Intercâmbio de Informa˜ão Exchange of Information"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą popierać wymianę As Partes incentivarão a troca The Parties will encourage the informacji w następujących dzie- de informa˜ão nos seguintes exchange of information in the dzinach: domínios: following fields:"
-      }
-     ]
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Artigo 4 Article 4",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wymiana informacji Intercâmbio de Informa˜ão Exchange of Information"
+    },
+    {
+     "type": "text",
+     "text": "Strony będą popierać wymianę As Partes incentivarão a troca The Parties will encourage the informacji w następujących dzie- de informa˜ão nos seguintes exchange of information in the dzinach: domínios: following fields:"
     },
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_4/lit_a",
      "text": "statystyka turystyczna, a) Estatísticas de Turismo; a) tourism statistics,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_4/lit_b",
      "text": "programy kształcenia specjali- b) Programas de forma˜ão de b) educational programmes for stów w dziedzinie turystyki, quadros do sector turístico; tourism experts,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_4/lit_c",
      "text": "działalność promocyjna, c) Actividades promocionais; c) promotional activities,",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_2/lit_d",
+     "path": "art_4/lit_d",
      "text": "akty normatywne związane d) Legisla˜ão no âmbito da pro- d) legislative acts regulating z ochroną przyrody oraz dóbr tec˜ão ambiental e do issues involving environmenkultury, património cultural; tal protection and cultural heritage,",
      "children": []
     },
     {
      "type": "lit",
      "num": "e",
-     "path": "ust_2/lit_e",
+     "path": "art_4/lit_e",
      "text": "akty normatywne regulujące e) Legisla˜ão em vigor no âmbito e) legislative acts regulating działalność turystyczną. da actividade turística. tourism activities.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 5 Artigo 5 Article 5"
-      },
-      {
-       "type": "text",
-       "text": "Warunki współpracy Condi˜ões de Coopera˜ão Conditions for the Cooperation"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą sprzyjać wymianie As Partes comprometem-se a The Parties will create specjalistów i pracowników nauko- criar condi˜ões que permitam o favourable conditions for the wych, specjalizujących się w tema- intercâmbio de peritos e técnicos exchange of experts and scientists tyce turystycznej, a także współ- especializados, assim como a specialising in the field of tourism, pracy instytucji prowadzących ba- coopera˜ão entre as Institui˜ões as well as the cooperation dania w dziedzinie turystyki. responsáveis pela pesquisa no between institutions responsible domínio do Turismo. for conducting research in the field of tourism."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 6 Artigo 6 Article 6"
-      },
-      {
-       "type": "text",
-       "text": "Centra informacji turystycznej Centros de Informa˜ão Turística Tourism Information Centres"
-      },
-      {
-       "type": "text",
-       "text": "Każda ze Stron będzie sprzyjać As Partes incentivarão o Each of the Parties will powstawaniu na terytorium swoje- estabelecimento de Centros encourage the establishment of go Państwa ośrodków informacji Nacionais de Informa˜ão Turística tourism information centres of the turystycznej drugiej Strony. nos dois países. other Party on its own territory."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 7 Artigo 7 Article 7"
-      },
-      {
-       "type": "text",
-       "text": "Współpraca międzynarodowa Coopera˜ão Internacional International Cooperation"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą wymieniać infor- As Partes promoverão o The Parties will exchange macje i dzielić się doświadczenia- intercâmbio de informa˜ão e de information and share know-how mi związanymi z ich udziałem experi˘ncias resultantes das gained as a result of their w pracach międzynarodowych or- respectivas participa˜ões nas participation in international ganizacji turystycznych. Organiza˜ões internacionais de tourism organisations. Turismo."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 8 Artigo 8 Article 8"
-      },
-      {
-       "type": "text",
-       "text": "Komisja Mieszana Comissão Mista Mixed Commission"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony utworzą Komisję Mie- 1. As Partes instituirão uma 1. The Parties will establish a szaną, której zadaniem będzie za- Comissão Mista responsável pelo Mixed Commission responsible pewnienie należytego wykonania cumprimento das disposi˜ões for the proper execution of the postanowień niniejszej umowy estabelecidas no presente Acordo provisions of this Agreement and oraz rozwiązywanie problemów, e pela resolu˜ão de diverg˘ncias seeking solution to any problems które mogą powstać w toku jej re- que possam surgir no decurso da that may arise in the course of its alizacji. sua execu˜ão. execution.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja Mieszana składać 2. A Comissão Mista será 2. The Mixed Commission will się będzie z przedstawicieli wyzna- constituída por representantes dos consist of representatives involved czonych przez Strony, zajmujących Organismos responsáveis pelo in tourism activities and appointed się działalnością w dziedzinie tury- sector do Turismo que serão by the Parties. styki. nomeados pelas Partes.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja Mieszana zbierze się 3. A primeira reunião da 3. The Mixed Commission’s po raz pierwszy w ciągu sześciu Comissão Mista terá lugar seis first meeting will be held within six miesięcy od dnia wejścia umowy meses depois da entrada em vigor months of the Agreement’s w życie. do Acordo. coming into force.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Komisja Mieszana na swym 4. A Comissão Mista redigirá, 4. At the first meeting, the pierwszym posiedzeniu opracuje na primeira reunião, um conjunto Mixed Commission will draw up a regulamin, w którym określi tryb de regulamentos que definirão os set of regulations which will define pracy. procedimentos que orientarão as the procedures governing its suas actividades. activities.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Komisji będą przewodniczyli 5. A Comissão Mista será 5. Representatives of each of przedstawiciele każdej ze Stron. presidida por representantes de the Parties will chair the cada uma das Partes. Commission.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Komisja Mieszana spotykać 6. A Comissão Mista reunirá, 6. The Mixed Commission will się będzie w miarę potrzeb, na pi- de acordo com as necessidades e meet according to needs at the semny wniosek jednej ze Stron, na por pedido escrito de uma das written request of one of the przemian w Rzeczypospolitej Pol- Partes, alternadamente, na Parties, in the Republic of Poland skiej i Republice Portugalskiej. República da Polónia e na and the Portuguese Republic República Portuguesa. alternately.",
+   "path": "art_5",
+   "text": "Artigo 5 Article 5",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 9 Artigo 9 Article 9"
+     "text": "Warunki współpracy Condi˜ões de Coopera˜ão Conditions for the Cooperation"
     },
+    {
+     "type": "text",
+     "text": "Strony będą sprzyjać wymianie As Partes comprometem-se a The Parties will create specjalistów i pracowników nauko- criar condi˜ões que permitam o favourable conditions for the wych, specjalizujących się w tema- intercâmbio de peritos e técnicos exchange of experts and scientists tyce turystycznej, a także współ- especializados, assim como a specialising in the field of tourism, pracy instytucji prowadzących ba- coopera˜ão entre as Institui˜ões as well as the cooperation dania w dziedzinie turystyki. responsáveis pela pesquisa no between institutions responsible domínio do Turismo. for conducting research in the field of tourism."
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Artigo 6 Article 6",
+   "children": [
+    {
+     "type": "text",
+     "text": "Centra informacji turystycznej Centros de Informa˜ão Turística Tourism Information Centres"
+    },
+    {
+     "type": "text",
+     "text": "Każda ze Stron będzie sprzyjać As Partes incentivarão o Each of the Parties will powstawaniu na terytorium swoje- estabelecimento de Centros encourage the establishment of go Państwa ośrodków informacji Nacionais de Informa˜ão Turística tourism information centres of the turystycznej drugiej Strony. nos dois países. other Party on its own territory."
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Artigo 7 Article 7",
+   "children": [
+    {
+     "type": "text",
+     "text": "Współpraca międzynarodowa Coopera˜ão Internacional International Cooperation"
+    },
+    {
+     "type": "text",
+     "text": "Strony będą wymieniać infor- As Partes promoverão o The Parties will exchange macje i dzielić się doświadczenia- intercâmbio de informa˜ão e de information and share know-how mi związanymi z ich udziałem experi˘ncias resultantes das gained as a result of their w pracach międzynarodowych or- respectivas participa˜ões nas participation in international ganizacji turystycznych. Organiza˜ões internacionais de tourism organisations. Turismo."
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Artigo 8 Article 8",
+   "children": [
+    {
+     "type": "text",
+     "text": "Komisja Mieszana Comissão Mista Mixed Commission"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Strony utworzą Komisję Mie- 1. As Partes instituirão uma 1. The Parties will establish a szaną, której zadaniem będzie za- Comissão Mista responsável pelo Mixed Commission responsible pewnienie należytego wykonania cumprimento das disposi˜ões for the proper execution of the postanowień niniejszej umowy estabelecidas no presente Acordo provisions of this Agreement and oraz rozwiązywanie problemów, e pela resolu˜ão de diverg˘ncias seeking solution to any problems które mogą powstać w toku jej re- que possam surgir no decurso da that may arise in the course of its alizacji. sua execu˜ão. execution.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Komisja Mieszana składać 2. A Comissão Mista será 2. The Mixed Commission will się będzie z przedstawicieli wyzna- constituída por representantes dos consist of representatives involved czonych przez Strony, zajmujących Organismos responsáveis pelo in tourism activities and appointed się działalnością w dziedzinie tury- sector do Turismo que serão by the Parties. styki. nomeados pelas Partes.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Komisja Mieszana zbierze się 3. A primeira reunião da 3. The Mixed Commission’s po raz pierwszy w ciągu sześciu Comissão Mista terá lugar seis first meeting will be held within six miesięcy od dnia wejścia umowy meses depois da entrada em vigor months of the Agreement’s w życie. do Acordo. coming into force.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Komisja Mieszana na swym 4. A Comissão Mista redigirá, 4. At the first meeting, the pierwszym posiedzeniu opracuje na primeira reunião, um conjunto Mixed Commission will draw up a regulamin, w którym określi tryb de regulamentos que definirão os set of regulations which will define pracy. procedimentos que orientarão as the procedures governing its suas actividades. activities.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Komisji będą przewodniczyli 5. A Comissão Mista será 5. Representatives of each of przedstawiciele każdej ze Stron. presidida por representantes de the Parties will chair the cada uma das Partes. Commission.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_8/ust_6",
+     "text": "Komisja Mieszana spotykać 6. A Comissão Mista reunirá, 6. The Mixed Commission will się będzie w miarę potrzeb, na pi- de acordo com as necessidades e meet according to needs at the semny wniosek jednej ze Stron, na por pedido escrito de uma das written request of one of the przemian w Rzeczypospolitej Pol- Partes, alternadamente, na Parties, in the Republic of Poland skiej i Republice Portugalskiej. República da Polónia e na and the Portuguese Republic República Portuguesa. alternately.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Artigo 9 Article 9",
+   "children": [
     {
      "type": "text",
      "text": "Wejście w życie Entrada em Vigor Entry into Force"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega 1. O presente Acordo está 1. The hereby Agreement is przyjęciu zgodnie z prawem Pań- sujeito a aprova˜ão de acordo com subjected to approval in accorstwa każdej ze Stron, co zostanie o direito interno das Partes, as dance with the national legislation stwierdzone w drodze wymiany quais se informarão recípro- of both Parties. Each Party will not. camente desse facto através de notify the other, by way of an comunica˜ão escrita. exchange notes, of the approval.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umowa wchodzi w życie po 2. O Acordo entrará em vigor 2. The Agreement will come upływie 30 dni od dnia otrzymania 30 dias após a data de recep˜ão da into force after 30 days after the noty późniejszej. última notifica˜ão. date of receipt of the latter note.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10 Artigo 10 Article 10"
     },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Umowa niniejsza podlega 1. O presente Acordo está 1. The hereby Agreement is przyjęciu zgodnie z prawem Pań- sujeito a aprova˜ão de acordo com subjected to approval in accorstwa każdej ze Stron, co zostanie o direito interno das Partes, as dance with the national legislation stwierdzone w drodze wymiany quais se informarão recípro- of both Parties. Each Party will not. camente desse facto através de notify the other, by way of an comunica˜ão escrita. exchange notes, of the approval.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Umowa wchodzi w życie po 2. O Acordo entrará em vigor 2. The Agreement will come upływie 30 dni od dnia otrzymania 30 dias após a data de recep˜ão da into force after 30 days after the noty późniejszej. última notifica˜ão. date of receipt of the latter note.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Artigo 10 Article 10",
+   "children": [
     {
      "type": "text",
      "text": "Ważność i wypowiedzenie Vig˘ncia e Denúncia Validity and Denouncing"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza zawarta 1. O presente Acordo será 1. The hereby Agreement is jest na okres pięciu lat. Ulega ona válido por um período de cinco concluded for a period of five automatycznemu przedłużeniu na anos, considerando-se automati- years. The duration of the Agreedalsze pięcioletnie okresy, jeżeli camente renovado por sucessivos ment will automatically be reneżadna ze Stron nie wypowie jej períodos de cinco anos, salvo wed for five-year periods, proviw drodze notyfikacji, najpóźniej na denúncia de uma das Partes ded that neither of the Parties sześć miesięcy przed upływem da- comunicada ∫ outra com, pelo terminates it, by way of notificanego okresu ważności. menos, seis meses de antece- tion, until six months prior to the d˘ncia relativamente ∫ data de date of expiration of the Agreecessa˜ão da respectiva vig˘ncia. ment, its intention to denounce.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypowiedzenie umowy nie 2. O fim do Acordo não 2. The termination of the będzie miało wpływu na przedsię- afectará os programas imple- Agreement will have no impact on wzięcia podjęte i realizowane mentados ou em curso acor- ventures undertaken and zgodnie z umową w czasie jej obo- dados pelas Partes durante a implemented in accordance with wiązywania, aż do czasu ich zakoń- vig˘ncia do mesmo e até ∫ sua the Agreement, while it was in czenia. conclusão. force, until their completion.",
-   "children": [
-    {
-     "type": "text",
-     "text": "SPORZĄDZONO w Lizbonie dnia FEITO em Lisboa, aos 22 de DRAWN UP in Lisbon on 22 nd 22 stycznia 2003 r. w dwóch eg- Janeiro de 2003, em duas cópias January 2003 in two identical zemplarzach, każdy w językach id˘nticas nas línguas polaca, copies in Polish, Portuguese and polskim, portugalskim i angiel- portuguesa e inglesa, os tr˘s English, where all the texts are skim, przy czym wszystkie teksty textos fazendo igualmente fé. deemed equally authentic. są jednakowo autentyczne."
     },
     {
-     "type": "text",
-     "text": "W razie rozbieżności przy ich inter- Em caso de diverg˘ncia de In case of any discrepancies in pretacji tekst w języku angielskim interpreta˜ão, prevalecerá a their interpretation, the English będzie uważany za rozstrzygający. versão inglesa. language version of the text will prevail."
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Umowa niniejsza zawarta 1. O presente Acordo será 1. The hereby Agreement is jest na okres pięciu lat. Ulega ona válido por um período de cinco concluded for a period of five automatycznemu przedłużeniu na anos, considerando-se automati- years. The duration of the Agreedalsze pięcioletnie okresy, jeżeli camente renovado por sucessivos ment will automatically be reneżadna ze Stron nie wypowie jej períodos de cinco anos, salvo wed for five-year periods, proviw drodze notyfikacji, najpóźniej na denúncia de uma das Partes ded that neither of the Parties sześć miesięcy przed upływem da- comunicada ∫ outra com, pelo terminates it, by way of notificanego okresu ważności. menos, seis meses de antece- tion, until six months prior to the d˘ncia relativamente ∫ data de date of expiration of the Agreecessa˜ão da respectiva vig˘ncia. ment, its intention to denounce.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W imieniu W imieniu Pela Pela On behalf of On behalf of Rzeczypospolitej Republiki República República the Republic the Portuguese Polskiej Portugalskiej da Polónia Portuguesa of Poland Republic"
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Wypowiedzenie umowy nie 2. O fim do Acordo não 2. The termination of the będzie miało wpływu na przedsię- afectará os programas imple- Agreement will have no impact on wzięcia podjęte i realizowane mentados ou em curso acor- ventures undertaken and zgodnie z umową w czasie jej obo- dados pelas Partes durante a implemented in accordance with wiązywania, aż do czasu ich zakoń- vig˘ncia do mesmo e até ∫ sua the Agreement, while it was in czenia. conclusão. force, until their completion.",
+     "children": [
+      {
+       "type": "text",
+       "text": "SPORZĄDZONO w Lizbonie dnia FEITO em Lisboa, aos 22 de DRAWN UP in Lisbon on 22 nd 22 stycznia 2003 r. w dwóch eg- Janeiro de 2003, em duas cópias January 2003 in two identical zemplarzach, każdy w językach id˘nticas nas línguas polaca, copies in Polish, Portuguese and polskim, portugalskim i angiel- portuguesa e inglesa, os tr˘s English, where all the texts are skim, przy czym wszystkie teksty textos fazendo igualmente fé. deemed equally authentic. są jednakowo autentyczne."
+      },
+      {
+       "type": "text",
+       "text": "W razie rozbieżności przy ich inter- Em caso de diverg˘ncia de In case of any discrepancies in pretacji tekst w języku angielskim interpreta˜ão, prevalecerá a their interpretation, the English będzie uważany za rozstrzygający. versão inglesa. language version of the text will prevail."
+      },
+      {
+       "type": "text",
+       "text": "W imieniu W imieniu Pela Pela On behalf of On behalf of Rzeczypospolitej Republiki República República the Republic the Portuguese Polskiej Portugalskiej da Polónia Portuguesa of Poland Republic"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   }
  ],
  "annexes": [],

@@ -37,119 +37,127 @@
    "text": "uzgodnili, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą wspierać współpracę w dziedzinie kultury i sztuki między Rzecząpospolitą Polską i Republiką Białorusi, w tym inicjatywy instytucji kultury i zespołów twórczych mające na celu rozpowszechnianie i promocję kultury, historii i tradycji narodowych Rzeczypospolitej Polskiej i Republiki Białorusi."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Strony zorganizują i przeprowadzą Dni Kultury Rzeczypospolitej Polskiej w Republice Białorusi oraz Dni Kultury Republiki Białorusi w Rzeczypospolitej Polskiej. Terminy i warunki organizacji tych przedsięwzięć Strony ustalą w odrębnym porozumieniu."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą wspierać rozwój kontaktów bezpośrednich między działającymi w swoich krajach związkami teatralnymi oraz teatrami dramatycznymi, lalek i innymi.",
-   "children": []
+   "path": "art_1",
+   "text": "Strony będą wspierać współpracę w dziedzinie kultury i sztuki między Rzecząpospolitą Polską i Republiką Białorusi, w tym inicjatywy instytucji kultury i zespołów twórczych mające na celu rozpowszechnianie i promocję kultury, historii i tradycji narodowych Rzeczypospolitej Polskiej i Republiki Białorusi.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Każda ze Stron będzie wspierać udział drugiej Strony w festiwalach teatralnych organizowanych w swoim kraju.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjać udziałowi zespołów muzycznych oraz wykonawców z Polski i Białorusi w festiwalach i konkursach muzycznych, które odbywają się na terytorium każdego z państw, a także nawiązywaniu i rozwojowi kontaktów w dziedzinie sztuki muzycznej między związkami twórczymi i organizacjami koncertowymi. Artykuł 5"
-    }
-   ]
+   "path": "art_2",
+   "text": "Strony zorganizują i przeprowadzą Dni Kultury Rzeczypospolitej Polskiej w Republice Białorusi oraz Dni Kultury Republiki Białorusi w Rzeczypospolitej Polskiej. Terminy i warunki organizacji tych przedsięwzięć Strony ustalą w odrębnym porozumieniu.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą wspierać nawiązywanie kontaktów między szkołami i uczelniami artystycznymi obydwu państw oraz sprzyjać wymianie uczniów i studentów tych szkół i uczelni w celach twórczych, edukacyjnych i naukowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą stwarzać warunki do podnoszenia kwalifikacji oraz odbywania staży w uczelniach artystycznych oraz znanych instytucjach teatralnych i widowiskowych w swoich krajach przez wykładowców uczelni artystycznych drugiej Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Strony będą sprzyjać udziałowi studentów i uczniów uczelni i szkół artystycznych drugiej Strony w organizowanych w ich krajach konkursach i festiwalach dla młodych wykonawców.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Strony będą wspierać rozwój kontaktów bezpośrednich między działającymi w swoich krajach związkami teatralnymi oraz teatrami dramatycznymi, lalek i innymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Każda ze Stron będzie wspierać udział drugiej Strony w festiwalach teatralnych organizowanych w swoim kraju.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą współpracować w zakresie muzealnictwa oraz działalności wystawowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą sprzyjać nawiązywaniu współpracy bezpośredniej między muzeami Polski i Białorusi, które będą się nawzajem informować o planowanych konferencjach naukowych, seminariach i sympozjach dotyczących muzealnictwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony w okresie obowiązywania Porozumienia będą sprzyjać wymianie wystaw organizowanych przez muzea.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony będą sprzyjać udziałowi zespołów muzycznych oraz wykonawców z Polski i Białorusi w festiwalach i konkursach muzycznych, które odbywają się na terytorium każdego z państw, a także nawiązywaniu i rozwojowi kontaktów w dziedzinie sztuki muzycznej między związkami twórczymi i organizacjami koncertowymi. Artykuł 5",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Strony będą wspierać nawiązywanie kontaktów między szkołami i uczelniami artystycznymi obydwu państw oraz sprzyjać wymianie uczniów i studentów tych szkół i uczelni w celach twórczych, edukacyjnych i naukowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą sprzyjać współpracy w dziedzinie kinematografii, w tym:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Strony będą stwarzać warunki do podnoszenia kwalifikacji oraz odbywania staży w uczelniach artystycznych oraz znanych instytucjach teatralnych i widowiskowych w swoich krajach przez wykładowców uczelni artystycznych drugiej Strony.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Strony będą sprzyjać udziałowi studentów i uczniów uczelni i szkół artystycznych drugiej Strony w organizowanych w ich krajach konkursach i festiwalach dla młodych wykonawców.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Strony będą współpracować w zakresie muzealnictwa oraz działalności wystawowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Strony będą sprzyjać nawiązywaniu współpracy bezpośredniej między muzeami Polski i Białorusi, które będą się nawzajem informować o planowanych konferencjach naukowych, seminariach i sympozjach dotyczących muzealnictwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Strony w okresie obowiązywania Porozumienia będą sprzyjać wymianie wystaw organizowanych przez muzea.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą sprzyjać współpracy w dziedzinie kinematografii, w tym:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_7/pkt_1",
      "text": "organizacji wzajemnych przeglądów filmowych, których terminy, warunki oraz miejsce przeprowadzenia zostaną ustalone odrębnie;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_7/pkt_2",
      "text": "udziałowi filmów w międzynarodowych festiwalach filmowych oraz udziałowi delegatów w krajowych festiwalach filmowych organizowanych w krajach Stron, zgodnie z regulaminami tych festiwali:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_3/pkt_2/lit_a",
+       "path": "art_7/pkt_2/lit_a",
        "text": "w Polsce:",
        "children": [
         {
@@ -177,7 +185,7 @@
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_3/pkt_2/lit_b",
+       "path": "art_7/pkt_2/lit_b",
        "text": "na Białorusi:",
        "children": [
         {
@@ -187,101 +195,110 @@
         {
          "type": "text",
          "text": "— Festiwal Filmów Animowanych „Animajouka” (Mohylew, każdego roku)."
-        },
-        {
-         "type": "text",
-         "text": "Artykuł 8"
         }
        ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą sprzyjały dalszemu rozwojowi kontaktów między Biblioteką Narodową w Warszawie i Biblioteką Narodową Białorusi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą sprzyjały wymianie wystaw książek, elektronicznych zbiorów danych, metodycznych oraz bibliograficznych materiałów, materiałów przeznaczonych do opublikowania w wydaniach periodycznych, a także uczestniczeniu specjalistów drugiej Strony w seminariach, konferencjach naukowo-praktycznych oraz sympozjach odbywających się w ich krajach.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Strony będą sprzyjały dalszemu rozwojowi kontaktów między Biblioteką Narodową w Warszawie i Biblioteką Narodową Białorusi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Strony będą sprzyjały wymianie wystaw książek, elektronicznych zbiorów danych, metodycznych oraz bibliograficznych materiałów, materiałów przeznaczonych do opublikowania w wydaniach periodycznych, a także uczestniczeniu specjalistów drugiej Strony w seminariach, konferencjach naukowo-praktycznych oraz sympozjach odbywających się w ich krajach.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą wspierać współpracę w zakresie przechowywania, ochrony i konserwacji dziedzictwa historycznego i kulturowego, prowadzoną na podstawie Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Białoruś o współpracy w dziedzinie ochrony dziedzictwa kulturalnego, sporządzonego w Warszawie dnia 25 marca 1995 r., oraz sprzyjać wymianie specjalistów w celu zapoznania się z doświadczeniami drugiej Strony w tej dziedzinie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony, w ramach swych kompetencji, będą współpracować w zakresie projektu badawczego „Ochrona archeologicznego krajobrazu kulturowego na obszarze równiny Podlasko-Białoruskiej”, realizowanego przez Państwowe Muzeum Archeologiczne w Warszawie i Białoruską Akademię Nauk.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Strony będą wspierać współpracę w zakresie przechowywania, ochrony i konserwacji dziedzictwa historycznego i kulturowego, prowadzoną na podstawie Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Białoruś o współpracy w dziedzinie ochrony dziedzictwa kulturalnego, sporządzonego w Warszawie dnia 25 marca 1995 r., oraz sprzyjać wymianie specjalistów w celu zapoznania się z doświadczeniami drugiej Strony w tej dziedzinie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Zgodnie z prawem obowiązującym w każdym z państw oraz w granicach swych kompetencji Strony będą stosować środki zapobiegające nielegalnemu wwozowi na terytorium swych państw oraz nielegalnemu wywozowi z terytorium swych państw dóbr kultury drugiej Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą kontynuować współpracę w dziedzinie twórczości ludowej i sprzyjać nawiązywaniu kontaktów bezpośrednich między zespołami amatorskimi oraz domami twórczości ludowej w obydwu krajach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Strony uważają za ważne zadanie zapewnienie, w ramach swoich kompetencji, warunków rozwoju kulturowego mniejszości narodowych — polskiej w Republice Białorusi i białoruskiej w Rzeczypospolitej Polskiej — oraz wspieranie działalności ich społeczno-kulturalnych stowarzyszeń i związków."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "W okresie obowiązywania niniejszego porozumienia Strony będą wymieniać delegacje specjalistów, ekspertów oraz działaczy w dziedzinie kultury i sztuki w celu rozwoju i krzewienia współpracy w dziedzinie kultury. Skład delegacji oraz terminy pobytu Strony będą uzgadniać w trybie roboczym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą współpracować w kwestiach wymiany informacji dotyczącej swojego ustawodawstwa w dziedzinie kultury."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Strony uzgodniły, że wymiana kulturalna będzie prowadzona na następujących warunkach:"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Strony, w ramach swych kompetencji, będą współpracować w zakresie projektu badawczego „Ochrona archeologicznego krajobrazu kulturowego na obszarze równiny Podlasko-Białoruskiej”, realizowanego przez Państwowe Muzeum Archeologiczne w Warszawie i Białoruską Akademię Nauk.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Zgodnie z prawem obowiązującym w każdym z państw oraz w granicach swych kompetencji Strony będą stosować środki zapobiegające nielegalnemu wwozowi na terytorium swych państw oraz nielegalnemu wywozowi z terytorium swych państw dóbr kultury drugiej Strony.",
+   "children": [],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Strony będą kontynuować współpracę w dziedzinie twórczości ludowej i sprzyjać nawiązywaniu kontaktów bezpośrednich między zespołami amatorskimi oraz domami twórczości ludowej w obydwu krajach.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Strony uważają za ważne zadanie zapewnienie, w ramach swoich kompetencji, warunków rozwoju kulturowego mniejszości narodowych — polskiej w Republice Białorusi i białoruskiej w Rzeczypospolitej Polskiej — oraz wspieranie działalności ich społeczno-kulturalnych stowarzyszeń i związków.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "W okresie obowiązywania niniejszego porozumienia Strony będą wymieniać delegacje specjalistów, ekspertów oraz działaczy w dziedzinie kultury i sztuki w celu rozwoju i krzewienia współpracy w dziedzinie kultury. Skład delegacji oraz terminy pobytu Strony będą uzgadniać w trybie roboczym.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Strony będą współpracować w kwestiach wymiany informacji dotyczącej swojego ustawodawstwa w dziedzinie kultury.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Strony uzgodniły, że wymiana kulturalna będzie prowadzona na następujących warunkach:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_15/pkt_1",
      "text": "w przypadku wymiany zespołów twórczych, delegacji oraz pojedynczych osób:",
      "children": [
       {
@@ -297,51 +314,56 @@
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_15/pkt_2",
      "text": "w przypadku wymiany wystaw ze zbiorów muzealnych oraz wystaw sztuki współczesnej warunki, terminy, rodzaj i miejsca ekspozycji będą ustalane w trybie roboczym oddzielnie dla każdego przypadku.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Niniejsze porozumienie nie wyklucza możliwości zorganizowania i przeprowadzenia innych przedsięwzięć niż te, które zostały w nim przewidziane.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Porozumienie wchodzi w życie z dniem podpisania i obowiązuje do dnia 31 grudnia 2006 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Porozumienie traci moc również w przypadku utraty mocy obowiązującej przez Umowę między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Białoruś o współpracy w dziedzinie kultury, nauki i oświaty, sporządzonej w Warszawie dnia 27 listopada 1995 r.",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 16"
+       "text": "SPORZĄDZONO we Wrocławiu dnia 9 grudnia 2004 r. w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim i białoruskim, przy czym obydwa teksty są jednakowo autentyczne."
       },
       {
        "type": "text",
-       "text": "Niniejsze porozumienie nie wyklucza możliwości zorganizowania i przeprowadzenia innych przedsięwzięć niż te, które zostały w nim przewidziane."
+       "text": "Minister Kultury W imieniu Rzeczypospolitej Polskiej Ministerstwa Kultury Republiki Białorusi"
       },
       {
-       "type": "text",
-       "text": "Artykuł 17"
+       "type": "note",
+       "text": "[Strony 4-8 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
       }
      ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Porozumienie wchodzi w życie z dniem podpisania i obowiązuje do dnia 31 grudnia 2006 r.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Porozumienie traci moc również w przypadku utraty mocy obowiązującej przez Umowę między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Białoruś o współpracy w dziedzinie kultury, nauki i oświaty, sporządzonej w Warszawie dnia 27 listopada 1995 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "SPORZĄDZONO we Wrocławiu dnia 9 grudnia 2004 r. w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim i białoruskim, przy czym obydwa teksty są jednakowo autentyczne."
-    },
-    {
-     "type": "text",
-     "text": "Minister Kultury W imieniu Rzeczypospolitej Polskiej Ministerstwa Kultury Republiki Białorusi"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 4-8 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
-    }
-   ]
+   ],
+   "label": "Artykuł 17"
   }
  ],
  "annexes": [],

@@ -45,737 +45,761 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Postanowienia niniejszego porozumienia stosuje się do:"
-  },
-  {
-   "type": "text",
-   "text": "AGREEMENT"
-  },
-  {
-   "type": "text",
-   "text": "between the Minister of Internal Affairs and Administration of the Republic of Poland and the International Organization for Migration on the co-operation in the field of voluntary returns of aliens leaving the territory of the Republic of Poland"
-  },
-  {
-   "type": "text",
-   "text": "The Minister of Internal Affairs and Administration, hereinafter referred to as ”the Minister” and the International Organization for Migration, hereinafter referred to as ”the Organization”, both jointly referred to as the ”Contracting Parties”;"
-  },
-  {
-   "type": "text",
-   "text": "— Recalling that, based on the Agreement on the co-operation between the Government of the Republic of Poland and the International Organization for Migration, done at Warsaw on the 19 April 1993, the Organization has been granted privileges and immunities;"
-  },
-  {
-   "type": "text",
-   "text": "— Convinced that an expansion and strengthening of existing co-operation in the field related to management of voluntary returns of aliens leaving the territory of the Republic of Poland may contribute to increasing the efficient operation of the Polish migration policy;"
-  },
-  {
-   "type": "text",
-   "text": "— Acting pursuant to Article 1, paragraph 1, of the Constitution of the Organization;"
-  },
-  {
-   "type": "text",
-   "text": "Have agreed as follows:"
-  },
-  {
-   "type": "text",
-   "text": "Article 1"
-  },
-  {
-   "type": "text",
-   "text": "The provisions of this Agreement shall apply to:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "cudzoziemców ubiegających się o nadanie statusu uchodźcy:",
+   "path": "art_1",
+   "text": "Postanowienia niniejszego porozumienia stosuje się do:",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_1/lit_a",
-     "text": "których wnioski ze względów formalnych zostały pozostawione bez rozpoznania,",
+     "type": "text",
+     "text": "AGREEMENT"
+    },
+    {
+     "type": "text",
+     "text": "between the Minister of Internal Affairs and Administration of the Republic of Poland and the International Organization for Migration on the co-operation in the field of voluntary returns of aliens leaving the territory of the Republic of Poland"
+    },
+    {
+     "type": "text",
+     "text": "The Minister of Internal Affairs and Administration, hereinafter referred to as ”the Minister” and the International Organization for Migration, hereinafter referred to as ”the Organization”, both jointly referred to as the ”Contracting Parties”;"
+    },
+    {
+     "type": "text",
+     "text": "— Recalling that, based on the Agreement on the co-operation between the Government of the Republic of Poland and the International Organization for Migration, done at Warsaw on the 19 April 1993, the Organization has been granted privileges and immunities;"
+    },
+    {
+     "type": "text",
+     "text": "— Convinced that an expansion and strengthening of existing co-operation in the field related to management of voluntary returns of aliens leaving the territory of the Republic of Poland may contribute to increasing the efficient operation of the Polish migration policy;"
+    },
+    {
+     "type": "text",
+     "text": "— Acting pursuant to Article 1, paragraph 1, of the Constitution of the Organization;"
+    },
+    {
+     "type": "text",
+     "text": "Have agreed as follows:"
+    },
+    {
+     "type": "text",
+     "text": "Article 1"
+    },
+    {
+     "type": "text",
+     "text": "The provisions of this Agreement shall apply to:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "cudzoziemców ubiegających się o nadanie statusu uchodźcy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "których wnioski ze względów formalnych zostały pozostawione bez rozpoznania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "którzy otrzymali decyzję o odmowie nadania statusu uchodźcy i odmowie udzielenia zgody na pobyt tolerowany;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "cudzoziemców, którzy złożyli wniosek o nadanie statusu uchodźcy, a następnie zrezygnowali z ubiegania się o ten status;",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_1/lit_b",
-     "text": "którzy otrzymali decyzję o odmowie nadania statusu uchodźcy i odmowie udzielenia zgody na pobyt tolerowany;",
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "cudzoziemców ubiegających się o udzielenie azylu w Rzeczypospolitej Polskiej, którzy otrzymali decyzję o odmowie udzielenia azylu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "cudzoziemców, którzy otrzymali decyzję, z której wynika obowiązek opuszczenia terytorium Rzeczypospolitej Polskiej.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "2",
-   "path": "pkt_2",
-   "text": "cudzoziemców, którzy złożyli wniosek o nadanie statusu uchodźcy, a następnie zrezygnowali z ubiegania się o ten status;",
-   "children": []
+   "path": "art_2",
+   "text": "Ilekroć w niniejszym porozumieniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "„dobrowolnym powrocie” — oznacza to sytuację, w której cudzoziemiec zgadza się na wyjazd z terytorium Rzeczypospolitej Polskiej do kraju, którego jest obywatelem, a w przypadku, gdy taki powrót nie jest możliwy lub jeśli cudzoziemiec nie posiada żadnego obywatelstwa — do kraju, w którym ma miejsce zamieszkania, lub do innego kraju, który zgadza się lub jest zobowiązany go przyjąć, przy czym decyzja dotycząca powrotu wynika z wolnego wyboru cudzoziemca dokonanego bez jakiegokolwiek nacisku fizycznego, psychicznego lub materialnego i została podjęta na podstawie dokładnej i obiektywnej informacji o warunkach powrotu i sytuacji w kraju, do którego cudzoziemiec wyjeżdża;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "„kraju powrotu” — oznacza to kraj, którego cudzoziemiec jest obywatelem, kraj, w którym ma miejsce zamieszkania, lub kraj, który zgadza się lub jest zobowiązany go przyjąć.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "3",
-   "path": "pkt_3",
-   "text": "cudzoziemców ubiegających się o udzielenie azylu w Rzeczypospolitej Polskiej, którzy otrzymali decyzję o odmowie udzielenia azylu;",
-   "children": []
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Umawiające się Strony ustalają w niniejszym porozumieniu zasady wzajemnej współpracy w sprawach związanych z organizacją dobrowolnych powrotów cudzoziemców, o których mowa w artykule 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Umawiające się Strony będą przekazywały sobie wzajemnie wszelkie informacje niezbędne dla efektywnego wykonywania postanowień niniejszego porozumienia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "4",
-   "path": "pkt_4",
-   "text": "cudzoziemców, którzy otrzymali decyzję, z której wynika obowiązek opuszczenia terytorium Rzeczypospolitej Polskiej.",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Ilekroć w niniejszym porozumieniu jest mowa o:"
-    }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "„dobrowolnym powrocie” — oznacza to sytuację, w której cudzoziemiec zgadza się na wyjazd z terytorium Rzeczypospolitej Polskiej do kraju, którego jest obywatelem, a w przypadku, gdy taki powrót nie jest możliwy lub jeśli cudzoziemiec nie posiada żadnego obywatelstwa — do kraju, w którym ma miejsce zamieszkania, lub do innego kraju, który zgadza się lub jest zobowiązany go przyjąć, przy czym decyzja dotycząca powrotu wynika z wolnego wyboru cudzoziemca dokonanego bez jakiegokolwiek nacisku fizycznego, psychicznego lub materialnego i została podjęta na podstawie dokładnej i obiektywnej informacji o warunkach powrotu i sytuacji w kraju, do którego cudzoziemiec wyjeżdża;",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "„kraju powrotu” — oznacza to kraj, którego cudzoziemiec jest obywatelem, kraj, w którym ma miejsce zamieszkania, lub kraj, który zgadza się lub jest zobowiązany go przyjąć.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony ustalają w niniejszym porozumieniu zasady wzajemnej współpracy w sprawach związanych z organizacją dobrowolnych powrotów cudzoziemców, o których mowa w artykule 1.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą przekazywały sobie wzajemnie wszelkie informacje niezbędne dla efektywnego wykonywania postanowień niniejszego porozumienia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Do zadań Organizacji należy:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "opracowywanie materiałów informacyjnych dotyczących dobrowolnych powrotów i niezwłoczne przekazywanie ich cudzoziemcom, o których mowa w artykule 1;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "aliens who applied for refugee status:",
+     "path": "art_4/ust_1",
+     "text": "Do zadań Organizacji należy:",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_1/pkt_1/lit_a",
-       "text": "whose applications have been left without examination for formal reasons,",
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_1/pkt_1",
+       "text": "opracowywanie materiałów informacyjnych dotyczących dobrowolnych powrotów i niezwłoczne przekazywanie ich cudzoziemcom, o których mowa w artykule 1;",
        "children": []
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_1/pkt_1/lit_b",
-       "text": "who have been refused refugee status and have not been granted permission for tolerated stay;",
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_1/pkt_1",
+       "text": "aliens who applied for refugee status:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_4/ust_1/pkt_1/lit_a",
+         "text": "whose applications have been left without examination for formal reasons,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_4/ust_1/pkt_1/lit_b",
+         "text": "who have been refused refugee status and have not been granted permission for tolerated stay;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_1/pkt_2",
+       "text": "aliens who applied for refugee status and then withdrew or did not pursue their claim;",
        "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_4/ust_1/pkt_3",
+       "text": "aliens who applied for asylum and who have been refused asylum in the Republic of Poland;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_4/ust_1/pkt_4",
+       "text": "aliens who have been issued the decision which indicate an obligation to leave the territory of the Republic of Poland.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 2"
+        },
+        {
+         "type": "text",
+         "text": "For the purpose this Agreement:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_1/pkt_1",
+       "text": "”voluntary return” — refers to situation where an alien agrees to leave the territory of the Republic of Poland to return to the country of which he/she is a national or, where such return is not possible or an alien is a stateless person — to the country of former residence or to another country which agrees or is obliged to receive him/her, when alien’s decision on return is based upon freedom of choice, meaning the absence of any physical, psychological or material pressure, and upon an informed decision which requires having sufficiently accurate and objective information about the conditions of return and the situation in the country that the alien returns to;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_1/pkt_2",
+       "text": "”country of return” — refers to the country of which an alien is a national, the country of his/her former residence, or a country which agrees or is obliged to receive him/her.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 3"
+        }
+       ]
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "In this Agreement, Contracting Parties establish rules of mutual co-operation in the field related to management of voluntary returns of aliens specified in Article 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "aliens who applied for refugee status and then withdrew or did not pursue their claim;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "aliens who applied for asylum and who have been refused asylum in the Republic of Poland;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "aliens who have been issued the decision which indicate an obligation to leave the territory of the Republic of Poland.",
+     "path": "art_4/ust_2",
+     "text": "The Contracting Parties shall provide each other mutually with information necessary for the successful implementation of the provisions of this Agreement.",
      "children": [
       {
        "type": "text",
-       "text": "Article 2"
-      },
-      {
-       "type": "text",
-       "text": "For the purpose this Agreement:"
+       "text": "Article 4"
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "”voluntary return” — refers to situation where an alien agrees to leave the territory of the Republic of Poland to return to the country of which he/she is a national or, where such return is not possible or an alien is a stateless person — to the country of former residence or to another country which agrees or is obliged to receive him/her, when alien’s decision on return is based upon freedom of choice, meaning the absence of any physical, psychological or material pressure, and upon an informed decision which requires having sufficiently accurate and objective information about the conditions of return and the situation in the country that the alien returns to;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "”country of return” — refers to the country of which an alien is a national, the country of his/her former residence, or a country which agrees or is obliged to receive him/her.",
+     "path": "art_4/ust_1",
+     "text": "The responsibilities of the Organization shall be to:",
      "children": [
       {
-       "type": "text",
-       "text": "Article 3"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_1/pkt_1",
+       "text": "prepare informational materials concerning voluntary returns and to disseminate them promptly among aliens, specified in Article 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_1/pkt_2",
+       "text": "udzielanie pomocy w uzyskaniu dla cudzoziemców, o których mowa w artykule 1, dokumentów podróży i wiz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_4/ust_1/pkt_3",
+       "text": "zapewnianie środków transportu w celu umożliwienia dobrowolnego powrotu cudzoziemców opuszczających terytorium Rzeczypospolitej Polskiej, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_4/ust_1/pkt_3/lit_a",
+         "text": "wyjazdu z terytorium Rzeczypospolitej Polskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_4/ust_1/pkt_3/lit_b",
+         "text": "przyjazdu do kraju powrotu i przejazdu przez jego terytorium,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_4/ust_1/pkt_3/lit_c",
+         "text": "podróży przez terytoria krajów tranzytowych, o ile jest to konieczne;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_4/ust_1/pkt_4",
+       "text": "przygotowywanie i aktualizacja materiałów szkoleniowych oraz informacji dotyczących krajów pochodzenia cudzoziemców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_4/ust_1/pkt_5",
+       "text": "szkolenie przedstawicieli polskich organizacji rządowych i pozarządowych, w których zakresie działania znajdują się sprawy cudzoziemców.",
+       "children": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "In this Agreement, Contracting Parties establish rules of mutual co-operation in the field related to management of voluntary returns of aliens specified in Article 1.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Contracting Parties shall provide each other mutually with information necessary for the successful implementation of the provisions of this Agreement.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The responsibilities of the Organization shall be to:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "prepare informational materials concerning voluntary returns and to disseminate them promptly among aliens, specified in Article 1;",
-     "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "udzielanie pomocy w uzyskaniu dla cudzoziemców, o których mowa w artykule 1, dokumentów podróży i wiz;",
+     "path": "art_4/ust_2",
+     "text": "Na wniosek Ministra Organizacja udziela pomocy cudzoziemcom, o których mowa w artykule 1 punkt 1—3, w celu wspierania procesu ich integracji w kraju powrotu.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "zapewnianie środków transportu w celu umożliwienia dobrowolnego powrotu cudzoziemców opuszczających terytorium Rzeczypospolitej Polskiej, w tym:",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_1/pkt_3/lit_a",
-       "text": "wyjazdu z terytorium Rzeczypospolitej Polskiej,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_1/pkt_3/lit_b",
-       "text": "przyjazdu do kraju powrotu i przejazdu przez jego terytorium,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "ust_1/pkt_3/lit_c",
-       "text": "podróży przez terytoria krajów tranzytowych, o ile jest to konieczne;",
-       "children": []
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "przygotowywanie i aktualizacja materiałów szkoleniowych oraz informacji dotyczących krajów pochodzenia cudzoziemców;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_1/pkt_5",
-     "text": "szkolenie przedstawicieli polskich organizacji rządowych i pozarządowych, w których zakresie działania znajdują się sprawy cudzoziemców.",
+     "path": "art_4/ust_3",
+     "text": "W miarę możliwości i potrzeb Organizacja będzie dążyć do zawarcia porozumień z krajami tranzytowymi i krajami powrotu w celu udzielania pomocy cudzoziemcom korzystającym z dobrowolnych powrotów i zapewnienia kontroli nad przejazdem cudzoziemców przez te kraje.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Na wniosek Ministra Organizacja udziela pomocy cudzoziemcom, o których mowa w artykule 1 punkt 1—3, w celu wspierania procesu ich integracji w kraju powrotu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W miarę możliwości i potrzeb Organizacja będzie dążyć do zawarcia porozumień z krajami tranzytowymi i krajami powrotu w celu udzielania pomocy cudzoziemcom korzystającym z dobrowolnych powrotów i zapewnienia kontroli nad przejazdem cudzoziemców przez te kraje.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Do zadań Ministra należy:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "informowanie cudzoziemców, o których mowa w artykule 1, o możliwości dobrowolnych powrotów;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "przekazywanie Organizacji informacji dotyczących cudzoziemców, o których mowa w artykule 1, za ich zgodą, w zakresie niezbędnym do wykonywania zadań wynikających z niniejszego porozumienia.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W imieniu Ministra z wnioskiem, o którym mowa w artykule 4 ustęp 2, występują oraz zadania, o których mowa w ustępie 1, wykonują następujące organy:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "Prezes Urzędu do Spraw Repatriacji i Cudzoziemców — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 2 i 3;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Komendant Główny Straży Granicznej — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 1 i 4.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "provide assistance to the aliens, specified in Article 1, in order to obtain travel documents and visas;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "arrange for transportation to enable voluntary returns of aliens leaving the territory of the Republic of Poland, including:",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_2/pkt_3/lit_a",
-       "text": "departure from the territory of the Republic of Poland,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_2/pkt_3/lit_b",
-       "text": "arrival to the country of return and transit through its territory,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "ust_2/pkt_3/lit_c",
-       "text": "travel through the territory of the transit countries, if it is necessary;",
-       "children": []
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_2/pkt_4",
-     "text": "prepare and update training materials and information concerning the countries of origin of the aliens;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_2/pkt_5",
-     "text": "train representatives of the Polish governmental and non-governmental organizations dealing with alien’s affairs.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Upon the Minister’s request, the Organization shall provide assistance to aliens, specified in Article 1, points 1—3, in order to support the process of their re-integration in the country of return.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Where possible and necessary, the Organization shall endeavour to promote the conclusion of the agreements with the transit countries and countries of return in order to secure assistance to aliens enjoying voluntary returns and to ensure control over transit through these countries.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The responsibilities of the Minister shall be to:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "inform the aliens, specified in Article 1, on possibilities of voluntary returns;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "provide the Organization with information concerning the aliens specified in Article 1, with their consent and within scope necessary for executing tasks imposed by this Agreement.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "On behalf of the Minister, the following authorities shall apply the motion, specified in Article 4, paragraph 2, and hall perform the actions specified in paragraph 1:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "the President of the Office for Repatriation and Aliens — with regard to aliens, specified in Article 1, points 2 and 3;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "the Chief Commander of the Border Guard — with regard to aliens, specified in Article 1, points 1 and 4.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu ułatwienia wykonywania postanowień niniejszego porozumienia Umawiające się Strony ustanawiają Wspólną Komisję Konsultacyjną, zwaną dalej „Komisją”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Do zadań Komisji należy:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "kontrola wykonywania postanowień niniejszego porozumienia;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "ocena współpracy z polskimi organizacjami rządowymi i pozarządowymi, w których zakresie działania znajdują się sprawy cudzoziemców;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "opiniowanie przedstawianych propozycji dotyczących organizacji dobrowolnych powrotów cudzoziemców.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W skład Komisji wchodzi 4 przedstawicieli, po 2 wyznaczonych przez Ministra i Organizację. Jeden z przedstawicieli wyznaczonych przez Organizację pełni jednocześnie funkcję przewodniczącego Komisji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "W razie potrzeby Komisja może zaprosić do udziału w posiedzeniach Komisji przedstawicieli organizacji rządowych i pozarządowych, w których zakresie działania znajdują się sprawy cudzoziemców.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Przewodniczący Komisji zwołuje posiedzenia Komisji w razie potrzeby, jednakże nie rzadziej niż co 6 miesięcy. Każda z Umawiających się Stron może złożyć wniosek do przewodniczącego Komisji o zwołanie posiedzenia Komisji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Organizacja, na swój koszt, zapewnia obsługę administracyjno-biurową Komisji.",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Gromadzenie, przechowywanie, przetwarzanie i udostępnianie danych osobowych koniecznych do wykonania zadań wynikających z niniejszego porozumienia odbywa się z zachowaniem postanowień wiążących Umawiające się Strony umów międzynarodowych oraz polskiego porządku prawnego. Ujawnienie danych osobowych podmiotom innym niż Umawiające się Strony i organy, o których mowa w artykule 5 ustęp 2 punkt 1 i 2, może nastąpić wyłącznie za zgodą osoby, której te dane dotyczą."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Organizacja przedstawia Ministrowi do akceptacji plan zadań wynikających z niniejszego porozumienia, wraz z zestawieniem przewidywanych kosztów ich realizacji, do dnia 31 stycznia każdego roku kalendarzowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Uzgodniony przez Umawiające się Strony plan, o którym mowa w ustępie 1, jest podstawą do wyko- Article 6",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "In order to facilitate the implementation of the provisions of this Agreement, the Contracting Parties shall establish a Joint Consultative Commission, hereinafter referred to as ”the Commission”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The responsibilities of the Commission shall be to:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "supervise the implementation of the provisions of this Agreement;",
-     "children": []
+     "path": "art_5/ust_1",
+     "text": "Do zadań Ministra należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_5/ust_1/pkt_1",
+       "text": "informowanie cudzoziemców, o których mowa w artykule 1, o możliwości dobrowolnych powrotów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_1/pkt_2",
+       "text": "przekazywanie Organizacji informacji dotyczących cudzoziemców, o których mowa w artykule 1, za ich zgodą, w zakresie niezbędnym do wykonywania zadań wynikających z niniejszego porozumienia.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "evaluate the co-operation with the Polish governmental and non-governmental organizations which deal with alien’s affairs;",
+     "path": "art_5/ust_2",
+     "text": "W imieniu Ministra z wnioskiem, o którym mowa w artykule 4 ustęp 2, występują oraz zadania, o których mowa w ustępie 1, wykonują następujące organy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_5/ust_2/pkt_1",
+       "text": "Prezes Urzędu do Spraw Repatriacji i Cudzoziemców — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 2 i 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_2/pkt_2",
+       "text": "Komendant Główny Straży Granicznej — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 1 i 4.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_2/pkt_2",
+       "text": "provide assistance to the aliens, specified in Article 1, in order to obtain travel documents and visas;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_5/ust_2/pkt_3",
+       "text": "arrange for transportation to enable voluntary returns of aliens leaving the territory of the Republic of Poland, including:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_5/ust_2/pkt_3/lit_a",
+         "text": "departure from the territory of the Republic of Poland,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_5/ust_2/pkt_3/lit_b",
+         "text": "arrival to the country of return and transit through its territory,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_5/ust_2/pkt_3/lit_c",
+         "text": "travel through the territory of the transit countries, if it is necessary;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_5/ust_2/pkt_4",
+       "text": "prepare and update training materials and information concerning the countries of origin of the aliens;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_5/ust_2/pkt_5",
+       "text": "train representatives of the Polish governmental and non-governmental organizations dealing with alien’s affairs.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Upon the Minister’s request, the Organization shall provide assistance to aliens, specified in Article 1, points 1—3, in order to support the process of their re-integration in the country of return.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "advise upon submitted proposals concerning the organization of voluntary returns of aliens.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The Commission shall be composed of 4 representatives, 2 appointed by the Minister and 2 by the Organization. One of the representatives appointed by the Organization shall be the President of the Commission.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Where necessary, representatives of governmental and non-governmental organizations which deal with alien’s affairs may participate in the work of the Commission upon the latter’s invitation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "The President of the Commission convenes meetings of the Commission, as need be, at least once every six months. Each of the Contracting Parties can propose to submit a motion to the President of the Commission to convene the meeting of the Commission.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "The Organization, on its own expenses, ensures the administrative costs of the Commission’s meetings.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
+     "path": "art_5/ust_3",
+     "text": "Where possible and necessary, the Organization shall endeavour to promote the conclusion of the agreements with the transit countries and countries of return in order to secure assistance to aliens enjoying voluntary returns and to ensure control over transit through these countries.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "The provisions of the relevant international instruments binding the Contracting Parties and the Polish laws and regulations shall be applied with regard to the storage, processing and use of personal data necessary for the implementation of the provisions of this Agreement. Disclosure of personal data to the parties other than the Contracting Parties and the authorities, specified in Article 5, paragraph 2, points 1 and 2, can only be made with the consent of the person concerned."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "By 31 January of each calendar year, the Organization shall submit for the Minister’s approval an action plan resulting from this Agreement together with a balance sheet of estimated implementation costs.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The action plan, specified in paragraph 1, and agreed by the Contracting Parties shall be the basis nywania w danym roku kalendarzowym zadań wynikających z niniejszego porozumienia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wydatki poniesione przez Organizację w związku z wykonywaniem zadań zawartych w planie zadań, o którym mowa w artykule 8, będą refundowane przez:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Prezesa Urzędu do Spraw Repatriacji i Cudzoziemców — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 2 i 3;",
-     "children": []
+     "path": "art_5/ust_1",
+     "text": "The responsibilities of the Minister shall be to:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_5/ust_1/pkt_1",
+       "text": "inform the aliens, specified in Article 1, on possibilities of voluntary returns;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_1/pkt_2",
+       "text": "provide the Organization with information concerning the aliens specified in Article 1, with their consent and within scope necessary for executing tasks imposed by this Agreement.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Komendanta Głównego Straży Granicznej — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 1 i 4.",
-     "children": []
+     "path": "art_5/ust_2",
+     "text": "On behalf of the Minister, the following authorities shall apply the motion, specified in Article 4, paragraph 2, and hall perform the actions specified in paragraph 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_5/ust_2/pkt_1",
+       "text": "the President of the Office for Repatriation and Aliens — with regard to aliens, specified in Article 1, points 2 and 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_5/ust_2/pkt_2",
+       "text": "the Chief Commander of the Border Guard — with regard to aliens, specified in Article 1, points 1 and 4.",
+       "children": []
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Refundacja wydatków, o których mowa w ustępie 1, będzie dokonywana na podstawie wystawianych co miesiąc not obciążeniowych oraz załączonych do not dowodów potwierdzających poniesienie tych wydatków, w terminie 8 tygodni od dnia otrzymania przez organy, o których mowa w ustępie 1 punkt 1 i 2.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony wskażą osoby odpowiedzialne za dokonywanie wzajemnych rozliczeń w związku z realizacją postanowień niniejszego porozumienia.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "W celu ułatwienia wykonywania postanowień niniejszego porozumienia Umawiające się Strony ustanawiają Wspólną Komisję Konsultacyjną, zwaną dalej „Komisją”.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Organizacja przedstawia Ministrowi:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Do zadań Komisji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_6/ust_2/pkt_1",
+       "text": "kontrola wykonywania postanowień niniejszego porozumienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_6/ust_2/pkt_2",
+       "text": "ocena współpracy z polskimi organizacjami rządowymi i pozarządowymi, w których zakresie działania znajdują się sprawy cudzoziemców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_6/ust_2/pkt_3",
+       "text": "opiniowanie przedstawianych propozycji dotyczących organizacji dobrowolnych powrotów cudzoziemców.",
+       "children": []
+      }
+     ]
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "W skład Komisji wchodzi 4 przedstawicieli, po 2 wyznaczonych przez Ministra i Organizację. Jeden z przedstawicieli wyznaczonych przez Organizację pełni jednocześnie funkcję przewodniczącego Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "W razie potrzeby Komisja może zaprosić do udziału w posiedzeniach Komisji przedstawicieli organizacji rządowych i pozarządowych, w których zakresie działania znajdują się sprawy cudzoziemców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_6/ust_5",
+     "text": "Przewodniczący Komisji zwołuje posiedzenia Komisji w razie potrzeby, jednakże nie rzadziej niż co 6 miesięcy. Każda z Umawiających się Stron może złożyć wniosek do przewodniczącego Komisji o zwołanie posiedzenia Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_6/ust_6",
+     "text": "Organizacja, na swój koszt, zapewnia obsługę administracyjno-biurową Komisji.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Gromadzenie, przechowywanie, przetwarzanie i udostępnianie danych osobowych koniecznych do wykonania zadań wynikających z niniejszego porozumienia odbywa się z zachowaniem postanowień wiążących Umawiające się Strony umów międzynarodowych oraz polskiego porządku prawnego. Ujawnienie danych osobowych podmiotom innym niż Umawiające się Strony i organy, o których mowa w artykule 5 ustęp 2 punkt 1 i 2, może nastąpić wyłącznie za zgodą osoby, której te dane dotyczą.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Organizacja przedstawia Ministrowi do akceptacji plan zadań wynikających z niniejszego porozumienia, wraz z zestawieniem przewidywanych kosztów ich realizacji, do dnia 31 stycznia każdego roku kalendarzowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Uzgodniony przez Umawiające się Strony plan, o którym mowa w ustępie 1, jest podstawą do wyko- Article 6",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "In order to facilitate the implementation of the provisions of this Agreement, the Contracting Parties shall establish a Joint Consultative Commission, hereinafter referred to as ”the Commission”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "The responsibilities of the Commission shall be to:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_8/ust_2/pkt_1",
+       "text": "supervise the implementation of the provisions of this Agreement;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_8/ust_2/pkt_2",
+       "text": "evaluate the co-operation with the Polish governmental and non-governmental organizations which deal with alien’s affairs;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_8/ust_2/pkt_3",
+       "text": "advise upon submitted proposals concerning the organization of voluntary returns of aliens.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "The Commission shall be composed of 4 representatives, 2 appointed by the Minister and 2 by the Organization. One of the representatives appointed by the Organization shall be the President of the Commission.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Where necessary, representatives of governmental and non-governmental organizations which deal with alien’s affairs may participate in the work of the Commission upon the latter’s invitation.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "The President of the Commission convenes meetings of the Commission, as need be, at least once every six months. Each of the Contracting Parties can propose to submit a motion to the President of the Commission to convene the meeting of the Commission.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_8/ust_6",
+     "text": "The Organization, on its own expenses, ensures the administrative costs of the Commission’s meetings.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "The provisions of the relevant international instruments binding the Contracting Parties and the Polish laws and regulations shall be applied with regard to the storage, processing and use of personal data necessary for the implementation of the provisions of this Agreement. Disclosure of personal data to the parties other than the Contracting Parties and the authorities, specified in Article 5, paragraph 2, points 1 and 2, can only be made with the consent of the person concerned."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "By 31 January of each calendar year, the Organization shall submit for the Minister’s approval an action plan resulting from this Agreement together with a balance sheet of estimated implementation costs.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "The action plan, specified in paragraph 1, and agreed by the Contracting Parties shall be the basis nywania w danym roku kalendarzowym zadań wynikających z niniejszego porozumienia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Wydatki poniesione przez Organizację w związku z wykonywaniem zadań zawartych w planie zadań, o którym mowa w artykule 8, będą refundowane przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_9/ust_1/pkt_1",
+       "text": "Prezesa Urzędu do Spraw Repatriacji i Cudzoziemców — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 2 i 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_9/ust_1/pkt_2",
+       "text": "Komendanta Głównego Straży Granicznej — w stosunku do cudzoziemców, o których mowa w artykule 1 punkt 1 i 4.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Refundacja wydatków, o których mowa w ustępie 1, będzie dokonywana na podstawie wystawianych co miesiąc not obciążeniowych oraz załączonych do not dowodów potwierdzających poniesienie tych wydatków, w terminie 8 tygodni od dnia otrzymania przez organy, o których mowa w ustępie 1 punkt 1 i 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Umawiające się Strony wskażą osoby odpowiedzialne za dokonywanie wzajemnych rozliczeń w związku z realizacją postanowień niniejszego porozumienia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Organizacja przedstawia Ministrowi:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_10/pkt_1",
      "text": "sprawozdanie o wydatkach poniesionych na wykonywanie zadań wynikających z niniejszego porozumienia:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_3/pkt_1/lit_a",
+       "path": "art_10/pkt_1/lit_a",
        "text": "za I półrocze — do 31 lipca każdego roku kalendarzowego,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_3/pkt_1/lit_b",
+       "path": "art_10/pkt_1/lit_b",
        "text": "za rok — w terminie 90 dni po upływie roku kalendarzowego;",
        "children": []
       }
@@ -784,183 +808,191 @@
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_10/pkt_2",
      "text": "sprawozdanie z wykonania postanowień niniejszego porozumienia w danym roku kalendarzowym, z uwzględnieniem podjętych działań i osiągniętych wyników — do 31 stycznia następnego roku kalendarzowego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Wszelkie rozbieżności dotyczące wykładni lub stosowania niniejszego porozumienia rozstrzyga Kolegium, w którego skład wchodzą przedstawiciel Ministra, przedstawiciel Organizacji oraz arbiter wyznaczony przez obie Umawiające się Strony, będący jednocześnie przewodniczącym Kolegium.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Ustalenia stanowiska Kolegium dokonuje się w drodze uzgodnienia. W przypadku gdy osiągnięcie uzgodnienia nie jest możliwe, o treści stanowiska decyduje większość głosów.",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 11"
+       "text": "for implementing the provisions of this Agreement in a given calendar year."
+      },
+      {
+       "type": "text",
+       "text": "Article 9"
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wszelkie rozbieżności dotyczące wykładni lub stosowania niniejszego porozumienia rozstrzyga Kolegium, w którego skład wchodzą przedstawiciel Ministra, przedstawiciel Organizacji oraz arbiter wyznaczony przez obie Umawiające się Strony, będący jednocześnie przewodniczącym Kolegium.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Ustalenia stanowiska Kolegium dokonuje się w drodze uzgodnienia. W przypadku gdy osiągnięcie uzgodnienia nie jest możliwe, o treści stanowiska decyduje większość głosów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "for implementing the provisions of this Agreement in a given calendar year."
     },
     {
-     "type": "text",
-     "text": "Article 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Costs incurred by the Organization in the performance of the activities contained in the action plan, specified to in Article 8 shall be reimbursed by:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "the President of the Office for the Repatriation and Aliens — with regard to aliens, specified in Article 1, points 2 and 3;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "the Chief Commander of the Border Guard — with regard to aliens, specified in Article 1, points 1 and 4.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Funds to reimburse expenses, specified in paragraph 1, shall be paid on the basis of the monthly invoices and evidences confirming incurring of these expenses enclosed, within 8 weeks from receipt by the authorities, specified in paragraph 1, points 1 and 2.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The Contracting Parties shall appoint the persons responsible for mutual settlements relating to the implementation of this Agreement.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 10"
-    },
-    {
-     "type": "text",
-     "text": "The Organization shall submit to the Minister:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "report on costs incurred on the implementation of the provisions of this Agreement:",
+     "path": "art_11/ust_1",
+     "text": "Costs incurred by the Organization in the performance of the activities contained in the action plan, specified to in Article 8 shall be reimbursed by:",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_3/pkt_1/lit_a",
-       "text": "for the first six months — by 31 July of each calendar year,",
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/ust_1/pkt_1",
+       "text": "the President of the Office for the Repatriation and Aliens — with regard to aliens, specified in Article 1, points 2 and 3;",
        "children": []
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_3/pkt_1/lit_b",
-       "text": "for a year — within 90 days after the end of a calendar year;",
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_1/pkt_2",
+       "text": "the Chief Commander of the Border Guard — with regard to aliens, specified in Article 1, points 1 and 4.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "report on implementation of the provisions of this Agreement in a given calendar year, including activities performed and results achieved — by 31 January of the following calendar year.",
+     "path": "art_11/ust_2",
+     "text": "Funds to reimburse expenses, specified in paragraph 1, shall be paid on the basis of the monthly invoices and evidences confirming incurring of these expenses enclosed, within 8 weeks from receipt by the authorities, specified in paragraph 1, points 1 and 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "The Contracting Parties shall appoint the persons responsible for mutual settlements relating to the implementation of this Agreement.",
      "children": [
       {
        "type": "text",
-       "text": "Article 11"
+       "text": "Article 10"
+      },
+      {
+       "type": "text",
+       "text": "The Organization shall submit to the Minister:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/ust_3/pkt_1",
+       "text": "report on costs incurred on the implementation of the provisions of this Agreement:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_11/ust_3/pkt_1/lit_a",
+         "text": "for the first six months — by 31 July of each calendar year,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_11/ust_3/pkt_1/lit_b",
+         "text": "for a year — within 90 days after the end of a calendar year;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_3/pkt_2",
+       "text": "report on implementation of the provisions of this Agreement in a given calendar year, including activities performed and results achieved — by 31 January of the following calendar year.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 11"
+        }
+       ]
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Any dispute concerning the interpretation or application of this Agreement shall be settled by a Committee consisting of a representative of the Minister, a representative of the Organization and an arbitrator appointed jointly by the two Contracting Parties who will chair the Committee.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "The Committee shall reach a decision by consensus. If it is not possible to reach the consensus, a decision shall be taken by a majority of votes.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any dispute concerning the interpretation or application of this Agreement shall be settled by a Committee consisting of a representative of the Minister, a representative of the Organization and an arbitrator appointed jointly by the two Contracting Parties who will chair the Committee.",
-   "children": []
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Umawiające się Strony, z dniem utraty mocy obowiązującej niniejszego porozumienia, zakończą ostatecznie rozliczenie z tytułu wydatków poniesionych w związku z wykonywaniem postanowień niniejszego porozumienia.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Committee shall reach a decision by consensus. If it is not possible to reach the consensus, a decision shall be taken by a majority of votes.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 12"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Porozumienie niniejsze podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Porozumienie wejdzie w życie po upływie 30 dni od dnia otrzymania noty późniejszej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony, z dniem utraty mocy obowiązującej niniejszego porozumienia, zakończą ostatecznie rozliczenie z tytułu wydatków poniesionych w związku z wykonywaniem postanowień niniejszego porozumienia."
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Umawiające się Strony zgadzają się na tymczasowe stosowanie postanowień niniejszego porozumienia od dnia jego podpisania.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Porozumienie niniejsze zawarte jest na okres do dnia 31 grudnia 2005 r. Ulega ono automatycznemu przedłużeniu na dalsze roczne okresy, jeżeli żadna z Umawiających się Stron nie wypowie go w drodze notyfikacji na sześć miesięcy przed upływem danego okresu.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Porozumienie niniejsze podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Porozumienie wejdzie w życie po upływie 30 dni od dnia otrzymania noty późniejszej.",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w Warszawie w dniu 12 lipca 2005 r. w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym oba teksty są jednakowo autentyczne."
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony zgadzają się na tymczasowe stosowanie postanowień niniejszego porozumienia od dnia jego podpisania.",
-   "children": []
+   "type": "text",
+   "text": "W imieniu W imieniu Ministra Międzynarodowej Spraw Wewnętrznych Organizacji do Spraw i Administracji Migracji Rzeczypospolitej Polskiej Article 12"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Porozumienie niniejsze zawarte jest na okres do dnia 31 grudnia 2005 r. Ulega ono automatycznemu przedłużeniu na dalsze roczne okresy, jeżeli żadna z Umawiających się Stron nie wypowie go w drodze notyfikacji na sześć miesięcy przed upływem danego okresu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie w dniu 12 lipca 2005 r. w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym oba teksty są jednakowo autentyczne."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu W imieniu Ministra Międzynarodowej Spraw Wewnętrznych Organizacji do Spraw i Administracji Migracji Rzeczypospolitej Polskiej Article 12"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties shall conclude final settlement of costs incurred in relation to implementation of the Agreement upon expiry of this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Article 13"
-    }
-   ]
+   "type": "text",
+   "text": "The Contracting Parties shall conclude final settlement of costs incurred in relation to implementation of the Agreement upon expiry of this Agreement."
+  },
+  {
+   "type": "text",
+   "text": "Article 13"
   },
   {
    "type": "ust",

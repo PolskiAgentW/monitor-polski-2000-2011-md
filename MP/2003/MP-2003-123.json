@@ -33,314 +33,318 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Obywatele Państwa jednej Umawiającej się Strony, niezależnie od miejsca stałego zamieszkania, mogą wjeżdżać, wyjeżdżać, podróżować tranzytem oraz przebywać na terytorium Państwa drugiej Umawiającej się Strony bez wiz do dziewięćdziesięciu dni od dnia przekroczenia granicy na podstawie ważnych dokumentów uprawniających do przekraczania granicy państwowej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Postanowienia zawarte w artykule 1 niniejszej umowy nie obejmują tych obywateli Państwa jednej Umawiającej się Strony, którzy zamierzają wjechać na terytorium Państwa drugiej Umawiającej się Strony w celu podjęcia zatrudnienia bądź innego zajęcia zarobkowego, a także udających się na pobyt stały."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "text",
-   "text": "Ważnymi dokumentami uprawniającymi do przekraczania granicy państwowej w rozumieniu niniejszej umowy są:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "dla obywateli Rzeczypospolitej Polskiej: — paszport, — paszport dyplomatyczny, — paszport służbowy Ministerstwa Spraw Zagranicznych, — paszport blankietowy, — książeczka żeglarska;",
-   "children": []
+   "path": "art_1",
+   "text": "Obywatele Państwa jednej Umawiającej się Strony, niezależnie od miejsca stałego zamieszkania, mogą wjeżdżać, wyjeżdżać, podróżować tranzytem oraz przebywać na terytorium Państwa drugiej Umawiającej się Strony bez wiz do dziewięćdziesięciu dni od dnia przekroczenia granicy na podstawie ważnych dokumentów uprawniających do przekraczania granicy państwowej.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "pkt",
+   "type": "art",
    "num": "2",
-   "path": "pkt_2",
-   "text": "dla obywateli Republiki Panamy: — paszport, — paszport dyplomatyczny, — paszport konsularny, — paszport oficjalny, — paszport specjalny.",
+   "path": "art_2",
+   "text": "Postanowienia zawarte w artykule 1 niniejszej umowy nie obejmują tych obywateli Państwa jednej Umawiającej się Strony, którzy zamierzają wjechać na terytorium Państwa drugiej Umawiającej się Strony w celu podjęcia zatrudnienia bądź innego zajęcia zarobkowego, a także udających się na pobyt stały.",
+   "children": [],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Ważnymi dokumentami uprawniającymi do przekraczania granicy państwowej w rozumieniu niniejszej umowy są:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "dla obywateli Rzeczypospolitej Polskiej: — paszport, — paszport dyplomatyczny, — paszport służbowy Ministerstwa Spraw Zagranicznych, — paszport blankietowy, — książeczka żeglarska;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "dla obywateli Republiki Panamy: — paszport, — paszport dyplomatyczny, — paszport konsularny, — paszport oficjalny, — paszport specjalny.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Obywatele Państwa jednej Umawiającej się Strony, posiadający paszport dyplomatyczny, oficjalny, konsularny, specjalny lub służbowy Ministerstwa Spraw Zagranicznych, wyznaczeni do pracy w przedstawicielstwach dyplomatycznych, urzędach konsularnych lub organizacjach międzynarodowych znajdujących się na terytorium Państwa drugiej Umawiającej się Strony, mogą wjeżdżać, wyjeżdżać i przebywać na terytorium tego Państwa bez wiz przez okres wykonywania obowiązków służbowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Uprawnienia wynikające z zasad zawartych w ustępie 1 rozciągają się również na członków rodzin osób wymienionych w ustępie 1, pozostających z nimi we wspólnocie domowej bez względu na rodzaj posiadanego przez nich paszportu.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Obywatele Państwa jednej Umawiającej się Strony, posiadający paszport dyplomatyczny, oficjalny, konsularny, specjalny lub służbowy Ministerstwa Spraw Zagranicznych, wyznaczeni do pracy w przedstawicielstwach dyplomatycznych, urzędach konsularnych lub organizacjach międzynarodowych znajdujących się na terytorium Państwa drugiej Umawiającej się Strony, mogą wjeżdżać, wyjeżdżać i przebywać na terytorium tego Państwa bez wiz przez okres wykonywania obowiązków służbowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Obywatele Państwa jednej Umawiającej się Strony, zamieszkali na stałe na terytorium Państwa drugiej Umawiającej się Strony, mogą wyjeżdżać z jego terytorium i wracać tam bez wizy, o ile posiadają ważne zezwolenie na pobyt stały."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Obywatele Państwa jednej Umawiającej się Strony przy przekraczaniu granicy Państwa drugiej Umawiającej się Strony oraz w czasie pobytu na jego terytorium zobowiązani są do przestrzegania obowiązujących w tym Państwie przepisów prawnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Obywatel Państwa jednej Umawiającej się Strony, który na terytorium Państwa drugiej Umawiającej się Strony utracił ważny dokument uprawniający do przekraczania granicy państwowej, zobowiązany jest do niezwłocznego powiadomienia o tym właściwych organów tego Państwa. Organy te wydają bezpłatnie zaświadczenie potwierdzające zgłoszenie, na podstawie którego w przypadku Rzeczypospolitej Polskiej przedstawicielstwo dyplomatyczne lub urząd konsularny wydaje obywatelowi swojego Państwa nowy dokument uprawniający do przekraczania granicy. W przypadku Republiki Panamy wymieniony powyżej dokument zostanie wydany przez właściwe władze tego Państwa i doręczony za pośrednictwem swojego przedstawicielstwa dyplomatycznego lub urzędu konsularnego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia niniejszej umowy nie naruszają prawa każdej z Umawiających się Stron do odmowy wyrażenia zgody na wjazd lub pobyt na terytorium swojego Państwa obywatelom Państwa drugiej Umawiającej się Strony, uznanym za osoby niepożądane."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron może ze względu na bezpieczeństwo Państwa, ochronę porządku publicznego, ochronę zdrowia lub z innych przyczyn częściowo lub całkowicie zawiesić stosowanie niniejszej umowy na całym lub na części terytorium swego Państwa. Powiadomienie o zawieszeniu lub wznowieniu stosowania umowy dokonywane jest niezwłocznie drogą dyplomatyczną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Zawiadomienia o wszelkich zmianach dotyczących warunków wjazdu, pobytu, tranzytu i wyjazdu obywateli Państw każdej z Umawiających się Stron będą przekazywane niezwłocznie drogą dyplomatyczną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony wymienią drogą dyplomatyczną wzory ważnych dokumentów podróży nie później niż trzydzieści dni przed wejściem w życie niniejszej umowy. W przypadku zmiany obowiązujących lub wprowadzenia nowych dokumentów podróży ich wzory będą przekazywane w tym samym trybie, nie później niż trzydzieści dni przed ich wprowadzeniem."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Wszelkie rozbieżności wynikające z interpretacji lub stosowania niniejszej umowy będą rozstrzygane między Umawiającymi się Stronami w drodze dyplomatycznej i nie będą przedkładane do rozstrzygnięcia żadnej stronie trzeciej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem Państwa każdej z obu Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not dyplomatycznych. Umowa wejdzie w życie po upływie trzydziestu dni od dnia otrzymania noty późniejszej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza zawarta jest na czas nieokreślony. Może być wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku Umowa traci moc po upływie dziewięćdziesięciu dni od dnia otrzymania zawiadomienia o wypowiedzeniu."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 27 czerwca 2000 r. w dwóch egzemplarzach, każdy w językach polskim i hiszpańskim, przy czym oba teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Panamy"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "CONVENIO"
-    },
-    {
-     "type": "ocr",
-     "text": "ENTRE EL GOBIERNO DE LA REPUBLICA DE POLONIA Y EL GOBIERNO DE LA REPUBLICA DE PANAMA PARA LA SUPRESION DE VISAS"
-    },
-    {
-     "type": "ocr",
-     "text": "El Gobierno de la República de Polonia y el Gobierno de la República de Panama, denominadas en adelante, las , Partes Contratantes”,"
-    },
-    {
-     "type": "ocr",
-     "text": "Con el deseo de intensificar el desarrollo de relaciones de amistad entre ambos Estados,"
-    },
-    {
-     "type": "ocr",
-     "text": "Con el propósito de simplificar y facilitar el procedimiento de los viajes de los nacionales de ambos Estados,"
-    },
-    {
-     "type": "ocr",
-     "text": "Han convenido lo siguiente:"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 1 Los nacionales del Estado de una Parte Contratante, independientemente del lugar de su residencia permanente, pueden entrar, salir, viajar en tránsito y permanecer en el territorio del Estado de la otra Parte Contratante sin necesidad de tener visas hasta el período de noventa días a partir de la fecha de entrada en su territorio, en base de documentos de viaje válidos."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 2 Las disposiciones incluidas en el artículo 1 del presente Convenio no se refieren a los nacionales del Estado de una Parte Contratante que ingresen en el territorio del Estado de la otra Parte Contratante con el propósito de emprender trabajo u otra actividad remunerada, como tampoco a los que ingresan para residir permanentemente."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 3"
-    },
-    {
-     "type": "ocr",
-     "text": "Los documentos de viaje válidos, según el presente Convenio son los siguientes:"
-    },
-    {
-     "type": "ocr",
-     "text": "L. Para los nacionales de la República de Polonia: - pasaporte, - pasaporte diplomático, - pasaporte de servicio del Ministerio de Relaciones Exteriores, - pasaporte temporal, - libreta de navegación. N"
-    },
-    {
-     "type": "ocr",
-     "text": "Para los nacionales de la Republica de Panama: - pasaporte, - pasaporte diplomático, + pasaporte consular, - pasaporte oficial, - pasaporte especial."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 4"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Los nacionales del Estado de una de las Partes Contratantes portadores de pasaportes diplomáticos, oficiales, consulares, especiales y de servicio, expedidos por el Ministerio de Relaciones Exteriores, designados a prestar servicios en las misiones diplomáticas, consulares u organismos internacionales con sede en el territorio del Estado de la otra Parte Contratante, podrán entrar, salir y permanecer en el territorio de este Estado sin cumplir el requisito de visado, durante el período que dure su misión."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Los derechos resultantes de lo establecido en el párrafo 1, se aplican también a los familiares de las personas mencionadas en el párrafo 1, que formen parte de su casa, independientemente del tipo de pasaportes que posean."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 5"
-    },
-    {
-     "type": "ocr",
-     "text": "Los nacionales del Estado de una Parte Contratante que residen permanentemente en el territorio del Estado de la otra Parte Contratante, podrán abandonar su territorio o regresar sin necesidad de visado, siempre que tengan un permiso válido de residencia permanente."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 6"
-    },
-    {
-     "type": "ocr",
-     "text": "Los nacionales del Estado de una Parte Contratante están obligados, al cruzar la frontera del Estado de la otra Parte Contratante y durante la permanencia en su territorio, a observar la legislación vigente de este país."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 7"
-    },
-    {
-     "type": "ocr",
-     "text": "El nacional del Estado de una Parte Contratante que perdiera el documento válido de viaje en el territorio del Estado de la otra Parte Contratante está obligado a informar inmediatamente sobre el hecho a las entidades nacionales competentes de este Estado. Dichas entidades le otorgarán gratuitamente un certificado que confirmará la pérdida del documento mencionado, y en base de éste, la representación diplomática o consular, en el caso de la República de Polonia, expedirá a su nacional un nuevo documento de viaje. En el caso de la República de Panamá, este nuevo documento de viaje será expedido .por las autoridades competentes, por conducto de su representación diplomática o consular."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 8"
-    },
-    {
-     "type": "ocr",
-     "text": "Las disposiciones del presente Convenio no afectan el derecho de cada una de las Partes Contratantes de impedir la entrada o permanencia en el territorio de su Estado a los nacionales del Estado de la otra Parte Contratante, considerados como personas non gratas."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 9"
-    },
-    {
-     "type": "ocr",
-     "text": "Cada una de las Partes Contratantes puede, por motivos de seguridad del Estado u orden público, por motivos sanitarios u otros, suspender la aplicación de este Convenio total o parcialmente, en todo o una parte del territorio de su Estado. Ambas Partes Contratantes se informarán inmediatamente sobre la suspensión y reposición del Convenio por via diplomática."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 10"
-    },
-    {
-     "type": "ocr",
-     "text": "Las informaciones sobre todo tipo de modificaciones respecto a las condiciones de entrada, permanencia, tránsito y salida de los nacionales de los Estados de cada Parte Contratante, serán intercambiadas por medio de los canales diplomáticos."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTÍCULO 11"
-    },
-    {
-     "type": "ocr",
-     "text": "Las Partes Contratantes intercambiarán, por via diplomática, muestras de documentos de viaje válidos, al menos treinta días antes de la puesta en vigor de este Convenio. En caso de un cambio de los documentos vigentes o la introducción de documentos de viaje nuevos, sus muestras serán transmitidas por la misma vía al menos treinta días antes de su introducción."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 12"
-    },
-    {
-     "type": "ocr",
-     "text": "Cualesquiera divergencias resultadas de la interpretación o aplicación de éste Convenio serán arregladas entre las Partes Contratantes en vía diplomática y no serán llevadas para su resolución a ninguna tercera Parte."
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 13 Este Convenio será sometido a la aceptación de acuerdo con las leyes del Estado de cada una de las Partes Contratantes, lo que será confirmado mediante el intercambio de las notas diplomáticas. El Convenio entrará en vigor treinta días después del recibo de la nota posterior."
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 7 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "ARTICULO 14"
-    },
-    {
-     "type": "ocr",
-     "text": "El presente Convenio tendrá una duración ilimitada. Podrá ser denunciado por cualquiera de las Partes, previa notificación por vía diplomática. En tal caso perderá la vigencia después de noventa días después de la fecha de la denuncia."
-    },
-    {
-     "type": "ocr",
-     "text": "Hecho en la ciudad de Varsovia alos 27 días del mes de junio de 2000 en dos ejemplares, cada uno en el idioma polaco y español, siendo los dos textos de igual validez. e"
-    },
-    {
-     "type": "ocr",
-     "text": "POR EL GOBIERNO DE LA P EL GOBIE DE LA REPUBLICA DE POLONIA REPUBLICA DE PANAMA"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Uprawnienia wynikające z zasad zawartych w ustępie 1 rozciągają się również na członków rodzin osób wymienionych w ustępie 1, pozostających z nimi we wspólnocie domowej bez względu na rodzaj posiadanego przez nich paszportu.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Obywatele Państwa jednej Umawiającej się Strony, zamieszkali na stałe na terytorium Państwa drugiej Umawiającej się Strony, mogą wyjeżdżać z jego terytorium i wracać tam bez wizy, o ile posiadają ważne zezwolenie na pobyt stały.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Obywatele Państwa jednej Umawiającej się Strony przy przekraczaniu granicy Państwa drugiej Umawiającej się Strony oraz w czasie pobytu na jego terytorium zobowiązani są do przestrzegania obowiązujących w tym Państwie przepisów prawnych.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Obywatel Państwa jednej Umawiającej się Strony, który na terytorium Państwa drugiej Umawiającej się Strony utracił ważny dokument uprawniający do przekraczania granicy państwowej, zobowiązany jest do niezwłocznego powiadomienia o tym właściwych organów tego Państwa. Organy te wydają bezpłatnie zaświadczenie potwierdzające zgłoszenie, na podstawie którego w przypadku Rzeczypospolitej Polskiej przedstawicielstwo dyplomatyczne lub urząd konsularny wydaje obywatelowi swojego Państwa nowy dokument uprawniający do przekraczania granicy. W przypadku Republiki Panamy wymieniony powyżej dokument zostanie wydany przez właściwe władze tego Państwa i doręczony za pośrednictwem swojego przedstawicielstwa dyplomatycznego lub urzędu konsularnego.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Postanowienia niniejszej umowy nie naruszają prawa każdej z Umawiających się Stron do odmowy wyrażenia zgody na wjazd lub pobyt na terytorium swojego Państwa obywatelom Państwa drugiej Umawiającej się Strony, uznanym za osoby niepożądane.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Każda z Umawiających się Stron może ze względu na bezpieczeństwo Państwa, ochronę porządku publicznego, ochronę zdrowia lub z innych przyczyn częściowo lub całkowicie zawiesić stosowanie niniejszej umowy na całym lub na części terytorium swego Państwa. Powiadomienie o zawieszeniu lub wznowieniu stosowania umowy dokonywane jest niezwłocznie drogą dyplomatyczną.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Zawiadomienia o wszelkich zmianach dotyczących warunków wjazdu, pobytu, tranzytu i wyjazdu obywateli Państw każdej z Umawiających się Stron będą przekazywane niezwłocznie drogą dyplomatyczną.",
+   "children": [],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Umawiające się Strony wymienią drogą dyplomatyczną wzory ważnych dokumentów podróży nie później niż trzydzieści dni przed wejściem w życie niniejszej umowy. W przypadku zmiany obowiązujących lub wprowadzenia nowych dokumentów podróży ich wzory będą przekazywane w tym samym trybie, nie później niż trzydzieści dni przed ich wprowadzeniem.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Wszelkie rozbieżności wynikające z interpretacji lub stosowania niniejszej umowy będą rozstrzygane między Umawiającymi się Stronami w drodze dyplomatycznej i nie będą przedkładane do rozstrzygnięcia żadnej stronie trzeciej.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem Państwa każdej z obu Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not dyplomatycznych. Umowa wejdzie w życie po upływie trzydziestu dni od dnia otrzymania noty późniejszej.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Umowa niniejsza zawarta jest na czas nieokreślony. Może być wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku Umowa traci moc po upływie dziewięćdziesięciu dni od dnia otrzymania zawiadomienia o wypowiedzeniu.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 27 czerwca 2000 r. w dwóch egzemplarzach, każdy w językach polskim i hiszpańskim, przy czym oba teksty mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Panamy"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "CONVENIO"
+  },
+  {
+   "type": "ocr",
+   "text": "ENTRE EL GOBIERNO DE LA REPUBLICA DE POLONIA Y EL GOBIERNO DE LA REPUBLICA DE PANAMA PARA LA SUPRESION DE VISAS"
+  },
+  {
+   "type": "ocr",
+   "text": "El Gobierno de la República de Polonia y el Gobierno de la República de Panama, denominadas en adelante, las , Partes Contratantes”,"
+  },
+  {
+   "type": "ocr",
+   "text": "Con el deseo de intensificar el desarrollo de relaciones de amistad entre ambos Estados,"
+  },
+  {
+   "type": "ocr",
+   "text": "Con el propósito de simplificar y facilitar el procedimiento de los viajes de los nacionales de ambos Estados,"
+  },
+  {
+   "type": "ocr",
+   "text": "Han convenido lo siguiente:"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 1 Los nacionales del Estado de una Parte Contratante, independientemente del lugar de su residencia permanente, pueden entrar, salir, viajar en tránsito y permanecer en el territorio del Estado de la otra Parte Contratante sin necesidad de tener visas hasta el período de noventa días a partir de la fecha de entrada en su territorio, en base de documentos de viaje válidos."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 2 Las disposiciones incluidas en el artículo 1 del presente Convenio no se refieren a los nacionales del Estado de una Parte Contratante que ingresen en el territorio del Estado de la otra Parte Contratante con el propósito de emprender trabajo u otra actividad remunerada, como tampoco a los que ingresan para residir permanentemente."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 3"
+  },
+  {
+   "type": "ocr",
+   "text": "Los documentos de viaje válidos, según el presente Convenio son los siguientes:"
+  },
+  {
+   "type": "ocr",
+   "text": "L. Para los nacionales de la República de Polonia: - pasaporte, - pasaporte diplomático, - pasaporte de servicio del Ministerio de Relaciones Exteriores, - pasaporte temporal, - libreta de navegación. N"
+  },
+  {
+   "type": "ocr",
+   "text": "Para los nacionales de la Republica de Panama: - pasaporte, - pasaporte diplomático, + pasaporte consular, - pasaporte oficial, - pasaporte especial."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 4"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Los nacionales del Estado de una de las Partes Contratantes portadores de pasaportes diplomáticos, oficiales, consulares, especiales y de servicio, expedidos por el Ministerio de Relaciones Exteriores, designados a prestar servicios en las misiones diplomáticas, consulares u organismos internacionales con sede en el territorio del Estado de la otra Parte Contratante, podrán entrar, salir y permanecer en el territorio de este Estado sin cumplir el requisito de visado, durante el período que dure su misión."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Los derechos resultantes de lo establecido en el párrafo 1, se aplican también a los familiares de las personas mencionadas en el párrafo 1, que formen parte de su casa, independientemente del tipo de pasaportes que posean."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 5"
+  },
+  {
+   "type": "ocr",
+   "text": "Los nacionales del Estado de una Parte Contratante que residen permanentemente en el territorio del Estado de la otra Parte Contratante, podrán abandonar su territorio o regresar sin necesidad de visado, siempre que tengan un permiso válido de residencia permanente."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 6"
+  },
+  {
+   "type": "ocr",
+   "text": "Los nacionales del Estado de una Parte Contratante están obligados, al cruzar la frontera del Estado de la otra Parte Contratante y durante la permanencia en su territorio, a observar la legislación vigente de este país."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 7"
+  },
+  {
+   "type": "ocr",
+   "text": "El nacional del Estado de una Parte Contratante que perdiera el documento válido de viaje en el territorio del Estado de la otra Parte Contratante está obligado a informar inmediatamente sobre el hecho a las entidades nacionales competentes de este Estado. Dichas entidades le otorgarán gratuitamente un certificado que confirmará la pérdida del documento mencionado, y en base de éste, la representación diplomática o consular, en el caso de la República de Polonia, expedirá a su nacional un nuevo documento de viaje. En el caso de la República de Panamá, este nuevo documento de viaje será expedido .por las autoridades competentes, por conducto de su representación diplomática o consular."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 8"
+  },
+  {
+   "type": "ocr",
+   "text": "Las disposiciones del presente Convenio no afectan el derecho de cada una de las Partes Contratantes de impedir la entrada o permanencia en el territorio de su Estado a los nacionales del Estado de la otra Parte Contratante, considerados como personas non gratas."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 9"
+  },
+  {
+   "type": "ocr",
+   "text": "Cada una de las Partes Contratantes puede, por motivos de seguridad del Estado u orden público, por motivos sanitarios u otros, suspender la aplicación de este Convenio total o parcialmente, en todo o una parte del territorio de su Estado. Ambas Partes Contratantes se informarán inmediatamente sobre la suspensión y reposición del Convenio por via diplomática."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 10"
+  },
+  {
+   "type": "ocr",
+   "text": "Las informaciones sobre todo tipo de modificaciones respecto a las condiciones de entrada, permanencia, tránsito y salida de los nacionales de los Estados de cada Parte Contratante, serán intercambiadas por medio de los canales diplomáticos."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTÍCULO 11"
+  },
+  {
+   "type": "ocr",
+   "text": "Las Partes Contratantes intercambiarán, por via diplomática, muestras de documentos de viaje válidos, al menos treinta días antes de la puesta en vigor de este Convenio. En caso de un cambio de los documentos vigentes o la introducción de documentos de viaje nuevos, sus muestras serán transmitidas por la misma vía al menos treinta días antes de su introducción."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 12"
+  },
+  {
+   "type": "ocr",
+   "text": "Cualesquiera divergencias resultadas de la interpretación o aplicación de éste Convenio serán arregladas entre las Partes Contratantes en vía diplomática y no serán llevadas para su resolución a ninguna tercera Parte."
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 13 Este Convenio será sometido a la aceptación de acuerdo con las leyes del Estado de cada una de las Partes Contratantes, lo que será confirmado mediante el intercambio de las notas diplomáticas. El Convenio entrará en vigor treinta días después del recibo de la nota posterior."
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 7 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, spa+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "ARTICULO 14"
+  },
+  {
+   "type": "ocr",
+   "text": "El presente Convenio tendrá una duración ilimitada. Podrá ser denunciado por cualquiera de las Partes, previa notificación por vía diplomática. En tal caso perderá la vigencia después de noventa días después de la fecha de la denuncia."
+  },
+  {
+   "type": "ocr",
+   "text": "Hecho en la ciudad de Varsovia alos 27 días del mes de junio de 2000 en dos ejemplares, cada uno en el idioma polaco y español, siendo los dos textos de igual validez. e"
+  },
+  {
+   "type": "ocr",
+   "text": "POR EL GOBIERNO DE LA P EL GOBIE DE LA REPUBLICA DE POLONIA REPUBLICA DE PANAMA"
   }
  ],
  "annexes": [],

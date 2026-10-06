@@ -25,148 +25,149 @@
    "text": "Minister Kultury Rzeczypospolitej Polskiej i Ministerstwo Kultury Federacji Rosyjskiej, zwane dalej „Stronami”, kierując się troską o dalszy rozwój i pogłębienie współpracy w dziedzinie kultury, postanowili:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "W miarę posiadanych środków, Strony będą popierać realizację:"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Wystawy „Srebra polskie w zbiorach rosyjskich” ze zbiorów Państwowego Historyczno-Kulturalnego Muzeum-Zabytku „Moskiewski Kreml”, z Państwowego Muzeum Historycznego oraz Ermitażu w Zamku Królewskim w Warszawie (2003 r.).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wspólnego projektu malarzy polskich i rosyjskich, realizowanego przez Centrum Sztuki Współczesnej — Zamek Ujazdowski w Warszawie i Centrum Sztuki Współczesnej w St. Petersburgu (I połowa 2003 r.).",
+   "path": "art_1",
+   "text": "W miarę posiadanych środków, Strony będą popierać realizację:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Wystawy „Srebra polskie w zbiorach rosyjskich” ze zbiorów Państwowego Historyczno-Kulturalnego Muzeum-Zabytku „Moskiewski Kreml”, z Państwowego Muzeum Historycznego oraz Ermitażu w Zamku Królewskim w Warszawie (2003 r.).",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą popierać współpracę polskich i rosyjskich teatrów, w tym okażą ewentualną pomoc w przyjęciu i wysłaniu:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Wspólnego projektu malarzy polskich i rosyjskich, realizowanego przez Centrum Sztuki Współczesnej — Zamek Ujazdowski w Warszawie i Centrum Sztuki Współczesnej w St. Petersburgu (I połowa 2003 r.).",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Rosyjskich uczestników i obserwatorów Międzynarodowego Festiwalu „Kontakt” (Toruń, każdego roku).",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Polskich uczestników i obserwatorów Międzynarodowego Festiwalu Teatralnego „Bałtycki Dom” (w St. Petersburgu, każdego roku).",
-   "children": []
+   "path": "art_2",
+   "text": "Strony będą popierać współpracę polskich i rosyjskich teatrów, w tym okażą ewentualną pomoc w przyjęciu i wysłaniu:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Rosyjskich uczestników i obserwatorów Międzynarodowego Festiwalu „Kontakt” (Toruń, każdego roku).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Polskich uczestników i obserwatorów Międzynarodowego Festiwalu Teatralnego „Bałtycki Dom” (w St. Petersburgu, każdego roku).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu Sztuki Wizualnej Animacje (Bielsko-Biała, 21 maja—1 czerwca 2002 r.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Gościnnych występów Teatru Małego z St. Petersburga na scenie Teatru Narodowego w Warszawie w ramach Dni St. Petersburga w Warszawie (czerwiec 2002 r.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_2/ust_5",
+     "text": "Występów Teatru Narodowego na scenach teatrów w Moskwie i St. Petersburgu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_2/ust_6",
+     "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu „Dialog” (Wrocław, październik 2003 r.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_2/ust_7",
+     "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu Teatralnego „Konfrontacje Teatralne” (Lublin, październik 2002 r.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_2/ust_8",
+     "text": "Występów Teatru Wielkiego — Opery Narodowej na scenie Państwowego Akademickiego Teatru Wielkiego w Moskwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_2/ust_9",
+     "text": "Koncertowego wykonania opery „Król Roger” K. Szymanowskiego oraz wykonania scenicznego opery „Eugeniusz Oniegin” P. Czajkowskiego (Moskwa, grudzień 2002 r.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "art_2/ust_10",
+     "text": "Występów Państwowego Akademickiego Teatru Wielkiego z Moskwy na scenie Teatru Wielkiego — Opery Narodowej (Warszawa, grudzień 2002 r.).",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu Sztuki Wizualnej Animacje (Bielsko-Biała, 21 maja—1 czerwca 2002 r.).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Gościnnych występów Teatru Małego z St. Petersburga na scenie Teatru Narodowego w Warszawie w ramach Dni St. Petersburga w Warszawie (czerwiec 2002 r.).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Występów Teatru Narodowego na scenach teatrów w Moskwie i St. Petersburgu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu „Dialog” (Wrocław, październik 2003 r.).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu Teatralnego „Konfrontacje Teatralne” (Lublin, październik 2002 r.).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Występów Teatru Wielkiego — Opery Narodowej na scenie Państwowego Akademickiego Teatru Wielkiego w Moskwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "9",
-   "path": "ust_9",
-   "text": "Koncertowego wykonania opery „Król Roger” K. Szymanowskiego oraz wykonania scenicznego opery „Eugeniusz Oniegin” P. Czajkowskiego (Moskwa, grudzień 2002 r.).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "10",
-   "path": "ust_10",
-   "text": "Występów Państwowego Akademickiego Teatru Wielkiego z Moskwy na scenie Teatru Wielkiego — Opery Narodowej (Warszawa, grudzień 2002 r.).",
+   "path": "art_3",
+   "text": "Strony okażą pomoc w przyjęciu i wysłaniu:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu „Warszawska Jesień” (każdego roku).",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony okażą pomoc w przyjęciu i wysłaniu:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu „Wratislavia Cantans” — Muzyka i Sztuki Piękne” (każdego roku).",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu „Warszawska Jesień” (każdego roku).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Uczestników i obserwatorów Międzynarodowego Festiwalu „Wratislavia Cantans” — Muzyka i Sztuki Piękne” (każdego roku).",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Obie Strony, w miarę posiadanych środków, będą sprzyjać udziałowi przedstawicieli Polski w uroczystościach obchodów 300-lecia St. Petersburga.",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Obie Strony, w miarę posiadanych środków, będą sprzyjać udziałowi przedstawicieli Polski w uroczystościach obchodów 300-lecia St. Petersburga."
-    },
     {
      "type": "text",
      "text": "Szczegóły udziału przedstawicieli Polski zostaną ustalone w trybie roboczym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "I. Strony będą sprzyjać promocji literatury polskiej w Rosji i rosyjskiej w Polsce poprzez wspieranie współpracy pomiędzy bibliotekami i archiwami, działalności translatorskiej, wymianę pisarzy i poetów oraz współpracę związków twórczych."
-    },
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "I. Strony będą sprzyjać promocji literatury polskiej w Rosji i rosyjskiej w Polsce poprzez wspieranie współpracy pomiędzy bibliotekami i archiwami, działalności translatorskiej, wymianę pisarzy i poetów oraz współpracę związków twórczych.",
+   "children": [
     {
      "type": "text",
      "text": "II. W tym celu Strony będą popierać: II.1 Udział Strony polskiej:"
@@ -174,212 +175,213 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_5/lit_a",
      "text": "w Międzynarodowych Targach Książki w Moskwie.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_5/lit_b",
      "text": "w Międzynarodowych Targach Książki w St. Petersburgu. II.2 Udział Strony rosyjskiej:",
      "children": []
     },
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_5/lit_a",
      "text": "w Międzynarodowych Targach Książki w Warszawie.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_5/lit_b",
      "text": "w Międzynarodowych Targach Książki w Krakowie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      },
-      {
-       "type": "text",
-       "text": "W dziedzinie kinematografii Strony będą popierać:"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Bezpośrednią współpracę instytucji, organizacji i producentów filmowych obu państw ze szczególnym uwzględnieniem realizacji wspólnych filmów i świadczenia wzajemnych usług filmowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Bezpośrednią współpracę polskich i rosyjskich stowarzyszeń filmowców i narodowych archiwów filmowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Organizację przeglądów filmowych na zasadach wzajemności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Udział swoich przedstawicieli w krajowych i międzynarodowych festiwalach przeprowadzanych na terytorium państwa drugiej Strony, zgodnie z regulaminem tych festiwali.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "W dziedzinie kinematografii Strony będą popierać:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Bezpośrednią współpracę instytucji, organizacji i producentów filmowych obu państw ze szczególnym uwzględnieniem realizacji wspólnych filmów i świadczenia wzajemnych usług filmowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą kontynuować współpracę ekspertów w dziedzinie ujawniania i zwrotu dóbr kultury przemieszczonych na obszar drugiego państwa."
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Bezpośrednią współpracę polskich i rosyjskich stowarzyszeń filmowców i narodowych archiwów filmowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 8"
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Organizację przeglądów filmowych na zasadach wzajemności.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą popierać:"
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "Udział swoich przedstawicieli w krajowych i międzynarodowych festiwalach przeprowadzanych na terytorium państwa drugiej Strony, zgodnie z regulaminem tych festiwali.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Bezpośrednią współpracę szkół średnich i wyższych uczelni artystycznych obu państw, a także wymianę pedagogów i studentów wyżej wymienionych placówek.",
-   "children": []
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą kontynuować współpracę ekspertów w dziedzinie ujawniania i zwrotu dóbr kultury przemieszczonych na obszar drugiego państwa.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Udział przedstawicieli szkół i uczelni artystycznych w konferencjach, kolokwiach, sesjach i kursach dotyczących kształcenia artystycznego i teorii sztuki organizowanych przez drugą Stronę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wymianę informacji o imprezach artystycznych (kursy, konkursy, festiwale).",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Strony będą popierać:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Bezpośrednią współpracę szkół średnich i wyższych uczelni artystycznych obu państw, a także wymianę pedagogów i studentów wyżej wymienionych placówek.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Obie Strony będą kontynuować przygotowania do przekrojowej prezentacji kulturalnej „Warszawa—Moskwa, Moskwa—Warszawa 1900—2000” na podstawie umów zawartych pomiędzy organizatorami wystawy wyznaczonymi przez Ministerstwo Kultury Rzeczypospolitej Polskiej i Ministerstwo Kultury Federacji Rosyjskiej."
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Udział przedstawicieli szkół i uczelni artystycznych w konferencjach, kolokwiach, sesjach i kursach dotyczących kształcenia artystycznego i teorii sztuki organizowanych przez drugą Stronę.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Wymianę informacji o imprezach artystycznych (kursy, konkursy, festiwale).",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Obie Strony będą kontynuować przygotowania do przekrojowej prezentacji kulturalnej „Warszawa—Moskwa, Moskwa—Warszawa 1900—2000” na podstawie umów zawartych pomiędzy organizatorami wystawy wyznaczonymi przez Ministerstwo Kultury Rzeczypospolitej Polskiej i Ministerstwo Kultury Federacji Rosyjskiej.",
+   "children": [
     {
      "type": "text",
      "text": "Program, wymiana ekspertów, dokładne terminy, zagadnienia natury organizacyjnej i finansowej związane z przeprowadzeniem przekrojowej prezentacji kulturalnej „Warszawa—Moskwa, Moskwa—Warszawa 1900—2000” zostaną sprecyzowane w odrębnej umowie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą wspierać bezpośrednią współpracę polskich i rosyjskich organizacji i instytucji kultury w regionach i województwach oraz działalność pozarządowych organizacji kulturalnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą wspierać udział artystów i zespołów ludowych w międzynarodowych festiwalach organizowanych w obu państwach, a także wymianę specjalistów z dziedziny kultury ludowej i ruchu amatorskiego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać bezpośrednią współpracę Teatru Polskiego we Wrocławiu i Moskiewskiego Teatru Dramatu i Komedii na Tagance, Opery Narodowej — Teatru Wielkiego w Warszawie i Państwowego Akademickiego Teatru Wielkiego w Moskwie, a także Biblioteki Narodowej w Warszawie i Rosyjskiej Biblioteki Narodowej w St. Petersburgu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjać zapewnieniu warunków dla rozwoju kulturalnego mniejszości narodowych: polskiej w Federacji Rosyjskiej i rosyjskiej w Rzeczypospolitej Polskiej, w tym szerokiego wsparcia działalności związków i stowarzyszeń społeczno-kulturalnych, w zakresie swoich kompetencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Strony uzgodniły, że wymiana kulturalna będzie realizowana według następujących zasad:"
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przy wymianie zespołów artystycznych, delegacji i osób:",
-   "children": [
-    {
-     "type": "text",
-     "text": "— Strona wysyłająca pokryje koszty podróży, przewozu bagażu w obie strony oraz wypłaci honoraria wykonawcom."
-    },
-    {
-     "type": "text",
-     "text": "— Strona przyjmująca pokryje koszty zakwaterowania, wyżywienia lub — na życzenie Strony wysyłającej — diet pobytowych zgodnie z przepisami Strony przyjmującej, wynajmu pomieszczeń, transportu na terytorium Strony przyjmującej zgodnie z programem pobytu, a także zapewni opiekę tłumacza, a w razie potrzeby pilotów."
-    }
-   ]
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Strony będą wspierać bezpośrednią współpracę polskich i rosyjskich organizacji i instytucji kultury w regionach i województwach oraz działalność pozarządowych organizacji kulturalnych.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przy wymianie wystaw muzealnych i organizowaniu dużych wystaw, warunki i zasady finansowania i realizacji zostaną określone w oddzielnym protokole zawartym pomiędzy organizatorami przy udziale Stron.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Strony będą wspierać udział artystów i zespołów ludowych w międzynarodowych festiwalach organizowanych w obu państwach, a także wymianę specjalistów z dziedziny kultury ludowej i ruchu amatorskiego.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Strony będą popierać bezpośrednią współpracę Teatru Polskiego we Wrocławiu i Moskiewskiego Teatru Dramatu i Komedii na Tagance, Opery Narodowej — Teatru Wielkiego w Warszawie i Państwowego Akademickiego Teatru Wielkiego w Moskwie, a także Biblioteki Narodowej w Warszawie i Rosyjskiej Biblioteki Narodowej w St. Petersburgu.",
+   "children": [],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Strony będą sprzyjać zapewnieniu warunków dla rozwoju kulturalnego mniejszości narodowych: polskiej w Federacji Rosyjskiej i rosyjskiej w Rzeczypospolitej Polskiej, w tym szerokiego wsparcia działalności związków i stowarzyszeń społeczno-kulturalnych, w zakresie swoich kompetencji.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Strony uzgodniły, że wymiana kulturalna będzie realizowana według następujących zasad:",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Przy wymianie zespołów artystycznych, delegacji i osób:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Strona wysyłająca pokryje koszty podróży, przewozu bagażu w obie strony oraz wypłaci honoraria wykonawcom."
+      },
+      {
+       "type": "text",
+       "text": "— Strona przyjmująca pokryje koszty zakwaterowania, wyżywienia lub — na życzenie Strony wysyłającej — diet pobytowych zgodnie z przepisami Strony przyjmującej, wynajmu pomieszczeń, transportu na terytorium Strony przyjmującej zgodnie z programem pobytu, a także zapewni opiekę tłumacza, a w razie potrzeby pilotów."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Poszczególne artykuły niniejszego protokołu mogą być zmienione lub uzupełnione tylko za porozumieniem obydwu Stron, wyłącznie w formie pisemnej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Niniejszy protokół wejdzie w życie z dniem podpisania i pozostanie w mocy do dnia 31 grudnia 2003 r."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 28 czerwca 2002 r. w dwóch egzemplarzach, w językach polskim i rosyjskim, przy czym oba egzemplarze mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Minister Kultury Za Ministerstwo Kultury Rzeczypospolitej Polskiej Federacji Rosyjskiej"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 4-9 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Przy wymianie wystaw muzealnych i organizowaniu dużych wystaw, warunki i zasady finansowania i realizacji zostaną określone w oddzielnym protokole zawartym pomiędzy organizatorami przy udziale Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Poszczególne artykuły niniejszego protokołu mogą być zmienione lub uzupełnione tylko za porozumieniem obydwu Stron, wyłącznie w formie pisemnej.",
+   "children": [],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Niniejszy protokół wejdzie w życie z dniem podpisania i pozostanie w mocy do dnia 31 grudnia 2003 r.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 28 czerwca 2002 r. w dwóch egzemplarzach, w językach polskim i rosyjskim, przy czym oba egzemplarze mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "Minister Kultury Za Ministerstwo Kultury Rzeczypospolitej Polskiej Federacji Rosyjskiej"
+  },
+  {
+   "type": "note",
+   "text": "[Strony 4-9 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
   }
  ],
  "annexes": [],

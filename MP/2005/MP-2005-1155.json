@@ -33,146 +33,150 @@
    "text": "uzgodnili, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą popierały nawiązywanie bezpośredniej współpracy pomiędzy szkołami wyższymi obu krajów w zakresie:",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "prowadzenia wspólnych badań naukowych;",
+     "path": "art_1/ust_1",
+     "text": "Umawiające się Strony będą popierały nawiązywanie bezpośredniej współpracy pomiędzy szkołami wyższymi obu krajów w zakresie:",
      "children": [
       {
-       "type": "text",
-       "text": "THE AGREEMENT"
-      },
-      {
-       "type": "text",
-       "text": "between the Minister of National Education of the Republic of Poland and the Minister of Higher Education and Scientific Research of the Republic of Yemen on the education and higher education co-operation for the years 2005—2007"
-      },
-      {
-       "type": "text",
-       "text": "The Minister of National Education of the Republic of Poland and the Minister of Higher Education and Scientific Research of the Republic of Yemen, hereafter referred to as the Contracting Parties, willing to strengthen the friendship between the two countries and bearing in mind the aim of facilitating and developing the co-operation within the field of education and higher education,"
-      },
-      {
-       "type": "text",
-       "text": "have agreed as follows:"
-      },
-      {
-       "type": "text",
-       "text": "Article 1"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_1/pkt_1",
+       "text": "prowadzenia wspólnych badań naukowych;",
+       "children": [
+        {
+         "type": "text",
+         "text": "THE AGREEMENT"
+        },
+        {
+         "type": "text",
+         "text": "between the Minister of National Education of the Republic of Poland and the Minister of Higher Education and Scientific Research of the Republic of Yemen on the education and higher education co-operation for the years 2005—2007"
+        },
+        {
+         "type": "text",
+         "text": "The Minister of National Education of the Republic of Poland and the Minister of Higher Education and Scientific Research of the Republic of Yemen, hereafter referred to as the Contracting Parties, willing to strengthen the friendship between the two countries and bearing in mind the aim of facilitating and developing the co-operation within the field of education and higher education,"
+        },
+        {
+         "type": "text",
+         "text": "have agreed as follows:"
+        },
+        {
+         "type": "text",
+         "text": "Article 1"
+        }
+       ]
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Contracting Parties shall support the establishment of direct co-operation between schools of higher education of the two countries in the fields of:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "conducting joint scientific research;",
-     "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "The Contracting Parties shall support the establishment of direct co-operation between schools of higher education of the two countries in the fields of:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_1/pkt_1",
+       "text": "conducting joint scientific research;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_1/pkt_2",
+       "text": "wymiany pracowników naukowo-dydaktycznych w celu przygotowania programów nauczania, realizacji badań naukowych, prowadzenia wykładów, uczestniczenia w kongresach i sympozjach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_1/pkt_3",
+       "text": "wymiany pracowników naukowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "wymiany pracowników naukowo-dydaktycznych w celu przygotowania programów nauczania, realizacji badań naukowych, prowadzenia wykładów, uczestniczenia w kongresach i sympozjach;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "wymiany pracowników naukowych.",
+     "path": "art_1/ust_2",
+     "text": "Szczegółowy zakres współpracy, o której mowa w ustępie 1, oraz warunki finansowe z nią związane uzgadniane będą pomiędzy zainteresowanymi szkołami wyższymi.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Szczegółowy zakres współpracy, o której mowa w ustępie 1, oraz warunki finansowe z nią związane uzgadniane będą pomiędzy zainteresowanymi szkołami wyższymi.",
+   "path": "art_2",
+   "text": "Strona polska przyzna każdego roku Stronie jemeńskiej 5 miejsc na studiach magisterskich, wolnych od opłat za naukę, w szkołach wyższych nadzorowanych przez Ministra Edukacji Narodowej.",
+   "children": [],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Strona polska będzie przyjmować obywateli jemeńskich na studia magisterskie, doktoranckie, podyplomowe na warunkach odpłatności, zgodnie z prawem wewnętrznym.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strona jemeńska przyzna co roku Stronie polskiej 5 miejsc na 10-miesięczny okres studiów w zakresie języka arabskiego oraz staże naukowo-badawcze w różnych dziedzinach wolne od opłat za naukę.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą wymieniać informacje i materiały na temat systemów edukacji obu Umawiających się Stron.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Na wniosek Strony jemeńskiej Strona polska przyjmie, na koszt Strony jemeńskiej, delegację jemeńskich ekspertów w dziedzinie oświaty i szkolnictwa wyższego.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Dokumenty kandydatów na studia magisterskie, doktoranckie, podyplomowe oraz staże naukowo-badawcze będą przekazywane za pośrednictwem Ambasady Rzeczypospolitej Polskiej w Sanie i Ambasady Republiki Jemeńskiej w Warszawie w uzgodnionych przez obie Umawiające się Strony terminach.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony uzgodniły następujące warunki finansowe wymiany osób, o których mowa w artykułach 2 i 4:",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Strona polska przyzna każdego roku Stronie jemeńskiej 5 miejsc na studiach magisterskich, wolnych od opłat za naukę, w szkołach wyższych nadzorowanych przez Ministra Edukacji Narodowej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Strona polska będzie przyjmować obywateli jemeńskich na studia magisterskie, doktoranckie, podyplomowe na warunkach odpłatności, zgodnie z prawem wewnętrznym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Strona jemeńska przyzna co roku Stronie polskiej 5 miejsc na 10-miesięczny okres studiów w zakresie języka arabskiego oraz staże naukowo-badawcze w różnych dziedzinach wolne od opłat za naukę."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą wymieniać informacje i materiały na temat systemów edukacji obu Umawiających się Stron."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Na wniosek Strony jemeńskiej Strona polska przyjmie, na koszt Strony jemeńskiej, delegację jemeńskich ekspertów w dziedzinie oświaty i szkolnictwa wyższego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Dokumenty kandydatów na studia magisterskie, doktoranckie, podyplomowe oraz staże naukowo-badawcze będą przekazywane za pośrednictwem Ambasady Rzeczypospolitej Polskiej w Sanie i Ambasady Republiki Jemeńskiej w Warszawie w uzgodnionych przez obie Umawiające się Strony terminach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony uzgodniły następujące warunki finansowe wymiany osób, o których mowa w artykułach 2 i 4:"
-    },
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_8/pkt_1",
      "text": "Strona przyjmująca zapewni:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_2/pkt_1/lit_a",
+       "path": "art_8/pkt_1/lit_a",
        "text": "wolną od opłat naukę,",
        "children": []
       }
@@ -181,247 +185,252 @@
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_8/pkt_2",
      "text": "exchange of scientific and didactical staff for the purpose of elaborating educational programmes, conducting scientific research giving lectures, participating in congresses and seminars;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_2/pkt_3",
+     "path": "art_8/pkt_3",
      "text": "exchange of scientific staff.",
      "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The detailed scope of the co-operation referred to in paragraph 1 as well as its financial provisions shall be elaborated by schools of higher education concerned.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 2"
     },
     {
-     "type": "text",
-     "text": "The Polish Party shall annually grant up to 5 places for master’s degree studies with the exemption of tuition fees, at schools of higher education supervised by the Minister of National Education."
-    },
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "The Polish Party shall accept Yemenis citizens for master’s degree studies, doctoral studies, postgraduate studies on payment conditions in compliance with the relevant legal regulations."
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "The Yemenis Party shall annually grant up to 5 places of 10 months each for the studies in the field of arabic language and for scientific research internships in various fields, with the exemption of tuition fees."
-    },
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties shall exchange information and materials concerning their educational system."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "On the Yemenis Party request the Polish Party shall accept a delegation of experts in the fields of education and higher education from the Republic of Yemen, on the Yemenis Party expense."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "The documents of the candidates for master’s degree studies, doctoral studies, post-graduate studies and internships shall be conveyed via the Embassy of the Republic of Poland in Sana and the Embassy of the Republic of Yemen in Warsaw, within deadlines set by the Contracting Parties."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties agreed on the following financial terms for the exchange of persons referred to in the articles 2 and 4:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "The receiving Party shall provide:",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_2/pkt_1/lit_a",
-       "text": "free of charge education;",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_2/pkt_1/lit_b",
-       "text": "odpłatne zakwaterowanie w domu akademickim;",
-       "children": []
-      }
-     ]
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Strona wysyłająca zapewni, że osoby uczestniczące w wymianie będą posiadały:",
+     "path": "art_8/ust_2",
+     "text": "The detailed scope of the co-operation referred to in paragraph 1 as well as its financial provisions shall be elaborated by schools of higher education concerned.",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_2/pkt_2/lit_a",
-       "text": "ubezpieczenie (polisę) na wypadek nagłych zachorowań lub nieszczęśliwego wypadku, chyba że prawo do świadczeń zdrowotnych wynika z prawa wewnętrznego kraju przyjmującego,",
-       "children": []
+       "type": "text",
+       "text": "Article 2"
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_2/pkt_2/lit_b",
-       "text": "środki finansowe na pokrycie kosztów utrzymania i zakwaterowania w kraju przyjmującym.",
+       "type": "text",
+       "text": "The Polish Party shall annually grant up to 5 places for master’s degree studies with the exemption of tuition fees, at schools of higher education supervised by the Minister of National Education."
+      },
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "The Polish Party shall accept Yemenis citizens for master’s degree studies, doctoral studies, postgraduate studies on payment conditions in compliance with the relevant legal regulations."
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "The Yemenis Party shall annually grant up to 5 places of 10 months each for the studies in the field of arabic language and for scientific research internships in various fields, with the exemption of tuition fees."
+      },
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties shall exchange information and materials concerning their educational system."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "On the Yemenis Party request the Polish Party shall accept a delegation of experts in the fields of education and higher education from the Republic of Yemen, on the Yemenis Party expense."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "The documents of the candidates for master’s degree studies, doctoral studies, post-graduate studies and internships shall be conveyed via the Embassy of the Republic of Poland in Sana and the Embassy of the Republic of Yemen in Warsaw, within deadlines set by the Contracting Parties."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties agreed on the following financial terms for the exchange of persons referred to in the articles 2 and 4:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_8/ust_2/pkt_1",
+       "text": "The receiving Party shall provide:",
        "children": [
         {
-         "type": "text",
-         "text": "Artykuł 9"
+         "type": "lit",
+         "num": "a",
+         "path": "art_8/ust_2/pkt_1/lit_a",
+         "text": "free of charge education;",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "Niniejsze porozumienie nie wyklucza realizacji innych wspólnych przedsięwzięć uzgodnionych pomiędzy Umawiającymi się Stronami."
+         "type": "lit",
+         "num": "b",
+         "path": "art_8/ust_2/pkt_1/lit_b",
+         "text": "odpłatne zakwaterowanie w domu akademickim;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_8/ust_2/pkt_2",
+       "text": "Strona wysyłająca zapewni, że osoby uczestniczące w wymianie będą posiadały:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_8/ust_2/pkt_2/lit_a",
+         "text": "ubezpieczenie (polisę) na wypadek nagłych zachorowań lub nieszczęśliwego wypadku, chyba że prawo do świadczeń zdrowotnych wynika z prawa wewnętrznego kraju przyjmującego,",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "Artykuł 10"
-        },
-        {
-         "type": "text",
-         "text": "Niniejsze porozumienie wejdzie w życie z dniem podpisania."
-        },
-        {
-         "type": "text",
-         "text": "Artykuł 11"
+         "type": "lit",
+         "num": "b",
+         "path": "art_8/ust_2/pkt_2/lit_b",
+         "text": "środki finansowe na pokrycie kosztów utrzymania i zakwaterowania w kraju przyjmującym.",
+         "children": []
         }
        ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie jest zawarte na okres trzech lat, przy czym ulega autentycznemu przedłużeniu na dalsze trzyletnie okresy, jeżeli żadna ze Stron nie wypowie go poprzez pisemne powiadomienie drugiej Umawiającej się Strony na sześć miesięcy przed upływem danego okresu.",
-   "children": []
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Niniejsze porozumienie nie wyklucza realizacji innych wspólnych przedsięwzięć uzgodnionych pomiędzy Umawiającymi się Stronami.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadku wypowiedzenia niniejszego porozumienia wszystkie rozpoczęte, a niezakończone w czasie obowiązywania porozumienia przedsięwzięcia i działania podjęte na jego podstawie będą realizowane do czasu ich zakończenia, o ile Umawiające się Strony nie postanowią inaczej.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Niniejsze porozumienie wejdzie w życie z dniem podpisania.",
+   "children": [],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Niniejsze porozumienie sporządzono w Sanie dnia 1 października 2005 r., w dwóch egzemplarzach, każdy w językach polskim, arabskim i angielskim, przy czym wszystkie teksty mają jednakową moc. W przypadku rozbieżności przy ich interpretacji tekst w języku angielskim będzie decydujący."
-    },
-    {
-     "type": "text",
-     "text": "Minister Minister Edukacji Narodowej Szkolnictwa Wyższego i Badań Naukowych Rzeczypospolitej Polskiej Republiki Jemeńskiej"
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "paid accommodation in student dormitories;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Niniejsze porozumienie jest zawarte na okres trzech lat, przy czym ulega autentycznemu przedłużeniu na dalsze trzyletnie okresy, jeżeli żadna ze Stron nie wypowie go poprzez pisemne powiadomienie drugiej Umawiającej się Strony na sześć miesięcy przed upływem danego okresu.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "The sending Party shall ensure that the persons taking part in exchanges under the hereby Agreement have:",
+     "path": "art_11/ust_2",
+     "text": "W przypadku wypowiedzenia niniejszego porozumienia wszystkie rozpoczęte, a niezakończone w czasie obowiązywania porozumienia przedsięwzięcia i działania podjęte na jego podstawie będą realizowane do czasu ich zakończenia, o ile Umawiające się Strony nie postanowią inaczej.",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_2/pkt_2/lit_a",
-       "text": "insurance to cover the expenses of the medical assistance in case of sudden illness or accident, unless the right to medical benefits is provided under the regulations of the receiving country;",
-       "children": []
+       "type": "text",
+       "text": "Niniejsze porozumienie sporządzono w Sanie dnia 1 października 2005 r., w dwóch egzemplarzach, każdy w językach polskim, arabskim i angielskim, przy czym wszystkie teksty mają jednakową moc. W przypadku rozbieżności przy ich interpretacji tekst w języku angielskim będzie decydujący."
+      },
+      {
+       "type": "text",
+       "text": "Minister Minister Edukacji Narodowej Szkolnictwa Wyższego i Badań Naukowych Rzeczypospolitej Polskiej Republiki Jemeńskiej"
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_2/pkt_2/lit_b",
-       "text": "financial resources to cover accommodation and subsistence costs in the receiving country.",
+       "path": "art_11/ust_2/lit_b",
+       "text": "paid accommodation in student dormitories;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_2/pkt_2",
+       "text": "The sending Party shall ensure that the persons taking part in exchanges under the hereby Agreement have:",
        "children": [
         {
-         "type": "text",
-         "text": "Article 9"
+         "type": "lit",
+         "num": "a",
+         "path": "art_11/ust_2/pkt_2/lit_a",
+         "text": "insurance to cover the expenses of the medical assistance in case of sudden illness or accident, unless the right to medical benefits is provided under the regulations of the receiving country;",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "The hereby Agreement does not preclude the implementation of other projects agreed by the Contracting Parties."
-        },
-        {
-         "type": "text",
-         "text": "Article 10"
-        },
-        {
-         "type": "text",
-         "text": "The hereby Agreement shall enter into force on the day of its signing."
-        },
-        {
-         "type": "text",
-         "text": "Article 11"
+         "type": "lit",
+         "num": "b",
+         "path": "art_11/ust_2/pkt_2/lit_b",
+         "text": "financial resources to cover accommodation and subsistence costs in the receiving country.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Article 9"
+          },
+          {
+           "type": "text",
+           "text": "The hereby Agreement does not preclude the implementation of other projects agreed by the Contracting Parties."
+          },
+          {
+           "type": "text",
+           "text": "Article 10"
+          },
+          {
+           "type": "text",
+           "text": "The hereby Agreement shall enter into force on the day of its signing."
+          },
+          {
+           "type": "text",
+           "text": "Article 11"
+          }
+         ]
         }
        ]
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The hereby Agreement is concluded for a period of 3 years. It will be prolonged automatically for consecutive 3-year periods provided that neither of the Parties to the Agreement terminates it through notification, six months to the elapse of a given validity period at the latest.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "In case of termination of the hereby Agreement, all ventures and activities undertaken and not completed under the Agreement shall be continued until their completion, unless the Contracting Parties arrange otherwise.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Done at Sana, this 1 day of October, 2005, in duplicate, each in the Polish, Arabic and English languages, all the texts being equally authentic. In the event of differences in their interpretation, the English text shall prevail."
     },
     {
-     "type": "text",
-     "text": "Minister Minister of National Education of Higher Education and Scientific Research of the Republic of Poland of the Republic of Yemen"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "The hereby Agreement is concluded for a period of 3 years. It will be prolonged automatically for consecutive 3-year periods provided that neither of the Parties to the Agreement terminates it through notification, six months to the elapse of a given validity period at the latest.",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strony 4-6 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "In case of termination of the hereby Agreement, all ventures and activities undertaken and not completed under the Agreement shall be continued until their completion, unless the Contracting Parties arrange otherwise.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Done at Sana, this 1 day of October, 2005, in duplicate, each in the Polish, Arabic and English languages, all the texts being equally authentic. In the event of differences in their interpretation, the English text shall prevail."
+      },
+      {
+       "type": "text",
+       "text": "Minister Minister of National Education of Higher Education and Scientific Research of the Republic of Poland of the Republic of Yemen"
+      },
+      {
+       "type": "note",
+       "text": "[Strony 4-6 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   }
  ],
  "annexes": [],

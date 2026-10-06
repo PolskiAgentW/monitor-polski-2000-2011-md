@@ -33,30 +33,34 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą dążyć do umacniania i rozwoju współpracy w dziedzinie turystyki w celu lepszego poznania historii i kultury obu narodów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Współpraca w dziedzinie turystyki będzie realizowana zgodnie z postanowieniami niniejszej umowy i prawem obowiązującym w każdym z Państw Umawiających się Stron.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Umawiające się Strony będą dążyć do umacniania i rozwoju współpracy w dziedzinie turystyki w celu lepszego poznania historii i kultury obu narodów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony będą popierać nawiązywanie i rozwój współpracy między polskimi i jordańskimi przedsiębiorcami i organizacjami, uczestniczącymi w rozwoju turystyki międzynarodowej, podejmującymi inwestycje w dziedzinie turystyki, a także prowadzącymi wspólne przedsięwzięcia w celu obsługi turystów. Artykuł 3"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Współpraca w dziedzinie turystyki będzie realizowana zgodnie z postanowieniami niniejszej umowy i prawem obowiązującym w każdym z Państw Umawiających się Stron.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony będą popierać nawiązywanie i rozwój współpracy między polskimi i jordańskimi przedsiębiorcami i organizacjami, uczestniczącymi w rozwoju turystyki międzynarodowej, podejmującymi inwestycje w dziedzinie turystyki, a także prowadzącymi wspólne przedsięwzięcia w celu obsługi turystów. Artykuł 3",
+   "children": [
     {
      "type": "text",
      "text": "Współpraca, o której mowa w artykule 2, będzie się odbywała w szczególności przez:"
@@ -64,402 +68,414 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_2/pkt_1",
      "text": "podejmowanie wspólnych przedsięwzięć w celu organizacji obsługi turystów z obu Państw;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_2/pkt_2",
      "text": "wymianę specjalistów;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_2/pkt_3",
+     "path": "art_2/pkt_3",
      "text": "pomoc w kształceniu kadr dla turystyki.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 4"
-      },
-      {
-       "type": "text",
-       "text": "Umawiające się Strony będą popierać wymianę informacji w następujących dziedzinach:"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą popierać wymianę informacji w następujących dziedzinach:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_2/pkt_1",
+     "path": "art_4/pkt_1",
      "text": "statystyka turystyczna;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_2/pkt_2",
+     "path": "art_4/pkt_2",
      "text": "programy kształcenia specjalistów w dziedzinie turystyki;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_2/pkt_3",
+     "path": "art_4/pkt_3",
      "text": "działalność promocyjna;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_2/pkt_4",
+     "path": "art_4/pkt_4",
      "text": "akty prawne związane z ochroną środowiska i dóbr kultury;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "ust_2/pkt_5",
+     "path": "art_4/pkt_5",
      "text": "akty prawne regulujące działalność turystyczną;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "6",
-     "path": "ust_2/pkt_6",
+     "path": "art_4/pkt_6",
      "text": "wyjazdy zdrowotne, w tym pobyty w uzdrowiskach.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 5"
-      },
-      {
-       "type": "text",
-       "text": "Umawiające się Strony będą sprzyjać wymianie specjalistów i pracowników naukowych, specjalizujących się w tematyce turystycznej, a także współpracy instytucji prowadzących badania w dziedzinie turystyki."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      },
-      {
-       "type": "text",
-       "text": "Każda z Umawiających się Stron będzie sprzyjać powstawaniu na terytorium swojego Państwa ośrodków informacji turystycznej drugiej Umawiającej się Strony."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 7"
-      },
-      {
-       "type": "text",
-       "text": "Umawiające się Strony będą wymieniać informacje i dzielić się doświadczeniami związanymi z ich udziałem w pracach międzynarodowych organizacji turystycznych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Umawiające się Strony będą popierać turystykę do miejsc kultu religijnego w obu krajach."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony utworzą Komisję Mieszaną, której zadaniem będzie zapewnienie należytego wykonania postanowień niniejszej umowy oraz rozwiązywanie problemów, które mogą powstać w toku jej realizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja Mieszana składać się będzie z przedstawicieli, wyznaczonych przez Umawiające się Strony, zajmujących się działalnością w dziedzinie turystyki.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja Mieszana zbierze się po raz pierwszy w ciągu sześciu miesięcy od dnia wejścia umowy w życie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Komisja Mieszana na swym pierwszym posiedzeniu opracuje regulamin, w którym określi tryb pracy.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Komisji będą przewodniczyć przedstawiciele każdej z Umawiających się Stron.",
-   "children": []
+   "path": "art_5",
+   "text": "Umawiające się Strony będą sprzyjać wymianie specjalistów i pracowników naukowych, specjalizujących się w tematyce turystycznej, a także współpracy instytucji prowadzących badania w dziedzinie turystyki.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "6",
-   "path": "ust_6",
-   "text": "Komisja Mieszana spotykać się będzie w miarę potrzeb, na pisemny wniosek jednej z Umawiających się Stron, na przemian w Rzeczypospolitej Polskiej i Jordańskim Królestwie Haszymidzkim.",
+   "path": "art_6",
+   "text": "Każda z Umawiających się Stron będzie sprzyjać powstawaniu na terytorium swojego Państwa ośrodków informacji turystycznej drugiej Umawiającej się Strony.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony będą wymieniać informacje i dzielić się doświadczeniami związanymi z ich udziałem w pracach międzynarodowych organizacji turystycznych.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony będą popierać turystykę do miejsc kultu religijnego w obu krajach.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Umawiające się Strony utworzą Komisję Mieszaną, której zadaniem będzie zapewnienie należytego wykonania postanowień niniejszej umowy oraz rozwiązywanie problemów, które mogą powstać w toku jej realizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Komisja Mieszana składać się będzie z przedstawicieli, wyznaczonych przez Umawiające się Strony, zajmujących się działalnością w dziedzinie turystyki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Komisja Mieszana zbierze się po raz pierwszy w ciągu sześciu miesięcy od dnia wejścia umowy w życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Komisja Mieszana na swym pierwszym posiedzeniu opracuje regulamin, w którym określi tryb pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_9/ust_5",
+     "text": "Komisji będą przewodniczyć przedstawiciele każdej z Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_9/ust_6",
+     "text": "Komisja Mieszana spotykać się będzie w miarę potrzeb, na pisemny wniosek jednej z Umawiających się Stron, na przemian w Rzeczypospolitej Polskiej i Jordańskim Królestwie Haszymidzkim.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem Państwa każdej z Umawiających się Stron, o czym Umawiające się Strony poinformują się wzajemnie w drodze notyfikacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Za dzień wejścia w życie umowy uważać się będzie dzień otrzymania noty późniejszej.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem Państwa każdej z Umawiających się Stron, o czym Umawiające się Strony poinformują się wzajemnie w drodze notyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Za dzień wejścia w życie umowy uważać się będzie dzień otrzymania noty późniejszej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza zawarta jest na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji, najpóźniej na sześć miesięcy przed upływem danego okresu ważności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane zgodnie z umową w czasie jej obowiązywania, aż do czasu ich zakończenia.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 1 września 2004 r., w dwóch egzemplarzach, każdy w językach polskim, arabskim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Umowa niniejsza zawarta jest na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji, najpóźniej na sześć miesięcy przed upływem danego okresu ważności.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W razie rozbieżności przy ich interpretacji tekst w języku angielskim będzie uważany za rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Jordańskiego Królestwa Haszymidzkiego"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "An Agreement between the Government of the Republic of Poland and the Government of the Hashemite Kingdom of Jordan on cooperation in the field of tourism"
-    },
-    {
-     "type": "ocr",
-     "text": "The Government of the Republic of Poland and the Government of the Hashemite Kingdom of Jordan, hereinafter referred to as \"Parties to the Agreement”,"
-    },
-    {
-     "type": "ocr",
-     "text": "- wishing to further promote friendly relations between the nations of the Republic of Poland and the Hashemite Kingdom of Jordan,"
-    },
-    {
-     "type": "ocr",
-     "text": "- conscious of the importance of tourism for the development of economic and cultural relations, as well as the better. understanding of life, history and cultural heritage of both nations,"
-    },
-    {
-     "type": "ocr",
-     "text": "- acknowledging the need for creating a legal basis for co-operation in the field of tourism, have agreed as follows:"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 1"
-    },
-    {
-     "type": "ocr",
-     "text": "1. The Parties to the Agreement will strive to strengthen and develop co-operation in the field of tourism with a view of promoting a better understanding of the history and culture of both nations."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Co-operation in the field of tourism will be implemented in accordance with the provisions of this Agreement and the national legislation of the countries that are Parties to the Agreement."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 2"
-    },
-    {
-     "type": "ocr",
-     "text": "The Parties to the Agreement will support the establishment and development of co-operation between Polish and the Jordanian entrepreneurs and organizations participating in the development of international tourism, undertaking investments in the field of tourism and operating joint ventures with the aim of servicing tourists."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 3 The co-operation, referred to in Article 2, will be realized through the following, in particular: ©"
-    },
-    {
-     "type": "ocr",
-     "text": "a) undertaking joint ventures with the aim of servicing tourists from both countries,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) exchange of experts,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) assistance in educating personnel for the servicing of tourists."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 4 The Parties to the Agreement will encourage the exchange of information in the following fields:"
-    },
-    {
-     "type": "ocr",
-     "text": "a) tourism statistics,"
-    },
-    {
-     "type": "ocr",
-     "text": "b) educational programmes for tourism experts,"
-    },
-    {
-     "type": "ocr",
-     "text": "c) promotional activities,"
-    },
-    {
-     "type": "ocr",
-     "text": "d) legislative regulations concerning environmental protection and cul tural heritage, |"
-    },
-    {
-     "type": "ocr",
-     "text": "e) legislative regulations connecting with tourism activities,"
-    },
-    {
-     "type": "ocr",
-     "text": "f) the mobility of tourism in the field of medical care and health resorts."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 5 The Parties to the Agreement will create favourable conditions for the exchange of experts and scientists specializing in the field of tourism, as well as the co-operation between institutions responsible for conducting research in the field of tourism."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 6 Each of the Parties to the Agreement will encourage the establishment of tourism information centres of the other Party to the Agreement on its own territory."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 7"
-    },
-    {
-     "type": "ocr",
-     "text": "The Parties to the Agreement will exchange information and share know-how gained as a result of their participation in international tourism organizations."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 8"
-    },
-    {
-     "type": "ocr",
-     "text": "The Parties to the Agreement will encourage the movement to the religions sites in both countries."
-    },
-    {
-     "type": "ocr",
-     "text": "tn"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 9"
-    },
-    {
-     "type": "ocr",
-     "text": "The Parties to the Agreement will establish a Mixed Commission responsible for the proper execution of the provisions of this Agreement and seeking solution to any problems that may arise in the course of its execution."
-    },
-    {
-     "type": "ocr",
-     "text": "The Mixed Commission will consist of representatives involved in tourism activities and appointed by the Parties to the Agreement. The Mixed Commission’s first meeting will be held within six mon ths of the Agreement’s coming into force ."
-    },
-    {
-     "type": "ocr",
-     "text": "At the first meeting, the Mixed Commission will draw up a set of regulations which will define the procedures governing its activities."
-    },
-    {
-     "type": "ocr",
-     "text": "Representatives of each of the Parties to the Agreement will chair the Commission."
-    },
-    {
-     "type": "ocr",
-     "text": "The Mixed Commission will meet according to needs at the written request of one of the Parties to the Agreement, in the Republic of Poland and the Hashemite Kingdom of Jordan alternately."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 10"
-    },
-    {
-     "type": "ocr",
-     "text": "The hereby Agreement is subject to approval in accordance with the national legislation of the countries that are Parties to the Agreement and the Parties to the Agreement will inform each other of this fact by way of notification."
-    },
-    {
-     "type": "ocr",
-     "text": "The Agreement will come into force on the day of receipt of latter note."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 11"
-    },
-    {
-     "type": "ocr",
-     "text": "l. The hereby Agreement is concluded for a period of five years. It will be prolonged automatically for consecutive five year periods provi ded that neither of the Parties to the Agreement terminates it, by way of notification, six month prior to the elapse of a given validity period at the latest."
-    },
-    {
-     "type": "ocr",
-     "text": "ine)"
-    },
-    {
-     "type": "ocr",
-     "text": "Termination of the Agreement will have no impact on ventures un dertaken and implemented in accordance with the Agreement while it was still in force until their completion."
-    },
-    {
-     "type": "ocr",
-     "text": "Drawn up in ....44 CET BUS aa on (ŚL. Leplerber U in two identical copies in Polish, Arabic and English, where the text is deemed equally authentic. In case of any discrepancies in their interpretation, the English language version of the text will prevail."
-    },
-    {
-     "type": "ocr",
-     "text": "On behalf of On behalf of the Government the Government of the Republic of Poland of the Hashemite Kingdom of Jordan TEZA Dr fio Rowen"
-    },
-    {
-     "type": "note",
-     "text": "[Strony 7-10 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Wypowiedzenie umowy nie będzie miało wpływu na przedsięwzięcia podjęte i realizowane zgodnie z umową w czasie jej obowiązywania, aż do czasu ich zakończenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 1 września 2004 r., w dwóch egzemplarzach, każdy w językach polskim, arabskim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne."
+  },
+  {
+   "type": "text",
+   "text": "W razie rozbieżności przy ich interpretacji tekst w języku angielskim będzie uważany za rozstrzygający."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Jordańskiego Królestwa Haszymidzkiego"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "An Agreement between the Government of the Republic of Poland and the Government of the Hashemite Kingdom of Jordan on cooperation in the field of tourism"
+  },
+  {
+   "type": "ocr",
+   "text": "The Government of the Republic of Poland and the Government of the Hashemite Kingdom of Jordan, hereinafter referred to as \"Parties to the Agreement”,"
+  },
+  {
+   "type": "ocr",
+   "text": "- wishing to further promote friendly relations between the nations of the Republic of Poland and the Hashemite Kingdom of Jordan,"
+  },
+  {
+   "type": "ocr",
+   "text": "- conscious of the importance of tourism for the development of economic and cultural relations, as well as the better. understanding of life, history and cultural heritage of both nations,"
+  },
+  {
+   "type": "ocr",
+   "text": "- acknowledging the need for creating a legal basis for co-operation in the field of tourism, have agreed as follows:"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 1"
+  },
+  {
+   "type": "ocr",
+   "text": "1. The Parties to the Agreement will strive to strengthen and develop co-operation in the field of tourism with a view of promoting a better understanding of the history and culture of both nations."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Co-operation in the field of tourism will be implemented in accordance with the provisions of this Agreement and the national legislation of the countries that are Parties to the Agreement."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 2"
+  },
+  {
+   "type": "ocr",
+   "text": "The Parties to the Agreement will support the establishment and development of co-operation between Polish and the Jordanian entrepreneurs and organizations participating in the development of international tourism, undertaking investments in the field of tourism and operating joint ventures with the aim of servicing tourists."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 3 The co-operation, referred to in Article 2, will be realized through the following, in particular: ©"
+  },
+  {
+   "type": "ocr",
+   "text": "a) undertaking joint ventures with the aim of servicing tourists from both countries,"
+  },
+  {
+   "type": "ocr",
+   "text": "b) exchange of experts,"
+  },
+  {
+   "type": "ocr",
+   "text": "c) assistance in educating personnel for the servicing of tourists."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 4 The Parties to the Agreement will encourage the exchange of information in the following fields:"
+  },
+  {
+   "type": "ocr",
+   "text": "a) tourism statistics,"
+  },
+  {
+   "type": "ocr",
+   "text": "b) educational programmes for tourism experts,"
+  },
+  {
+   "type": "ocr",
+   "text": "c) promotional activities,"
+  },
+  {
+   "type": "ocr",
+   "text": "d) legislative regulations concerning environmental protection and cul tural heritage, |"
+  },
+  {
+   "type": "ocr",
+   "text": "e) legislative regulations connecting with tourism activities,"
+  },
+  {
+   "type": "ocr",
+   "text": "f) the mobility of tourism in the field of medical care and health resorts."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 5 The Parties to the Agreement will create favourable conditions for the exchange of experts and scientists specializing in the field of tourism, as well as the co-operation between institutions responsible for conducting research in the field of tourism."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 6 Each of the Parties to the Agreement will encourage the establishment of tourism information centres of the other Party to the Agreement on its own territory."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 7"
+  },
+  {
+   "type": "ocr",
+   "text": "The Parties to the Agreement will exchange information and share know-how gained as a result of their participation in international tourism organizations."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 8"
+  },
+  {
+   "type": "ocr",
+   "text": "The Parties to the Agreement will encourage the movement to the religions sites in both countries."
+  },
+  {
+   "type": "ocr",
+   "text": "tn"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 9"
+  },
+  {
+   "type": "ocr",
+   "text": "The Parties to the Agreement will establish a Mixed Commission responsible for the proper execution of the provisions of this Agreement and seeking solution to any problems that may arise in the course of its execution."
+  },
+  {
+   "type": "ocr",
+   "text": "The Mixed Commission will consist of representatives involved in tourism activities and appointed by the Parties to the Agreement. The Mixed Commission’s first meeting will be held within six mon ths of the Agreement’s coming into force ."
+  },
+  {
+   "type": "ocr",
+   "text": "At the first meeting, the Mixed Commission will draw up a set of regulations which will define the procedures governing its activities."
+  },
+  {
+   "type": "ocr",
+   "text": "Representatives of each of the Parties to the Agreement will chair the Commission."
+  },
+  {
+   "type": "ocr",
+   "text": "The Mixed Commission will meet according to needs at the written request of one of the Parties to the Agreement, in the Republic of Poland and the Hashemite Kingdom of Jordan alternately."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 10"
+  },
+  {
+   "type": "ocr",
+   "text": "The hereby Agreement is subject to approval in accordance with the national legislation of the countries that are Parties to the Agreement and the Parties to the Agreement will inform each other of this fact by way of notification."
+  },
+  {
+   "type": "ocr",
+   "text": "The Agreement will come into force on the day of receipt of latter note."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 11"
+  },
+  {
+   "type": "ocr",
+   "text": "l. The hereby Agreement is concluded for a period of five years. It will be prolonged automatically for consecutive five year periods provi ded that neither of the Parties to the Agreement terminates it, by way of notification, six month prior to the elapse of a given validity period at the latest."
+  },
+  {
+   "type": "ocr",
+   "text": "ine)"
+  },
+  {
+   "type": "ocr",
+   "text": "Termination of the Agreement will have no impact on ventures un dertaken and implemented in accordance with the Agreement while it was still in force until their completion."
+  },
+  {
+   "type": "ocr",
+   "text": "Drawn up in ....44 CET BUS aa on (ŚL. Leplerber U in two identical copies in Polish, Arabic and English, where the text is deemed equally authentic. In case of any discrepancies in their interpretation, the English language version of the text will prevail."
+  },
+  {
+   "type": "ocr",
+   "text": "On behalf of On behalf of the Government the Government of the Republic of Poland of the Hashemite Kingdom of Jordan TEZA Dr fio Rowen"
+  },
+  {
+   "type": "note",
+   "text": "[Strony 7-10 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
   }
  ],
  "annexes": [],

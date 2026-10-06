@@ -69,1147 +69,1184 @@
    "text": "— s ciel’om zlepšit’ podmienky rozvoja všestrannej spolupráce medzi oboma štátmi, uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Droga krajowa nr 87 na terytorium Rzeczypospolitej Polskiej i droga I/68 na terytorium Republiki Słowackiej zostaną połączone w nowym miejscu mostem granicznym przez rzekę Poprad, w rejonie miejscowości Piwniczna i Mniszek nad Popradem, na II. odcinku granicznym między znakami granicznymi II/51/1 i II/52a, II/52b.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W tym celu zrealizowane zostaną następujące przedsięwzięcia budowlane:",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "nowy most graniczny przez rzekę Poprad, zwany dalej „mostem granicznym”,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "nowy odcinek drogi krajowej nr 87 w rejonie miejscowości Piwniczna, stanowiący dojazd do mostu granicznego na terytorium Rzeczypospolitej Polskiej, zwany dalej „polską drogą dojazdową”,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "nowy odcinek drogi nr I/68 w rejonie miejscowości Mniszek nad Popradem, stanowiący dojazd do mostu granicznego na terytorium Republiki Słowackiej, zwany dalej „słowacką drogą dojazdową”,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "obiekty wspólnego drogowego przejścia granicznego na terytorium Republiki Słowackiej, zwane dalej „obiektami przejścia granicznego”.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony dołożą starań, aby przedsięwzięcia budowlane wymienione w ustępie 2 zostały ukończone do końca 2006 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Słowacka Umawiająca się Strona w celu realizacji postanowień artykułu 1 jest zobowiązana do:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "przygotowania i prowadzenia budowy mostu granicznego, a w szczególności:",
+     "path": "art_1/ust_1",
+     "text": "Droga krajowa nr 87 na terytorium Rzeczypospolitej Polskiej i droga I/68 na terytorium Republiki Słowackiej zostaną połączone w nowym miejscu mostem granicznym przez rzekę Poprad, w rejonie miejscowości Piwniczna i Mniszek nad Popradem, na II. odcinku granicznym między znakami granicznymi II/51/1 i II/52a, II/52b.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "W tym celu zrealizowane zostaną następujące przedsięwzięcia budowlane:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_1/pkt_1/lit_a",
-       "text": "opracowania oraz uzgodnienia z polską Umawiającą się Stroną koncepcji i konstrukcji mostu granicznego,",
+       "path": "art_1/ust_2/lit_a",
+       "text": "nowy most graniczny przez rzekę Poprad, zwany dalej „mostem granicznym”,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_1/pkt_1/lit_b",
-       "text": "opracowania dokumentacji projektowej i zapewnienia właściwych decyzji i zezwoleń,",
+       "path": "art_1/ust_2/lit_b",
+       "text": "nowy odcinek drogi krajowej nr 87 w rejonie miejscowości Piwniczna, stanowiący dojazd do mostu granicznego na terytorium Rzeczypospolitej Polskiej, zwany dalej „polską drogą dojazdową”,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_1/pkt_1/lit_c",
-       "text": "opracowania oraz uzgodnienia z polską Umawiającą się Stroną dokumentacji niezbędnej do przeprowadzenia międzynarodowego przetargu na wykonawcę, zwanej dalej „dokumentacją przetargową”,",
+       "path": "art_1/ust_2/lit_c",
+       "text": "nowy odcinek drogi nr I/68 w rejonie miejscowości Mniszek nad Popradem, stanowiący dojazd do mostu granicznego na terytorium Republiki Słowackiej, zwany dalej „słowacką drogą dojazdową”,",
        "children": []
       },
       {
        "type": "lit",
        "num": "d",
-       "path": "ust_1/pkt_1/lit_d",
-       "text": "przeprowadzenia międzynarodowego przetargu na wykonawcę,",
+       "path": "art_1/ust_2/lit_d",
+       "text": "obiekty wspólnego drogowego przejścia granicznego na terytorium Republiki Słowackiej, zwane dalej „obiektami przejścia granicznego”.",
        "children": []
-      },
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Umawiające się Strony dołożą starań, aby przedsięwzięcia budowlane wymienione w ustępie 2 zostały ukończone do końca 2006 r.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Słowacka Umawiająca się Strona w celu realizacji postanowień artykułu 1 jest zobowiązana do:",
+     "children": [
       {
-       "type": "lit",
-       "num": "e",
-       "path": "ust_1/pkt_1/lit_e",
-       "text": "zapewnienia przedstawicielom polskiej Umawiającej się Strony udziału w pracach komisji przetargowej w sprawie wyboru wykonawcy,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "f",
-       "path": "ust_1/pkt_1/lit_f",
-       "text": "zawarcia kontraktu ze zwycięzcą międzynarodowego przetargu i zapewnienia realizacji budowy,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "g",
-       "path": "ust_1/pkt_1/lit_g",
-       "text": "sprawowania nadzoru inwestorskiego, dohodli sa tako:",
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_1/pkt_1",
+       "text": "przygotowania i prowadzenia budowy mostu granicznego, a w szczególności:",
        "children": [
         {
-         "type": "text",
-         "text": "Článok 1"
+         "type": "lit",
+         "num": "a",
+         "path": "art_2/ust_1/pkt_1/lit_a",
+         "text": "opracowania oraz uzgodnienia z polską Umawiającą się Stroną koncepcji i konstrukcji mostu granicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/ust_1/pkt_1/lit_b",
+         "text": "opracowania dokumentacji projektowej i zapewnienia właściwych decyzji i zezwoleń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/ust_1/pkt_1/lit_c",
+         "text": "opracowania oraz uzgodnienia z polską Umawiającą się Stroną dokumentacji niezbędnej do przeprowadzenia międzynarodowego przetargu na wykonawcę, zwanej dalej „dokumentacją przetargową”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_2/ust_1/pkt_1/lit_d",
+         "text": "przeprowadzenia międzynarodowego przetargu na wykonawcę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_2/ust_1/pkt_1/lit_e",
+         "text": "zapewnienia przedstawicielom polskiej Umawiającej się Strony udziału w pracach komisji przetargowej w sprawie wyboru wykonawcy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_2/ust_1/pkt_1/lit_f",
+         "text": "zawarcia kontraktu ze zwycięzcą międzynarodowego przetargu i zapewnienia realizacji budowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "art_2/ust_1/pkt_1/lit_g",
+         "text": "sprawowania nadzoru inwestorskiego, dohodli sa tako:",
+         "children": [
+          {
+           "type": "text",
+           "text": "Článok 1"
+          }
+         ]
         }
        ]
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Štátna cesta č. 87 na území Pol’skej republiky a cesta č. I/68 na území Slovenskej republiky budú prepojené na novom mieste, vpriestore obcí Piwniczna a Mníšek nad Popradom hraničným mostom cez rieku Poprad, na II. hraničnom úseku spoločnej štátnej hranice medzi hraničnými znakmi II/51/1 a II/52a,b.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Na tento účel sa budú realizovat’ nasledujúce stavby:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "nový hraničný most na rieke Poprad (d’alej len „hraničný most”),",
-     "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "nový úsek štátnej cesty č. 87 ku hraničnému mostu v priestore obce Piwniczna na území Pol’skej republiky (d’alej len „pol’ská prístupová cesta”),",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "nový úsek cesty č. I/68 ku hraničnému mostu v priestore obce Mníšek nad Popradom na území Slovenskej republiky (d’alej len „slovenská prístupová cesta”),",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "objekty spoločného hraničného priechodu na území Slovenskej republiky (d’alej len „objekty hraničného priechodu”).",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zmluvné strany vynaložia úsilie, aby stavby uvedené v odseku 2 boli ukončené do konca roka 2006.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Slovenská zmluvná strana sa na účel vykonávania ustanovení článku 1 zaväzuje:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "pripravit’ a riadit’ výstavbu hraničného mosta, a to:",
+     "path": "art_2/ust_1",
+     "text": "Štátna cesta č. 87 na území Pol’skej republiky a cesta č. I/68 na území Slovenskej republiky budú prepojené na novom mieste, vpriestore obcí Piwniczna a Mníšek nad Popradom hraničným mostom cez rieku Poprad, na II. hraničnom úseku spoločnej štátnej hranice medzi hraničnými znakmi II/51/1 a II/52a,b.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Na tento účel sa budú realizovat’ nasledujúce stavby:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_1/pkt_1/lit_a",
-       "text": "predložit’ pol’skej zmluvnej strane koncepciu hraničného mosta a vzájomne dohodnút’ jeho konštrukciu,",
+       "path": "art_2/ust_2/lit_a",
+       "text": "nový hraničný most na rieke Poprad (d’alej len „hraničný most”),",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_1/pkt_1/lit_b",
-       "text": "zabezpečit’ vypracovanie projektových dokumentácií a príslušné rozhodnutia a povolenia,",
+       "path": "art_2/ust_2/lit_b",
+       "text": "nový úsek štátnej cesty č. 87 ku hraničnému mostu v priestore obce Piwniczna na území Pol’skej republiky (d’alej len „pol’ská prístupová cesta”),",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_1/pkt_1/lit_c",
-       "text": "zabezpečit’ vypracovanie dokumentácie pre medzinárodnú verejnú sút’až na zhotovitel’a a jej odsúhlasenie s pol’skou zmluvnou stranou (d’alej len „tendrová dokumentácia”),",
+       "path": "art_2/ust_2/lit_c",
+       "text": "nový úsek cesty č. I/68 ku hraničnému mostu v priestore obce Mníšek nad Popradom na území Slovenskej republiky (d’alej len „slovenská prístupová cesta”),",
        "children": []
       },
       {
        "type": "lit",
        "num": "d",
-       "path": "ust_1/pkt_1/lit_d",
-       "text": "uskutočnit’ medzinárodnú verejnú sút’až na zhotovitel’a,",
+       "path": "art_2/ust_2/lit_d",
+       "text": "objekty spoločného hraničného priechodu na území Slovenskej republiky (d’alej len „objekty hraničného priechodu”).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Zmluvné strany vynaložia úsilie, aby stavby uvedené v odseku 2 boli ukončené do konca roka 2006.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Článok 2"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Slovenská zmluvná strana sa na účel vykonávania ustanovení článku 1 zaväzuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_1/pkt_1",
+       "text": "pripravit’ a riadit’ výstavbu hraničného mosta, a to:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_2/ust_1/pkt_1/lit_a",
+         "text": "predložit’ pol’skej zmluvnej strane koncepciu hraničného mosta a vzájomne dohodnút’ jeho konštrukciu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/ust_1/pkt_1/lit_b",
+         "text": "zabezpečit’ vypracovanie projektových dokumentácií a príslušné rozhodnutia a povolenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/ust_1/pkt_1/lit_c",
+         "text": "zabezpečit’ vypracovanie dokumentácie pre medzinárodnú verejnú sút’až na zhotovitel’a a jej odsúhlasenie s pol’skou zmluvnou stranou (d’alej len „tendrová dokumentácia”),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_2/ust_1/pkt_1/lit_d",
+         "text": "uskutočnit’ medzinárodnú verejnú sút’až na zhotovitel’a,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_2/ust_1/pkt_1/lit_e",
+         "text": "zabezpečit’ zástupcom pol’skej zmluvnej strany účast’ na činnosti výberovej komisie zriadenej na výber zhotovitel’a,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_2/ust_1/pkt_1/lit_f",
+         "text": "uzavriet’ zmluvu o dielo s vít’azom medzinárodnej verejnej sút’aže a zabezpečit’ výstavbu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "art_2/ust_1/pkt_1/lit_g",
+         "text": "vykonávat’ investorský dozor,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "art_2/ust_1/pkt_1/lit_h",
+         "text": "wyegzekwowania od wykonawcy w okresie gwarancyjnym usunięcia ewentualnych wad i usterek związanych z realizacją budowy,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_1/pkt_2",
+       "text": "wybudowania słowackiej drogi dojazdowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/ust_1/pkt_3",
+       "text": "zabezpieczenia budowy obiektów przejścia granicznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Polska Umawiająca się Strona w celu realizacji postanowień artykułu 1 jest zobowiązana do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_2/pkt_1",
+       "text": "współpracy ze słowacką Umawiającą się Stroną przy przygotowaniu i prowadzeniu budowy mostu granicznego, zapewniając:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_2/ust_2/pkt_1/lit_a",
+         "text": "właściwe decyzje i zezwolenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/ust_2/pkt_1/lit_b",
+         "text": "udział przedstawicieli polskiej Umawiającej się Strony w pracach komisji powołanej do przeprowadzenia międzynarodowego przetargu na wykonawcę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/ust_2/pkt_1/lit_c",
+         "text": "przeprowadzenie na swoim terytorium badań inżynieryjno-geologicznych i pomiarów geodezyjnych oraz przekazanie ich wyników słowackiej Umawiającej się Stronie,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_2/pkt_2",
+       "text": "wybudowania polskiej drogi dojazdowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Most graniczny będzie projektowany, wykonany i odebrany zgodnie z wewnętrznymi przepisami prawnymi, normami i przepisami techniczno-budowlanymi obowiązującymi w obu Państwach. W przypadku gdyby normy i przepisy były odmienne, należy postępować według tych, które są bardziej rygorystyczne. Przed wydaniem właściwych zezwoleń dokumentację projektową należy omówić i uzgodnić w ramach Polsko-Słowackiej Komisji ds. Wód Granicznych. Przy projektowaniu i budowie mostu granicznego będą przestrzegane warunki określone przez właściwe organy ds. gospodarki wodnej Umawiających się Stron z uwzględnieniem postanowień Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Słowackiej o gospodarce wodnej na wodach granicznych, sporządzonej w Warszawie dnia 14 maja 1977 r., zgodnie z jej obowiązującym brzmieniem i równocześnie tak, aby obiekty mostu granicznego nie spowodowały pogorszenia warunków spływowych rzeki Poprad w przypadku wielkiej wody i spływu kry.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Przetarg na wykonawcę mostu granicznego zostanie przeprowadzony zgodnie z przepisami prawnymi obowiązującymi w Republice Słowackiej. W dokumentacji przetargowej zostanie zawarty wymóg, że cena ofertowa i cena poszczególnych pozycji będzie wyrażona w euro.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_2/ust_5",
+     "text": "Wszystkie prace związane z budową mostu granicznego muszą być prowadzone w sposób nienaruszający przebiegu granicy państwowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_2/ust_6",
+     "text": "Dokumentacja projektowa mostu granicznego zostanie opracowana w języku polskim i języku słowackim.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_2/ust_6/lit_h",
+       "text": "počas záručnej lehoty vyžiadat’ od zhotovitel’aodstránenie prípadných vád anedorobkov súvisiacich s výstavbou,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_6/pkt_2",
+       "text": "vybudovat’ slovenskú prístupovú cestu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/ust_6/pkt_3",
+       "text": "zabezpečit’ výstavbu objektov hraničného priechodu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Pol’ská zmluvná strana sa na účel vykonávania ustanovení článku 1 zaväzuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_2/pkt_1",
+       "text": "spolupracovat’ so slovenskou zmluvnou stranou pri príprave ariadení výstavby hraničného mosta, a to zabezpečit’:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_2/ust_2/pkt_1/lit_a",
+         "text": "príslušné rozhodnutia a povolenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/ust_2/pkt_1/lit_b",
+         "text": "účast’ zástupcov pol’skej zmluvnej strany vo výberovej komisii medzinárodnej verejnej sút’aži na zhotovitel’a,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/ust_2/pkt_1/lit_c",
+         "text": "na svojom území inžiniersko-geologický prieskum a geodetické práce a odovzdat’ ich výsledky slovenskej zmluvnej strane,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_2/pkt_2",
+       "text": "vybudovat’ pol’skú prístupovú cestu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Hraničný most bude naprojektovaný, zrealizovaný a skolaudovaný v súlade s vnútroštátnymi právnymi predpismi, normami a stavebno-technickými predpismi planými v oboch štátoch. V prípade, ak by tieto boli rozdielne, bude sa postupovat’ podl’a tých, ktoré sú prísnejšie. Projektovú dokumentáciu pred vydaním príslušných povolení je potrebné prerokovat’ v Pol’sko-slovenskej komisii pre hraničné vody. Pri projektovaní avýstavbe hraničného mosta budú dodržané podmienky stanovené príslušnými vodohospodárskymi orgánmi zmluvných strán, pri rešpektovaní ustanovení Dohody medzi vládou Pol’skej republiky avládou Slovenskej republiky o vodnom hospodárstve na hraničných vodách, podpísanej vo Varšave 14. mája 1977, v súlade s jej platnýmznenímazároveň tak, aby objekty hraničného mosta nezhoršili odtokové pomery rieky Poprad pri prevedení vel’kých vôd a l’adochodov.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Výberové konanie na zhotovitel’a hraničného mosta sa uskutoční v súlade s vnútroštátnym právnym poriadkom platným v Slovenskej republike. V tendrovej dokumentácii bude ponuková cena aj cena jednotlivých položiek vyžadovaná v EUR.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_2/ust_5",
+     "text": "Všetky práce spojené s výstavbou hraničného mosta sa musia vykonávat’ tak, aby nenarušovali priebeh štátnej hranice.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_2/ust_6",
+     "text": "Projektová dokumentácia hraničného mosta bude vypracovaná v pol’skom a slovenskom jazyku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_2/ust_7",
+     "text": "Postanowienia niniejszego artykułu będą realizowane odpowiednio: w imieniu słowackiej Umawiającej się Strony przez Słowacki Zarząd Dróg, z wyjątkiem ustępu 1 punkt 3, który będzie realizowany przez Dyrekcję Ceł Republiki Słowackiej, w imieniu polskiej Umawiającej się Strony przez Generalną Dyrekcję Dróg Krajowych i Autostrad, zwane dalej „właściwymi organami”.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony będą dokonywać odbioru robót wspólnie, za pośrednictwem właściwych organów i w obecności wykonawcy robót, zgodnie z wewnętrznymi przepisami prawnymi obowiązującymi w obu Państwach oraz według norm i przepisów techniczno-budowlanych obowiązujących w obu Państwach, zgodnie z warunkami kontraktu na budowę mostu granicznego.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Utrzymanie mostu granicznego będzie się odbywało na podstawie postanowień Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Słowackiej o utrzymaniu drogowych obiektów mostowych i wspólnych odcinków dróg na wspólnej granicy państwowej, sporządzonej w Bratysławie dnia 29 listopada 1995 r.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Każda z Umawiających się Stron ponosi koszty pozyskania gruntu i realizacji przedsięwzięć budowlanych, o których mowa w artykule 1 ustęp 2, które znajdują się na terytorium jej Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Polska Umawiająca się Strona pokryje słowackiej Umawiającej się Stronie poniesione przez nią koszty administracyjne, dotyczące w szczególności działań, o których mowa w artykule 2 ustęp 1 punkt 1, w wysokości 10 % kosztów budowy polskiej części mostu granicznego, wynikających z ceny uzgodnionej w kontrakcie na budowę mostu granicznego, bez uwzględnienia podatków od towarów i usług przewidzianych w prawie Republiki Słowackiej. Koszty administracyjne zostaną pokryte przez właściwy organ polskiej Umawiającej się Strony w terminie 30 dni od dnia otrzymania faktury, wystawionej w euro przez właściwy organ słowackiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Istniejąca i nowo opracowana dokumentacja — w szczególności dokumentacja geodezyjna oraz badania inżynieryjno-geologiczne — niezbędna do projektowania mostu granicznego będzie bezpłatnie udostępniona przez właściwy organ polskiej Umawiającej się Strony właściwemu organowi słowackiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Umawiające się Strony dołożą starań, by uzyskać pomoc finansową na budowę mostu granicznego z właściwego funduszu Unii Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_5/ust_7",
+     "text": "Ustanovenia tohto článku budú realizovat’ za pol’skú zmluvnú stranu Generálne riaditel’stvo verejných ciest aza slovenskú zmluvnú stranu Slovenská správa ciest, okrem odseku 1. bod 3/, ktorý bude realizovat’ Colné riaditel’stvo Slovenskej republiky, (d’alej len „príslušné orgány”).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Článok 3"
+      },
+      {
+       "type": "text",
+       "text": "Zmluvné strany vudú preberat’ stavebné objekty stavby hraničného mosta spoloočne, prostredníctvom príslušných orgánov a za prítomnosti zhotovitel’a prác, podl’a vnútroštátnych právnych predpisov platných voboch štátoch apodl’anoriem astaveb no-technických predpisov platných v oboch štátoch, v súlade s podmienkami zmluvy o dielo na výstavbu hraničného mosta."
+      },
+      {
+       "type": "text",
+       "text": "Článok 4"
+      },
+      {
+       "type": "text",
+       "text": "Údržba hraničného mosta sa bude riadit’ ustanoveniami Dohody medzi vládou Pol’skej republiky a vládou Slovenskej republiky o údržbe cestných hraničných mostných objektov a spoločných úsekov ciest na spoločnej štátnej hranici, podpísanej v Bratislave dňa 29. novembra 1995."
+      },
+      {
+       "type": "text",
+       "text": "Článok 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Každá zo zmluvných strán hradí náklady na výkup pozemkov a vybudovanie stavieb uvedených v článku 1 odsek 2, ktoré sa nachádzajú na území jej štátu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Pol’ská zmluvná strana uhradí slovenskej zmluvnej strane administratívne náklady, ktoré sa týkajú najmä úkonov uvedených v článku 2 odsek 1, bod 1/, vo výške 10% stavebných nákladov na výstavbu pol’skej časti hraničného mosta vyplývajúcich z dohodnutej ceny v zmluve o dielo na výstavbu hraničného mosta, bez zohl’adnenia dane zpridanej hodnoty z tovarov a služieb v zmysle slovenských právnych predpisov. Administratívne náklady budú zaplatené príslušným orgánom pol’skej zmluvnej strany do 30 dní odo dňa obdržania faktúry pol’skou zmluvnou stranou od príslušného orgánu slovenskej zmluvnej strany vystavenej v EUR.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Existujúca a nová vypracovaná dokumentácia, najmä geodetická dokumentácia a inžiniersko-geologický prieskum, ktoré sú nevyhnutné na vypracovanie projektu hraničného mosta, budú dané bezplatne kdispozícii príslušným orgánom pol’skej zmluvnej strany príslušnému orgánu slovenskej zmluvnej strany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Zmluvné strany vynaložia úsilie získat’ finančnú podporu na výstavbu hraničného mosta zpríslušného fondu Európskej únie.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Po zrealizowaniu budowy mostu, zgodnie z niniejszą umową każda z Umawiających się Stron będzie właścicielem tej części mostu granicznego, który znajduje się na terytorium jej Państwa.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Wykonawca realizujący budowę mostu granicznego zostanie zobowiązany w kontrakcie na budowę mostu do wystawienia właściwemu organowi słowackiej Umawiającej się Strony oddzielnych faktur za wykonanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_1/lit_a",
+       "text": "konstrukcji dolnej, tj. przyczółka, filarów i regulacji koryta nurtu rzeki Poprad,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_1/lit_b",
+       "text": "konstrukcji nośnej wraz z jej wyposażeniem,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z ich przynależnością do terytoriów Państw Umawiających się Stron."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Właściwy organ polskiej Umawiającej się Strony będzie przekazywać właściwemu organowi słowackiej Umawiającej się Strony przypadające na polską Umawiającą się Stronę części płatności, dotyczących budowy mostu granicznego, na podstawie faktur wystawionych przez słowacką Umawiającą się Stronę, w których nie będzie uwzględniony podatek od towarów i usług. Płatności będą dokonywane na rzecz wykonawcy przez właściwy organ słowackiej Umawiającej się Strony na podstawie wystawionych przez wykonawcę faktur.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Właściwy organ słowackiej Umawiającej się Strony będzie informować z dwumiesięcznym wyprzedzeniem właściwy organ polskiej Umawiającej się Strony o szacunkowej wysokości środków finansowych potrzebnych na realizację płatności, o których mowa w ustępie 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Ostateczne rozliczenie kosztów budowy mostu granicznego między właściwymi organami obu Umawiających się Stron nastąpi w terminie do 30 dni od dnia jego końcowego odbioru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_7/ust_5",
+     "text": "Wszystkie płatności właściwego organu polskiej Umawiającej się Strony dokonywane będą w euro właściwemu organowi słowackiej Umawiającej się Strony, w terminie do 30 dni od dnia otrzymania faktury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_7/ust_6",
+     "text": "Właściwy organ słowackiej Umawiającej się Strony po podpisaniu kontraktu na budowę mostu granicznego przekaże niezwłocznie właściwemu organowi polskiej Umawiającej się Strony jeden egzemplarz oryginału tego kontraktu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Umawiające się Strony umożliwią obywatelom Państw Umawiających się Stron i obywatelom państw trzecich, wykonującym prace związane z budową mostu granicznego zgodnie z niniejszą umową i nieobję- Článok 6",
+     "children": [
+      {
+       "type": "text",
+       "text": "Každá zo zmluvných stránsa po zrealizovaní výstavby mosta vsúlade stouto dohodou stane vlastníkom tej časti hraničného mosta, ktorá sa nachádza na jej štátnom území."
+      },
+      {
+       "type": "text",
+       "text": "Článok 7"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Zhotovitel’, ktorý bude realizovat’ výstavbu hraničného mosta, sa v zmluve o dielo na jeho výstavbu zaviaže, že bude vystavovat’ príslušnému orgánu slovenskej zmluvnej strany osobitné faktúry za vykonané práce podl’a ich príslušnosti k štátnemu územiu zmluvných strán na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_1/lit_a",
+       "text": "spodnú stavbu, t.j. predmostia, piliere a úpravy koryta toku rieky Poprad,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_1/lit_b",
+       "text": "hornú stavbu, vrátane jej vybavenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Príslušný orgán pol’skej zmluvnej strany bude uhrádzat’ príslušnému orgánu slovenskej zmluvnej strany finančné čiastky platieb, ktoré na ňu pripadajú aktoré sa týkajú výstavby hraničného mosta na základe faktúr zaslaných slovenskou zmluvnou stranou a neobsahujúcich daň z pridanej hodnoty za tovary aslužby. Platby sa budú uhrádzat’ vprospech zhotovitel’a príslušným orgánom slovenskej zmluvnej strany na základe faktúr predkladaných zhotovitel’om.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Príslušný orgán slovenskej zmluvnej strany oznámi príslušnému orgánu pol’skej zmluvnej strany s dvojmesačným predstihom približnú sumu finančných prostriedkov potrebných na platby uvedené v odseku 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Záverečné vyúčtovanie nákladov na výstavbu hraničného mosta medzi príslušnými orgánmi oboch strán sa uskutoční do 30 dní odo dňa zaverečnej kolaudácie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Všetky platby príslušného orgánu pol’skej zmluvnej strany príslušnému orgánu slovenskej smluvnej strany budú v EUR, v termíne do 30 dní odo dňa obdržania faktúry.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_8/ust_6",
+     "text": "Príslušný orgán slovenskej zmluvnej strany po podpise zmluvy o dielo na výstavbu hraničného mosta zašle bezodkladne príslušnému orgánu pol’skej zmluvnej strany jedno pôvodné vyhotovenie zmluvy o dielo.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Článok 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Zmluvné strany umožnia občanom štátov zmluvných strán a občanom tretích štátov, ktorí vykonávajú práce pri výstavbe hraničného mosta podl’a tejto dohody a tkorí nemajú vízovú povinnost’ tym obowiązkiem posiadania wizy w żadnym z Państw Umawiających się Stron, przekraczanie granicy państwa w rejonie placu budowy mostu granicznego i przebywanie w tej części budowy, która znajduje się na terytorium Państwa drugiej Umawiającej się Strony, bez konieczności posiadania zezwolenia na pobyt i zezwolenia na pracę, o ile posiadają przy sobie ważny dokument uprawniający do przekroczenia granicy państwowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Umawiające się Strony umożliwią obywatelom państw trzecich, których dotyczy obowiązek posiadania wizy na pobyt w jednym z Państw Umawiających się Stron, wykonującym prace zgodnie z niniejszą umową, przekraczanie granicy państwa w rejonie placu budowy mostu granicznego i przebywanie w tej części budowy, która znajduje się na terytorium Państwa drugiej Umawiającej się Strony, jeżeli zostali zatrudnieni zgodnie z wewnętrznymi przepisami prawa o zatrudnianiu cudzoziemców, otrzymali wizę i posiadają przy sobie ważny dokument uprawniający do przekraczania granicy państwowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Sprawy dotyczące porządku na granicy państwowej w związku z budową mostu granicznego zostaną uzgodnione przez organy graniczne Umawiających się Stron przed rozpoczęciem budowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Właściwe organy Umawiających się Stron powiadomią organy graniczne i celne swoich Państw o terminie rozpoczęcia i zakończenia budowy mostu granicznego na 14 dni przed terminem rozpoczęcia robót.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Dla sprzedaży towarów i usług dokonywanych w związku z budową mostu granicznego będą stosowane wewnętrzne przepisy prawa obu Umawiających się Stron dotyczące podatku od towarów i usług.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Sprzęt, narzędzia, urządzenia, pojazdy i środki transportu używane do robót w ramach niniejszej umowy oraz towary potrzebne do budowy mostu granicznego mogą być przywiezione z terytorium Państwa jednej Umawiającej się Strony na terytorium Państwa drugiej Umawiającej się Strony zgodnie z prawem wewnętrznym obu Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Właściwe organy podatkowe i celne Umawiających się Stron będą się wzajemnie porozumiewać i przekazywać niezbędne informacje oraz udzielać pomocy przy stosowaniu wewnętrznych przepisów prawa zgodnie z postanowieniami ustępów 1 i 2. Przedstawiciele tych organów będą uprawnieni do przebywania na placu budowy mostu granicznego i podejmowania tam działań zgodnie z postanowieniami ustępów 1 i 2, które są zgodne z ich wewnętrznymi przepisami prawa.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "W celu wykonania niniejszej umowy, niezwłocznie po jej podpisaniu, Umawiające się Strony zapewv žiadnom zo štátov zmluvných strán, prekračovat’ štátnu hranicu v priestore staveniska hraničného mosta azdržiavat’ sa vtej časti stavby, ktorá sa nachádza na území štátu druhej zmluvnej strany bez povolenia na pobyt a povolenia na zamestnanie, ak budú mat’ pri sebe platný doklad, ktorý ich oprávňuje prekračovat’ štátnu hranicu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Zmluvné strany umožnia občanom tretích štátov, ktorí majú vízovú povinnost’ v jednom zo štátov zmluvných strán a ktorí vykonávajú práce podl’a tejto dohody, prekračovat’ štátnu hranicu v priestore staveniska hraničného mosta a zdržiavat’ sa vtej časti stavby, ktorá sa nachádza na území štátu druhej zmluvnej strany, ak sú zamestnaní v súlade svnútroštátnymi právnymi predpismi ozamestnávaní cudzincov, dostali vízum a majú pri sebe platný doklad, ktorý ich oprávňuje prekračovat’ štátnu hranicu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Problematiku, ktorá sa týka režimu na štátnej hranici vsúvislosti svýstavbou hraničného mosta, dohodnú príslušné ochrany štátnych hranic zmluvných strán pred započatím výstavby.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Článok 9"
+      },
+      {
+       "type": "text",
+       "text": "Príslušné orgány zmluvných strán oznámia svojim hraničným a colným orgánom termíny začatia a ukončenia výstavby hraničného mosta 14 dní pred začiatkom prác."
+      },
+      {
+       "type": "text",
+       "text": "Článok 10"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Na dodávky tovarov a služieb v súvislosti s výstavbou hraničného mosta sa vzt’ahujú vnútroštátne právne predpisy oboch zmluvných strán týkajúce sa dane z pridanej hodnoty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Technika, náradie, zariadenia, vozidlá a dopravné prostriedky potrebné na výkon prác v rámci tejto dohody, ako aj materiál potrebný pre výstavbu hraničného mosta, sa môžu doviezt’ z územia štátu jednej zmluvnej strany na územie štátu druhej zmluvnej strany podl’avnútroštátnych právnych predpisov oboch zmluvných strán.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Príslušné daňové a colné orgány zmluvných strán sa budú vzájomne kontaktovat’, odovzdávat’ si potrebné informácie a poskytovat’ si pomoc pri uplatňovaní vnútroštátnych právnych predpisov, v súlade s ustanoveniami odsekov 1 a 2. Zástupcovia týchto orgánov sú oprávnení zdržiavat’ sa na stavenisku hraničného mosta a vykonávat’ tam úkony podl’a ustanovení uvedených v odsekoch 1 a 2, ktoré sú vsúlade sich vnútroštátnymi právnymi predpismi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Článok 11"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Na účely plnenia tejto dohody, ihned’ po jej podpísaní, zmluvné strany zabezpečia vytvorenie pol’skonią powołanie polsko-słowackiej Komisji Mieszanej, zwanej dalej „Komisją Mieszaną”, która składać się będzie z polskiej i słowackiej delegacji. Umawiające się Strony poinformują się wzajemnie o wyznaczeniu przewodniczących delegacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Każdy przewodniczący delegacji może zwołać posiedzenie Komisji Mieszanej w porozumieniu z przewodniczącym delegacji drugiej Umawiającej się Strony. Posiedzenie takie musi odbyć się w ciągu jednego miesiąca od dnia otrzymania wniosku o jego zwołanie. Posiedzenia Komisji Mieszanej będą się odbywać na przemian w obu Państwach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Zadaniem Komisji Mieszanej jest wyjaśnianie podstawowych problemów dotyczących realizacji niniejszej umowy, jak również przedstawianie właściwym organom Umawiających się Stron opinii i zaleceń, w szczególności w sprawach:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_11/ust_3/lit_a",
+       "text": "konstrukcji i wymiarów mostu granicznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_11/ust_3/lit_b",
+       "text": "określenia zakresu wspólnych prac,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_11/ust_3/lit_c",
+       "text": "sprawdzenia projektu mostu granicznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_11/ust_3/lit_d",
+       "text": "płatności i warunków płatności,",
        "children": []
       },
       {
        "type": "lit",
        "num": "e",
-       "path": "ust_1/pkt_1/lit_e",
-       "text": "zabezpečit’ zástupcom pol’skej zmluvnej strany účast’ na činnosti výberovej komisie zriadenej na výber zhotovitel’a,",
+       "path": "art_11/ust_3/lit_e",
+       "text": "warunków odbioru obiektów mostu granicznego,",
        "children": []
       },
       {
        "type": "lit",
        "num": "f",
-       "path": "ust_1/pkt_1/lit_f",
-       "text": "uzavriet’ zmluvu o dielo s vít’azom medzinárodnej verejnej sút’aže a zabezpečit’ výstavbu,",
+       "path": "art_11/ust_3/lit_f",
+       "text": "podziału kosztów budowy mostu granicznego,",
        "children": []
       },
       {
        "type": "lit",
        "num": "g",
-       "path": "ust_1/pkt_1/lit_g",
-       "text": "vykonávat’ investorský dozor,",
+       "path": "art_11/ust_3/lit_g",
+       "text": "przyjęcia i przekazania do eksploatacji obiektów mostu granicznego,",
        "children": []
       },
       {
        "type": "lit",
        "num": "h",
-       "path": "ust_1/pkt_1/lit_h",
-       "text": "wyegzekwowania od wykonawcy w okresie gwarancyjnym usunięcia ewentualnych wad i usterek związanych z realizacją budowy,",
+       "path": "art_11/ust_3/lit_h",
+       "text": "terminów realizacji budowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_11/ust_3/lit_i",
+       "text": "interpretacji niniejszej umowy lub jej stosowania w razie różnicy stanowisk.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "wybudowania słowackiej drogi dojazdowej,",
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "Delegacje uczestniczące w Komisji Mieszanej będą zobowiązane do udzielania wzajemnej pomocy w zakresie przygotowania dokumentów, które uznają za niezbędne do podjęcia decyzji przez Komisję Mieszaną.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "zabezpieczenia budowy obiektów przejścia granicznego.",
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "Komisja Mieszana podejmuje decyzje we wzajemnym porozumieniu przewodniczących obu delegacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_11/ust_6",
+     "text": "Właściwe organy Umawiających się Stron przed pierwszym posiedzeniem Komisji Mieszanej wskażą pełnomocników upoważnionych do wyjaśniania wszelkich problemów związanych z budową mostu granicznego, w tym do przeprowadzenia wspólnych obmiarów robót, kontroli jakości i sprawdzania rozliczeń. Szczegółowy zakres czynności wyżej wymienionych pełnomocników zostanie określony na pierwszym posiedzeniu Komisji Mieszanej.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Polska Umawiająca się Strona w celu realizacji postanowień artykułu 1 jest zobowiązana do:",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "współpracy ze słowacką Umawiającą się Stroną przy przygotowaniu i prowadzeniu budowy mostu granicznego, zapewniając:",
+     "path": "art_12/ust_1",
+     "text": "Różnice stanowisk powstałe podczas interpretacji i stosowania niniejszej umowy będą rozstrzygane w drodze rokowań pomiędzy upoważnionymi przedstawicielami ministrów właściwych do spraw transportu Umawiających się Stron na wniosek Komisji Mieszanej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "-slovenskej Zmiešanej komisie (d’alej len „Zmiešaná komisia”), ktorá bude zložená z pol’skej a slovenskej delegácie. Zmluvné strany zabezpečia vzájomnú výmenu informácie o menovaných predsedoch delegácií."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Každý predseda delegácie môže zvolat’ zasadnutie Zmiešanej komisie po dohode s predsedom delegácie druhej strany. Toto zasadnutie sa musí uskutočnit’ do 1 mesiaca od obdržania návrhu na jeho zvolanie. Zasadania Zmiešanej komisie sa budú uskutočňovat’ striedavo v oboch štátoch.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Úlohou Zmiešanej komisie je vyjasňovat’ problémy týkajúce sa uplatňovania tejto dohody apredkladat’ názory a odporúčania príslušným orgánom zmluvných strán, ktoré sa týkajú najmä:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_2/pkt_1/lit_a",
-       "text": "właściwe decyzje i zezwolenia,",
+       "path": "art_12/ust_3/lit_a",
+       "text": "konštrukcie a parametrov hraničného mosta,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_2/pkt_1/lit_b",
-       "text": "udział przedstawicieli polskiej Umawiającej się Strony w pracach komisji powołanej do przeprowadzenia międzynarodowego przetargu na wykonawcę,",
+       "path": "art_12/ust_3/lit_b",
+       "text": "určenia rozsahu spoločných prác,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_2/pkt_1/lit_c",
-       "text": "przeprowadzenie na swoim terytorium badań inżynieryjno-geologicznych i pomiarów geodezyjnych oraz przekazanie ich wyników słowackiej Umawiającej się Stronie,",
+       "path": "art_12/ust_3/lit_c",
+       "text": "overenia projektu hraničného mosta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_12/ust_3/lit_d",
+       "text": "platby a platobných podmienok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_12/ust_3/lit_e",
+       "text": "podmienok kolaudácie objektov hraničného mosta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_12/ust_3/lit_f",
+       "text": "rozdelenia nákladov na výstavbu hraničného mosta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_12/ust_3/lit_g",
+       "text": "preberania aodovzdávania do prevádzky objektov hraničného mosta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_12/ust_3/lit_h",
+       "text": "termínov realizácie výstavby,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_12/ust_3/lit_i",
+       "text": "výkladu tejto dohody prípadne jej uplatňovania v prípade rozdielnych stanovísk.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "wybudowania polskiej drogi dojazdowej.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Most graniczny będzie projektowany, wykonany i odebrany zgodnie z wewnętrznymi przepisami prawnymi, normami i przepisami techniczno-budowlanymi obowiązującymi w obu Państwach. W przypadku gdyby normy i przepisy były odmienne, należy postępować według tych, które są bardziej rygorystyczne. Przed wydaniem właściwych zezwoleń dokumentację projektową należy omówić i uzgodnić w ramach Polsko-Słowackiej Komisji ds. Wód Granicznych. Przy projektowaniu i budowie mostu granicznego będą przestrzegane warunki określone przez właściwe organy ds. gospodarki wodnej Umawiających się Stron z uwzględnieniem postanowień Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Słowackiej o gospodarce wodnej na wodach granicznych, sporządzonej w Warszawie dnia 14 maja 1977 r., zgodnie z jej obowiązującym brzmieniem i równocześnie tak, aby obiekty mostu granicznego nie spowodowały pogorszenia warunków spływowych rzeki Poprad w przypadku wielkiej wody i spływu kry.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przetarg na wykonawcę mostu granicznego zostanie przeprowadzony zgodnie z przepisami prawnymi obowiązującymi w Republice Słowackiej. W dokumentacji przetargowej zostanie zawarty wymóg, że cena ofertowa i cena poszczególnych pozycji będzie wyrażona w euro.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Wszystkie prace związane z budową mostu granicznego muszą być prowadzone w sposób nienaruszający przebiegu granicy państwowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Dokumentacja projektowa mostu granicznego zostanie opracowana w języku polskim i języku słowackim.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_6/lit_h",
-     "text": "počas záručnej lehoty vyžiadat’ od zhotovitel’aodstránenie prípadných vád anedorobkov súvisiacich s výstavbou,",
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Delegácie zúčastnené v Zmiešanej komisii sú povinné poskytovat’ si vzájomnú pomoc pri príprave podkladov, ktoré uznajú za potrebné na rozhodovanie Zmiešanej komisie.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_6/pkt_2",
-     "text": "vybudovat’ slovenskú prístupovú cestu,",
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Zmiešaná komisia prijíma rozhodnutia na základe vzájomnej dohody predsedov oboch delegácií.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_6/pkt_3",
-     "text": "zabezpečit’ výstavbu objektov hraničného priechodu.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pol’ská zmluvná strana sa na účel vykonávania ustanovení článku 1 zaväzuje:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "spolupracovat’ so slovenskou zmluvnou stranou pri príprave ariadení výstavby hraničného mosta, a to zabezpečit’:",
+     "type": "ust",
+     "num": "6",
+     "path": "art_12/ust_6",
+     "text": "Príslušné orgány zmluvných strán pred prvým zasadnutím Zmiešanej komisie oznámia mená splnomocnencov, ktorí sú oprávnení vysvetl’ovat’ všetky problémy spojené svýstavbou hraničného mosta, vrátane výkonu spoločných geodetických prác, preverovania kvality a správnosti vyúčtovania pred prvým zasadnutím Zmiešanej komisie. Podrobný rozsah činnosti hore uvedených splnomocnencov sa určí na prvom zasadaní Zmiešanej komisie.",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_2/pkt_1/lit_a",
-       "text": "príslušné rozhodnutia a povolenia,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_2/pkt_1/lit_b",
-       "text": "účast’ zástupcov pol’skej zmluvnej strany vo výberovej komisii medzinárodnej verejnej sút’aži na zhotovitel’a,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "ust_2/pkt_1/lit_c",
-       "text": "na svojom území inžiniersko-geologický prieskum a geodetické práce a odovzdat’ ich výsledky slovenskej zmluvnej strane,",
-       "children": []
+       "type": "text",
+       "text": "Článok 12"
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Rozdielne stanoviská, ktoré vzniknú počas výkladu a vykonávania tejto dohody, sa budú riešit’ na základe návrhu Zmiešanej komisie rokovaniami zástupcov poverených ministrami zmluvných strán, ktorí riadia otázky dopravy.",
+     "children": []
+    },
+    {
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "vybudovat’ pol’skú prístupovú cestu.",
+     "path": "art_12/ust_2",
+     "text": "W przypadku nieosiągnięcia porozumienia w wyniku rokowań, o których mowa w ustępie 1, Umawiające się Strony będą rozstrzygać spory drogą dyplomatyczną.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Hraničný most bude naprojektovaný, zrealizovaný a skolaudovaný v súlade s vnútroštátnymi právnymi predpismi, normami a stavebno-technickými predpismi planými v oboch štátoch. V prípade, ak by tieto boli rozdielne, bude sa postupovat’ podl’a tých, ktoré sú prísnejšie. Projektovú dokumentáciu pred vydaním príslušných povolení je potrebné prerokovat’ v Pol’sko-slovenskej komisii pre hraničné vody. Pri projektovaní avýstavbe hraničného mosta budú dodržané podmienky stanovené príslušnými vodohospodárskymi orgánmi zmluvných strán, pri rešpektovaní ustanovení Dohody medzi vládou Pol’skej republiky avládou Slovenskej republiky o vodnom hospodárstve na hraničných vodách, podpísanej vo Varšave 14. mája 1977, v súlade s jej platnýmznenímazároveň tak, aby objekty hraničného mosta nezhoršili odtokové pomery rieky Poprad pri prevedení vel’kých vôd a l’adochodov.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Výberové konanie na zhotovitel’a hraničného mosta sa uskutoční v súlade s vnútroštátnym právnym poriadkom platným v Slovenskej republike. V tendrovej dokumentácii bude ponuková cena aj cena jednotlivých položiek vyžadovaná v EUR.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Všetky práce spojené s výstavbou hraničného mosta sa musia vykonávat’ tak, aby nenarušovali priebeh štátnej hranice.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Projektová dokumentácia hraničného mosta bude vypracovaná v pol’skom a slovenskom jazyku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Postanowienia niniejszego artykułu będą realizowane odpowiednio: w imieniu słowackiej Umawiającej się Strony przez Słowacki Zarząd Dróg, z wyjątkiem ustępu 1 punkt 3, który będzie realizowany przez Dyrekcję Ceł Republiki Słowackiej, w imieniu polskiej Umawiającej się Strony przez Generalną Dyrekcję Dróg Krajowych i Autostrad, zwane dalej „właściwymi organami”.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem Państw Umawiających się Stron i wejdzie w życie w 90. dniu od dnia otrzymania noty późniejszej, stwierdzającej to przyjęcie. Niniejsza umowa będzie prowizorycznie stosowana od dnia jej podpisania, w takim zakresie, w jakim jest to zgodne z prawem wewnętrznym Umawiających się Stron.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony będą dokonywać odbioru robót wspólnie, za pośrednictwem właściwych organów i w obecności wykonawcy robót, zgodnie z wewnętrznymi przepisami prawnymi obowiązującymi w obu Państwach oraz według norm i przepisów techniczno-budowlanych obowiązujących w obu Państwach, zgodnie z warunkami kontraktu na budowę mostu granicznego."
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Niniejsza umowa obowiązuje do czasu zrealizowania wynikających z niej zobowiązań.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Niniejsza umowa może być zmieniona i uzupełniona w drodze porozumienia Umawiających się Stron. Zmiany i uzupełnienia muszą zostać dokonane w formie pisemnej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "SPORZĄDZONO w Ostrawie dnia 23 listopada 2004 r. w dwóch egzemplarzach, każdy w językach polskim i słowackim, przy czym obydwa teksty mają jednakową moc."
+      },
+      {
+       "type": "text",
+       "text": "W imieniu Rządu W imieniu Rządu Rzeczypospolitej Polskiej Republiki Słowackiej"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Utrzymanie mostu granicznego będzie się odbywało na podstawie postanowień Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Słowackiej o utrzymaniu drogowych obiektów mostowych i wspólnych odcinków dróg na wspólnej granicy państwowej, sporządzonej w Bratysławie dnia 29 listopada 1995 r."
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "V prípade, ked’ sa nedosiahne dohoda na základe rokovaní uvedených vodseku 1, budú obe zmluvné strany riešit’ spory diplomatickou cestou.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Článok 13"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Táto dohoda podlieha schváleniu v súlade s vnútroštátnymi právnymi predpismi zmluvných strán a nadobudne platnost’ 90-tym dňom po dni výmeny nót o tomto schválení. Dohoda bude predbežne vykonávaná odo dňa jej podpisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Táto dohoda bude platná až do splnenia záväzkov, ktoré z nej vyplývajú.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Táto dohoda môžé byt’ menená adoplňovaná na základe vzájomnej dohody zmluvných strán. Zmeny a doplnky musia byt’ vykonané písomnou formou.",
+     "children": [
+      {
+       "type": "text",
+       "text": "DANÉ v Ostrave dňa 23 novembra 2004 v dvoch pôvodných vyhotoveniach, každé vpol’skom aslovenskom jazyku, pričom obe znenia majú rovnakú platnost’."
+      },
+      {
+       "type": "text",
+       "text": "Za vládu Za vládu Pol’skej republiky Slovenskej republiky"
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron ponosi koszty pozyskania gruntu i realizacji przedsięwzięć budowlanych, o których mowa w artykule 1 ustęp 2, które znajdują się na terytorium jej Państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Polska Umawiająca się Strona pokryje słowackiej Umawiającej się Stronie poniesione przez nią koszty administracyjne, dotyczące w szczególności działań, o których mowa w artykule 2 ustęp 1 punkt 1, w wysokości 10 % kosztów budowy polskiej części mostu granicznego, wynikających z ceny uzgodnionej w kontrakcie na budowę mostu granicznego, bez uwzględnienia podatków od towarów i usług przewidzianych w prawie Republiki Słowackiej. Koszty administracyjne zostaną pokryte przez właściwy organ polskiej Umawiającej się Strony w terminie 30 dni od dnia otrzymania faktury, wystawionej w euro przez właściwy organ słowackiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Istniejąca i nowo opracowana dokumentacja — w szczególności dokumentacja geodezyjna oraz badania inżynieryjno-geologiczne — niezbędna do projektowania mostu granicznego będzie bezpłatnie udostępniona przez właściwy organ polskiej Umawiającej się Strony właściwemu organowi słowackiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony dołożą starań, by uzyskać pomoc finansową na budowę mostu granicznego z właściwego funduszu Unii Europejskiej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Ustanovenia tohto článku budú realizovat’ za pol’skú zmluvnú stranu Generálne riaditel’stvo verejných ciest aza slovenskú zmluvnú stranu Slovenská správa ciest, okrem odseku 1. bod 3/, ktorý bude realizovat’ Colné riaditel’stvo Slovenskej republiky, (d’alej len „príslušné orgány”).",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 3"
-    },
-    {
-     "type": "text",
-     "text": "Zmluvné strany vudú preberat’ stavebné objekty stavby hraničného mosta spoloočne, prostredníctvom príslušných orgánov a za prítomnosti zhotovitel’a prác, podl’a vnútroštátnych právnych predpisov platných voboch štátoch apodl’anoriem astaveb no-technických predpisov platných v oboch štátoch, v súlade s podmienkami zmluvy o dielo na výstavbu hraničného mosta."
-    },
-    {
-     "type": "text",
-     "text": "Článok 4"
-    },
-    {
-     "type": "text",
-     "text": "Údržba hraničného mosta sa bude riadit’ ustanoveniami Dohody medzi vládou Pol’skej republiky a vládou Slovenskej republiky o údržbe cestných hraničných mostných objektov a spoločných úsekov ciest na spoločnej štátnej hranici, podpísanej v Bratislave dňa 29. novembra 1995."
-    },
-    {
-     "type": "text",
-     "text": "Článok 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Každá zo zmluvných strán hradí náklady na výkup pozemkov a vybudovanie stavieb uvedených v článku 1 odsek 2, ktoré sa nachádzajú na území jej štátu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pol’ská zmluvná strana uhradí slovenskej zmluvnej strane administratívne náklady, ktoré sa týkajú najmä úkonov uvedených v článku 2 odsek 1, bod 1/, vo výške 10% stavebných nákladov na výstavbu pol’skej časti hraničného mosta vyplývajúcich z dohodnutej ceny v zmluve o dielo na výstavbu hraničného mosta, bez zohl’adnenia dane zpridanej hodnoty z tovarov a služieb v zmysle slovenských právnych predpisov. Administratívne náklady budú zaplatené príslušným orgánom pol’skej zmluvnej strany do 30 dní odo dňa obdržania faktúry pol’skou zmluvnou stranou od príslušného orgánu slovenskej zmluvnej strany vystavenej v EUR.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Existujúca a nová vypracovaná dokumentácia, najmä geodetická dokumentácia a inžiniersko-geologický prieskum, ktoré sú nevyhnutné na vypracovanie projektu hraničného mosta, budú dané bezplatne kdispozícii príslušným orgánom pol’skej zmluvnej strany príslušnému orgánu slovenskej zmluvnej strany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Zmluvné strany vynaložia úsilie získat’ finančnú podporu na výstavbu hraničného mosta zpríslušného fondu Európskej únie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Po zrealizowaniu budowy mostu, zgodnie z niniejszą umową każda z Umawiających się Stron będzie właścicielem tej części mostu granicznego, który znajduje się na terytorium jej Państwa."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wykonawca realizujący budowę mostu granicznego zostanie zobowiązany w kontrakcie na budowę mostu do wystawienia właściwemu organowi słowackiej Umawiającej się Strony oddzielnych faktur za wykonanie:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "konstrukcji dolnej, tj. przyczółka, filarów i regulacji koryta nurtu rzeki Poprad,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "konstrukcji nośnej wraz z jej wyposażeniem,",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "zgodnie z ich przynależnością do terytoriów Państw Umawiających się Stron."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwy organ polskiej Umawiającej się Strony będzie przekazywać właściwemu organowi słowackiej Umawiającej się Strony przypadające na polską Umawiającą się Stronę części płatności, dotyczących budowy mostu granicznego, na podstawie faktur wystawionych przez słowacką Umawiającą się Stronę, w których nie będzie uwzględniony podatek od towarów i usług. Płatności będą dokonywane na rzecz wykonawcy przez właściwy organ słowackiej Umawiającej się Strony na podstawie wystawionych przez wykonawcę faktur.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwy organ słowackiej Umawiającej się Strony będzie informować z dwumiesięcznym wyprzedzeniem właściwy organ polskiej Umawiającej się Strony o szacunkowej wysokości środków finansowych potrzebnych na realizację płatności, o których mowa w ustępie 2.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Ostateczne rozliczenie kosztów budowy mostu granicznego między właściwymi organami obu Umawiających się Stron nastąpi w terminie do 30 dni od dnia jego końcowego odbioru.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Wszystkie płatności właściwego organu polskiej Umawiającej się Strony dokonywane będą w euro właściwemu organowi słowackiej Umawiającej się Strony, w terminie do 30 dni od dnia otrzymania faktury.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Właściwy organ słowackiej Umawiającej się Strony po podpisaniu kontraktu na budowę mostu granicznego przekaże niezwłocznie właściwemu organowi polskiej Umawiającej się Strony jeden egzemplarz oryginału tego kontraktu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony umożliwią obywatelom Państw Umawiających się Stron i obywatelom państw trzecich, wykonującym prace związane z budową mostu granicznego zgodnie z niniejszą umową i nieobję- Článok 6",
-   "children": [
-    {
-     "type": "text",
-     "text": "Každá zo zmluvných stránsa po zrealizovaní výstavby mosta vsúlade stouto dohodou stane vlastníkom tej časti hraničného mosta, ktorá sa nachádza na jej štátnom území."
-    },
-    {
-     "type": "text",
-     "text": "Článok 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zhotovitel’, ktorý bude realizovat’ výstavbu hraničného mosta, sa v zmluve o dielo na jeho výstavbu zaviaže, že bude vystavovat’ príslušnému orgánu slovenskej zmluvnej strany osobitné faktúry za vykonané práce podl’a ich príslušnosti k štátnemu územiu zmluvných strán na:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "spodnú stavbu, t.j. predmostia, piliere a úpravy koryta toku rieky Poprad,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "hornú stavbu, vrátane jej vybavenia.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Príslušný orgán pol’skej zmluvnej strany bude uhrádzat’ príslušnému orgánu slovenskej zmluvnej strany finančné čiastky platieb, ktoré na ňu pripadajú aktoré sa týkajú výstavby hraničného mosta na základe faktúr zaslaných slovenskou zmluvnou stranou a neobsahujúcich daň z pridanej hodnoty za tovary aslužby. Platby sa budú uhrádzat’ vprospech zhotovitel’a príslušným orgánom slovenskej zmluvnej strany na základe faktúr predkladaných zhotovitel’om.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Príslušný orgán slovenskej zmluvnej strany oznámi príslušnému orgánu pol’skej zmluvnej strany s dvojmesačným predstihom približnú sumu finančných prostriedkov potrebných na platby uvedené v odseku 2.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Záverečné vyúčtovanie nákladov na výstavbu hraničného mosta medzi príslušnými orgánmi oboch strán sa uskutoční do 30 dní odo dňa zaverečnej kolaudácie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Všetky platby príslušného orgánu pol’skej zmluvnej strany príslušnému orgánu slovenskej smluvnej strany budú v EUR, v termíne do 30 dní odo dňa obdržania faktúry.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Príslušný orgán slovenskej zmluvnej strany po podpise zmluvy o dielo na výstavbu hraničného mosta zašle bezodkladne príslušnému orgánu pol’skej zmluvnej strany jedno pôvodné vyhotovenie zmluvy o dielo.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zmluvné strany umožnia občanom štátov zmluvných strán a občanom tretích štátov, ktorí vykonávajú práce pri výstavbe hraničného mosta podl’a tejto dohody a tkorí nemajú vízovú povinnost’ tym obowiązkiem posiadania wizy w żadnym z Państw Umawiających się Stron, przekraczanie granicy państwa w rejonie placu budowy mostu granicznego i przebywanie w tej części budowy, która znajduje się na terytorium Państwa drugiej Umawiającej się Strony, bez konieczności posiadania zezwolenia na pobyt i zezwolenia na pracę, o ile posiadają przy sobie ważny dokument uprawniający do przekroczenia granicy państwowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony umożliwią obywatelom państw trzecich, których dotyczy obowiązek posiadania wizy na pobyt w jednym z Państw Umawiających się Stron, wykonującym prace zgodnie z niniejszą umową, przekraczanie granicy państwa w rejonie placu budowy mostu granicznego i przebywanie w tej części budowy, która znajduje się na terytorium Państwa drugiej Umawiającej się Strony, jeżeli zostali zatrudnieni zgodnie z wewnętrznymi przepisami prawa o zatrudnianiu cudzoziemców, otrzymali wizę i posiadają przy sobie ważny dokument uprawniający do przekraczania granicy państwowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Sprawy dotyczące porządku na granicy państwowej w związku z budową mostu granicznego zostaną uzgodnione przez organy graniczne Umawiających się Stron przed rozpoczęciem budowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Właściwe organy Umawiających się Stron powiadomią organy graniczne i celne swoich Państw o terminie rozpoczęcia i zakończenia budowy mostu granicznego na 14 dni przed terminem rozpoczęcia robót."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dla sprzedaży towarów i usług dokonywanych w związku z budową mostu granicznego będą stosowane wewnętrzne przepisy prawa obu Umawiających się Stron dotyczące podatku od towarów i usług.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sprzęt, narzędzia, urządzenia, pojazdy i środki transportu używane do robót w ramach niniejszej umowy oraz towary potrzebne do budowy mostu granicznego mogą być przywiezione z terytorium Państwa jednej Umawiającej się Strony na terytorium Państwa drugiej Umawiającej się Strony zgodnie z prawem wewnętrznym obu Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy podatkowe i celne Umawiających się Stron będą się wzajemnie porozumiewać i przekazywać niezbędne informacje oraz udzielać pomocy przy stosowaniu wewnętrznych przepisów prawa zgodnie z postanowieniami ustępów 1 i 2. Przedstawiciele tych organów będą uprawnieni do przebywania na placu budowy mostu granicznego i podejmowania tam działań zgodnie z postanowieniami ustępów 1 i 2, które są zgodne z ich wewnętrznymi przepisami prawa.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu wykonania niniejszej umowy, niezwłocznie po jej podpisaniu, Umawiające się Strony zapewv žiadnom zo štátov zmluvných strán, prekračovat’ štátnu hranicu v priestore staveniska hraničného mosta azdržiavat’ sa vtej časti stavby, ktorá sa nachádza na území štátu druhej zmluvnej strany bez povolenia na pobyt a povolenia na zamestnanie, ak budú mat’ pri sebe platný doklad, ktorý ich oprávňuje prekračovat’ štátnu hranicu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zmluvné strany umožnia občanom tretích štátov, ktorí majú vízovú povinnost’ v jednom zo štátov zmluvných strán a ktorí vykonávajú práce podl’a tejto dohody, prekračovat’ štátnu hranicu v priestore staveniska hraničného mosta a zdržiavat’ sa vtej časti stavby, ktorá sa nachádza na území štátu druhej zmluvnej strany, ak sú zamestnaní v súlade svnútroštátnymi právnymi predpismi ozamestnávaní cudzincov, dostali vízum a majú pri sebe platný doklad, ktorý ich oprávňuje prekračovat’ štátnu hranicu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Problematiku, ktorá sa týka režimu na štátnej hranici vsúvislosti svýstavbou hraničného mosta, dohodnú príslušné ochrany štátnych hranic zmluvných strán pred započatím výstavby.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 9"
-    },
-    {
-     "type": "text",
-     "text": "Príslušné orgány zmluvných strán oznámia svojim hraničným a colným orgánom termíny začatia a ukončenia výstavby hraničného mosta 14 dní pred začiatkom prác."
-    },
-    {
-     "type": "text",
-     "text": "Článok 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Na dodávky tovarov a služieb v súvislosti s výstavbou hraničného mosta sa vzt’ahujú vnútroštátne právne predpisy oboch zmluvných strán týkajúce sa dane z pridanej hodnoty.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Technika, náradie, zariadenia, vozidlá a dopravné prostriedky potrebné na výkon prác v rámci tejto dohody, ako aj materiál potrebný pre výstavbu hraničného mosta, sa môžu doviezt’ z územia štátu jednej zmluvnej strany na územie štátu druhej zmluvnej strany podl’avnútroštátnych právnych predpisov oboch zmluvných strán.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Príslušné daňové a colné orgány zmluvných strán sa budú vzájomne kontaktovat’, odovzdávat’ si potrebné informácie a poskytovat’ si pomoc pri uplatňovaní vnútroštátnych právnych predpisov, v súlade s ustanoveniami odsekov 1 a 2. Zástupcovia týchto orgánov sú oprávnení zdržiavat’ sa na stavenisku hraničného mosta a vykonávat’ tam úkony podl’a ustanovení uvedených v odsekoch 1 a 2, ktoré sú vsúlade sich vnútroštátnymi právnymi predpismi.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Na účely plnenia tejto dohody, ihned’ po jej podpísaní, zmluvné strany zabezpečia vytvorenie pol’skonią powołanie polsko-słowackiej Komisji Mieszanej, zwanej dalej „Komisją Mieszaną”, która składać się będzie z polskiej i słowackiej delegacji. Umawiające się Strony poinformują się wzajemnie o wyznaczeniu przewodniczących delegacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdy przewodniczący delegacji może zwołać posiedzenie Komisji Mieszanej w porozumieniu z przewodniczącym delegacji drugiej Umawiającej się Strony. Posiedzenie takie musi odbyć się w ciągu jednego miesiąca od dnia otrzymania wniosku o jego zwołanie. Posiedzenia Komisji Mieszanej będą się odbywać na przemian w obu Państwach.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zadaniem Komisji Mieszanej jest wyjaśnianie podstawowych problemów dotyczących realizacji niniejszej umowy, jak również przedstawianie właściwym organom Umawiających się Stron opinii i zaleceń, w szczególności w sprawach:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "konstrukcji i wymiarów mostu granicznego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "określenia zakresu wspólnych prac,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "sprawdzenia projektu mostu granicznego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_3/lit_d",
-     "text": "płatności i warunków płatności,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_3/lit_e",
-     "text": "warunków odbioru obiektów mostu granicznego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_3/lit_f",
-     "text": "podziału kosztów budowy mostu granicznego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_3/lit_g",
-     "text": "przyjęcia i przekazania do eksploatacji obiektów mostu granicznego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_3/lit_h",
-     "text": "terminów realizacji budowy,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_3/lit_i",
-     "text": "interpretacji niniejszej umowy lub jej stosowania w razie różnicy stanowisk.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Delegacje uczestniczące w Komisji Mieszanej będą zobowiązane do udzielania wzajemnej pomocy w zakresie przygotowania dokumentów, które uznają za niezbędne do podjęcia decyzji przez Komisję Mieszaną.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Komisja Mieszana podejmuje decyzje we wzajemnym porozumieniu przewodniczących obu delegacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Właściwe organy Umawiających się Stron przed pierwszym posiedzeniem Komisji Mieszanej wskażą pełnomocników upoważnionych do wyjaśniania wszelkich problemów związanych z budową mostu granicznego, w tym do przeprowadzenia wspólnych obmiarów robót, kontroli jakości i sprawdzania rozliczeń. Szczegółowy zakres czynności wyżej wymienionych pełnomocników zostanie określony na pierwszym posiedzeniu Komisji Mieszanej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Różnice stanowisk powstałe podczas interpretacji i stosowania niniejszej umowy będą rozstrzygane w drodze rokowań pomiędzy upoważnionymi przedstawicielami ministrów właściwych do spraw transportu Umawiających się Stron na wniosek Komisji Mieszanej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "-slovenskej Zmiešanej komisie (d’alej len „Zmiešaná komisia”), ktorá bude zložená z pol’skej a slovenskej delegácie. Zmluvné strany zabezpečia vzájomnú výmenu informácie o menovaných predsedoch delegácií."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Každý predseda delegácie môže zvolat’ zasadnutie Zmiešanej komisie po dohode s predsedom delegácie druhej strany. Toto zasadnutie sa musí uskutočnit’ do 1 mesiaca od obdržania návrhu na jeho zvolanie. Zasadania Zmiešanej komisie sa budú uskutočňovat’ striedavo v oboch štátoch.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Úlohou Zmiešanej komisie je vyjasňovat’ problémy týkajúce sa uplatňovania tejto dohody apredkladat’ názory a odporúčania príslušným orgánom zmluvných strán, ktoré sa týkajú najmä:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "konštrukcie a parametrov hraničného mosta,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "určenia rozsahu spoločných prác,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "overenia projektu hraničného mosta,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_3/lit_d",
-     "text": "platby a platobných podmienok,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_3/lit_e",
-     "text": "podmienok kolaudácie objektov hraničného mosta,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_3/lit_f",
-     "text": "rozdelenia nákladov na výstavbu hraničného mosta,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_3/lit_g",
-     "text": "preberania aodovzdávania do prevádzky objektov hraničného mosta,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_3/lit_h",
-     "text": "termínov realizácie výstavby,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_3/lit_i",
-     "text": "výkladu tejto dohody prípadne jej uplatňovania v prípade rozdielnych stanovísk.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Delegácie zúčastnené v Zmiešanej komisii sú povinné poskytovat’ si vzájomnú pomoc pri príprave podkladov, ktoré uznajú za potrebné na rozhodovanie Zmiešanej komisie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Zmiešaná komisia prijíma rozhodnutia na základe vzájomnej dohody predsedov oboch delegácií.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Príslušné orgány zmluvných strán pred prvým zasadnutím Zmiešanej komisie oznámia mená splnomocnencov, ktorí sú oprávnení vysvetl’ovat’ všetky problémy spojené svýstavbou hraničného mosta, vrátane výkonu spoločných geodetických prác, preverovania kvality a správnosti vyúčtovania pred prvým zasadnutím Zmiešanej komisie. Podrobný rozsah činnosti hore uvedených splnomocnencov sa určí na prvom zasadaní Zmiešanej komisie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Rozdielne stanoviská, ktoré vzniknú počas výkladu a vykonávania tejto dohody, sa budú riešit’ na základe návrhu Zmiešanej komisie rokovaniami zástupcov poverených ministrami zmluvných strán, ktorí riadia otázky dopravy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadku nieosiągnięcia porozumienia w wyniku rokowań, o których mowa w ustępie 1, Umawiające się Strony będą rozstrzygać spory drogą dyplomatyczną.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem Państw Umawiających się Stron i wejdzie w życie w 90. dniu od dnia otrzymania noty późniejszej, stwierdzającej to przyjęcie. Niniejsza umowa będzie prowizorycznie stosowana od dnia jej podpisania, w takim zakresie, w jakim jest to zgodne z prawem wewnętrznym Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa obowiązuje do czasu zrealizowania wynikających z niej zobowiązań.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza umowa może być zmieniona i uzupełniona w drodze porozumienia Umawiających się Stron. Zmiany i uzupełnienia muszą zostać dokonane w formie pisemnej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "SPORZĄDZONO w Ostrawie dnia 23 listopada 2004 r. w dwóch egzemplarzach, każdy w językach polskim i słowackim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu Rządu W imieniu Rządu Rzeczypospolitej Polskiej Republiki Słowackiej"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "V prípade, ked’ sa nedosiahne dohoda na základe rokovaní uvedených vodseku 1, budú obe zmluvné strany riešit’ spory diplomatickou cestou.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 13"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Táto dohoda podlieha schváleniu v súlade s vnútroštátnymi právnymi predpismi zmluvných strán a nadobudne platnost’ 90-tym dňom po dni výmeny nót o tomto schválení. Dohoda bude predbežne vykonávaná odo dňa jej podpisu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Táto dohoda bude platná až do splnenia záväzkov, ktoré z nej vyplývajú.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Táto dohoda môžé byt’ menená adoplňovaná na základe vzájomnej dohody zmluvných strán. Zmeny a doplnky musia byt’ vykonané písomnou formou.",
-   "children": [
-    {
-     "type": "text",
-     "text": "DANÉ v Ostrave dňa 23 novembra 2004 v dvoch pôvodných vyhotoveniach, každé vpol’skom aslovenskom jazyku, pričom obe znenia majú rovnakú platnost’."
-    },
-    {
-     "type": "text",
-     "text": "Za vládu Za vládu Pol’skej republiky Slovenskej republiky"
-    }
-   ]
+   ],
+   "label": "Artykuł 13"
   }
  ],
  "annexes": [],

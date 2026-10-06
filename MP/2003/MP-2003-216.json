@@ -29,438 +29,441 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Przedmiot"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Przedmiotem umowy jest uregulowanie współpracy pomiędzy Stronami w zakresie ratownictwa załóg okrętów podwodnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa określa zakres współpracy w doskonaleniu i rozwijaniu metod ratownictwa załóg okrętów podwodnych i medycyny podwodnej, w celu zwiększenia możliwości obydwu Stron w zapobieganiu skutkom niebezpiecznych incydentów z udziałem okrętów podwodnych oraz usuwania ich następstw.",
+   "path": "art_1",
+   "text": "Przedmiot",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Właściwe organy"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu wykonania postanowień niniejszej umowy Strony wyznaczają następujące organy:",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "w Rzeczypospolitej Polskiej:",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dowódca Marynarki Wojennej Rzeczypospolitej Polskiej,"
-      }
-     ]
+     "path": "art_1/ust_1",
+     "text": "Przedmiotem umowy jest uregulowanie współpracy pomiędzy Stronami w zakresie ratownictwa załóg okrętów podwodnych.",
+     "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "w Królestwie Szwecji:",
-     "children": [
-      {
-       "type": "text",
-       "text": "Inspektor Generalny Królewskiej Marynarki Wojennej Szwecji."
-      }
-     ]
+     "path": "art_1/ust_2",
+     "text": "Niniejsza umowa określa zakres współpracy w doskonaleniu i rozwijaniu metod ratownictwa załóg okrętów podwodnych i medycyny podwodnej, w celu zwiększenia możliwości obydwu Stron w zapobieganiu skutkom niebezpiecznych incydentów z udziałem okrętów podwodnych oraz usuwania ich następstw.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Organy wymienione w ust. 1 są upoważnione do realizacji działań przewidzianych niniejszą umową, w tym do składania i przyjmowania wniosków o udzielenie pomocy oraz do utrzymywania bezpośrednich kontaktów.",
+   "path": "art_2",
+   "text": "Właściwe organy",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "W celu wykonania postanowień niniejszej umowy Strony wyznaczają następujące organy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_1/pkt_1",
+       "text": "w Rzeczypospolitej Polskiej:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Dowódca Marynarki Wojennej Rzeczypospolitej Polskiej,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_1/pkt_2",
+       "text": "w Królestwie Szwecji:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Inspektor Generalny Królewskiej Marynarki Wojennej Szwecji."
+        }
+       ]
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Formy współpracy"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Organy wymienione w ust. 1 są upoważnione do realizacji działań przewidzianych niniejszą umową, w tym do składania i przyjmowania wniosków o udzielenie pomocy oraz do utrzymywania bezpośrednich kontaktów.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Formy współpracy",
+   "children": [
     {
      "type": "text",
      "text": "Przewidywane są następujące formy współpracy:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Współpraca w operacjach ratowania załóg okrętów podwodnych z zastosowaniem dostępnych środków ratowniczych Marynarki Wojennej Rzeczypospolitej Polskiej i Królewskiej Szwedzkiej Marynarki Wojennej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Współpraca w planowaniu i realizacji szkolenia i ćwiczeń na poligonach morskich obydwu Stron zgodnie z obowiązującymi procedurami w zakresie ratowania załóg okrętów podwodnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Uczestnictwo na zasadzie wzajemności w szkoleniach załóg okrętów podwodnych w zakresie samoratowania (swobodnego wypływu) z wykorzystaniem bazy szkoleniowej Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "Praktyki szkoleniowe personelu wojskowego w zakresie ratowania okrętów podwodnych i medycyny podwodnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_3/ust_5",
+     "text": "Wizyty robocze jednostek podwodnych i ratowniczych na zasadzie wzajemności.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Współpraca w operacjach ratowania załóg okrętów podwodnych z zastosowaniem dostępnych środków ratowniczych Marynarki Wojennej Rzeczypospolitej Polskiej i Królewskiej Szwedzkiej Marynarki Wojennej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Współpraca w planowaniu i realizacji szkolenia i ćwiczeń na poligonach morskich obydwu Stron zgodnie z obowiązującymi procedurami w zakresie ratowania załóg okrętów podwodnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Uczestnictwo na zasadzie wzajemności w szkoleniach załóg okrętów podwodnych w zakresie samoratowania (swobodnego wypływu) z wykorzystaniem bazy szkoleniowej Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Praktyki szkoleniowe personelu wojskowego w zakresie ratowania okrętów podwodnych i medycyny podwodnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Wizyty robocze jednostek podwodnych i ratowniczych na zasadzie wzajemności.",
+   "path": "art_4",
+   "text": "Plany i procedury",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Plany i procedury"
-    },
     {
      "type": "text",
      "text": "Strony zobowiązują się wprowadzić niezbędne poprawki do narodowych planów i procedur zgodnie z obowiązującymi w NATO porozumieniami standaryzacyjnymi (STANAGs) dotyczącymi opuszczania okrętów podwodnych i/lub operacji ratowniczych oraz szkolenia w zakresie opuszczania okrętów podwodnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Przekraczanie granic państwowych"
-    },
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Przekraczanie granic państwowych",
+   "children": [
     {
      "type": "text",
      "text": "Wejście przez jedną ze Stron na terytorium państwa lub wody terytorialne drugiej Strony w celu uczestniczenia w ćwiczeniach ratownictwa okrętu podwodnego powinno być wcześniej uzgodnione i odbywać się zgodnie z obowiązującymi procedurami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Koszty współpracy"
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron niniejszej umowy zobowiązuje się do pokrywania kosztów swojego uczestnictwa w kursach, szkoleniach i ćwiczeniach z zakresu ratownictwa okrętów podwodnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Szkolenie technik samoratowania (swobodnego wypływu) w oparciu o bazę szkoleniową jednej ze Stron będzie realizowane na zasadzie wzajemności bez ponoszenia kosztów, jednakże Strony zastrzegają możliwość nałożenia wobec siebie opłat za przeprowadzenie badań lekarskich i wykorzystanie instruktorów drugiej Strony związane ze szkoleniem załóg w zakresie technik samoratowania (swobodnego wypływu).",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W przypadku operacji ratowniczej Strona prosząca o pomoc pokryje koszty poniesione przez Stronę udzielającą pomocy.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Koszty współpracy",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Każda ze Stron niniejszej umowy zobowiązuje się do pokrywania kosztów swojego uczestnictwa w kursach, szkoleniach i ćwiczeniach z zakresu ratownictwa okrętów podwodnych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Zasady odpowiedzialności"
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Szkolenie technik samoratowania (swobodnego wypływu) w oparciu o bazę szkoleniową jednej ze Stron będzie realizowane na zasadzie wzajemności bez ponoszenia kosztów, jednakże Strony zastrzegają możliwość nałożenia wobec siebie opłat za przeprowadzenie badań lekarskich i wykorzystanie instruktorów drugiej Strony związane ze szkoleniem załóg w zakresie technik samoratowania (swobodnego wypływu).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "W przypadku operacji ratowniczej Strona prosząca o pomoc pokryje koszty poniesione przez Stronę udzielającą pomocy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron ponosi pełną odpowiedzialność za swój sprzęt i personel podczas wykonywania działań objętych niniejszą umową.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda ze Stron zrzeka się wszelkich roszczeń w stosunku do drugiej Strony za szkody spowodowane jej personelowi i/lub w jej własności przez personel drugiej Strony, z wyjątkiem gdy szkoda powstała w wyniku lekkomyślnego działania lub lekkomyślnego zaniechania działania, umyślnego działania lub rażącego zaniedbania.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zasady odpowiedzialności",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 8"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Każda ze Stron ponosi pełną odpowiedzialność za swój sprzęt i personel podczas wykonywania działań objętych niniejszą umową.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rozstrzyganie sporów"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Każda ze Stron zrzeka się wszelkich roszczeń w stosunku do drugiej Strony za szkody spowodowane jej personelowi i/lub w jej własności przez personel drugiej Strony, z wyjątkiem gdy szkoda powstała w wyniku lekkomyślnego działania lub lekkomyślnego zaniechania działania, umyślnego działania lub rażącego zaniedbania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Rozstrzyganie sporów",
+   "children": [
     {
      "type": "text",
      "text": "Wszelkie spory dotyczące interpretacji lub stosowania postanowień niniejszej umowy będą rozstrzygane na drodze negocjacji pomiędzy Stronami i nie będą przedkładane stronie trzeciej do rozstrzygnięcia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia końcowe"
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega przyjęciu zgodnie z przepisami ustawodawstwa wewnętrznego każdej ze Stron, co zostanie potwierdzone w drodze wymiany not. Umowa wchodzi w życie z dniem otrzymania noty późniejszej. Strona informuje drugą Stronę o tym fakcie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa może być zmieniona w dowolnym czasie za obopólną zgodą Stron. Zmiany powinny być wnoszone w formie pisemnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza umowa zostaje zawarta na czas nieokreślony, a każda ze Stron może ją wypowiedzieć w drodze notyfikacji. W takim przypadku umowa traci moc po upływie sześciu miesięcy od dnia otrzymania takiej notyfikacji przez drugą ze Stron.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Postanowienia końcowe",
    "children": [
     {
-     "type": "text",
-     "text": "Sporządzono w Sztokholmie dnia 6 lutego 2002 r. w dwóch egzemplarzach w języku polskim, szwedzkim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne. W razie rozbieżności przy ich interpretacji tekst sporządzony w języku angielskim będzie uważany za rozstrzygający."
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Niniejsza umowa podlega przyjęciu zgodnie z przepisami ustawodawstwa wewnętrznego każdej ze Stron, co zostanie potwierdzone w drodze wymiany not. Umowa wchodzi w życie z dniem otrzymania noty późniejszej. Strona informuje drugą Stronę o tym fakcie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W imieniu W imieniu Rządu Rzeczypospolitej Rządu Królestwa Polskiej Szwecji"
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Niniejsza umowa może być zmieniona w dowolnym czasie za obopólną zgodą Stron. Zmiany powinny być wnoszone w formie pisemnej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Minister Obrony Narodowej Minister Obrony J. Szmajdziński B. von Sydow"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF POLAND AND THE GOVERNMENT OF THE KINGDOM OF SWEDEN ON COOPERATION IN THE FIELD OF SUBMARINE CREWS RESCUE"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "The Government of the Republic of Poland and the Government of the Kingdom of Sweden hereinafter referred to as the Parties:"
-    },
-    {
-     "type": "ocr",
-     "text": "Having in mind that the Baltic Sea is a significant joining platform between Sweden and Poland, considering the development of the military relations, striving towards ensuring safety of Swedish and Polish submarines at sea out of territorial waters, having in mind good neighbourly relations and tradition of co-operation and having regard to the norms of international law on maritime safety, search and rescue,"
-    },
-    {
-     "type": "ocr",
-     "text": "the Parties have agreed upon the following:"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 1 Purpose and Scope"
-    },
-    {
-     "type": "ocr",
-     "text": "1. The purpose of this Agreement is to regulate co-operation between the Parties within the area of submarine crews rescue."
-    },
-    {
-     "type": "ocr",
-     "text": "2. This Agreement describes the scope of co-operation in improvement and development of the methods of submarine crew rescue and underwater medicine in order to increase the capabilities of both Parties in prevention of effects of dangerous incidents with involvement of submarines as well as alleviation of their consequences."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 2 Adequate organs"
-    },
-    {
-     "type": "ocr",
-     "text": "1. To implement the provisions of this Agreement the Parties will designate the following organs:"
-    },
-    {
-     "type": "ocr",
-     "text": "1) in the Republic of Poland: The Commander of the Polish Navy,"
-    },
-    {
-     "type": "ocr",
-     "text": "2) in the Kingdom of Sweden: The General Inspector of the Royal Swedish Navy,"
-    },
-    {
-     "type": "ocr",
-     "text": "3"
-    },
-    {
-     "type": "ocr",
-     "text": ". The above mentioned organs are authorised to carry out activities envisaged by provisions of this Agreement, including submission and reception of requests for assistance and maintaining of direct contacts."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 3 Forms of co-operation"
-    },
-    {
-     "type": "ocr",
-     "text": "Forms of co-operation will include:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Co-operation in rescue operations of submarine crews with application of available rescue resources of both the Polish Navy and the Royal Swedish Navy."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Co-operation in planning and execution of training and exercises at the sea ranges of both Parties in accordance with existing procedures applicable to submarine crews rescue."
-    },
-    {
-     "type": "ocr",
-     "text": "ba"
-    },
-    {
-     "type": "ocr",
-     "text": ". Participation on a reciprocal basis in training sessions of submarine crews in the field of self-rescue /free escape with the use of training facilities of one of the Parties."
-    },
-    {
-     "type": "ocr",
-     "text": "4. Training practices of the military personnel in the field of submarine rescue and underwater medicine."
-    },
-    {
-     "type": "ocr",
-     "text": "5. Mutual working visits of submarine and rescue units on a reciprocal basis."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 4 Plans and Procedures"
-    },
-    {
-     "type": "ocr",
-     "text": "- The Parties will make necessary adjustments to their national rescue plans and procedures in accordance with NATO Standardisation Agreements (STANAGs) referring to live submarine escape and/or rescue operations and submarine escape training."
-    },
-    {
-     "type": "ocr",
-     "text": "| Article 5 — Crossing of State Borders"
-    },
-    {
-     "type": "ocr",
-     "text": "The entry of one of the Parties into the State territory or territorial waters of the other Party in order to participate in submarine rescue exercises shall be agreed in advance and carried out in accordance with obligatory procedures."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 6 Co-operation Costs"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Each of the Parties to this Agreement shall cover its own costs of participation in submarine rescue courses, training and exercises."
-    },
-    {
-     "type": "ocr",
-     "text": "2. The training in selfrescue techniques (free escape) with the use of training facilities of one of the Parties will be carried out on a reciprocal basis, free of charge. However, the Parties stipulate that costs of medical examinations or costs of use of the other Party instructors related to submarine crews training in. self-rescue techniques (free escape) can be charged."
-    },
-    {
-     "type": "ocr",
-     "text": "3. In case of a live rescue operation the Party requesting rescue assistance shall cover the expenses borne by the assisting Party."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 7 Claims and Liabilities"
-    },
-    {
-     "type": "ocr",
-     "text": "1. Each Party is fully responsible for its equipment and personnel when performing activities under this Agreement."
-    },
-    {
-     "type": "ocr",
-     "text": "2. Each Party waives all claims against the other Party for damage caused to its personnel and/or its property by personnel of the other Party except when such damage results from reckless acts or reckless omissions, wilful misconduct or gross negligence."
-    },
-    {
-     "type": "ocr",
-     "text": "Article 8 Settlement of Disputes"
-    },
-    {
-     "type": "ocr",
-     "text": "Any disputes regarding the interpretation or application of this Agreement will be settled through negotiation between the Parties, and will not be referred to a third party for settlement."
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 7 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "Article 9 Final Provisions"
-    },
-    {
-     "type": "ocr",
-     "text": "1. This Agreement is subject to acceptance by the Parties in accordance with their national legislation which will be confirmed by exchange of notes. The Agreement will come into effect on the day of reception of the later note. The Party will inform the other of this fact."
-    },
-    {
-     "type": "ocr",
-     "text": "2. This Agreement may be amended at any time by mutual consent of the Parties. Amendments are to be done in wnting."
-    },
-    {
-     "type": "ocr",
-     "text": "3. This Agreement shall remain in effect for unlimited period of time and can be terminated by either Party by notification, if so the termination shall be effective after six months from the date of receipt of such a notification by the other Party."
-    },
-    {
-     "type": "ocr",
-     "text": "Done in Stockholm on 6th February 2002 im duplicate, each in Polish, Swedish and English languages, all texts being equally authentic. In case of any discrepancy in their interpretation, the English text shall prevail."
-    },
-    {
-     "type": "ocr",
-     "text": "For the Government of For the Government of the Republic of Poland the Kingdom of Sweden The Minister of National Defence The Minister of Defence"
-    },
-    {
-     "type": "ocr",
-     "text": "J. Szmajdzinski Bjorn von Sydow"
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Niniejsza umowa zostaje zawarta na czas nieokreślony, a każda ze Stron może ją wypowiedzieć w drodze notyfikacji. W takim przypadku umowa traci moc po upływie sześciu miesięcy od dnia otrzymania takiej notyfikacji przez drugą ze Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Sztokholmie dnia 6 lutego 2002 r. w dwóch egzemplarzach w języku polskim, szwedzkim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne. W razie rozbieżności przy ich interpretacji tekst sporządzony w języku angielskim będzie uważany za rozstrzygający."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu W imieniu Rządu Rzeczypospolitej Rządu Królestwa Polskiej Szwecji"
+  },
+  {
+   "type": "text",
+   "text": "Minister Obrony Narodowej Minister Obrony J. Szmajdziński B. von Sydow"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF POLAND AND THE GOVERNMENT OF THE KINGDOM OF SWEDEN ON COOPERATION IN THE FIELD OF SUBMARINE CREWS RESCUE"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "The Government of the Republic of Poland and the Government of the Kingdom of Sweden hereinafter referred to as the Parties:"
+  },
+  {
+   "type": "ocr",
+   "text": "Having in mind that the Baltic Sea is a significant joining platform between Sweden and Poland, considering the development of the military relations, striving towards ensuring safety of Swedish and Polish submarines at sea out of territorial waters, having in mind good neighbourly relations and tradition of co-operation and having regard to the norms of international law on maritime safety, search and rescue,"
+  },
+  {
+   "type": "ocr",
+   "text": "the Parties have agreed upon the following:"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 1 Purpose and Scope"
+  },
+  {
+   "type": "ocr",
+   "text": "1. The purpose of this Agreement is to regulate co-operation between the Parties within the area of submarine crews rescue."
+  },
+  {
+   "type": "ocr",
+   "text": "2. This Agreement describes the scope of co-operation in improvement and development of the methods of submarine crew rescue and underwater medicine in order to increase the capabilities of both Parties in prevention of effects of dangerous incidents with involvement of submarines as well as alleviation of their consequences."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 2 Adequate organs"
+  },
+  {
+   "type": "ocr",
+   "text": "1. To implement the provisions of this Agreement the Parties will designate the following organs:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) in the Republic of Poland: The Commander of the Polish Navy,"
+  },
+  {
+   "type": "ocr",
+   "text": "2) in the Kingdom of Sweden: The General Inspector of the Royal Swedish Navy,"
+  },
+  {
+   "type": "ocr",
+   "text": "3"
+  },
+  {
+   "type": "ocr",
+   "text": ". The above mentioned organs are authorised to carry out activities envisaged by provisions of this Agreement, including submission and reception of requests for assistance and maintaining of direct contacts."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 3 Forms of co-operation"
+  },
+  {
+   "type": "ocr",
+   "text": "Forms of co-operation will include:"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Co-operation in rescue operations of submarine crews with application of available rescue resources of both the Polish Navy and the Royal Swedish Navy."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Co-operation in planning and execution of training and exercises at the sea ranges of both Parties in accordance with existing procedures applicable to submarine crews rescue."
+  },
+  {
+   "type": "ocr",
+   "text": "ba"
+  },
+  {
+   "type": "ocr",
+   "text": ". Participation on a reciprocal basis in training sessions of submarine crews in the field of self-rescue /free escape with the use of training facilities of one of the Parties."
+  },
+  {
+   "type": "ocr",
+   "text": "4. Training practices of the military personnel in the field of submarine rescue and underwater medicine."
+  },
+  {
+   "type": "ocr",
+   "text": "5. Mutual working visits of submarine and rescue units on a reciprocal basis."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 4 Plans and Procedures"
+  },
+  {
+   "type": "ocr",
+   "text": "- The Parties will make necessary adjustments to their national rescue plans and procedures in accordance with NATO Standardisation Agreements (STANAGs) referring to live submarine escape and/or rescue operations and submarine escape training."
+  },
+  {
+   "type": "ocr",
+   "text": "| Article 5 — Crossing of State Borders"
+  },
+  {
+   "type": "ocr",
+   "text": "The entry of one of the Parties into the State territory or territorial waters of the other Party in order to participate in submarine rescue exercises shall be agreed in advance and carried out in accordance with obligatory procedures."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 6 Co-operation Costs"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Each of the Parties to this Agreement shall cover its own costs of participation in submarine rescue courses, training and exercises."
+  },
+  {
+   "type": "ocr",
+   "text": "2. The training in selfrescue techniques (free escape) with the use of training facilities of one of the Parties will be carried out on a reciprocal basis, free of charge. However, the Parties stipulate that costs of medical examinations or costs of use of the other Party instructors related to submarine crews training in. self-rescue techniques (free escape) can be charged."
+  },
+  {
+   "type": "ocr",
+   "text": "3. In case of a live rescue operation the Party requesting rescue assistance shall cover the expenses borne by the assisting Party."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 7 Claims and Liabilities"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Each Party is fully responsible for its equipment and personnel when performing activities under this Agreement."
+  },
+  {
+   "type": "ocr",
+   "text": "2. Each Party waives all claims against the other Party for damage caused to its personnel and/or its property by personnel of the other Party except when such damage results from reckless acts or reckless omissions, wilful misconduct or gross negligence."
+  },
+  {
+   "type": "ocr",
+   "text": "Article 8 Settlement of Disputes"
+  },
+  {
+   "type": "ocr",
+   "text": "Any disputes regarding the interpretation or application of this Agreement will be settled through negotiation between the Parties, and will not be referred to a third party for settlement."
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 7 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Article 9 Final Provisions"
+  },
+  {
+   "type": "ocr",
+   "text": "1. This Agreement is subject to acceptance by the Parties in accordance with their national legislation which will be confirmed by exchange of notes. The Agreement will come into effect on the day of reception of the later note. The Party will inform the other of this fact."
+  },
+  {
+   "type": "ocr",
+   "text": "2. This Agreement may be amended at any time by mutual consent of the Parties. Amendments are to be done in wnting."
+  },
+  {
+   "type": "ocr",
+   "text": "3. This Agreement shall remain in effect for unlimited period of time and can be terminated by either Party by notification, if so the termination shall be effective after six months from the date of receipt of such a notification by the other Party."
+  },
+  {
+   "type": "ocr",
+   "text": "Done in Stockholm on 6th February 2002 im duplicate, each in Polish, Swedish and English languages, all texts being equally authentic. In case of any discrepancy in their interpretation, the English text shall prevail."
+  },
+  {
+   "type": "ocr",
+   "text": "For the Government of For the Government of the Republic of Poland the Kingdom of Sweden The Minister of National Defence The Minister of Defence"
+  },
+  {
+   "type": "ocr",
+   "text": "J. Szmajdzinski Bjorn von Sydow"
   }
  ],
  "annexes": [],

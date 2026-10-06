@@ -25,354 +25,358 @@
    "text": "Minister Kultury Rzeczypospolitej Polskiej oraz Ministerstwo Kultury Republiki Słowackiej, zwani dalej „Stronami”, na podstawie artykułu 27 Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Słowackiej o współpracy kulturalnej, oświatowej i naukowej, sporządzonej w Bratysławie dnia 23 marca 2000 r., uzgodnili i podpisali, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą kontynuować wymianę zespołów artystycznych w ramach międzynarodowych festiwali teatralnych, muzycznych i folklorystycznych oraz innych ważnych imprez kulturalnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Szczegóły związane z wyborem zespołów artystycznych, doborem ich repertuaru, programem pobytu oraz terminami występów Strony będą uzgadniać w drodze kontaktów roboczych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony, w ramach swoich możliwości, będą wspierać udział przedstawicieli drugiej Strony w:",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "międzynarodowym festiwalu „Bratysławski Festiwal Muzyczny”;",
+     "path": "art_1/ust_1",
+     "text": "Strony będą kontynuować wymianę zespołów artystycznych w ramach międzynarodowych festiwali teatralnych, muzycznych i folklorystycznych oraz innych ważnych imprez kulturalnych.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "Festiwalu Twórczości Współczesnej „Melos-Etos”, Bratysława;",
+     "path": "art_1/ust_2",
+     "text": "Szczegóły związane z wyborem zespołów artystycznych, doborem ich repertuaru, programem pobytu oraz terminami występów Strony będą uzgadniać w drodze kontaktów roboczych.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "Festiwalu Filharmonii Pomorskiej w Bydgoszczy — Bydgoski Festiwal Muzyczny;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_3/pkt_4",
-     "text": "Międzynarodowym Festiwalu Muzycznym „Warszawska Jesień”;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_3/pkt_5",
-     "text": "Międzynarodowym Festiwalu Teatrów Lalkowych w Banskiej Bystrzycy;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "6",
-     "path": "ust_3/pkt_6",
-     "text": "realizacji projektu „Gardzienice-Słowacja-Czechy”;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "7",
-     "path": "ust_3/pkt_7",
-     "text": "Międzynarodowym festiwalu teatralnym KON- TAKT w Toruniu;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "8",
-     "path": "ust_3/pkt_8",
-     "text": "Międzynarodowym festiwalu teatralnym „Konfrontacje Teatralne” w Lublinie;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "9",
-     "path": "ust_3/pkt_9",
-     "text": "Międzynarodowym festiwalu teatralnym DIALOG we Wrocławiu;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "10",
-     "path": "ust_3/pkt_10",
-     "text": "Międzynarodowym festiwalu teatralnym „Na granicy” w Cieszynie;",
+     "path": "art_1/ust_3",
+     "text": "Strony, w ramach swoich możliwości, będą wspierać udział przedstawicieli drugiej Strony w:",
      "children": [
       {
-       "type": "text",
-       "text": "PROGRAM SPOLUPRÁCE medzi Ministrom kultúry Poľskej republiky a Ministerstvom kultúry Slovenskej republiky na roky 2005—2007"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_3/pkt_1",
+       "text": "międzynarodowym festiwalu „Bratysławski Festiwal Muzyczny”;",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Minister kultúry Poľskej republiky a Ministerstvo kultúry Slovenskej republiky, (d’alej len „zmluvné strany”), v zmysle článku 27 Dohody medzi vládou Poľskej republiky a vládou Slovenskej republiky okultúrnej, osvetovej avedeckej spolupráci uzatvorenej v Bratislave dňa 23. marca 2000 sa dohodli takto:"
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_3/pkt_2",
+       "text": "Festiwalu Twórczości Współczesnej „Melos-Etos”, Bratysława;",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Článok 1"
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_3/pkt_3",
+       "text": "Festiwalu Filharmonii Pomorskiej w Bydgoszczy — Bydgoski Festiwal Muzyczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/ust_3/pkt_4",
+       "text": "Międzynarodowym Festiwalu Muzycznym „Warszawska Jesień”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_1/ust_3/pkt_5",
+       "text": "Międzynarodowym Festiwalu Teatrów Lalkowych w Banskiej Bystrzycy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_1/ust_3/pkt_6",
+       "text": "realizacji projektu „Gardzienice-Słowacja-Czechy”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_1/ust_3/pkt_7",
+       "text": "Międzynarodowym festiwalu teatralnym KON- TAKT w Toruniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_1/ust_3/pkt_8",
+       "text": "Międzynarodowym festiwalu teatralnym „Konfrontacje Teatralne” w Lublinie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_1/ust_3/pkt_9",
+       "text": "Międzynarodowym festiwalu teatralnym DIALOG we Wrocławiu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_1/ust_3/pkt_10",
+       "text": "Międzynarodowym festiwalu teatralnym „Na granicy” w Cieszynie;",
+       "children": [
+        {
+         "type": "text",
+         "text": "PROGRAM SPOLUPRÁCE medzi Ministrom kultúry Poľskej republiky a Ministerstvom kultúry Slovenskej republiky na roky 2005—2007"
+        },
+        {
+         "type": "text",
+         "text": "Minister kultúry Poľskej republiky a Ministerstvo kultúry Slovenskej republiky, (d’alej len „zmluvné strany”), v zmysle článku 27 Dohody medzi vládou Poľskej republiky a vládou Slovenskej republiky okultúrnej, osvetovej avedeckej spolupráci uzatvorenej v Bratislave dňa 23. marca 2000 sa dohodli takto:"
+        },
+        {
+         "type": "text",
+         "text": "Článok 1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Zmluvné strany budú pokračovať vo výmene umeleckých súborov v rámci medzinárodných divadelných, hudobných a folklórnych festivalov, ako aj iných dôležitých kultúrnych podujatí.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Podrobnosti týkajúce sa výberu umeleckých súborov, ich repertoáru, programu pobytu atermínov vystúpení zmluvné strany dohodnú prostredníctvom pracovných kontaktov.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Zmluvné strany budú v rámci svojich možností podporovať účasť predstaviteľov druhej strany na významných, prestížnych festivaloch v Poľskej a Slovenskej republike, a to na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_3/pkt_1",
+       "text": "medzinárodnom festivale Bratislavské hudobné slávnosti,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_3/pkt_2",
+       "text": "festivale súčasnej tvorby Melos-Etos, Bratislava,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_3/pkt_3",
+       "text": "festivale Filharmónie Pomorskiej v Bydgoszczy — Bydgoski Festival Muzyczny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/ust_3/pkt_4",
+       "text": "medzinárodnom hudobnom festivale Varšavská jeseň,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_1/ust_3/pkt_5",
+       "text": "medzinárodnom festivale bábkových divadiel v Banskej Bystrici,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_1/ust_3/pkt_6",
+       "text": "realizácii projektu Gardzienice-Słowacja-Czechy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_1/ust_3/pkt_7",
+       "text": "medzinárodnom divadelnom festivale KONTAKT vToruni,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_1/ust_3/pkt_8",
+       "text": "medzinárodnom divadelnom festivale Konfrontacje Teatralne (Divadelné konfrontácie) v Lubline,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_1/ust_3/pkt_9",
+       "text": "medzinárodnom divadelnom festivale DIALOG vo Vroclave,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_1/ust_3/pkt_10",
+       "text": "medzinárodnom divadelnom festivale Na granicy (Na hranici) v Czieszyne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "art_1/ust_3/pkt_11",
+       "text": "Międzynarodowym festiwalu „Nitra Teatralna”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "art_1/ust_3/pkt_12",
+       "text": "Międzynarodowym festiwalu teatralnym „Bratysława w ruchu”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_1/ust_3/pkt_13",
+       "text": "Międzynarodowym festiwalu „Miesiąc Fotografii”, Bratysława;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "art_1/ust_3/pkt_14",
+       "text": "Międzynarodowym przeglądzie konkursowym Triennale Plakatu Trnava;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "art_1/ust_3/pkt_15",
+       "text": "Międzynarodowym przeglądzie konkursowym Triennale Intergrafia Kraków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "art_1/ust_3/pkt_16",
+       "text": "Międzynarodowym festiwalu wielu kultur GALI- CJA, Polska — Przemyśl, Bratysława — Preszów.",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zmluvné strany budú pokračovať vo výmene umeleckých súborov v rámci medzinárodných divadelných, hudobných a folklórnych festivalov, ako aj iných dôležitých kultúrnych podujatí.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Podrobnosti týkajúce sa výberu umeleckých súborov, ich repertoáru, programu pobytu atermínov vystúpení zmluvné strany dohodnú prostredníctvom pracovných kontaktov.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zmluvné strany budú v rámci svojich možností podporovať účasť predstaviteľov druhej strany na významných, prestížnych festivaloch v Poľskej a Slovenskej republike, a to na:",
+   "path": "art_2",
+   "text": "Strony będą wspierać współpracę w dziedzinie plastyki, architektury i wzornictwa, a w szczególności:",
    "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "medzinárodnom festivale Bratislavské hudobné slávnosti,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "festivale súčasnej tvorby Melos-Etos, Bratislava,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "festivale Filharmónie Pomorskiej v Bydgoszczy — Bydgoski Festival Muzyczny,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_3/pkt_4",
-     "text": "medzinárodnom hudobnom festivale Varšavská jeseň,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_3/pkt_5",
-     "text": "medzinárodnom festivale bábkových divadiel v Banskej Bystrici,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "6",
-     "path": "ust_3/pkt_6",
-     "text": "realizácii projektu Gardzienice-Słowacja-Czechy,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "7",
-     "path": "ust_3/pkt_7",
-     "text": "medzinárodnom divadelnom festivale KONTAKT vToruni,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "8",
-     "path": "ust_3/pkt_8",
-     "text": "medzinárodnom divadelnom festivale Konfrontacje Teatralne (Divadelné konfrontácie) v Lubline,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "9",
-     "path": "ust_3/pkt_9",
-     "text": "medzinárodnom divadelnom festivale DIALOG vo Vroclave,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "10",
-     "path": "ust_3/pkt_10",
-     "text": "medzinárodnom divadelnom festivale Na granicy (Na hranici) v Czieszyne,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "11",
-     "path": "ust_3/pkt_11",
-     "text": "Międzynarodowym festiwalu „Nitra Teatralna”;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "12",
-     "path": "ust_3/pkt_12",
-     "text": "Międzynarodowym festiwalu teatralnym „Bratysława w ruchu”;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "13",
-     "path": "ust_3/pkt_13",
-     "text": "Międzynarodowym festiwalu „Miesiąc Fotografii”, Bratysława;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "14",
-     "path": "ust_3/pkt_14",
-     "text": "Międzynarodowym przeglądzie konkursowym Triennale Plakatu Trnava;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "15",
-     "path": "ust_3/pkt_15",
-     "text": "Międzynarodowym przeglądzie konkursowym Triennale Intergrafia Kraków;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "16",
-     "path": "ust_3/pkt_16",
-     "text": "Międzynarodowym festiwalu wielu kultur GALI- CJA, Polska — Przemyśl, Bratysława — Preszów.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 2"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą wspierać współpracę w dziedzinie plastyki, architektury i wzornictwa, a w szczególności:"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_2/pkt_1",
      "text": "wymianę projektów w ramach bezpośredniej współpracy instytucji, organizacji i stowarzyszeń z dziedziny plastyki, architektury i wzornictwa;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_2/pkt_2",
      "text": "wymianę specjalistycznych materiałów informacyjnych z dziedziny sztuk plastycznych, czasopism i publikacji fachowych, wzajemne rozpowszechnianie informacyjnej bazy danych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 3"
-      },
-      {
-       "type": "text",
-       "text": "W celu rozwijania oraz doskonalenia współpracy w dziedzinie kultury i sztuki Strony będą umożliwiać wymianę pobytów twórców, artystów i specjalistów we wszystkich dziedzinach kultury. Szczegółowe warunki dotyczące wymiany Strony uzgodnią w ramach kontaktów roboczych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 4"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą wspierać bezpośrednią współpracę między organizacjami twórców i instytucjami kultury z obu krajów oraz między organami samorządu terytorialnego w dziedzinie imprez kulturalnych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 5"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą wspierać wzajemną współpracę w dziedzinie ochrony dziedzictwa kulturowego, ze szczególnym uwzględnieniem:"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W celu rozwijania oraz doskonalenia współpracy w dziedzinie kultury i sztuki Strony będą umożliwiać wymianę pobytów twórców, artystów i specjalistów we wszystkich dziedzinach kultury. Szczegółowe warunki dotyczące wymiany Strony uzgodnią w ramach kontaktów roboczych.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony będą wspierać bezpośrednią współpracę między organizacjami twórców i instytucjami kultury z obu krajów oraz między organami samorządu terytorialnego w dziedzinie imprez kulturalnych.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strony będą wspierać wzajemną współpracę w dziedzinie ochrony dziedzictwa kulturowego, ze szczególnym uwzględnieniem:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_5/pkt_1",
      "text": "zapobiegania nielegalnemu wywozowi dóbr kultury stanowiących dziedzictwo kulturowe Stron, zgodnie ze stosownymi normami prawa międzynarodowego oraz prawem wewnętrznym obu państw;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_5/pkt_2",
      "text": "bezpośredniej współpracy między instytucjami zajmującymi się ochroną dziedzictwa kulturowego;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_3/pkt_3",
+     "path": "art_5/pkt_3",
      "text": "wymiany materiałów informacyjnych i promocyjnych oraz informacji o przygotowywanych seminariach i konferencjach;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "11",
-     "path": "ust_3/pkt_11",
+     "path": "art_5/pkt_11",
      "text": "medzinárodnom divadelnom festivale Divadelná Nitra,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "12",
-     "path": "ust_3/pkt_12",
+     "path": "art_5/pkt_12",
      "text": "medzinárodnom divadelnom festivale Bratislava v pohybe,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "13",
-     "path": "ust_3/pkt_13",
+     "path": "art_5/pkt_13",
      "text": "medzinárodnom festivale Mesiac fotografie, Bratislava,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "14",
-     "path": "ust_3/pkt_14",
+     "path": "art_5/pkt_14",
      "text": "medzinárodnej súťažnej prehliadke Trienále plagátu Trnava,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "15",
-     "path": "ust_3/pkt_15",
+     "path": "art_5/pkt_15",
      "text": "medzinárodnej súťažnej prehliadke Trienále intergrafia Krakov,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "16",
-     "path": "ust_3/pkt_16",
+     "path": "art_5/pkt_16",
      "text": "medzinárodnom festivale mnohých kultúr, GALI- CIJA, Poľsko — Przemysl, Bratislava — Prešov.",
      "children": [
       {
@@ -388,14 +392,14 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_5/pkt_1",
      "text": "výmenu projektov v rámci bezprostrednej spolupráce odborných inštitúcií, organizácií a spoločností z oblasti plastiky, architektúry a modelovania,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_5/pkt_2",
      "text": "výmenu odborných informačných materiálov z oblasti výtvarných umení, odborných časopisov a publikácií, vzájomné rozširovanie informačnej databázy.",
      "children": [
       {
@@ -427,157 +431,161 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_5/pkt_1",
      "text": "predchádzanie nelegálnemu vývozu kultúrnych hodnôt tvoriacich kultúrne dedičstvo zmluvných strán, v súlade s príslušnými normami medzinárodného práva a vnútorným právom oboch krajín,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_5/pkt_2",
      "text": "bezprostrednú spoluprácu medzi inštitúciami zaoberajúcimi sa ochranou kultúrneho dedičstva,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_3/pkt_3",
+     "path": "art_5/pkt_3",
      "text": "výmenu informačných a propagačných materiálov, informácií o pripravovaných seminároch a konferenciách,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_3/pkt_4",
+     "path": "art_5/pkt_4",
      "text": "udziału specjalistów w dziedzinie ochrony dziedzictwa kulturowego w konferencjach i seminariach, dotyczących tej problematyki oraz organizacji staży i pobytów studyjnych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "ust_3/pkt_5",
+     "path": "art_5/pkt_5",
      "text": "współpracy Muzeum SNP w Bańskiej Bystrzycy i Państwowego Muzeum Auschwitz-Birkenau w Oświęcimiu oraz zapewnienia stałego działania narodowej ekspozycji dokumentacji holokaustu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą wspierać:"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strony będą wspierać:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_3/pkt_1",
+     "path": "art_6/pkt_1",
      "text": "bezpośrednią współpracę instytucji i organizacji filmowych m.in. w celu realizacji filmów i świadczenia usług filmowych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_3/pkt_2",
+     "path": "art_6/pkt_2",
      "text": "udział filmów w międzynarodowych festiwalach filmowych oraz udział delegatów w krajowych festiwalach filmowych organizowanych na terytorium państw Stron, zgodnie ze statutami tych festiwali;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_3/pkt_3",
+     "path": "art_6/pkt_3",
      "text": "organizację na zasadach wzajemności przeglądów filmowych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Strony będą sprzyjać bezpośredniej współpracy bibliotek, wydawnictw i ośrodków literackich obu krajów. W tym celu Strony będą wspierać:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 7"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/ust_1/pkt_1",
+       "text": "wymianę specjalistów (staże, pobyty studyjne, znaczące imprezy o charakterze literackim);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/ust_1/pkt_2",
+       "text": "udział w międzynarodowych kongresach, konferencjach i seminariach odbywających się na terytorium państwa drugiej Strony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/ust_1/pkt_3",
+       "text": "współpracę w zakresie rozwoju i stosowania nowych technologii i rozwiązań informatycznych oraz sposobu ich wykorzystania w działalności bibliotek;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_7/ust_1/pkt_4",
+       "text": "wzajemną wymianę dokumentów pomiędzy bibliotekami obu Stron.",
+       "children": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą sprzyjać bezpośredniej współpracy bibliotek, wydawnictw i ośrodków literackich obu krajów. W tym celu Strony będą wspierać:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "wymianę specjalistów (staże, pobyty studyjne, znaczące imprezy o charakterze literackim);",
-     "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "udział w międzynarodowych kongresach, konferencjach i seminariach odbywających się na terytorium państwa drugiej Strony;",
+     "path": "art_7/ust_2",
+     "text": "Strony zobowiązują się, że w każdym roku kalendarzowym sfinansują co najmniej jedno tłumaczenie oraz publikację dzieła literatury pięknej drugiej Strony.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "współpracę w zakresie rozwoju i stosowania nowych technologii i rozwiązań informatycznych oraz sposobu ich wykorzystania w działalności bibliotek;",
+     "path": "art_7/ust_3",
+     "text": "Strony będą się wzajemnie zapraszać na międzynarodowe targi książki w Warszawie i Bratysławie oraz na inne międzynarodowe wystawy książek.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "wzajemną wymianę dokumentów pomiędzy bibliotekami obu Stron.",
+     "path": "art_7/ust_4",
+     "text": "Strony zobowiązują się do zaproszenia na swój koszt w każdym roku kalendarzowym co najmniej jednego autora na organizowane targi książki lub inne wydarzenia kulturalne związane z książką.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony zobowiązują się, że w każdym roku kalendarzowym sfinansują co najmniej jedno tłumaczenie oraz publikację dzieła literatury pięknej drugiej Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony będą się wzajemnie zapraszać na międzynarodowe targi książki w Warszawie i Bratysławie oraz na inne międzynarodowe wystawy książek.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Strony zobowiązują się do zaproszenia na swój koszt w każdym roku kalendarzowym co najmniej jednego autora na organizowane targi książki lub inne wydarzenia kulturalne związane z książką.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Strony będą wspierać współpracę między teatrami, stowarzyszeniami i instytucjami teatralnymi oraz zespołami baletowymi i operowymi z obydwu państw w postaci:",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą wspierać współpracę między teatrami, stowarzyszeniami i instytucjami teatralnymi oraz zespołami baletowymi i operowymi z obydwu państw w postaci:"
-    },
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_8/pkt_1",
      "text": "wzajemnej wymiany zespołów teatralnych, w tym współpracy Teatru Narodowego w Warszawie i Słowackiego Teatru Narodowego w Bratysławie;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_4/pkt_4",
+     "path": "art_8/pkt_4",
      "text": "účasť špecialistov v oblasti ochrany kultúrneho dedičstva na konferenciách a seminároch o tejto problematike, ako aj na organizáciu stáží a študijných pobytov,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "ust_4/pkt_5",
+     "path": "art_8/pkt_5",
      "text": "spoluprácu Štátneho múzea Auschwitz-Birkenau vOsvienéime aŠtátneho múzea vBanskej Bystrici a zabezpeéenie stálej prevádzky národnej expozície dokumentácie holocaustu.",
      "children": [
       {
@@ -593,21 +601,21 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_8/pkt_1",
      "text": "bezprostrednú spoluprácu filmových inštitúcií a organizácií, okrem iného s cieľom realizácie filmov a poskytovania filmových služieb,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_8/pkt_2",
      "text": "účasť filmov na medzinárodných filmových festivaloch a účasť delegátov na domácich filmových festivaloch organizovaných na území zmluvných strán, v súlade so stanovami daných festivalov,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_8/pkt_3",
      "text": "organizáciu filmových prehliadok podľa zásad vzájomnosti.",
      "children": [
       {
@@ -615,235 +623,236 @@
        "text": "Článok 7"
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zmluvné strany budú povzbudzovať vzájomnú spoluprácu knižníc, vydavateľstiev a literárnych stredísk oboch krajín. S tým cieľom budú zmluvné strany podporovať:",
-   "children": [
+    },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "výmenu odborníkov (stáže, študijné pobyty, významné podujatia literárneho charakteru),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "účasť na medzinárodných kongresoch, konferenciách aseminároch konajúcich sa na území druhej zmluvnej strany,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "spoluprácu v oblasti rozvoja a používania nových technológií, informačných riešení a spôsobu ich využitia v knižničných aktivitách,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "vzájomnú výmenu dokumentov medzi knižnicami obidvoch krajín.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zmluvné strany sa zaväzujú, že v každom kalendárnom roku budú financovať aspoň jeden preklad a publikáciu umeleckej literatúry druhej strany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zmluvné strany sa budú vzájomne pozývať na medzinárodné knižné trhy vo Varšave aBratislave, ako aj na iné medzinárodné knižné výstavy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Zmluvné strany sa zaväzujú v každom kalendárnom roku na svoje náklady pozvať najmenej jedného autora na organizované trhy alebo iné kultúrne podujatia spojené s knihami.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Článok 8"
-    },
-    {
-     "type": "text",
-     "text": "Zmluvné strany budú podporovať spoluprácu medzi divadlami, divadelnými spoločnosťami ainštitúciami abaletnými aopernými súbormi oboch krajínvpodobe:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_4/pkt_1",
-     "text": "vzájomnej výmeny divadelných súborov, vrátane spolupráce Národného divadla vo Varšave a Slovenského národného divadla v Bratislave,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_4/pkt_2",
-     "text": "wzajemnej wymiany specjalistów w dziedzinie sztuki teatralnej (staże, pobyty studyjne);",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_4/pkt_3",
-     "text": "wzajemnej wymiany zaproszeń na festiwale teatralne, operowe i baletowe;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_4/pkt_4",
-     "text": "wymiany informacji i zaproszeń na premiery, festiwale teatralne, seminaria, wykłady i inne znaczące wydarzenia teatralne;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_4/pkt_5",
-     "text": "wymiany tekstów dramatycznych, fachowych czasopism teatralnych i specjalistycznych publikacji teatralnych;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "6",
-     "path": "ust_4/pkt_6",
-     "text": "wymiany nagrań wideo przedstawień teatralnych.",
+     "path": "art_8/ust_1",
+     "text": "Zmluvné strany budú povzbudzovať vzájomnú spoluprácu knižníc, vydavateľstiev a literárnych stredísk oboch krajín. S tým cieľom budú zmluvné strany podporovať:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 9"
+       "type": "pkt",
+       "num": "1",
+       "path": "art_8/ust_1/pkt_1",
+       "text": "výmenu odborníkov (stáže, študijné pobyty, významné podujatia literárneho charakteru),",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Strony będą wspierać współpracę w dziedzinie muzyki, a w szczególności:"
+       "type": "pkt",
+       "num": "2",
+       "path": "art_8/ust_1/pkt_2",
+       "text": "účasť na medzinárodných kongresoch, konferenciách aseminároch konajúcich sa na území druhej zmluvnej strany,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_8/ust_1/pkt_3",
+       "text": "spoluprácu v oblasti rozvoja a používania nových technológií, informačných riešení a spôsobu ich využitia v knižničných aktivitách,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_8/ust_1/pkt_4",
+       "text": "vzájomnú výmenu dokumentov medzi knižnicami obidvoch krajín.",
+       "children": []
       }
      ]
     },
     {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Zmluvné strany sa zaväzujú, že v každom kalendárnom roku budú financovať aspoň jeden preklad a publikáciu umeleckej literatúry druhej strany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Zmluvné strany sa budú vzájomne pozývať na medzinárodné knižné trhy vo Varšave aBratislave, ako aj na iné medzinárodné knižné výstavy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Zmluvné strany sa zaväzujú v každom kalendárnom roku na svoje náklady pozvať najmenej jedného autora na organizované trhy alebo iné kultúrne podujatia spojené s knihami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Článok 8"
+      },
+      {
+       "type": "text",
+       "text": "Zmluvné strany budú podporovať spoluprácu medzi divadlami, divadelnými spoločnosťami ainštitúciami abaletnými aopernými súbormi oboch krajínvpodobe:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_8/ust_4/pkt_1",
+       "text": "vzájomnej výmeny divadelných súborov, vrátane spolupráce Národného divadla vo Varšave a Slovenského národného divadla v Bratislave,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_8/ust_4/pkt_2",
+       "text": "wzajemnej wymiany specjalistów w dziedzinie sztuki teatralnej (staże, pobyty studyjne);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_8/ust_4/pkt_3",
+       "text": "wzajemnej wymiany zaproszeń na festiwale teatralne, operowe i baletowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_8/ust_4/pkt_4",
+       "text": "wymiany informacji i zaproszeń na premiery, festiwale teatralne, seminaria, wykłady i inne znaczące wydarzenia teatralne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_8/ust_4/pkt_5",
+       "text": "wymiany tekstów dramatycznych, fachowych czasopism teatralnych i specjalistycznych publikacji teatralnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_8/ust_4/pkt_6",
+       "text": "wymiany nagrań wideo przedstawień teatralnych.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Strony będą wspierać współpracę w dziedzinie muzyki, a w szczególności:",
+   "children": [
+    {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_9/pkt_1",
      "text": "wymianę zespołów muzycznych, solistów i dyrygentów w ramach bezpośredniej współpracy instytucji i organizacji artystycznych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_9/pkt_2",
      "text": "stwarzać możliwości do wymiany materiałów informacyjnych w dziedzinie kultury muzycznej, partytur, czasopism fachowych i literatury muzykologicznej;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_9/pkt_3",
      "text": "wspierać prezentację oryginalnej twórczości autorów działających na terytorium państw obydwu Stron;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_4/pkt_4",
+     "path": "art_9/pkt_4",
      "text": "wspierać wymianę specjalistów w dziedzinie sztuki muzycznej w formie zaproszeń na staże, pobyty studyjne, jako obserwatorów festiwali muzycznych i innych ważnych wydarzeń z życia muzycznego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 10"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą wspierać bezpośrednią współpracę szkół i uczelni artystycznych obu państw, w tym:"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Strony będą wspierać bezpośrednią współpracę szkół i uczelni artystycznych obu państw, w tym:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_10/pkt_1",
      "text": "wymianę grup uczniowskich i studenckich, a także kadry pedagogicznej oraz nauczycieli akademickich wyżej wymienionych instytucji;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_10/pkt_2",
      "text": "udział przedstawicieli uczelni artystycznych w konferencjach, seminariach, kolokwiach, sesjach dotyczących kształcenia artystycznego i teorii sztuki, organizowanych przez drugą Stronę;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_10/pkt_3",
      "text": "wzajemne informowanie się o imprezach artystycznych (kursy, konkursy, warsztaty, festiwale).",
      "children": [
       {
        "type": "text",
        "text": "Warunki finansowe współpracy będą uzgadniane bezpośrednio przez zainteresowane instytucje."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 11"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą stwarzać sprzyjające warunki do działalności kulturalnej i prezentacji mniejszości słowackiej w Rzeczypospolitej Polskiej i mniejszości polskiej w Republice Słowackiej."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 12"
-      },
-      {
-       "type": "text",
-       "text": "Strony będą wspierać projekty realizowane w ramach Grupy Wyszehradzkiej i Inicjatywy Środkowo-"
       }
      ]
-    },
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Strony będą stwarzać sprzyjające warunki do działalności kulturalnej i prezentacji mniejszości słowackiej w Rzeczypospolitej Polskiej i mniejszości polskiej w Republice Słowackiej.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Strony będą wspierać projekty realizowane w ramach Grupy Wyszehradzkiej i Inicjatywy Środkowo-",
+   "children": [
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_12/pkt_2",
      "text": "vzájomnej výmeny odborníkov v oblasti divadelného umenia (stáže, študijné pobyty),",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_12/pkt_3",
      "text": "vzájomnej výmeny pozvaní na divadelné, operné a baletné festivaly,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_4/pkt_4",
+     "path": "art_12/pkt_4",
      "text": "výmeny informácií a pozvaní na premiéry, divadelné festivaly, semináre, prednášky a iné význačné divadelné podujatia,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "5",
-     "path": "ust_4/pkt_5",
+     "path": "art_12/pkt_5",
      "text": "výmeny dramatických textov, odborných divadelných časopisov ašpecializovaných divadelných publikácií,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "6",
-     "path": "ust_4/pkt_6",
+     "path": "art_12/pkt_6",
      "text": "výmen videonahrávok divadelných predstavení.",
      "children": [
       {
@@ -859,28 +868,28 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_12/pkt_1",
      "text": "výmenu hudobných súborov, sólistov adirigentov v rámci bezprostrednej spolupráce inštitúcií s umeleckými organizáciami,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_12/pkt_2",
      "text": "vytvárať možnosti na výmenu informačných materiálov o hudobnej kultúre, partitúr, odborných časopisov a muzikologickej literatúry,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_12/pkt_3",
      "text": "podporovať prezentáciu pôvodnej tvorby autorov pôsobiacich na teritóriu obidvoch zmluvných strán,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "4",
-     "path": "ust_4/pkt_4",
+     "path": "art_12/pkt_4",
      "text": "podporovať výmenu odborníkov v oblasti hudobného umenia vo forme pozvaní na stáže, študijné pobyty, ako pozorovateľov hudobných festivalov ainých dôležitých podujatí zhudobného života.",
      "children": [
       {
@@ -896,21 +905,21 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_12/pkt_1",
      "text": "výmeny žiackych a študentských skupín, ako aj pedagogických zamestnancov a akademických učiteľov horeuvedených inštitúcií,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_12/pkt_2",
      "text": "účasti predstaviteľov umeleckých škôl na konferenciách, seminároch, kolokviách, zasadnutiach týkajúcich sa umeleckého vzdelávania a teórie umenia organizovaných druhou stranou,",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_12/pkt_3",
      "text": "vzájomného informovania o umeleckých podujatiach (kurzy, konkurzy, tvorivé dielne, festivaly).",
      "children": [
       {
@@ -932,41 +941,42 @@
       {
        "type": "text",
        "text": "Zmluvné strany budú podporovať projekty realizované vrámci Vyšehradskej skupiny aStredoeurópskej europejskiej. Projekty te będą realizowane zgodnie z zakresem kompetencji Stron."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 13"
-      },
-      {
-       "type": "text",
-       "text": "Wymiana kulturalna realizowana będzie zgodnie z następującymi zasadami:"
       }
      ]
-    },
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Wymiana kulturalna realizowana będzie zgodnie z następującymi zasadami:",
+   "children": [
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_13/pkt_1",
      "text": "przy wymianie zespołów artystycznych:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_1/lit_a",
+       "path": "art_13/pkt_1/lit_a",
        "text": "Strona wysyłająca pokryje koszty podróży oraz transport bagażu w obu kierunkach,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_1/lit_b",
+       "path": "art_13/pkt_1/lit_b",
        "text": "Strona przyjmująca pokryje koszty pobytu — zakwaterowania i wyżywienia,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_4/pkt_1/lit_c",
+       "path": "art_13/pkt_1/lit_c",
        "text": "Strona przyjmująca w zależności od potrzeb zapewni usługi tłumacza i transport wewnętrzny;",
        "children": []
       }
@@ -975,7 +985,7 @@
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_13/pkt_2",
      "text": "przy wymianie osób (w szczególności staże i pobyty studyjne):",
      "children": [
       {
@@ -985,21 +995,21 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_2/lit_a",
+       "path": "art_13/pkt_2/lit_a",
        "text": "imię i nazwisko, życiorys, znajomość języków obcych,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_2/lit_b",
+       "path": "art_13/pkt_2/lit_b",
        "text": "planowany czas pobytu,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_4/pkt_2/lit_c",
+       "path": "art_13/pkt_2/lit_c",
        "text": "program pobytu;",
        "children": []
       },
@@ -1012,7 +1022,7 @@
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_13/pkt_3",
      "text": "przy wymianie wystaw:",
      "children": [
       {
@@ -1022,14 +1032,14 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_3/lit_a",
+       "path": "art_13/pkt_3/lit_a",
        "text": "pokryje koszty ubezpieczenia na czas trwania wystawy oraz na czas transportu do państwa Strony przyjmującej i z powrotem (pełne ubezpieczenie),",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_3/lit_b",
+       "path": "art_13/pkt_3/lit_b",
        "text": "pokryje koszty transportu do pierwszego miejsca ekspozycji i z powrotem z ostatniego miejsca wystawy,",
        "children": [
         {
@@ -1041,21 +1051,21 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_3/lit_a",
+       "path": "art_13/pkt_3/lit_a",
        "text": "pokryje koszty transportu wewnętrznego na swoim terytorium, jeśli wystawa będzie eksponowana w kilku miejscach,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_3/lit_b",
+       "path": "art_13/pkt_3/lit_b",
        "text": "zapewni i pokryje koszty instalacji, promocji i wynajmu sal wystawienniczych,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_4/pkt_3/lit_c",
+       "path": "art_13/pkt_3/lit_c",
        "text": "w przypadku uszkodzenia wystawy Strona przyjmująca przekaże Stronie wysyłającej wszystkie dokumenty dotyczące zaistniałej szkody. Nie będzie jednak upoważniona do wykonania jakichkolwiek zabiegów konserwatorskich bez uprzedniej zgody Strony wysyłającej;",
        "children": []
       },
@@ -1080,27 +1090,27 @@
     {
      "type": "pkt",
      "num": "1",
-     "path": "ust_4/pkt_1",
+     "path": "art_13/pkt_1",
      "text": "pri výmene umeleckých súborov:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_1/lit_a",
+       "path": "art_13/pkt_1/lit_a",
        "text": "vysielajúca strana bude hradiť náklady na cestu a transport batožiny v oboch smeroch,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_1/lit_b",
+       "path": "art_13/pkt_1/lit_b",
        "text": "prijímajúca strana bude hradiť náklady na pobyt — ubytovanie a stravu,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_4/pkt_1/lit_c",
+       "path": "art_13/pkt_1/lit_c",
        "text": "prijímajúca strana podľa potreby zabezpečí tlmočnícke služby a vnútorný transport,",
        "children": []
       }
@@ -1109,7 +1119,7 @@
     {
      "type": "pkt",
      "num": "2",
-     "path": "ust_4/pkt_2",
+     "path": "art_13/pkt_2",
      "text": "pri výmene osôb (najmä stáže a študijné pobyty):",
      "children": [
       {
@@ -1119,21 +1129,21 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_2/lit_a",
+       "path": "art_13/pkt_2/lit_a",
        "text": "meno apriezvisko, životopis, znalosť cudzích jazykov,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_2/lit_b",
+       "path": "art_13/pkt_2/lit_b",
        "text": "plánovaný čas,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_4/pkt_2/lit_c",
+       "path": "art_13/pkt_2/lit_c",
        "text": "program pobytu.",
        "children": [
         {
@@ -1147,7 +1157,7 @@
     {
      "type": "pkt",
      "num": "3",
-     "path": "ust_4/pkt_3",
+     "path": "art_13/pkt_3",
      "text": "pri výmene výstav:",
      "children": [
       {
@@ -1157,14 +1167,14 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_3/lit_a",
+       "path": "art_13/pkt_3/lit_a",
        "text": "hradí náklady na poistenie počas trvania výstavy a dobu transportu na územie prijímajúcej strany a späť (plné poistenie),",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_3/lit_b",
+       "path": "art_13/pkt_3/lit_b",
        "text": "hradí transportné náklady do prvého miesta a naspäť z posledného miesta výstavy,",
        "children": []
       },
@@ -1175,112 +1185,118 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/pkt_3/lit_a",
+       "path": "art_13/pkt_3/lit_a",
        "text": "hradí náklady na vnútorný transport na svojom území, ak je výstava realizovaná na niekoľkých miestach,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/pkt_3/lit_b",
+       "path": "art_13/pkt_3/lit_b",
        "text": "zabezpečí ahradí náklady na inštaláciu, propagáciu a prenájom výstavných sál,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_4/pkt_3/lit_c",
+       "path": "art_13/pkt_3/lit_c",
        "text": "v prípade poškodenia výstavy prijímajúca strana odovzdá vysielajúcej strane všetky dokumenty týkajúce sa vzniknutej škody. Nebude však môcť vykonať akékoľvek reštaurátorské zásahy bez predchádzajúceho súhlasu vysielajúcej strany.",
        "children": [
         {
          "type": "text",
          "text": "Vprípade výstav sa každá zmluvná strana zaväzuje zabezpečiť súhlas vlády svojho štátu v súlade s právnymi predpismi svojho štátu."
-        },
-        {
-         "type": "text",
-         "text": "Artykuł 14"
-        },
-        {
-         "type": "text",
-         "text": "Wszelkie zmiany niniejszego programu będą dokonywane, za zgodą Stron, w formie pisemnej."
-        },
-        {
-         "type": "text",
-         "text": "Artykuł 15"
         }
        ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszy program wejdzie w życie z dniem podpisania i będzie obowiązywał do dnia 31 grudnia 2007 r.",
-   "children": []
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Wszelkie zmiany niniejszego programu będą dokonywane, za zgodą Stron, w formie pisemnej.",
+   "children": [],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda ze Stron może w formie pisemnej wypowiedzieć niniejszy program przed upływem określonego w ustępie 1 okresu jego obowiązywania. Wypowiedzenie staje się skuteczne z upływem 3 miesięcy od dnia otrzymania pisemnego powiadomienia przez drugą Stronę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wszelkie przedsięwzięcia rozpoczęte zgodnie z postanowieniami niniejszego programu, a nie zakończone w okresie jego obowiązywania, będą kontynuowane do czasu ich zakończenia.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "SPORZĄDZONO w Warszawie dnia 14 października 2005 r. w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim i słowackim, przy czym wszystkie teksty mają jednakową moc."
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Niniejszy program wejdzie w życie z dniem podpisania i będzie obowiązywał do dnia 31 grudnia 2007 r.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Minister Kultury Za Ministerstwo Kultury Rzeczypospolitej Polskiej Republiki Słowackiej Článok 14"
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Każda ze Stron może w formie pisemnej wypowiedzieć niniejszy program przed upływem określonego w ustępie 1 okresu jego obowiązywania. Wypowiedzenie staje się skuteczne z upływem 3 miesięcy od dnia otrzymania pisemnego powiadomienia przez drugą Stronę.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Všetky zmeny súčasného programu je možné upravovať alebo dopÍňať len po súhlase obidvoch zmluvných strán a výlučne písomnou formou."
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Wszelkie przedsięwzięcia rozpoczęte zgodnie z postanowieniami niniejszego programu, a nie zakończone w okresie jego obowiązywania, będą kontynuowane do czasu ich zakończenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "SPORZĄDZONO w Warszawie dnia 14 października 2005 r. w dwóch jednobrzmiących egzemplarzach, każdy w językach polskim i słowackim, przy czym wszystkie teksty mają jednakową moc."
+      },
+      {
+       "type": "text",
+       "text": "Minister Kultury Za Ministerstwo Kultury Rzeczypospolitej Polskiej Republiki Słowackiej Článok 14"
+      },
+      {
+       "type": "text",
+       "text": "Všetky zmeny súčasného programu je možné upravovať alebo dopÍňať len po súhlase obidvoch zmluvných strán a výlučne písomnou formou."
+      },
+      {
+       "type": "text",
+       "text": "Článok 15"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Článok 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Tento program nadobudne platnosť dňom jeho podpisu a bude platiť do 31. decembra 2007.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Každá zo zmluvných strán môže písomnou formou tento program vypovedať pred uplynutím doby platnosti uvedenej v odstavci 1. Výpoved’ nadobúda platnosť po uplynutí 3 mesiacov odo dňa ked’ dostane písomné upovedomenie od druhej strany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Pre všetky podujatia začaté vsúlade sustanoveniami tohto programu, ktoré neboli ukončené v dobe jeho platnosti, budú ustanovenia tohto programu platné do termínu ich ukončenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "DANÉ v Varsave dňa 14 októbra 2005 v dvoch pôvodných vyhotoveniach, v poľskom a slovenskom jazyku, pričom obe znenia majú rovnakú platnosť."
+      },
+      {
+       "type": "text",
+       "text": "Minister kultúry za Ministerstvo kultúry Poľskej republiky Slovenskej republiky"
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Tento program nadobudne platnosť dňom jeho podpisu a bude platiť do 31. decembra 2007.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Každá zo zmluvných strán môže písomnou formou tento program vypovedať pred uplynutím doby platnosti uvedenej v odstavci 1. Výpoved’ nadobúda platnosť po uplynutí 3 mesiacov odo dňa ked’ dostane písomné upovedomenie od druhej strany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Pre všetky podujatia začaté vsúlade sustanoveniami tohto programu, ktoré neboli ukončené v dobe jeho platnosti, budú ustanovenia tohto programu platné do termínu ich ukončenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "DANÉ v Varsave dňa 14 októbra 2005 v dvoch pôvodných vyhotoveniach, v poľskom a slovenskom jazyku, pričom obe znenia majú rovnakú platnosť."
-    },
-    {
-     "type": "text",
-     "text": "Minister kultúry za Ministerstvo kultúry Poľskej republiky Slovenskej republiky"
-    }
-   ]
+   ],
+   "label": "Artykuł 15"
   }
  ],
  "annexes": [],

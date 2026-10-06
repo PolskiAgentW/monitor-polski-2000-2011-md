@@ -25,123 +25,129 @@
    "text": "Rząd Polskiej Rzeczypospolitej Ludowej i Rząd Republiki Turcji, dążąc do ułatwienia i uregulowania przewozów drogowych podróżnych lub ładunków między dwoma krajami, jak również w tranzycie przez ich terytoria, uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Postanowienia niniejszej umowy mają zastosowanie do przewozów podróżnych i ładunków, wykonywanych między dwoma krajami oraz w tranzycie przez ich terytoria pojazdami zarejestrowanymi na terytorium jednej z Umawiających się Stron."
-  },
-  {
-   "type": "text",
-   "text": "Definicje"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, która bądź w Polsce, bądź w Turcji jest uprawniona, zgodnie z ustawami i przepisami jej kraju, do wykonywania przewozów podróżnych lub ładunków.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "Określenie „pojazd” oznacza: (i) pojazdy drogowe o napędzie mechanicznym zbudowane dla przewozu podróżnych lub ładunków bądź dla ciągnienia pojazdów zbudowanych dla przewozu osób lub ładunków; (ii) zespół pojazdów składający się z wymienionego w punkcie (i) pojazdu oraz przyczep bądź naczep zbudowanych dla przewozu podróżnych lub ładunków.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "Określenie „regularny przewóz” oznacza przewóz podróżnych między terytoriami obu Umawiających się Stron na określonej trasie, według rozkładu i taryf wcześniej ustalonych.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "Określenie „regularny przewóz tranzytowy” oznacza regularny przewóz rozpoczynający się na terytorium jednej z Umawiających się Stron i kończący się na terytorium kraju trzeciego, przebiegający tranzytem przez terytorium kraju trzeciego, przebiegający tranzytem przez terytorium drugiej Umawiającej się Strony bez zabierania ani pozostawiania podróżnych.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "Określenie „przewóz wahadłowy” oznacza zorganizowany przewóz podróżnych z góry zgrupowanych, w celu wykonania wielokrotnych przewozów tam i z powrotem z tego samego miejsca odjazdu do tego samego miejsca przeznaczenia. Każda grupa składająca się z podróżnych, którzy odbyli podróż w jednym kierunku, jest zabierana w miejscu odjazdu podczas podróży późniejszej.",
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Postanowienia niniejszej umowy mają zastosowanie do przewozów podróżnych i ładunków, wykonywanych między dwoma krajami oraz w tranzycie przez ich terytoria pojazdami zarejestrowanymi na terytorium jednej z Umawiających się Stron.",
    "children": [
     {
      "type": "text",
-     "text": "Przez miejsce odjazdu lub przeznaczenia rozumie się miejscowość odjazdu lub przeznaczenia, jak i jej okolice."
-    },
-    {
-     "type": "text",
-     "text": "Zabieranie lub pozostawianie podróżnych w czasie przejazdu jest zabronione."
-    },
-    {
-     "type": "text",
-     "text": "Pierwsza podróż powrotna i ostatnia podróż pojazdu w drodze po pasażerów z serii podróży wahadłowych odbywają się w stanie próżnym,"
+     "text": "Definicje"
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "lit",
-   "num": "f",
-   "path": "lit_f",
-   "text": "Określenie „przejazd przy zamkniętych drzwiach (przewóz turystyczny)” oznacza przewóz jednej i tej samej grupy podróżnych jednym i tym samym pojazdem bez zabierania ani pozostawiania podróżnych, od miejsca rozpoczęcia podróży do miejsca powrotu, przy czym oba te punkty powinny się znajdować na terytorium kraju, gdzie pojazd jest zarejestrowany.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "g",
-   "path": "lit_g",
-   "text": "Określenie „podróż w stanie próżnym” oznacza podróż w stanie próżnym pojazdu zarejestrowanego na terytorium jednej z Umawiających się Stron dla zabrania podróżnych lub załadowania towarów na terytorium drugiej Umawiającej się Strony w celu ich przewiezienia na terytorium kraju, w którym pojazd jest zarejestrowany.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "h",
-   "path": "lit_h",
-   "text": "Określenie „przewóz podróżnych” oznacza przewóz osób pojazdami mogącymi przewieźć 9 podróżnych, oprócz kierowcy.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "i",
-   "path": "lit_i",
-   "text": "Określenie „przewóz tranzytowy” oznacza przewozy podróżnych i ładunków wykonywane z terytorium jednej z Umawiających się Stron między dwoma punktami, a miejsca odjazdu i przeznaczenia znajdują się poza terytorium drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "j",
-   "path": "lit_j",
-   "text": "Określenie „zezwolenie” oznacza zezwolenie wydane dla pojazdu drogowego zarejestrowanego na terytorium jednej z Umawiających się Stron przez właściwe władze drugiej Umawiającej się Strony w celu umożliwienia temu pojazdowi wjazdu i wyjazdu bądź przejazdu tranzytem przez terytorium tej Strony, jak również inne „zezwolenia” przewidziane w niniejszej umowie.",
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "Określenie „przewoźnik” oznacza osobę fizyczną lub prawną, która bądź w Polsce, bądź w Turcji jest uprawniona, zgodnie z ustawami i przepisami jej kraju, do wykonywania przewozów podróżnych lub ładunków.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Przewóz podróżnych i/lub ładunków wykonywany pojazdami drogowymi zarejestrowanymi na terytorium jednej z Umawiających się Stron między dwoma punktami znajdującymi się na terytorium drugiej Umawiającej się Strony jest zabroniony."
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "Określenie „pojazd” oznacza: (i) pojazdy drogowe o napędzie mechanicznym zbudowane dla przewozu podróżnych lub ładunków bądź dla ciągnienia pojazdów zbudowanych dla przewozu osób lub ładunków; (ii) zespół pojazdów składający się z wymienionego w punkcie (i) pojazdu oraz przyczep bądź naczep zbudowanych dla przewozu podróżnych lub ładunków.",
+     "children": []
     },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "Określenie „regularny przewóz” oznacza przewóz podróżnych między terytoriami obu Umawiających się Stron na określonej trasie, według rozkładu i taryf wcześniej ustalonych.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "Określenie „regularny przewóz tranzytowy” oznacza regularny przewóz rozpoczynający się na terytorium jednej z Umawiających się Stron i kończący się na terytorium kraju trzeciego, przebiegający tranzytem przez terytorium kraju trzeciego, przebiegający tranzytem przez terytorium drugiej Umawiającej się Strony bez zabierania ani pozostawiania podróżnych.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "Określenie „przewóz wahadłowy” oznacza zorganizowany przewóz podróżnych z góry zgrupowanych, w celu wykonania wielokrotnych przewozów tam i z powrotem z tego samego miejsca odjazdu do tego samego miejsca przeznaczenia. Każda grupa składająca się z podróżnych, którzy odbyli podróż w jednym kierunku, jest zabierana w miejscu odjazdu podczas podróży późniejszej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przez miejsce odjazdu lub przeznaczenia rozumie się miejscowość odjazdu lub przeznaczenia, jak i jej okolice."
+      },
+      {
+       "type": "text",
+       "text": "Zabieranie lub pozostawianie podróżnych w czasie przejazdu jest zabronione."
+      },
+      {
+       "type": "text",
+       "text": "Pierwsza podróż powrotna i ostatnia podróż pojazdu w drodze po pasażerów z serii podróży wahadłowych odbywają się w stanie próżnym,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_2/lit_f",
+     "text": "Określenie „przejazd przy zamkniętych drzwiach (przewóz turystyczny)” oznacza przewóz jednej i tej samej grupy podróżnych jednym i tym samym pojazdem bez zabierania ani pozostawiania podróżnych, od miejsca rozpoczęcia podróży do miejsca powrotu, przy czym oba te punkty powinny się znajdować na terytorium kraju, gdzie pojazd jest zarejestrowany.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_2/lit_g",
+     "text": "Określenie „podróż w stanie próżnym” oznacza podróż w stanie próżnym pojazdu zarejestrowanego na terytorium jednej z Umawiających się Stron dla zabrania podróżnych lub załadowania towarów na terytorium drugiej Umawiającej się Strony w celu ich przewiezienia na terytorium kraju, w którym pojazd jest zarejestrowany.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_2/lit_h",
+     "text": "Określenie „przewóz podróżnych” oznacza przewóz osób pojazdami mogącymi przewieźć 9 podróżnych, oprócz kierowcy.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "art_2/lit_i",
+     "text": "Określenie „przewóz tranzytowy” oznacza przewozy podróżnych i ładunków wykonywane z terytorium jednej z Umawiających się Stron między dwoma punktami, a miejsca odjazdu i przeznaczenia znajdują się poza terytorium drugiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "art_2/lit_j",
+     "text": "Określenie „zezwolenie” oznacza zezwolenie wydane dla pojazdu drogowego zarejestrowanego na terytorium jednej z Umawiających się Stron przez właściwe władze drugiej Umawiającej się Strony w celu umożliwienia temu pojazdowi wjazdu i wyjazdu bądź przejazdu tranzytem przez terytorium tej Strony, jak również inne „zezwolenia” przewidziane w niniejszej umowie.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Przewóz podróżnych i/lub ładunków wykonywany pojazdami drogowymi zarejestrowanymi na terytorium jednej z Umawiających się Stron między dwoma punktami znajdującymi się na terytorium drugiej Umawiającej się Strony jest zabroniony.",
+   "children": [
     {
      "type": "text",
      "text": "Przewóz podróżnych"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Regularny przewóz i podróż w stanie próżnym wykonywane przez pojazdy drogowe zarejestrowane na terytorium jednej z Umawiających się Stron podlegają systemowi zezwoleń. Ten wymóg nie dotyczy podróży tranzytowych w stanie próżnym."
-    },
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Regularny przewóz i podróż w stanie próżnym wykonywane przez pojazdy drogowe zarejestrowane na terytorium jednej z Umawiających się Stron podlegają systemowi zezwoleń. Ten wymóg nie dotyczy podróży tranzytowych w stanie próżnym.",
+   "children": [
     {
      "type": "text",
      "text": "Zezwolenie takie będzie udzielane na wniosek właściwej władzy kraju przewoźnika wystosowany na piśmie do właściwej władzy drugiej Umawiającej się Strony."
@@ -149,68 +155,74 @@
     {
      "type": "text",
      "text": "Forma składania wniosku, właściwe władze, jak również inne sprawy dotyczące regularnego przewozu i podróży w stanie próżnym, będą ustalone w protokole."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Przewozy wykonywane pojazdami zarejestrowanymi na terytorium Umawiających się Stron, inne niż wymienione w artykule 4 niniejszej umowy, nie będą podlegały systemowi zezwoleń."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Zasady taryfowe stosowane do regularnych przewozów podróżnych będą wspólnie uzgadniane przez właściwe władze Umawiających się Stron. Taryfy będą mogły być w razie potrzeby poddane rewizji lub zmienione w drodze korespondencyjnej między właściwymi jednostkami Umawiających się Stron."
-    },
-    {
-     "type": "text",
-     "text": "Przewozy ładunków"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, zarejestrowane na terytorium jednej z Umawiających się Stron i używane do przewozu ładunków między terytoriami Umawiających się Stron, nie podlegają systemowi kontyngentowania dla wjazdu i wyjazdu.",
-   "children": []
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Przewozy wykonywane pojazdami zarejestrowanymi na terytorium Umawiających się Stron, inne niż wymienione w artykule 4 niniejszej umowy, nie będą podlegały systemowi zezwoleń.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, zarejestrowane na terytorium jednej z Umawiających się Stron i używane do przewozu w tranzycie przez terytorium drugiej Umawiającej się Strony, podlegają systemowi kontyngentowania.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "Roczne kontyngenty zezwoleń będą ustalane przez Komisję Mieszaną przewidzianą w artykule 17 niniejszej umowy lub w drodze wymiany korespondencji między właściwymi władzami Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "Zezwolenie będzie uprawniać przewoźnika jednej z Umawiających się Stron do wykonania przejazdu w tranzycie przez terytorium drugiej Strony i będzie ważne na podróż tam i z powrotem.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Zasady taryfowe stosowane do regularnych przewozów podróżnych będą wspólnie uzgadniane przez właściwe władze Umawiających się Stron. Taryfy będą mogły być w razie potrzeby poddane rewizji lub zmienione w drodze korespondencyjnej między właściwymi jednostkami Umawiających się Stron.",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 8"
+     "text": "Przewozy ładunków"
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_7/lit_a",
+     "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, zarejestrowane na terytorium jednej z Umawiających się Stron i używane do przewozu ładunków między terytoriami Umawiających się Stron, nie podlegają systemowi kontyngentowania dla wjazdu i wyjazdu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Przewozy wykonywane poza kontyngentem będą ustalone w Protokole."
+     "type": "lit",
+     "num": "b",
+     "path": "art_7/lit_b",
+     "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, zarejestrowane na terytorium jednej z Umawiających się Stron i używane do przewozu w tranzycie przez terytorium drugiej Umawiającej się Strony, podlegają systemowi kontyngentowania.",
+     "children": []
     },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_7/lit_c",
+     "text": "Roczne kontyngenty zezwoleń będą ustalane przez Komisję Mieszaną przewidzianą w artykule 17 niniejszej umowy lub w drodze wymiany korespondencji między właściwymi władzami Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_7/lit_d",
+     "text": "Zezwolenie będzie uprawniać przewoźnika jednej z Umawiających się Stron do wykonania przejazdu w tranzycie przez terytorium drugiej Strony i będzie ważne na podróż tam i z powrotem.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Przewozy wykonywane poza kontyngentem będą ustalone w Protokole.",
+   "children": [
     {
      "type": "text",
      "text": "Zezwolenia będą wydrukowane w językach obu Umawiających się Stron według wzoru ustalonego we wspólnym porozumieniu przez właściwe władze."
@@ -222,23 +234,24 @@
     {
      "type": "text",
      "text": "Druki zezwoleń będą wymieniane in blanco bezpłatnie, najpóźniej w miesiącu listopadzie każdego roku między właściwymi władzami każdej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Pojazdy drogowe zarejestrowane na terytorium jednej z Umawiających się Stron, które wykonały przewóz ładunków do drugiej Umawiającej się Strony, mogą, w drodze powrotnej, zabierać ładunki z przeznaczeniem do ich kraju."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Wjazd pojazdu w stanie próżnym, zarejestrowanego w jednej z Umawiających się Stron, na terytorium drugiej Umawiającej się Strony w celu zabrania ładunków z przeznaczeniem do kraju rejestracji lub do kraju trzeciego wymaga zezwolenia specjalnego."
-    },
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Pojazdy drogowe zarejestrowane na terytorium jednej z Umawiających się Stron, które wykonały przewóz ładunków do drugiej Umawiającej się Strony, mogą, w drodze powrotnej, zabierać ładunki z przeznaczeniem do ich kraju.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Wjazd pojazdu w stanie próżnym, zarejestrowanego w jednej z Umawiających się Stron, na terytorium drugiej Umawiającej się Strony w celu zabrania ładunków z przeznaczeniem do kraju rejestracji lub do kraju trzeciego wymaga zezwolenia specjalnego.",
+   "children": [
     {
      "type": "text",
      "text": "Obie Umawiające się Strony zgodziły się rozpatrywać w duchu życzliwości i w trybie przyspieszonym wnioski składane w sprawie takich zezwoleń specjalnych."
@@ -246,131 +259,144 @@
     {
      "type": "text",
      "text": "Postanowienia finansowe"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, w stanie próżnym lub ładownym, używane do przewozu ładunków między obydwoma krajami i zarejestrowane na terytorium jednej z Umawiających się Stron, nie podlegają żadnym podatkom, opłatom, należnościom lub innym płatnościom.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, w stanie próżnym lub ładownym, zarejestrowane na terytorium jednej z Umawiających się Stron i używane do przewozu ładunków w tranzycie przez terytorium drugiej Umawiającej się Strony, podlegają podatkom, opłatom i innym obciążeniom przewidzianym przez prawodawstwo wewnętrzne tej drugiej Strony.",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "Wszystkie rodzaje przewozów podróżnych pojazdami zarejestrowanymi na terytorium jednej z Umawiających się Stron nie podlegają żadnym podatkom, opłatom lub obciążeniom na terytorium drugiej Umawiającej się Strony.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 12"
+     "type": "lit",
+     "num": "a",
+     "path": "art_11/lit_a",
+     "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, w stanie próżnym lub ładownym, używane do przewozu ładunków między obydwoma krajami i zarejestrowane na terytorium jednej z Umawiających się Stron, nie podlegają żadnym podatkom, opłatom, należnościom lub innym płatnościom.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Płatności, które powinny być dokonywane w myśl postanowień niniejszej umowy, będą uiszczane w walutach wymienialnych."
+     "type": "lit",
+     "num": "b",
+     "path": "art_11/lit_b",
+     "text": "Pojazdy drogowe, w tym również przyczepy i naczepy, w stanie próżnym lub ładownym, zarejestrowane na terytorium jednej z Umawiających się Stron i używane do przewozu ładunków w tranzycie przez terytorium drugiej Umawiającej się Strony, podlegają podatkom, opłatom i innym obciążeniom przewidzianym przez prawodawstwo wewnętrzne tej drugiej Strony.",
+     "children": []
     },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_11/lit_c",
+     "text": "Wszystkie rodzaje przewozów podróżnych pojazdami zarejestrowanymi na terytorium jednej z Umawiających się Stron nie podlegają żadnym podatkom, opłatom lub obciążeniom na terytorium drugiej Umawiającej się Strony.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Płatności, które powinny być dokonywane w myśl postanowień niniejszej umowy, będą uiszczane w walutach wymienialnych.",
+   "children": [
     {
      "type": "text",
      "text": "Postanowienia ogólne"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Paliwo znajdujące się w typowych zbiornikach pojazdów jest zwolnione od opłat celnych, jak również od wszelkich innych podatków i opłat. Przez zbiornik typowy należy rozumieć zbiornik skonstruowany przez tę samą fabrykę co pojazd."
-    },
-    {
-     "type": "text",
-     "text": "Całkowite zwolnienie od należności i opłat przyznaje się przy wwozie czasowym części zamiennych przeznaczonych do naprawy uszkodzonego pojazdu drogowego znajdującego się na terytorium drugiej Umawiającej się Strony. Części zastąpione są wywożone lub niszczone pod kontrolą celną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Przewoźnicy i personel pojazdów obowiązani są przestrzegać postanowień niniejszej umowy, jak również przepisów prawnych dotyczących przewozów i ruchu drogowego, obowiązujących na terytorium Umawiających się Stron."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania na swoim terytorium specjalnych zezwoleń na przewozy wykonywane pojazdami samochodowymi, których ciężar lub rozmiary, z ładunkiem lub bez ładunku, przekraczają ciężar lub rozmiary dopuszczone na tym terytorium."
-    },
-    {
-     "type": "text",
-     "text": "Wymienione przewozy powinny odbywać się zgodnie z warunkami przewidzianymi w tych zezwoleniach specjalnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Wewnętrzne prawodawstwo każdej z Umawiających się Stron ma zastosowanie do wszelkich spraw nieuregulowanych w niniejszej umowie."
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia konwencji i umów międzynarodowych, których stronami są Polska i Turcja, będą miały również zastosowanie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe władze Umawiających się Stron ustalają w Protokole wykonawczym sposoby dotyczące wykonywania niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe władze Umawiających się Stron utworzą Komisję Mieszaną w celu zapewnienia wykonywania niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Komisja Mieszana zbiera się w razie potrzeby na żądanie właściwych władz jednej z Umawiających się Stron, na przemian, na terytorium każdej z Umawiających się Stron.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Paliwo znajdujące się w typowych zbiornikach pojazdów jest zwolnione od opłat celnych, jak również od wszelkich innych podatków i opłat. Przez zbiornik typowy należy rozumieć zbiornik skonstruowany przez tę samą fabrykę co pojazd.",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 18"
-    },
+     "text": "Całkowite zwolnienie od należności i opłat przyznaje się przy wwozie czasowym części zamiennych przeznaczonych do naprawy uszkodzonego pojazdu drogowego znajdującego się na terytorium drugiej Umawiającej się Strony. Części zastąpione są wywożone lub niszczone pod kontrolą celną."
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Przewoźnicy i personel pojazdów obowiązani są przestrzegać postanowień niniejszej umowy, jak również przepisów prawnych dotyczących przewozów i ruchu drogowego, obowiązujących na terytorium Umawiających się Stron.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Każda Umawiająca się Strona zastrzega sobie prawo wymagania na swoim terytorium specjalnych zezwoleń na przewozy wykonywane pojazdami samochodowymi, których ciężar lub rozmiary, z ładunkiem lub bez ładunku, przekraczają ciężar lub rozmiary dopuszczone na tym terytorium.",
+   "children": [
     {
      "type": "text",
-     "text": "Właściwe władze Umawiających się Stron podejmą starania o udzielanie, w trybie przyspieszonym, kierowcom i personelowi wykonującym międzynarodowe przewozy drogowe, wiz wielokrotnych i długoterminowych."
-    },
+     "text": "Wymienione przewozy powinny odbywać się zgodnie z warunkami przewidzianymi w tych zezwoleniach specjalnych."
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wewnętrzne prawodawstwo każdej z Umawiających się Stron ma zastosowanie do wszelkich spraw nieuregulowanych w niniejszej umowie.",
+   "children": [
     {
      "type": "text",
-     "text": "Artykuł 19"
+     "text": "Postanowienia konwencji i umów międzynarodowych, których stronami są Polska i Turcja, będą miały również zastosowanie."
+    }
+   ],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Właściwe władze Umawiających się Stron ustalają w Protokole wykonawczym sposoby dotyczące wykonywania niniejszej umowy.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Niniejsza umowa będzie zatwierdzona zgodnie z prawem każdej z Umawiających się Stron i wejdzie ostatecznie w życie w dniu ostatniej notyfikacji o zatwierdzeniu. Jednakże Umawiające się Strony uzgodniły, że postanowienia niniejszej umowy wejdą prowizorycznie w życie z dniem jej podpisania."
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Właściwe władze Umawiających się Stron utworzą Komisję Mieszaną w celu zapewnienia wykonywania niniejszej umowy.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Komisja Mieszana zbiera się w razie potrzeby na żądanie właściwych władz jednej z Umawiających się Stron, na przemian, na terytorium każdej z Umawiających się Stron.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 17"
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Właściwe władze Umawiających się Stron podejmą starania o udzielanie, w trybie przyspieszonym, kierowcom i personelowi wykonującym międzynarodowe przewozy drogowe, wiz wielokrotnych i długoterminowych.",
+   "children": [],
+   "label": "Artykuł 18"
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Niniejsza umowa będzie zatwierdzona zgodnie z prawem każdej z Umawiających się Stron i wejdzie ostatecznie w życie w dniu ostatniej notyfikacji o zatwierdzeniu. Jednakże Umawiające się Strony uzgodniły, że postanowienia niniejszej umowy wejdą prowizorycznie w życie z dniem jej podpisania.",
+   "children": [
     {
      "type": "text",
      "text": "Umowa ta będzie obowiązywała przez okres jednego roku, licząc od dnia jej ostatecznego wejścia w życie, i będzie milcząco przedłużana z roku na rok, jeżeli jedna z Umawiających się Stron nie wypowie jej na piśmie w terminie co najmniej trzech miesięcy przed datą upływu jej ważności."
@@ -707,7 +733,8 @@
      "type": "ocr",
      "text": "ebirtre, etrierte À - VAV; AS Ut ets —"
     }
-   ]
+   ],
+   "label": "Artykuł 19"
   }
  ],
  "annexes": [],

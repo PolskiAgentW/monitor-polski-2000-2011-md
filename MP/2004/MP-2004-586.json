@@ -3124,39 +3124,41 @@
     {
      "type": "text",
      "text": "PRZEPISY FINANSOWE ORGANIZACJI „POLSKO-NIEMIECKA WSPÓŁPRACA MŁODZIEŻY”"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 1"
-    },
-    {
-     "type": "text",
-     "text": "Cel przepisów finansowych"
-    },
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Cel przepisów finansowych",
+   "children": [
     {
      "type": "text",
      "text": "Przepisy finansowe regulują zasady sporządzania i realizacji planu budżetu Organizacji „Polsko-Niemiecka Współpraca Młodzieży”, zwanej dalej „Organizacją”, oraz zasady rewizji księgowej (artykuł 11 ustęp 4 umowy z dnia 17 czerwca 1991 r.)."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Rok budżetowy"
-    },
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Rok budżetowy",
+   "children": [
     {
      "type": "text",
      "text": "Rokiem budżetowym jest rok kalendarzowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Wspólny fundusz"
-    },
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wspólny fundusz",
+   "children": [
     {
      "type": "text",
      "text": "W celu realizacji swoich zadań Organizacja dysponuje wspólnym funduszem, który jest zasilany w rów- FINANZORDNUNG DES DEUTSCH-POLNISCHEN JUGENDWERKS"
@@ -3196,752 +3198,757 @@
     {
      "type": "text",
      "text": "Das Jugendwerk verfügt zur Wahrnehmung seiner Aufgaben über einen gemeinsamen Fonds, der von den nych częściach przez oba Rządy, zgodnie z artykułem 11 ustęp 1 umowy z dnia 17 czerwca 1991 r."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Plan budżetu"
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Na każdy rok budżetowy należy sporządzić plan budżetu, w którym należy uwzględnić wszystkie wpływy i wydatki. W planie budżetu należy wykazać wszelkie zobowiązania wieloletnie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Podstawą sporządzania planu budżetu będą deklaracje obu Rządów odnośnie do planowanej wysokości wkładów na rzecz Organizacji, przy czym wkład Rządu Rzeczypospolitej Polskiej wyrażony jest w złotych polskich, a wkład Rządu Republiki Federalnej Niemiec wyrażony jest w euro.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Przy porównywaniu deklarowanych wkładów, o których mowa w ustępie 2, za podstawę przeliczeń będzie przyjęty kurs podawany przez Europejski Bank Centralny w dniu 1 lipca danego roku, w którym Rządy deklarują wysokość wkładów.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Plan budżetu składa się z planu globalnego i planów częściowych z podziałem na pozycje i tytuły budżetowe oraz z planu etatów. Plany częściowe sporządzane są dla budżetu administracyjnego każdego z biur oraz dla budżetu na wspieranie projektów. Pozycje i tytuły planu budżetu są podzielone według określonych grup rzeczowych. Plan etatów jest podzielony według przynależności do poszczególnych biur.",
-   "children": []
+   "path": "art_4",
+   "text": "Plan budżetu",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Na każdy rok budżetowy należy sporządzić plan budżetu, w którym należy uwzględnić wszystkie wpływy i wydatki. W planie budżetu należy wykazać wszelkie zobowiązania wieloletnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Podstawą sporządzania planu budżetu będą deklaracje obu Rządów odnośnie do planowanej wysokości wkładów na rzecz Organizacji, przy czym wkład Rządu Rzeczypospolitej Polskiej wyrażony jest w złotych polskich, a wkład Rządu Republiki Federalnej Niemiec wyrażony jest w euro.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Przy porównywaniu deklarowanych wkładów, o których mowa w ustępie 2, za podstawę przeliczeń będzie przyjęty kurs podawany przez Europejski Bank Centralny w dniu 1 lipca danego roku, w którym Rządy deklarują wysokość wkładów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_4/ust_4",
+     "text": "Plan budżetu składa się z planu globalnego i planów częściowych z podziałem na pozycje i tytuły budżetowe oraz z planu etatów. Plany częściowe sporządzane są dla budżetu administracyjnego każdego z biur oraz dla budżetu na wspieranie projektów. Pozycje i tytuły planu budżetu są podzielone według określonych grup rzeczowych. Plan etatów jest podzielony według przynależności do poszczególnych biur.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_4/ust_5",
+     "text": "Wyjaśnienie i uzasadnienie wpływów, wydatków, planu etatów i podjętych zobowiązań wieloletnich stanowi część składową planu budżetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_4/ust_6",
+     "text": "Plan budżetu sporządzany jest w językach polskim i niemieckim. Wkłady każdego z Rządów będą wykazywane zgodnie z artykułem 4 ustęp 2. Kalkulacja planu częściowego dotycząca budżetu administracyjnego biura w Warszawie sporządzana jest w złotych polskich, planu częściowego dotyczącego budżetu administracyjnego biura w Poczdamie — w euro. Kalkulacja planu częściowego budżetu na wspieranie projektów sporządzana jest w tej walucie, w jakiej finansowany jest projekt. Zwiększone wydatki z tytułu różnic kursowych muszą być finansowane w ramach tych samych planów częściowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_4/ust_7",
+     "text": "Wydatki i zobowiązania wieloletnie, przeznaczone na ten sam cel, muszą zostać ujęte w ramach tych samych pozycji planu budżetu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Wyjaśnienie i uzasadnienie wpływów, wydatków, planu etatów i podjętych zobowiązań wieloletnich stanowi część składową planu budżetu.",
-   "children": []
+   "path": "art_5",
+   "text": "Skutki planu budżetu",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Plan budżetu jest dla Organizacji podstawą i upoważnieniem do dokonywania wypłat i podejmowania zobowiązań finansowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Regierungen zu gleichen Teilen finanziert wird, gemäss Art. 11 Abs. 1 des Abkommens vom 17. Juni 1991."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 4"
+      },
+      {
+       "type": "text",
+       "text": "Haushaltsplan"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Für jedes Haushaltsjahr ist ein Haushaltsplan zu erstellen, in dem alle Einnahmen und Ausgaben zu berücksichtigen sind. Im Haushaltsplan sind alle Verpflichtungsermächtigungen auszuweisen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Als Grundlage für die Erstellung des Haushaltsplans gelten die von den beiden Regierungen abgegebenen Erklärungen über die geplante Höhe der Regierungsbeiträge, wobei der Beitrag der Regierung der Republik Polen in polnischen Zloty und der Beitrag der Regierung der Bundesrepublik Deutschland in Euro ausgewiesen wird.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Als Vergleichsgrundlage für die im Abs. 2 genannten deklarierten Regierungsbeiträge gilt der amtliche EZB-Kurs zum 01. Juli des Jahres der Abgabe der Erklärungen durch die beiden Regierungen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Der Haushaltsplan besteht aus einem Gesamtplan, Teilplänen, Titeln und Artikeln sowie einem Stellenplan. Teilpläne bestehen für den jeweiligen Verwaltungshaushalt der Büros und für den Förderhaushalt. Die Titel und Artikel sind nach bestimmten Sachgruppen gegliedert. Der Stellenplan ist nach der Zugehörigkeit zu den Büros gegliedert.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "Erläuterung und Begründung von Einnahmen, Ausgaben, Stellenplan und Verpflichtungsermächtigungen sind Teil des Haushaltsplanes.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_5/ust_6",
+     "text": "Der Haushaltsplan wird in polnisher und deutscher Sprache gefertigt. Die Höhe der Beiträge der Regierungen wird gemäss Art. 4 Abs. 2 ausgewiesen. Die Ansätze werden für den Teilplan des Verwaltungshaushaltes des Büros in Warschau in polnischen Zloty und für den Teilplan des Verwaltungshaushaltes des Büros in Potsdam in Euro dargestellt. Die Ansätze für den Teilplan des Förderhaushaltes werden in der Währung dargestellt, in der sie zu leisten sind. Wechselkursbedingte Mehrausgaben müssen aus den Ansätzen des jeweiligen Teilplans finanziert werden.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_5/ust_7",
+     "text": "Ausgaben und Verpflichtungsermächtigungen, die für denselben Zweck bestimmt sind, dürfen nicht in verschiedene Titel des Haushaltsplanes aufgenommen werden.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 5"
+      },
+      {
+       "type": "text",
+       "text": "Wirkung des Haushaltsplans"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Der Haushaltsplan ist Grundlage und Ermächtigung für das Jugendwerk, Auszahlungen zu leisten und Verbindlichkeiten einzugehen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Umieszczenie w planie budżetu wydatków na określone cele nie może stanowić podstawy do roszczeń osób trzecich wobec Organizacji.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "6",
-   "path": "ust_6",
-   "text": "Plan budżetu sporządzany jest w językach polskim i niemieckim. Wkłady każdego z Rządów będą wykazywane zgodnie z artykułem 4 ustęp 2. Kalkulacja planu częściowego dotycząca budżetu administracyjnego biura w Warszawie sporządzana jest w złotych polskich, planu częściowego dotyczącego budżetu administracyjnego biura w Poczdamie — w euro. Kalkulacja planu częściowego budżetu na wspieranie projektów sporządzana jest w tej walucie, w jakiej finansowany jest projekt. Zwiększone wydatki z tytułu różnic kursowych muszą być finansowane w ramach tych samych planów częściowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Wydatki i zobowiązania wieloletnie, przeznaczone na ten sam cel, muszą zostać ujęte w ramach tych samych pozycji planu budżetu.",
+   "path": "art_6",
+   "text": "Sporządzanie planu budżetu",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Skutki planu budżetu"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Plan budżetu jest dla Organizacji podstawą i upoważnieniem do dokonywania wypłat i podejmowania zobowiązań finansowych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Regierungen zu gleichen Teilen finanziert wird, gemäss Art. 11 Abs. 1 des Abkommens vom 17. Juni 1991."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 4"
-    },
-    {
-     "type": "text",
-     "text": "Haushaltsplan"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Für jedes Haushaltsjahr ist ein Haushaltsplan zu erstellen, in dem alle Einnahmen und Ausgaben zu berücksichtigen sind. Im Haushaltsplan sind alle Verpflichtungsermächtigungen auszuweisen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Als Grundlage für die Erstellung des Haushaltsplans gelten die von den beiden Regierungen abgegebenen Erklärungen über die geplante Höhe der Regierungsbeiträge, wobei der Beitrag der Regierung der Republik Polen in polnischen Zloty und der Beitrag der Regierung der Bundesrepublik Deutschland in Euro ausgewiesen wird.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Als Vergleichsgrundlage für die im Abs. 2 genannten deklarierten Regierungsbeiträge gilt der amtliche EZB-Kurs zum 01. Juli des Jahres der Abgabe der Erklärungen durch die beiden Regierungen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Der Haushaltsplan besteht aus einem Gesamtplan, Teilplänen, Titeln und Artikeln sowie einem Stellenplan. Teilpläne bestehen für den jeweiligen Verwaltungshaushalt der Büros und für den Förderhaushalt. Die Titel und Artikel sind nach bestimmten Sachgruppen gegliedert. Der Stellenplan ist nach der Zugehörigkeit zu den Büros gegliedert.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Erläuterung und Begründung von Einnahmen, Ausgaben, Stellenplan und Verpflichtungsermächtigungen sind Teil des Haushaltsplanes.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Der Haushaltsplan wird in polnisher und deutscher Sprache gefertigt. Die Höhe der Beiträge der Regierungen wird gemäss Art. 4 Abs. 2 ausgewiesen. Die Ansätze werden für den Teilplan des Verwaltungshaushaltes des Büros in Warschau in polnischen Zloty und für den Teilplan des Verwaltungshaushaltes des Büros in Potsdam in Euro dargestellt. Die Ansätze für den Teilplan des Förderhaushaltes werden in der Währung dargestellt, in der sie zu leisten sind. Wechselkursbedingte Mehrausgaben müssen aus den Ansätzen des jeweiligen Teilplans finanziert werden.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Ausgaben und Verpflichtungsermächtigungen, die für denselben Zweck bestimmt sind, dürfen nicht in verschiedene Titel des Haushaltsplanes aufgenommen werden.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 5"
-    },
-    {
-     "type": "text",
-     "text": "Wirkung des Haushaltsplans"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Der Haushaltsplan ist Grundlage und Ermächtigung für das Jugendwerk, Auszahlungen zu leisten und Verbindlichkeiten einzugehen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umieszczenie w planie budżetu wydatków na określone cele nie może stanowić podstawy do roszczeń osób trzecich wobec Organizacji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Sporządzanie planu budżetu"
-    },
     {
      "type": "text",
      "text": "Zarząd sporządza projekt planu budżetu, uwzględniając środki przewidziane przez oba Rządy oraz oczekiwane inne wpływy. Projekt należy przesłać obu Przewodniczącym, członkom Rady, ich zastępcom oraz ustanowionym przez Radę rewidentom księgowym najpóźniej na 4 tygodnie przed posiedzeniem Rady, na którym zatwierdzany jest plan budżetu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Uchwalanie planu budżetu"
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Rada uchwala plan budżetu przed rozpoczęciem nowego roku kalendarzowego, po uzyskaniu informacji od obu Rządów o przypuszczalnej wysokości przewidzianych wkładów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli plan budżetu nie zostanie uchwalony przed rozpoczęciem nowego roku kalendarzowego, to do momentu uchwalenia w każdym miesiącu wolno dokonywać niezbędnych wydatków do jednej dwunastej zatwierdzonego planu budżetu roku poprzedzającego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Po uchwaleniu planu budżetu Zarząd przesyła jego kopie obu Przewodniczącym Rady, członkom Rady i ich zastępcom oraz obu rewidentom księgowym.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Uchwalanie planu budżetu",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 8"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Rada uchwala plan budżetu przed rozpoczęciem nowego roku kalendarzowego, po uzyskaniu informacji od obu Rządów o przypuszczalnej wysokości przewidzianych wkładów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Powodowanie wpływu środków"
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Jeżeli plan budżetu nie zostanie uchwalony przed rozpoczęciem nowego roku kalendarzowego, to do momentu uchwalenia w każdym miesiącu wolno dokonywać niezbędnych wydatków do jednej dwunastej zatwierdzonego planu budżetu roku poprzedzającego.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Po uchwaleniu planu budżetu Zarząd przesyła jego kopie obu Przewodniczącym Rady, członkom Rady i ich zastępcom oraz obu rewidentom księgowym.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Powodowanie wpływu środków",
+   "children": [
     {
      "type": "text",
      "text": "Zarząd wnioskuje przekazanie wkładów każdego z Rządów w równych częściach do wspólnego funduszu, zgodnie z potrzebami Organizacji, na takie okresy, które nie pozostają w sprzeczności z wewnętrznymi przepisami budżetowymi każdego z państw."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Realizacja planu budżetu"
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Plan budżetu jest realizowany zgodnie z zasadą rozdzielenia kompetencji między osobę upoważnioną do wydawania decyzji o dyspozycji środkami finansowymi a osobę odpowiedzialną za prowadzenie księgowości.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wszystkie wpływy i wydatki muszą być zaksięgowane i udokumentowane poleceniami przyjęcia wpłaty lub wypłaty, po uprzednim zatwierdzeniu ich przez osoby upoważnione do wydawania decyzji o dyspozycji środkami finansowymi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Die Einstellung von Ausgaben für bestimmte Ziele in den Haushalt stellt keine Grundlage für Ansprüche Dritter an das Jugendwerk dar.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Realizacja planu budżetu",
    "children": [
     {
-     "type": "text",
-     "text": "Artikel 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Plan budżetu jest realizowany zgodnie z zasadą rozdzielenia kompetencji między osobę upoważnioną do wydawania decyzji o dyspozycji środkami finansowymi a osobę odpowiedzialną za prowadzenie księgowości.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Aufstellung des Haushaltsplans"
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Wszystkie wpływy i wydatki muszą być zaksięgowane i udokumentowane poleceniami przyjęcia wpłaty lub wypłaty, po uprzednim zatwierdzeniu ich przez osoby upoważnione do wydawania decyzji o dyspozycji środkami finansowymi.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Die Geschäftsführung erstellt einen Entwurf des Haushaltsplans unter Berücksichtigung der von beiden Regierungen vorgesehenen Mittel sowie der zu erwartenden anderen Einnahmen. Der Entwurf ist den beiden Vorsitzenden, den Mitgliedern des Rates, ihren Stellvertretungen sowie den vom Rat bestellten Rechnungsprüfer/innen spätestens vier Wochen vor der Haushaltssitzung des Rates zuzusenden."
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Die Einstellung von Ausgaben für bestimmte Ziele in den Haushalt stellt keine Grundlage für Ansprüche Dritter an das Jugendwerk dar.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 6"
+      },
+      {
+       "type": "text",
+       "text": "Aufstellung des Haushaltsplans"
+      },
+      {
+       "type": "text",
+       "text": "Die Geschäftsführung erstellt einen Entwurf des Haushaltsplans unter Berücksichtigung der von beiden Regierungen vorgesehenen Mittel sowie der zu erwartenden anderen Einnahmen. Der Entwurf ist den beiden Vorsitzenden, den Mitgliedern des Rates, ihren Stellvertretungen sowie den vom Rat bestellten Rechnungsprüfer/innen spätestens vier Wochen vor der Haushaltssitzung des Rates zuzusenden."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 7"
+      },
+      {
+       "type": "text",
+       "text": "Verabschiedung des Haushaltsplans"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artikel 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Der Rat verabschiedet den Haushaltsplan vor Beginn des neuen Kalenderjahres, nachdem die beiden Regierungen die voraussichtliche Höhe des vorgesehenen Beitrages mitgeteilt haben.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Verabschiedung des Haushaltsplans"
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Wird der Haushaltsplan nicht vor Beginn des neuen Kalenderjahres verabschiedet, dürfen bis zum Zeitpunkt der Verabschiedung des Haushaltsplans in jedem Monat die notwendigen Ausgaben bis zu einem Zwölftel des entsprechend verabschiedeten Haushaltsplans des Vorjahres getätigt werden.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Nach der Verabschiedung des Haushaltsplans leitet die Geschäftsführung den beiden Vorsitzenden des Rates, den Mitgliedern des Rates und ihren Stellvertretungen sowie den beiden Rechnungsprüfern eine Kopie des Haushaltsplans zu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 8"
+      },
+      {
+       "type": "text",
+       "text": "Abruf der Mittel"
+      },
+      {
+       "type": "text",
+       "text": "Die Geschäftsführung ruft die Beiträge jeder der beiden Regierungen zum gemeinsamen Fonds zu gleichen Teilen bei der jeweiligen Regierung bei Bedarf und für die Zeitabschnitte, die mit den Haushaltsvorschriften beider Länder nicht im Widerspruch stehen, ab."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 9"
+      },
+      {
+       "type": "text",
+       "text": "Ausführung des Haushaltsplans"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Die Ausführung des Haushaltsplans erfolgt gemäß dem Grundsatz der Trennung der Befugnisse der Anordnungsbefugten und der Rechnungsführer/innen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Alle Einnahmen und Ausgaben müssen gebucht und durch Annahme- oder Auszahlungsanordnung belegt werden, die durch die Anordnungsbefugten vollzogen sein müssen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Uprawnienie do wydawania decyzji o dyspozycji środkami finansowymi przysługuje Zarządowi. W uzasadnionych przypadkach może on przenieść te uprawnienia na pracowników Organizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Pracownikom upoważnionym przez Zarząd wolno przyjmować wpłaty lub dokonywać wypłat. Zarząd może podejmować decyzje odnośnie do przyznania zaliczek gotówkowych na pokrycie bieżących wydatków z kasy Organizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_9/ust_5",
+     "text": "Zarząd jest odpowiedzialny za zgodne z przeznaczeniem, oszczędne i gospodarne wykorzystanie środków budżetowych oraz dba o prawidłowe ich księgowanie.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Der Rat verabschiedet den Haushaltsplan vor Beginn des neuen Kalenderjahres, nachdem die beiden Regierungen die voraussichtliche Höhe des vorgesehenen Beitrages mitgeteilt haben.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wird der Haushaltsplan nicht vor Beginn des neuen Kalenderjahres verabschiedet, dürfen bis zum Zeitpunkt der Verabschiedung des Haushaltsplans in jedem Monat die notwendigen Ausgaben bis zu einem Zwölftel des entsprechend verabschiedeten Haushaltsplans des Vorjahres getätigt werden.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Nach der Verabschiedung des Haushaltsplans leitet die Geschäftsführung den beiden Vorsitzenden des Rates, den Mitgliedern des Rates und ihren Stellvertretungen sowie den beiden Rechnungsprüfern eine Kopie des Haushaltsplans zu.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Wykorzystanie środków budżetowych",
    "children": [
     {
-     "type": "text",
-     "text": "Artikel 8"
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Wszystkie wydatki Organizacji pokrywa się z uzyskiwanych przez Organizację wpływów w danym roku budżetowym i nadwyżki finansowej z lat ubiegłych. Organizacja nie może zaciągać kredytów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Abruf der Mittel"
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Przyznane środki mogą zostać przeznaczone jedynie na cele określone w planie budżetu, o ile nie przewiduje on możliwości przesunięcia środków z innych pozycji na pokrycie niedoborów. Za zgodą obu Przewodniczących Rady może nastąpić przesunięcie środków w celu pokrycia w pełni uzasadnionych i nieprzewidzianych wydatków. O takim przesunięciu należy powiadomić Radę na następnym posiedzeniu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Die Geschäftsführung ruft die Beiträge jeder der beiden Regierungen zum gemeinsamen Fonds zu gleichen Teilen bei der jeweiligen Regierung bei Bedarf und für die Zeitabschnitte, die mit den Haushaltsvorschriften beider Länder nicht im Widerspruch stehen, ab."
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Nie wolno wydatkować na ten sam cel środków z różnych pozycji planu budżetu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artikel 9"
+     "type": "ust",
+     "num": "4",
+     "path": "art_10/ust_4",
+     "text": "Wydatki personalne mogą być ponoszone jedynie w zgodzie z odnośnymi przepisami i planem etatów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Ausführung des Haushaltsplans"
+     "type": "ust",
+     "num": "5",
+     "path": "art_10/ust_5",
+     "text": "Na wydatki inwestycyjne i wydatki na pojedyncze przedsięwzięcia o wartości przekraczającej 25 000 euro lub równowartość tej kwoty w złotych polskich konieczna jest zgoda Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_10/ust_6",
+     "text": "Zobowiązania na następne lata mogą być podejmowane wyłącznie na podstawie stosownego upoważnienia do ich podjęcia, zawartego w planie budżetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_10/ust_7",
+     "text": "Płatności, które inaczej niż w kalkulacji zawartej w planie budżetu dokonane zostały w innej walucie, należy w późniejszym terminie — w miarę możliwości kwartalnie — przetransferować.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Die Ausführung des Haushaltsplans erfolgt gemäß dem Grundsatz der Trennung der Befugnisse der Anordnungsbefugten und der Rechnungsführer/innen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Alle Einnahmen und Ausgaben müssen gebucht und durch Annahme- oder Auszahlungsanordnung belegt werden, die durch die Anordnungsbefugten vollzogen sein müssen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Uprawnienie do wydawania decyzji o dyspozycji środkami finansowymi przysługuje Zarządowi. W uzasadnionych przypadkach może on przenieść te uprawnienia na pracowników Organizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Pracownikom upoważnionym przez Zarząd wolno przyjmować wpłaty lub dokonywać wypłat. Zarząd może podejmować decyzje odnośnie do przyznania zaliczek gotówkowych na pokrycie bieżących wydatków z kasy Organizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Zarząd jest odpowiedzialny za zgodne z przeznaczeniem, oszczędne i gospodarne wykorzystanie środków budżetowych oraz dba o prawidłowe ich księgowanie.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Zarządzanie majątkiem",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Wykorzystanie środków budżetowych"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wszystkie wydatki Organizacji pokrywa się z uzyskiwanych przez Organizację wpływów w danym roku budżetowym i nadwyżki finansowej z lat ubiegłych. Organizacja nie może zaciągać kredytów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przyznane środki mogą zostać przeznaczone jedynie na cele określone w planie budżetu, o ile nie przewiduje on możliwości przesunięcia środków z innych pozycji na pokrycie niedoborów. Za zgodą obu Przewodniczących Rady może nastąpić przesunięcie środków w celu pokrycia w pełni uzasadnionych i nieprzewidzianych wydatków. O takim przesunięciu należy powiadomić Radę na następnym posiedzeniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Nie wolno wydatkować na ten sam cel środków z różnych pozycji planu budżetu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Wydatki personalne mogą być ponoszone jedynie w zgodzie z odnośnymi przepisami i planem etatów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Na wydatki inwestycyjne i wydatki na pojedyncze przedsięwzięcia o wartości przekraczającej 25 000 euro lub równowartość tej kwoty w złotych polskich konieczna jest zgoda Rady.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Zobowiązania na następne lata mogą być podejmowane wyłącznie na podstawie stosownego upoważnienia do ich podjęcia, zawartego w planie budżetu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Płatności, które inaczej niż w kalkulacji zawartej w planie budżetu dokonane zostały w innej walucie, należy w późniejszym terminie — w miarę możliwości kwartalnie — przetransferować.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Zarządzanie majątkiem"
-    },
     {
      "type": "text",
      "text": "Organizacja obowiązana jest troskliwie zarządzać swoim majątkiem. Nieruchomości i inne środki trwa-"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Anordnungsbefugt is die Geschäftsführung. In begründeten Fällen kann sie die Anordnungsbefugnis auf Beschäftigte übertragen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Die von der Geschäftsführung bevollmächtigten Beschäftigten dürfen Einzahlungen annehmen und Auszahlungen leisten. Die Geschäftsführung kann Entscheidungen zur Gewährung von Barvoschüssen zur Deckung der laufenden Ausgaben aus der Kasse des DPJW treffen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Die Geschäftsführung ist verantwortlich für die zweckgebundene, sparsame und wirtschaftliche Verwendung der Haushaltsmittel. Sie trägt Sorge für eine korrekte Buchführung.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 10"
     },
     {
-     "type": "text",
-     "text": "Verwendung der Haushaltsmittel"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Alle Ausgaben des DPJW sind aus den durch das DPJW im betreffenden Haushaltsjahr erzielten Einnahmen und dem Finanzüberschuss der Vorjahre zu decken. Eine Kreditfinanzierung ist unzulässig.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Die bewilligten Mittel dürfen nur für die im Haushaltsplan bezeichneten Zwecke vorgesehen werden, sofern im Haushaltsplan nicht die Deckungsfähigkeit bestimmter Mittel vorgesehen ist. Unabweisbare und unvorhergesehene Ausgaben können mit Zustimmung der beiden Vorsitzenden des Rates durch eine Mittelübertragung gedeckt werden. Darüber ist der Rat bei seiner nächsten Sitzung zu unterrichten.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Mittel aus verschiedenen Titeln des Haushaltsplans dürfen nicht für denselben Zweck ausgegeben werden.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Personalausgaben dürfen nur in Übereinstimmung mit den einschlägigen Vorschriften und dem Stellenplan geleistet werden.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Investitionsausgaben und Ausgaben für Einzelmaßnahmen, die eine Höhe von 25.000 Euro oder den entsprechenden Gegenwert in Zloty übersteigen, bedürfen der Zustimmung des Rates.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Verpflichtungen zur Leistung von Zweckausgaben in künftigen Jahren dürfen nur aufgrund einer im Haushaltsplan enthaltenen Verpflichtungsermächtigung eingegangen werden.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Für Zahlungen, die entgegen den im Haushaltsplan ausgewiesenen Ansätzen in der jeweils anderen Währung geleistet werden, soll nachträglich — möglichst quartalsweise — ein Rücktransfer erfolgen.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 11"
-    },
-    {
-     "type": "text",
-     "text": "Vermögensverwaltung"
-    },
-    {
-     "type": "text",
-     "text": "Das Jugendwerk ist verpflichtet, sein Vermögen sorgsam zu verwalten. Immobilien und andere łe, z wyjątkiem przedmiotów przeznaczonych do zużycia, należy wykazać w księdze inwentarzowej. Środki pieniężne należy lokować tak, aby zagwarantować ich płynność, zabezpieczyć się przed stratami oraz osiągać odpowiednie zyski."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Zamknięcie roku"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Środki, których cel wydatkowania nie został ustalony do dnia 31 grudnia, oraz środki, których cel wydatkowania został ustalony do dnia 31 grudnia, ale nie zostały one wypłacone do końca roku, stanowią nadwyżkę finansową.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Nadwyżkę finansową należy uwzględnić w przewidywanej wysokości w planie budżetu na rok następny jako wpływy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Sprawozdanie finansowe"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Bezpośrednio po zamknięciu ksiąg Zarząd sporządza roczne sprawozdanie finansowe. Zawiera ono wszystkie wpływy i wydatki zgodnie z kolejnością w planie budżetu. Wszystkie wpływy i wydatki muszą być udokumentowane.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zarząd niezwłocznie przedkłada Radzie, jednak nie później niż na 4 tygodnie przed posiedzeniem Rady, roczne sprawozdanie finansowe razem ze swoim rocznym sprawozdaniem z działalności; takie same materiały przekazuje jednocześnie rewidentom księgowym.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Zmiana roszczeń"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zarządowi wolno jedynie:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "prolongować zapłatę należności finansowych, jeżeli ich natychmiastowe ściągnięcie łączyłoby się ze znaczną uciążliwością, a należność nie będzie zagrożona przez odroczenie terminu płatności. Prolongatę należy przyznawać, stosując odpowiednią stopę oprocentowania, i z reguły jedynie przy gwarancjach zabezpieczających,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Anordnungsbefugt is die Geschäftsführung. In begründeten Fällen kann sie die Anordnungsbefugnis auf Beschäftigte übertragen.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "umorzyć należności, których nieściągalność została udokumentowana:",
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "Die von der Geschäftsführung bevollmächtigten Beschäftigten dürfen Einzahlungen annehmen und Auszahlungen leisten. Die Geschäftsführung kann Entscheidungen zur Gewährung von Barvoschüssen zur Deckung der laufenden Ausgaben aus der Kasse des DPJW treffen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "Die Geschäftsführung ist verantwortlich für die zweckgebundene, sparsame und wirtschaftliche Verwendung der Haushaltsmittel. Sie trägt Sorge für eine korrekte Buchführung.",
      "children": [
       {
        "type": "text",
-       "text": "— postanowieniem o nieściągalności, wydanym przez właściwy organ postępowania egzekucyjnego, lub"
+       "text": "Artikel 10"
       },
       {
        "type": "text",
-       "text": "— postanowieniem sądu o upadłości,"
+       "text": "Verwendung der Haushaltsmittel"
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "umorzyć należności, jeżeli jest pewne, że koszty ich ściągnięcia byłyby wyższe niż te należności lub Vermögensgegenstände, mit Ausnahme von Gegenständen, die zum Verbrauch bestimmt sind, sind in einem Bestandsverzeichnis nachzuweisen. Geldanlagen sind so vorzunehmen, dass die Liquidität gesichert ist, Schutz vor Verlusten besteht und ein angemessener Ertrag erzielt wird.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artikel 12"
-      },
-      {
-       "type": "text",
-       "text": "Rechnungsabschluss"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Bis zum 31. Dezember nicht festgelegte Mittel sowie Mittel, deren Verwendungszweck bis zum 31. Dezember festgelegt wurde, die aber bis zum Jahresende nicht gezahlt wurden, stellen einen Finanzüberschuss dar.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Der Finanzüberschuss ist bei der Erstellung des Haushaltsplans für das nächste Jahr in seiner voraussichtlichen Höhe zu veranschlagen und als Einnahmen auszuweisen.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 13"
-    },
-    {
-     "type": "text",
-     "text": "Rechnungslegung"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Unmittelbar nach Abschluss der Bücher stellt die Geschäftsführung eine Jahresrechnung auf. In dieser Jahresrechnung sind alle Einnahmen und Ausgaben entsprechend der Reihenfolge des Haushaltsplans nachzuweisen. Alle Einnahmen und Ausgaben sind zu belegen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Die Geschäftsführung legt dem Rat unverzüglich, jedoch spätestens vier Wochen vor dessen Sitzung die Jahresrechnung zusammen mit ihrem Jahresbericht vor und leitet gleichzeitig diese Unterlagen den Rechnungsprüfer/innen zu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 14"
-    },
-    {
-     "type": "text",
-     "text": "Umwandlung von Forderungen"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Die Geschäftsführung darf Forderungen nur:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "stunden, wenn die sofortige Einziehung der finanziellen Forderungen mit erheblichen Härten verbunden wäre und die Forderung durch die Stundung nicht gefährdet wird. Eine Stundung soll zu einem angemessen Zinssatz und in der Regel nur gegen Sicherheitsleistung gewährt werden,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Alle Ausgaben des DPJW sind aus den durch das DPJW im betreffenden Haushaltsjahr erzielten Einnahmen und dem Finanzüberschuss der Vorjahre zu decken. Eine Kreditfinanzierung ist unzulässig.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "niederschlagen, wenn die Uneinbringlichkeit durch:",
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Die bewilligten Mittel dürfen nur für die im Haushaltsplan bezeichneten Zwecke vorgesehen werden, sofern im Haushaltsplan nicht die Deckungsfähigkeit bestimmter Mittel vorgesehen ist. Unabweisbare und unvorhergesehene Ausgaben können mit Zustimmung der beiden Vorsitzenden des Rates durch eine Mittelübertragung gedeckt werden. Darüber ist der Rat bei seiner nächsten Sitzung zu unterrichten.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Mittel aus verschiedenen Titeln des Haushaltsplans dürfen nicht für denselben Zweck ausgegeben werden.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "Personalausgaben dürfen nur in Übereinstimmung mit den einschlägigen Vorschriften und dem Stellenplan geleistet werden.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "Investitionsausgaben und Ausgaben für Einzelmaßnahmen, die eine Höhe von 25.000 Euro oder den entsprechenden Gegenwert in Zloty übersteigen, bedürfen der Zustimmung des Rates.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_11/ust_6",
+     "text": "Verpflichtungen zur Leistung von Zweckausgaben in künftigen Jahren dürfen nur aufgrund einer im Haushaltsplan enthaltenen Verpflichtungsermächtigung eingegangen werden.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_11/ust_7",
+     "text": "Für Zahlungen, die entgegen den im Haushaltsplan ausgewiesenen Ansätzen in der jeweils anderen Währung geleistet werden, soll nachträglich — möglichst quartalsweise — ein Rücktransfer erfolgen.",
      "children": [
       {
        "type": "text",
-       "text": "— Unpfändbarkeitsbescheinigung, ausgestellt durch das zuständige Zwangsvollstreckungsorgan, oder"
+       "text": "Artikel 11"
       },
       {
        "type": "text",
-       "text": "— gerichtliche Insolvenzerklärung nachgewiesen wurde,"
+       "text": "Vermögensverwaltung"
+      },
+      {
+       "type": "text",
+       "text": "Das Jugendwerk ist verpflichtet, sein Vermögen sorgsam zu verwalten. Immobilien und andere łe, z wyjątkiem przedmiotów przeznaczonych do zużycia, należy wykazać w księdze inwentarzowej. Środki pieniężne należy lokować tak, aby zagwarantować ich płynność, zabezpieczyć się przed stratami oraz osiągać odpowiednie zyski."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Zamknięcie roku",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Środki, których cel wydatkowania nie został ustalony do dnia 31 grudnia, oraz środki, których cel wydatkowania został ustalony do dnia 31 grudnia, ale nie zostały one wypłacone do końca roku, stanowią nadwyżkę finansową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Nadwyżkę finansową należy uwzględnić w przewidywanej wysokości w planie budżetu na rok następny jako wpływy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Sprawozdanie finansowe",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Bezpośrednio po zamknięciu ksiąg Zarząd sporządza roczne sprawozdanie finansowe. Zawiera ono wszystkie wpływy i wydatki zgodnie z kolejnością w planie budżetu. Wszystkie wpływy i wydatki muszą być udokumentowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Zarząd niezwłocznie przedkłada Radzie, jednak nie później niż na 4 tygodnie przed posiedzeniem Rady, roczne sprawozdanie finansowe razem ze swoim rocznym sprawozdaniem z działalności; takie same materiały przekazuje jednocześnie rewidentom księgowym.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Zmiana roszczeń",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Zarządowi wolno jedynie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/ust_1/lit_a",
+       "text": "prolongować zapłatę należności finansowych, jeżeli ich natychmiastowe ściągnięcie łączyłoby się ze znaczną uciążliwością, a należność nie będzie zagrożona przez odroczenie terminu płatności. Prolongatę należy przyznawać, stosując odpowiednią stopę oprocentowania, i z reguły jedynie przy gwarancjach zabezpieczających,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/ust_1/lit_b",
+       "text": "umorzyć należności, których nieściągalność została udokumentowana:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— postanowieniem o nieściągalności, wydanym przez właściwy organ postępowania egzekucyjnego, lub"
+        },
+        {
+         "type": "text",
+         "text": "— postanowieniem sądu o upadłości,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_14/ust_1/lit_c",
+       "text": "umorzyć należności, jeżeli jest pewne, że koszty ich ściągnięcia byłyby wyższe niż te należności lub Vermögensgegenstände, mit Ausnahme von Gegenständen, die zum Verbrauch bestimmt sind, sind in einem Bestandsverzeichnis nachzuweisen. Geldanlagen sind so vorzunehmen, dass die Liquidität gesichert ist, Schutz vor Verlusten besteht und ein angemessener Ertrag erzielt wird.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Artikel 12"
+        },
+        {
+         "type": "text",
+         "text": "Rechnungsabschluss"
+        }
+       ]
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "erlassen, wenn feststeht, dass die Einziehungskosten die Höhe der Forderungen übersteigen ściągnięcie tych należności oznaczałoby szczególną uciążliwość.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Bis zum 31. Dezember nicht festgelegte Mittel sowie Mittel, deren Verwendungszweck bis zum 31. Dezember festgelegt wurde, die aber bis zum Jahresende nicht gezahlt wurden, stellen einen Finanzüberschuss dar.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Der Finanzüberschuss ist bei der Erstellung des Haushaltsplans für das nächste Jahr in seiner voraussichtlichen Höhe zu veranschlagen und als Einnahmen auszuweisen.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 13"
+      },
+      {
+       "type": "text",
+       "text": "Rechnungslegung"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Unmittelbar nach Abschluss der Bücher stellt die Geschäftsführung eine Jahresrechnung auf. In dieser Jahresrechnung sind alle Einnahmen und Ausgaben entsprechend der Reihenfolge des Haushaltsplans nachzuweisen. Alle Einnahmen und Ausgaben sind zu belegen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Die Geschäftsführung legt dem Rat unverzüglich, jedoch spätestens vier Wochen vor dessen Sitzung die Jahresrechnung zusammen mit ihrem Jahresbericht vor und leitet gleichzeitig diese Unterlagen den Rechnungsprüfer/innen zu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 14"
+      },
+      {
+       "type": "text",
+       "text": "Umwandlung von Forderungen"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Die Geschäftsführung darf Forderungen nur:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/ust_1/lit_a",
+       "text": "stunden, wenn die sofortige Einziehung der finanziellen Forderungen mit erheblichen Härten verbunden wäre und die Forderung durch die Stundung nicht gefährdet wird. Eine Stundung soll zu einem angemessen Zinssatz und in der Regel nur gegen Sicherheitsleistung gewährt werden,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/ust_1/lit_b",
+       "text": "niederschlagen, wenn die Uneinbringlichkeit durch:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— Unpfändbarkeitsbescheinigung, ausgestellt durch das zuständige Zwangsvollstreckungsorgan, oder"
+        },
+        {
+         "type": "text",
+         "text": "— gerichtliche Insolvenzerklärung nachgewiesen wurde,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_14/ust_1/lit_c",
+       "text": "erlassen, wenn feststeht, dass die Einziehungskosten die Höhe der Forderungen übersteigen ściągnięcie tych należności oznaczałoby szczególną uciążliwość.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Umorzenie kwot ponad 2 500 euro bądź ich równowartości w złotych polskich wymaga uprzednio zgody Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Jeżeli prolongata lub umorzenie należności dotyczy Zarządu, konieczna jest każdorazowo uprzednia zgoda Rady.",
+     "children": [
+      {
+       "type": "text",
+       "text": "/dla wyjaśnienia: polskie słowo „umorzyć” oznacza zarówno „Niederschlagung” (rezygnacja ze ściągania), jak i „Erlaß” (rezygnacja z należności)/"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Rewidenci księgowi",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Rewidenci księgowi są powoływani przez Radę na wniosek polskiego i niemieckiego organu kontroli finansowej w charakterze niezależnych biegłych na okres 3 lat. Dopuszczalne jest ich powtórne powołanie. Kontrolują oni rzetelne, prawidłowe i oszczędne gospodarowanie środkami budżetowymi i majątkiem Organizacji w oparciu o niniejsze przepisy finansowe, wytyczne wspierania wymiany młodzieży oraz inne przepisy dotyczące Organizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "W celu przeprowadzenia kontroli należy udzielić rewidentom księgowym koniecznej pomocy; powinni oni otrzymać wszystkie informacje i dowody księgowe uznane przez nich za niezbędne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "We wspólnym sprawozdaniu rocznym rewidenci księgowi informują Zarząd i Radę o wynikach swojej kontroli.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umorzenie kwot ponad 2 500 euro bądź ich równowartości w złotych polskich wymaga uprzednio zgody Rady.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli prolongata lub umorzenie należności dotyczy Zarządu, konieczna jest każdorazowo uprzednia zgoda Rady.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Absolutorium dla Zarządu z realizacji budżetu",
    "children": [
-    {
-     "type": "text",
-     "text": "/dla wyjaśnienia: polskie słowo „umorzyć” oznacza zarówno „Niederschlagung” (rezygnacja ze ściągania), jak i „Erlaß” (rezygnacja z należności)/"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Rewidenci księgowi"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Rewidenci księgowi są powoływani przez Radę na wniosek polskiego i niemieckiego organu kontroli finansowej w charakterze niezależnych biegłych na okres 3 lat. Dopuszczalne jest ich powtórne powołanie. Kontrolują oni rzetelne, prawidłowe i oszczędne gospodarowanie środkami budżetowymi i majątkiem Organizacji w oparciu o niniejsze przepisy finansowe, wytyczne wspierania wymiany młodzieży oraz inne przepisy dotyczące Organizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W celu przeprowadzenia kontroli należy udzielić rewidentom księgowym koniecznej pomocy; powinni oni otrzymać wszystkie informacje i dowody księgowe uznane przez nich za niezbędne.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "We wspólnym sprawozdaniu rocznym rewidenci księgowi informują Zarząd i Radę o wynikach swojej kontroli.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Absolutorium dla Zarządu z realizacji budżetu"
-    },
     {
      "type": "text",
      "text": "Na podstawie kontroli sprawozdania i po zajęciu stanowiska przez Zarząd Rada podejmuje uchwałę o udzieleniu absolutorium Zarządowi z realizacji planu budżetu."
@@ -3949,137 +3956,139 @@
     {
      "type": "text",
      "text": "Jeżeli sprawozdanie rewidentów zawiera zastrzeżenia, a Rada uzna, że stanowisko i wyjaśnienia Zarządu są niewystarczające, absolutorium może zostać wstrzymane do momentu wycofania zastrzeżeń rewidentów w wyniku podjęcia odpowiednich działań przez Zarząd."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    },
-    {
-     "type": "text",
-     "text": "Przepisy końcowe"
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przepisy finansowe należy stosować zgodnie ze wskazaniami Zarządu. Może on wydać w tym celu konieczne przepisy wykonawcze.",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Przepisy końcowe",
    "children": [
     {
-     "type": "text",
-     "text": "würden oder die Einziehung der Forderung eine besondere Härte bedeuten würde."
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Przepisy finansowe należy stosować zgodnie ze wskazaniami Zarządu. Może on wydać w tym celu konieczne przepisy wykonawcze.",
+     "children": [
+      {
+       "type": "text",
+       "text": "würden oder die Einziehung der Forderung eine besondere Härte bedeuten würde."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Niederschlagungen und Erlasse über 2.500 Euro oder den Gegenwert in polnischen Zloty erfordern die vorherige Zustimmung des Rates.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Soweit Stundung, Niederschlagung oder Erlass von Forderungen die Geschäftsführung betreffen, ist die vorherige Zustimmung des Rates in jedem Fall erforderlich.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 15"
+      },
+      {
+       "type": "text",
+       "text": "Rechnungsprüfer/innen"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Die Rechnungsprüfer/innen werden vom Rat auf Vorschlag der polnischen und deutschen Finanzkontrollorgane für die Dauer von 3 Jahren als unabhängige Sachverständige bestellt. Eine wiederholte Berufung ist zulässig. Sie prüfen auf der Grundlage der vorliegenden Finanzordnung, der Förderrichtlinien des DPJW sowie anderer das DPJW betreffenden Vorschriften die ordnungsmäßige, korrekte und sparsame Verwendung der Haushaltsmittel und des Vermögens des DPJW.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Zur Durchführung der Prüfung ist den Rechnungsprüfer/innen die notwendige Hilfe zu leisten; sie erhalten alle Informationen und Buchungsbelege, die sie für unerlässlich erachten.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "In einem gemeinsamen Jahresbericht teilen die Rechnungsprüfer/innen der Geschäftsführung und dem Rat das Ergebnis ihrer Prüfung mit.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 16"
+      },
+      {
+       "type": "text",
+       "text": "Entlastung der Geschäftsführung hinsichtlich der Ausführung des Haushaltsplanes"
+      },
+      {
+       "type": "text",
+       "text": "Nach Prüfung des Berichtes und nach Stellungnahme der Geschäftsführung beschließt der Rat über die Entlastung der Geschäftsführung hinsichtlich der Ausführung des Haushaltsplanes."
+      },
+      {
+       "type": "text",
+       "text": "Enthält der Bericht der Rechnungsprüfer/innen Einwände, und hält der Rat die Stellungnahme und die Erläuterungen der Geschäftsführung nicht für ausreichend, kann die Entlastung bis zu dem Zeitpunkt ausgesetzt werden, bis die Rechnungsprüfer/innen aufgrund der von der Geschäftsführung getroffenen Maßnahmen die Vorbehalte zurücknehmen."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 17"
+      },
+      {
+       "type": "text",
+       "text": "Schlussbestimmungen"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Die Anwendung der Finanzordnung erfolgt nach den Weisungen der Geschäftsführung. Sie kann notwendige Durchführungsvorschriften erlassen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Niniejsze przepisy finansowe mogą zostać zmienione na wniosek Zarządu bądź jednego z obydwu Rządów. Postanowienia o zmianie przepisów finansowych podejmowane są w porozumieniu przez oba Rządy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Niniejsze przepisy finansowe sporządzone w językach polskim i niemieckim mają jednakową moc.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Diese Finanzordnung kann auf Vorschlag der Geschäftsführung oder jeder der beiden Regierungen geändert werden. Änderungsbeschlüsse werden einvernehmlich von beiden Regierungen gefasst.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Diese Finanzordnung ist in ihrer deutschen und polnischen Fassung gleichermaßen verbindlich.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Anlage 1 zu Artikel 13: Funktionsbereiche und Stellen des DPJW Anlage 2 zu Artikel 14: Teil I: Grundvergütung Teil II: Zulagen Anlage 3 zu Artikel 15: Auslandszulagen Anlage 4 zu Artikel 16: Sonderzuwendung und Urlaubsgeld Anlage 5 zu Artikel 16: Schulbeihilfen Anlage 6 zu Artikel 17: Teil I: Reisekosten Teil II: Umzugskosten und Einrichtungsbeihilfen"
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niederschlagungen und Erlasse über 2.500 Euro oder den Gegenwert in polnischen Zloty erfordern die vorherige Zustimmung des Rates.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Soweit Stundung, Niederschlagung oder Erlass von Forderungen die Geschäftsführung betreffen, ist die vorherige Zustimmung des Rates in jedem Fall erforderlich.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 15"
-    },
-    {
-     "type": "text",
-     "text": "Rechnungsprüfer/innen"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Die Rechnungsprüfer/innen werden vom Rat auf Vorschlag der polnischen und deutschen Finanzkontrollorgane für die Dauer von 3 Jahren als unabhängige Sachverständige bestellt. Eine wiederholte Berufung ist zulässig. Sie prüfen auf der Grundlage der vorliegenden Finanzordnung, der Förderrichtlinien des DPJW sowie anderer das DPJW betreffenden Vorschriften die ordnungsmäßige, korrekte und sparsame Verwendung der Haushaltsmittel und des Vermögens des DPJW.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zur Durchführung der Prüfung ist den Rechnungsprüfer/innen die notwendige Hilfe zu leisten; sie erhalten alle Informationen und Buchungsbelege, die sie für unerlässlich erachten.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "In einem gemeinsamen Jahresbericht teilen die Rechnungsprüfer/innen der Geschäftsführung und dem Rat das Ergebnis ihrer Prüfung mit.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 16"
-    },
-    {
-     "type": "text",
-     "text": "Entlastung der Geschäftsführung hinsichtlich der Ausführung des Haushaltsplanes"
-    },
-    {
-     "type": "text",
-     "text": "Nach Prüfung des Berichtes und nach Stellungnahme der Geschäftsführung beschließt der Rat über die Entlastung der Geschäftsführung hinsichtlich der Ausführung des Haushaltsplanes."
-    },
-    {
-     "type": "text",
-     "text": "Enthält der Bericht der Rechnungsprüfer/innen Einwände, und hält der Rat die Stellungnahme und die Erläuterungen der Geschäftsführung nicht für ausreichend, kann die Entlastung bis zu dem Zeitpunkt ausgesetzt werden, bis die Rechnungsprüfer/innen aufgrund der von der Geschäftsführung getroffenen Maßnahmen die Vorbehalte zurücknehmen."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 17"
-    },
-    {
-     "type": "text",
-     "text": "Schlussbestimmungen"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Die Anwendung der Finanzordnung erfolgt nach den Weisungen der Geschäftsführung. Sie kann notwendige Durchführungsvorschriften erlassen.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsze przepisy finansowe mogą zostać zmienione na wniosek Zarządu bądź jednego z obydwu Rządów. Postanowienia o zmianie przepisów finansowych podejmowane są w porozumieniu przez oba Rządy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsze przepisy finansowe sporządzone w językach polskim i niemieckim mają jednakową moc.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Diese Finanzordnung kann auf Vorschlag der Geschäftsführung oder jeder der beiden Regierungen geändert werden. Änderungsbeschlüsse werden einvernehmlich von beiden Regierungen gefasst.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Diese Finanzordnung ist in ihrer deutschen und polnischen Fassung gleichermaßen verbindlich.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Anlage 1 zu Artikel 13: Funktionsbereiche und Stellen des DPJW Anlage 2 zu Artikel 14: Teil I: Grundvergütung Teil II: Zulagen Anlage 3 zu Artikel 15: Auslandszulagen Anlage 4 zu Artikel 16: Sonderzuwendung und Urlaubsgeld Anlage 5 zu Artikel 16: Schulbeihilfen Anlage 6 zu Artikel 17: Teil I: Reisekosten Teil II: Umzugskosten und Einrichtungsbeihilfen"
-    }
-   ]
+   ],
+   "label": "Artykuł 17"
   }
  ],
  "annexes": [],
