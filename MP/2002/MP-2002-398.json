@@ -3741,16 +3741,12 @@
      "num": "80",
      "path": "art_80",
      "text": "W postępowaniu w sprawie ustawy pilnej, której podpisania Prezydent odmówił, Prezydium Sejmu tak określa tok prac nad wnioskiem Prezydenta o ponowne rozpatrzenie ustawy pilnej, aby od dnia wpłynięcia wniosku Prezydenta do dnia ostatecznego rozstrzygnięcia sprawy przez Sejm nie upłynęło więcej niż 7 dni. Art. 64 stosuje się odpowiednio.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział 3[^1]"
-      },
-      {
-       "type": "text",
-       "text": "Przepisy dotyczące udziału Komisji Ustawodawczej w postępowaniu z projektami ustaw i uchwał"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 3",
+     "text": "[^1] Przepisy dotyczące udziału Komisji Ustawodawczej w postępowaniu z projektami ustaw i uchwał"
     },
     {
      "type": "art",

@@ -4160,18 +4160,14 @@
        "num": "2",
        "path": "art_70/ust_2",
        "text": "[^42] Marszałek Sejmu może zwrócić się do komisji o ustosunkowanie się do nieuwzględnionych wniosków lub uwag służby prawnej Kancelarii Sejmu dotyczących istotnych problemów legislacyjnych, a także zgodności z prawem Unii Europejskiej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział 1a[^43]"
-        },
-        {
-         "type": "text",
-         "text": "Wysłuchanie publiczne"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1a",
+     "text": "[^43] Wysłuchanie publiczne"
     },
     {
      "type": "art",
@@ -4854,16 +4850,12 @@
      "num": "86",
      "path": "art_86",
      "text": "Do postępowania z uchwałą Senatu zawierającą poprawki do ustawy uchwalonej przez Sejm albo odrzucającą ustawę w całości przepisy art. 84 i art. 85 stosuje się odpowiednio.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział 3a[^47]"
-      },
-      {
-       "type": "text",
-       "text": "Postępowanie z projektami ustaw o zmianie Konstytucji"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 3a",
+     "text": "[^47] Postępowanie z projektami ustaw o zmianie Konstytucji"
     },
     {
      "type": "art",
@@ -5186,12 +5178,9 @@
      "text": "(uchylony)[^51]"
     },
     {
-     "type": "text",
-     "text": "Rozdział 5a[^52]"
-    },
-    {
-     "type": "text",
-     "text": "Postępowanie z projektami ustaw wykonujących prawo Unii Europejskiej"
+     "type": "heading",
+     "label": "Rozdział 5a",
+     "text": "[^52] Postępowanie z projektami ustaw wykonujących prawo Unii Europejskiej"
     },
     {
      "type": "art",
@@ -6339,16 +6328,12 @@
      "num": "136",
      "path": "art_136",
      "text": "W sprawach, o których mowa w art. 132—135, poseł może ustanowić swojego obrońcę spośród posłów.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział 11a[^77]"
-      },
-      {
-       "type": "text",
-       "text": "Komisja śledcza"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 11a",
+     "text": "[^77] Komisja śledcza"
     },
     {
      "type": "art",
@@ -7075,16 +7060,12 @@
      "num": "148",
      "path": "art_148",
      "text": "[^96] Z uwzględnieniem zmian wynikających z przepisów niniejszego rozdziału, do Komisji Etyki Poselskiej i posłów do niej wybranych stosuje się odpowiednio przepisy Regulaminu Sejmu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział 13a[^97]"
-      },
-      {
-       "type": "text",
-       "text": "Komisja do Spraw Unii Europejskiej"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 13a",
+     "text": "[^97] Komisja do Spraw Unii Europejskiej"
     },
     {
      "type": "art",
@@ -9190,16 +9171,12 @@
      "num": "190",
      "path": "art_190",
      "text": "Sejm uchwala ustawy większością głosów w obecności co najmniej połowy ustawowej liczby posłów, chyba że Konstytucja stanowi inaczej. W tym samym trybie Sejm podejmuje uchwały i inne rozstrzygnięcia, jeżeli przepisy Konstytucji, ustaw albo Regulaminu Sejmu nie stanowią inaczej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział 4[^136]"
-      },
-      {
-       "type": "text",
-       "text": "Interpelacje, informacje bieżące, zapytania poselskie i pytania w sprawach bieżących"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 4",
+     "text": "[^136] Interpelacje, informacje bieżące, zapytania poselskie i pytania w sprawach bieżących"
     },
     {
      "type": "art",
@@ -9678,16 +9655,12 @@
      "num": "202",
      "path": "art_202",
      "text": "Organizację Kancelarii Sejmu określa statut Kancelarii, nadany na wniosek Szefa Kancelarii Sejmu w trybie art. 10 ust. 1 pkt 14.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ IVa[^141]"
-      },
-      {
-       "type": "text",
-       "text": "Dostęp do informacji publicznej"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ IVa",
+     "text": "[^141] Dostęp do informacji publicznej"
     },
     {
      "type": "art",
