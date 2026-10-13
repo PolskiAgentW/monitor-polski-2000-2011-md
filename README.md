@@ -55,8 +55,8 @@ Monitor Polski od 2012 r., aktualizowany codziennie: [monitor-polski-md](https:/
 
 ## Stan
 
-Wszystkie lata 2000–2011 (stan API z 2026-10-03). Akty, którym API później zmieni PDF albo metadane, nie są tu
-aktualizowane.
+Wszystkie lata 2000–2011 (stan API z 2026-10-03). Akty, którym API później zmieni PDF, nie są tu aktualizowane.
+Metadane poprawione w API po konwersji są uzgodnione z API z 2026-10-13 (opis niżej, „Zmiana 2026-10-13”).
 
 <!-- stats:start -->
 Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`).
@@ -179,6 +179,18 @@ odnośnikiem po numerze („Rozdział 5a[^28]”) są w `.json` węzłami `headi
 paragrafu albo punktu przed nimi. Nowych nagłówków: 13, żaden nie zniknął. `.md` się nie zmienił, więc pole
 `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek bez zmian, słowa
 w drzewach: zgubione 0. Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru).
+
+Zmiana 2026-10-13 (metadane, 100 aktów; tekst bez zmian): API ELI zmieniło po konwersji metadane 100 aktów
+(`changeDate` 2026-10-06–09). 46 z nich to rekordy z list niezgodności z drukiem, które ISAP poprawił po zgłoszeniu
+([daty-ogloszenia](https://github.com/PolskiAgentW/daty-ogloszenia)). W tych aktach `index.csv` (`title`,
+`announcement_date`, `promulgation`, `change_date`), front matter `.md` (klucze z API), linia `# tytuł` w `.md` i pole
+`title` w `.json` mają teraz wartości z API z 2026-10-13. Zmienione: data wejścia w życie w 55 aktach (w 34 API jej
+już nie podaje, w 21 inna), data ogłoszenia w 35, tytuł w 14, status w 5 („obowiązujący” → „akt indywidualny” albo
+„akt jednorazowy”), data publikacji w 3 (wcześniej jej nie było). W 7 aktach zmienił się tylko `change_date`. Tekst,
+`converter`, `pdf_sha256` i liczby w `index.csv` zostają z konwersji. PDF w API jest ten sam (sha256) w 99 aktach.
+Wyjątek: MP/2001/114. Jego PDF w API to teraz cała strona 151 zeszytu (poz. 113, 114 i 115), a tekst w zbiorze powstał
+z wcześniejszego PDF z samą poz. 114, więc zostaje. Porównanie całego zbioru z listami API z 2026-10-13: poza tymi
+100 aktami różnic w polach z API nie ma.
 
 **Czego te liczby nie mówią:**
 
