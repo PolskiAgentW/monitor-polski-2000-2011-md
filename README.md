@@ -56,7 +56,7 @@ Monitor Polski od 2012 r., aktualizowany codziennie: [monitor-polski-md](https:/
 ## Stan
 
 Wszystkie lata 2000–2011 (stan API z 2026-10-03). Akty, którym API później zmieni PDF, nie są tu aktualizowane.
-Metadane (daty, tytuł, status, słowa kluczowe) uzgadnia z API ELI co tydzień workflow „Metadane” (od 2026-10-13):
+Metadane (daty, tytuł, status, słowa kluczowe) uzgadnia z API ELI codziennie workflow „Metadane” (od 2026-10-14):
 akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.csv`, front matter, linii `# tytuł`
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
