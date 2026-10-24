@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/47",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2009 r. w sprawie ogłoszenia jednolitego tekstu uchwały Sejmu Rzeczypospolitej Polskiej - Regulamin Sejmu Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/47/text.pdf",
  "body": [
   {
@@ -6600,7 +6600,14 @@
        "type": "ust",
        "num": "3",
        "path": "art_138/ust_3",
-       "text": "(uchylony).[^79] 4.[^80] Dostęp członków Komisji do informacji niejawnych stanowiących tajemnicę państwową określają przepisy ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z 2005 r. Nr 196, poz. 1631, z późn. zm.[^81]).",
+       "text": "(uchylony).[^79]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_138/ust_4",
+       "text": "[^80] Dostęp członków Komisji do informacji niejawnych stanowiących tajemnicę państwową określają przepisy ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z 2005 r. Nr 196, poz. 1631, z późn. zm.[^81]).",
        "children": []
       }
      ]
@@ -8309,7 +8316,14 @@
          "type": "pkt",
          "num": "14d",
          "path": "art_169/ust_2/pkt_14d",
-         "text": "[^117] roczne sprawozdania Prezesa Narodowego Banku Polskiego z działalności Narodowego Banku Polskiego, 14e)[^117] coroczne sprawozdania z działalności Krajowej Rady Radiofonii i Telewizji,",
+         "text": "[^117] roczne sprawozdania Prezesa Narodowego Banku Polskiego z działalności Narodowego Banku Polskiego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "14e",
+         "path": "art_169/ust_2/pkt_14e",
+         "text": "[^117] coroczne sprawozdania z działalności Krajowej Rady Radiofonii i Telewizji,",
          "children": []
         },
         {

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/542",
  "title": "Obwieszczenie Marszałka Senatu Rzeczypospolitej Polskiej dnia 13 maja 2010 r. w sprawie ogłoszenia jednolitego tekstu uchwały Senatu Rzeczypospolitej Polskiej - Regulamin Senatu",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/542/text.pdf",
  "body": [
   {
@@ -146,7 +146,7 @@
      "type": "pkt",
      "num": "1",
      "path": "ust_2/pkt_1",
-     "text": "a rt. 2 i 3 uchwały Senatu Rzeczypospolitej Polskiej z dnia 19 marca 2004 r. w sprawie zmiany Regulaminu Senatu (M. P. Nr 15, poz. 232), które stanowią:",
+     "text": "art. 2 i 3 uchwały Senatu Rzeczypospolitej Polskiej z dnia 19 marca 2004 r. w sprawie zmiany Regulaminu Senatu (M. P. Nr 15, poz. 232), które stanowią:",
      "children": [
       {
        "type": "text",
@@ -182,7 +182,7 @@
      "type": "pkt",
      "num": "3",
      "path": "ust_2/pkt_3",
-     "text": "a rt. 2 uchwały Senatu Rzeczypospolitej Polskiej z dnia 27 października 2005 r. w sprawie zmiany Regulaminu Senatu (M. P. Nr 65, poz. 894), który stanowi:",
+     "text": "art. 2 uchwały Senatu Rzeczypospolitej Polskiej z dnia 27 października 2005 r. w sprawie zmiany Regulaminu Senatu (M. P. Nr 65, poz. 894), który stanowi:",
      "children": [
       {
        "type": "text",
@@ -314,7 +314,7 @@
      "type": "pkt",
      "num": "12",
      "path": "ust_2/pkt_12",
-     "text": "a rt. 2 uchwały Senatu Rzeczypospolitej Polskiej z dnia 7 lutego 2008 r. w sprawie zmiany Regulaminu Senatu (M. P. Nr 14, poz. 146), który stanowi:",
+     "text": "art. 2 uchwały Senatu Rzeczypospolitej Polskiej z dnia 7 lutego 2008 r. w sprawie zmiany Regulaminu Senatu (M. P. Nr 14, poz. 146), który stanowi:",
      "children": [
       {
        "type": "text",
@@ -745,14 +745,14 @@
          "type": "pkt",
          "num": "18",
          "path": "art_8/ust_1/pkt_18",
-         "text": "n adaje, w drodze zarządzenia, statut Kancelarii Senatu po zasięgnięciu opinii Prezydium Senatu oraz Komisji Regulaminowej, Etyki i Spraw Senatorskich,",
+         "text": "nadaje, w drodze zarządzenia, statut Kancelarii Senatu po zasięgnięciu opinii Prezydium Senatu oraz Komisji Regulaminowej, Etyki i Spraw Senatorskich,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "19",
          "path": "art_8/ust_1/pkt_19",
-         "text": "p owołuje i odwołuje Szefa Kancelarii Senatu po zasięgnięciu opinii Prezydium Senatu oraz Komisji Regulaminowej, Etyki i Spraw Senatorskich,",
+         "text": "powołuje i odwołuje Szefa Kancelarii Senatu po zasięgnięciu opinii Prezydium Senatu oraz Komisji Regulaminowej, Etyki i Spraw Senatorskich,",
          "children": []
         },
         {
@@ -811,35 +811,35 @@
        "type": "pkt",
        "num": "2",
        "path": "art_9/pkt_2",
-       "text": "z leca komisjom rozpatrzenie spraw w określonym zakresie,",
+       "text": "zleca komisjom rozpatrzenie spraw w określonym zakresie,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "art_9/pkt_3",
-       "text": "u stala zasady organizowania doradztwa naukowego na rzecz Senatu i jego organów, powoływania doradców oraz korzystania z opinii i ekspertyz,",
+       "text": "ustala zasady organizowania doradztwa naukowego na rzecz Senatu i jego organów, powoływania doradców oraz korzystania z opinii i ekspertyz,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "art_9/pkt_4",
-       "text": "c zuwa nad wykonywaniem przez senatorów ich obowiązków,",
+       "text": "czuwa nad wykonywaniem przez senatorów ich obowiązków,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "5",
        "path": "art_9/pkt_5",
-       "text": "o piniuje sprawy wniesione przez Marszałka Senatu,",
+       "text": "opiniuje sprawy wniesione przez Marszałka Senatu,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "6",
        "path": "art_9/pkt_6",
-       "text": "p odejmuje inne czynności wynikające z Regulaminu Senatu.",
+       "text": "podejmuje inne czynności wynikające z Regulaminu Senatu.",
        "children": []
       }
      ]
@@ -1111,14 +1111,14 @@
          "type": "pkt",
          "num": "10",
          "path": "art_15/ust_1/pkt_10",
-         "text": "S amorządu Terytorialnego i Administracji Państwowej,",
+         "text": "Samorządu Terytorialnego i Administracji Państwowej,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "11",
          "path": "art_15/ust_1/pkt_11",
-         "text": "S praw Emigracji i Łączności z Polakami za Granicą,",
+         "text": "Spraw Emigracji i Łączności z Polakami za Granicą,",
          "children": []
         },
         {
@@ -1658,7 +1658,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_24/ust_2/pkt_1",
-         "text": "z wrócić senatorowi uwagę i zobowiązać go do właściwego postępowania,",
+         "text": "zwrócić senatorowi uwagę i zobowiązać go do właściwego postępowania,",
          "children": []
         },
         {
@@ -2992,14 +2992,14 @@
          "type": "pkt",
          "num": "2",
          "path": "art_54/ust_1/pkt_2",
-         "text": "g łosowanie nad wnioskiem o przyjęcie ustawy bez poprawek,",
+         "text": "głosowanie nad wnioskiem o przyjęcie ustawy bez poprawek,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "art_54/ust_1/pkt_3",
-         "text": "g łosowanie nad poprawkami do poszczególnych artykułów lub ustępów, według kolejności przepisów ustawy:",
+         "text": "głosowanie nad poprawkami do poszczególnych artykułów lub ustępów, według kolejności przepisów ustawy:",
          "children": [
           {
            "type": "lit",
@@ -3064,14 +3064,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_54/ust_4/pkt_1",
-         "text": "w niosków do uchwały Sejmu, o której mowa w art. 72 ust. 1, wykraczających poza zakres określony w art. 72 ust. 3,",
+         "text": "wniosków do uchwały Sejmu, o której mowa w art. 72 ust. 1, wykraczających poza zakres określony w art. 72 ust. 3,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_54/ust_4/pkt_2",
-         "text": "w niosków do projektu, o którym mowa w art. 85a ust. 3 pkt 1, wykraczających poza zakres określony w art. 85c.",
+         "text": "wniosków do projektu, o którym mowa w art. 85a ust. 3 pkt 1, wykraczających poza zakres określony w art. 85c.",
          "children": []
         }
        ]
@@ -4228,14 +4228,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_82/ust_6/pkt_1",
-         "text": "g łosowanie nad wnioskiem o odrzucenie projektu,",
+         "text": "głosowanie nad wnioskiem o odrzucenie projektu,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_82/ust_6/pkt_2",
-         "text": "g łosowanie nad poprawkami do poszczególnych artykułów lub ustępów, według kolejności przepisów projektu,",
+         "text": "głosowanie nad poprawkami do poszczególnych artykułów lub ustępów, według kolejności przepisów projektu,",
          "children": []
         },
         {
@@ -4432,14 +4432,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_85a/ust_3/pkt_1",
-         "text": "s kłada do Marszałka Senatu wniosek o podjęcie inicjatywy ustawodawczej wraz z projektem ustawy wykonującej orzeczenie Trybunału Konstytucyjnego albo",
+         "text": "składa do Marszałka Senatu wniosek o podjęcie inicjatywy ustawodawczej wraz z projektem ustawy wykonującej orzeczenie Trybunału Konstytucyjnego albo",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_85a/ust_3/pkt_2",
-         "text": "i nformuje Marszałka Senatu o przyczynach niezłożenia wniosku o podjęcie inicjatywy ustawodawczej.",
+         "text": "informuje Marszałka Senatu o przyczynach niezłożenia wniosku o podjęcie inicjatywy ustawodawczej.",
          "children": []
         }
        ]
@@ -4814,7 +4814,14 @@
          "type": "pkt",
          "num": "2",
          "path": "art_91/ust_1/pkt_2",
-         "text": "na powołanie i odwołanie Prezesa Najwyższej Izby Kontroli oraz Rzecznika Praw Dziecka w ciągu miesiąca od dnia przekazania Senatowi odpowiedniej uchwały Sejmu, 3)[^73] na powołanie i odwołanie Generalnego Inspektora Ochrony Danych Osobowych, Prezesa Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Prezesa Urzędu Komunikacji Elektronicznej.",
+         "text": "na powołanie i odwołanie Prezesa Najwyższej Izby Kontroli oraz Rzecznika Praw Dziecka w ciągu miesiąca od dnia przekazania Senatowi odpowiedniej uchwały Sejmu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_91/ust_1/pkt_3",
+         "text": "[^73] na powołanie i odwołanie Generalnego Inspektora Ochrony Danych Osobowych, Prezesa Instytutu Pamięci Narodowej — Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Prezesa Urzędu Komunikacji Elektronicznej.",
          "children": []
         }
        ]
@@ -5075,35 +5082,35 @@
        "type": "pkt",
        "num": "2",
        "path": "art_98/pkt_2",
-       "text": "g romadzenie i udostępnianie materiałów dla senatorów, przygotowywanie oraz przedstawianie właściwym organom Senatu opracowań i materiałów wspomagających działalność Senatu i jego organów, inicjowanie takich opracowań i materiałów oraz koordynowanie prac ekspertów senackich,",
+       "text": "gromadzenie i udostępnianie materiałów dla senatorów, przygotowywanie oraz przedstawianie właściwym organom Senatu opracowań i materiałów wspomagających działalność Senatu i jego organów, inicjowanie takich opracowań i materiałów oraz koordynowanie prac ekspertów senackich,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "art_98/pkt_3",
-       "text": "w ykonywanie czynności związanych z realizacją prawa obywateli do uzyskiwania informacji o działalności Senatu i jego organów,",
+       "text": "wykonywanie czynności związanych z realizacją prawa obywateli do uzyskiwania informacji o działalności Senatu i jego organów,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "art_98/pkt_4",
-       "text": "z apewnienie organizacyjnych oraz technicznych warunków działania Senatu i jego organów,",
+       "text": "zapewnienie organizacyjnych oraz technicznych warunków działania Senatu i jego organów,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "5",
        "path": "art_98/pkt_5",
-       "text": "z apewnienie techniczno-organizacyjnych i finansowych warunków działalności biur senatorskich lub innych jednostek organizacyjnych do obsługi terenowej senatorów,",
+       "text": "zapewnienie techniczno-organizacyjnych i finansowych warunków działalności biur senatorskich lub innych jednostek organizacyjnych do obsługi terenowej senatorów,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "6",
        "path": "art_98/pkt_6",
-       "text": "p rzygotowanie projektu budżetu Kancelarii Senatu i sporządzanie sprawozdań z jego wykonania.",
+       "text": "przygotowanie projektu budżetu Kancelarii Senatu i sporządzanie sprawozdań z jego wykonania.",
        "children": []
       }
      ]
@@ -5262,14 +5269,14 @@
        "type": "pkt",
        "num": "13",
        "path": "art_103/pkt_13",
-       "text": "K omisji Spraw Zagranicznych — polityka zagraniczna państwa, kontakty międzyparlamentarne i międzynarodowe stosunki gospodarcze;",
+       "text": "Komisji Spraw Zagranicznych — polityka zagraniczna państwa, kontakty międzyparlamentarne i międzynarodowe stosunki gospodarcze;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "14",
        "path": "art_103/pkt_14",
-       "text": "K omisji Środowiska — ochrona i kształtowanie środowiska, ochrona zasobów naturalnych, gospodarka wodna, geologia, leśnictwo i gospodarka leśna, łowiectwo, edukacja ekologiczna, gospodarka finansowa państwa w zakresie ochrony środowiska, atomistyka i ochrona radiologiczna, współpraca z zagranicą w zakresie ekologii;",
+       "text": "Komisji Środowiska — ochrona i kształtowanie środowiska, ochrona zasobów naturalnych, gospodarka wodna, geologia, leśnictwo i gospodarka leśna, łowiectwo, edukacja ekologiczna, gospodarka finansowa państwa w zakresie ochrony środowiska, atomistyka i ochrona radiologiczna, współpraca z zagranicą w zakresie ekologii;",
        "children": []
       },
       {
@@ -5283,7 +5290,7 @@
        "type": "pkt",
        "num": "16",
        "path": "art_103/pkt_16",
-       "text": "K omisji Zdrowia — promocja zdrowia, profilaktyka, system organizacji ochrony zdrowia, bezpieczeństwo zdrowotne i współpraca z zagranicą w zakresie zdrowia.",
+       "text": "Komisji Zdrowia — promocja zdrowia, profilaktyka, system organizacji ochrony zdrowia, bezpieczeństwo zdrowotne i współpraca z zagranicą w zakresie zdrowia.",
        "children": []
       }
      ]

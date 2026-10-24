@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`).
+Stan na 2026-10-24 20:51 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +82,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 542, razem 20203 z 4825
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 805.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11497), eli2md 0.6.24 (480).
+Wersje konwertera: eli2md 0.6.22 (11495), eli2md 0.6.24 (480), eli2md 0.6.61 (2).
 <!-- stats:end -->
 
 ## Zawartość
@@ -193,6 +193,12 @@ już nie podaje, w 21 inna), data ogłoszenia w 35, tytuł w 14, status w 5 („
 Wyjątek: MP/2001/114. Jego PDF w API to teraz cała strona 151 zeszytu (poz. 113, 114 i 115), a tekst w zbiorze powstał
 z wcześniejszego PDF z samą poz. 114, więc zostaje. Porównanie całego zbioru z listami API z 2026-10-13: poza tymi
 100 aktami różnic w polach z API nie ma.
+
+Zmiana 2026-10-24 (eli2md 0.6.61, 2 akty; opis w README eli2md, wpis 0.6.61): oznaczenie punktu z odnośnikiem na początku
+wiersza doklejało się do poprzedniego akapitu: „14d)[^117] roczne sprawozdania Prezesa Narodowego Banku Polskiego…,
+14e)[^117] coroczne sprawozdania…” (MP/2009/47). Teraz zaczyna osobną jednostkę. Przeliczyłem ponownie (z eli2md 0.6.22
+na 0.6.61) 2 akty, w których to wystąpiło: MP/2009/47 (te same słowa) i MP/2010/542. W MP/2010/542 wracają też
+wyrazy rozdzielone po pierwszej literze: „a rt. 2” → „art. 2”, „z leca” → „zleca” (te same znaki).
 
 **Czego te liczby nie mówią:**
 
