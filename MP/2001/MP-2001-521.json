@@ -1,24 +1,16 @@
 {
  "eli": "MP/2001/521",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 10 września 2001 r. w sprawie wytycznych dotyczących trybu i sposobu wykonywania przez okręgowe komisje wyborcze zadań związanych z ustaleniem wyników głosowania i wyników wyborów do Sejmu i do Senatu zarządzonych na dzień 23 września 2001 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/521/text.pdf",
  "body": [
-  {
-   "type": "text",
-   "text": "Monitor Polski N r 31 — 794 — Poz. 521"
-  },
-  {
-   "type": "text",
-   "text": "521"
-  },
   {
    "type": "text",
    "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
   },
   {
    "type": "text",
-   "text": "zdnia 10 września 2001 r."
+   "text": "z dnia 10 września 2001 r."
   },
   {
    "type": "text",
@@ -26,14 +18,25 @@
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 40 ust. 1 ustawy zdnia 12 kwiet- i wyników wyborów do Sejmu i do Senatu zarządzonia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypo- nych na dzień 23 września 2001 r., stanowiące załączspolitej Polskiej i do Senatu Rzeczypospolitej Polskiej nik do uchwały. (Dz. U. Nr 46, poz. 499 iNr 74, poz. 786) Państwowa Komisja Wyborcza uchwala, co następuje: § 2. Uchwała wchodzi wżycie zdniem podjęcia."
+   "text": "Na podstawie art. 40 ust. 1 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786) Państwowa Komisja Wyborcza uchwala, co następuje:"
   },
   {
    "type": "par",
    "num": "1",
    "path": "par_1",
-   "text": "Ustala się wytyczne dotyczące trybu isposobu wykonywania przez okręgowe komisje wyborcze za- Przewodniczący Państwowej Komisji Wyborczej: dań związanych z ustalaniem wyników głosowania F. Rymarz",
+   "text": "Ustala się wytyczne dotyczące trybu i sposobu wykonywania przez okręgowe komisje wyborcze zadań związanych z ustalaniem wyników głosowania i wyników wyborów do Sejmu i do Senatu zarządzonych na dzień 23 września 2001 r., stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
    "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz"
+    },
     {
      "type": "text",
      "text": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 10 września 2001 r. (poz. 521)"
@@ -44,147 +47,382 @@
     },
     {
      "type": "text",
-     "text": "dotyczące trybu isposobu wykonywania przez okręgowe komisje wyborcze zadań związanych zustalaniem wyników głosowania iwyników wyborów do Sejmu ido Senatu zarządzonych na dzień 23 września 2001 r."
+     "text": "dotyczące trybu i sposobu wykonywania przez okręgowe komisje wyborcze zadań związanych z ustalaniem wyników głosowania i wyników wyborów do Sejmu i do Senatu zarządzonych na dzień 23 września 2001 r."
     },
     {
      "type": "ust",
      "num": "1",
-     "path": "par_1/ust_1",
-     "text": "Zadania w czasie głosowania natora z powodu rozwiązania komitetu wyborczego (art. 153 ust. 4 wzwiązku zart. 103 ust. 3 Ordynacji wy- Okręgowa komisja wyborcza powinna zawczasu borczej). Niezbędne jest pełnienie dyżurów przez praustalić szczegółowy plan zadań podejmowanych cowników urzędów gmin w godzinach otwarcia lokali wdniu poprzedzającym wybory iwdniu wyborów oraz wyborczych, wcelu udzielania obwodowym komisjom zasady współdziałania zwójtem iburmistrzem (prezy- wyborczym informacji, októrych mowa wart. 67 ust. 2 dentem miasta). Należy uwzględnić w szczególności pkt 2 Ordynacji wyborczej. potrzebę pilnego wydrukowania i dostarczenia do obwodów głosowania obwieszczeń informujących 2. Przekazanie protokołów głosowania przez ozmianach na liście kandydatów, ustalić dyżury wgmi- obwodowe komisje wyborcze nach, telefony ifaksy kontaktowe, zabezpieczyć środki transportu. W dniu głosowania niezbędne jest pełnie- Okręgowa komisja wyborcza ustala sposób przyjmonie dyżurów członków okręgowej komisji wyborczej wania protokołów głosowania z obwodów i informuje w celu rozstrzygania spraw związanych z wyborami, o tych ustaleniach przewodniczących obwodowych konp. podjęcia uchwały o skreśleniu kandydata bądź misji wyborczych. Okręgowa komisja wyborcza powinunieważnieniu rejestracji listy, a także rozpatrywania na powiązać organizację odbioru protokołów z czynnoskarg i udzielania pomocy w razie zaistnienia nieprze- ściami wykonywanymi przez pełnomocników do sprawwidzianych sytuacji. Okręgowa komisja wyborcza,do- dzania zgodności arytmetycznej wyników głosowania konując wdniu wyborów skreślenia kandydata zzare- wobwodzie. Plan odbioru protokołów przygotowuje się, jestrowanej listy lub kandydata na senatora zprzyczyn mając na uwadze zapewnienie prawidłowego isprawnewskazanych wart. 153 ust. 1 ustawy zdnia 12 kwietnia go przekazania protokołów ze wszystkich obwodów. 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospo- Plan sporządza się według następujących założeń: litej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786), zwanej dalej Protokoły są dostarczane przez przewodniczących „Ordynacją wyborczą”, lub unieważniając rejestrację obwodowych komisji wyborczych lub ich zastępców listy okręgowej zprzyczyny wskazanej wart. 153 ust.3 bezpośrednio do okręgowej komisji wyborczej albo do Ordynacji wyborczej,powinna niezwłocznie przekazać rejonowych punktów odbioru protokołów. Przekazytreść stosownego obwieszczenia do obwodowych ko- wanie protokołów z obwodów bezpośrednio do okręmisji wyborczych, celem powiadomienia otym wybor- gowej komisji wyborczej należy stosować, jeżeli obców. Wdniu wyborów nie jest dopuszczalne unieważ- wód położony jest blisko jej siedziby, w szczególności nienie rejestracji listy okręgowej lub kandydata na se- wtej samej miejscowości.",
+     "path": "par_2/ust_1",
+     "text": "Zadania w czasie głosowania",
      "children": [
       {
        "type": "text",
-       "text": "Monitor Polski N r 31 — 795 — Poz. 521"
+       "text": "Okręgowa komisja wyborcza powinna zawczasu ustalić szczegółowy plan zadań podejmowanych w dniu poprzedzającym wybory i w dniu wyborów oraz zasady współdziałania z wójtem i burmistrzem (prezydentem miasta). Należy uwzględnić w szczególności potrzebę pilnego wydrukowania i dostarczenia do obwodów głosowania obwieszczeń informujących o zmianach na liście kandydatów, ustalić dyżury w gminach, telefony i faksy kontaktowe, zabezpieczyć środki transportu. W dniu głosowania niezbędne jest pełnienie dyżurów członków okręgowej komisji wyborczej w celu rozstrzygania spraw związanych z wyborami, np. podjęcia uchwały o skreśleniu kandydata bądź unieważnieniu rejestracji listy, a także rozpatrywania skarg i udzielania pomocy w razie zaistnienia nieprzewidzianych sytuacji. Okręgowa komisja wyborcza, dokonując w dniu wyborów skreślenia kandydata z zarejestrowanej listy lub kandydata na senatora z przyczyn wskazanych w art. 153 ust. 1 ustawy z dnia 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786), zwanej dalej „Ordynacją wyborczą”, lub unieważniając rejestrację listy okręgowej z przyczyny wskazanej w art. 153 ust. 3 Ordynacji wyborczej, powinna niezwłocznie przekazać treść stosownego obwieszczenia do obwodowych komisji wyborczych, celem powiadomienia o tym wyborców. W dniu wyborów nie jest dopuszczalne unieważnienie rejestracji listy okręgowej lub kandydata na senatora z powodu rozwiązania komitetu wyborczego (art. 153 ust. 4 w związku z art. 103 ust. 3 Ordynacji wyborczej). Niezbędne jest pełnienie dyżurów przez pracowników urzędów gmin w godzinach otwarcia lokali wyborczych, w celu udzielania obwodowym komisjom wyborczym informacji, o których mowa w art. 67 ust. 2 pkt 2 Ordynacji wyborczej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przekazanie protokołów głosowania przez obwodowe komisje wyborcze",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okręgowa komisja wyborcza ustala sposób przyjmowania protokołów głosowania z obwodów i informuje o tych ustaleniach przewodniczących obwodowych komisji wyborczych. Okręgowa komisja wyborcza powinna powiązać organizację odbioru protokołów z czynnościami wykonywanymi przez pełnomocników do sprawdzania zgodności arytmetycznej wyników głosowania w obwodzie. Plan odbioru protokołów przygotowuje się, mając na uwadze zapewnienie prawidłowego i sprawnego przekazania protokołów ze wszystkich obwodów. Plan sporządza się według następujących założeń:"
       },
       {
        "type": "text",
-       "text": "Rejonem może być miasto, gmina lub kilka gmin. — wykonaniu obliczeń niezbędnych do ustalenia wy- Wielkość rejonu dostosowuje się do warunków lokal- ników wyborów wokręgu wyborczym, nych, liczby obwodów, dogodności połączeń komunikacyjnych. W dużych aglomeracjach miejskich może — przekazaniu (teletransmisji) wyników głosowania być utworzonych kilka punktów odbioru protokołów; i wyników wyborów do Państwowej Komisji Wyich liczba powinna być dostosowana do liczby obwo- borczej. dów iwarunków komunikacyjnych. Wszystkie czynności dotyczące wprowadzania da- Siedziby punktów rejonowych odbioru protokołów nych oraz obliczeniowe będą wykonywane w siedzinależy lokalizować wurzędach miast igmin, urzędach bie okręgowej komisji wyborczej i pod nadzorem tej dzielnic, awszczególnych wypadkach—winnych bu- komisji. dynkach organów administracji samorządowej. Bezpośredni nadzór merytoryczny i organizacyjny nad funkcjonowaniem systemu informatycznego W punktach rejonowych protokoły odbierane są wspomagającego pracę okręgowej komisji wyborczej wzapieczętowanych kopertach, za pokwitowaniem. Są będzie sprawował pełnomocnik do spraw informatyczone dostarczane bez otwierania kopert okręgowej ko- nej obsługi wyborów, zwany dalej „pełnomocnikiem misji wyborczej. Przy czynnościach przekazywania ko- informatycznym”, pod bezpośrednim nadzorem przepert zprotokołami wrejonach mogą być obecni mężo- wodniczącego okręgowej komisji wyborczej. wie zaufania wyznaczeni do obwodowych komisji wyborczych. Ważne jest zapewnienie dyżuru i łączności 4. Przyjmowanie protokołów głosowania od zczłonkami poszczególnych obwodowych komisji wy- obwodowych komisji wyborczych borczych do czasu stwierdzenia przez okręgową komisję wyborczą, że protokół głosowania został sporzą- Okręgowa komisja wyborcza tak organizuje swoją dzony prawidłowo, ipowiadomienie otym dyżurujące- pracę, aby zchwilą zakończenia głosowania była gotogo członka komisji obwodowej. wa do przyjmowania protokołów od obwodowych komisji wyborczych."
+       "text": "Protokoły są dostarczane przez przewodniczących obwodowych komisji wyborczych lub ich zastępców bezpośrednio do okręgowej komisji wyborczej albo do rejonowych punktów odbioru protokołów. Przekazywanie protokołów z obwodów bezpośrednio do okręgowej komisji wyborczej należy stosować, jeżeli obwód położony jest blisko jej siedziby, w szczególności w tej samej miejscowości."
+      },
+      {
+       "type": "text",
+       "text": "Rejonem może być miasto, gmina lub kilka gmin. Wielkość rejonu dostosowuje się do warunków lokalnych, liczby obwodów, dogodności połączeń komunikacyjnych. W dużych aglomeracjach miejskich może być utworzonych kilka punktów odbioru protokołów; ich liczba powinna być dostosowana do liczby obwodów i warunków komunikacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "Siedziby punktów rejonowych odbioru protokołów należy lokalizować w urzędach miast i gmin, urzędach dzielnic, a w szczególnych wypadkach — w innych budynkach organów administracji samorządowej."
+      },
+      {
+       "type": "text",
+       "text": "W punktach rejonowych protokoły odbierane są w zapieczętowanych kopertach, za pokwitowaniem. Są one dostarczane bez otwierania kopert okręgowej komisji wyborczej. Przy czynnościach przekazywania kopert z protokołami w rejonach mogą być obecni mężowie zaufania wyznaczeni do obwodowych komisji wyborczych. Ważne jest zapewnienie dyżuru i łączności z członkami poszczególnych obwodowych komisji wyborczych do czasu stwierdzenia przez okręgową komisję wyborczą, że protokół głosowania został sporządzony prawidłowo, i powiadomienie o tym dyżurującego członka komisji obwodowej."
       }
      ]
     },
     {
      "type": "ust",
      "num": "3",
-     "path": "par_1/ust_3",
-     "text": "Zakres stosowania systemu informatycznego Przy przekazywaniu okręgowej komisji protokołów Wcelu usprawnienia prac związanych zustaleniem głosowania zobwodów mogą być obecni mężowie zawyników głosowania iwyników wyborów Państwowa ufania wyznaczeni do okręgowej komisji wyborczej Komisja Wyborcza na podstawie art. 41 ust. 1, art. 164 (art. 154 ust. 3), a także mężowie zaufania wyznaczeni ust. 6, art. 170 ust. 1 i art. 205 ust. 6 Ordynacji wybor- do obwodowej komisji wyborczej, jeżeli przybyli do czej określa następujące zasady i sposób wykorzysta- siedziby okręgowej komisji razem z przewodniczącym nia elektronicznego systemu przesyłania iprzetwarza- komisji obwodowej. Przy dalszych czynnościach nia danych: w okręgowej komisji wyborczej uczestniczą mężowie zaufania zgłoszeni do okręgowej komisji. System informatyczny prowadzenia prac obliczeniowych stosuje się dla wspomagania ustalenia wyni- Stosownie do art. 154 ust. 3 iodpowiednio art. 164 ków głosowania i wyborów przez okręgowe komisje ust. 5, 167 ust. 2, 168 ust. 4, 205 ust. 5 i206 ust. 2 Ordywyborcze. Wszelkie czynności związane zprzygotowa- nacji wyborczej funkcję mężów zaufania przy okręgoniem organizacyjnym, wdrożeniem i funkcjonowa- wej komisji wyborczej pełnią pełnomocnicy wyborczy niem systemu informatycznego podlegają nadzorowi komitetów wyborczych lub osoby przez nich upoważikontroli odpowiednio Państwowej Komisji Wyborczej nione do zgłoszenia listy okręgowej lub kandydata na iwłaściwej okręgowej komisji wyborczej. senatora. Jeżeli do pełnienia funkcji męża zaufania została wyznaczona inna osoba niż zgłaszająca listę bądź Zadania związane zwykorzystaniem systemu infor- kandydata na senatora, przy czynnościach wskazanych matycznego wykonuje Zespół Informatyki Krajowego wtych przepisach pełni ona funkcję osoby zgłaszającej Biura Wyborczego oraz służby informatyczne przy listę lub kandydata. okręgowych komisjach wyborczych. Oprogramowanie systemu zostanie przygotowane na zlecenie Krajowe- Przyjmując protokoły głosowania zobwodów,okręgo Biura Wyborczego ipo sprawdzeniu prawidłowości gowa komisja wyborcza sprawdza, czy znajdują się one funkcjonowania przekazane wraz z wymaganym wzapieczętowanych kopertach. Wpływ każdego protoosprzętem. kołu odnotowuje się na przygotowanym wcześniej wykazie obwodów głosowania, następnie protokół spraw- Zastosowanie systemu informatycznego na użytek dza się pod względem poprawności jego sporządzenia, okręgowej komisji wyborczej służy: zwracając uwagę, czy prawidłowo wpisano numer okręgu i obwodu, czy dane o liczbie uprawnionych do — rejestracji danych liczbowych zawartych w proto- głosowania są identyczne w obu protokołach (Sejm, kołach głosowania wobwodach ikontroli zgodno- Senat), czy protokół jest podpisany przez wymaganą ści arytmetycznej tych danych, liczbę członków komisji (co najmniej przez połowę skła- — ustaleniu wyników głosowania w okręgu wybor- du komisji) i czy jest opatrzony właściwą pieczęcią. czym (zsumowaniu danych liczbowych z protoko- Wrazie wniesienia do protokołu zarzutów przez mężów łów głosowania ze wszystkich obwodów) iich wy- zaufania należy sprawdzić, czy obwodowa komisja drukowaniu, ustosunkowała się do zarzutów.",
+     "path": "par_2/ust_3",
+     "text": "Zakres stosowania systemu informatycznego",
      "children": [
       {
        "type": "text",
-       "text": "Monitor Polski N r 31 — 796 — Poz. 521"
+       "text": "W celu usprawnienia prac związanych z ustaleniem wyników głosowania i wyników wyborów Państwowa Komisja Wyborcza na podstawie art. 41 ust. 1, art. 164 ust. 6, art. 170 ust. 1 i art. 205 ust. 6 Ordynacji wyborczej określa następujące zasady i sposób wykorzystania elektronicznego systemu przesyłania i przetwarzania danych:"
       },
       {
        "type": "text",
-       "text": "Tak sprawdzony protokół komisja przekazuje peł- 6) Jeżeli na liście nie ma kandydatów skreślonych, nomocnikowi informatycznemu w celu potwierdzenia liczba głosów ważnych oddanych na listę musi być arytmetycznej zgodności danych liczbowych. równa sumie liczb głosów ważnych oddanych na poszczególnych kandydatów ztej listy. Dane liczbowe z protokołów głosowania są dwukrotnie rejestrowane (wprowadzane do systemu infor- 7) Jeżeli na liście jest co najmniej jeden kandydat matycznego) przez dwóch różnych operatorów na skreślony, liczba głosów ważnych oddanych na lidwóch stanowiskach. stę nie może być mniejsza od sumy liczb głosów ważnych oddanych na poszczególnych kandyda- System informatyczny już przy pierwszym wpro- tów ztej listy. wadzeniu danych dokonuje oddzielnie sprawdzenia, czy zostały spełnione określone niżej warunki arytme- 8) Przy nazwiskach kandydatów skreślonych nie motyczne w protokołach głosowania do Sejmu i do Se- że być wpisana żadna liczba. natu."
+       "text": "System informatyczny prowadzenia prac obliczeniowych stosuje się dla wspomagania ustalenia wyników głosowania i wyborów przez okręgowe komisje wyborcze. Wszelkie czynności związane z przygotowaniem organizacyjnym, wdrożeniem i funkcjonowaniem systemu informatycznego podlegają nadzorowi i kontroli odpowiednio Państwowej Komisji Wyborczej i właściwej okręgowej komisji wyborczej."
+      },
+      {
+       "type": "text",
+       "text": "Zadania związane z wykorzystaniem systemu informatycznego wykonuje Zespół Informatyki Krajowego Biura Wyborczego oraz służby informatyczne przy okręgowych komisjach wyborczych. Oprogramowanie systemu zostanie przygotowane na zlecenie Krajowego Biura Wyborczego i po sprawdzeniu prawidłowości funkcjonowania przekazane wraz z wymaganym osprzętem."
+      },
+      {
+       "type": "text",
+       "text": "Zastosowanie systemu informatycznego na użytek okręgowej komisji wyborczej służy:"
+      },
+      {
+       "type": "text",
+       "text": "— rejestracji danych liczbowych zawartych w protokołach głosowania w obwodach i kontroli zgodności arytmetycznej tych danych,"
+      },
+      {
+       "type": "text",
+       "text": "— ustaleniu wyników głosowania w okręgu wyborczym (zsumowaniu danych liczbowych z protokołów głosowania ze wszystkich obwodów) i ich wydrukowaniu, — wykonaniu obliczeń niezbędnych do ustalenia wyników wyborów w okręgu wyborczym,"
+      },
+      {
+       "type": "text",
+       "text": "— przekazaniu (teletransmisji) wyników głosowania i wyników wyborów do Państwowej Komisji Wyborczej."
+      },
+      {
+       "type": "text",
+       "text": "Wszystkie czynności dotyczące wprowadzania danych oraz obliczeniowe będą wykonywane w siedzibie okręgowej komisji wyborczej i pod nadzorem tej komisji."
+      },
+      {
+       "type": "text",
+       "text": "Bezpośredni nadzór merytoryczny i organizacyjny nad funkcjonowaniem systemu informatycznego wspomagającego pracę okręgowej komisji wyborczej będzie sprawował pełnomocnik do spraw informatycznej obsługi wyborów, zwany dalej „pełnomocnikiem informatycznym”, pod bezpośrednim nadzorem przewodniczącego okręgowej komisji wyborczej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Przyjmowanie protokołów głosowania od obwodowych komisji wyborczych",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okręgowa komisja wyborcza tak organizuje swoją pracę, aby z chwilą zakończenia głosowania była gotowa do przyjmowania protokołów od obwodowych komisji wyborczych."
+      },
+      {
+       "type": "text",
+       "text": "Przy przekazywaniu okręgowej komisji protokołów głosowania z obwodów mogą być obecni mężowie zaufania wyznaczeni do okręgowej komisji wyborczej (art. 154 ust. 3), a także mężowie zaufania wyznaczeni do obwodowej komisji wyborczej, jeżeli przybyli do siedziby okręgowej komisji razem z przewodniczącym komisji obwodowej. Przy dalszych czynnościach w okręgowej komisji wyborczej uczestniczą mężowie zaufania zgłoszeni do okręgowej komisji."
+      },
+      {
+       "type": "text",
+       "text": "Stosownie do art. 154 ust. 3 i odpowiednio art. 164 ust. 5, 167 ust. 2, 168 ust. 4, 205 ust. 5 i 206 ust. 2 Ordynacji wyborczej funkcję mężów zaufania przy okręgowej komisji wyborczej pełnią pełnomocnicy wyborczy komitetów wyborczych lub osoby przez nich upoważnione do zgłoszenia listy okręgowej lub kandydata na senatora. Jeżeli do pełnienia funkcji męża zaufania została wyznaczona inna osoba niż zgłaszająca listę bądź kandydata na senatora, przy czynnościach wskazanych w tych przepisach pełni ona funkcję osoby zgłaszającej listę lub kandydata."
+      },
+      {
+       "type": "text",
+       "text": "Przyjmując protokoły głosowania z obwodów, okręgowa komisja wyborcza sprawdza, czy znajdują się one w zapieczętowanych kopertach. Wpływ każdego protokołu odnotowuje się na przygotowanym wcześniej wykazie obwodów głosowania, następnie protokół sprawdza się pod względem poprawności jego sporządzenia, zwracając uwagę, czy prawidłowo wpisano numer okręgu i obwodu, czy dane o liczbie uprawnionych do głosowania są identyczne w obu protokołach (Sejm, Senat), czy protokół jest podpisany przez wymaganą liczbę członków komisji (co najmniej przez połowę składu komisji) i czy jest opatrzony właściwą pieczęcią. W razie wniesienia do protokołu zarzutów przez mężów zaufania należy sprawdzić, czy obwodowa komisja ustosunkowała się do zarzutów."
+      },
+      {
+       "type": "text",
+       "text": "Tak sprawdzony protokół komisja przekazuje pełnomocnikowi informatycznemu w celu potwierdzenia arytmetycznej zgodności danych liczbowych."
+      },
+      {
+       "type": "text",
+       "text": "Dane liczbowe z protokołów głosowania są dwukrotnie rejestrowane (wprowadzane do systemu informatycznego) przez dwóch różnych operatorów na dwóch stanowiskach."
+      },
+      {
+       "type": "text",
+       "text": "System informatyczny już przy pierwszym wprowadzeniu danych dokonuje oddzielnie sprawdzenia, czy zostały spełnione określone niżej warunki arytmetyczne w protokołach głosowania do Sejmu i do Senatu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Warunki poprawności arytmetycznej danych liczbowych w protokołach głosowania w obwodach podlegające sprawdzeniu w systemie informatycznym",
+     "children": [
+      {
+       "type": "text",
+       "text": "Warunki arytmetyczne dotyczące danych w protokołach głosowania w wyborach do Sejmu i do Senatu podzielono na dwa rodzaje:"
+      },
+      {
+       "type": "text",
+       "text": "— warunki konieczne, które muszą być spełnione bezwzględnie,"
+      },
+      {
+       "type": "text",
+       "text": "— warunki dodatkowe, które powinny być spełnione, ale w szczególnych okolicznościach mogą być niezachowane."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto zdefiniowano warunki, które służą sprawdzeniu zgodności niektórych danych liczbowych z protokołu głosowania na okręgowe listy kandydatów na posłów i na kandydatów na senatorów w danym obwodzie."
+      },
+      {
+       "type": "text",
+       "text": "A. Wybory do Sejmu"
+      },
+      {
+       "type": "text",
+       "text": "Warunki konieczne"
+      },
+      {
+       "type": "text",
+       "text": "Wymienione niżej warunki muszą być bezwzględnie spełnione; ich naruszenie wskazuje na błędne ustalenie wyników głosowania w obwodzie lub wadliwe sporządzenie protokołu głosowania."
       },
       {
        "type": "pkt",
-       "num": "9",
-       "path": "par_1/ust_3/pkt_9",
-       "text": "Listy skreślone nie otrzymują głosów ważnych; są 5. Warunki poprawności arytmetycznej da- oznaczone wprotokole jako unieważnione. nych liczbowych w protokołach głosowania w obwodach podlegające sprawdzeniu 10) Liczba w rubryce „Razem” głosów oddanych na w systemie informatycznym kandydatów zlisty okręgowej musi być równa sumie liczb głosów oddanych na poszczególnych Warunki arytmetyczne dotyczące danych w proto- kandydatów ztej listy. kołach głosowania wwyborach do Sejmu idoSenatu podzielono na dwa rodzaje: Warunki dodatkowe",
-       "children": [
-        {
-         "type": "text",
-         "text": "— warunki konieczne, które muszą być spełnione bez- Wymienione niżej warunki powinny być spełnione, względnie, jednak w wyjątkowych okolicznościach możliwe jest — warunki dodatkowe, które powinny być spełnione, ich niedotrzymanie. Wtakiej sytuacji obwodowa komiale wszczególnych okolicznościach mogą być nie- sja wyborcza powinna dołączyć do protokołu wyjazachowane. śnienia, podając przypuszczalną przyczynę niedotrzymania tych warunków."
-        },
-        {
-         "type": "text",
-         "text": "Ponadto zdefiniowano warunki, które służą sprawdzeniu zgodności niektórych danych liczbowych zpro- 11) Liczba kart do głosowania otrzymanych przez komitokołu głosowania na okręgowe listy kandydatów na sję powinna być równa sumie liczby kart niewykoposłów i na kandydatów na senatorów w danym ob- rzystanych oraz liczby wyborców, którym wydano wodzie. karty do głosowania."
-        },
-        {
-         "type": "text",
-         "text": "A. Wybory do Sejmu 12) Liczba kart wyjętych zurny powinna być równa liczbie wyborców, którym wydano karty do głosowa- Warunki konieczne nia."
-        },
-        {
-         "type": "text",
-         "text": "Wymienione niżej warunki muszą być bezwzględ- 13) Liczba kart ważnych wyjętych z urny nie powinna nie spełnione;ich naruszenie wskazuje na błędne usta- być większa od liczby wyborców, którym wydano lenie wyników głosowania w obwodzie lub wadliwe karty do głosowania. sporządzenie protokołu głosowania. 14) Liczba kart ważnych wyjętych z urny nie powinna 1) Wszystkie dane liczbowe owynikach głosowania są być większa od liczby wyborców uprawnionych do liczbami całkowitymi nieujemnymi. głosowania."
-        }
-       ]
+       "num": "1",
+       "path": "par_2/ust_5/pkt_1",
+       "text": "Wszystkie dane liczbowe o wynikach głosowania są liczbami całkowitymi nieujemnymi.",
+       "children": []
       },
       {
        "type": "pkt",
        "num": "2",
-       "path": "par_1/ust_3/pkt_2",
-       "text": "Liczba kart wydanych wyborcom nie może być B. Wybory do Senatu większa od liczby wyborców uprawnionych do głosowania. Warunki konieczne",
+       "path": "par_2/ust_5/pkt_2",
+       "text": "Liczba kart wydanych wyborcom nie może być większa od liczby wyborców uprawnionych do głosowania.",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
-       "path": "par_1/ust_3/pkt_3",
-       "text": "Liczba kart do głosowania wyjętych zurny musi być Poniższe warunki muszą być bezwzględnie spełniorówna sumie liczby kart nieważnych i liczby kart ne;ich naruszenie wskazuje na błędne ustalenie wyniważnych. ków głosowania w obwodzie lub wadliwe sporządzenie protokołu wyników głosowania.",
+       "path": "par_2/ust_5/pkt_3",
+       "text": "Liczba kart do głosowania wyjętych z urny musi być równa sumie liczby kart nieważnych i liczby kart ważnych.",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
-       "path": "par_1/ust_3/pkt_4",
-       "text": "Liczba kart ważnych wyjętych zurny musi być równa sumie liczby głosów nieważnych zważnych kart Do wyników głosowania w wyborach do Senatu do głosowania iliczby głosów ważnych zważnych stosuje się warunki od 1 do 3 oraz warunek 8 zdefiniokart do głosowania wyjętych zurny. wane dla wyników głosowania wwyborach do Sejmu. Ponadto obowiązują następujące warunki:",
+       "path": "par_2/ust_5/pkt_4",
+       "text": "Liczba kart ważnych wyjętych z urny musi być równa sumie liczby głosów nieważnych z ważnych kart do głosowania i liczby głosów ważnych z ważnych kart do głosowania wyjętych z urny.",
        "children": []
       },
       {
        "type": "pkt",
        "num": "5",
-       "path": "par_1/ust_3/pkt_5",
-       "text": "Liczba głosów ważnych zważnych kart do głosowania musi być równa sumie liczb głosów ważnych 15) Liczba kart ważnych wyjętych zurny musi być rówoddanych na wszystkie okręgowe listy kandyda- na sumie liczby kart ważnych zgłosami nieważnytów. mi iliczby kart ważnych zgłosami ważnymi.",
+       "path": "par_2/ust_5/pkt_5",
+       "text": "Liczba głosów ważnych z ważnych kart do głosowania musi być równa sumie liczb głosów ważnych oddanych na wszystkie okręgowe listy kandydatów.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_5/pkt_6",
+       "text": "Jeżeli na liście nie ma kandydatów skreślonych, liczba głosów ważnych oddanych na listę musi być równa sumie liczb głosów ważnych oddanych na poszczególnych kandydatów z tej listy.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_5/pkt_7",
+       "text": "Jeżeli na liście jest co najmniej jeden kandydat skreślony, liczba głosów ważnych oddanych na listę nie może być mniejsza od sumy liczb głosów ważnych oddanych na poszczególnych kandydatów z tej listy.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_5/pkt_8",
+       "text": "Przy nazwiskach kandydatów skreślonych nie może być wpisana żadna liczba.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_5/pkt_9",
+       "text": "Listy skreślone nie otrzymują głosów ważnych; są oznaczone w protokole jako unieważnione.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_5/pkt_10",
+       "text": "Liczba w rubryce „Razem” głosów oddanych na kandydatów z listy okręgowej musi być równa sumie liczb głosów oddanych na poszczególnych kandydatów z tej listy.",
        "children": [
         {
          "type": "text",
-         "text": "Monitor Polski N r 31 — 797 — Poz. 521"
+         "text": "Warunki dodatkowe"
+        },
+        {
+         "type": "text",
+         "text": "Wymienione niżej warunki powinny być spełnione, jednak w wyjątkowych okolicznościach możliwe jest ich niedotrzymanie. W takiej sytuacji obwodowa komisja wyborcza powinna dołączyć do protokołu wyjaśnienia, podając przypuszczalną przyczynę niedotrzymania tych warunków."
         }
        ]
       },
       {
        "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_5/pkt_11",
+       "text": "Liczba kart do głosowania otrzymanych przez komisję powinna być równa sumie liczby kart niewykorzystanych oraz liczby wyborców, którym wydano karty do głosowania.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_5/pkt_12",
+       "text": "Liczba kart wyjętych z urny powinna być równa liczbie wyborców, którym wydano karty do głosowania.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/ust_5/pkt_13",
+       "text": "Liczba kart ważnych wyjętych z urny nie powinna być większa od liczby wyborców, którym wydano karty do głosowania.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/ust_5/pkt_14",
+       "text": "Liczba kart ważnych wyjętych z urny nie powinna być większa od liczby wyborców uprawnionych do głosowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "B. Wybory do Senatu"
+        },
+        {
+         "type": "text",
+         "text": "Warunki konieczne"
+        },
+        {
+         "type": "text",
+         "text": "Poniższe warunki muszą być bezwzględnie spełnione; ich naruszenie wskazuje na błędne ustalenie wyników głosowania w obwodzie lub wadliwe sporządzenie protokołu wyników głosowania."
+        },
+        {
+         "type": "text",
+         "text": "Do wyników głosowania w wyborach do Senatu stosuje się warunki od 1 do 3 oraz warunek 8 zdefiniowane dla wyników głosowania w wyborach do Sejmu. Ponadto obowiązują następujące warunki:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/ust_5/pkt_15",
+       "text": "Liczba kart ważnych wyjętych z urny musi być równa sumie liczby kart ważnych z głosami nieważnymi i liczby kart ważnych z głosami ważnymi.",
+       "children": []
+      },
+      {
+       "type": "pkt",
        "num": "16",
-       "path": "par_1/ust_3/pkt_16",
-       "text": "Suma liczb głosów ważnych oddanych na poszcze- protokół oraz szczegółowy opis warunków, które nie gólnych kandydatów musi być nie mniejsza niż zostały dotrzymane. liczba kart ważnych zgłosami ważnymi. Jeżeli wystąpiło chociaż jedno naruszenie warunku 17) Suma liczb głosów ważnych oddanych na poszcze- koniecznego, dane nie zostają zapisane wsystemie. gólnych kandydatów nie może być większa niż ilo- Jeżeli zostały przekroczone jedynie warunki dodatczyn liczby kart ważnych z głosami ważnymi i licz- kowe, to dane zprotokołu zostają zapisane warunkowo by mandatów wdanym okręgu wyborczym. — oznaczone jako przekraczające warunki arytmetyczne; przewodniczący okręgowej komisji wyborczej mo- 18) Liczba głosów ważnych oddanych na kandydata że zatwierdzić dane iumożliwić ich powtórne wprowanie może być większa niż liczba kart ważnych zgło- dzenie lub podjąć decyzję okonieczności sprostowania sami ważnymi. protokołu przez komisję obwodową i o usunięciu danych zsystemu.",
+       "path": "par_2/ust_5/pkt_16",
+       "text": "Suma liczb głosów ważnych oddanych na poszczególnych kandydatów musi być nie mniejsza niż liczba kart ważnych z głosami ważnymi.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_2/ust_5/pkt_17",
+       "text": "Suma liczb głosów ważnych oddanych na poszczególnych kandydatów nie może być większa niż iloczyn liczby kart ważnych z głosami ważnymi i liczby mandatów w danym okręgu wyborczym.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_2/ust_5/pkt_18",
+       "text": "Liczba głosów ważnych oddanych na kandydata nie może być większa niż liczba kart ważnych z głosami ważnymi.",
        "children": []
       },
       {
        "type": "pkt",
        "num": "19",
-       "path": "par_1/ust_3/pkt_19",
-       "text": "Liczba głosów „Razem” oddanych na wszystkich kandydatów musi być równa sumie liczb głosów W wypadku gdy nie stwierdzono błędów, dane są oddanych na poszczególnych kandydatów. zapisywane w systemie i możliwe jest ich powtórne wprowadzenie przez drugiego operatora. W czasie Warunki dodatkowe wprowadzania danych przez drugiego operatora system sygnalizuje każdą rozbieżność danych, nie podając Poniższe warunki powinny być spełnione, jednak jednak, jaka liczba powinna być wprowadzona wmiejw wyjątkowych okolicznościach może się zdarzyć, że sce liczby różniącej się od wprowadzonej przez pierwzostaną niedotrzymane. W takiej sytuacji obwodowa szego operatora. Usunięcie błędu umożliwia dalsze komisja wyborcza powinna dołączyć do protokołu wy- wprowadzanie danych. jaśnienia, podając przypuszczalną przyczynę przekroczenia tych warunków. 6. Sporządzenie protokołu głosowania w okręgu wyborczym w wyborach do Sej- Do wyników głosowania w wyborach do Senatu mu oraz protokołu wyników głosowania stosuje się warunki od 11 do 14 zdefiniowane dla wy- i wyników wyborów senatorów w okręgu ników głosowania wwyborach do Sejmu. wyborczym",
+       "path": "par_2/ust_5/pkt_19",
+       "text": "Liczba głosów „Razem” oddanych na wszystkich kandydatów musi być równa sumie liczb głosów oddanych na poszczególnych kandydatów.",
        "children": [
         {
          "type": "text",
-         "text": "Warunki zgodności danych Po sprawdzeniu wsystemie informatycznym protokół jest zwracany okręgowej komisji przez pełnomocni- Poniższe warunki określają arytmetyczną zgodność ka informatycznego wraz zpotwierdzeniem jego zgoddanych liczbowych pochodzących zprotokołów głoso- ności arytmetycznej i, jeżeli nie zawiera on wad, okręwania wobwodzie wwyborach do Sejmu ido Senatu. gowa komisja zawiadamia obwodową komisję o przy- Poniższy warunek musi być spełniony: jęciu protokołu. Wwypadku stwierdzenia nieprawidłowości wprotokole okręgowa komisja wskazuje je na pi- 20) Liczba wyborców uprawnionych do głosowania śmie i ustala sposób ich usunięcia, informując o tym wwyborach do Sejmu musi być równa liczbie wy- niezwłocznie właściwą komisję obwodową. Usunięcie borców uprawnionych do głosowania w wybo- nieprawidłowości może polegać w szczególności na: rach do Senatu wtym samym obwodzie głosowa- sporządzeniu nowego protokołu głosowania w obwonia. dzie, naniesieniu na już sporządzony protokół poprawek iich parafowaniu przez obwodową komisję wybor- Ponadto powinny być spełnione następujące wa- czą oraz opatrzeniu pieczęcią, uzupełnieniu danych runki (aczkolwiek może się zdarzyć, że zostaną one nie- wprotokole (np. podpisów członków komisji obwododotrzymane): wych). Powyższe odnosi się również do czynności wykonywanych przez komisję obwodową w wyniku dzia- 21) Liczba wyborców, którym wydano karty do głoso- łań pełnomocnika okręgowej komisji wyborczej do wania wwyborach do Sejmu, powinna być równa sprawdzenia zgodności arytmetycznej wyników głosoliczbie wyborców, którym wydano karty do głoso- wania. wania w wyborach do Senatu, w tym samym ob- Na żądanie mężów zaufania okręgowa komisja wywodzie głosowania. borcza może zlecić wykonanie wydruków kontrolnych z kilku wskazanych przez nich obwodów głosowania 22) Liczba wyborców uprawnionych do głosowania wcelu porównania danych zprotokołami. Mężowie zapodana w protokole nie powinna różnić się o wię- ufania mogą otrzymać kopie wydruków sprawdzonych cej niż 10% od liczby wyborców uprawnionych do wten sposób protokołów. Ograniczenie ilości protokogłosowania w tym samym obwodzie ustalonej łów sprawdzanych z wydrukami jest podyktowane przed dniem głosowania. względami organizacyjnymi."
+         "text": "Warunki dodatkowe"
         },
         {
          "type": "text",
-         "text": "Po wprowadzeniu danych z protokołów system Po zarejestrowaniu w systemie informatycznym sprawdza wszystkie warunki arytmetyczne. W przy- danych ze wszystkich protokołów głosowania sporząpadku stwierdzenia błędów system informuje o tym dza się wydruk zestawienia wyników głosowania operatora, wymieniając konkretne przekroczone wa- w okręgu wyborczym. W wydruku zawarte są wszystrunki, oraz generuje raport błędów, który jest drukowa- kie dane liczbowe potrzebne do sporządzenia protokony. Raport zawiera dokładne informacje identyfikujące łu wyników głosowania wokręgu wyborczym."
+         "text": "Poniższe warunki powinny być spełnione, jednak w wyjątkowych okolicznościach może się zdarzyć, że zostaną niedotrzymane. W takiej sytuacji obwodowa komisja wyborcza powinna dołączyć do protokołu wyjaśnienia, podając przypuszczalną przyczynę przekroczenia tych warunków."
         },
         {
          "type": "text",
-         "text": "Monitor Polski N r 31 — 798 — Poz. 521"
+         "text": "Do wyników głosowania w wyborach do Senatu stosuje się warunki od 11 do 14 zdefiniowane dla wyników głosowania w wyborach do Sejmu."
         },
         {
          "type": "text",
-         "text": "Okręgowa komisja może sprawdzić dane zawarte ufania. Po dokonaniu transmisji tekst protokołu przew wydruku z wyliczeniami dokonanymi inną metodą; kazuje się faksem (pod numer wskazany przez Krajowe jeżeli dane zwyliczeń dokonanych wróżny sposób nie Biuro Wyborcze); każda strona protokołu powinna być są identyczne, należy wyjaśnić iusunąć przyczynę roz- oznaczona numerem okręgu wyborczego wcelu umożbieżności. liwienia właściwej iszybkiej ich identyfikacji iuniknięcia pomyłek (art. 164 ust. 6 i7). Następnie okręgowa komisja wyborcza sporządza, w2 egzemplarzach: Po otrzymaniu (systemem elektronicznym) wstępnej informacji z Państwowej Komisji Wyborczej, które — protokół wyników głosowania w okręgu wybor- listy okręgowe spełniają warunki uprawniające do czym (art. 164 ust. 1 Ordynacji wyborczej) oraz uczestniczenia wpodziale mandatów wokręgu wyborczym, okręgowa komisja dokonuje wstępnych obliczeń — protokół wyników głosowania iwyników wyborów podziału mandatów (sporządza wstępny wydruk zestasenatorów wokręgu wyborczym (art. 205 ust. 1 Or- wienia wyników głosowania ipodziału mandatów podynacji wyborczej). między uprawnione listy) oraz oczekuje na zawiadomienie zPaństwowej Komisji Wyborczej, októrym mo- Mężowie zaufania mogą wnieść zarzuty do proto- wa wart. 165 ust. 2, które jest przesyłane do okręgowej kołów. Okręgowa komisja ustosunkowuje się do nich komisji wyborczej faksem. wodpowiedniej rubryce protokołu albo wdołączonym do protokołu odrębnym dokumencie. 8. Podział mandatów pomiędzy uprawnione listy okręgowe 7. Przekazanie do Państwowej Komisji Wyborczej wyników głosowania w okręgu Po otrzymaniu zawiadomienia, októrym mowawyw wyborach do Sejmu żej, okręgowa komisja wyborcza dokonuje w sposób określony w art. 166 podziału mandatów pomiędzy Niezwłocznie po sporządzeniu protokołu wyników uprawnione listy, sporządzając zestawienie wyników głosowania w okręgu wyborczym dane z protokołu głosowania ipodziału mandatów (w2 egzemplarzach). obejmujące: liczbę głosów ważnych i liczby głosów Przy tych czynnościach komisja może korzystać ze ważnych oddanych na każdą listę okręgową oraz liczby wspomagania systemu informatycznego. Okręgowa głosów ważnych oddanych na poszczególnych kandy- komisja wyborcza sporządza zestawienie wykazujące datów zkażdej listy są transmitowane systemem elek- sposób podziału mandatów pomiędzy listy okręgowe. tronicznym do Państwowej Komisji Wyborczej. Przy Wzór zestawienia iwyliczenia ilorazów wyborczych zatransmisji tych danych mogą być obecni mężowie za- mieszczono poniżej."
+         "text": "Warunki zgodności danych"
         },
         {
          "type": "text",
-         "text": "Okręg wyborczy nr ....... do Sejmu Rzeczypospolitej Polskiej"
+         "text": "Poniższe warunki określają arytmetyczną zgodność danych liczbowych pochodzących z protokołów głosowania w obwodzie w wyborach do Sejmu i do Senatu. Poniższy warunek musi być spełniony:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_2/ust_5/pkt_20",
+       "text": "Liczba wyborców uprawnionych do głosowania w wyborach do Sejmu musi być równa liczbie wyborców uprawnionych do głosowania w wyborach do Senatu w tym samym obwodzie głosowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ponadto powinny być spełnione następujące warunki (aczkolwiek może się zdarzyć, że zostaną one niedotrzymane):"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_2/ust_5/pkt_21",
+       "text": "Liczba wyborców, którym wydano karty do głosowania w wyborach do Sejmu, powinna być równa liczbie wyborców, którym wydano karty do głosowania w wyborach do Senatu, w tym samym obwodzie głosowania.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_2/ust_5/pkt_22",
+       "text": "Liczba wyborców uprawnionych do głosowania podana w protokole nie powinna różnić się o więcej niż 10% od liczby wyborców uprawnionych do głosowania w tym samym obwodzie ustalonej przed dniem głosowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Po wprowadzeniu danych z protokołów system sprawdza wszystkie warunki arytmetyczne. W przypadku stwierdzenia błędów system informuje o tym operatora, wymieniając konkretne przekroczone warunki, oraz generuje raport błędów, który jest drukowany. Raport zawiera dokładne informacje identyfikujące protokół oraz szczegółowy opis warunków, które nie zostały dotrzymane."
         },
         {
          "type": "text",
-         "text": "w........................................................"
+         "text": "Jeżeli wystąpiło chociaż jedno naruszenie warunku koniecznego, dane nie zostają zapisane w systemie."
         },
         {
          "type": "text",
-         "text": "obejmujący ..................... mandatów"
+         "text": "Jeżeli zostały przekroczone jedynie warunki dodatkowe, to dane z protokołu zostają zapisane warunkowo — oznaczone jako przekraczające warunki arytmetyczne; przewodniczący okręgowej komisji wyborczej może zatwierdzić dane i umożliwić ich powtórne wprowadzenie lub podjąć decyzję o konieczności sprostowania protokołu przez komisję obwodową i o usunięciu danych z systemu."
         },
         {
          "type": "text",
-         "text": "Zestawienie wyników głosowania ipodziału mandatów pomiędzy okręgowe listy kandydatów na posłów"
-        },
-        {
-         "type": "text",
-         "text": "Sporządzono dnia ................................ 200... r. przez Okręgową Komisję Wyborczą"
-        },
-        {
-         "type": "text",
-         "text": "w................................................."
+         "text": "W wypadku gdy nie stwierdzono błędów, dane są zapisywane w systemie i możliwe jest ich powtórne wprowadzenie przez drugiego operatora. W czasie wprowadzania danych przez drugiego operatora system sygnalizuje każdą rozbieżność danych, nie podając jednak, jaka liczba powinna być wprowadzona w miejsce liczby różniącej się od wprowadzonej przez pierwszego operatora. Usunięcie błędu umożliwia dalsze wprowadzanie danych."
         }
        ]
       }
@@ -192,9 +430,101 @@
     },
     {
      "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Sporządzenie protokołu głosowania w okręgu wyborczym w wyborach do Sejmu oraz protokołu wyników głosowania i wyników wyborów senatorów w okręgu wyborczym",
+     "children": [
+      {
+       "type": "text",
+       "text": "Po sprawdzeniu w systemie informatycznym protokół jest zwracany okręgowej komisji przez pełnomocnika informatycznego wraz z potwierdzeniem jego zgodności arytmetycznej i, jeżeli nie zawiera on wad, okręgowa komisja zawiadamia obwodową komisję o przyjęciu protokołu. W wypadku stwierdzenia nieprawidłowości w protokole okręgowa komisja wskazuje je na piśmie i ustala sposób ich usunięcia, informując o tym niezwłocznie właściwą komisję obwodową. Usunięcie nieprawidłowości może polegać w szczególności na: sporządzeniu nowego protokołu głosowania w obwodzie, naniesieniu na już sporządzony protokół poprawek i ich parafowaniu przez obwodową komisję wyborczą oraz opatrzeniu pieczęcią, uzupełnieniu danych w protokole (np. podpisów członków komisji obwodowych). Powyższe odnosi się również do czynności wykonywanych przez komisję obwodową w wyniku działań pełnomocnika okręgowej komisji wyborczej do sprawdzenia zgodności arytmetycznej wyników głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Na żądanie mężów zaufania okręgowa komisja wyborcza może zlecić wykonanie wydruków kontrolnych z kilku wskazanych przez nich obwodów głosowania w celu porównania danych z protokołami. Mężowie zaufania mogą otrzymać kopie wydruków sprawdzonych w ten sposób protokołów. Ograniczenie ilości protokołów sprawdzanych z wydrukami jest podyktowane względami organizacyjnymi."
+      },
+      {
+       "type": "text",
+       "text": "Po zarejestrowaniu w systemie informatycznym danych ze wszystkich protokołów głosowania sporządza się wydruk zestawienia wyników głosowania w okręgu wyborczym. W wydruku zawarte są wszystkie dane liczbowe potrzebne do sporządzenia protokołu wyników głosowania w okręgu wyborczym."
+      },
+      {
+       "type": "text",
+       "text": "Okręgowa komisja może sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą; jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+      },
+      {
+       "type": "text",
+       "text": "Następnie okręgowa komisja wyborcza sporządza, w 2 egzemplarzach:"
+      },
+      {
+       "type": "text",
+       "text": "— protokół wyników głosowania w okręgu wyborczym (art. 164 ust. 1 Ordynacji wyborczej) oraz"
+      },
+      {
+       "type": "text",
+       "text": "— protokół wyników głosowania i wyników wyborów senatorów w okręgu wyborczym (art. 205 ust. 1 Ordynacji wyborczej)."
+      },
+      {
+       "type": "text",
+       "text": "Mężowie zaufania mogą wnieść zarzuty do protokołów. Okręgowa komisja ustosunkowuje się do nich w odpowiedniej rubryce protokołu albo w dołączonym do protokołu odrębnym dokumencie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Przekazanie do Państwowej Komisji Wyborczej wyników głosowania w okręgu w wyborach do Sejmu",
+     "children": [
+      {
+       "type": "text",
+       "text": "Niezwłocznie po sporządzeniu protokołu wyników głosowania w okręgu wyborczym dane z protokołu obejmujące: liczbę głosów ważnych i liczby głosów ważnych oddanych na każdą listę okręgową oraz liczby głosów ważnych oddanych na poszczególnych kandydatów z każdej listy są transmitowane systemem elektronicznym do Państwowej Komisji Wyborczej. Przy transmisji tych danych mogą być obecni mężowie za-"
+      },
+      {
+       "type": "text",
+       "text": "Okręg wyborczy nr ....... do Sejmu Rzeczypospolitej Polskiej"
+      },
+      {
+       "type": "text",
+       "text": "w ........................................................"
+      },
+      {
+       "type": "text",
+       "text": "obejmujący ..................... mandatów ufania. Po dokonaniu transmisji tekst protokołu przekazuje się faksem (pod numer wskazany przez Krajowe Biuro Wyborcze); każda strona protokołu powinna być oznaczona numerem okręgu wyborczego w celu umożliwienia właściwej i szybkiej ich identyfikacji i uniknięcia pomyłek (art. 164 ust. 6 i 7)."
+      },
+      {
+       "type": "text",
+       "text": "Po otrzymaniu (systemem elektronicznym) wstępnej informacji z Państwowej Komisji Wyborczej, które listy okręgowe spełniają warunki uprawniające do uczestniczenia w podziale mandatów w okręgu wyborczym, okręgowa komisja dokonuje wstępnych obliczeń podziału mandatów (sporządza wstępny wydruk zestawienia wyników głosowania i podziału mandatów pomiędzy uprawnione listy) oraz oczekuje na zawiadomienie z Państwowej Komisji Wyborczej, o którym mowa w art. 165 ust. 2, które jest przesyłane do okręgowej komisji wyborczej faksem."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "Podział mandatów pomiędzy uprawnione listy okręgowe",
+     "children": [
+      {
+       "type": "text",
+       "text": "Po otrzymaniu zawiadomienia, o którym mowa wyżej, okręgowa komisja wyborcza dokonuje w sposób określony w art. 166 podziału mandatów pomiędzy uprawnione listy, sporządzając zestawienie wyników głosowania i podziału mandatów (w 2 egzemplarzach). Przy tych czynnościach komisja może korzystać ze wspomagania systemu informatycznego. Okręgowa komisja wyborcza sporządza zestawienie wykazujące sposób podziału mandatów pomiędzy listy okręgowe. Wzór zestawienia i wyliczenia ilorazów wyborczych zamieszczono poniżej."
+      },
+      {
+       "type": "text",
+       "text": "Zestawienie wyników głosowania i podziału mandatów pomiędzy okręgowe listy kandydatów na posłów"
+      },
+      {
+       "type": "text",
+       "text": "Sporządzono dnia ................................ 200... r. przez Okręgową Komisję Wyborczą"
+      },
+      {
+       "type": "text",
+       "text": "w ................................................."
+      }
+     ]
+    },
+    {
+     "type": "ust",
      "num": "1",
-     "path": "par_1/ust_1",
-     "text": "Na podstawie zawiadomienia Państwowej Komisji Wyborczej, które listy okręgowe spełniają warunek uprawniający do uczestniczenia w podziale mandatów, Okręgowa Komisja Wyborcza stwierdza, że uprawnione do uczestniczenia wpodziale mandatów wokręgu są następujące listy okręgowe:",
+     "path": "par_2/ust_1",
+     "text": "Na podstawie zawiadomienia Państwowej Komisji Wyborczej, które listy okręgowe spełniają warunek uprawniający do uczestniczenia w podziale mandatów, Okręgowa Komisja Wyborcza stwierdza, że uprawnione do uczestniczenia w podziale mandatów w okręgu są następujące listy okręgowe:",
      "children": [
       {
        "type": "text",
@@ -211,57 +541,57 @@
       {
        "type": "text",
        "text": "...................... ...................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": "Monitor Polski N r 31 — 799 — Poz. 521"
       }
      ]
     },
     {
      "type": "ust",
      "num": "2",
-     "path": "par_1/ust_2",
-     "text": "Wyliczenieilorazów wyborczych (art. 166 ust. 1 pkt 1 Ordynacji wyborczej) oraz przypadających mandatów dla uprawnionych list okręgowych jest następujące:*",
+     "path": "par_2/ust_2",
+     "text": "Wyliczenie ilorazów wyborczych (art. 166 ust. 1 pkt 1 Ordynacji wyborczej) oraz przypadających mandatów dla uprawnionych list okręgowych jest następujące:*",
      "children": [
       {
        "type": "text",
-       "text": "Lista nr .......... Lista nr .......... Lista nr .......... Liczba głosów ważnych Liczba głosów ważnych Liczba głosów ważnych oddanych na tę listę oddanych na tę listę oddanych na tę listę"
+       "text": "Lista nr .......... Lista nr .........."
       },
       {
        "type": "text",
-       "text": "x= ............................................. x= ............................................. x= ............................................."
+       "text": "Lista nr .......... Liczba głosów ważnych Liczba głosów ważnych Liczba głosów ważnych oddanych na tę listę oddanych na tę listę oddanych na tę listę"
       },
       {
        "type": "text",
-       "text": "Wyliczony iloraz: Wyliczony iloraz: Wyliczony iloraz: x: 1,4= ..................................... x: 1,4= ..................................... x: 1,4= ..................................... x: 3 = ..................................... x: 3 = ..................................... x: 3 = ..................................... x: 5 = ..................................... x: 5 = ..................................... x: 5 = ..................................... x: = ..................................... x: = ..................................... x: = ....................................."
+       "text": "x = ............................................. x = ............................................. x = ............................................."
+      },
+      {
+       "type": "text",
+       "text": "Wyliczony iloraz: Wyliczony iloraz: Wyliczony iloraz: x : 1,4 = ..................................... x : 1,4 = ..................................... x : 1,4 = ..................................... x : 3 = ..................................... x : 3 = ..................................... x : 3 = ..................................... x : 5 = ..................................... x : 5 = ..................................... x : 5 = ..................................... x : = ..................................... x : = ..................................... x : = ....................................."
       }
      ]
     },
     {
      "type": "ust",
      "num": "3",
-     "path": "par_1/ust_3",
+     "path": "par_2/ust_3",
      "text": "Szereg kolejno największych liczb (ilorazów wyborczych) jest następujący:*",
      "children": [
       {
        "type": "pkt",
        "num": "1",
-       "path": "par_1/ust_3/pkt_1",
+       "path": "par_2/ust_3/pkt_1",
        "text": "................................... odpowiada liście nr ..............",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
-       "path": "par_1/ust_3/pkt_2",
+       "path": "par_2/ust_3/pkt_2",
        "text": "................................... odpowiada liście nr ..............",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
-       "path": "par_1/ust_3/pkt_3",
+       "path": "par_2/ust_3/pkt_3",
        "text": "................................... odpowiada liście nr ..............",
        "children": [
         {
@@ -275,7 +605,7 @@
     {
      "type": "ust",
      "num": "4",
-     "path": "par_1/ust_4",
+     "path": "par_2/ust_4",
      "text": "Komisja stwierdza, że w okręgu wyborczym mandaty przypadają następującym listom, które uzyskały największe ilorazy wyborcze: ....................................... mandat(y) dla listy nr** .............. (liczba)",
      "children": [
       {
@@ -295,14 +625,14 @@
     {
      "type": "ust",
      "num": "5",
-     "path": "par_1/ust_5",
+     "path": "par_2/ust_5",
      "text": "Wobec uzyskania równych ilorazów wyborczych (art. 166 ust. 2) przez listę nr ........, listę nr ........, listę nr ........ a) mandat(y) przyznano liście nr ........, liście nr ........, liście nr ........, na którą(e) oddano najwięcej głosów ważnych,***",
      "children": [
       {
        "type": "lit",
        "num": "b",
-       "path": "par_1/ust_5/lit_b",
-       "text": "mandat(y) przyznano liście nr ........, liście nr ........, liście nr ........, na którą(e) oddano taką samą liczbę głosów ważnych, lecz która(e) uzyskała(y) najwięcej głosów ważnych wwiększej liczbie obwodów głosowania.***",
+       "path": "par_2/ust_5/lit_b",
+       "text": "mandat(y) przyznano liście nr ........, liście nr ........, liście nr ........, na którą(e) oddano taką samą liczbę głosów ważnych, lecz która(e) uzyskała(y) najwięcej głosów ważnych w większej liczbie obwodów głosowania.***",
        "children": [
         {
          "type": "text",
@@ -313,7 +643,7 @@
       {
        "type": "pkt",
        "num": "1",
-       "path": "par_1/ust_5/pkt_1",
+       "path": "par_2/ust_5/pkt_1",
        "text": "........................................................................................ ..........................",
        "children": [
         {
@@ -325,112 +655,119 @@
       {
        "type": "pkt",
        "num": "3",
-       "path": "par_1/ust_5/pkt_3",
+       "path": "par_2/ust_5/pkt_3",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
-       "path": "par_1/ust_5/pkt_4",
+       "path": "par_2/ust_5/pkt_4",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "5",
-       "path": "par_1/ust_5/pkt_5",
+       "path": "par_2/ust_5/pkt_5",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "6",
-       "path": "par_1/ust_5/pkt_6",
+       "path": "par_2/ust_5/pkt_6",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "7",
-       "path": "par_1/ust_5/pkt_7",
+       "path": "par_2/ust_5/pkt_7",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "8",
-       "path": "par_1/ust_5/pkt_8",
+       "path": "par_2/ust_5/pkt_8",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "9",
-       "path": "par_1/ust_5/pkt_9",
+       "path": "par_2/ust_5/pkt_9",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "10",
-       "path": "par_1/ust_5/pkt_10",
+       "path": "par_2/ust_5/pkt_10",
        "text": "........................................................................................ ..........................",
        "children": []
       },
       {
        "type": "pkt",
        "num": "11",
-       "path": "par_1/ust_5/pkt_11",
+       "path": "par_2/ust_5/pkt_11",
        "text": "........................................................................................ ..........................",
-       "children": [
-        {
-         "type": "text",
-         "text": "—————— Monitor Polski N r 31 — 800 — Poz. 521 i 522"
-        }
-       ]
+       "children": []
       }
      ]
     },
     {
      "type": "ust",
      "num": "9",
-     "path": "par_1/ust_9",
-     "text": "Sporządzenie protokołu z wyboru posłów przekazuje się faksem tekst protokołu (pod te same nuw okręgu wyborczym i protokołu wyników mery, co protokół do Sejmu). głosowania i wyników wyborów senatorów w okręgu wyborczym oraz przekaza- 10. Podanie do publicznej wiadomości wyninie ich do Państwowej Komisji Wyborczej ków głosowania i wyborów oraz przekazanie protokołów Państwowej Komisji Okręgowa komisja wyborcza,uwzględniając liczbę Wyborczej mandatów przypadających poszczególnym listom, ustala — wsposób określony wart. 167 — którzy kan- Okręgowa komisja wyborcza po przekazaniu faksem dydaci uzyskali mandaty wokręgu wyborczym. do Państwowej Komisji Wyborczej protokołów, októrych mowa wpkt 9,iuzyskaniu potwierdzenia od Państwowej W wypadku konieczności losowania mandatu Komisji Wyborczej prawidłowości ustalenia wyników (art.167 ust. 2) losowanie przeprowadza się wobecno- wyborów posłów i senatorów (art. 171 i 208 Ordynacji ści członków okręgowej komisji wyborczej wnastępu- wyborczej) niezwłocznie podaje do publicznej wiadomojący sposób:Przewodniczący komisji wyznacza termin ści wyniki głosowania i wyniki wyborów do Sejmu i do imiejsce losowania, powiadamiając otym męża zaufa- Senatu (art. 169, art. 207). Podanie wyników następuje nia reprezentującego daną listę. Do urny (pojemnika) przez wywieszenie informacji obejmującej dane zprotonależy włożyć identyczne pojemniki lub koperty zawie- kołów, októrych mowa wart. 168 ust. 2 iart. 203 ust. 1. rające wśrodku kartki znazwiskiem iimieniem uprawnionych kandydatów; wskazana przez przewodniczące- Okręgowa komisja wyborcza przekazuje niezwłoczgo osoba wylosowuje kartkę iodczytuje wylosowane- nie Państwowej Komisji Wyborczej po jednym egzemgo kandydata,okazując treść kartki obecnym. Przebieg plarzu protokołu wyników głosowania w okręgu wyi wyniki losowania odnotowuje się w protokole wyni- borczym, protokołu wyborów posłów wokręgu wyborków wyborów. czym wraz z zestawieniem wyników głosowania i po- Po ustaleniu, którzy kandydaci uzyskali w okręgu działu mandatów pomiędzy okręgowe listy oraz protowyborczym mandaty zuprawnionych list, komisja spo- kołu wyników głosowania iwyników wyborów senatorządza w2 egzemplarzach protokół zwyborów posłów rów wokręgu wyborczym. Wraz zprotokołami przekaw okręgu wyborczym. Przy ustalaniu wyników wybo- zuje się wykaz zarzutów wniesionych przez pełnomocrów i sporządzeniu protokołu mogą być obecni mężo- ników oraz stanowisko zajęte przez komisję wobec tych wie zaufania, którym przysługuje prawo wniesienia do zarzutów. Zprotokołami przekazywane są także nośniki protokołu uwag z wymienieniem konkretnych zarzu- informatyczne z zarejestrowanymi danymi z protokotów. Dane z protokołu są transmitowane do Państwo- łów oraz zwydruków sporządzonych wokręgu. wej Komisji Wyborczej, anastępnie protokół jest prze- Przekazywane dokumenty są dostarczane wkopersyłany faksem (pod numer wskazany przez Krajowe tach zaklejonych iopieczętowanych na wszystkich złą- Biuro Wyborcze). czach; doręcza je Państwowej Komisji Wyborczej prze- Okręgowa komisja wyborcza sporządza w2 egzem- wodniczący okręgowej komisji wyborczej bądź osoba plarzach protokół wyników głosowania iwyników wy- pisemnie przez niego upoważniona. borów senatorów wokręgu. Dane ztego protokołu nie- Pozostałe dokumenty z wyborów okręgowa komizwłocznie po jego sporządzeniu okręgowa komisja sja wyborcza przekazuje dyrektorowi delegatury wojeprzekazuje do Państwowej Komisji Wyborczej syste- wódzkiej Krajowego Biura Wyborczego właściwej dla mem elektronicznym (art. 205 ust. 6). Po ich transmisji siedziby komisji.",
+     "path": "par_2/ust_9",
+     "text": "Sporządzenie protokołu z wyboru posłów w okręgu wyborczym i protokołu wyników głosowania i wyników wyborów senatorów w okręgu wyborczym oraz przekazanie ich do Państwowej Komisji Wyborczej",
      "children": [
       {
        "type": "text",
-       "text": "522"
+       "text": "Okręgowa komisja wyborcza, uwzględniając liczbę mandatów przypadających poszczególnym listom, ustala — w sposób określony w art. 167 — którzy kandydaci uzyskali mandaty w okręgu wyborczym."
       },
       {
        "type": "text",
-       "text": "UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+       "text": "W wypadku konieczności losowania mandatu (art. 167 ust. 2) losowanie przeprowadza się w obecności członków okręgowej komisji wyborczej w następujący sposób: Przewodniczący komisji wyznacza termin i miejsce losowania, powiadamiając o tym męża zaufania reprezentującego daną listę. Do urny (pojemnika) należy włożyć identyczne pojemniki lub koperty zawierające w środku kartki z nazwiskiem i imieniem uprawnionych kandydatów; wskazana przez przewodniczącego osoba wylosowuje kartkę i odczytuje wylosowanego kandydata, okazując treść kartki obecnym. Przebieg i wyniki losowania odnotowuje się w protokole wyników wyborów."
       },
       {
        "type": "text",
-       "text": "zdnia 10 września 2001 r."
+       "text": "Po ustaleniu, którzy kandydaci uzyskali w okręgu wyborczym mandaty z uprawnionych list, komisja sporządza w 2 egzemplarzach protokół z wyborów posłów w okręgu wyborczym. Przy ustalaniu wyników wyborów i sporządzeniu protokołu mogą być obecni mężowie zaufania, którym przysługuje prawo wniesienia do protokołu uwag z wymienieniem konkretnych zarzutów. Dane z protokołu są transmitowane do Państwowej Komisji Wyborczej, a następnie protokół jest przesyłany faksem (pod numer wskazany przez Krajowe Biuro Wyborcze)."
       },
       {
        "type": "text",
-       "text": "wsprawie sposobu sporządzania itrybu przekazania kart do głosowania dla obwodów głosowania utworzonych za granicą wwyborach do Sejmu Rzeczypospolitej Polskiej ido Senatu Rzeczypospolitej Polskiej zarządzonych na dzień 23 września 2001 r."
-      },
-      {
-       "type": "text",
-       "text": "Na podstawie art. 159 i art. 190 ustawy z dnia borczego nr 19 do Sejmu iokręgu wyborczego nr 18 do 12 kwietnia 2001 r. — Ordynacja wyborcza do Sejmu Senatu, oliczbie potrzebnych kart do głosowania. Rzeczypospolitej Polskiej ido Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz. 499 i Nr 74, poz. 786) Pań- § 2. Minister Spraw Zagranicznych zapewnia dostwowa Komisja Wyborcza uchwala, co następuje: starczenie konsulom kart do głosowania przekazanych przez komisję, októrej mowa w§ 1."
+       "text": "Okręgowa komisja wyborcza sporządza w 2 egzemplarzach protokół wyników głosowania i wyników wyborów senatorów w okręgu. Dane z tego protokołu niezwłocznie po jego sporządzeniu okręgowa komisja przekazuje do Państwowej Komisji Wyborczej systemem elektronicznym (art. 205 ust. 6). Po ich transmisji przekazuje się faksem tekst protokołu (pod te same numery, co protokół do Sejmu)."
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "Niezwłocznie po ustaleniu przewidywanej liczby wyborców konsul zawiadamia, za pośrednictwem § 3. Jeżeli do 7 dnia przed dniem wyborów nie zo- Ministerstwa Spraw Zagranicznych, Okręgową Komi- staną dostarczone karty do głosowania wydrukowane sję Wyborczą w Warszawie, właściwą dla okręgu wy- wkraju, konsul sporządza je wbrzmieniu przekazanym",
-   "children": [
+    },
     {
-     "type": "text",
-     "text": "(siedziba okręgowej komisji wyborczej) (liczba) (nazwisko, imiona; funkcja wKomisji) (podpis) (pieczęć Komisji) * Wyliczenia ilorazów wyborczych dokonuje się wliczbie równej liczbie mandatów wokręgu wyborczym, powiększonej o4 ilorazy. ** Listy wymienić według kolejności ich numerów. *** Niepotrzebne skreślić."
+     "type": "ust",
+     "num": "10",
+     "path": "par_2/ust_10",
+     "text": "Podanie do publicznej wiadomości wyników głosowania i wyborów oraz przekazanie protokołów Państwowej Komisji Wyborczej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okręgowa komisja wyborcza po przekazaniu faksem do Państwowej Komisji Wyborczej protokołów, o których mowa w pkt 9, i uzyskaniu potwierdzenia od Państwowej Komisji Wyborczej prawidłowości ustalenia wyników wyborów posłów i senatorów (art. 171 i 208 Ordynacji wyborczej) niezwłocznie podaje do publicznej wiadomości wyniki głosowania i wyniki wyborów do Sejmu i do Senatu (art. 169, art. 207). Podanie wyników następuje przez wywieszenie informacji obejmującej dane z protokołów, o których mowa w art. 168 ust. 2 i art. 203 ust. 1."
+      },
+      {
+       "type": "text",
+       "text": "Okręgowa komisja wyborcza przekazuje niezwłocznie Państwowej Komisji Wyborczej po jednym egzemplarzu protokołu wyników głosowania w okręgu wyborczym, protokołu wyborów posłów w okręgu wyborczym wraz z zestawieniem wyników głosowania i podziału mandatów pomiędzy okręgowe listy oraz protokołu wyników głosowania i wyników wyborów senatorów w okręgu wyborczym. Wraz z protokołami przekazuje się wykaz zarzutów wniesionych przez pełnomocników oraz stanowisko zajęte przez komisję wobec tych zarzutów. Z protokołami przekazywane są także nośniki informatyczne z zarejestrowanymi danymi z protokołów oraz z wydruków sporządzonych w okręgu."
+      },
+      {
+       "type": "text",
+       "text": "Przekazywane dokumenty są dostarczane w kopertach zaklejonych i opieczętowanych na wszystkich złączach; doręcza je Państwowej Komisji Wyborczej przewodniczący okręgowej komisji wyborczej bądź osoba pisemnie przez niego upoważniona."
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe dokumenty z wyborów okręgowa komisja wyborcza przekazuje dyrektorowi delegatury wojewódzkiej Krajowego Biura Wyborczego właściwej dla siedziby komisji."
+      },
+      {
+       "type": "text",
+       "text": "(siedziba okręgowej komisji wyborczej) (liczba) (nazwisko, imiona; funkcja w Komisji) (podpis) (pieczęć Komisji) * Wyliczenia ilorazów wyborczych dokonuje się w liczbie równej liczbie mandatów w okręgu wyborczym, powiększonej o 4 ilorazy. ** Listy wymienić według kolejności ich numerów. *** Niepotrzebne skreślić."
+      }
+     ]
     }
    ]
   }

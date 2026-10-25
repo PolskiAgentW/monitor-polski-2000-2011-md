@@ -1,17 +1,9 @@
 {
  "eli": "MP/2001/718",
  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 27 września 2001 r. nr 112-14-01 o powołaniu na stanowisko sędziego.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/718/text.pdf",
  "body": [
-  {
-   "type": "text",
-   "text": "Monitor Polski N r 45 — 1186 — Poz. 718"
-  },
-  {
-   "type": "text",
-   "text": "718"
-  },
   {
    "type": "text",
    "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
@@ -30,7 +22,7 @@
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 179 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483), zgodnie z wnioskiem Krajowej Rady Sądownictwa,powołuję niżej wymienione osoby:"
+   "text": "Na podstawie art. 179 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483), zgodnie z wnioskiem Krajowej Rady Sądownictwa, powołuję niżej wymienione osoby:"
   },
   {
    "type": "text",
@@ -190,7 +182,7 @@
    "type": "ust",
    "num": "21",
    "path": "ust_21",
-   "text": "Jacek SADOMSKI —dla m.st. Warszawy w Warszawie",
+   "text": "Jacek SADOMSKI — dla m.st. Warszawy w Warszawie",
    "children": []
   },
   {

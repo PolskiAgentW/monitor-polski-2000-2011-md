@@ -1,16 +1,12 @@
 {
  "eli": "MP/2001/409",
  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 24 maja 2001 r. o nadaniu odznaczeń.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/409/text.pdf",
  "body": [
   {
    "type": "text",
-   "text": "Monitor Polski N r 23 — 460 — Poz. 409"
-  },
-  {
-   "type": "text",
-   "text": "409 Rej. 83/2001"
+   "text": "Rej. 83/2001"
   },
   {
    "type": "text",
@@ -18,47 +14,81 @@
   },
   {
    "type": "text",
-   "text": "zdnia 24 maja 2001 r."
+   "text": "z dnia 24 maja 2001 r."
   },
   {
    "type": "text",
-   "text": "onadaniu odznaczeń."
+   "text": "o nadaniu odznaczeń."
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej na wniosek Ministra Skarbu Państwa Polskiej zdnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) za wzorowe, wyjątkowo sumienne wykonywanie obooraz ustawy z dnia 16 października 1992 r. o orderach wiązków wynikających zpracy zawodowej: iodznaczeniach (Dz. U. Nr 90, poz. 450,z1999 r. Nr 101, poz. 1177 iz2000 r. Nr 62, poz. 718) odznaczeni zosta- ZŁOTYM KRZYŻEM ZASŁUGI ją: po raz drugi"
+   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z 1999 r. Nr 101, poz. 1177 i z 2000 r. Nr 62, poz. 718) odznaczeni zostają:"
   },
   {
    "type": "text",
-   "text": "na wniosek Prezesa Rady Ministrów 27. Dworak Tadeusz,"
+   "text": "na wniosek Prezesa Rady Ministrów"
   },
   {
    "type": "text",
-   "text": "za zasługi w działalności społecznej na rzecz Komitetów Obywatelskich: ZŁOTYM KRZYŻEM ZASŁUGI"
+   "text": "za zasługi w działalności społecznej na rzecz Komitetów Obywatelskich:"
   },
   {
-   "type": "ust",
-   "num": "28",
-   "path": "ust_28",
-   "text": "Czubiński Andrzej, 29. Karaś Stefan, 30. Konit- ZŁOTYM KRZYŻEM ZASŁUGI zer Janusz Bogusław,",
-   "children": []
+   "type": "text",
+   "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
   },
   {
    "type": "ust",
    "num": "1",
    "path": "ust_1",
-   "text": "Kossakowski Marian, 2. Kowalik Krzysztof Jan, 3. Kryjomski Stanisław, 4. Tyszko Zbigniew, SREBRNYM KRZYŻEM ZASŁUGI",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "31",
-   "path": "ust_31",
-   "text": "Bielecki Janusz Stanisław, 32. Gnatek Janina, SREBRNYM KRZYŻEM ZASŁUGI 33. Gotkowski Andrzej Antoni, 34. Lipiński Wojciech 5. Bernacki Tadeusz Roman, 6. Grabowski Kazi- Jacek, 35. Malinowski Mirosław, 36. Onak Stanisław, mierz, 7. Ickiewicz Jerzy Stefan, 8. Kapuściak Henryk, 9. 37. Pieńkosz Jadwiga, 38. Powszedniak Teodor, 39. Sa- Sułkowski Tadeusz Zdzisław, dowski Marek, 40. Smaga Mieczysław, 41. Szuba Edward, 42. Ziemniak Jan, BRĄZOWYM KRZYŻEM ZASŁUGI BRĄZOWYM KRZYŻEM ZASŁUGI 10. Kolczyński Józef Stanisław, 11. Martynowski Warcisław Janusz, 12. Zieliński Jerzy Andrzej, 43. Brzozowska Janina, 44. Miśkowicz Antoni, 45. Więch Aleksandra, na wniosek Ministra Kultury iDziedzictwa Narodowego: na wniosek Wojewody Kujawsko-Pomorskiego za zasługi w promocji współczesnej dramaturgii teatralnej, filmowej iradiowej: za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających zpracy zawodowej: ZŁOTYM KRZYŻEM ZASŁUGI SREBRNYM KRZYŻEM ZASŁUGI 13. Semil-Jakubowicz Małgorzata Joanna, 14. Szpakowska Maria Małgorzata, 46. Grupa Tadeusz, 47. Przybylski Jan Stanisław,",
+   "text": "Kossakowski Marian, 2. Kowalik Krzysztof Jan, 3. Kryjomski Stanisław, 4. Tyszko Zbigniew,",
    "children": [
     {
      "type": "text",
-     "text": "SREBRNYM KRZYŻEM ZASŁUGI BRĄZOWYM KRZYŻEM ZASŁUGI"
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Bernacki Tadeusz Roman, 6. Grabowski Kazimierz, 7. Ickiewicz Jerzy Stefan, 8. Kapuściak Henryk, 9. Sułkowski Tadeusz Zdzisław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "Kolczyński Józef Stanisław, 11. Martynowski Warcisław Janusz, 12. Zieliński Jerzy Andrzej,",
+   "children": [
+    {
+     "type": "text",
+     "text": "na wniosek Ministra Kultury i Dziedzictwa Narodowego:"
+    },
+    {
+     "type": "text",
+     "text": "za zasługi w promocji współczesnej dramaturgii teatralnej, filmowej i radiowej:"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "Semil-Jakubowicz Małgorzata Joanna, 14. Szpakowska Maria Małgorzata,",
+   "children": [
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
@@ -66,15 +96,15 @@
    "type": "ust",
    "num": "15",
    "path": "ust_15",
-   "text": "Kruk Anna, 16. Krystecka Ewa Henryka, 17. Sie- 48. Krych Ryszard Józef, 49. Lewicki Romuald, radzki Jacek, na wniosek Wojewody Lubelskiego",
+   "text": "Kruk Anna, 16. Krystecka Ewa Henryka, 17. Sieradzki Jacek,",
    "children": [
     {
      "type": "text",
-     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obo- za zasługi w działalności na rzecz ratowania dóbr wiązków wynikających zpracy zawodowej: kultury narodowej:"
+     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej:"
     },
     {
      "type": "text",
-     "text": "ZŁOTYM KRZYŻEM ZASŁUGI ZŁOTYM KRZYŻEM ZASŁUGI"
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
@@ -82,27 +112,166 @@
    "type": "ust",
    "num": "18",
    "path": "ust_18",
-   "text": "Nalepka Jerzy, 50. Kseniak Mieczysław, 51. Urbański Andrzej, 52. Wójcik Ewa Józefa, SREBRNYM KRZYŻEM ZASŁUGI SREBRNYM KRZYŻEM ZASŁUGI 19. Badziak-Szulewa Małgorzata, 20. Ignaczewski Zbigniew, 21. Korecka-Soszkowska Maria Jadwiga, 22. 53. Grzeszczak Andrzej Leszek, 54. Kondratowicz- Szcześniak Eugeniusz, 23. Sztekmiler Krzysztof, 24. -Miliszkiewicz Łucja Ewa, 55. Koziejowski Wojciech Wódka Bogusław Sylwester, Zbigniew, 56. Malawski Wiesław, 57. Miliszkiewicz Grzegorz Stanisław, 58. Rozłowski Tadeusz, 59. Serafi- BRĄZOWYM KRZYŻEM ZASŁUGI nowicz Jadwiga Maria, 60. Waszkiewicz Jerzy, 61. Wiśniewski Krzysztof Jerzy, 62. Wójcik Ewa Anna, 63. 25. Różycka-Przybylak Elżbieta, 26. Sanecki Cezary, Wrona Andrzej, Monitor Polski N r 23 — 461 — Poz. 409",
+   "text": "Nalepka Jerzy,",
    "children": [
     {
      "type": "text",
-     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI na wniosek Wojewody Podlaskiego"
-    },
-    {
-     "type": "text",
-     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obo- 64. Kowalczyk Wiktor Jan, 65. Piotrowska Jolanta, wiązków wynikających zpracy zawodowej 66. Stachyra Halina Anna, ZŁOTYM KRZYŻEM ZASŁUGI na wniosek Wojewody Łódzkiego:"
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
   {
    "type": "ust",
-   "num": "98",
-   "path": "ust_98",
-   "text": "Kaczmarski Władysław Marek, za zasługi w działalności społecznej na rzecz ochrony przeciwpożarowej: na wniosek Wojewody Wielkopolskiego",
+   "num": "19",
+   "path": "ust_19",
+   "text": "Badziak-Szulewa Małgorzata, 20. Ignaczewski Zbigniew, 21. Korecka-Soszkowska Maria Jadwiga, 22. Szcześniak Eugeniusz, 23. Sztekmiler Krzysztof, 24. Wódka Bogusław Sylwester,",
    "children": [
     {
      "type": "text",
-     "text": "ZŁOTYM KRZYŻEM ZASŁUGI za zasługi wpracy zawodowej, za aktywną działalność społeczną:"
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "25",
+   "path": "ust_25",
+   "text": "Różycka-Przybylak Elżbieta, 26. Sanecki Cezary, na wniosek Ministra Skarbu Państwa",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej:"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI po raz drugi"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "27",
+   "path": "ust_27",
+   "text": "Dworak Tadeusz,",
+   "children": [
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "28",
+   "path": "ust_28",
+   "text": "Czubiński Andrzej, 29. Karaś Stefan, 30. Konitzer Janusz Bogusław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "31",
+   "path": "ust_31",
+   "text": "Bielecki Janusz Stanisław, 32. Gnatek Janina, 33. Gotkowski Andrzej Antoni, 34. Lipiński Wojciech Jacek, 35. Malinowski Mirosław, 36. Onak Stanisław, 37. Pieńkosz Jadwiga, 38. Powszedniak Teodor, 39. Sadowski Marek, 40. Smaga Mieczysław, 41. Szuba Edward, 42. Ziemniak Jan,",
+   "children": [
+    {
+     "type": "text",
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "43",
+   "path": "ust_43",
+   "text": "Brzozowska Janina, 44. Miśkowicz Antoni, 45. Więch Aleksandra,",
+   "children": [
+    {
+     "type": "text",
+     "text": "na wniosek Wojewody Kujawsko-Pomorskiego"
+    },
+    {
+     "type": "text",
+     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej:"
+    },
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "46",
+   "path": "ust_46",
+   "text": "Grupa Tadeusz, 47. Przybylski Jan Stanisław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "48",
+   "path": "ust_48",
+   "text": "Krych Ryszard Józef, 49. Lewicki Romuald,",
+   "children": [
+    {
+     "type": "text",
+     "text": "na wniosek Wojewody Lubelskiego"
+    },
+    {
+     "type": "text",
+     "text": "za zasługi w działalności na rzecz ratowania dóbr kultury narodowej:"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "50",
+   "path": "ust_50",
+   "text": "Kseniak Mieczysław, 51. Urbański Andrzej, 52. Wójcik Ewa Józefa,",
+   "children": [
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "53",
+   "path": "ust_53",
+   "text": "Grzeszczak Andrzej Leszek, 54. Kondratowicz-Miliszkiewicz Łucja Ewa, 55. Koziejowski Wojciech Zbigniew, 56. Malawski Wiesław, 57. Miliszkiewicz Grzegorz Stanisław, 58. Rozłowski Tadeusz, 59. Serafinowicz Jadwiga Maria, 60. Waszkiewicz Jerzy, 61. Wiśniewski Krzysztof Jerzy, 62. Wójcik Ewa Anna, 63. Wrona Andrzej, BRĄZOWYM KRZYŻEM ZASŁUGI",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "64",
+   "path": "ust_64",
+   "text": "Kowalczyk Wiktor Jan, 65. Piotrowska Jolanta, 66. Stachyra Halina Anna,",
+   "children": [
+    {
+     "type": "text",
+     "text": "na wniosek Wojewody Łódzkiego:"
+    },
+    {
+     "type": "text",
+     "text": "za zasługi w działalności społecznej na rzecz ochrony przeciwpożarowej:"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
@@ -110,11 +279,11 @@
    "type": "ust",
    "num": "67",
    "path": "ust_67",
-   "text": "Kołodziejczak Jan Bolesław, ZŁOTYM KRZYŻEM ZASŁUGI",
+   "text": "Kołodziejczak Jan Bolesław,",
    "children": [
     {
      "type": "text",
-     "text": "SREBRNYM KRZYŻEM ZASŁUGI 99. Szajrych Zenon Stanisław,"
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
@@ -122,37 +291,71 @@
    "type": "ust",
    "num": "68",
    "path": "ust_68",
-   "text": "Błaszczyk Seweryn Stefan, 69. Chęciński Miro- SREBRNYM KRZYŻEM ZASŁUGI sław, 70. Grabarczyk Jan Bogusław, 71. Konefał Hen- 100. Goździkiewicz Danuta Krystyna, 101. Pawlak ryk, 72. Kubera Lucjan, 73. Kuna Mieczysław, 74. Waldemar Edward, 102. Poturała Krzysztof Józef, Pniewski Jerzy Piotr, 75. Wata Bolesław, 76. Wąsik Franciszek, 77. Wlazło Marek, 78. Wlazło Stanisław Ka- na wniosek Wojewody Zachodniopomorskiego: zimierz, za wzorowe, wyjątkowo sumienne wykonywanie oboza zasługi wdziałalności na rzecz społeczności lokalnej wiązków wynikających z pracy zawodowej oraz zasługi wdziałalności społecznej: BRĄZOWYM KRZYŻEM ZASŁUGI ZŁOTYM KRZYŻEM ZASŁUGI",
-   "children": []
+   "text": "Błaszczyk Seweryn Stefan, 69. Chęciński Mirosław, 70. Grabarczyk Jan Bogusław, 71. Konefał Henryk, 72. Kubera Lucjan, 73. Kuna Mieczysław, 74. Pniewski Jerzy Piotr, 75. Wata Bolesław, 76. Wąsik Franciszek, 77. Wlazło Marek, 78. Wlazło Stanisław Kazimierz,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za zasługi w działalności na rzecz społeczności lokalnej"
+    },
+    {
+     "type": "text",
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
   },
   {
    "type": "ust",
    "num": "79",
    "path": "ust_79",
-   "text": "Cwajda Mirosław Tadeusz, 80. Hillebrand Jacek 103. Idzik Elżbieta, 104. Ochman Jerzy, Bronisław, 81. Krześnicki Ireneusz, 82. Nowak Michał,",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "83",
-   "path": "ust_83",
-   "text": "Sieradzki Radosław, SREBRNYM KRZYŻEM ZASŁUGI po raz drugi na wniosek Wojewody Mazowieckiego: 105. Strzelecki Stefan, za zasługi wpracy na rzecz ochrony przyrody SREBRNYM KRZYŻEM ZASŁUGI",
+   "text": "Cwajda Mirosław Tadeusz, 80. Hillebrand Jacek Bronisław, 81. Krześnicki Ireneusz, 82. Nowak Michał, 83. Sieradzki Radosław,",
    "children": [
     {
      "type": "text",
-     "text": "ZŁOTYM KRZYŻEM ZASŁUGI 106. Buczkowski Michał, 107. Kolisz Krzysztof, 108. Łaska Maria, 109. Przybylak Jerzy, 110. Zoruk Zbi- 84. Lewandowski Dariusz Henryk, gniew,"
+     "text": "na wniosek Wojewody Mazowieckiego:"
     },
     {
      "type": "text",
-     "text": "za zasługi wdziałalności na rzecz osób niepełnospraw- BRĄZOWYM KRZYŻEM ZASŁUGI nych 111. Baran Stanisław, 112. Horbacz Bożena, 113. SREBRNYM KRZYŻEM ZASŁUGI Krzyżanowski Zdzisław, 114. Miler Jerzy, 115. Pierściński Ryszard, 116. Szewczyk Jerzy, 117. Tomaszewski 85. Grodzicka Joanna, Zenon, 118. Wojtowicz Czesław Antoni, 119. Wojtowicz Krystyna Janina, 120. Zieliński Szczepan,"
+     "text": "za zasługi w pracy na rzecz ochrony przyrody"
     },
     {
      "type": "text",
-     "text": "na wniosek Wojewody Podkarpackiego za wzorowe, wyjątkowo sumienne wykonywanie oboza wzorowe, wyjątkowo sumienne wykonywanie obo- wiązków wynikających zpracy zawodowej: wiązków wynikających zpracy zawodowej: SREBRNYM KRZYŻEM ZASŁUGI"
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "84",
+   "path": "ust_84",
+   "text": "Lewandowski Dariusz Henryk,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za zasługi w działalności na rzecz osób niepełnosprawnych"
     },
     {
      "type": "text",
-     "text": "ZŁOTYM KRZYŻEM ZASŁUGI 121. Wolski Jan,"
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "85",
+   "path": "ust_85",
+   "text": "Grodzicka Joanna,",
+   "children": [
+    {
+     "type": "text",
+     "text": "na wniosek Wojewody Podkarpackiego"
+    },
+    {
+     "type": "text",
+     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej:"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
@@ -160,11 +363,11 @@
    "type": "ust",
    "num": "86",
    "path": "ust_86",
-   "text": "Perończyk Ewa Teresa, 87. Prucnal Władysław, BRĄZOWYM KRZYŻEM ZASŁUGI",
+   "text": "Perończyk Ewa Teresa, 87. Prucnal Władysław,",
    "children": [
     {
      "type": "text",
-     "text": "SREBRNYM KRZYŻEM ZASŁUGI 122. Brzostowska Irena, 123. Madej Sławomir, 124. Staszewska Krystyna, 125. Szczepankiewicz Kazimierz,"
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
@@ -172,11 +375,11 @@
    "type": "ust",
    "num": "88",
    "path": "ust_88",
-   "text": "Hebda Stanisław, 89. Kwoka Stanisław, 90. Pietrasz Tadeusz, 91. Płoszaj Franciszek, 92. Sokołowska za zasługi wdziałalności społecznej na rzecz organiza- Stanisława, 93. Surowiec Stanisław, 94. Zielińska Kata- cji kombatanckiej rzyna Stanisława, SREBRNYM KRZYŻEM ZASŁUGI",
+   "text": "Hebda Stanisław, 89. Kwoka Stanisław, 90. Pietrasz Tadeusz, 91. Płoszaj Franciszek, 92. Sokołowska Stanisława, 93. Surowiec Stanisław, 94. Zielińska Katarzyna Stanisława,",
    "children": [
     {
      "type": "text",
-     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI 126. Dawid Krystyna Zofia, 127. Jaworska Krystyna Ludwika."
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
     }
    ]
   },
@@ -184,8 +387,160 @@
    "type": "ust",
    "num": "95",
    "path": "ust_95",
-   "text": "Bereś Bogusław Stanisław, 96. Kraus Stanisław Wincenty, 97. Kubicz Janina, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski",
+   "text": "Bereś Bogusław Stanisław, 96. Kraus Stanisław Wincenty, 97. Kubicz Janina, na wniosek Wojewody Podlaskiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "98",
+   "path": "ust_98",
+   "text": "Kaczmarski Władysław Marek,",
+   "children": [
+    {
+     "type": "text",
+     "text": "na wniosek Wojewody Wielkopolskiego"
+    },
+    {
+     "type": "text",
+     "text": "za zasługi w pracy zawodowej, za aktywną działalność społeczną:"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "99",
+   "path": "ust_99",
+   "text": "Szajrych Zenon Stanisław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "100",
+   "path": "ust_100",
+   "text": "Goździkiewicz Danuta Krystyna, 101. Pawlak Waldemar Edward, 102. Poturała Krzysztof Józef,",
+   "children": [
+    {
+     "type": "text",
+     "text": "na wniosek Wojewody Zachodniopomorskiego:"
+    },
+    {
+     "type": "text",
+     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej oraz zasługi w działalności społecznej:"
+    },
+    {
+     "type": "text",
+     "text": "ZŁOTYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "103",
+   "path": "ust_103",
+   "text": "Idzik Elżbieta, 104. Ochman Jerzy,",
+   "children": [
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI po raz drugi"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "105",
+   "path": "ust_105",
+   "text": "Strzelecki Stefan,",
+   "children": [
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "106",
+   "path": "ust_106",
+   "text": "Buczkowski Michał, 107. Kolisz Krzysztof, 108. Łaska Maria, 109. Przybylak Jerzy, 110. Zoruk Zbigniew,",
+   "children": [
+    {
+     "type": "text",
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "111",
+   "path": "ust_111",
+   "text": "Baran Stanisław, 112. Horbacz Bożena, 113. Krzyżanowski Zdzisław, 114. Miler Jerzy, 115. Pierściński Ryszard, 116. Szewczyk Jerzy, 117. Tomaszewski Zenon, 118. Wojtowicz Czesław Antoni, 119. Wojtowicz Krystyna Janina, 120. Zieliński Szczepan,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej:"
+    },
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "121",
+   "path": "ust_121",
+   "text": "Wolski Jan,",
+   "children": [
+    {
+     "type": "text",
+     "text": "BRĄZOWYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "122",
+   "path": "ust_122",
+   "text": "Brzostowska Irena, 123. Madej Sławomir, 124. Staszewska Krystyna, 125. Szczepankiewicz Kazimierz,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za zasługi w działalności społecznej na rzecz organizacji kombatanckiej"
+    },
+    {
+     "type": "text",
+     "text": "SREBRNYM KRZYŻEM ZASŁUGI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "126",
+   "path": "ust_126",
+   "text": "Dawid Krystyna Zofia, 127. Jaworska Krystyna Ludwika.",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
   }
  ],
  "annexes": [],

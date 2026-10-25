@@ -1,40 +1,84 @@
 {
  "eli": "MP/2002/432",
  "title": "Zarządzenie Nr 73 Prezesa Rady Ministrów z dnia 26 czerwca 2002 r. w sprawie nadania statutu Agencji Bezpieczeństwa Wewnętrznego.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/432/text.pdf",
  "body": [
   {
    "type": "text",
-   "text": "Monitor Polski N r 26 — 1126 — Poz. 431 i 432"
+   "text": "ZARZĄDZENIE Nr 73 PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 czerwca 2002 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Agencji Bezpieczeństwa Wewnętrznego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 74, poz. 676) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Agencji Bezpieczeństwa Wewnętrznego nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 29 czerwca 2002 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: L. Miller"
   }
  ],
  "annexes": [
   {
-   "heading": "Załącznik do zarządzenia nr 72 Prezesa Rady Ministrów zdnia 25 czerwca 2002 r. (poz. 431)",
+   "heading": "Załącznik do zarządzenia nr 73 Prezesa Rady Ministrów z dnia 26 czerwca 2002 r. (poz. 432)",
    "body": [
     {
      "type": "text",
-     "text": "STATUT RZĄDOWEGO CENTRUM STUDIÓW STRATEGICZNYCH"
+     "text": "STATUT AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO"
     },
     {
      "type": "par",
      "num": "1",
      "path": "par_1",
+     "text": "Agencja Bezpieczeństwa Wewnętrznego, zwana dalej „ABW”, jest urzędem administracji rządowej obsługującym Szefa Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „Szefem ABW”, i działającym zgodnie z jego zarządzeniami, decyzjami, rozkazami, poleceniami i wytycznymi oraz pod jego bezpośrednim kierownictwem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
      "text": "",
      "children": [
       {
        "type": "ust",
        "num": "1",
-       "path": "par_1/ust_1",
-       "text": "Rządowe Centrum Studiów Strategicznych, 3) Departament Strategii iIntegracji Międzynarodowej, zwane dalej „RCSS”, jest państwową jednostką orga- 4) Departament Rozwoju i Koordynacji Oceny Skutnizacyjną podległą Prezesowi Rady Ministrów, prowa- ków Regulacji, dzącą prace służące Prezesowi Rady Ministrów, wtym związane z pracami Rady Ministrów, do programowa- 5) Departament Strategii Przestrzennej iRegionalnej, nia strategicznego oraz prognozowania rozwoju go- 6) Departament Spraw Obronnych i Ochrony Inforspodarczego ispołecznego. macji Niejawnych,",
+       "path": "par_2/ust_1",
+       "text": "Szef ABW kieruje ABW przy pomocy zastępców oraz dyrektorów (kierowników) jednostek organizacyjnych, o których mowa w § 3.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "par_1/ust_2",
-       "text": "RCSS kieruje Prezes RCSS przy pomocy wicepre- 7) Sekretariat Rządowej Rady Ludnościowej, zesów RCSS, dyrektora generalnego oraz dyrektorów 8) Biuro Logistyki. komórek organizacyjnych wymienionych w§ 2.",
+       "path": "par_2/ust_2",
+       "text": "Szefa ABW, w czasie jego nieobecności, zastępuje wyznaczony przez niego zastępca, działający w ramach udzielonych mu przez Szefa ABW pełnomocnictw.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Szef ABW może upoważnić osoby, o których mowa w ust. 1, oraz innych funkcjonariuszy ABW do podejmowania decyzji, w określonych sprawach, w jego imieniu.",
        "children": []
       }
      ]
@@ -43,264 +87,229 @@
      "type": "par",
      "num": "3",
      "path": "par_3",
-     "text": "Prezes RCSS prowadzi współpracę międzyna- 3. RCSS zapewnia obsługę Prezesa Centrum. rodową w ramach Komitetu Rozwoju Przestrzennego 4. Prezes RCSS może upoważnić osoby, o których Obszaru Morza Bałtyckiego, zwanego „Komitetem mowa w ust. 2, a także innych pracowników RCSS do VASAB 2010”, oraz wramach Programu Unii Europejzałatwiania określonych spraw wjego imieniu. skiej INTERREG dla Obszaru Krajów Europy Środkowej, Adriatyckiej, Naddunajskiej i Południowo- § 2. W skład RCSS wchodzą następujące komórki -Wschodniej oraz dla Obszaru Morza Bałtyckiego. organizacyjne:",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
-     "text": "Wzakresie niezbędnym do realizacji zadań Pre- 1) Departament Programowania iPrognozowania, zes RCSS może zlecać przeprowadzanie ekspertyz oraz",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "par_4/pkt_2",
-       "text": "Departament Monitorowania iAnaliz, innych opracowań.",
-       "children": [
-        {
-         "type": "text",
-         "text": "432"
-        },
-        {
-         "type": "text",
-         "text": "ZARZĄDZENIE Nr 73 PREZESA RADY MINISTRÓW"
-        },
-        {
-         "type": "text",
-         "text": "zdnia 26 czerwca 2002 r."
-        },
-        {
-         "type": "text",
-         "text": "wsprawie nadania statutu Agencji Bezpieczeństwa Wewnętrznego."
-        },
-        {
-         "type": "text",
-         "text": "Na podstawie art. 20 ust. 1 ustawy z dnia 24 maja § 2. Zarządzenie wchodzi wżycie zdniem 29 czerw- 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz ca 2002 r. Agencji Wywiadu (Dz. U. Nr 74, poz. 676) zarządza się, co następuje:"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "Agencji Bezpieczeństwa Wewnętrznego nadaje się statut, stanowiący załącznik do zarządzenia. Prezes Rady Ministrów: L. Miller",
-     "children": [
-      {
-       "type": "text",
-       "text": "STATUT AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO"
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "Agencja Bezpieczeństwa Wewnętrznego, zwa- mach udzielonych mu przez Szefa ABW pełnomocna dalej „ABW”, jest urzędem administracji rządowej nictw. obsługującym Szefa Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „Szefem ABW”, idziałają- 3. Szef ABW może upoważnić osoby, októrych mocym zgodnie zjego zarządzeniami, decyzjami, rozkaza- wa w ust. 1, oraz innych funkcjonariuszy ABW do pomi, poleceniami i wytycznymi oraz pod jego bezpo- dejmowania decyzji, w określonych sprawach, w jego średnim kierownictwem. imieniu.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
      "text": "",
      "children": [
       {
        "type": "ust",
        "num": "1",
-       "path": "par_2/ust_1",
-       "text": "Szef ABW kieruje ABW przy pomocy zastęp- § 3. 1. Wskład ABW wchodzą następujące jednostców oraz dyrektorów (kierowników) jednostek organi- ki organizacyjne: zacyjnych, októrych mowa w§ 3. 1) Departament Kontrwywiadu,",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "2",
-       "path": "par_2/ust_2",
-       "text": "Szefa ABW, wczasie jego nieobecności, zastępu- 2) Departament Przeciwdziałania Korupcji, Terroryje wyznaczony przez niego zastępca, działający w ra- zmowi iPrzestępczości Zorganizowanej, Monitor Polski N r 26 — 1127 — Poz. 432 i 433",
+       "path": "par_3/ust_1",
+       "text": "W skład ABW wchodzą następujące jednostki organizacyjne:",
        "children": [
         {
          "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "Departament Kontrwywiadu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "Departament Przeciwdziałania Korupcji, Terroryzmowi i Przestępczości Zorganizowanej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
          "num": "3",
-         "path": "par_2/ust_2/pkt_3",
-         "text": "Departament Postępowań Karnych, 22) Delegatura ABW wLublinie,",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "Departament Postępowań Karnych,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "par_2/ust_2/pkt_4",
-         "text": "Departament Zabezpieczenia Technicznego, 23) Delegatura ABW wŁodzi,",
+         "path": "par_3/ust_1/pkt_4",
+         "text": "Departament Zabezpieczenia Technicznego,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "par_2/ust_2/pkt_5",
-         "text": "Departament Ochrony Informacji Niejawnych, 24) Delegatura ABW wOlsztynie,",
+         "path": "par_3/ust_1/pkt_5",
+         "text": "Departament Ochrony Informacji Niejawnych,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "par_2/ust_2/pkt_6",
-         "text": "Departament Bezpieczeństwa Teleinformatycznego, 25) Delegatura ABW wOpolu,",
+         "path": "par_3/ust_1/pkt_6",
+         "text": "Departament Bezpieczeństwa Teleinformatycznego,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "7",
-         "path": "par_2/ust_2/pkt_7",
-         "text": "Biuro Ewidencji iArchiwum, 26) Delegatura ABW wPoznaniu,",
+         "path": "par_3/ust_1/pkt_7",
+         "text": "Biuro Ewidencji i Archiwum,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "8",
-         "path": "par_2/ust_2/pkt_8",
-         "text": "Biuro Prawne, 27) Delegatura ABW wRadomiu,",
+         "path": "par_3/ust_1/pkt_8",
+         "text": "Biuro Prawne,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "9",
-         "path": "par_2/ust_2/pkt_9",
-         "text": "Biuro Finansów, 28) Delegatura ABW wRzeszowie,",
+         "path": "par_3/ust_1/pkt_9",
+         "text": "Biuro Finansów,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "10",
-         "path": "par_2/ust_2/pkt_10",
-         "text": "Biuro Kadr, 29) Delegatura ABW wSzczecinie,",
+         "path": "par_3/ust_1/pkt_10",
+         "text": "Biuro Kadr,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "11",
-         "path": "par_2/ust_2/pkt_11",
-         "text": "Biuro Administracyjno-Gospodarcze, 30) Delegatura ABW we Wrocławiu,",
+         "path": "par_3/ust_1/pkt_11",
+         "text": "Biuro Administracyjno-Gospodarcze,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "12",
-         "path": "par_2/ust_2/pkt_12",
-         "text": "Gabinet Szefa, 31) Delegatura ABW wZielonej Górze.",
+         "path": "par_3/ust_1/pkt_12",
+         "text": "Gabinet Szefa,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "13",
-         "path": "par_2/ust_2/pkt_13",
-         "text": "Inspektorat Nadzoru, Kontroli i Bezpieczeństwa 2. Wskład delegatur ABW mogą wchodzić wydzia- Wewnętrznego, ły zamiejscowe.",
+         "path": "par_3/ust_1/pkt_13",
+         "text": "Inspektorat Nadzoru, Kontroli i Bezpieczeństwa Wewnętrznego,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "14",
-         "path": "par_2/ust_2/pkt_14",
+         "path": "par_3/ust_1/pkt_14",
          "text": "Zespół Audytu Wewnętrznego,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "15",
-         "path": "par_2/ust_2/pkt_15",
-         "text": "Zespół Ochrony Zdrowia, 3. Organizację wewnętrzną i szczegółowy zakres zadań jednostek organizacyjnych ABW określają regu- 16) Centralny Ośrodek Szkolenia ABW, laminy organizacyjne tych jednostek.",
+         "path": "par_3/ust_1/pkt_15",
+         "text": "Zespół Ochrony Zdrowia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "16",
+         "path": "par_3/ust_1/pkt_16",
+         "text": "Centralny Ośrodek Szkolenia ABW,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "17",
-         "path": "par_2/ust_2/pkt_17",
-         "text": "Delegatura ABW wBiałymstoku, § 4. Spory kompetencyjne między jednostkami or- 18) Delegatura ABW wBydgoszczy, ganizacyjnymi ABW rozstrzyga Szef ABW.",
+         "path": "par_3/ust_1/pkt_17",
+         "text": "Delegatura ABW w Białymstoku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "18",
+         "path": "par_3/ust_1/pkt_18",
+         "text": "Delegatura ABW w Bydgoszczy,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "19",
-         "path": "par_2/ust_2/pkt_19",
-         "text": "Delegatura ABW wGdańsku,",
+         "path": "par_3/ust_1/pkt_19",
+         "text": "Delegatura ABW w Gdańsku,",
          "children": []
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
-     "text": "Szef ABW może powoływać kolegialne organy 20) Delegatura ABW wKatowicach, doradcze i opiniodawcze, określając ich nazwę, skład",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "21",
-       "path": "par_5/pkt_21",
-       "text": "Delegatura ABW wKrakowie, osobowy oraz szczegółowy zakres itryb działania.",
-       "children": [
-        {
-         "type": "text",
-         "text": "433"
         },
-        {
-         "type": "text",
-         "text": "ZARZĄDZENIE Nr 74 PREZESA RADY MINISTRÓW"
-        },
-        {
-         "type": "text",
-         "text": "z dnia 26 czerwca 2002 r."
-        },
-        {
-         "type": "text",
-         "text": "w sprawie nadania statutu Agencji Wywiadu."
-        },
-        {
-         "type": "text",
-         "text": "Na podstawie art. 20 ust. 1 ustawy z dnia 24 maja § 2. Zarządzenie wchodzi w życie z dniem 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz 29 czerwca 2002 r. Agencji Wywiadu (Dz. U. Nr 74, poz. 676) zarządza się, co następuje:"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "Agencji Wywiadu nadaje się statut, stanowiący załącznik do zarządzenia. Prezes Rady Ministrów: L. Miller",
-     "children": [
-      {
-       "type": "text",
-       "text": "STATUT AGENCJI WYWIADU"
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "Agencja Wywiadu, zwana dalej „AW”, jest 3. Szef AW może upoważnić osoby, o których mourzędem administracji rządowej obsługującym Szefa wa wust. 1, oraz innych funkcjonariuszy AW do podej- Agencji Wywiadu, zwanego dalej „Szefem AW”, dzia- mowania decyzji, w określonych sprawach, w jego łającym zgodnie z jego zarządzeniami, decyzjami, roz- imieniu. kazami, wytycznymi i poleceniami oraz pod jego bezpośrednim kierownictwem. § 3. 1. Wskład AW wchodzą następujące jednostki organizacyjne:",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
-     "text": "",
-     "children": [
-      {
-       "type": "ust",
-       "num": "1",
-       "path": "par_2/ust_1",
-       "text": "Szef AW kieruje AW przy pomocy zastępców, dyrektora administracyjnego wywiadu oraz dy- 1) Gabinet Szefa, rektorów jednostek organizacyjnych, októrych mowa 2) Biuro Pełnomocnika Ochrony, w§ 3 ust. 1.",
-       "children": [
         {
          "type": "pkt",
-         "num": "3",
-         "path": "par_2/ust_1/pkt_3",
-         "text": "Biuro Kadr iSzkolenia,",
+         "num": "20",
+         "path": "par_3/ust_1/pkt_20",
+         "text": "Delegatura ABW w Katowicach,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "21",
+         "path": "par_3/ust_1/pkt_21",
+         "text": "Delegatura ABW w Krakowie,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "22",
+         "path": "par_3/ust_1/pkt_22",
+         "text": "Delegatura ABW w Lublinie,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "23",
+         "path": "par_3/ust_1/pkt_23",
+         "text": "Delegatura ABW w Łodzi,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "24",
+         "path": "par_3/ust_1/pkt_24",
+         "text": "Delegatura ABW w Olsztynie,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "25",
+         "path": "par_3/ust_1/pkt_25",
+         "text": "Delegatura ABW w Opolu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "26",
+         "path": "par_3/ust_1/pkt_26",
+         "text": "Delegatura ABW w Poznaniu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "27",
+         "path": "par_3/ust_1/pkt_27",
+         "text": "Delegatura ABW w Radomiu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "28",
+         "path": "par_3/ust_1/pkt_28",
+         "text": "Delegatura ABW w Rzeszowie,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "29",
+         "path": "par_3/ust_1/pkt_29",
+         "text": "Delegatura ABW w Szczecinie,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "30",
+         "path": "par_3/ust_1/pkt_30",
+         "text": "Delegatura ABW we Wrocławiu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "31",
+         "path": "par_3/ust_1/pkt_31",
+         "text": "Delegatura ABW w Zielonej Górze.",
          "children": []
         }
        ]
@@ -308,16 +317,32 @@
       {
        "type": "ust",
        "num": "2",
-       "path": "par_2/ust_2",
-       "text": "Szefa AW, wczasie jego nieobecności, zastępuje 4) Biuro Informacji iAnaliz, wyznaczony przez niego zastępca działający wramach udzielonych mu przez Szefa AW pełnomocnictw. 5) Biuro Finansów,",
-       "children": [
-        {
-         "type": "text",
-         "text": "Załącznik do zarządzenia nr 73 Prezesa Rady Ministrów zdnia 26 czerwca 2002 r. (poz. 432) Załącznik do zarządzenia nr 74 Prezesa Rady Ministrów zdnia 26 czerwca 2002 r. (poz. 433)"
-        }
-       ]
+       "path": "par_3/ust_2",
+       "text": "W skład delegatur ABW mogą wchodzić wydziały zamiejscowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań jednostek organizacyjnych ABW określają regulaminy organizacyjne tych jednostek.",
+       "children": []
       }
      ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Spory kompetencyjne między jednostkami organizacyjnymi ABW rozstrzyga Szef ABW.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Szef ABW może powoływać kolegialne organy doradcze i opiniodawcze, określając ich nazwę, skład osobowy oraz szczegółowy zakres i tryb działania.",
+     "children": []
     }
    ]
   }

@@ -1,119 +1,139 @@
 {
  "eli": "MP/2002/784",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 12 listopada 2002 r. o zwolnieniu stanowiska sędziowskiego.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/784/text.pdf",
  "body": [
-  {
-   "type": "text",
-   "text": "Monitor Polski N r 57 — 2242 — Poz. 784 i 785"
-  },
-  {
-   "type": "text",
-   "text": "784"
-  },
   {
    "type": "text",
    "text": "OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI"
   },
   {
    "type": "text",
-   "text": "zdnia 12 listopada 2002 r."
+   "text": "z dnia 12 listopada 2002 r."
   },
   {
    "type": "text",
-   "text": "ozwolnieniu stanowiska sędziowskiego."
+   "text": "o zwolnieniu stanowiska sędziowskiego."
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 56 § 2 ustawy z dnia 27 lipca 8) stanowisko sędziego sądu rejonowego w Sądzie 2001 r. — Prawo o ustroju sądów powszechnych Rejonowym wPile; (Dz. U. Nr 98, poz. 1070 i Nr 154, poz. 1787 oraz z2002r. Nr 153, poz. 1271) obwieszcza się, co następuje: 9) stanowisko sędziego sądu rejonowego w Sądzie Rejonowym wPoznaniu; Wsądach powszechnych zostały zwolnione:"
+   "text": "Na podstawie art. 56 § 2 ustawy z dnia 27 lipca 2001 r. — Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070 i Nr 154, poz. 1787 oraz z 2002 r. Nr 153, poz. 1271) obwieszcza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "W sądach powszechnych zostały zwolnione:"
   },
   {
    "type": "pkt",
-   "num": "10",
-   "path": "pkt_10",
-   "text": "stanowisko sędziego sądu rejonowego w Sądzie 1) stanowisko sędziego sądu okręgowego w Sądzie Rejonowym wPrzasnyszu; Okręgowym wBydgoszczy;",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "stanowisko sędziego sądu okręgowego w Sądzie Okręgowym w Bydgoszczy;",
    "children": []
   },
   {
    "type": "pkt",
-   "num": "11",
-   "path": "pkt_11",
-   "text": "stanowisko sędziego sądu rejonowego w Sądzie 2) siedem stanowisk sędziego sądu okręgowego Rejonowym w Pułtusku; wSądzie Okręgowym wGliwicach;",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "siedem stanowisk sędziego sądu okręgowego w Sądzie Okręgowym w Gliwicach;",
    "children": []
   },
   {
    "type": "pkt",
-   "num": "12",
-   "path": "pkt_12",
-   "text": "trzy stanowiska sędziego sądu rejonowego w Są- 3) stanowisko sędziego sądu okręgowego w Sądzie dzie Rejonowym dla Warszawy-Mokotowa wWar- Okręgowym wPoznaniu; szawie;",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "stanowisko sędziego sądu okręgowego w Sądzie Okręgowym w Poznaniu;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "4",
    "path": "pkt_4",
-   "text": "stanowisko sędziego sądu rejonowego w Sądzie 13) pięć stanowisk sędziego sądu rejonowego w Są- Rejonowym wGrodzisku Mazowieckim; dzie Rejonowym dla miasta stołecznego Warszawy — wWarszawie;",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Grodzisku Mazowieckim;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "5",
    "path": "pkt_5",
-   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym wKołobrzegu; 14) stanowisko sędziego sądu rejonowego wSądzie Rejonowym dla Warszawy-Śródmieścia wWarszawie; 6) stanowisko sędziego sądu rejonowego w Sądzie Rejonowym wKoszalinie; 15) stanowisko sędziego sądu rejonowego w Sądzie Rejonowym wWołominie.",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Kołobrzegu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Koszalinie;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "7",
    "path": "pkt_7",
-   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym wOtwocku; Minister Sprawiedliwości: G. Kurczuk",
-   "children": [
-    {
-     "type": "text",
-     "text": "785"
-    },
-    {
-     "type": "text",
-     "text": "OBWIESZCZENIE MINISTRA ŚRODOWISKA"
-    },
-    {
-     "type": "text",
-     "text": "zdnia 6 listopada 2002 r."
-    },
-    {
-     "type": "text",
-     "text": "wsprawie stawek należności za korzystanie ze śródlądowych dróg wodnych oraz urządzeń wodnych w2003 r."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 151 ust. 2 ustawy zdnia 18 lipca km 41,2 oraz na Kanale Kędzierzyńskim od 2001 r. — Prawo wodne (Dz. U. Nr 115, poz. 1229 km 0,0 do km 5,6 — 0,54 gr, i Nr 154, poz. 1803 oraz z 2002 r. Nr 113, poz. 984 iNr 130, poz. 1112) ogłasza się następujące stawki na- b) na drodze wodnej Wisła—Odra od ujścia rzeki leżności za korzystanie ze śródlądowych dróg wod- Brdy do miasta Krzyż, to jest do km 176,2 rzeki nych iurządzeń wodnych w2003 r.: Noteć oraz na węźle gdańskim, to jest na rzekach Nogat, Szkarpawa iWisła Martwa — 0,50 gr,"
-    }
-   ]
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Otwocku;",
+   "children": []
   },
   {
    "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "stawki należności za przewóz towarów za jeden to- c) na pozostałych drogach wodnych, za korzystanokilometr wynoszą: nie zktórych uiszcza się należności — 0,45 gr;",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_1/lit_a",
-     "text": "na rzece Odrze skanalizowanej od km 94,9 do km 282,5, na Kanale Gliwickim od km 0,0 do 2) stawka należności za żeglugę pustych statków towarowych lub barek za jeden tonokilometr wynosi ——————— 0,096 gr;",
-     "children": [
-      {
-       "type": "text",
-       "text": "1)"
-      }
-     ]
-    }
-   ]
+   "num": "8",
+   "path": "pkt_8",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Pile;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Poznaniu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Przasnyszu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Pułtusku;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "12",
+   "path": "pkt_12",
+   "text": "trzy stanowiska sędziego sądu rejonowego w Sądzie Rejonowym dla Warszawy-Mokotowa w Warszawie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "pięć stanowisk sędziego sądu rejonowego w Sądzie Rejonowym dla miasta stołecznego Warszawy — w Warszawie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "14",
+   "path": "pkt_14",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym dla Warszawy-Śródmieścia w Warszawie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "15",
+   "path": "pkt_15",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Wołominie.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: G. Kurczuk"
   }
  ],
  "annexes": [],
- "footnotes": {
-  "1": "Minister Środowiska kieruje działem administracji rządowej — gospodarka wodna, na podstawie § 1 ust. 2 pkt 1 3) stawka należności za żeglugę statków pasażerskich rozporządzenia Prezesa Rady Ministrów zdnia 20 czerwca i wycieczkowych za iloczyn jednego miejsca na 2002 r. w sprawie szczegółowego zakresu działania Mini- statku i jednego kilometra przebytej drogi wodnej stra Środowiska (Dz. U. Nr 85, poz. 766). wynosi 1,33 gr;"
- }
+ "footnotes": {}
 }

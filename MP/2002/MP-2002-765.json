@@ -1,29 +1,9 @@
 {
  "eli": "MP/2002/765",
  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 7 października 2002 r. nr 112-10-02 o powołaniu do pełnienia urzędu na stanowisku sędziego.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/765/text.pdf",
  "body": [
-  {
-   "type": "text",
-   "text": "Monitor Polski N r 57 — 2198 — Poz. 765"
-  },
-  {
-   "type": "text",
-   "text": "KOMUNIKATY:"
-  },
-  {
-   "type": "text",
-   "text": "787 — Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 listopada 2002 r. w sprawie kwoty zasiłku pogrzebowego . . . . . . . . . . . . . . . . . 2243"
-  },
-  {
-   "type": "text",
-   "text": "788 — Prezesa Zakładu Ubezpieczeń Społecznych z dnia 16 listopada 2002 r. w sprawie kwot przychodu odpowiadających 70% i130% przeciętnego miesięcznego wynagrodzenia oraz kwot granicznych przychodu w2002 r. . . . . . . . . . . . . . 2244"
-  },
-  {
-   "type": "text",
-   "text": "765"
-  },
   {
    "type": "text",
    "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
@@ -237,7 +217,7 @@
    "type": "ust",
    "num": "26",
    "path": "ust_26",
-   "text": "Alicja KUROŃ — dla Krakowa-Krowodrzy w Krakowie Monitor Polski N r 57 — 2199 — Poz. 765, 766 i 767",
+   "text": "Alicja KUROŃ — dla Krakowa-Krowodrzy w Krakowie",
    "children": []
   },
   {
@@ -327,62 +307,6 @@
   {
    "type": "signature",
    "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
-  },
-  {
-   "type": "text",
-   "text": "766"
-  },
-  {
-   "type": "text",
-   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
-  },
-  {
-   "type": "text",
-   "text": "zdnia 16 października 2002 r."
-  },
-  {
-   "type": "text",
-   "text": "nr Z.110-61-2002"
-  },
-  {
-   "type": "text",
-   "text": "w sprawie mianowania Ambasadora Rzeczypospolitej Polskiej."
-  },
-  {
-   "type": "text",
-   "text": "Na podstawie art. 133 ust. 1 pkt 2 Konstytucji KOZŁOWSKIEGO Ambasadorem Nadzwyczajnym Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. iPełnomocnym Rzeczypospolitej Polskiej wIslamskim (Dz. U. Nr 78, poz. 483) mianuję Pana Tomasza Państwie Afganistanu."
-  },
-  {
-   "type": "text",
-   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Prezes Rady Ministrów: L. Miller"
-  },
-  {
-   "type": "text",
-   "text": "767"
-  },
-  {
-   "type": "text",
-   "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
-  },
-  {
-   "type": "text",
-   "text": "zdnia 17 października 2002 r."
-  },
-  {
-   "type": "text",
-   "text": "nr Z.110-62-2002"
-  },
-  {
-   "type": "text",
-   "text": "w sprawie odwołania Ambasadora Rzeczypospolitej Polskiej."
-  },
-  {
-   "type": "text",
-   "text": "Na podstawie art. 133 ust. 1 pkt 2 Konstytucji Rze- MROZIEWICZA ze stanowiska Ambasadora Nadzwyczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. czajnego i Pełnomocnego Rzeczypospolitej Polskiej Nr 78, poz. 483) odwołuję Pana Jana Krzysztofa wDemokratyczno-Socjalistycznej Republice Sri Lanki."
-  },
-  {
-   "type": "text",
-   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Prezes Rady Ministrów: L. Miller"
   }
  ],
  "annexes": [],

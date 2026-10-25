@@ -1,7 +1,7 @@
 {
  "eli": "MP/2001/577",
  "title": "Zarządzenie Marszałka Senatu Rzeczypospolitej Polskiej z dnia 17 października 2001 r. w sprawie określenia wzorów legitymacji senatorskich.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/577/text.pdf",
  "body": [
   {
@@ -68,13 +68,13 @@
    "type": "ust",
    "num": "2",
    "path": "ust_2",
-   "text": "W legitymacji senatorskiej umieszcza się fotografię senatora, imię i nazwisko senatora, numer legi- Marszałek Senatu: A. Grześkowiak Monitor Polski N r 36 — 930 — Poz. 577",
+   "text": "W legitymacji senatorskiej umieszcza się fotografię senatora, imię i nazwisko senatora, numer legi- Marszałek Senatu: A. Grześkowiak",
    "children": []
   }
  ],
  "annexes": [
   {
-   "heading": "Załączniki do zarządzenia Marszałka SenatuRzeczypospolitej Polskiejzdnia 17 października 2001 r. (poz. 577) Załącznik nr 1",
+   "heading": "Załączniki do zarządzenia Marszałka Senatu Rzeczypospolitej Polskiej z dnia 17 października 2001 r. (poz. 577) Załącznik nr 1",
    "body": [
     {
      "type": "text",
@@ -90,11 +90,7 @@
     },
     {
      "type": "text",
-     "text": "Legitymacja rozkładana, woprawie zczarnej skóry, owymiarach (wzłożeniu) 70 mm ×99 mm. Na przedniej zewnętrznej stronie okładki widnieje napis tłoczony złotymi literami „SENAT RZECZYPOSPOLITEJ POLSKIEJ”oraz godło Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Monitor Polski N r 36 — 931 — Poz. 577"
+     "text": "Legitymacja rozkładana, w oprawie z czarnej skóry, o wymiarach (w złożeniu) 70 mm ×99 mm. Na przedniej zewnętrznej stronie okładki widnieje napis tłoczony złotymi literami „SENAT RZECZYPOSPOLITEJ POLSKIEJ” oraz godło Rzeczypospolitej Polskiej."
     }
    ]
   },
@@ -135,7 +131,7 @@
     },
     {
      "type": "text",
-     "text": "• kolorowe zdjęcie wramce owymiarach 40 mm ×28 mm; • pod napisem „SENAT RZECZYPOSPOLITEJ POLSKIEJ (...) Kadencja” wizerunek orła białego w koronie, na czerwonym polu wramce owymiarach 12 mm ×15 mm; • zabezpieczenie: pokrycie przezroczystą warstwą reagującą na oświetlenie promieniami ultrafioletowymi;"
+     "text": "• kolorowe zdjęcie w ramce o wymiarach 40 mm ×28 mm; • pod napisem „SENAT RZECZYPOSPOLITEJ POLSKIEJ (...) Kadencja” wizerunek orła białego w koronie, na czerwonym polu w ramce o wymiarach 12 mm ×15 mm; • zabezpieczenie: pokrycie przezroczystą warstwą reagującą na oświetlenie promieniami ultrafioletowymi;"
     },
     {
      "type": "text",
@@ -143,7 +139,7 @@
     },
     {
      "type": "text",
-     "text": "• dwie ramki owymiarach 38,5 mm ×9 mm każda, zmiejscem na naniesione elektronicznie podpisy: Marszałka Senatu isenatora — właściciela legitymacji; • zabezpieczenie: pokrycie przezroczystą folią holograficzną."
+     "text": "• dwie ramki o wymiarach 38,5 mm ×9 mm każda, z miejscem na naniesione elektronicznie podpisy: Marszałka Senatu i senatora — właściciela legitymacji; • zabezpieczenie: pokrycie przezroczystą folią holograficzną."
     }
    ]
   }

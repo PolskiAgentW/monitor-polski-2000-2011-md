@@ -1,36 +1,32 @@
 {
  "eli": "MP/2001/261",
  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 17 maja 2001 r. w sprawie przeciętnego miesięcznego wynagrodzenia w województwach w pierwszym kwartale 2001 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/261/text.pdf",
  "body": [
-  {
-   "type": "text",
-   "text": "Monitor Polski N r 16 — 284 — Poz. 261"
-  },
-  {
-   "type": "text",
-   "text": "261"
-  },
   {
    "type": "text",
    "text": "OBWIESZCZENIE PREZESA GŁÓWNEGO URZĘDU STATYSTYCZNEGO"
   },
   {
    "type": "text",
-   "text": "zdnia 17 maja 2001 r."
+   "text": "z dnia 17 maja 2001 r."
   },
   {
    "type": "text",
-   "text": "wsprawie przeciętnego miesięcznego wynagrodzenia wwojewództwach wpierwszym kwartale 2001 r."
+   "text": "w sprawie przeciętnego miesięcznego wynagrodzenia w województwach w pierwszym kwartale 2001 r."
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 30 ust. 2 ustawy z dnia 26 paź- Spółka Akcyjna” oraz bez przedsiębiorstwa użytecznodziernika 1995 r. o niektórych formach popierania bu- ści publicznej „Poczta Polska” i Telekomunikacji Poldownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, skiej — Spółka Akcyjna,wpierwszym kwartale 2001 r., poz.1070 oraz z2001 r. Nr 4, poz. 27 iNr 16, poz. 167) określoną w tabeli stanowiącej załącznik do obwieszogłasza się wysokość przeciętnego miesięcznego wy- czenia. nagrodzenia w województwach bez wypłat z zysku i nadwyżki bilansowej w spółdzielniach oraz nagród z zakładowego funduszu nagród, z uwzględnieniem Prezes Głównego Urzędu Statystycznego: sfery budżetowej, bez „Polskich Kolei Państwowych T. Toczyński"
+   "text": "Na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070 oraz z 2001 r. Nr 4, poz. 27 i Nr 16, poz. 167) ogłasza się wysokość przeciętnego miesięcznego wynagrodzenia w województwach bez wypłat z zysku i nadwyżki bilansowej w spółdzielniach oraz nagród z zakładowego funduszu nagród, z uwzględnieniem sfery budżetowej, bez „Polskich Kolei Państwowych Spółka Akcyjna” oraz bez przedsiębiorstwa użyteczności publicznej „Poczta Polska” i Telekomunikacji Polskiej — Spółka Akcyjna, w pierwszym kwartale 2001 r., określoną w tabeli stanowiącej załącznik do obwieszczenia."
   },
   {
    "type": "text",
-   "text": "Załącznik do obwieszczenia Prezesa Głównego Urzędu Statystycznego z dnia 17 maja 2001 r.(poz. 261)"
+   "text": "Prezes Głównego Urzędu Statystycznego: T. Toczyński"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do obwieszczenia Prezesa Głównego Urzędu Statystycznego z dnia 17 maja 2001 r. (poz. 261)"
   },
   {
    "type": "text",
@@ -38,75 +34,143 @@
   },
   {
    "type": "text",
-   "text": "Lp. Województwo Przeciętne miesięczne wynagrodzenie (w zł)"
+   "text": "Lp. Województwo"
   },
   {
    "type": "text",
-   "text": "1 2 3"
+   "text": "1 2"
   },
   {
    "type": "text",
-   "text": "1 dolnośląskie 1937,80"
+   "text": "1 dolnośląskie"
   },
   {
    "type": "text",
-   "text": "2 kujawsko-pomorskie 1767,55"
+   "text": "2 kujawsko-pomorskie"
   },
   {
    "type": "text",
-   "text": "3 lubelskie 1708,15"
+   "text": "3 lubelskie"
   },
   {
    "type": "text",
-   "text": "4 lubuskie 1763,14"
+   "text": "4 lubuskie"
   },
   {
    "type": "text",
-   "text": "5 łódzkie 1739,48"
+   "text": "5 łódzkie"
   },
   {
    "type": "text",
-   "text": "6 małopolskie 1861,70"
+   "text": "6 małopolskie"
   },
   {
    "type": "text",
-   "text": "7 mazowieckie 2768,19"
+   "text": "7 mazowieckie"
   },
   {
    "type": "text",
-   "text": "8 opolskie 1827,34"
+   "text": "8 opolskie"
   },
   {
    "type": "text",
-   "text": "9 podkarpackie 1706,14"
+   "text": "9 podkarpackie"
   },
   {
    "type": "text",
-   "text": "10 podlaskie 1759,78"
+   "text": "10 podlaskie"
   },
   {
    "type": "text",
-   "text": "11 pomorskie 1984,61"
+   "text": "11 pomorskie"
   },
   {
    "type": "text",
-   "text": "12 śląskie 2110,94"
+   "text": "12 śląskie"
   },
   {
    "type": "text",
-   "text": "13 świętokrzyskie 1799,43"
+   "text": "13 świętokrzyskie"
   },
   {
    "type": "text",
-   "text": "14 warmińsko-mazurskie 1789,05"
+   "text": "14 warmińsko-mazurskie"
   },
   {
    "type": "text",
-   "text": "15 wielkopolskie 1893,11"
+   "text": "15 wielkopolskie"
   },
   {
    "type": "text",
-   "text": "16 zachodniopomorskie 1903,91"
+   "text": "16 zachodniopomorskie Przeciętne miesięczne wynagrodzenie (w zł)"
+  },
+  {
+   "type": "text",
+   "text": "3"
+  },
+  {
+   "type": "text",
+   "text": "1 937,80"
+  },
+  {
+   "type": "text",
+   "text": "1 767,55"
+  },
+  {
+   "type": "text",
+   "text": "1 708,15"
+  },
+  {
+   "type": "text",
+   "text": "1 763,14"
+  },
+  {
+   "type": "text",
+   "text": "1 739,48"
+  },
+  {
+   "type": "text",
+   "text": "1 861,70"
+  },
+  {
+   "type": "text",
+   "text": "2 768,19"
+  },
+  {
+   "type": "text",
+   "text": "1 827,34"
+  },
+  {
+   "type": "text",
+   "text": "1 706,14"
+  },
+  {
+   "type": "text",
+   "text": "1 759,78"
+  },
+  {
+   "type": "text",
+   "text": "1 984,61"
+  },
+  {
+   "type": "text",
+   "text": "2 110,94"
+  },
+  {
+   "type": "text",
+   "text": "1 799,43"
+  },
+  {
+   "type": "text",
+   "text": "1 789,05"
+  },
+  {
+   "type": "text",
+   "text": "1 893,11"
+  },
+  {
+   "type": "text",
+   "text": "1 903,91"
   }
  ],
  "annexes": [],

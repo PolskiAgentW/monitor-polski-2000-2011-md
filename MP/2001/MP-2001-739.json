@@ -1,70 +1,117 @@
 {
  "eli": "MP/2001/739",
  "title": "Wyrok Trybunału Konstytucyjnego z dnia 3 października 2001 r. sygn. akt K. 27/2001.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/739/text.pdf",
  "body": [
-  {
-   "type": "text",
-   "text": "Monitor Polski N r 45 — 1202 — Poz. 739 i 740"
-  },
-  {
-   "type": "text",
-   "text": "739"
-  },
   {
    "type": "text",
    "text": "WYROK TRYBUNAŁU KONSTYTUCYJNEGO"
   },
   {
    "type": "text",
-   "text": "zdnia 3 października 2001 r."
+   "text": "z dnia 3 października 2001 r."
   },
   {
    "type": "text",
-   "text": "sygn. akt K.27/2001."
+   "text": "sygn. akt K. 27/2001."
   },
   {
    "type": "text",
-   "text": "Trybunał Konstytucyjny wskładzie: nych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokura- Janusz Trzciński — przewodniczący, tora Generalnego, o stwierdzenie zgodności art. 51 ustawy zdnia 6lipca 2001 r. ousługach detektywistycz- Jerzy Ciemniewski, nych z art. 2 i art. 42 ust. 1 zdanie pierwsze KonstytucjiRP, Teresa Dębowska-Romanowska, orzeka: Lech Garlicki,"
+   "text": "Trybunał Konstytucyjny w składzie:"
+  },
+  {
+   "type": "text",
+   "text": "Janusz Trzciński — przewodniczący,"
+  },
+  {
+   "type": "text",
+   "text": "Jerzy Ciemniewski,"
+  },
+  {
+   "type": "text",
+   "text": "Teresa Dębowska-Romanowska,"
+  },
+  {
+   "type": "text",
+   "text": "Lech Garlicki,"
+  },
+  {
+   "type": "text",
+   "text": "Stefan J. Jaworski — sprawozdawca,"
+  },
+  {
+   "type": "text",
+   "text": "Krzysztof Kolasiński,"
+  },
+  {
+   "type": "text",
+   "text": "Biruta Lewaszkiewicz-Petrykowska,"
+  },
+  {
+   "type": "text",
+   "text": "Andrzej Mączyński,"
+  },
+  {
+   "type": "text",
+   "text": "Janusz Niemcewicz,"
+  },
+  {
+   "type": "text",
+   "text": "Jadwiga Skórzewska-Łosiak,"
+  },
+  {
+   "type": "text",
+   "text": "Marian Zdyb,"
+  },
+  {
+   "type": "text",
+   "text": "protokolant: Lidia Banaszkiewicz,"
+  },
+  {
+   "type": "text",
+   "text": "po rozpoznaniu w dniu 3 października 2001 r. na rozprawie sprawy z wniosku Prezydenta Rzeczypospolitej Polskiej, złożonego w trybie art. 122 ust. 3 Konstytucji Rzeczypospolitej Polskiej, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, o stwierdzenie zgodności art. 51 ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych z art. 2 i art. 42 ust. 1 zdanie pierwsze Konstytucji RP,"
+  },
+  {
+   "type": "text",
+   "text": "orzeka:"
   },
   {
    "type": "ust",
    "num": "1",
    "path": "ust_1",
-   "text": "Art.51 ustawy zdnia 6 lipca 2001 r. ousługach de- Stefan J. Jaworski — sprawozdawca, tektywistycznych jest niezgodny zart. 2 iart. 42 ust.1 zdanie pierwsze Konstytucji Rzeczypospolitej Krzysztof Kolasiński, Polskiej.",
+   "text": "Art. 51 ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych jest niezgodny z art. 2 i art. 42 ust. 1 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Art. 51 ustawy, o której mowa w pkt 1 wyroku, nie jest nierozerwalnie związany z całą ustawą.",
    "children": [
     {
      "type": "text",
-     "text": "Biruta Lewaszkiewicz-Petrykowska, 2. Art. 51 ustawy, o której mowa w pkt 1 wyroku, nie jest nierozerwalnie związany zcałą ustawą. Andrzej Mączyński,"
+     "text": "Janusz Trzciński"
     },
     {
      "type": "text",
-     "text": "Janusz Niemcewicz, Janusz Trzciński Jadwiga Skórzewska-Łosiak, Jerzy Ciemniewski Teresa Dębowska- Marian Zdyb, -Romanowska"
+     "text": "Jerzy Ciemniewski Teresa Dębowska-Romanowska"
     },
     {
      "type": "text",
-     "text": "protokolant: Lidia Banaszkiewicz, Lech Garlicki Stefan J. Jaworski Krzysztof Kolasiński Biruta Lewaszkiewiczpo rozpoznaniu w dniu 3 października 2001 r. na -Petrykowska rozprawie sprawy zwniosku Prezydenta Rzeczypospolitej Polskiej, złożonego wtrybie art. 122 ust. 3 Konsty- Andrzej Mączyński Janusz Niemcewicz tucji Rzeczypospolitej Polskiej, z udziałem umocowa- Jadwiga Skórzewska-Łosiak Marian Zdyb"
+     "text": "Lech Garlicki Stefan J. Jaworski"
     },
     {
      "type": "text",
-     "text": "740"
+     "text": "Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska"
     },
     {
      "type": "text",
-     "text": "OBWIESZCZENIE PREZESA RADY MINISTRÓW"
+     "text": "Andrzej Mączyński Janusz Niemcewicz"
     },
     {
      "type": "text",
-     "text": "zdnia 13grudnia 2001 r."
-    },
-    {
-     "type": "text",
-     "text": "otreści oświadczeń złożonych przez osoby powoływane na kierownicze stanowiska państwowe przez Prezesa Rady Ministrów."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 11 ust. 1 ustawy zdnia 11 kwiet- cownikiem organów bezpieczeństwa państwa wronia 1997 r. o ujawnieniu pracy lub służby w organach zumieniu art. 1, art. 2 iart. 4 powołanej ustawy; bezpieczeństwa państwa lub współpracy z nimi w latach 1944—1990 osób pełniących funkcje publiczne 2) Sławomir Cytrycki — Podsekretarz Stanu wKance- (Dz. U. z1999 r. Nr 42, poz. 428, Nr 57, poz. 618, Nr 62, larii Prezesa Rady Ministrów, syn Ryszarda, uropoz. 681 iNr 63, poz. 701 oraz z2000 r. Nr 43, poz. 488 dzony 17 grudnia 1951 r. w Łodzi, zamieszkały iNr 50, poz. 600) podaje się do publicznej wiadomości, wWarszawie, oświadczył, że był świadomym itajco następuje: nym współpracownikiem organów bezpieczeństwa państwa w rozumieniu art. 1, art. 2 iart. 4 po- 1) Andrzej Byrt — Podsekretarz Stanu wMinisterstwie wołanej ustawy. Spraw Zagranicznych, syn Jana, urodzony 20września 1949 r. wPoznaniu, zamieszkały wWarszawie, oświadczył, że był świadomym itajnym współpra- Prezes Rady Ministrów: L. Miller"
+     "text": "Jadwiga Skórzewska-Łosiak Marian Zdyb"
     }
    ]
   }

@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 17:07 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 17:17 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -78,11 +78,11 @@ Stan na 2026-10-25 17:07 UTC (liczone z `index.csv`).
 | 2010 | 1185 | 1185 | 0 |
 | 2011 | 1199 | 1199 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 542, razem 20203 z 48251 stron. Tekst z OCR (oznaczony) ma 19021 z nich w 480 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 805.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 543, razem 20214 z 48251 stron. Tekst z OCR (oznaczony) ma 19024 z nich w 481 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 804.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11422), eli2md 0.6.24 (392), eli2md 0.6.62 (154), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
+Wersje konwertera: eli2md 0.6.22 (11088), eli2md 0.6.24 (392), eli2md 0.6.64 (334), eli2md 0.6.62 (154), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
 <!-- stats:end -->
 
 ## Zawartość
@@ -218,6 +218,21 @@ jest bez zmian. Przeliczyłem też 4 akty z notką „korekta: 16.07.02” (MP/2
 nie ma, ale strony, których warstwa tekstowa ma tylko notkę i nagłówek, a reszta jest skanem, 0.6.63 czyta przez OCR,
 więc dochodzi ich tekst (w MP/2002/493 niemiecka nota werbalna). Reguła nie przyjmuje takiej zmiany bez osobnego
 sprawdzenia, więc te 4 pliki są bez zmian. W zbiorze zostało 20 nagłówków w 11 aktach.
+
+Tego samego dnia eli2md 0.6.64, 334 akty z lat 2001–2002 (opis w README eli2md, wpis 0.6.64): w tych latach „Nr”
+w nagłówku strony jest złożone z odstępem i warstwa tekstowa daje „N r” („Monitor Polski N r 43 — 1077 — Poz. 700”).
+Do 0.6.63 taka strona nie była rozpoznawana jako strona numeru. Skutki: nagłówek zostawał w tekście (785 wystąpień
+w 336 aktach), strona w dwóch łamach była czytana w poprzek, a plik aktu zawierał też teksty innych pozycji z tych
+samych stron (MP/2001/111 miał też poz. 109, 110 i 112). Przeliczyłem ponownie te 336 aktów. Nowy plik zostaje, jeśli
+nagłówków jest mniej, a nowy tekst nie ma znaków, których nie było w starym (najwyżej 0,5% znaków nowego, nie licząc
+znaczników Markdown), bo poprawka ma tylko odciąć sąsiednie pozycje, ułożyć łamy i usunąć nagłówek. Tak jest w 334
+aktach (w 330 nie doszedł żaden znak). Razem mają teraz 1 261 556 znaków zamiast 1 835 391. Obejrzałem od początku do
+końca 9 z nich (MP/2001/111, 173, 404, 419, 466, 516, 529, 588, MP/2002/431): każdy ma tylko własny tytuł, treść
+i podpis. W MP/2001/432 11 stron map, których warstwa tekstowa miała tylko nagłówek, jest teraz liczonych jako strony
+bez tekstu, a OCR 3 z nich (s. 26, 74, 85) dodaje trochę tekstu (0,17% znaków). W MP/2001/114 plik i `pdf_sha256`
+są z obecnego PDF w API (zmienionego 2026-10-09; tekst ten sam). Bez zmian zostały 2 akty: MP/2001/569 i MP/2002/783,
+w których skany stron z samym nagłówkiem w warstwie tekstowej są teraz czytane przez OCR i dochodzi ich tekst. W zbiorze
+zostały 103 nagłówki w 13 aktach.
 
 **Czego te liczby nie mówią:**
 

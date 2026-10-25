@@ -1,16 +1,12 @@
 {
  "eli": "MP/2001/159",
  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 12 lutego 2001 r. o nadaniu orderów.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.64",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2001/159/text.pdf",
  "body": [
   {
    "type": "text",
-   "text": "Monitor Polski N r 10 — 182 — Poz. 158 i 159"
-  },
-  {
-   "type": "text",
-   "text": "158 Rej. 12/2001"
+   "text": "Rej. 16/2001"
   },
   {
    "type": "text",
@@ -18,19 +14,23 @@
   },
   {
    "type": "text",
-   "text": "zdnia 18 stycznia 2001 r."
+   "text": "z dnia 12 lutego 2001 r."
   },
   {
    "type": "text",
-   "text": "onadaniu orderów."
+   "text": "o nadaniu orderów."
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej KRZYŻEM OFICERSKIM Polskiej zdnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) ORDERU ODRODZENIA POLSKI oraz ustawy z dnia 16 października 1992 r. o orderach iodznaczeniach (Dz. U. Nr 90, poz. 450, z1999 r. Nr 101, 10. Kabaj Mieczysław, 11. Karpiński Andrzej Marek, poz. 1177 iz2000 r. Nr 62, poz. 718),za wybitne zasłu- 12. Łukawer Edward, 13. Szeworski Adam Stefan, 14. gi dla rozwoju nauk ekonomicznych,odznaczeni zosta- Wernik Andrzej Marian, ją:"
+   "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z 1999 r. Nr 101, poz. 1177 i z 2000 r. Nr 62, poz. 718) odznaczeni zostają:"
   },
   {
    "type": "text",
-   "text": "KRZYŻEM KOMANDORSKIM ZGWIAZDĄ ORDERU ODRODZENIA POLSKI KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI 1. Dietl Jerzy, 2. Sadowski Zdzisław Lech, 3. Trzeciakowski Witold Mieczysław, 4. Welfe Władysław Kazi- 15. Wojtyna Andrzej. mierz,"
+   "text": "na wniosek Prezesa Rady Ministrów, zaopiniowany przez Kapitułę Orderu Odrodzenia Polski:"
+  },
+  {
+   "type": "text",
+   "text": "za wybitne zasługi dla kultury polskiej i jej promocji w świecie:"
   },
   {
    "type": "text",
@@ -38,48 +38,13 @@
   },
   {
    "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Borkowska Stanisława, 6. Kukliński Antoni Rafał,",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Lipiński Jan, 8. Płowiec Urszula Stanisława, 9. Porwit Krzysztof Hugon, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski",
-   "children": [
-    {
-     "type": "text",
-     "text": "159 Rej. 16/2001"
-    },
-    {
-     "type": "text",
-     "text": "POSTANOWIENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
-    },
-    {
-     "type": "text",
-     "text": "zdnia 12 lutego 2001 r."
-    },
-    {
-     "type": "text",
-     "text": "onadaniu orderów."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 138 Konstytucji Rzeczypospolitej za wybitne zasługi wdziałalności kombatanckiej: Polskiej zdnia 2 kwietnia 1997 r. (Dz. U. Nr 78, poz. 483) oraz ustawy z dnia 16 października 1992 r. o orderach KRZYŻEM KOMANDORSKIM iodznaczeniach (Dz. U. Nr 90, poz. 450, z1999 r. Nr 101, ORDERU ODRODZENIA POLSKI poz. 1177 iz2000 r. Nr 62, poz. 718) odznaczeni zosta- 3. Brodowicz Józef, ją: KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI na wniosek Prezesa Rady Ministrów, zaopiniowany 4. Celińska Weronika Marianna, 5. Czyżykowski Anprzez Kapitułę Orderu Odrodzenia Polski: toni, 6. Owczarek Władysław, 7. Paluchniak Jan Staniza wybitne zasługi dla kultury polskiej i jej promocji sław, wświecie: KRZYŻEM KAWALERSKIM KRZYŻEM KOMANDORSKIM ORDERU ODRODZENIA POLSKI ORDERU ODRODZENIA POLSKI 8. Foksa Władysław, 9. Hagmajer Marek Jan,"
-    }
-   ]
-  },
-  {
-   "type": "ust",
    "num": "1",
    "path": "ust_1",
-   "text": "Konic Andrzej Dominik, za wybitne zasługi dla rozwoju muzealnictwa:",
+   "text": "Konic Andrzej Dominik,",
    "children": [
     {
      "type": "text",
-     "text": "KRZYŻEM OFICERSKIM KRZYŻEM KOMANDORSKIM ORDERU ODRODZENIA POLSKI ORDERU ODRODZENIA POLSKI"
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
@@ -87,44 +52,102 @@
    "type": "ust",
    "num": "2",
    "path": "ust_2",
-   "text": "Bojar Jerzy, 10. Zbierski Andrzej, Monitor Polski N r 10 — 183 — Poz. 159",
+   "text": "Bojar Jerzy, za wybitne zasługi w działalności kombatanckiej:",
    "children": [
     {
      "type": "text",
-     "text": "KRZYŻEM KAWALERSKIM za wybitne zasługi w pracy naukowo-badawczej ORDERU ODRODZENIA POLSKI wdziedzinie ochrony roślin:"
+     "text": "KRZYŻEM KOMANDORSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
   {
    "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Brodowicz Józef,",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Celińska Weronika Marianna, 5. Czyżykowski Antoni, 6. Owczarek Władysław, 7. Paluchniak Jan Stanisław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Foksa Władysław, 9. Hagmajer Marek Jan,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi dla rozwoju muzealnictwa:"
+    },
+    {
+     "type": "text",
+     "text": "KRZYŻEM KOMANDORSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "Zbierski Andrzej, KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI",
+   "children": []
+  },
+  {
+   "type": "ust",
    "num": "11",
    "path": "ust_11",
-   "text": "Gotkiewicz Wacław, 12. Litwin Jerzy, KRZYŻEM OFICERSKIM za wybitne zasługi dla rozwoju gospodarki narodowej: ORDERU ODRODZENIA POLSKI",
-   "children": []
+   "text": "Gotkiewicz Wacław, 12. Litwin Jerzy,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi dla rozwoju gospodarki narodowej:"
+    },
+    {
+     "type": "text",
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
   },
   {
    "type": "ust",
-   "num": "36",
-   "path": "ust_36",
-   "text": "Pruszyński Stefan, KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI KRZYŻEM KAWALERSKIM 13. Skowroński Bolesław Władysław, ORDERU ODRODZENIA POLSKI",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "37",
-   "path": "ust_37",
-   "text": "Adamczewski Kazimierz, 38. Giebel Jerzy Józef, KRZYŻEM KAWALERSKIM 39. Nawrot Jan Wiktor, ORDERU ODRODZENIA POLSKI",
-   "children": []
+   "num": "13",
+   "path": "ust_13",
+   "text": "Skowroński Bolesław Władysław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
   },
   {
    "type": "ust",
    "num": "14",
    "path": "ust_14",
-   "text": "Dufr˘ne Roman Eugeniusz, 15. Wańkowicz Ja- za wybitne zasługi w pracy naukowo-badawczej cek Gracjan, wdziedzinie sadownictwa",
+   "text": "Dufr˘ne Roman Eugeniusz, 15. Wańkowicz Jacek Gracjan,",
    "children": [
     {
      "type": "text",
-     "text": "za wybitne zasługi dla nauki polskiej: KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI 40. Szczygieł Adam,"
+     "text": "za wybitne zasługi dla nauki polskiej:"
+    },
+    {
+     "type": "text",
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
@@ -132,22 +155,27 @@
    "type": "ust",
    "num": "16",
    "path": "ust_16",
-   "text": "Mróz Zenon, za wybitne zasługi w działalności na rzecz ludzi chorych na cukrzycę: KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI KRZYŻEM OFICERSKIM 17. Brandt Andrzej Marek, 18. Nowicki Andrzej, 19. ORDERU ODRODZENIA POLSKI Sobczyk Kazimierz, 20. Uzarska Justyna Bronisława,",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "21",
-   "path": "ust_21",
-   "text": "Ziabicki Andrzej Józef, 41. Bereska Marian Józef, 42. Trąbski Józef Waldemar,",
+   "text": "Mróz Zenon,",
    "children": [
     {
      "type": "text",
-     "text": "za wybitne zasługi w pracy dydaktycznej w szkolnictwie artystycznym KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Brandt Andrzej Marek, 18. Nowicki Andrzej, 19. Sobczyk Kazimierz, 20. Uzarska Justyna Bronisława, 21. Ziabicki Andrzej Józef,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi w pracy dydaktycznej w szkolnictwie artystycznym"
     },
     {
      "type": "text",
-     "text": "KRZYŻEM OFICERSKIM 43. Grodzki Stanisław, 44. Wójcikowski Czesław, ORDERU ODRODZENIA POLSKI"
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
@@ -155,27 +183,43 @@
    "type": "ust",
    "num": "22",
    "path": "ust_22",
-   "text": "Cymerman Józef, KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI",
+   "text": "Cymerman Józef,",
    "children": [
     {
      "type": "text",
-     "text": "za wybitne zasługi wdziałalności na rzecz upamiętnienia zbrodni katyńskiej: za wybitne zasługi dla rozwoju energetyki"
+     "text": "za wybitne zasługi w działalności na rzecz upamiętnienia zbrodni katyńskiej:"
+    },
+    {
+     "type": "text",
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
   {
    "type": "ust",
-   "num": "45",
-   "path": "ust_45",
-   "text": "Olszewski Andrzej, 46. Romaniszyn Jerzy, KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI za wybitne zasługi dla rozwoju medycyny, za osiągnię- 23. Gruner-Żarnoch Ewa Maria, cia wdziedzinie transplantologii",
+   "num": "23",
+   "path": "ust_23",
+   "text": "Gruner-Żarnoch Ewa Maria,",
    "children": [
     {
      "type": "text",
-     "text": "KRZYŻEM KAWALERSKIM 47. Kostyrka Roman Aleksander, ORDERU ODRODZENIA POLSKI za wybitne zasługi wdziałalności na rzecz upowszech- 24. Adamska Jolanta, 25. Banaś Witold Mikołaj, 26. niania kultury Głosek Marian, 27. Kola Andrzej Henryk, 28. Lange Ja- 48. Hubicka Bożena Zofia, nusz, 29. Lange Kazimiera Grażyna, 30. Madej Maria Magdalena, 31. Mikke Stanisław Wojciech, 32. Mło- za wybitne zasługi w ratowaniu zabytków kultury poldziejowski Bronisław Juliusz, 33. Spanily Andrzej, skiej"
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "24",
+   "path": "ust_24",
+   "text": "Adamska Jolanta, 25. Banaś Witold Mikołaj, 26. Głosek Marian, 27. Kola Andrzej Henryk, 28. Lange Janusz, 29. Lange Kazimiera Grażyna, 30. Madej Maria Magdalena, 31. Mikke Stanisław Wojciech, 32. Młodziejowski Bronisław Juliusz, 33. Spanily Andrzej,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi dla rozwoju przemysłu cukrowniczego:"
     },
     {
      "type": "text",
-     "text": "za wybitne zasługi dla rozwoju przemysłu cukrowni- 49. Madejczyk Wanda Zofia, czego: za wybitne zasługi dla rozwoju spółdzielczości, za ak- KRZYŻEM OFICERSKIM tywną działalność na rzecz społeczności lokalnej ORDERU ODRODZENIA POLSKI 50. Szyłański Zbigniew,"
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
@@ -187,15 +231,167 @@
    "children": [
     {
      "type": "text",
-     "text": "za wybitne zasługi w działalności na rzecz społeczno- KRZYŻEM KAWALERSKIM ści lokalnej ORDERU ODRODZENIA POLSKI 35. Malanowski Andrzej, 51. Dziewięcki Stanisław Marcin, 52. Kurowska Helena, Monitor Polski N r 10 — 184 — Poz. 159, 160 i 161"
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "35",
+   "path": "ust_35",
+   "text": "Malanowski Andrzej, za wybitne zasługi w pracy naukowo-badawczej w dziedzinie ochrony roślin:",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "36",
+   "path": "ust_36",
+   "text": "Pruszyński Stefan,",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "37",
+   "path": "ust_37",
+   "text": "Adamczewski Kazimierz, 38. Giebel Jerzy Józef, 39. Nawrot Jan Wiktor,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi w pracy naukowo-badawczej w dziedzinie sadownictwa"
     },
     {
      "type": "text",
-     "text": "na wniosek Kapituły Orderu Odrodzenia Polski: za wybitne zasługi w umacnianiu suwerenności iobronności kraju za wybitne zasługi wpracy naukowej idziałalności publicystycznej KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "40",
+   "path": "ust_40",
+   "text": "Szczygieł Adam,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi w działalności na rzecz ludzi chorych na cukrzycę:"
     },
     {
      "type": "text",
-     "text": "KRZYŻEM OFICERSKIM 54. płk Cebrat Henryk, 55. płk Kostrzewski Andrzej ORDERU ODRODZENIA POLSKI Józef."
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "41",
+   "path": "ust_41",
+   "text": "Bereska Marian Józef, 42. Trąbski Józef Waldemar,",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "43",
+   "path": "ust_43",
+   "text": "Grodzki Stanisław, 44. Wójcikowski Czesław,",
+   "children": [
+    {
+     "type": "text",
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
+    },
+    {
+     "type": "text",
+     "text": "za wybitne zasługi dla rozwoju energetyki"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "45",
+   "path": "ust_45",
+   "text": "Olszewski Andrzej, 46. Romaniszyn Jerzy,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi dla rozwoju medycyny, za osiągnięcia w dziedzinie transplantologii"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "47",
+   "path": "ust_47",
+   "text": "Kostyrka Roman Aleksander,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi w działalności na rzecz upowszechniania kultury"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "48",
+   "path": "ust_48",
+   "text": "Hubicka Bożena Zofia,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi w ratowaniu zabytków kultury polskiej"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "49",
+   "path": "ust_49",
+   "text": "Madejczyk Wanda Zofia,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi dla rozwoju spółdzielczości, za aktywną działalność na rzecz społeczności lokalnej"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "50",
+   "path": "ust_50",
+   "text": "Szyłański Zbigniew,",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi w działalności na rzecz społeczności lokalnej"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "51",
+   "path": "ust_51",
+   "text": "Dziewięcki Stanisław Marcin, 52. Kurowska Helena, na wniosek Kapituły Orderu Odrodzenia Polski:",
+   "children": [
+    {
+     "type": "text",
+     "text": "za wybitne zasługi w pracy naukowej i działalności publicystycznej"
+    },
+    {
+     "type": "text",
+     "text": "KRZYŻEM OFICERSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
@@ -203,56 +399,24 @@
    "type": "ust",
    "num": "53",
    "path": "ust_53",
-   "text": "Kowalik Tadeusz, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski",
+   "text": "Kowalik Tadeusz, za wybitne zasługi w umacnianiu suwerenności i obronności kraju",
    "children": [
     {
      "type": "text",
-     "text": "160"
-    },
-    {
-     "type": "text",
-     "text": "WYROK TRYBUNAŁU KONSTYTUCYJNEGO"
-    },
-    {
-     "type": "text",
-     "text": "zdnia 21 marca 2001 r."
-    },
-    {
-     "type": "text",
-     "text": "sygn. akt K. 24/2000."
-    },
-    {
-     "type": "text",
-     "text": "Trybunał Konstytucyjny wskładzie: przedstawicieli uczestników postępowania: wniosko- Marek Safjan — przewodniczący, dawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, o stwierdzenie zgodności art. 322 usta- Jerzy Ciemniewski, wy zdnia 30 czerwca 2000 r. — Prawo własności prze- Zdzisław Czeszejko-Sochacki, mysłowej z art. 2, 21 i 64 ust. 1 i 2 Konstytucji Rzeczy- Teresa Dębowska-Romanowska, pospolitej Polskiej, orzeka: Lech Garlicki, Artykuł 322 ustawy zdnia 30 czerwca 2000 r. — Pra- Stefan J. Jaworski, wo własności przemysłowej jest niezgodny z art. 2 Wiesław Johann — sprawozdawca, Konstytucji Rzeczypospolitej Polskiej przez to, że narusza wynikający z tego przepisu nakaz określoności Krzysztof Kolasiński, przepisów prawnych. Biruta Lewaszkiewicz-Petrykowska, Ponadto postanawia: Andrzej Mączyński, wpozostałym zakresie umorzyć postępowanie. Jadwiga Skórzewska-Łosiak, Jerzy Stępień, Marek Safjan Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki Janusz Trzciński, Teresa Dębowska- Marian Zdyb, -Romanowska Lech Garlicki Stefan J. Jaworski Wiesław Johann protokolant: Joanna Szymczak, Krzysztof Kolasiński Biruta Lewaszkiewiczpo rozpoznaniu wdniu 21 marca 2001r. na rozpra- -Petrykowska wie sprawy z wniosku Prezydenta Rzeczypospolitej Andrzej Mączyński Jadwiga Skórzewska-Łosiak Polskiej, złożonego w trybie art. 122 ust. 3 Konstytucji Jerzy Stępień Janusz Trzciński Rzeczypospolitej Polskiej, z udziałem umocowanych Marian Zdyb"
-    },
-    {
-     "type": "text",
-     "text": "161"
-    },
-    {
-     "type": "text",
-     "text": "ZARZĄDZENIE Nr 18 PREZESA RADY MINISTRÓW"
-    },
-    {
-     "type": "text",
-     "text": "zdnia 22 marca 2001 r."
-    },
-    {
-     "type": "text",
-     "text": "uchylające zarządzenie wsprawie powołania Międzyresortowego Zespołu do Spraw Nowych Ruchów Religijnych."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 12 ustawy z dnia 8 sierpnia Międzyresortowego Zespołu do Spraw Nowych Ru- 1996r. oorganizacji itrybie pracy Rady Ministrów oraz chów Religijnych (Monitor Polski Nr 54, poz. 513). o zakresie działania ministrów (Dz. U. z 1999 r. Nr 82, poz. 929 i z 2000 r. Nr 120, poz. 1268) zarządza się, co § 2. Zarządzenie wchodzi wżycie zdniem ogłoszenastępuje: nia."
+     "text": "KRZYŻEM KAWALERSKIM ORDERU ODRODZENIA POLSKI"
     }
    ]
   },
   {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "Traci moc zarządzenie nr 78 Prezesa Rady Ministrów z dnia 25 sierpnia 1997 r. w sprawie powołania Prezes Rady Ministrów: J. Buzek",
+   "type": "ust",
+   "num": "54",
+   "path": "ust_54",
+   "text": "płk Cebrat Henryk, 55. płk Kostrzewski Andrzej Józef.",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
   }
  ],
  "annexes": [],
