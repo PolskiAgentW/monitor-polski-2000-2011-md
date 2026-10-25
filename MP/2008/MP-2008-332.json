@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/332",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 21 kwietnia 2008 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2007 r.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/332/text.pdf",
  "body": [
   {
@@ -937,7 +937,11 @@
       },
       {
        "type": "text",
-       "text": "RAPORT NIEZALEŻNYCH BIEGŁYCH REWIDENTÓW uzupełniający Opinię z badania sprawozdania Partii Politycznej STRONNICTWO DEMOKRATYCZNE za rok 2007 o źródłach pozyskania środków finansowych na Fundusz Wyborczy, w tym o kredytach bankowych i warunkach ich uzyskania oraz wydatkach poniesionych ze środków Funduszu Wyborczego w roku 2007"
+       "text": "RAPORT NIEZALEŻNYCH BIEGŁYCH REWIDENTÓW uzupełniający Opinię"
+      },
+      {
+       "type": "text",
+       "text": "z badania sprawozdania Partii Politycznej STRONNICTWO DEMOKRATYCZNE za rok 2007 o źródłach pozyskania środków finansowych na Fundusz Wyborczy, w tym o kredytach bankowych i warunkach ich uzyskania oraz wydatkach poniesionych ze środków Funduszu Wyborczego w roku 2007"
       },
       {
        "type": "text",
@@ -949,8 +953,12 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Dane identyfikujące badaną Jednostkę 1.1. Nazwa i adres siedziby Stronnictwo Demokratyczne z siedzibą w Warszawie, ul. J. Chmielna 9, 00-021 1.2. Podstawa prawna działalności Partia Polityczna Stronnictwo Demokratyczne jest wpisana do ewidencji partii politycznych, prowadzonej przez Sąd Okręgowy w Warszawie VII Wydział Cywilny Rejestrowy, pod numerem ewidencyjnym EwP2. Wpis do ewidencji partii politycznych nastąpił w dniu 29.X11.1997 r. Podstawę działania Stronnictwa stanowi Statut. Ostatnie zmiany w Statucie zostały wprowadzone w dniu 13 maja 2006 r. w brzmieniu Uchwały podjętej na XXI Kongresie Stronnictwa Demokratycznego.",
+     "text": "Dane identyfikujące badaną Jednostkę",
      "children": [
+      {
+       "type": "text",
+       "text": "1.1. Nazwa i adres siedziby Stronnictwo Demokratyczne z siedzibą w Warszawie, ul. J. Chmielna 9, 00-021 1.2. Podstawa prawna działalności Partia Polityczna Stronnictwo Demokratyczne jest wpisana do ewidencji partii politycznych, prowadzonej przez Sąd Okręgowy w Warszawie VII Wydział Cywilny Rejestrowy, pod numerem ewidencyjnym EwP2. Wpis do ewidencji partii politycznych nastąpił w dniu 29.X11.1997 r. Podstawę działania Stronnictwa stanowi Statut. Ostatnie zmiany w Statucie zostały wprowadzone w dniu 13 maja 2006 r. w brzmieniu Uchwały podjętej na XXI Kongresie Stronnictwa Demokratycznego."
+      },
       {
        "type": "text",
        "text": "Partia Polityczna STRONNICTWO DEMOKRATYCZNE > ! Je 7 /"
@@ -1129,11 +1137,43 @@
       },
       {
        "type": "text",
-       "text": "USTALENIA SZCZEGÓŁOWE Sprawozdanie z wpływów i wydatków Funduszu Wyborczego wykazuje: ] go wj Stan środków pieniężnych na 1.1.2007 r. 4,05 zł Przychody (wpływy) 2007 0,01 zł Koszty (wydatki) 2007 „0” Stan środków pieniężnych na 31.X1I.2007 r. 4,06 zł Wykazane przychody (wpływy) 0,01 zł stanowią uzyskane odsetki od środków na rachunku bankowym."
+       "text": "USTALENIA SZCZEGÓŁOWE"
       },
       {
        "type": "text",
-       "text": "Wyodrębniony rachunek bankowy środków pieniężnych Funduszu Wyborczego Rachunek otwarty został w dniu 16 marca 2006 r. w oparciu o umowę z Bankiem Gospodarstwa Krajowego I Oddział w Warszawie, Al. Jerozolimskie 7 z dnia 16.11.2006 r. Rachunek Funduszu Wyborczego Nr 30 11 30 1017 0019 9410 5120 0004 Pismem z dnia 8 stycznia 2008 r. Bank Gospodarstwa Krajowego I Oddział w Warszawie potwierdził saldo rachunku bankowego Stronnictwa Demokratycznego na 31.X1I1.2007 r. w wysokości 4,06 zł. Saldo zgodne z ewidencją księgową — konto 133-0017-RN oraz z kontem Funduszu Wyborczego. Stan na 1.1.2007 r. 4.05 zł Zwiększenia — otrzymane odsetki 0,01 a Zmniejszenia mee Stan na 31.X]11.2007 r. 4,06 zł Inne obroty w ciągu okresu 1.1.2007 — 31.XII.2007 — nie wystąpiły."
+       "text": "Sprawozdanie z wpływów i wydatków Funduszu Wyborczego wykazuje: ] go wj"
+      },
+      {
+       "type": "text",
+       "text": "Stan środków pieniężnych na 1.1.2007 r. 4,05 zł Przychody (wpływy) 2007 0,01 zł Koszty (wydatki) 2007 „0” Stan środków pieniężnych na 31.X1I.2007 r. 4,06 zł"
+      },
+      {
+       "type": "text",
+       "text": "Wykazane przychody (wpływy) 0,01 zł stanowią uzyskane odsetki od środków na rachunku bankowym."
+      },
+      {
+       "type": "text",
+       "text": "Wyodrębniony rachunek bankowy środków pieniężnych Funduszu Wyborczego Rachunek otwarty został w dniu 16 marca 2006 r. w oparciu o umowę z Bankiem Gospodarstwa Krajowego I Oddział w Warszawie, Al. Jerozolimskie 7 z dnia 16.11.2006 r."
+      },
+      {
+       "type": "text",
+       "text": "Rachunek Funduszu Wyborczego Nr 30 11 30 1017 0019 9410 5120 0004"
+      },
+      {
+       "type": "text",
+       "text": "Pismem z dnia 8 stycznia 2008 r. Bank Gospodarstwa Krajowego I Oddział w Warszawie potwierdził saldo rachunku bankowego Stronnictwa Demokratycznego na 31.X1I1.2007 r. w wysokości 4,06 zł."
+      },
+      {
+       "type": "text",
+       "text": "Saldo zgodne z ewidencją księgową — konto 133-0017-RN oraz z kontem Funduszu Wyborczego."
+      },
+      {
+       "type": "text",
+       "text": "Stan na 1.1.2007 r. 4.05 zł Zwiększenia — otrzymane odsetki 0,01 a Zmniejszenia mee Stan na 31.X]11.2007 r. 4,06 zł"
+      },
+      {
+       "type": "text",
+       "text": "Inne obroty w ciągu okresu 1.1.2007 — 31.XII.2007 — nie wystąpiły."
       },
       {
        "type": "text",
@@ -4030,11 +4070,31 @@
     },
     {
      "type": "text",
-     "text": "NACZELNY KOMITET WYKONAWCZY POLSKIEGO STRONNICTWA LUDOWEGO (nazwa organu statutowego partii politycznej, uprawnionego do jej reprezentowania) przedstawia sprawozdanie za 2007 r. o źródłach pozyskania środków finansowych oraz o wydatkach poniesionych ze środków Funduszu Wyborczego, wraz z opinią i raportem biegłego rewidenta w zakresie wpływów na Fundusz Wyborczy partii politycznej. Źródła pozyskania środków przez partię polityczną (z wyłączeniem Funduszu Wyborczego)"
+     "text": "NACZELNY KOMITET WYKONAWCZY"
     },
     {
      "type": "text",
-     "text": "Wyszczególnienie 1 Przychody/ wpływy - suma z pozycji I+II+IN+TV (z wyłączeniem pkt 9 w części I)"
+     "text": "POLSKIEGO STRONNICTWA LUDOWEGO"
+    },
+    {
+     "type": "text",
+     "text": "(nazwa organu statutowego partii politycznej, uprawnionego do jej reprezentowania)"
+    },
+    {
+     "type": "text",
+     "text": "przedstawia sprawozdanie za 2007 r. o źródłach pozyskania środków finansowych oraz o wydatkach poniesionych ze środków Funduszu Wyborczego, wraz z opinią i raportem biegłego rewidenta w zakresie wpływów na Fundusz Wyborczy partii politycznej."
+    },
+    {
+     "type": "text",
+     "text": "Źródła pozyskania środków przez partię polityczną (z wyłączeniem Funduszu Wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "text",
+     "text": "1 Przychody/ wpływy - suma z pozycji I+II+IN+TV (z wyłączeniem pkt 9 w części I)"
     },
     {
      "type": "text",
@@ -16257,7 +16317,11 @@
       },
       {
        "type": "text",
-       "text": "| | eee eee een eee eee tenes | | (nazwa i adres siedziby banku, nr rachunku) i | | 1) pochodzące od osób fizycznych i a) wpłaty z zachowaniem limitu określonego w art. 36a ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach i politycznych i H i - | j (wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota)* ! | b) wpłaty ponad limit określony w art. 36a ust. 1 i 2 ustawy i i z dnia 27 czerwca 1997 r. o partiach politycznych i h (wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota) * |"
+       "text": "| | eee eee een eee eee tenes | | (nazwa i adres siedziby banku, nr rachunku) i |"
+      },
+      {
+       "type": "text",
+       "text": "| 1) pochodzące od osób fizycznych i a) wpłaty z zachowaniem limitu określonego w art. 36a ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach i politycznych i H i - | j (wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota)* ! | b) wpłaty ponad limit określony w art. 36a ust. 1 i 2 ustawy i i z dnia 27 czerwca 1997 r. o partiach politycznych i h (wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota) * |"
       },
       {
        "type": "lit",
@@ -16356,15 +16420,7 @@
       },
       {
        "type": "note",
-       "text": "[Strona 230 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "ma zażącznik dc cdpowisanich punktów sprawczdania. Qa ee Se oti onnuictwe Nar” EA \"PA a Power , PATRIA “"
-      },
-      {
-       "type": "text",
-       "text": "(imię i nazwisko oraz podpis pełnomocnika finansowego odpowiedzialnego"
+       "text": "[Strona 230 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
       }
      ]
     }
@@ -18434,7 +18490,19 @@
       },
       {
        "type": "text",
-       "text": "CZĘŚĆ OGÓLNA RAPORTU Dane identyfikujące badaną Jednostkę Nazwa i adres siedziby Socjaldemokracja Polska z siedzibą w Warszawie, ul. Mokotowska 29 JĄ Podstawa prawna działalności Partia Polityczna Socjaldemokracja Polska — zarejestrowany skrót SDPL — posiada osobowość prawną. Została ona wpisana do ewidencji partii politycznych, prowadzonej przez Sąd Okręgowy w Warszawie VII Wydział Cywilny Rejestrowy pod numerem ewidencyjnym EwP 191. Wpis do ewidencji partii politycznych nastąpił w dniu 19 kwietnia 2004 r. Podstawę działania SDPL stanowi ustawa z dnia 27 czerwca 1997 r. o partiach politycznych oraz Statut zarejestrowany w Sądzie Okręgowym Warszawie VII Wydział Cywilny Rejestrowy w dniu 19 kwietnia 2004 r. Przedstawiony Biegłemu wyciąg z księgi ewidencji partii politycznych nosi datę 29.1.2008 r. Partia Polityczna SOCJALDEMOKRACJA POLSKA"
+       "text": "CZĘŚĆ OGÓLNA RAPORTU"
+      },
+      {
+       "type": "text",
+       "text": "Dane identyfikujące badaną Jednostkę"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa i adres siedziby Socjaldemokracja Polska z siedzibą w Warszawie, ul. Mokotowska 29 JĄ Podstawa prawna działalności Partia Polityczna Socjaldemokracja Polska — zarejestrowany skrót SDPL — posiada osobowość prawną. Została ona wpisana do ewidencji partii politycznych, prowadzonej przez Sąd Okręgowy w Warszawie VII Wydział Cywilny Rejestrowy pod numerem ewidencyjnym EwP 191. Wpis do ewidencji partii politycznych nastąpił w dniu 19 kwietnia 2004 r. Podstawę działania SDPL stanowi ustawa z dnia 27 czerwca 1997 r. o partiach politycznych oraz Statut zarejestrowany w Sądzie Okręgowym Warszawie VII Wydział Cywilny Rejestrowy w dniu 19 kwietnia 2004 r. Przedstawiony Biegłemu wyciąg z księgi ewidencji partii politycznych nosi datę 29.1.2008 r."
+      },
+      {
+       "type": "text",
+       "text": "Partia Polityczna SOCJALDEMOKRACJA POLSKA"
       },
       {
        "type": "note",
@@ -18958,11 +19026,31 @@
         },
         {
          "type": "text",
-         "text": "Badanie wpływów i wydatków Funduszu Wyborczego za rok 2007 Zwroty wpłat i prowizji . 845,09 zł w tym: PKO BP 40,00 zł BPH 805,09 zł W dmiu 9.X.2007 na konto PKO BP wpłynęła omyłkowo kwota 400.000,00 zł z tytułu wykorzystania kredytu na finansowanie celów statutowych Kwota ta, stanowiąca pomyłkę bankową, została w dniu 15.X.2007 przekazana na rachunek bieżący. W ogólnej kwocie wpływów, wykazanych w sprawozdaniu z funduszu wyborczego, kwota 400.000,00 zł, jako pomyłka ewidencyjna Banku, została pominięta. Nie ma ona wpływu na saldo końcowe rachunku."
+         "text": "Badanie wpływów i wydatków Funduszu Wyborczego za rok 2007 Zwroty wpłat i prowizji . 845,09 zł w tym: PKO BP 40,00 zł BPH 805,09 zł"
         },
         {
          "type": "text",
-         "text": "Rozliczenie wydatków z Funduszu Wyborczego Wykazane w sprawozdaniu wydatki z Funduszu Wyborczego 2.739.624,36 zł Obejmują wydatki z kont PKO BP oraz BPH. Rozliczenie wydatków przedstawia zestawienie:"
+         "text": "W dmiu 9.X.2007 na konto PKO BP wpłynęła omyłkowo kwota 400.000,00 zł z tytułu wykorzystania kredytu na finansowanie celów statutowych"
+        },
+        {
+         "type": "text",
+         "text": "Kwota ta, stanowiąca pomyłkę bankową, została w dniu 15.X.2007 przekazana na rachunek bieżący."
+        },
+        {
+         "type": "text",
+         "text": "W ogólnej kwocie wpływów, wykazanych w sprawozdaniu z funduszu wyborczego, kwota 400.000,00 zł, jako pomyłka ewidencyjna Banku, została pominięta. Nie ma ona wpływu na saldo końcowe rachunku."
+        },
+        {
+         "type": "text",
+         "text": "Rozliczenie wydatków z Funduszu Wyborczego"
+        },
+        {
+         "type": "text",
+         "text": "Wykazane w sprawozdaniu wydatki z Funduszu Wyborczego 2.739.624,36 zł Obejmują wydatki z kont PKO BP oraz BPH."
+        },
+        {
+         "type": "text",
+         "text": "Rozliczenie wydatków przedstawia zestawienie:"
         },
         {
          "type": "text",
@@ -18970,7 +19058,11 @@
         },
         {
          "type": "text",
-         "text": "Wydatki z wyborów do Sejmu i Senatu Wykazana kwota 2.704.967,95 zł dotyczy: — wydatków z konta PKO BP 2.682.144,76 zł — wydatków z konta BPH 22.823,19 zł"
+         "text": "Wydatki z wyborów do Sejmu i Senatu"
+        },
+        {
+         "type": "text",
+         "text": "Wykazana kwota 2.704.967,95 zł dotyczy: — wydatków z konta PKO BP 2.682.144,76 zł — wydatków z konta BPH 22.823,19 zł"
         },
         {
          "type": "text",
@@ -24888,7 +24980,11 @@
         },
         {
          "type": "text",
-         "text": "Agata Nosal Członek Krajowego Komitetu Wykonawczego (Skarbnik) k. New (imię, nazwisko, stanowisko i podpisy osoby/osób uprawnionej/-ych do reprezentowania partii politycznej)"
+         "text": "Agata Nosal Członek Krajowego Komitetu Wykonawczego (Skarbnik) k. New"
+        },
+        {
+         "type": "text",
+         "text": "(imię, nazwisko, stanowisko i podpisy osoby/osób uprawnionej/-ych do reprezentowania partii politycznej)"
         },
         {
          "type": "text",
@@ -26130,10 +26226,6 @@
       {
        "type": "text",
        "text": "Poz"
-      },
-      {
-       "type": "text",
-       "text": "Monitor Polski Nr 37 ."
       },
       {
        "type": "text",
@@ -29110,7 +29202,11 @@
       },
       {
        "type": "text",
-       "text": "tad [III Wartości niepieniężne 1). darowizny rzeczowe"
+       "text": "tad"
+      },
+      {
+       "type": "text",
+       "text": "[III Wartości niepieniężne 1). darowizny rzeczowe"
       }
      ]
     },
@@ -29144,15 +29240,28 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "ponad limit określony w art. 25 ust. 4 (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)",
-     "children": []
+     "text": "ponad limit określony w art. 25 ust. 4",
+     "children": [
+      {
+       "type": "text",
+       "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)"
+      }
+     ]
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "w innej formie, niż określona w art. 25 ust. 4 (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty) | VI. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone |. (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)",
+     "text": "w innej formie, niż określona w art. 25 ust. 4",
      "children": [
+      {
+       "type": "text",
+       "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty) | VI. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone"
+      },
+      {
+       "type": "text",
+       "text": "|. (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)"
+      },
       {
        "type": "text",
        "text": "Wpływy i wydatki Funduszu Wyborczego"
@@ -29188,15 +29297,25 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_2/lit_b",
-       "text": "wpłaty ponad limit określony w art. 36a ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)",
-       "children": []
+       "text": "wpłaty ponad limit określony w art. 36a ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych",
+       "children": [
+        {
+         "type": "text",
+         "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)"
+        }
+       ]
       },
       {
        "type": "lit",
        "num": "c",
        "path": "pkt_2/lit_c",
-       "text": "wartość darowizn, spadków lub zapisów (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)",
-       "children": []
+       "text": "wartość darowizn, spadków lub zapisów",
+       "children": [
+        {
+         "type": "text",
+         "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)"
+        }
+       ]
       }
      ]
     },
@@ -31252,7 +31371,19 @@
       },
       {
        "type": "text",
-       "text": "RAPORT UZUPEŁNIAJĄCY OPINIĘ BIEGŁEGO REWIDENTA Z BADANIA SPRAWOZDANIA O WPŁYWACH NA FUNDUSZ WYBORCZY PARTII KOBIET za okres 01.01.2007 r. — 31.12.2007 r."
+       "text": "RAPORT"
+      },
+      {
+       "type": "text",
+       "text": "UZUPEŁNIAJĄCY OPINIĘ BIEGŁEGO REWIDENTA Z BADANIA SPRAWOZDANIA O WPŁYWACH NA FUNDUSZ WYBORCZY"
+      },
+      {
+       "type": "text",
+       "text": "PARTII KOBIET"
+      },
+      {
+       "type": "text",
+       "text": "za okres 01.01.2007 r. — 31.12.2007 r."
       },
       {
        "type": "text",
@@ -33614,8 +33745,13 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "pochodzące z posiadania i z obrotu obligacjami Skarbu Państwa i bonami skarbowymi Skarbu Państwa RZEPY Terre irr reere ree rectrrrrrr rrr errr rire rrr rir ret errr",
-     "children": []
+     "text": "pochodzące z posiadania i z obrotu obligacjami Skarbu Państwa i bonami skarbowymi Skarbu Państwa",
+     "children": [
+      {
+       "type": "text",
+       "text": "RZEPY Terre irr reere ree rectrrrrrr rrr errr rire rrr rir ret errr"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -34158,10 +34294,6 @@
       {
        "type": "ocr",
        "text": "0,0 z / ("
-      },
-      {
-       "type": "ocr",
-       "text": "Monitor Polski Nr 37 — 1746 —"
       },
       {
        "type": "note",

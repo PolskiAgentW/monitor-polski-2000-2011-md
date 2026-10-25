@@ -1,7 +1,7 @@
 {
  "eli": "MP/2003/417",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 2 czerwca 2003 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2002 r.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2003/417/text.pdf",
  "body": [
   {
@@ -345,7 +345,11 @@
         },
         {
          "type": "text",
-         "text": "1 j 2) pochodzące z wpłat własnych L | 3) kwota przekazana z subwencji i _ —— | 4) odsetki od Środków na rachunku bankowym | LL | | B. Wydatki/koszty - L- Wydatki związane z udziałem w wyborach, w tym:"
+         "text": "1"
+        },
+        {
+         "type": "text",
+         "text": "j 2) pochodzące z wpłat własnych L | 3) kwota przekazana z subwencji i _ —— | 4) odsetki od Środków na rachunku bankowym | LL | | B. Wydatki/koszty - L- Wydatki związane z udziałem w wyborach, w tym:"
         }
        ]
       }
@@ -3431,10 +3435,6 @@
      "text": "[Strona 51 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 33 — 2192 —"
-    },
-    {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
@@ -4400,7 +4400,11 @@
       },
       {
        "type": "text",
-       "text": "JADWIGA SZABAT — PREZES ZARZĄDU BIEGŁY REWIDENT Wpisany na listę biegłych rewidentów pod numerem 3905/5031 WE Mać a SYSTEM REWIDENT SP. Z 0.0. Spółka wpisana na listę podmiotów uprawnionych do badania sprawozdań finansowych pod numerem 1253"
+       "text": "JADWIGA SZABAT — PREZES ZARZĄDU BIEGŁY REWIDENT Wpisany na listę biegłych rewidentów pod numerem 3905/5031 WE Mać a"
+      },
+      {
+       "type": "text",
+       "text": "SYSTEM REWIDENT SP. Z 0.0. Spółka wpisana na listę podmiotów uprawnionych do badania sprawozdań finansowych pod numerem 1253"
       },
       {
        "type": "text",
@@ -10466,7 +10470,11 @@
       },
       {
        "type": "text",
-       "text": "Wyszczególnienie Kwota w zł 1 2 A. Przychody/wpływy 10.777,43 I. Środki pieniężne zgromadzone na rachunkach bankowym Funduszu Wyborczego 10.777,43 PEKAO S.A. I O/Warszawa, ul. Grzybowska 53/57, 12401037-30006045-2700-401112-001 (nazwa i adres Siedziby banku, nr rachunku)*"
+       "text": "Wyszczególnienie Kwota w zł 1 2"
+      },
+      {
+       "type": "text",
+       "text": "A. Przychody/wpływy 10.777,43 I. Środki pieniężne zgromadzone na rachunkach bankowym Funduszu Wyborczego 10.777,43 PEKAO S.A. I O/Warszawa, ul. Grzybowska 53/57, 12401037-30006045-2700-401112-001 (nazwa i adres Siedziby banku, nr rachunku)*"
       },
       {
        "type": "note",
@@ -15259,7 +15267,15 @@
         },
         {
          "type": "text",
-         "text": "Badanie sprawozdania finansowego o źródłach pozyskania środków finansowych przez Partię Polityczną i Fundusz Wyborczy „SAMOOBRONA RP” w zakresie wpływów na Fundusz Wyborczy za okres od 01 stycznia do 31 grudnia 2002 roku zostało przeprowadzone: — na podstawie umowy zawartej w dniu 25 lutego 2003 r. z Krajowym Biurem Wvborczym z siedzibą w Warszawie, ul. Wiejska 10, — przez firmę EURO-in i PARTNERZY Sp. z 0.0. z siedzibą w Warszawie (kod 03-731), przy ul. Targowej 22, — w siedzibie Partii w Warszawie (kod 00-024), ul. Al. Jerozolimskie 30 lok. 10. Badanie sprawozdania wyborczego w imieniu firmy EURO-in i PARTNERZY w okresie od 14 do 25 marca 2003 r. przeprowadziłi biegli rewidenci: — Kazimierz Osmański - licencja nr 8707/6584, — Zdzisław Dłubała — - licencja nr 8664/6737 Podczas audytu Partię reprezentowali: — Pan Andrzej LEPPER — Przewodniczący, ~ Pani Lidia ROGALA - Pełnomocnik wyborczy, — Pant Halina SIKORSKA - Pełnomocnik finansowy. Kompłetne sprawozdanie finansowe przedstawiono dnia 24 marca 2003 r. Wykazuje ono: © w części „Źródła pozyskania środków przez partię polityczną” (z wyłączeniem Funduszu Wyborczego): - Przychody / wpływy 4.544.361,57 zł w tym: 1. Środki pieniężne wpłacone na rachunki bankowe partii 4.540.250,99 zł II. Srodki pieniężne wpłacone do kasy partii — ogółem 0,00 zł Ili. Wartości niepieniężne 0,00 zł IV. Pozostałe źródła 4.110,58 zł © . w części „Wpływy i wydatki Funduszu Wyborczego” - A. Przychody / wpływy 2.949.909,68 zł - B. Wydatki / koszty 2.850.000,00 zł - C. Korzyści majątkowe przekazane na Fundusz Wyborczy z naruszeniem przepisów ustawy o partiach politycznych 90.469,38 zł Zgodnie z zawartą umową z dnia 25.02.2003 r. badaniu podlegało sprawozdanie w części dotyczącej „Wpływów i wydatków Funduszu Wyborczego”. Kompletne i zamknięte księgi rachunkowe i dokumentację finansowo-księgową, na podstawie których sprawozdanie powyższe sporządzono, przedstawiono do badania w dniu 24 marca 2003 r. Audyt przeprowadzono w oparciu 0: e art. 35 — 39a ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.), zwaną dalej „ustawą o partiach”, * rozporządzenie Ministra Finansów z dnia 18 lutego 2003 r. w sprawie sprawozdania o Źródłach pozyskania środków finansowych (Dz. U. Nr 33, poz. 269), zwanym dalej „rozporządzeniem”, e rozdział 13 ustawy z dnia 12 kwietnia 2001 r. Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz.499, z późn. zm.), e ustawę z dnia 29 września 1994 r. o rachunkowości (tj. Dz. U. z 2002 r. Nr 76, poz. 694), zwaną dalej „ustawą o rachunkowości”, * rozporządzenie Ministra Finansów z dnia 15 listopada 2001 r. w sprawie szczególnych zasad rachunkowości dla niektórych jednostek niebędących spółkami handlowymi, nieprowadzących działalności gospodarczej (Dz. U. Nr 137, poz. 1539),"
+         "text": "Badanie sprawozdania finansowego o źródłach pozyskania środków finansowych przez Partię Polityczną i Fundusz Wyborczy „SAMOOBRONA RP” w zakresie wpływów na Fundusz Wyborczy za okres od 01 stycznia do 31 grudnia 2002 roku zostało przeprowadzone: — na podstawie umowy zawartej w dniu 25 lutego 2003 r. z Krajowym Biurem Wvborczym z siedzibą w Warszawie, ul. Wiejska 10, — przez firmę EURO-in i PARTNERZY Sp. z 0.0. z siedzibą w Warszawie (kod 03-731), przy ul. Targowej 22, — w siedzibie Partii w Warszawie (kod 00-024), ul. Al. Jerozolimskie 30 lok. 10. Badanie sprawozdania wyborczego w imieniu firmy EURO-in i PARTNERZY w okresie od 14 do 25 marca 2003 r. przeprowadziłi biegli rewidenci: — Kazimierz Osmański - licencja nr 8707/6584, — Zdzisław Dłubała — - licencja nr 8664/6737 Podczas audytu Partię reprezentowali: — Pan Andrzej LEPPER — Przewodniczący, ~ Pani Lidia ROGALA - Pełnomocnik wyborczy, — Pant Halina SIKORSKA - Pełnomocnik finansowy. Kompłetne sprawozdanie finansowe przedstawiono dnia 24 marca 2003 r. Wykazuje ono: © w części „Źródła pozyskania środków przez partię polityczną” (z wyłączeniem Funduszu Wyborczego): - Przychody / wpływy 4.544.361,57 zł w tym: 1. Środki pieniężne wpłacone na rachunki bankowe partii 4.540.250,99 zł II. Srodki pieniężne wpłacone do kasy partii — ogółem 0,00 zł Ili. Wartości niepieniężne 0,00 zł IV. Pozostałe źródła 4.110,58 zł © . w części „Wpływy i wydatki Funduszu Wyborczego” - A. Przychody / wpływy 2.949.909,68 zł - B. Wydatki / koszty 2.850.000,00 zł - C. Korzyści majątkowe przekazane na Fundusz Wyborczy z naruszeniem przepisów ustawy o partiach politycznych 90.469,38 zł"
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z zawartą umową z dnia 25.02.2003 r. badaniu podlegało sprawozdanie w części dotyczącej „Wpływów i wydatków Funduszu Wyborczego”."
+        },
+        {
+         "type": "text",
+         "text": "Kompletne i zamknięte księgi rachunkowe i dokumentację finansowo-księgową, na podstawie których sprawozdanie powyższe sporządzono, przedstawiono do badania w dniu 24 marca 2003 r. Audyt przeprowadzono w oparciu 0: e art. 35 — 39a ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.), zwaną dalej „ustawą o partiach”, * rozporządzenie Ministra Finansów z dnia 18 lutego 2003 r. w sprawie sprawozdania o Źródłach pozyskania środków finansowych (Dz. U. Nr 33, poz. 269), zwanym dalej „rozporządzeniem”, e rozdział 13 ustawy z dnia 12 kwietnia 2001 r. Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. Nr 46, poz.499, z późn. zm.), e ustawę z dnia 29 września 1994 r. o rachunkowości (tj. Dz. U. z 2002 r. Nr 76, poz. 694), zwaną dalej „ustawą o rachunkowości”, * rozporządzenie Ministra Finansów z dnia 15 listopada 2001 r. w sprawie szczególnych zasad rachunkowości dla niektórych jednostek niebędących spółkami handlowymi, nieprowadzących działalności gospodarczej (Dz. U. Nr 137, poz. 1539),"
         },
         {
          "type": "text",
@@ -18912,7 +18928,12 @@
     },
     {
      "type": "text",
-     "text": "Wyszczególnienie . Kwota wartość) w zł Przychody/ wpływy - suma z pozycji I+M+II+IV (z wyłączeniem pkt I ppkt 9) A, 500, - I. Środki pieniężne wpłacone na rachunki bankowe partii (nazwa i adres siedzib banku, nr rachunku)”"
+     "text": "Wyszczególnienie . Kwota wartość) w zł Przychody/ wpływy - suma z pozycji I+M+II+IV (z wyłączeniem pkt I ppkt 9) A, 500, -"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Środki pieniężne wpłacone na rachunki bankowe partii (nazwa i adres siedzib banku, nr rachunku)”"
     },
     {
      "type": "pkt",
@@ -19044,12 +19065,12 @@
      "num": "3",
      "path": "pkt_3",
      "text": "pochodzące z działalności własnej, określonej w art. 27 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (kwoty nie przekraczające 10 PLN — pochodzące ze sprzedaży jednostkowych egzemplarzy programu partii, statutu partii lub wykonanych kserokopii",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Wartości niepieniężne 1)darowizny rzeczowe | 2)spadki |. |"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Wartości niepieniężne 1)darowizny rzeczowe | 2)spadki |. |"
     },
     {
      "type": "pkt",
@@ -22923,7 +22944,11 @@
       },
       {
        "type": "text",
-       "text": "Biegły rewident mar Aligka Górecka Biegły Dewi Stefan Niemirówski nr ewid. 2738//991 Btu R © EKSPERTYZ | BADANIA BILANSÓW _, £78 CES E Spółka z 0.0. w Legnicy, ul.J.Libana 5 Podmiot uprawniony Nr 794 Legnica, 10 kwietnia 2003r."
+       "text": "Biegły rewident mar Aligka Górecka Biegły Dewi"
+      },
+      {
+       "type": "text",
+       "text": "Stefan Niemirówski nr ewid. 2738//991 Btu R © EKSPERTYZ | BADANIA BILANSÓW _, £78 CES E Spółka z 0.0. w Legnicy, ul.J.Libana 5 Podmiot uprawniony Nr 794 Legnica, 10 kwietnia 2003r."
       }
      ]
     }
@@ -26553,7 +26578,11 @@
     },
     {
      "type": "text",
-     "text": "(miejscowość, data) (imię, nazwisko, stanowisko i podpis osoby / osób uprawnionej / -ych do reprezentowania partii politycznej) RE Mic POWIEAND PEŁMOMOCAICA imię i nazwisko oraz podpis pełnomocnika finansowego odpowiedzialnego za prowadzenie Funduszu Wyborczego"
+     "text": "(miejscowość, data) (imię, nazwisko, stanowisko i podpis osoby / osób uprawnionej / -ych do reprezentowania partii politycznej)"
+    },
+    {
+     "type": "text",
+     "text": "RE Mic POWIEAND PEŁMOMOCAICA imię i nazwisko oraz podpis pełnomocnika finansowego odpowiedzialnego za prowadzenie Funduszu Wyborczego"
     }
    ]
   },
@@ -26929,7 +26958,11 @@
      "children": [
       {
        "type": "text",
-       "text": "(wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota wpłaty) * - w kwocie nieprzekraczającej w jednym roku wysokości najniższego miesięcznego wynagrodzenia za pracę pracowników ODEKEEEEZEEEEODOEEDZEE A OPEN SE wpłaty) *"
+       "text": "(wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota wpłaty) * - w kwocie nieprzekraczającej w jednym roku wysokości najniższego miesięcznego wynagrodzenia za pracę pracowników ODEKEEEEZEEEEODOEEDZEE A OPEN SE"
+      },
+      {
+       "type": "text",
+       "text": "wpłaty) *"
       }
      ]
     },
@@ -27211,11 +27244,19 @@
       },
       {
        "type": "text",
-       "text": "Wydatki związane z udziałem w wyborach i szczegółowo rozliczone w sprawozdaniach finansowych. BORU 1 z wyborów do Sejmu i Senatu PRIRU 2 z wyborów uzupełniających do Senatu"
+       "text": "Wydatki związane z udziałem w wyborach i szczegółowo rozliczone w sprawozdaniach finansowych."
       },
       {
        "type": "text",
-       "text": "3 z wyborów Prezydenta Rzeczypospolitej Polskiej PERU 4 z wyborów organów samorządu terytorialnego"
+       "text": "BORU 1 z wyborów do Sejmu i Senatu PRIRU 2 z wyborów uzupełniających do Senatu"
+      },
+      {
+       "type": "text",
+       "text": "3 z wyborów Prezydenta Rzeczypospolitej Polskiej"
+      },
+      {
+       "type": "text",
+       "text": "PERU 4 z wyborów organów samorządu terytorialnego"
       },
       {
        "type": "text",

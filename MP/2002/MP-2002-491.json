@@ -1,7 +1,7 @@
 {
  "eli": "MP/2002/491",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Litewskiej o współpracy w dziedzinach kultury, oświaty i nauki, sporządzona w Wilnie dnia 17 grudnia 1998 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/491/text.pdf",
  "body": [
   {
@@ -351,75 +351,251 @@
   },
   {
    "type": "text",
-   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Litewskiej korekta: 16.07.02"
-  },
-  {
-   "type": "text",
-   "text": "Monitor Polski Nr 31 — 1558 — Poz. 491"
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Litewskiej"
   },
   {
    "type": "note",
-   "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "text",
-   "text": "korekta: 16.07.02"
+   "text": "LENKIJOS RESPUBLIKOS VYRIAUSYBES IR LIETUVOS RESPUBLIKOS VYRIAUSYBES SUTARTIS DEL BENDRADARBIAVIMO KULTUROS, SVIETIMO IR MOKSLO SRITYSE"
   },
   {
    "type": "text",
-   "text": "Monitor Polski Nr 31 — 1559 — Poz. 491"
+   "text": "Lenkijos Respublikos Vyriausybé ir Lietuvos Respublikos Vyriausybé, toliau vadinamos Susitarianćiomis Salimis, vadovaudamosios Europos Saugumo ir Bendradarbiavimo Konferencijos Baigiamuoju aktu, Madrido ir Vienos susitikimy baigiamaisiais dokumentais; Naujosios Europos Paryżiaus chartijos nutarimais ir Krokuvos simpoziumo dokumentu del kultiiros paveldo, atsizvelgdamos | Europos Kulturos konvencijos nuostatas,"
+  },
+  {
+   "type": "text",
+   "text": "vadovaudamosios 1994 m. balandźio 26 d. Vilniuje pasiraSyta Lenkijos Respublikos ir Lietuvos Respublikos sutartimi del draugisky santykiy ir gero kaimyninio bendradarbiavimo,"
+  },
+  {
+   "type": "text",
+   "text": "remdamosios ilgaamżiais abiejy tauty kultiriniais rySiais,"
+  },
+  {
+   "type": "text",
+   "text": "atsizvelgdamos | tai, kad abiejy valstybiy teritorijose gyvenantys lietuviai ir lenkai ineść ir ineSa didelj indélj | abiejy tauty kulturą ir Europos kultiirini palikima,"
+  },
+  {
+   "type": "text",
+   "text": "siekdamos pletoti abipusiai naudingą bendradarbiavimą kultiros, Śvietimo ir mokslo srityse, biidamos jsitikinusios, kad platiis źmoniy kontaktai pasitarnaus geresniam abiejy valstybiy piliećiy tarpusavio supratimui,"
+  },
+  {
+   "type": "text",
+   "text": "tvertindamos lietuviy- lenky kultiriniy ir moksliniy ryśiy reikśmę kultiriniam bendradarbiavimui Europoje, ypać Baltijos jiiros regione,"
+  },
+  {
+   "type": "text",
+   "text": "susitaria:"
+  },
+  {
+   "type": "text",
+   "text": "1 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Pagrindine abiejy Śaliy kultirinio ir mokslinio bendradarbiavimo forma Susitarianćios Salys laiko bendradarbiavimą, pagristą valdżios institucijy, valstybiniy jstaigy, organizacijy, susivienijimy, vietos savivaldybiy ir piliediy bendrais poreikiais ir interesais. Sis bendradarbiavimas remsis abiejose valstybése galiojanćiais istatymais. Susitariancios Salys palaikys esamus rySius ir stengsis toliau juos pletoti."
   },
   {
    "type": "note",
-   "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "text",
-   "text": "korekta: 16.07.02"
+   "text": "Susitarianćios Salys rems tiesiogines"
   },
   {
    "type": "text",
-   "text": "Monitor Polski Nr 31 — 1560 — Poz. 491"
+   "text": "2 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "valstybiniy, visuomeniniy ir privadiy institucijy bendradarbiavimo formas, kurios gilins abipusj supratimą."
+  },
+  {
+   "type": "text",
+   "text": "3 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Susitarianćios Salys visapusiśkai rems abiejy Saliy mokslininky, mokslo instituty, tyrimo jstaigy, mokslo akademijy bei kity mokslo institucijy glaudesni bendradarbiavimą."
+  },
+  {
+   "type": "text",
+   "text": "Susitariandios Salys rems mokslo darbuotojy mainus, bendry mokslinio tyrimo programy jgyvendinimą, mokslinćs ir mokslinćs- techninćs informacijos bei mokslinćs literatiros mainus, bendry mokslo renginiy organizavimą."
+  },
+  {
+   "type": "text",
+   "text": "Susitariangios Salys sudarys galimybes naudotis archyvais, biblioteky fondais bei kity Saltiniy medZiaga."
+  },
+  {
+   "type": "text",
+   "text": "4 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Susitariandios Salys keisis informacija auk3tojo mokslo ir mokslo srityse ir sudarys salygas tiesiogiai bendradarbiauti abiejy Saliy aukśtosioms mokykloms, mokslo ir moksliniy tyrimy institucijoms, mokslininkams ir kitiems specialistams ."
+  },
+  {
+   "type": "text",
+   "text": "Śalys skatins mokslininky, déstytojy aukśtują mokykly studenty mainus."
+  },
+  {
+   "type": "text",
+   "text": "ir kity specialisty vizitus, mokslines stażuotes,"
+  },
+  {
+   "type": "text",
+   "text": "5 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Susitariandios Salys, vadovaudamosios Salyje galiojanćiais teisćs aktais, sudarys sąlygas susipazinti su kitos Salies kultira: mokytis kalbos, literatiiros, istorijos ir geografijos bendrojo lavinimo mokyklose, Śvietimo ir kultiros jstaigose, veikianćiose kitos Salies teritorijoje, taip pat pagal galimybes aukStosiose mokyklose."
+  },
+  {
+   "type": "text",
+   "text": "Susitariantios Salys kreips ypatingą démesj i lietuviy (bałty) filologijos katedry veiklą ir poreikius Lenkijos Respublikos aukśtosiose mokyklose bei lenky filologijos katedry veiklą ir poreikius Lietuvos Respublikos aukśtosiose mokyklose, bendradarbiaus abipusio destytojy idarbinimo jose srityje."
+  },
+  {
+   "type": "text",
+   "text": "6 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Susitarianćios Salys skatins bendradarbiavimą ir mainus Svietimo srityje, ypatinga dćmesj skirs mokytojy, specialisty ir moksleiviy mainams, keisis mokymo programomis, vadovćliais, istorijos, geografijos ir kita mokymo medżiaga, bendradarbiaus didaktiniy Priemoniy srityje, rems vadovćliy vertinimo komisijy bendradarbiavimą. Susitarianćios Śałys sudarys galimybes palaikyti tiesioginius kontaktus tarp pagrindiniy ir Viduriniy bendrojo lavinimo bei profesiniy mokykly."
   },
   {
    "type": "note",
-   "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "text",
-   "text": "korekta: 16.07.02"
+   "text": "7 straipsnis"
   },
   {
    "type": "text",
-   "text": "Monitor Polski Nr 31 — 1561 — Poz. 491"
+   "text": "Susitariantios Salys sieks sudaryti tarpvyriausybine sutartj del abipusio brandos atestaty, aukśtojo mokslo diplomy, mokslo laipsniy ir vardy pripazinimo."
+  },
+  {
+   "type": "text",
+   "text": "8 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Susitarianćios Salys skatins bendradarbiauti suaugusiujy Śvietimo jstaigas, organizacijas, draugijas, rems konferencijy rengimą, suaugusiujy Śvietimo specialisty ir déstytojy mainus."
+  },
+  {
+   "type": "text",
+   "text": "Susitarianćios Salys sudarys sąlygas"
+  },
+  {
+   "type": "text",
+   "text": "9 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "asmeny, priklausanéiy lietuviy tautinei mażumai Lenkijos Respublikoje ir asmeny, priklausanćiy lenky tautinei mażumai Lietuvos Respublikoje tautiniam, religiniam ir kalbiniam identitetui iślaikyti, plétoti ir iśreikśti."
+  },
+  {
+   "type": "text",
+   "text": "Tuo tikslu kiekviena iś Susitariandiy Saliy savo valstybćs teritorijoje rems tautiniy mażumy śvietimo, kultiiros institucijy bei visuomeniniy organizacijy veiklą, o taip pat prisidés prie śiy asmeny kulturiny ryśly su tautietiais, gyvenanćiais kitos Salies valstybés teritorijoje, iślaikymo."
+  },
+  {
+   "type": "text",
+   "text": "Susitariantios Salys, kiekviena savo valstybés teritorijoje uźtikrins galimybę aukśćiau iśvardintiems asmenims naudotis Ziniasklaidos priemonémis, o tai pat savanoriśkumo pagrindais mokytis gimtaja kalba ikimokyklinése ugdymo jstaigose, pradinése ir vidurinése bendrojo lavinimo mokyklose."
+  },
+  {
+   "type": "text",
+   "text": "Susitariangios Salys uźtikrins mokytojy kadry tautiniy mazumy mokykloms rengimą ir jy kvalifikacijos kélima, kitos Salies nukreipty mokytojy jdarbinimą mażumy mokyklose, galimybę plesti gimtosios kalbos, istorijos, geografijos ir gimtosios kultiiros Żinias bei kelti Siy dalyky déstymo lygi,"
+  },
+  {
+   "type": "text",
+   "text": "Susitarianćios Salys bendradarbiaus rengiant lietuviy kalbos ir literatiros, Lietuvos istorijos, geografijos programas bei vadovćlius Lenkijos pagrindinéms ir vidurinems mokykloms lietuviy destomaja kalba, o taip pat lenky kalbos ir literatiros, Lenkijos istorijos ir geografijos mokymo programas bei vadovćlius Lietuvos pagrindinems ir vidurinéms mokykloms lenky déstomaja kalba."
+  },
+  {
+   "type": "text",
+   "text": "10 straipsnis Susitariantios Salys rems atitinkamy vyriausybiniy organy ir institucijy bei nevyriausybiniy 4 Panizacijy iniciatyvas, padedantias geriau pazinti kitos valstybés kultira. tuo tikslu Susitariancios Salys rems bendradarbiavimą visose kultiros ir meno srityse ir sudarys atitinkamas salygas tiesioginiams Siose srityse dirbandiy organizaciju, institucijy ir ‘ziniy asmeny ryśiams."
   },
   {
    "type": "note",
-   "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "text",
-   "text": "korekta: 16.07.02"
+   "text": "11 straipsnis Susitarianćios Salys rems fiziniy ir juridiniy asmeny, jgalioty użsiimti tarptautine impresarijy veikla, bendradarbiavimą srityse, kurias reguliuoja $i Sutartis."
   },
   {
    "type": "text",
-   "text": "Monitor Polski Nr 31 — 1562 — Poz. 491"
+   "text": "12 straipsnis Susitariantios Salys pletos bendradarbiavimą vertiant grożinę, mokslinę ir mokslo populiarinimo literatiirą, leidybinés veiklos bei knygy, laikraściy ir Zumaly apyvartos srityse."
+  },
+  {
+   "type": "text",
+   "text": "13 straipsnis Susitarianćios Salys rems bendradarbiavimą kinematografijos srityje, ypatingą démesj skiriant bendriems filmy pastatymams ir teikiant abipuses filmy gamybos ir klrimo paslaugas. . Susitarianćios Salys rems savo Saliy kino meno populiarinimą, organizuojant bendras kino filmy perźiuras, dalyvaujant kitoje Salyje rengiamuose tarptautiniuose kino festivaliuose, filmy perżiiirose pagal ty festivaliy ir perżiiiry reglamentus, o taip pat keitiantis filmais komerciniu ir nekomerciniu pagrindu."
+  },
+  {
+   "type": "text",
+   "text": "14 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Susitarian¢ios Salys suteiks galimybę veikti lietuviy kultiiros centrams Lenkijos Respublikoje ir lenky kultiros centrams Lietuvos Respublikoje. Si veikla bus suderinta atskirais susitarimais. Susitarianćios Salys sudarys palankiausias teisines ir finansines sąlygas centry funkcionavimui, taip pat sudarys sąlygas juos remti jvairioms institucijoms, organizacijoms bei fondams pagal toje valstybeje galiojanćius jstatymus."
+  },
+  {
+   "type": "text",
+   "text": "15 straipsnis Susitarianćios Salys pripazins viena kitos fiziniy ir juridiniy asmeny ir jy teisiy perémejy autorines bei gretutines teises ir użtikrins jy apsauga pagal Berno konvencijos dé! literatiiros ir meno kiriniy apsaugos bei Romos konvencijos dél atlikéjy fonogramy gamintojy ir transliuojanćiujy organizacijy apsaugos nuostatas. ae | Iśsamiai tokios apsaugos |salygos ix tvarka bus nustatyta atskiru SusitarianCiy Saliy susitarimu. Susitariandiog Salys sieks jvesti ir taikyti visus autoriniy ir gretutiniy teisiy apsaugos Standartus, galiojantius Europos Sajungos valstybćse."
   },
   {
    "type": "note",
-   "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "text",
-   "text": "korekta: 16.07.02"
-  },
-  {
-   "type": "text",
-   "text": "Monitor Polski Nr 31 — 1563 — Poz. 491"
+   "text": "16 straipsnis Susitarianćios Salys globos jy teritorijose esanćias kultirines vietas ir vertybes, liudijan(ias apie kitos Śalies istorinius jvykius bei kultiiros ir mokslo pasiekimus ir tradicijas, bei imsis veiklos, siekdamos jaś jtraukti i kultiiros vyksmą bei użtikrinti deramą teisinę, materialinę ir kita apsaugą ir użtikrins, kad jos bity laisvai ir nevarźomai prieinamos, taip pat tais atvejais, kai rupinimasis tuo nera valstybés kompetencijoje. 17 straipsnis Susitariantios Salys bendradarbiaus inventorizuojant, tiriant, konservuojant ir restauruojant istorines ir kultiirines vertybes, sudarys salygas kitos Salies specialistams, tyrinétojams tyrinéti kultiros vertybes pagal kiekvienoje valstybeje galiojanćius istatymus. 18 straipsnis Susitariandios Salys imsis priemoniy, siekdamos rasti, nustatyti saugojimo vietą ir grążinti kultiros vertybes, kurios buvo isveżtos iS kitos valstybćs teritorijos, paźeidźiant tarptautines teisés normas. 19 straipsnis Sios Sutarties 16,17, ir 18 straipsniy vykdymas pavedamas Vyriausybiy [galiotiniams, kurie tiesiogiai pasirażys atskirą susitarimą. . 20 straipsnis Susitarianćios Salys rems intensyvy bendradarbiavimą archyvy srityje pagal tiesioginius abiejy valstybiy atitinkamy archyviniy institucijy susitarimus. 21 straipsnis Susitarianćios Salys skatins bendradarbiavimą medicinos mokslo ir sveikatos apsaugos srityse, kuris vyks pagal atskirus susitarimus. 22 straipsnis Susitariacios Śalys. skatins bendradarbiavimą kino kultiros ir sporto srityse tarp vynausybiniy ir nevyriausybiniy organizacijy, kuris vyks pagal atskirus susitarimus. 23 straipsnis Susitariantios Salys rems abipusj laisva informacijos apie kitos valstybés politini, Yisuomenini, kultirini ir mokslini gyvenimą perdavimą. iuo tikslu Susitarianćios Salys rems radijo ir televizijos jstaigu, spaudos agentiiry, Zumalisty draugiju, spaudos leidykly ir redakcijy bendradarbiavimą."
   },
   {
    "type": "note",
-   "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "24 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Susitariancios Salys abipusiśkumo ir lygiateisiśkumo pagrindais bendradarbiaus ir organizuos mainus Sioje Sutartyje numatytose srityse. Siekdamos vykdyti Siq Sutartj, Susitarianćios Salys arba suinteresuotos institucijos ir organizacijos savo kompetencijos ribose ir, laikydamosios kiekvienos valstybes jstatymy, rengs susitarimus, programas ir planus, nustatanćius bendradarbiavimo formas, organizacines ir finansines sąlygas."
+  },
+  {
+   "type": "text",
+   "text": "25 straipsnis"
+  },
+  {
+   "type": "text",
+   "text": "Si Sutartis jsigalios nuo tos dienos, kai abi Susitarianćios Salys diplomatinemis notomis praneś viena kitai apie pagal ju jstatymus atliktas teisines procediiras, biitinas Siai SutarGiai isigalioti."
+  },
+  {
+   "type": "text",
+   "text": "Sutartis jsigalios vélesnés notos gavimo dieną."
+  },
+  {
+   "type": "text",
+   "text": "Sutartis galios penkerius (5) metus ir bus automatiśkai pratęsiama kiekvienam tolesniam penkeriy mety laikotarpiui, jei viena iś Susitarianćiują Śalią prieś Se3is menesius diplomatinémis notomis nepraneś kitai Susitarianćiajai Saliai nutraukianti Sutartj."
+  },
+  {
+   "type": "text",
+   "text": "oe IE ADOOEA beaunescesccccescevasseenuee egzemplioriais, kiekviekas lietuviy ir lenky kalba, a¥u tekstai turi vienodą galią."
+  },
+  {
+   "type": "text",
+   "text": "Sudaryta Mluwe.. 1998 m. Jue 200 AF a dviem"
+  },
+  {
+   "type": "text",
+   "text": "ENY"
+  },
+  {
+   "type": "text",
+   "text": "Lietuvos'Kespublikos Vyriausybćs vardu"
   }
  ],
  "annexes": [],

@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 17:17 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 19:12 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -78,11 +78,11 @@ Stan na 2026-10-25 17:17 UTC (liczone z `index.csv`).
 | 2010 | 1185 | 1185 | 0 |
 | 2011 | 1199 | 1199 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 543, razem 20214 z 48251 stron. Tekst z OCR (oznaczony) ma 19024 z nich w 481 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 804.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 547, razem 20226 z 48251 stron. Tekst z OCR (oznaczony) ma 19035 z nich w 485 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 800.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11088), eli2md 0.6.24 (392), eli2md 0.6.64 (334), eli2md 0.6.62 (154), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
+Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (392), eli2md 0.6.64 (334), eli2md 0.6.62 (151), eli2md 0.6.65 (7), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
 <!-- stats:end -->
 
 ## Zawartość
@@ -233,6 +233,18 @@ bez tekstu, a OCR 3 z nich (s. 26, 74, 85) dodaje trochę tekstu (0,17% znaków)
 są z obecnego PDF w API (zmienionego 2026-10-09; tekst ten sam). Bez zmian zostały 2 akty: MP/2001/569 i MP/2002/783,
 w których skany stron z samym nagłówkiem w warstwie tekstowej są teraz czytane przez OCR i dochodzi ich tekst. W zbiorze
 zostały 103 nagłówki w 13 aktach.
+
+Tego samego dnia eli2md 0.6.65, 7 aktów (opis w README eli2md, wpis 0.6.65): na stronach czytanych przez OCR nagłówek
+numeru odczytany bez numeru strony i pozycji („Monitor Polski Nr 26”) i linia drukarni z górnego pasa strony nie trafiają
+już do tekstu. Przeliczyłem ponownie 6 aktów, w których taki nagłówek był osobnym akapitem na górze strony z OCR. Reguła
+jak dla 0.6.62 (nagłówków i notek mniej, reszta tekstu różni się najwyżej o 0,5% znaków; nagłówek bez pozycji też jest
+wycinany przed porównaniem). Nowy plik zostaje w 3 (MP/2003/417, MP/2008/332, MP/2009/355; nagłówków 4 → 0, w 417 i 355
+reszta tekstu ma te same znaki). Bez zmian zostały 3: w MP/2005/456 nowy plik ma tyle samo nagłówków, w MP/2007/856
+i MP/2009/780 reszta tekstu różniła się od wersji z eli2md 0.6.24 o 0,69% i 0,78%. Osobno MP/2002/489, 491, 493 i 495
+(opisane wyżej przy 0.6.63): strony, których warstwa tekstowa ma tylko linię drukarni i nagłówek, są czytane przez OCR.
+Nowy plik zostaje, bo spełnia regułę zapisaną przed przeliczeniem: z tekstu nic nie ubywa, nowy tekst pochodzi tylko ze
+stron, które wcześniej były obrazem albo nie miały warstwy tekstowej, a w nowym pliku nie ma nagłówków (było 12) ani
+linii drukarni. MP/2001/569 i MP/2002/783 zostają bez zmian. W zbiorze zostało 91 nagłówków w 9 aktach.
 
 **Czego te liczby nie mówią:**
 

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/355",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 14 kwietnia 2009 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2008 r.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/355/text.pdf",
  "body": [
   {
@@ -8265,7 +8265,12 @@
         },
         {
          "type": "text",
-         "text": "OE Helene Krójah Helena Królak Podmiot uprawniony Biegły Rewident de badania sprawożdań ur ewid. KIBR 1995/602 finansowych nr ewid. KIBR 1697 Warszawa, dnia. 19. marca 2009 r.",
+         "text": "OE Helene Krójah Helena Królak Podmiot uprawniony Biegły Rewident de badania sprawożdań ur ewid. KIBR 1995/602 finansowych nr ewid. KIBR 1697",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Warszawa, dnia. 19. marca 2009 r.",
          "quoted": true
         },
         {
@@ -12352,24 +12357,36 @@
        "type": "lit",
        "num": "a",
        "path": "pkt_1/lit_a",
-       "text": "składki członkowskie: - w kwocie przekraczającej w jednym roku wysokość najniższego miesięcznego wynagrodzenia za pracę pracowników (wykaż osób —imię i nazwisko, miejscowość zamieszkania, kwota wpłaty) w kwocie nieprzekraczającej w jednym roku wysokości najniższego miesięcznego wynagrodzenia za pracę pracowników fwykaz osób-imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)*- Załącznik nr 2",
-       "children": []
+       "text": "składki członkowskie: - w kwocie przekraczającej w jednym roku wysokość najniższego miesięcznego wynagrodzenia za pracę pracowników",
+       "children": [
+        {
+         "type": "text",
+         "text": "(wykaż osób —imię i nazwisko, miejscowość zamieszkania, kwota wpłaty) w kwocie nieprzekraczającej w jednym roku wysokości najniższego miesięcznego wynagrodzenia za pracę pracowników"
+        },
+        {
+         "type": "text",
+         "text": "fwykaz osób-imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)*- Załącznik nr 2"
+        }
+       ]
       },
       {
        "type": "lit",
        "num": "b",
        "path": "pkt_1/lit_b",
-       "text": "darowizny (pieniężne) kania, kwota wpłaty)* - Załącznik nr 3 fwykaz osób —imię I nazwisko, miejscowość zamieSz | e) spadki i zapisy (pieniężne)",
-       "children": [
-        {
-         "type": "text",
-         "text": "2"
-        },
-        {
-         "type": "text",
-         "text": ") odsetki od środków na rachunkach i lokatach bankowych"
-        }
-       ]
+       "text": "darowizny (pieniężne)",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "kania, kwota wpłaty)* - Załącznik nr 3 fwykaz osób —imię I nazwisko, miejscowość zamieSz | e) spadki i zapisy (pieniężne)"
+      },
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": ") odsetki od środków na rachunkach i lokatach bankowych"
       }
      ]
     },
@@ -12388,7 +12405,11 @@
      "children": [
       {
        "type": "text",
-       "text": "0.00 zł — 25 248,50 zł"
+       "text": "0.00 zł"
+      },
+      {
+       "type": "text",
+       "text": "— 25 248,50 zł"
       },
       {
        "type": "text",
@@ -12462,7 +12483,11 @@
       },
       {
        "type": "text",
-       "text": "0,00 zł 29 427 920,77 zł | 5 kwota otrzymanej subwencji"
+       "text": "0,00 zł"
+      },
+      {
+       "type": "text",
+       "text": "29 427 920,77 zł | 5 kwota otrzymanej subwencji"
       }
      ]
     },
@@ -18841,8 +18866,13 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "inne B. Wydatki / koszty Wydatki związana z udziałem w wyborach i szczegółowo rozliczone w sprawozdaniach Ó finansowych:",
-     "children": []
+     "text": "inne",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. Wydatki / koszty Wydatki związana z udziałem w wyborach i szczegółowo rozliczone w sprawozdaniach Ó finansowych:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -19593,15 +19623,28 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "ponad limit określony w art. 25 ust. 4 (wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota] *",
-     "children": []
+     "text": "ponad limit określony w art. 25 ust. 4",
+     "children": [
+      {
+       "type": "text",
+       "text": "(wykaz osób - imię i nazwisko, miejscowość zamieszkania, kwota] *"
+      }
+     ]
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "w innej formie, niż określona w art. 25 ust. (wykaż osób - imię i nazwisko, VI. Korzyści majątkowę przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone",
+     "text": "w innej formie, niż określona w art. 25 ust.",
      "children": [
+      {
+       "type": "text",
+       "text": "(wykaż osób - imię i nazwisko,"
+      },
+      {
+       "type": "text",
+       "text": "VI. Korzyści majątkowę przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone"
+      },
       {
        "type": "text",
        "text": "INICJATYWA RZECZYPOSPOLITEJ POLSKIEJ 03-982 Warszawa ul. Meissnera 8 lok. 20 NIP: 1132526490 REG: 140001407"
@@ -19995,6 +20038,11 @@
       {
        "type": "note",
        "text": "[Strona 302 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "4",
+       "quoted": true
       },
       {
        "type": "text",
@@ -23904,10 +23952,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 33 — 2192 —"
-    },
-    {
-     "type": "text",
      "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty!*"
     },
     {
@@ -24739,7 +24783,11 @@
      "children": [
       {
        "type": "text",
-       "text": "(wykaz osób — imię i nazwiska, miejscowość zamieszkania, kwota] * VI. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone"
+       "text": "(wykaz osób — imię i nazwiska, miejscowość zamieszkania, kwota] *"
+      },
+      {
+       "type": "text",
+       "text": "VI. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone"
       },
       {
        "type": "text",
@@ -26627,7 +26675,11 @@
         },
         {
          "type": "text",
-         "text": "RAPORT uzupełniający opinię z badania sprawozdania o źródłach pozyskania środków finansowych, w tym o kredytach bankowych i warunkach ich uzyskania oraz o wydatkach poniesionych ze środków Funduszu Wyborczego, w zakresie wpływów na Fundusz Wyborczy POLSKIEGO STRONNICTWA LUDOWEGO „PIAST” za rok 2008"
+         "text": "RAPORT"
+        },
+        {
+         "type": "text",
+         "text": "uzupełniający opinię z badania sprawozdania o źródłach pozyskania środków finansowych, w tym o kredytach bankowych i warunkach ich uzyskania oraz o wydatkach poniesionych ze środków Funduszu Wyborczego, w zakresie wpływów na Fundusz Wyborczy POLSKIEGO STRONNICTWA LUDOWEGO „PIAST” za rok 2008"
         },
         {
          "type": "text",
@@ -26803,7 +26855,11 @@
         },
         {
          "type": "text",
-         "text": "V. SPRAWOZDANIE W ZAKRESIE WPŁYWÓW NA FUNDUSZ WYBORCZY"
+         "text": "V. SPRAWOZDANIE W ZAKRESIE WPŁYWÓW NA FUNDUSZ"
+        },
+        {
+         "type": "text",
+         "text": "WYBORCZY"
         },
         {
          "type": "text",
@@ -27236,7 +27292,11 @@
     },
     {
      "type": "text",
-     "text": "EDWARDNJERZY BEZNER Fa Maria Drozdowska ° Skarbnik SKARBNIE (p.o. gł. kaięg) | a m a r loro aArozdowko, Maria Drozdowska mgr Grzegorz Łuczyński Sekretarz"
+     "text": "EDWARDNJERZY BEZNER Fa Maria Drozdowska ° Skarbnik"
+    },
+    {
+     "type": "text",
+     "text": "SKARBNIE (p.o. gł. kaięg) | a m a r loro aArozdowko, Maria Drozdowska mgr Grzegorz Łuczyński Sekretarz"
     },
     {
      "type": "text",
@@ -29580,7 +29640,11 @@
       },
       {
        "type": "text",
-       "text": "BFK BIURO FINANSOWO — KSIĘGOWE BIEGŁEGO REWIDENTA mgr Krystyna Borodziuk — biegły rewident Podmiot uprawniony do badania sprawozdań finansowych (nr ewid. 623)"
+       "text": "BFK"
+      },
+      {
+       "type": "text",
+       "text": "BIURO FINANSOWO — KSIĘGOWE BIEGŁEGO REWIDENTA mgr Krystyna Borodziuk — biegły rewident Podmiot uprawniony do badania sprawozdań finansowych (nr ewid. 623)"
       }
      ]
     },
@@ -29823,8 +29887,13 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "pochodzące z posiadania i z obrotu abligacjami Skarbu Państwa i bonami skarbowymi Skarbu Państwa EP a nS EE EPEE ee EE Pee LLL LILLE)",
-     "children": []
+     "text": "pochodzące z posiadania i z obrotu abligacjami Skarbu Państwa i bonami skarbowymi Skarbu Państwa",
+     "children": [
+      {
+       "type": "text",
+       "text": "EP a nS EE EPEE ee EE Pee LLL LILLE)"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -32583,7 +32652,11 @@
       },
       {
        "type": "text",
-       "text": "Wpływy i wydatki Funduszu Wyborczego Wyszczególnienie (wartość) A. Przychody/ wpływy"
+       "text": "Wpływy i wydatki Funduszu Wyborczego"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie (wartość) A. Przychody/ wpływy"
       },
       {
        "type": "text",
@@ -32822,8 +32895,12 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "usługi świadczone nieodpłatnie na rzecz partii IV Pozostałe źródła ( niewymienione w cz. I, II, III )",
+     "text": "usługi świadczone nieodpłatnie na rzecz partii",
      "children": [
+      {
+       "type": "text",
+       "text": "IV Pozostałe źródła ( niewymienione w cz. I, II, III )"
+      },
       {
        "type": "text",
        "text": "V Wpłaty dokonane z naruszeniem przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych"
@@ -32841,8 +32918,12 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "w inne formie, niż określona w art. 25 ust. 5 VI Korzyści majątkowe przekazane partii z naruszeniem przepisów Ustawy, które zostały przyjęte zużyte lub utracone",
+     "text": "w inne formie, niż określona w art. 25 ust. 5",
      "children": [
+      {
+       "type": "text",
+       "text": "VI Korzyści majątkowe przekazane partii z naruszeniem przepisów Ustawy, które zostały przyjęte zużyte lub utracone"
+      },
       {
        "type": "note",
        "text": "[Strona 513 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
