@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/567",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Ücker",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.63",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/567/text.pdf",
  "body": [
   {
@@ -7378,10 +7378,6 @@
     {
      "type": "note",
      "text": "[Na stronie 129 PDF większość znaków nie ma kodów Unicode (np. formularz). Tekst poniżej jest niepełny, pełna treść jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 56 — 4642 — Poz. 567"
     },
     {
      "type": "text",

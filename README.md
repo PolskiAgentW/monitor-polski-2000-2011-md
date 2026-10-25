@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 15:50 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 17:07 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +82,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 542, razem 20203 z 4825
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 805.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11422), eli2md 0.6.24 (392), eli2md 0.6.62 (161), eli2md 0.6.61 (2).
+Wersje konwertera: eli2md 0.6.22 (11422), eli2md 0.6.24 (392), eli2md 0.6.62 (154), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
 <!-- stats:end -->
 
 ## Zawartość
@@ -211,6 +211,13 @@ MP/2010/464, MP/2011/451) `ocr_pages` w `index.csv` jest o 1 mniejsze.
 Bez zmian zostało 11 aktów. W 3 (MP/2007/566, MP/2008/801, MP/2009/780) nagłówka w nowym pliku nie było, ale reszta
 tekstu różniła się o więcej niż 0,5%. W 8 nagłówek zostawał także w nowym pliku: w 4 nad nagłówkiem jest notka drukarni
 „korekta: 16.07.02” (MP/2002/489, 491, 493, 495), w 4 (MP/2006/504, 565, 566, 567) przyczyny nie znam.
+
+Tego samego dnia eli2md 0.6.63, 7 aktów (opis w README eli2md, wpis 0.6.63): nagłówek na stronie, której znaki nie mają
+kodów Unicode, też jest usuwany. W MP/2011/424, 425, 560, 561, 566, 567 i 579 zniknął ten jeden nagłówek, reszta tekstu
+jest bez zmian. Przeliczyłem też 4 akty z notką „korekta: 16.07.02” (MP/2002/489, 491, 493, 495). Nagłówka w nowym pliku
+nie ma, ale strony, których warstwa tekstowa ma tylko notkę i nagłówek, a reszta jest skanem, 0.6.63 czyta przez OCR,
+więc dochodzi ich tekst (w MP/2002/493 niemiecka nota werbalna). Reguła nie przyjmuje takiej zmiany bez osobnego
+sprawdzenia, więc te 4 pliki są bez zmian. W zbiorze zostało 20 nagłówków w 11 aktach.
 
 **Czego te liczby nie mówią:**
 

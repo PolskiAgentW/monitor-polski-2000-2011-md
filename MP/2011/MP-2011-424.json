@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/424",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Jarft",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.63",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/424/text.pdf",
  "body": [
   {
@@ -10350,10 +10350,6 @@
     {
      "type": "note",
      "text": "[Na stronie 176 PDF większość znaków nie ma kodów Unicode (np. formularz). Tekst poniżej jest niepełny, pełna treść jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 37 — 1749 — Poz. 424"
     },
     {
      "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/561",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Łaby",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.63",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/561/text.pdf",
  "body": [
   {
@@ -10216,10 +10216,6 @@
     {
      "type": "note",
      "text": "[Na stronie 179 PDF większość znaków nie ma kodów Unicode (np. formularz). Tekst poniżej jest niepełny, pełna treść jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 52 — 4112 — Poz. 561"
     },
     {
      "type": "text",
