@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/464",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 12 kwietnia 2010 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2009 r.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/464/text.pdf",
  "body": [
   {
@@ -8623,10 +8623,6 @@
      "text": "a) wykaz podmiotów udzielających kredytu (należy podać łączną kwotę dla każdego kredytodawcy)*"
     },
     {
-     "type": "ocr",
-     "text": "Monitor Polski Nr 32"
-    },
-    {
      "type": "note",
      "text": "[Strona 125 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
@@ -15202,7 +15198,11 @@
     },
     {
      "type": "text",
-     "text": "Informacja dodatkowa dot. p. 1 sprawozdania Powszechna Kasa Oszezednosci Bank Poiski S.A. I Oddział w Dąbrowie Górniczej 28 1020 2498 0000 8202 0183 3995"
+     "text": "Informacja dodatkowa dot. p. 1 sprawozdania"
+    },
+    {
+     "type": "text",
+     "text": "Powszechna Kasa Oszezednosci Bank Poiski S.A. I Oddział w Dąbrowie Górniczej 28 1020 2498 0000 8202 0183 3995"
     }
    ]
   },
@@ -17306,8 +17306,12 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "Środki Funduszu Wyborczego pozyskiwane były zgodnie z Ustawą z dnia 27 czerwca 1997 roku o partiach politycznych. WV. integralną częścią opinii jest raport uzupełniający opinię z badania sprawozdania partii za rok 2009.",
+     "text": "Środki Funduszu Wyborczego pozyskiwane były zgodnie z Ustawą z dnia 27 czerwca 1997 roku o partiach politycznych.",
      "children": [
+      {
+       "type": "text",
+       "text": "WV. integralną częścią opinii jest raport uzupełniający opinię z badania sprawozdania partii za rok 2009."
+      },
       {
        "type": "text",
        "text": "Biegły Rewident Podmiot wpisany na listę podmiotów"
@@ -18077,7 +18081,15 @@
       },
       {
        "type": "text",
-       "text": "RAPORT uzupełniający opinię z badania Sprawozdania Fundusz Wyborczego SOCJALDEMOKRACJI POLSKIEJ z siedzibą w Warszawie „ul. Mokotowka 29A o źródłach pozyskania środków finansowych oraz wydatkach poniesionych ze środków Funduszu Wyborczego w 2009 roku"
+       "text": "RAPORT"
+      },
+      {
+       "type": "text",
+       "text": "uzupełniający opinię z badania Sprawozdania Fundusz Wyborczego SOCJALDEMOKRACJI POLSKIEJ"
+      },
+      {
+       "type": "text",
+       "text": "z siedzibą w Warszawie „ul. Mokotowka 29A o źródłach pozyskania środków finansowych oraz wydatkach poniesionych ze środków Funduszu Wyborczego w 2009 roku"
       },
       {
        "type": "text",
@@ -20030,8 +20042,13 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "pochodzące z działalności własnej, o której mowa w art. 27 ustawy z dnia 27 czerwca 1997 r, o partiach politycznych Peete Perera Tree errrerrrrrrrrrt Teer irr ttt tr rir tr retiree titties BRAK Sen sDeepeneneeedneuoes (see sannmnesensanseren Litter tree",
-     "children": []
+     "text": "pochodzące z działalności własnej, o której mowa w art. 27 ustawy z dnia 27 czerwca 1997 r, o partiach politycznych",
+     "children": [
+      {
+       "type": "text",
+       "text": "Peete Perera Tree errrerrrrrrrrrt Teer irr ttt tr rir tr retiree titties BRAK Sen sDeepeneneeedneuoes (see sannmnesensanseren Litter tree"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -21945,7 +21962,11 @@
       },
       {
        "type": "text",
-       "text": "0,00 0,00"
+       "text": "0,00"
+      },
+      {
+       "type": "text",
+       "text": "0,00"
       }
      ]
     },
@@ -27380,7 +27401,11 @@
     },
     {
      "type": "text",
-     "text": "p Il. Środki pieniężne wpłacone do kasy partii — ogółem"
+     "text": "p"
+    },
+    {
+     "type": "text",
+     "text": "Il. Środki pieniężne wpłacone do kasy partii — ogółem"
     },
     {
      "type": "pkt",
@@ -28644,7 +28669,15 @@
       },
       {
        "type": "text",
-       "text": "3.2 Sprawdzenie danych dotyczących pełnomocnika finansowego Funduszu Wyborczego. 3.8 Sprawdzenie prawidłowości danych dotyczących rachunku bankowego Funduszu Wyborczego. 3.4 Przedmiotem badania było sprawozdanie w części „wpływy i wydatki Funduszu Wyborczego” za okres od dnia 1 stycznia 2009 roku do dnia 31 grudnia 2009 roku, w zakresie wpływów na Fundusz Wyborczy, jego zgodność z dokumentami źródłowymi: 3.4.1 Podanie danych dotyczących źródeł wpływów na Fundusz Wyborczy. 3.4.2 Zbadanie prawidłowości dokonywanych na rzecz Funduszu Wyborczego darowizn. 3.4.3 Ustalenie danych związanych z udzielonymi partii kredytami bankowymi. 3.5 Nieprawidłowości w gospodarce finansowej Funduszu Wyborczego."
+       "text": "3.2 Sprawdzenie danych dotyczących pełnomocnika finansowego Funduszu Wyborczego."
+      },
+      {
+       "type": "text",
+       "text": "3.8 Sprawdzenie prawidłowości danych dotyczących rachunku bankowego Funduszu Wyborczego. 3.4 Przedmiotem badania było sprawozdanie w części „wpływy i wydatki Funduszu Wyborczego” za okres od dnia 1 stycznia 2009 roku do dnia 31 grudnia 2009 roku, w zakresie wpływów na Fundusz Wyborczy, jego zgodność z dokumentami źródłowymi: 3.4.1 Podanie danych dotyczących źródeł wpływów na Fundusz Wyborczy. 3.4.2 Zbadanie prawidłowości dokonywanych na rzecz Funduszu Wyborczego darowizn. 3.4.3 Ustalenie danych związanych z udzielonymi partii kredytami bankowymi."
+      },
+      {
+       "type": "text",
+       "text": "3.5 Nieprawidłowości w gospodarce finansowej Funduszu Wyborczego."
       },
       {
        "type": "text",

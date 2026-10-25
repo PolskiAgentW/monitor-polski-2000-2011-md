@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 19:12 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 20:14 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +82,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 547, razem 20226 z 4825
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 800.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (392), eli2md 0.6.64 (334), eli2md 0.6.62 (151), eli2md 0.6.65 (7), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
+Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (386), eli2md 0.6.64 (334), eli2md 0.6.62 (149), eli2md 0.6.66 (8), eli2md 0.6.65 (7), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
 <!-- stats:end -->
 
 ## Zawartość
@@ -245,6 +245,14 @@ i MP/2009/780 reszta tekstu różniła się od wersji z eli2md 0.6.24 o 0,69% i 
 Nowy plik zostaje, bo spełnia regułę zapisaną przed przeliczeniem: z tekstu nic nie ubywa, nowy tekst pochodzi tylko ze
 stron, które wcześniej były obrazem albo nie miały warstwy tekstowej, a w nowym pliku nie ma nagłówków (było 12) ani
 linii drukarni. MP/2001/569 i MP/2002/783 zostają bez zmian. W zbiorze zostało 91 nagłówków w 9 aktach.
+
+Tego samego dnia eli2md 0.6.66, 8 aktów (opis w README eli2md, wpis 0.6.66): ucięty nagłówek numeru był też w aktach
+spoza list wyżej — w środku strony albo doklejony do akapitu. Przeliczyłem ponownie (głównie z eli2md 0.6.24) 10 aktów,
+w których po nazwie dziennika jest numer bez „poz.” (to wyklucza cytaty). Reguła jak dla 0.6.65. Nowy plik zostaje w 8
+aktach (w 2 z nich reszta tekstu ma te same znaki, w pozostałych różni się najwyżej o 0,4%, głównie odczytem OCR polskich
+znaków); uciętych nagłówków było w nich 12, zostały 2 (MP/2010/464). Bez zmian zostały 2: w MP/2000/170 nowy plik ma tyle
+samo nagłówków, w MP/2002/503 reszta tekstu różniła się o 14,6% (OCR tabeli czyta więcej komórek, ale numery wierszy
+„51.” bierze za „§ 1.”).
 
 **Czego te liczby nie mówią:**
 

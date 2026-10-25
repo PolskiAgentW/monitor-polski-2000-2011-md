@@ -1,7 +1,7 @@
 {
  "eli": "MP/2006/444",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 5 czerwca 2006 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2005 r.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/444/text.pdf",
  "body": [
   {
@@ -6558,15 +6558,54 @@
         },
         {
          "type": "text",
-         "text": "Raport z badania sprawozdania finansowego Funduszu Wyborczego. Krajowej Partii Emerytów i Rencistów za rok 2005"
+         "text": "Raport"
         },
         {
          "type": "text",
-         "text": "Zlecenie i realizacja złecenia Na podstawie umowy zawartej w dniu 06 marca 2005 roku z Krajowym Biurem Wyborczym, zostaliśmy upoważnieni do dokonania badania informacji finansowej Funduszu Wyborczego partii politycznej Krajowa Partia Emerytów i Rencistów za 2005 rok. | Wszystkie żądane przez nas informacje i wyjaśnienia otrzymaliśmy. „Badanie w zakresie jak wyżej zostało przeprowadzone przez biegłego rewidenta Zygmunta Węgrzyn, reprezentującego firmę Taksa AB Spółka Akcyjna z siedzibą Warszawie, ul. Mińska 25, wpisaną na listę podmiotów uprawnionych do badania sprawozdań finansowych pod numerem 188. Oświadczamy, że zarówno podmiot uprawniony do badania sprawozdania finansowego oraz jako biegły rewident przeprowadzający badanie jesteśmy niezależni od badanej jednostki w rozumieniu art. 66 ust.2 ustawy o rachunkowości."
+         "text": "z badania sprawozdania finansowego Funduszu Wyborczego. Krajowej Partii Emerytów i Rencistów za rok 2005"
         },
         {
          "type": "text",
-         "text": "Stan prawny Nazwa, siedziba, rejestr Krajowa Partia Emerytów i Rencistów z siedzibą w Warszawie ul. Nowogrodzka 7/9 lokal 35 jest zarejestrowana w Sądzie Okręgowym w Warszawie, VII Wydział Cywilno — Rejestrowy pod numerem EWP 49. Data zgłoszenia : 10.10.1994 roku — data wpisu \" 10.01.1998 roku. Dane dla celów statystycznych i podatkowych Numer statystyczny ( REGON ) : 870265822 . Numer identyfikacji podatkowej NIP : 525 — 20 — 63 — 965 l |"
+         "text": "Zlecenie i realizacja złecenia"
+        },
+        {
+         "type": "text",
+         "text": "Na podstawie umowy zawartej w dniu 06 marca 2005 roku z Krajowym Biurem Wyborczym, zostaliśmy upoważnieni do dokonania badania informacji finansowej Funduszu Wyborczego partii politycznej Krajowa Partia Emerytów i Rencistów za 2005 rok. | Wszystkie żądane przez nas informacje i wyjaśnienia otrzymaliśmy."
+        },
+        {
+         "type": "text",
+         "text": "„Badanie w zakresie jak wyżej zostało przeprowadzone przez biegłego rewidenta Zygmunta Węgrzyn, reprezentującego firmę Taksa AB Spółka Akcyjna z siedzibą Warszawie, ul. Mińska 25, wpisaną na listę podmiotów uprawnionych do badania sprawozdań finansowych pod numerem 188.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Oświadczamy, że zarówno podmiot uprawniony do badania sprawozdania finansowego oraz jako biegły rewident przeprowadzający badanie jesteśmy niezależni od badanej jednostki w rozumieniu art. 66 ust.2 ustawy o rachunkowości.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Stan prawny",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Nazwa, siedziba, rejestr",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Krajowa Partia Emerytów i Rencistów z siedzibą w Warszawie ul. Nowogrodzka 7/9 lokal 35 jest zarejestrowana w Sądzie Okręgowym w Warszawie, VII Wydział Cywilno — Rejestrowy pod numerem EWP 49. Data zgłoszenia : 10.10.1994 roku — data wpisu \" 10.01.1998 roku.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Dane dla celów statystycznych i podatkowych",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Numer statystyczny ( REGON ) : 870265822 . Numer identyfikacji podatkowej NIP : 525 — 20 — 63 — 965 l |",
+         "quoted": true
         },
         {
          "type": "note",
@@ -6574,67 +6613,83 @@
         },
         {
          "type": "text",
-         "text": "2.3."
+         "text": "2.3.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "3.1."
+         "text": "3.1.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Pełnomocnik finansowy Funduszu Wyborczego"
+         "text": "Pełnomocnik finansowy Funduszu Wyborczego",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Pełnomocnikiem finansowym Funduszu Wyborczego był do sierpnia 2005 roku Grzegorz Wściubiak / zmarł / .Rada Naczelna Partii do dnia zakończenia badania nie dokonała wyboru nowego pełnomocnika."
+         "text": "Pełnomocnikiem finansowym Funduszu Wyborczego był do sierpnia 2005 roku Grzegorz Wściubiak / zmarł / .Rada Naczelna Partii do dnia zakończenia badania nie dokonała wyboru nowego pełnomocnika.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Rachunek bankowy Funduszu Wyborczego"
+         "text": "Rachunek bankowy Funduszu Wyborczego",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Krajowa Rada Emerytów i Rencistów posiada bankowy rachunek Funduszu Wyborczego umiejscowiony w Banku Milenium S.A. w Warszawie. Numer rachunku 40 1160 2202 0000 0000 6084 2267."
+         "text": "Krajowa Rada Emerytów i Rencistów posiada bankowy rachunek Funduszu Wyborczego umiejscowiony w Banku Milenium S.A. w Warszawie. Numer rachunku 40 1160 2202 0000 0000 6084 2267.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Rachunek bankowy Funduszu Wyborczego został otwarty w dniu 18 marca 2003 roku i jest oddzielnym rachunkiem bankowym. W roku badanym zmian w tym zakresie nie stwierdzono. | |"
+         "text": "Rachunek bankowy Funduszu Wyborczego został otwarty w dniu 18 marca 2003 roku i jest oddzielnym rachunkiem bankowym. W roku badanym zmian w tym zakresie nie stwierdzono. | |",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "W umowie z Bankiem prowadzącym bankowy rachunek Funduszu Wyborczego ustalono, że wpłaty na rzecz Funduszu Wyborczego mogą być dokonywane wyłącznie czekiem, przelewem lub kartą płatniczą."
+         "text": "W umowie z Bankiem prowadzącym bankowy rachunek Funduszu Wyborczego ustalono, że wpłaty na rzecz Funduszu Wyborczego mogą być dokonywane wyłącznie czekiem, przelewem lub kartą płatniczą.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Księgi rachunkowe były prowadzone przez Ryszarda Rucińskiego w biurze KPEIR w Warszawie."
+         "text": "Księgi rachunkowe były prowadzone przez Ryszarda Rucińskiego w biurze KPEIR w Warszawie.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Wpływy na Fundusz Wyborczy"
+         "text": "Wpływy na Fundusz Wyborczy",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Zwiększenia i zmniejszenia środków pieniężnych Funduszu Wyborczego"
+         "text": "Zwiększenia i zmniejszenia środków pieniężnych Funduszu Wyborczego",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Rachunek bankowy Funduszu Wyborczego wykazuje następujące wpływy i wydatki w roku 2005 : PLN |"
+         "text": "Rachunek bankowy Funduszu Wyborczego wykazuje następujące wpływy i wydatki w roku 2005 : PLN |",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "« stan na 01.01.2005 6.062,24 e wpływy z tytułu: 0,00 e wydatki z tytułu prowadzenia rachunku 540,00 « stan na 31.12.2005 r. 5.522,24"
+         "text": "« stan na 01.01.2005 6.062,24 e wpływy z tytułu: 0,00 e wydatki z tytułu prowadzenia rachunku 540,00 « stan na 31.12.2005 r. 5.522,24",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Stan środków pieniężnych na dzień 31.12.2005 roku został potwierdzony przez Bank Milenium S.A. w Warszawie."
+         "text": "Stan środków pieniężnych na dzień 31.12.2005 roku został potwierdzony przez Bank Milenium S.A. w Warszawie.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Wszystkie operacje zostały zweryfikowane w drodze porównania z danymi wyciągów bankowych."
+         "text": "Wszystkie operacje zostały zweryfikowane w drodze porównania z danymi wyciągów bankowych.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Informacja finansowa z wpływów i wydatków Funduszu Wyborczego została prawidłowo sporządzona zgodnie z dokumentami źródłowymi."
+         "text": "Informacja finansowa z wpływów i wydatków Funduszu Wyborczego została prawidłowo sporządzona zgodnie z dokumentami źródłowymi.",
+         "quoted": true
         },
         {
          "type": "note",
@@ -6642,27 +6697,43 @@
         },
         {
          "type": "text",
-         "text": "3.2 _ Darowizny W okresie badanym żadnych wpłat darowizn na rzecz komitetu wyborczego Krajowej Partii Emerytów i Rencistów nie stwierdzono."
+         "text": "3.2 _ Darowizny",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Warszawa, dnia 20 marca 2006 r"
+         "text": "W okresie badanym żadnych wpłat darowizn na rzecz komitetu wyborczego Krajowej Partii Emerytów i Rencistów nie stwierdzono.",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "| / zygmin Węgrzyn Biegły Rewident Nr ewidencyjny 4523/745"
+         "text": "Warszawa, dnia 20 marca 2006 r",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "Podmiot uprawniony do badania Q sprawozdań finansowych Nr"
+         "text": "| / zygmin Węgrzyn Biegły Rewident Nr ewidencyjny 4523/745",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "TAKSA AB Spółka Akcyjna za Zarząd"
+         "text": "Podmiot uprawniony do badania Q sprawozdań finansowych Nr",
+         "quoted": true
         },
         {
          "type": "text",
-         "text": "WICEP ZARZĄDU mgr Zyi t Węgrzyn BIEGŁY REWIDENT Nr ew. KIBR 4523/745"
+         "text": "TAKSA AB Spółka Akcyjna za Zarząd",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "WICEP ZARZĄDU",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "mgr Zyi t Węgrzyn BIEGŁY REWIDENT Nr ew. KIBR 4523/745",
+         "quoted": true
         }
        ]
       }
@@ -8177,7 +8248,11 @@
         },
         {
          "type": "text",
-         "text": "A Zygmunt Węgrzyn Biegły Rewident Nr ewidencyjny 4523/745"
+         "text": "A"
+        },
+        {
+         "type": "text",
+         "text": "Zygmunt Węgrzyn Biegły Rewident Nr ewidencyjny 4523/745"
         },
         {
          "type": "text",
@@ -8189,7 +8264,11 @@
         },
         {
          "type": "text",
-         "text": "WICEP ZARZĄDU mgr Zygmunt Węgrzyn W IDENT"
+         "text": "WICEP ZARZĄDU"
+        },
+        {
+         "type": "text",
+         "text": "mgr Zygmunt Węgrzyn W IDENT"
         },
         {
          "type": "text",
@@ -8229,7 +8308,11 @@
         },
         {
          "type": "text",
-         "text": "Stan prawny Nazwa, siedziba, rejestr Unia Pracy z siedzibą w Warszawie ul. Nowogrodzka 4 jest zarejestrowana w Sądzie Okręgowym w Warszawie, VII Wydział Cywilno — Rejestrowy pod numerem EWP 62. Data zgłoszenia : — data wpisu 21.01.1998 roku. Dane dla celów statystycznych i podatkowych Numer statystyczny ( REGON ) : 870265822 Numer identyfikacji podatkowej NIP : 525 — 20 — 63 - 965 Organ uprawniony do reprezentowania Unii Pracy Dyrektor Biura Krajowego Dariusz Nowak Księgowość Alicja Lakowska osoba odpowiedzialna Zbigniew Zielińki."
+         "text": "Stan prawny"
+        },
+        {
+         "type": "text",
+         "text": "Nazwa, siedziba, rejestr Unia Pracy z siedzibą w Warszawie ul. Nowogrodzka 4 jest zarejestrowana w Sądzie Okręgowym w Warszawie, VII Wydział Cywilno — Rejestrowy pod numerem EWP 62. Data zgłoszenia : — data wpisu 21.01.1998 roku. Dane dla celów statystycznych i podatkowych Numer statystyczny ( REGON ) : 870265822 Numer identyfikacji podatkowej NIP : 525 — 20 — 63 - 965 Organ uprawniony do reprezentowania Unii Pracy Dyrektor Biura Krajowego Dariusz Nowak Księgowość Alicja Lakowska osoba odpowiedzialna Zbigniew Zielińki."
         },
         {
          "type": "text",
@@ -8455,7 +8538,11 @@
       },
       {
        "type": "text",
-       "text": "z pRenref,Cnra vo?aCZOprR na na vach. BPH ma oben 24.12.2004. w 2] “SO SAD RE R Ł V. Wpłaty dokonane z naruszeniem przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych"
+       "text": "z pRenref,Cnra vo?aCZOprR na na vach. BPH ma oben 24.12.2004. w 2] “SO SAD RE R Ł"
+      },
+      {
+       "type": "text",
+       "text": "V. Wpłaty dokonane z naruszeniem przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych"
       },
       {
        "type": "text",
@@ -11253,7 +11340,12 @@
         },
         {
          "type": "text",
-         "text": "ABES Audyt Sp. z o. o. w Warszawie Podmiot uprawniony do badania sprawozdań finansowych nr 2977",
+         "text": "ABES Audyt Sp. z o. o. w Warszawie",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Podmiot uprawniony do badania sprawozdań finansowych nr 2977",
          "quoted": true
         },
         {
@@ -13753,10 +13845,6 @@
        "text": "wie 111 0000 0344 7143"
       },
       {
-       "type": "ocr",
-       "text": "Monitor Polski Nr 41 — 1562 —"
-      },
-      {
        "type": "note",
        "text": "[Strona 210 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
@@ -14549,7 +14637,12 @@
       },
       {
        "type": "text",
-       "text": "uzupełniający opinię z badania sprawozdania finansowego w zakresie wpływów na Fundusz Wyborczy Partii Politycznej",
+       "text": "uzupełniający opinię z badania sprawozdania finansowego",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w zakresie wpływów na Fundusz Wyborczy Partii Politycznej",
        "quoted": true
       },
       {
@@ -14920,7 +15013,11 @@
      "children": [
       {
        "type": "text",
-       "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota)* VI. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone +.1222003343440000430009000RD000Ł00R OOBE ERRZZRRZR COZ ORCS OPR ESZRZ COZ O O ORO OR RR ROCZNĄ DOBRZE GC2E0R00E0400040404224004090004400040044400446490 id... (wykaz osób — imię i nazwisko, miejscowość zamieszkania, wartość) *"
+       "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota)* VI. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone"
+      },
+      {
+       "type": "text",
+       "text": "+.1222003343440000430009000RD000Ł00R OOBE ERRZZRRZR COZ ORCS OPR ESZRZ COZ O O ORO OR RR ROCZNĄ DOBRZE GC2E0R00E0400040404224004090004400040044400446490 id... (wykaz osób — imię i nazwisko, miejscowość zamieszkania, wartość) *"
       },
       {
        "type": "note",
@@ -17004,8 +17101,13 @@
        "type": "lit",
        "num": "a",
        "path": "pkt_6/lit_a",
-       "text": "wykaz podmiotów udzielających kredytu (należy podać łączną kwotę dla każdego kredytodawcy)* ©",
-       "children": []
+       "text": "wykaz podmiotów udzielających kredytu (należy podać łączną kwotę dla każdego kredytodawcy)*",
+       "children": [
+        {
+         "type": "text",
+         "text": "©"
+        }
+       ]
       },
       {
        "type": "lit",
@@ -18372,7 +18474,11 @@
       },
       {
        "type": "text",
-       "text": "| Vi. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone to, miejscowość zamieszkania, wartość)*"
+       "text": "| Vi. Korzyści majątkowe przekazane partii z naruszeniem przepisów ustawy, które zostały przyjęte, zużyte lub utracone"
+      },
+      {
+       "type": "text",
+       "text": "to, miejscowość zamieszkania, wartość)*"
       },
       {
        "type": "note",
@@ -23522,10 +23628,6 @@
       {
        "type": "ocr",
        "text": "BDB-AGOS Usługi Audytorskie, Finansowo-Księgowe, Doradztwo. Spółka z 0.0."
-      },
-      {
-       "type": "ocr",
-       "text": "Monitor Polski Nr 41 — 1708 —"
       }
      ]
     }
@@ -26122,7 +26224,15 @@
         },
         {
          "type": "text",
-         "text": "* badanie sprawozdań finansowych * usługowe prowadzenie ksiąg - rachunkowych * opracowania, analizy i ekspertyzy z zakresu: — organizacji rachunkowości — syłuacji finansowej «opracowywanie i konsultowanie zakładowych planów kont + doradztwo i instruktaż w pełnym zakresie rachunkowości"
+         "text": "* badanie sprawozdań finansowych * usługowe prowadzenie ksiąg - rachunkowych"
+        },
+        {
+         "type": "text",
+         "text": "* opracowania, analizy i ekspertyzy z zakresu: — organizacji rachunkowości — syłuacji finansowej «opracowywanie i konsultowanie zakładowych planów kont"
+        },
+        {
+         "type": "text",
+         "text": "+ doradztwo i instruktaż w pełnym zakresie rachunkowości"
         },
         {
          "type": "text",
@@ -26142,7 +26252,11 @@
         },
         {
          "type": "text",
-         "text": "z siedzibą w Bielsku-Białej ul. Ks. St. Stojałowskiego 22 obejmującego okres od 15.06.2005r. do 09.11.2005r. dla"
+         "text": "z siedzibą w Bielsku-Białej ul. Ks. St. Stojałowskiego 22 obejmującego okres od 15.06.2005r. do 09.11.2005r."
+        },
+        {
+         "type": "text",
+         "text": "dla"
         },
         {
          "type": "text",
@@ -29114,11 +29228,23 @@
         },
         {
          "type": "text",
-         "text": "politycznych, które zostały przyjęte, zużyte lub utracone (wykaz osób - imię i nazwisko, miejscowość zamieszkania, wartość)* * Jeżeli wykaz miałby zawierać większą liczbę pozycji, należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznik do odpowiednich punktów sprawozdania."
+         "text": "politycznych, które zostały przyjęte, zużyte lub utracone"
         },
         {
          "type": "text",
-         "text": "Warszawa, 28.03.2005r. Piotr Ikonowicz b ly DZA Przewodniczący Krajowego komitetu Wykonawczego (miejscowość, data) (imię, nazwisko, stanowisko i podpisy osoby/osób uprawnionej/-ych do reprezentowania partii politycznej)"
+         "text": "(wykaz osób - imię i nazwisko, miejscowość zamieszkania, wartość)*"
+        },
+        {
+         "type": "text",
+         "text": "* Jeżeli wykaz miałby zawierać większą liczbę pozycji, należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznik do odpowiednich punktów sprawozdania."
+        },
+        {
+         "type": "text",
+         "text": "Warszawa, 28.03.2005r. Piotr Ikonowicz b ly DZA Przewodniczący Krajowego komitetu Wykonawczego"
+        },
+        {
+         "type": "text",
+         "text": "(miejscowość, data) (imię, nazwisko, stanowisko i podpisy osoby/osób uprawnionej/-ych do reprezentowania partii politycznej)"
         },
         {
          "type": "text",
@@ -29959,8 +30085,12 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "pochodzące z działalności własnej, określonej w art. 27 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (kwoty nieprzekraczające 10 PLN — pochodzące ze sprzedaży jednostkowych egzemplarzy programu partii, statutu partii lub wykonanych kserokopii) Hl. Wartości niepieniężne",
+     "text": "pochodzące z działalności własnej, określonej w art. 27 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (kwoty nieprzekraczające 10 PLN — pochodzące ze sprzedaży jednostkowych egzemplarzy programu partii, statutu partii lub wykonanych kserokopii)",
      "children": [
+      {
+       "type": "text",
+       "text": "Hl. Wartości niepieniężne"
+      },
       {
        "type": "text",
        "text": "IV. Pozostałe źródła (niewymienione w cz. I „Il i Ill) * TUR PESOS DEEN AGT a? FRURNUERD ET USTED OES FED UREN ENS REDE EE EPURTEVE DEF EDGED O TERE CESS ONGHRORG TEDEER ATED TUTSRDORUTTRESS CODERS"
@@ -31892,7 +32022,11 @@
       },
       {
        "type": "text",
-       "text": "Biuro Usług Rachunkowych Podmiot uprawniony do badania sprawozdań finansowych — Nr. ewid. 1855"
+       "text": "Biuro Usług Rachunkowych"
+      },
+      {
+       "type": "text",
+       "text": "Podmiot uprawniony do badania sprawozdań finansowych — Nr. ewid. 1855"
       },
       {
        "type": "text",
