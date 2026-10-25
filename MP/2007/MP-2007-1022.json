@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/1022",
  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 5 grudnia 2007 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/1022/text.pdf",
  "body": [
   {
@@ -39,12 +39,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
   }
  ],
  "annexes": [
@@ -83,7 +82,7 @@
      "type": "ust",
      "num": "2007",
      "path": "ust_2007",
-     "text": "U góry z lewej strony napis: 200 /ZŁ. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 93 — 4132 — Poz. 1022",
+     "text": "U góry z lewej strony napis: 200 /ZŁ. Pod lewą łapą orła znak mennicy: MW.",
      "children": []
     }
    ]

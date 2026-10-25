@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/561",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Łaby",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/561/text.pdf",
  "body": [
   {
@@ -40,166 +40,170 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "14.",
+   "children": [
+    {
+     "type": "text",
+     "text": "15"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "16",
+   "path": "ust_16",
+   "text": "17. 18.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ........ 00. ce aa osa r 2 1 Strategia Gospodarki Wodnej 2005 r. LL Leona aaa Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... Krajowy Program Oczyszczania Ścieków Komunalnych z 2003 r. 2... 0. ee 11 Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lara 121 Strategie Rozwoju dla województw .... 0.2.0 A Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............ Plany gospodarowania odpadami województw .. 1... aa Programy małej retencji LL. LL anna a A Plany ochrony parków narodowych LLL neon a a Plany ochrony dla obszarów Natura 2000 LL LL a eo no wwo aa 1 . Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie ...........2. 0000 ee eee 11 ltura konsultacji społecznych .. 2... a 1 Il tura konsultacji społecznych LL 2. rar 1 A Ill tura konsultacji społecznych .. Lazar ee Podsumowanie wyników LL Laon ee Wykaz właściwych władz LLL Looe A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW ..... 2... 1 Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Łaby ..... 2... 2.2 ee sora 1 1 Literatura LL la A Spistabel 2... a Spis rySUNKÓW LLL naa A"
     },
     {
-     "type": "ocr",
-     "text": "13. 14."
-    },
-    {
-     "type": "ocr",
-     "text": "15."
-    },
-    {
-     "type": "ocr",
-     "text": "16. 17. 18."
-    },
-    {
-     "type": "ocr",
-     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ........ 00. ce aa osa r 2 1 Strategia Gospodarki Wodnej 2005 r. LL Leona aaa Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... Krajowy Program Oczyszczania Ścieków Komunalnych z 2003 r. 2... 0. ee 11 Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lara 121 Strategie Rozwoju dla wojewodztw .... 0.2.0 A Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............ Plany gospodarowania odpadami województw .. 1... aa Programy małej retencji LL. LL anna a A Plany ochrony parków narodowych LLL neon a a Plany ochrony dla obszarów Natura 2000 LL LL a eo no wwo aa 1 . Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie ...........2. 0000 ee eee 11 ltura konsultacji społecznych .. 2... a 1 Il tura konsultacji społecznych LL 2. rar 1 A Ill tura konsultacji społecznych .. Lazar ee Podsumowanie wynikow LL Laon ee Wykaz właściwych władz LLL Looe A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW ..... 2... 1 Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Łaby ..... 2... 2.2 ee sora 1 1 Literatura LL la A Spistabel 2... a Spis rySUNKOW LLL naa A"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Załączniki:"
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 1 — mapy: «|Mapa 1. Granica obszaru dorzecza Łaby ........-.-. 00000 eee 1 e Mapa 2. Jednolite części wód powierzchniowych — obszar dorzecza Łaby ......... e Mapa 3. Scalone części wód powierzchniowych — obszar dorzecza Łaby .......... eMapa 4. Jednolite części wód podziemnych — obszar dorzecza Łaby ............ «Mapa5. Typy jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Łaby ° Mapa 6. Ekoregiony — obszar dorzecza Łaby LL nozna 1 [Mapa 7. Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszar dorzeczataby .. 1... e Mapa 8. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Łaby 2... A e Mapa 9. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzeczataby LLL 2... e Mapa 10. Sieć monitoringu wód powierzchniowych — obszar dorzecza Łaby ........ e Mapa 11. Sieć monitoringu wód podziemnych — obszar dorzecza Łaby ........... e Mapa 12. Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kapieliskowych — obszar dorzecza Łaby LL LL eee ee e Mapa 13. Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Łaby e Mapa 14. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Łaby ..... e Mapa 15. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzeczataby LL Lee AA e Mapa 16. Punktowe źródła zanieczyszczeń — obszar dorzecza Łaby .............."
+     "type": "text",
+     "text": "Załącznik nr 1 — mapy: «|Mapa 1. Granica obszaru dorzecza Łaby ........-.-. 00000 eee 1 e Mapa 2. Jednolite części wód powierzchniowych — obszar dorzecza Łaby ......... e Mapa 3. Scalone części wód powierzchniowych — obszar dorzecza Łaby .......... eMapa 4. Jednolite części wód podziemnych — obszar dorzecza Łaby ............ «Mapa5. Typy jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Łaby ° Mapa 6. Ekoregiony — obszar dorzecza Łaby LL nozna 1 [Mapa 7. Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszar dorzeczataby .. 1... e Mapa 8. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Łaby 2... A e Mapa 9. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzeczataby LLL 2... e Mapa 10. Sieć monitoringu wód powierzchniowych — obszar dorzecza Łaby ........ e Mapa 11. Sieć monitoringu wód podziemnych — obszar dorzecza Łaby ........... e Mapa 12. Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych — obszar dorzecza Łaby LL LL eee ee e Mapa 13. Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Łaby e Mapa 14. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Łaby ..... e Mapa 15. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzeczataby LL Lee AA e Mapa 16. Punktowe źródła zanieczyszczeń — obszar dorzecza Łaby .............."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4029 4031 4033 4038 4040 4041 4043 4043 4044 4046 4048 4049 4051"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4053 4053 4054 4056 4057 4059"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4073"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4076 4082 4085 4086"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4087 4088 4089 4090 4091 4092"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4093"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4094"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4095 4096 4097"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4098"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4099"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4100"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4101 4102"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód .. LL LL Lazar ee"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 3 — Mapy do celów planistycznych: e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
-     "text": "e Mapa"
+     "type": "text",
+     "text": "e Mapa nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
     },
     {
-     "type": "ocr",
-     "text": "nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 11. nr 12. nr 13. nr 14. nr 15. nr 16."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 17."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 18."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 19."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 20."
     },
     {
-     "type": "ocr",
-     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL Lau oaa 2 1 1 Jednolite części wód powierzchniowych .. LL oaza nossa eae Scalone części wód powierzchniowych .. LL Laon 1 1 1 Jednolite części wód podziemnych . . LL Luzon ee 11 Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony . LL Lone owo A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych iprzybrzeżnych LL Leonora 1 Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych ........-..-.02.0+22 000] Sieć monitoringu wód podziemnych .... Lazo 00002 ee eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .. . . . 1 « 1 1 2 2221 1. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . 4 aa aa r s 1 1 1 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych 2... A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ..... La Lua ara 111"
+     "type": "text",
+     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL Lau oaa 2 1 1 Jednolite części wód powierzchniowych .. LL oaza nossa eae Scalone części wód powierzchniowych .. LL Laon 1 1 1 Jednolite części wód podziemnych . . LL Luzon ee 11 Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony . LL Lone owo A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych i przybrzeżnych LL Leonora 1 Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych ........-..-.02.0+22 000] Sieć monitoringu wód podziemnych .... Lazo 00002 ee eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .. . . . 1 « 1 1 2 2221 1. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . 4 aa aa r s 1 1 1 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych 2... A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ..... La Lua ara 111"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4103"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4105 4106 4107 4108 4109 4110 4111 4112 4113"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4114 4115 4116 4117 4128 4119"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4120"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4121"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4122"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4123 4124"
     }
    ]
@@ -340,7 +344,7 @@
     },
     {
      "type": "text",
-     "text": "Jednolita część wód powierzchniowych – oznacza oddzielny i znaczący element wód powierzchniowych (jezioro lub inny naturalny zbiornik wodny, sztuczny zbiornik wody, rzeka, struga, strumień, potok, kanał , lub ich część, morskie wody wewnętrzne, wody przejściowe lub wody przybrzeżne)."
+     "text": "Jednolita część wód powierzchniowych – oznacza oddzielny i znaczący element wód powierzchniowych (jezioro lub inny naturalny zbiornik wodny, sztuczny zbiornik wody, rzeka, struga, strumień, potok, kanał, lub ich część, morskie wody wewnętrzne, wody przejściowe lub wody przybrzeżne)."
     },
     {
      "type": "text",
@@ -356,15 +360,27 @@
     },
     {
      "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Planowanie w gospodarowaniu wodami zgodnie z Ramową Dyrektywą Wodną",
+   "children": [
+    {
+     "type": "text",
+     "text": "Od czasu akcesji Polski do Unii Europejskiej nastąpiło szereg zmian w polityce kraju. Wiele wysiłku włożono w dostosowanie polskiego prawodawstwa do przepisów UE. Zmienione zostały m.in. przepisy ustawy — Prawo wodne w celu transpozycji przepisów wspólnotowych w zakresie polityki wodnej UE. Politykę tą wyznaczają trzy podstawowe dyrektywy: e dyrektywa 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiająca ramy wspólnotowego działania w dziedzinie polityki wodnej (Dz. Urz. WE L 327 z 22.12.2000, str. 1; Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 5, str. 275, z późn. zm.), tzw. Ramowa Dyrektywa Wodna (RDW), e dyrektywa 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu (Dz. Urz. UE L372 z 27.12.2006, str. 19), e dyrektywa 2007/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. w sprawie oceny ryzyka (Dz. Urz. UE L 288 z 6.11.2007, str. 27)."
     },
     {
-     "type": "ocr",
-     "text": "2. Planowanie w gospodarowaniu wodami zgodnie z Ramową Dyrektywą Wodną"
+     "type": "text",
+     "text": "powodziowego i zarządzania nim"
     },
     {
-     "type": "ocr",
-     "text": "Od czasu akcesji Polski do Unii Europejskiej nastąpiło szereg zmian w polityce kraju. Wiele wysiłku włożono w dostosowanie polskiego prawodawstwa do przepisów UE. Zmienione zostały m.in. przepisy ustawy — Prawo wodne w celu transpozycji przepisów wspólnotowych w zakresie polityki wodnej UE. Politykę tą wyznaczają trzy podstawowe dyrektywy: e dyrektywa 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiająca ramy wspólnotowego działania w dziedzinie polityki wodnej (Dz. Urz. WE L 327 z 22.12.2000, str. 1; Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 5, str. 275, z późn. zm.), tzw. Ramowa Dyrektywa Wodna (RDW), e dyrektywa 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu (Dz. Urz. UE L372 z 27.12.2006, str. 19), e dyrektywa 2007/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. w sprawie oceny ryzyka powodziowego i zarządzania nim (Dz. Urz. UE L 288 z 6.11.2007, str. 27). Zmiany wprowadzone przepisami ww. dyrektyw mają przede wszystkim usprawnić działanie obecnie funkcjonujących systemów planowania i zarządzania w gospodarce wodnej państw członkowskich. RDW weszła w życie dnia 22 grudnia 2000 r. Najważniejszym przesłaniem RDW jest ochrona zasobów wodnych dla przyszłych pokoleń. Wprowadza ona zintegrowaną politykę wodną mająca na celu zapewnienie ludziom dostępu do czystej wody pitnej po rozsądnej cenie, która umożliwi rozwój gospodarczy i społeczny przy równoczesnym poszanowaniu potrzeb środowiska naturalnego. Głównym celem RDW jest osiągnięcie dobrego stanu wszystkich części wód, poprzez określenie i wdrożenie koniecznych działań w ramach zintegrowanych programów działań w państwach członkowskich do 2015 roku. Zgodnie z zapisami RDW planowanie gospodarowaniem wodami odbywa się w podziale na obszary dorzeczy. Zgodnie z ustawą z dnia 18 lipca 2001 r. — Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.) w chwili obecnej na obszarze Polski wyznaczonych jest 10 obszarów dorzeczy: Wisły, Odry, Dniestru, Dunaju, Jarftu, Łaby, Niemna, Pregoły, Świeżej i Ucker. Dla każdego obszaru dorzecza opracowuje się plan gospodarowania wodami na obszarze dorzecza. Niniejszy dokument jest zatem jednym z dziesięciu PGW na obszarze Polski."
+     "type": "text",
+     "text": "Zmiany wprowadzone przepisami ww. dyrektyw mają przede wszystkim usprawnić działanie obecnie funkcjonujących systemów planowania i zarządzania w gospodarce wodnej państw członkowskich. RDW weszła w życie dnia 22 grudnia 2000 r. Najważniejszym przesłaniem RDW jest ochrona zasobów wodnych dla przyszłych pokoleń. Wprowadza ona zintegrowaną politykę wodną mająca na celu zapewnienie ludziom dostępu do czystej wody pitnej po rozsądnej cenie, która umożliwi rozwój gospodarczy i społeczny przy równoczesnym poszanowaniu potrzeb środowiska naturalnego. Głównym celem RDW jest osiągnięcie dobrego stanu wszystkich części wód, poprzez określenie i wdrożenie koniecznych działań w ramach zintegrowanych programów działań w państwach członkowskich do 2015 roku. Zgodnie z zapisami RDW planowanie gospodarowaniem wodami odbywa się w podziale na obszary dorzeczy. Zgodnie z ustawą z dnia 18 lipca 2001 r. — Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.) w chwili obecnej na obszarze Polski wyznaczonych jest 10 obszarów dorzeczy: Wisły, Odry, Dniestru, Dunaju, Jarftu, Łaby, Niemna, Pregoły, Świeżej i Ucker. Dla każdego obszaru dorzecza opracowuje się plan gospodarowania wodami na obszarze dorzecza. Niniejszy dokument jest zatem jednym z dziesięciu PGW na obszarze Polski."
     },
     {
      "type": "text",
@@ -416,10 +432,10 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "W PGW szczególną rolę zajmuje podsumowanie działań zawartych w PWŚK. Działania te winny zostać zrealizowane na obszarze dorzecza w celu zapewnienia utrzymania lub poprawy jakości wszystkich wód do 2015 r., a w uzasadnionych przypadkach w terminie późniejszym. Dotyczą one zarówno konkretnych przedsięwzięć inwestycyjnych jak i środków o charakterze administracyjnym, ekonomicznym, badawczym, informacyjnym czy edukacyjnym."
     },
     {
@@ -725,35 +741,53 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ogólnie opisano warunki dla trzech typów:"
-    },
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "22",
+   "path": "ust_22",
+   "text": "Rzeki przyujściowe pod wpływem wód słonych",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "24",
+   "path": "ust_24",
+   "text": "Rzeki w dolinach zatorfionych",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "25",
+   "path": "ust_25",
+   "text": "Rzeki łączące jeziora Dla pozostałych 15 typów wód płynących dokonano opisu warunków abiotycznych, oraz niekompletnego opisu warunków biologicznych (z uwagi na brak danych w tym zakresie). Na podstawie wskazanych warunków referencyjnych dla poszczególnych typów wód, dokonano oceny stanu ekologicznego tych wód i tym samym wskazano wody/obszary mogące pełnić funkcje referencyjne, dla wypełnienia zobowiązań wynikających z załącznika II RDW, w zakresie utworzenia sieci referencyjnej dla poszczególnych typów części wód powierzchniowych. Jednak z uwagi na brak warunków dla wszystkich typów wód powierzchniowych, zadanie to będzie również wymagało uzupełnienia w dalszych pracach planistycznych. Procedurę ustalenia warunków referencyjnych przeprowadzono zgodnie z wymogami załącznika II do RDW, oraz zgodnie z wytycznymi metodycznymi do ustalenia warunków referencyjnych i granic klas stanu ekologicznego dla śródlądowych wód powierzchniowych, przejściowych i przybrzeżnych. Opracowane wówczas - wstępne warunki referencyjne wymagają weryfikacji na podstawie uzyskanych wyników z przeprowadzonych badań. W ramach realizowanych od 2005 r. badań monitoringowych wód powierzchniowych, pozyskiwane są informacje do uszczegółowienia prac nad ustaleniem warunków referencyjnych. Uzyskane wyniki będą podstawą do ustalenia właściwych wartości granicznych stosowanych przy ocenie stanu wód. Obecnie obowiązujące są wstępne warunki referencyjne ustalone w 2004 r.",
+   "children": [
     {
-     "type": "ocr",
-     "text": "22. Rzeki przyujściowe pod wpływem wód słonych"
-    },
-    {
-     "type": "ocr",
-     "text": "24. Rzeki w dolinach zatorfionych"
-    },
-    {
-     "type": "ocr",
-     "text": "25. Rzeki łączące jeziora Dla pozostałych 15 typów wód płynących dokonano opisu warunków abiotycznych, oraz niekompletnego opisu warunków biologicznych (z uwagi na brak danych w tym zakresie). Na podstawie wskazanych warunków referencyjnych dla poszczególnych typów wód, dokonano oceny stanu ekologicznego tych wód i tym samym wskazano wody/obszary mogące pełnić funkcje referencyjne, dla wypełnienia zobowiązań wynikających z załącznika II RDW, w zakresie utworzenia sieci referencyjnej dla poszczególnych typów części wód powierzchniowych. Jednak z uwagi na brak warunków dla wszystkich typów wód powierzchniowych, zadanie to będzie również wymagało uzupełnienia w dalszych pracach planistycznych. Procedurę ustalenia warunków referencyjnych przeprowadzono zgodnie z wymogami załącznika II do RDW, oraz zgodnie z wytycznymi metodycznymi do ustalenia warunków referencyjnych i granic klas stanu ekologicznego dla śródlądowych wód powierzchniowych, przejściowych i przybrzeżnych. Opracowane wówczas - wstępne warunki referencyjne wymagają weryfikacji na podstawie uzyskanych wyników z przeprowadzonych badań. W ramach realizowanych od 2005 r. badań monitoringowych wód powierzchniowych, pozyskiwane są informacje do uszczegółowienia prac nad ustaleniem warunków referencyjnych. Uzyskane wyniki będą podstawą do ustalenia właściwych wartości granicznych stosowanych przy ocenie stanu wód. Obecnie obowiązujące są wstępne warunki referencyjne ustalone w 2004 r."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Wody podziemne"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Odwzorowanie położenia granic części wód podziemnych"
     },
     {
-     "type": "ocr",
-     "text": "W wyniku podział obszaru Polski na JCWPd wyznaczono 160 JCWPd. Obecny obowiązujący podział opiera się na 161 JCWPd. Przy wydzielaniu JCWPd brano pod uwagę szereg materiałów i podziałów obowiązujących w hydrogeologii. Są to m.in. Atlas hydrogeologiczny Polski, Mapa hydrogeologiczna Polski w skali 1:50 000, mapa Głównych Zbiorników Wód Podziemnych, obszary bilansowe wydzielone w obszarach wodnych, Mapa Podziału Hydrograficznego Polski, różnego typu ekosystemy. Głównymi kryteriami przy wyznaczaniu JCWPd były: e związek hydrauliczny wód podziemnych z wodami powierzchniowymi, e typ ośrodka geologicznego i rozciągłości poziomów wodonośnych, granice hydrauliczne i hydrostrukturalne, warunki zasilania wód podziemnych,"
+     "type": "text",
+     "text": "W wyniku podział obszaru Polski na JCWPd wyznaczono 160 JCWPd. Obecny obowiązujący podział opiera się na 161 JCWPd. Przy wydzielaniu JCWPd brano pod uwagę szereg materiałów i podziałów obowiązujących w hydrogeologii. Są to m.in. Atlas hydrogeologiczny Polski, Mapa hydrogeologiczna Polski w skali 1:50 000, mapa Głównych Zbiorników Wód Podziemnych, obszary bilansowe wydzielone w obszarach wodnych, Mapa Podziału Hydrograficznego Polski, różnego typu wyznaczaniu JCWPd były:"
+    },
+    {
+     "type": "text",
+     "text": "ekosystemy. Głównymi kryteriami przy"
+    },
+    {
+     "type": "text",
+     "text": "e związek hydrauliczny wód podziemnych z wodami powierzchniowymi, e typ ośrodka geologicznego i rozciągłości poziomów wodonośnych, granice hydrauliczne i hydrostrukturalne, warunki zasilania wód podziemnych,"
     },
     {
      "type": "text",
@@ -781,70 +815,82 @@
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Podsumowanie znaczących oddziaływań i wpływów działalności człowieka na stan wód powierzchniowych i podziemnych",
+   "children": [
     {
-     "type": "ocr",
-     "text": "4. Podsumowanie znaczących oddziaływań i wpływów działalności człowieka na stan wód powierzchniowych i podziemnych"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "W ramach charakterystyki obszaru dorzecza, zgodnie z art. 5 RDW, w Polsce dokonano analizy mającej na celu identyfikację znaczących oddziaływań antropogenicznych (presji) na wody oraz oceny wpływu działalności człowieka na środowisko wodne. Prace te miały na celu dostarczenie informacji niezbędnych do wykonania oceny ryzyka nieosiągnięcia celów środowiskowych przez jednolite części wód na obszarze dorzecza. Do identyfikacji znaczących oddziaływań antropogenicznych wykorzystano m.in. dane gromadzone w jednostkach administracji w zakresie użytkowania wód, w tym pobory wody, zrzuty ścieków komunalnych i przemysłowych, wielkość nawożenia, hodowlę zwierząt. Uwzględniono również dostępne dane z monitoringu wód w zakresie poszczególnych wskaźników fizykochemicznych, biologicznych i hydromorfologicznych. Na obszarze dorzecza Łaby zidentyfikowano następujące rodzaje presji:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Punktowe źródła zanieczyszczeń"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zrzuty ścieków komunalnych i przemysłowych Jednym z podstawowych czynników wpływających na jakość wód powierzchniowych są również zanieczyszczenia zawarte w ściekach komunalnych i przemysłowych. Na obszarze dorzecza Łaby łączna ilość ścieków wymagających oczyszczenia pochodzących z zakładów przemysłowych, ścieków gospodarczych z innych rodzajów działalności człowieka oraz ścieków komunalnych (oszacowano na podstawie danych GUS za 2007r.), wynosi rocznie ok. 1105,4 mln m?, oczyszczanych tylko mechanicznie jest 292,9 mln m*. Ścieki nieoczyszczone odprowadzane do wód to 78,5 mln m”. Szczególnie w przypadku jezior ścieki z punktowych źródeł zanieczyszczeń to największe zagrożenie jakości ich wód. Biorąc pod uwagę, specyfikę jezior (systemy prawie zamknięte, w których raz wprowadzone zanieczyszczenia wchodzą w obieg materii) systematyczna dostawa nawet niewielkich ilości biogenów ma znaczenie dla jakości wód i powodować może lokalne (w litoralu) niekorzystne zmiany elementów biologicznych, takich jak makrofity, czy makrofauna bezkręgowa. Jeziora przez lata zanieczyszczane ściekami oczyszczonymi w niedostatecznym stopniu, nawet po odcięciu źródeł zanieczyszczeń lub wprowadzeniu zaawansowanych technik oczyszczania, z usuwaniem fosforu włącznie, powoli reagują na te zmiany ze względu na wewnętrzne zasilanie biogenami skumulowanymi w zbiorniku przez lata jego zanieczyszczania."
     },
     {
      "type": "note",
-     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zanieczyszczenia obszarowe wraz z krótką charakterystyką użytkowania gruntów"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Działalność rolnicza Niekorzystny wpływ na jakość wód na obszarze dorzecza, wywierają również dopływające obszarowo zanieczyszczenia z użytków rolnych. W strukturze użytkowania gruntów na terenie dorzecza grunty rolne stanowią 77,2 km” ogólnej powierzchni tj. 32 %. Lasy zajmują 66% i tereny zielone rozciągające się na powierzchni. 156,5 km”. Wielkość hodowli zwierząt gospodarskich wynosi 1256 DJP na obszar dorzecza."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Zrzuty ścieków komunalnych z terenów nieobjętych kanalizacją Niekorzystny wpływ na jakość wód dorzecza wywierają niekontrolowane zrzuty ścieków bytowo-gospodarczych z nieskanalizowanych miejscowości. Liczba ludności nie korzystających z kanalizacji i oczyszczalni ścieków wynosi 5 300 mieszkańców, co stanowi 28% wszystkich mieszkańców obszaru dorzecza. Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZTs, ChZTcr, Nog, Pog, zawiesina ogólna) [kg/rok] przedstawiono poniżej [oszacowano na podstawie danych z GUS, 2007]:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "BZT5 116 989,8 kg/rok, ChZTc 263 227,0 kg/rok, zawiesina 136 488,1 kg/rok, azot ogólny 23 008,0 kg/rok, fosfor ogólny 3 802,2 kg/rok."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Na obszarze dorzecza średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacji w przeliczeniu na km* powierzchni, wynosi odpowiednio dla [oszacowano na podstawie danych z GUS, 2007]:"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "490,6 kg/rok/km?, BZT5 ChZTe 1103,88 kg/rok/km”, zawiesina 572,4 kg/rok/km’, azot ogólny 96,5 kg/rok/km?, fosfor ogólny 15,9 kg/rok/km?."
     },
     {
      "type": "note",
-     "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Oddziaływania wywierane na ilościowy stan wód pobory wód powierzchniowych Źródłem zaopatrzenia w wodę gospodarki komunalnej, w części dorzecza obejmującej miasto Kudowa Zdrój, jest ujęcie wody powierzchniowej zlokalizowane w miejscowości Dańczów. Ujecie zaopatruje ok. 10,6 tys. mieszkańców, w większości miasta. Całkowite zużycie wody na obszarze dorzecza Łaby wynosi rocznie ok. 673 tys.m'. Pozostała część mieszkańców obszaru podłączona jest do lokalnych wodociągów pobierających wodę poza obszarem dorzecza Łaby lub korzysta z przydomowych studni."
+     "type": "text",
+     "text": "Oddziaływania wywierane na powierzchniowych ilościowy stan wód pobory wód"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "Źródłem zaopatrzenia w wodę gospodarki komunalnej, w części dorzecza obejmującej miasto Kudowa Zdrój, jest ujęcie wody powierzchniowej zlokalizowane w miejscowości Dańczów. Ujecie zaopatruje ok. 10,6 tys."
+    },
+    {
+     "type": "text",
+     "text": "mieszkańców, w większości miasta. Całkowite zużycie wody na obszarze dorzecza Łaby wynosi rocznie ok. 673 tys.m'. Pozostała część mieszkańców obszaru podłączona jest do lokalnych wodociągów pobierających wodę poza obszarem dorzecza Łaby lub korzysta z przydomowych studni."
+    },
+    {
+     "type": "text",
      "text": "Analiza wpływów antropogenicznych uzupełniona została prognozą rozwoju do 2015 roku zmierzającą do oceny możliwych zmian w środowisku wodnym w wyniku przyszłej działalności człowieka. Do wykonania prognozy wykorzystano dane z oficjalnych dokumentów strategicznych rozwoju kraju, m.in.: Strategię Rozwoju Kraju na lata 2007-2015, Strategię Gospodarki Wodnej, II Politykę Ekologiczna Kraju, Program Rozwoju Obszarów Wiejskich. Zebrane informacje odnośnie identyfikacji znaczących oddziaływań antropogenicznych, oceny stanu wód oraz prognoza rozwoju posłużyły do przeprowadzenia oceny ryzyka nieosiągnięcia celów środowiskowych tzn. wskazania tych części wód, dla których istnieje ryzyko, iż do roku 2015 nie osiągną one dobrego stanu wód. W wyniku przeprowadzonej analizy na obszarze dorzecza Łaby wydzielono 4 jednolite części wód rzek zagrożone nieosiągnięciem celów środowiskowych."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Niedobory wód podziemnych Stopień wykorzystania zasobów wód podziemnych został opracowany przez zespół pod kierownictwem T. Hordejuka (2008). Został on wyrażony w procentach jako stosunek poboru całkowitego do zasobów wód podziemnych. Na tej podstawie można określić szacunkowy stopień wielkości rezerw wód podziemnych, który został wyrażony w 5 stopniowej skali (bardzo wysoki, wysoki, umiarkowany, niski, brak rezerw). Dla obszaru dorzecza Łaby określony został jako bardzo wysoki. Stopień wykorzystania zasobów wód podziemnych oszacowany został na 3,5 — 20,5 %, przy czym najwyższy jest w rejonie Kudowy Zdrój. Na obszarze dorzecza Łaby nie stwierdzono wystąpienia lejów depresji o znaczeniu regionalnym ani obszarów na których miało miejsce trwałe obniżenie zwierciadła wód podziemnych wywołane czynnikiem antropogenicznym."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Graficzne odwzorowanie punktowych i obszarowych źródeł zanieczyszczeń przedstawione zostało na mapie nr 16 (załącznik nr 1)."
     }
    ]
@@ -981,36 +1027,48 @@
     },
     {
      "type": "note",
-     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "W celu sprawdzenia powiekszania sie zjawiska suszy w ostatnim 10-leciu XX w. porównano wartości temperatury, opadów i stopnia uwilgotnienia wierzchniej warstwy gleby w okresie 1971-2000 i 1991-2000. Stwierdzono, że wzrost temperatury powietrza wyniósł 0,5 °C, suma opadów atmosferycznych wzrosła o 11 mm, natomiast stopień uwilgotnienia gleby zmniejszył się o 0,5 w przyjętej skali."
+     "type": "text",
+     "text": "W celu sprawdzenia powiększania się zjawiska suszy w ostatnim 10-leciu XX w. porównano wartości temperatury, opadów i stopnia uwilgotnienia wierzchniej warstwy gleby w okresie 1971-2000 i 1991-2000. Stwierdzono, że wzrost temperatury powietrza wyniósł 0,5 °C, suma opadów atmosferycznych wzrosła o 11 mm, natomiast stopień uwilgotnienia gleby zmniejszył się o 0,5 w przyjętej skali."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Umowna skala wilgotności wierzchniej warstwy gleby przedstawia się następująco: 0 — wilgotność klęskowo niedostateczna, 10 — wilgotność niedostateczna, 20 — wilgotność dostateczna, 30 — wilgotność nadmierna, 40 — wilgotność klęskowo nadmierna."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Można zauważyć, że przy wzroście temperatury powietrza i nieznacznym wzroście sumy opadów atmosferycznych nastąpiło powiększenie się zjawiska suszy na skutek zwiększonej ewapotranspiracji. Potwierdzają to badania Pressa (1963), z których wynika iż przy wzroście temperatury powietrza o 1,0 °C wartość optymalna opadów atmosferycznych w skali miesiąca powinny być wyższa o 5 mm. Ziernicka (2004) wykazała, że przy wzroście temperatury powietrza o 1,0 °C, niedobór opadów okresie wegetacyjnym IV-X wyniesie 6,3 mm, a przy wzroście temperatury o 2,0 °C — 14,5 mm na obszarze Polski bez uwzględnienia zróżnicowania regionalnego. W związku z rosnącą wartością współczynnika zmienności opadów i wzrostem częstości występowania zachmurzenia typu konwekcyjnego należy spodziewać się zwiększenia częstości zarówno powodzi, opadów o dużej intensywności jak i okresów suszy. Fakt ten należy uwzględnić w analizie dynamiki zmian zanieczyszczeń wody zależnych w dużej mierze od stanów wody i wartości przepływów. Obserwowany i prognozowany wzrost temperatury powietrza spowodowany współczesnymi zmianami klimatu może wpłynąć na procesy fizyczne, chemiczne i biologiczne w ciekach i zbiornikach wodnych, a niekiedy prowadzić do pogorszenia jakości wody. Dla potrzeb przyszłych planów niezbędne jest uwzględnienie badań nad zmianami klimatu w celu podjęcia właściwych działań zapobiegających pogorszeniu stanu wód."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Na podstawie pozyskanych danych dla obszaru Polski oraz założonego horyzontu czasowego dla pierwszego cyklu planowania wg RDW można stwierdzić, iż przewidywane zmiany klimatu Polski, a więc także na obszarze dorzecza Łaby nie będą znaczące wobec jakichkolwiek działań zidentyfikowanych w PGW."
     },
     {
      "type": "note",
-     "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Określenie i odwzorowanie obszarów chronionych",
+   "children": [
     {
-     "type": "ocr",
-     "text": "6. Określenie i odwzorowanie obszarów chronionych"
-    },
-    {
-     "type": "ocr",
-     "text": "RDW wymaga od państw członkowskich dokonywania przeglądu oraz uaktualniania rejestru obszarów chronionych (art. 6). W Polsce przegląd ten miał miejsce w roku 2007, czyli cztery lata po sporządzeniu pierwszego rejestru tych obszarów w roku 2003, którego zawartość była przedmiotem Raportu do KE w roku 2005. Prace przeprowadzone w 2007 roku miały na celu aktualizację wykazów: e wód powierzchniowych i podziemnych, które są lub mogą być wykorzystywane dla zaopatrzenia ludności w wodę przeznaczoną do spożycia - wyznaczonych na mocy RDW transponowanej ustawą z dnia 18 lipca 2001 r. — Prawo wodne, e części wód przeznaczonych do celów rekreacyjnych, w tym obszary wyznaczone jako kąpieliska — wyznaczone na mocy dyrektywy Rady 76/160/EWG z dnia 8 grudnia 1975 r. dotyczącej jakości wody w kąpieliskach (Dz. Urz. WE L 31 z 5.02.1976, str. 1; Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 1, str. 26) (uchylonej dyrektywą 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w kąpieliskach i uchylającą dyrektywę 76/160/EWG (Dz. Urz. UE L 64 z 04.03.2006, str. 37)), transponowanej przez ustawę z dnia 18 lipca 2001 r. — Prawo wodne, a w szczególności przez rozporządzenie Ministra Zdrowia z dnia 16 października 2002 r. w sprawie wymagań, jakim powinna odpowiadać woda w kąpieliskach (Dz. U. Nr 183, poz.1530), e wód powierzchniowych i podziemnych uznanych za wrażliwe oraz obszarów szczególnie narażonych na zanieczyszczenia związkami azotu ze źródeł rolniczych, z których należy ograniczyć odpływ azotu do tych wód - wyznaczonych na mocy dyrektywy 91/676/EWG z dnia 12 grudnia 1991 r., dotyczącej ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego transponowanej do polskiego prawodawstwa poprzez: o ustawę z dnia 18 lipca 2001 r. — Prawo wodne, o ustawę z dnia 27 kwietnia 2001r. — Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.), o ustawę z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033), oraz rozporządzenia wykonawcze do ww. ustaw: o rozporządzenie Ministra Środowiska z dnia 23 grudnia 2002 r. w sprawie kryteriów wyznaczania wód wrażliwych na zanieczyszczenie związkami azotu ze źródeł rolniczych (Dz. U. Nr 241, poz. 2093), o rozporządzenie Ministra Środowiska z dnia 23 grudnia 2002 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać programy działań"
-    },
+     "type": "text",
+     "text": "RDW wymaga od państw członkowskich dokonywania przeglądu oraz uaktualniania rejestru obszarów chronionych (art. 6). W Polsce przegląd ten miał miejsce w roku 2007, czyli cztery lata po sporządzeniu pierwszego rejestru tych obszarów w roku 2003, którego zawartość była przedmiotem Raportu do KE w roku 2005. Prace przeprowadzone w 2007 roku miały na celu aktualizację wykazów: e wód powierzchniowych i podziemnych, które są lub mogą być wykorzystywane dla zaopatrzenia ludności w wodę przeznaczoną do spożycia - wyznaczonych na mocy RDW transponowanej ustawą z dnia 18 lipca 2001 r. — Prawo wodne, e części wód przeznaczonych do celów rekreacyjnych, w tym obszary wyznaczone jako kąpieliska — wyznaczone na mocy dyrektywy Rady 76/160/EWG z dnia 8 grudnia 1975 r. dotyczącej jakości wody w kąpieliskach (Dz. Urz. WE L 31 z 5.02.1976, str. 1; Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 1, str. 26) (uchylonej dyrektywą 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w kąpieliskach i uchylającą dyrektywę 76/160/EWG (Dz. Urz. UE L 64 z 04.03.2006, str. 37)), transponowanej przez ustawę z dnia 18 lipca 2001 r. — Prawo wodne, a w szczególności przez rozporządzenie Ministra Zdrowia z dnia 16 października 2002 r. w sprawie wymagań, jakim powinna odpowiadać woda w kąpieliskach (Dz. U. Nr 183, poz.1530), e wód powierzchniowych i podziemnych uznanych za wrażliwe oraz obszarów szczególnie narażonych na zanieczyszczenia związkami azotu ze źródeł rolniczych, z których należy ograniczyć odpływ azotu do tych wód - wyznaczonych na mocy dyrektywy 91/676/EWG z dnia 12 grudnia 1991 r., dotyczącej ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego transponowanej do polskiego prawodawstwa poprzez: o ustawę z dnia 18 lipca 2001 r. — Prawo wodne, o ustawę z dnia 27 kwietnia"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2001r",
+   "path": "ust_2001r",
+   "text": "— Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.), o ustawę z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033), oraz rozporządzenia wykonawcze do ww. ustaw: o rozporządzenie Ministra Środowiska z dnia 23 grudnia 2002 r. w sprawie kryteriów wyznaczania wód wrażliwych na zanieczyszczenie związkami azotu ze źródeł rolniczych (Dz. U. Nr 241, poz. 2093), o rozporządzenie Ministra Środowiska z dnia 23 grudnia 2002 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać programy działań",
+   "children": [
     {
      "type": "text",
      "text": "mających na celu ograniczenie odpływu azotu ze źródeł rolniczych (Dz. U. z 2003 r. Nr 4, poz. 44),"
@@ -1685,7 +1743,11 @@
     },
     {
      "type": "text",
-     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 Monitor Polski Nr 52 — 3972 — Poz. 561 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych. Monitor Polski Nr 52 — 3973 — Poz. 561 Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
+     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
+    },
+    {
+     "type": "text",
+     "text": "Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
     },
     {
      "type": "text",
@@ -1837,11 +1899,7 @@
     },
     {
      "type": "text",
-     "text": "Fosforany (mgPO /l) 0,01 - 1 0,5* 0,5* 1 4 ) )"
-    },
-    {
-     "type": "text",
-     "text": "Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005"
+     "text": "Fosforany (mgPO₄/l) 0,01 - 1 0,5* ) 0,5* ) 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005"
     },
     {
      "type": "text",
@@ -1873,7 +1931,7 @@
     },
     {
      "type": "text",
-     "text": "Selen (mgSe/l) 0,00001 – 0,005 0,005 0,01* 0,01* Siarczany (mgSO /l) 5 – 60 60 250* 250* 4 ) )"
+     "text": "Selen (mgSe/l) 0,00001 – 0,005 0,005 0,01* 0,01* Siarczany (mgSO₄/l) 5 – 60 60 250* ) 250* )"
     },
     {
      "type": "text",
@@ -2997,7 +3055,7 @@
     },
     {
      "type": "text",
-     "text": "Ilość JCWPd 3 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania nie dotyczy działań podstawowych Źródła finansowania nie dotyczy działań uzupełniających Monitor Polski Nr 52 — 4005 — Poz. 561"
+     "text": "Ilość JCWPd 3 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania nie dotyczy działań podstawowych Źródła finansowania nie dotyczy działań uzupełniających"
     }
    ]
   },
@@ -9048,26 +9106,34 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 152 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 152 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel",
+   "children": [
     {
-     "type": "ocr",
-     "text": "17. Spis tabel"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1. Wartości graniczne wybranych wskaźników wód odnoszących sie do dobrego i wyzszego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ....... 3971 Tabela 2. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . 3972 Tabela 3. Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. 3975 Tabela 4. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza .. 11. A 3978 Tabela 5. Odstępstwa od celów środowiskowych na obszarze dorzecza taby............. 3980 Tabela 6. Struktura przedsiębiorstw na obszarze dorzecza Łaby ... LL aaa area 1 11 3981 Tabela 7. Wyniki oszacowania kosztów środowiskowych dla roku 2006 . .... . . . «1... 1. 1 1.1... . 3991 Tabela 8. Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. 3991 Tabela 9. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Łaby — wody powierzchniowe .... 2... 0. ee a 1 A 4005 Tabela 10. Podsumowanie programow dziatan w latach 2010—2015 na obszarze dorzecza taby — WOdy podziemne .......-. 002 ee ee 4005 Tabela 11. Zestawienie organów właściwych w sprawach gospodarowania wodami ........ 4059 Tabela 12. Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... 4059 Tabela 13. Organy współpracujące z Prezesem KZGW w zakresie wdrażania RDW .......... 4064 Tabela 14. Podległość dyrektora RZGW właściwego na obszarze dorzecza Łaby, siedziby oraz strona WWW A 4065 Tabela 15. Akt prawny ustanawiający statut RZGW oraz przynależne regiony wodne . ........ 4065 Tabela 16. Umowy dwustronne .... Leonora 1 4071 Tabela 17. Umowy wielostronne . . 1.2.0... 0 ee ee 4072 Tabela 18. Dane adresowe KZGW ... LLL Leon AA 4073 Tabela 19. Dane adresowe RZGW na obszarze dorzecza Łaby .........-..2022 020+ eee 4073 Tabela 20. Dane adresowe GIOS .. LLL 4074"
+     "type": "text",
+     "text": "Tabela 1. Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ....... 3971 Tabela 2. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . 3972 Tabela 3. Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. 3975 Tabela 4. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza .. 11. A 3978 Tabela 5. Odstępstwa od celów środowiskowych na obszarze dorzecza taby............. 3980 Tabela 6. Struktura przedsiębiorstw na obszarze dorzecza Łaby ... LL aaa area 1 11 3981 Tabela 7. Wyniki oszacowania kosztów środowiskowych dla roku 2006 . .... . . . «1... 1. 1 1.1... . 3991 Tabela 8. Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. 3991 Tabela 9. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Łaby — wody powierzchniowe .... 2... 0. ee a 1 A 4005 Tabela 10. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza taby — WOdy podziemne .......-. 002 ee ee 4005 Tabela 11. Zestawienie organów właściwych w sprawach gospodarowania wodami ........ 4059 Tabela 12. Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... 4059 Tabela 13. Organy współpracujące z Prezesem KZGW w zakresie wdrażania RDW .......... 4064 Tabela 14. Podległość dyrektora RZGW właściwego na obszarze dorzecza Łaby, siedziby oraz strona WWW A 4065 Tabela 15. Akt prawny ustanawiający statut RZGW oraz przynależne regiony wodne . ........ 4065 Tabela 16. Umowy dwustronne .... Leonora 1 4071 Tabela 17. Umowy wielostronne . . 1.2.0... 0 ee ee 4072 Tabela 18. Dane adresowe KZGW ... LLL Leon AA 4073 Tabela 19. Dane adresowe RZGW na obszarze dorzecza Łaby .........-..2022 020+ eee 4073 Tabela 20. Dane adresowe GIOS .. LLL 4074"
     },
     {
      "type": "note",
-     "text": "[Strona 153 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 153 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "18. Spis rysunków"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Łaby LL uro ee ee 3943 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891 —2000 3953 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000............. 3954 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 scenariusz +1°C ... 3954"
     }
    ]
@@ -9077,10 +9143,6 @@
   {
    "heading": "Załączniki do Planu gospodarowania wodami na obszarze dorzecza Łaby z dnia 22 lutego 2011 r. (poz. 561) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 52 — 4087 — Poz. 561"
-    },
     {
      "type": "note",
      "text": "[Na stronie 154 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -10072,7 +10134,7 @@
     },
     {
      "type": "text",
-     "text": "* - derogacje 4(7) - 1nowe modyfikacje - przekształcenie charakterystyk fizycznych Monitor Polski Nr 52 — 4103 — Poz. 561 Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Uzasadnienie Obszar dorzecza Ocena ryzyka Derogacje derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Ekoregion ilościowego chemicznego Kod Nazwa Gospodarki Wodnej (RZGW)"
+     "text": "* - derogacje 4(7) - 1nowe modyfikacje - przekształcenie charakterystyk fizycznych Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Uzasadnienie Obszar dorzecza Ocena ryzyka Derogacje derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Ekoregion ilościowego chemicznego Kod Nazwa Gospodarki Wodnej (RZGW)"
     },
     {
      "type": "text",
@@ -10088,7 +10150,7 @@
     },
     {
      "type": "text",
-     "text": "PLGW6220112 112 region wodny Środkowej Odry/region wodny Morawy/region 6000/1000/5000 obszar dorzecza Odry/obszar dorzecza Łaby/ RZGW we Wrocławiu Wyżyny Centralne (9) dobry dobry niezagrożona - - wodny Orlicy obszar dorzecza Dunaju Monitor Polski Nr 52 — 4104 — Poz. 561"
+     "text": "PLGW6220112 112 region wodny Środkowej Odry/region wodny Morawy/region 6000/1000/5000 obszar dorzecza Odry/obszar dorzecza Łaby/ RZGW we Wrocławiu Wyżyny Centralne (9) dobry dobry niezagrożona - - wodny Orlicy obszar dorzecza Dunaju"
     },
     {
      "type": "note",
@@ -10101,7 +10163,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Mapa nr 1. Monitor Polski Nr 52 — 4105 — Poz. 561"
+     "text": "Mapa nr 1."
     },
     {
      "type": "note",
@@ -10109,7 +10171,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 2. Monitor Polski Nr 52 — 4106 — Poz. 561"
+     "text": "Mapa nr 2."
     },
     {
      "type": "note",
@@ -10117,7 +10179,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 3. Monitor Polski Nr 52 — 4107 — Poz. 561"
+     "text": "Mapa nr 3."
     },
     {
      "type": "note",
@@ -10125,7 +10187,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 4. Monitor Polski Nr 52 — 4108 — Poz. 561"
+     "text": "Mapa nr 4."
     },
     {
      "type": "note",
@@ -10133,7 +10195,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 5. Monitor Polski Nr 52 — 4109 — Poz. 561"
+     "text": "Mapa nr 5."
     },
     {
      "type": "note",
@@ -10141,7 +10203,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 6. Monitor Polski Nr 52 — 4110 — Poz. 561"
+     "text": "Mapa nr 6."
     },
     {
      "type": "note",
@@ -10149,7 +10211,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 7. Monitor Polski Nr 52 — 4111 — Poz. 561"
+     "text": "Mapa nr 7."
     },
     {
      "type": "note",
@@ -10177,7 +10239,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 9. Monitor Polski Nr 52 — 4113 — Poz. 561"
+     "text": "Mapa nr 9."
     },
     {
      "type": "note",
@@ -10185,7 +10247,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 10. Monitor Polski Nr 52 — 4114 — Poz. 561"
+     "text": "Mapa nr 10."
     },
     {
      "type": "note",
@@ -10193,7 +10255,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 11. Monitor Polski Nr 52 — 4115 — Poz. 561"
+     "text": "Mapa nr 11."
     },
     {
      "type": "note",
@@ -10201,7 +10263,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 12. Monitor Polski Nr 52 — 4116 — Poz. 561"
+     "text": "Mapa nr 12."
     },
     {
      "type": "note",
@@ -10209,7 +10271,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 13. Monitor Polski Nr 52 — 4117 — Poz. 561"
+     "text": "Mapa nr 13."
     },
     {
      "type": "note",
@@ -10217,7 +10279,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 14. Monitor Polski Nr 52 — 4118 — Poz. 561"
+     "text": "Mapa nr 14."
     },
     {
      "type": "note",
@@ -10225,7 +10287,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 15. Monitor Polski Nr 52 — 4119 — Poz. 561"
+     "text": "Mapa nr 15."
     },
     {
      "type": "note",
@@ -10233,7 +10295,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 16. Monitor Polski Nr 52 — 4120 — Poz. 561"
+     "text": "Mapa nr 16."
     },
     {
      "type": "note",
@@ -10241,7 +10303,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 17. Monitor Polski Nr 52 — 4121 — Poz. 561"
+     "text": "Mapa nr 17."
     },
     {
      "type": "note",
@@ -10249,7 +10311,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 18. Monitor Polski Nr 52 — 4122 — Poz. 561"
+     "text": "Mapa nr 18."
     },
     {
      "type": "note",
@@ -10257,26 +10319,30 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 19. Monitor Polski Nr 52 — 4123 — Poz. 561"
+     "text": "Mapa nr 19."
     },
     {
      "type": "note",
-     "text": "[Strona 191 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 191 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "2 Ę . g fe Bi, t z NIKE 8 : kJ Ej s, BB a) = 8 3 # ŻĘ SE 8 ; H 33 8 nak ge EH Hi AŻ 1 8 3 H le EU) j fo 3 EE UB. z s DE i"
+     "type": "text",
+     "text": "2 Ę . g fe Bi, t z NIKE 8 : kJ Ej s, BB a) = 8 3 # ŻĘ SE 8 ; H 33 8 nak ge EH Hi AŻ 1 8 3 H le EU) j fo 3 EE UB."
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "z s DE i"
+    },
+    {
+     "type": "text",
      "text": "NASZE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Mapa nr 20. PUNKTOWE I OBSZAROWE ZRODLA ZANIECZYSZCZEŃ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Morze Bałtyckie"
     },
     {

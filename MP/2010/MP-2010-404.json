@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/404",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 19 kwietnia 2010 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/404/text.pdf",
  "body": [
   {
@@ -98,75 +98,82 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "8. Poszezególni kandydaci otrzymali następującą liczbę głosów ważnych:"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Poszezególni kandydaci otrzymali następującą liczbę głosów ważnych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "D pt | Pi a aaa F | tty M4 pt s pt tt pt \" aaa a pi a Baa pt tt Razem EDEEE"
+      },
+      {
+       "type": "text",
+       "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów (rubryka „Razem”) musi być równa liczbie z pkt 6, czyli liczbie głosów ważnych."
+      },
+      {
+       "type": "text",
+       "text": "Symbol kontrolny systemu mformatycznego i jego kod kreskowy"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "II. UWAGI I ADNOTACJE 9.) Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb z pkt 3 i 4 a liczbą z pkt 2; jeżeli różnica nie występuje, wpisać „brak uwag”: eee asa"
+      },
+      {
+       "type": "text",
+       "text": "10.” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt 5 a liczbą z pkt 3; jeżeli różnica nie występuje, wpisać „brak uwag”: esse eeaaeaaa ewa zana zaa"
+      },
+      {
+       "type": "text",
+       "text": "11.9W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać Mię) 6:1 GF] v2:[3F22) | WRONA"
+      },
+      {
+       "type": "text",
+       "text": "ky , : - : a; - . - ."
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "D pt | Pi a aaa F | tty M4 pt s pt tt pt \" aaa a pi a Baa pt tt Razem EDEEE"
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "\"Adnotacje o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych po PRAY 0, ogee : 7 . - zarzutów '; jeżeli nie ma, wpisać „zarzutów nie Zgłoszono”: uuu",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów (rubryka „Razem”) musi być równa liczbie z pkt 6, czyli liczbie głosów ważnych."
-    },
-    {
-     "type": "ocr",
-     "text": "Symbol kontrolny systemu mformatycznego i jego kod kreskowy"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "II. UWAGI I ADNOTACJE 9.) Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb z pkt 3 i 4 a liczbą z pkt 2; jeżeli różnica nie występuje, wpisać „brak uwag”: eee asa"
-    },
-    {
-     "type": "ocr",
-     "text": "10.” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt 5 a liczbą z pkt 3; jeżeli różnica nie występuje, wpisać „brak uwag”: esse eeaaeaaa ewa zana zaa"
-    },
-    {
-     "type": "ocr",
-     "text": "11.9W trakcie głosowania wydano następujące zarządzenia i decyzje; jeżeli nie wydano, wpisać Mie) 6:1 GF] v2:[3F22) | WRONA"
-    },
-    {
-     "type": "ocr",
-     "text": "ky , : - : a; - . - ."
-    },
-    {
-     "type": "ocr",
-     "text": "12. \"Adnotacje o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych po PRAY 0, ogee : 7 . -"
-    },
-    {
-     "type": "ocr",
-     "text": "zarzutów '; jeżeli nie ma, wpisać „zarzutów nie Zgłoszono”: uuu"
-    },
-    {
-     "type": "ocr",
-     "text": "13. Adnotacje o wniesieniu przez członków Komisji uwag z wymienieniem konkretnych , FEY. | oa. : , , ."
-    },
-    {
-     "type": "ocr",
-     "text": "zarzutów , jeżeli nie ma, wpisać „zarzutów nie zgłoszono”: | eseaaaa a a aaa a area"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczęć Komisji)"
-    },
-    {
-     "type": "ocr",
-     "text": "\"W ponownym głosowaniu wpisać wyraz „PONOWNE”. \"Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokału, zaznaczając to w odpowiednim punkcie protokołu. W razic zgłoszenia zarzutów mężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu."
-    },
-    {
-     "type": "ocr",
-     "text": "ky"
-    },
-    {
-     "type": "ocr",
-     "text": "Symbol kontrolny systemu informatycznego i jego kod kreskowy"
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Adnotacje o wniesieniu przez członków Komisji uwag z wymienieniem konkretnych , FEY. | oa. : , , .",
+     "children": [
+      {
+       "type": "text",
+       "text": "zarzutów , jeżeli nie ma, wpisać „zarzutów nie zgłoszono”: | eseaaaa a a aaa a area"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć Komisji)"
+      },
+      {
+       "type": "text",
+       "text": "\"W ponownym głosowaniu wpisać wyraz „PONOWNE”. \"Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokału, zaznaczając to w odpowiednim punkcie protokołu. W razić zgłoszenia zarzutów mężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu."
+      },
+      {
+       "type": "text",
+       "text": "ky"
+      },
+      {
+       "type": "text",
+       "text": "Symbol kontrolny systemu informatycznego i jego kod kreskowy"
+      }
+     ]
     }
    ]
   },
@@ -183,111 +190,118 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "II."
     },
     {
-     "type": "ocr",
-     "text": "8. Poszczególni kandydaci otrzymali następującą liczbę głosów ważnych:"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Poszczególni kandydaci otrzymali następującą liczbę głosów ważnych:",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "10. 11. 12. 13. 14. 15. 16."
-    },
-    {
-     "type": "ocr",
-     "text": "Razem"
-    },
-    {
-     "type": "ocr",
-     "text": "Symbol kontrolny systemu informatycznego i jego kod kreskowy"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "11."
-    },
-    {
-     "type": "ocr",
-     "text": "13."
-    },
-    {
-     "type": "ocr",
-     "text": "1)"
-    },
-    {
-     "type": "ocr",
-     "text": "9,"
-    },
-    {
-     "type": "ocr",
-     "text": "Ry"
-    },
-    {
-     "type": "ocr",
-     "text": "oby"
-    },
-    {
-     "type": "ocr",
-     "text": "wy"
-    },
-    {
-     "type": "ocr",
-     "text": "ey"
-    },
-    {
-     "type": "ocr",
-     "text": "III. Komisja stwierdza, że nie otrzymała w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych za granicą/na polskich statkach morskich: Obwód nr ......... PES 4 417: ORA , Obwód nr ......... PAS 4/4107: PORE , tj."
-    },
-    {
-     "type": "ocr",
-     "text": "Zgodnie z art. 66 ust. 3b ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie. Zarządzenia i decyzje wydane przez Okręgową Komisję Wyborczą podczas głosowania oraz inne istotne okoliczności związane z przebiegiem głosowania i ustalaniem jego wyników; jeżeli nie wydano, wpisać „brak zarządzeń”: seann"
-    },
-    {
-     "type": "ocr",
-     "text": "Adnotacje o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych , RR LO. : ; r : zarzutów |; jeżeli nie ma, wpisać „zarzutów nie zgłoszono”: eee sa aaa"
-    },
-    {
-     "type": "ocr",
-     "text": "Adnotacje o wniesieniu przez członków Komisji uwag z wymienieniem konkretnych 7 RRR 2. . r ę :"
-    },
-    {
-     "type": "ocr",
-     "text": "zarzutów ; jeżeli nie ma, wpisać „zarzutów nie zgłoszono”: aaa aaa"
-    },
-    {
-     "type": "ocr",
-     "text": "inwwiske imię imiona, fonkcja w Komisji"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczęć Komisji)"
-    },
-    {
-     "type": "ocr",
-     "text": "**)"
-    },
-    {
-     "type": "ocr",
-     "text": "ky"
-    },
-    {
-     "type": "ocr",
-     "text": "kkkkj"
-    },
-    {
-     "type": "ocr",
-     "text": "W ponownym głosowaniu wpisać wyraz „PONOWNE”. Jeżcli Komisja nic otrzymała wyników głosowania ze wszystkich obwodów utworzonych na statkach lub za granicą, należy wykreślić wyraz „wszystkich” i w pkt 9 wymienić obwody, z których nie otrzymano protokołów, podając ewentualną przyczynę. Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. W razie zgłoszenia zarzutów tnężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu."
-    },
-    {
-     "type": "ocr",
-     "text": "Symbol kontrolny systemu informatycznego i jego kod kreskowy"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "11. 12. 13. 14. 15. 16.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Razem"
+      },
+      {
+       "type": "text",
+       "text": "Symbol kontrolny systemu informatycznego i jego kod kreskowy"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "11"
+      },
+      {
+       "type": "text",
+       "text": "13"
+      },
+      {
+       "type": "text",
+       "text": "1)"
+      },
+      {
+       "type": "text",
+       "text": "9"
+      },
+      {
+       "type": "text",
+       "text": "Ry"
+      },
+      {
+       "type": "text",
+       "text": "oby"
+      },
+      {
+       "type": "text",
+       "text": "wy"
+      },
+      {
+       "type": "text",
+       "text": "ey"
+      },
+      {
+       "type": "text",
+       "text": "III. Komisja stwierdza, że nie otrzymała w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych za granicą/na polskich statkach morskich: Obwód nr ......... PES 4 417: ORA , Obwód nr ......... PAS 4/4107: PORE , tj."
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 66 ust. 3b ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie. Zarządzenia i decyzje wydane przez Okręgową Komisję Wyborczą podczas głosowania oraz inne istotne okoliczności związane z przebiegiem głosowania i ustalaniem jego wyników; jeżeli nie wydano, wpisać „brak zarządzeń”: seann"
+      },
+      {
+       "type": "text",
+       "text": "Adnotacje o wniesieniu przez mężów zaufania uwag z wymienieniem konkretnych , RR LO. : ; r : zarzutów |; jeżeli nie ma, wpisać „zarzutów nie zgłoszono”: eee sa aaa"
+      },
+      {
+       "type": "text",
+       "text": "Adnotacje o wniesieniu przez członków Komisji uwag z wymienieniem konkretnych 7 RRR 2. . r ę :"
+      },
+      {
+       "type": "text",
+       "text": "zarzutów ; jeżeli nie ma, wpisać „zarzutów nie zgłoszono”: aaa aaa"
+      },
+      {
+       "type": "text",
+       "text": "inwwiske imię imiona, fonkcja w Komisji"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć Komisji)"
+      },
+      {
+       "type": "text",
+       "text": "**)"
+      },
+      {
+       "type": "text",
+       "text": "ky"
+      },
+      {
+       "type": "text",
+       "text": "kkkkj"
+      },
+      {
+       "type": "text",
+       "text": "W ponownym głosowaniu wpisać wyraz „PONOWNE”. Jeżcli Komisja nic otrzymała wyników głosowania ze wszystkich obwodów utworzonych na statkach lub za granicą, należy wykreślić wyraz „wszystkich” i w pkt 9 wymienić obwody, z których nie otrzymano protokołów, podając ewentualną przyczynę. Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. W razie zgłoszenia zarzutów tnężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu."
+      },
+      {
+       "type": "text",
+       "text": "Symbol kontrolny systemu informatycznego i jego kod kreskowy"
+      }
+     ]
     }
    ]
   },
@@ -304,47 +318,57 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "4. Zarzuty mężów zaufania:"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zarzuty mężów zaufania:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przy sporządzaniu protokołu obecni byli Wyborczej:"
+      },
+      {
+       "type": "text",
+       "text": "członkowie Państwowej Komisji"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć Państwowej Komisji Wyborczej)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załączniki do protokołu: 1.",
+   "body": [
+    {
+     "type": "text",
+     "text": "„Zestawienie zbiorczych wyników głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Przy sporządzaniu protokołu obecni byli Wyborczej:"
+     "type": "text",
+     "text": "LJ)",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "członkowie Państwowej Komisji"
+     "type": "text",
+     "text": "„Zestawienie zbiorczych wyników głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej w dniu",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "(pieczęć Państwowej Komisji Wyborczej)"
+     "type": "text",
+     "text": "\"”",
+     "quoted": true
     },
     {
-     "type": "ocr",
-     "text": "Załączniki do protokołu: 1."
-    },
-    {
-     "type": "ocr",
-     "text": "„Zestawienie zbiorczych wyników głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu"
-    },
-    {
-     "type": "ocr",
-     "text": "LJ)"
-    },
-    {
-     "type": "ocr",
-     "text": "„Zestawienie zbiorczych wyników głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej w dniu"
-    },
-    {
-     "type": "ocr",
-     "text": "\"”"
-    },
-    {
-     "type": "ocr",
-     "text": "\"W ponownym głosowaniu wpisać wyraz „PONOWNE”."
+     "type": "text",
+     "text": "\"W ponownym głosowaniu wpisać wyraz „PONOWNE”.",
+     "quoted": true
     }
    ]
   },
@@ -353,7 +377,7 @@
    "body": [
     {
      "type": "text",
-     "text": "ZESTAWIENIE ZBIORCZYCH WYNIKÓW GŁOSOWANIA W WYBORACH PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ W DNIU .......................................................... Monitor Polski Nr 30 — 1099 — Poz. 404"
+     "text": "ZESTAWIENIE ZBIORCZYCH WYNIKÓW GŁOSOWANIA W WYBORACH PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ W DNIU .........................................................."
     },
     {
      "type": "note",
@@ -390,7 +414,7 @@
    "body": [
     {
      "type": "text",
-     "text": "ZESTAWIENIE ZBIORCZYCH WYNIKÓW GŁOSOWANIA NA KANDYDATÓW NA PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ W DNIU .................................................... Monitor Polski Nr 30 — 1101 — Poz. 404"
+     "text": "ZESTAWIENIE ZBIORCZYCH WYNIKÓW GŁOSOWANIA NA KANDYDATÓW NA PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ W DNIU ...................................................."
     },
     {
      "type": "note",

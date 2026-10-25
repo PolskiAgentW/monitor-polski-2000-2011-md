@@ -1,7 +1,7 @@
 {
  "eli": "MP/2005/941",
  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 3 listopada 2005 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 100 zł oraz terminu wprowadzenia ich do obiegu",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/941/text.pdf",
  "body": [
   {
@@ -79,7 +79,7 @@
     },
     {
      "type": "text",
-     "text": "Wizerunek orła ustalony dla godła Z lewej strony popiersie Stani- Rzeczypospolitej Polskiej, po bo- sława Augusta Poniatowskiego. kach orła oznaczenie roku emisji: Zprawej strony królewski mono- 100 zł 20-05, pod orłem napis: ZŁ 100 ZŁ, gram. W otoku napis na górze: gładki 8,0 21,0 Au 900/1000 4 200 w otoku napis: RZECZPOSPOLITA STANISŁAW AUGUST PONIA- POLSKA. Pod lewą łapą orła znak TOWSKI, na dole: 1764—1795. mennicy: MW. Monitor Polski Nr 67 — 2177 — Poz. 941"
+     "text": "Wizerunek orła ustalony dla godła Z lewej strony popiersie Stani- Rzeczypospolitej Polskiej, po bo- sława Augusta Poniatowskiego. kach orła oznaczenie roku emisji: Zprawej strony królewski mono- 100 zł 20-05, pod orłem napis: ZŁ 100 ZŁ, gram. W otoku napis na górze: gładki 8,0 21,0 Au 900/1000 4 200 w otoku napis: RZECZPOSPOLITA STANISŁAW AUGUST PONIA- POLSKA. Pod lewą łapą orła znak TOWSKI, na dole: 1764—1795. mennicy: MW."
     }
    ]
   },
@@ -96,7 +96,11 @@
     },
     {
      "type": "text",
-     "text": "W centralnej części wizerunek orła Stylizowany wizerunek bazyliki Na boku ośmioustalony dla godła Rzeczypospolitej katedralnej p.w. Wniebowzięcia krotnie powtó- Polskiej. Z prawej strony napis: NMP we Włocławku, od strony rzony napis: 2 ZŁ. Ugóry półkolem napis: RZECZ- południowo-wschodniej. U góry NBP, co drugi POSPOLITA POLSKA oraz oznacze- napis: WŁOCŁAWEK. odwrócony 2 zł nie roku emisji: 2005. Poniżej orła o 180 stopni, 8,15 27,0 CuAl5Zn5Sn1 1 100 000 stylizowany fragment muru miej- rozdzielony skiego z blankami oraz z bramą gwiazdkami o rozwartych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 67 — 2178 — Poz. 941 — 2179 —"
+     "text": "W centralnej części wizerunek orła Stylizowany wizerunek bazyliki Na boku ośmioustalony dla godła Rzeczypospolitej katedralnej p.w. Wniebowzięcia krotnie powtó- Polskiej. Z prawej strony napis: NMP we Włocławku, od strony rzony napis: 2 ZŁ. Ugóry półkolem napis: RZECZ- południowo-wschodniej. U góry NBP, co drugi POSPOLITA POLSKA oraz oznacze- napis: WŁOCŁAWEK. odwrócony 2 zł nie roku emisji: 2005. Poniżej orła o 180 stopni, 8,15 27,0 CuAl5Zn5Sn1 1 100 000 stylizowany fragment muru miej- rozdzielony skiego z blankami oraz z bramą gwiazdkami o rozwartych wrotach, z uniesioną kratą w prześwicie. Pod lewą łapą orła znak mennicy: MW."
+    },
+    {
+     "type": "text",
+     "text": "— 2179 —"
     },
     {
      "type": "note",

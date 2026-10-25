@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/182",
  "title": "Obwieszczenie Prezesa Polskiego Komitetu Normalizacyjnego z dnia 13 stycznia 2011 r. w sprawie wykazu norm zharmonizowanych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/182/text.pdf",
  "body": [
   {
@@ -91,21 +91,21 @@
    "type": "pkt",
    "num": "10",
    "path": "pkt_10",
-   "text": "d yrektywa 93/15/EWG wdrożona ustawą z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.[^3]) — wykaz stanowi załącznik nr 10 do obwieszczenia;",
+   "text": "dyrektywa 93/15/EWG wdrożona ustawą z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.[^3]) — wykaz stanowi załącznik nr 10 do obwieszczenia;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "11",
    "path": "pkt_11",
-   "text": "d yrektywa 93/42/EWG[^4] wdrożona ustawą z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679) — wykaz stanowi załącznik nr 11 do obwieszczenia;",
+   "text": "dyrektywa 93/42/EWG[^4] wdrożona ustawą z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679) — wykaz stanowi załącznik nr 11 do obwieszczenia;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "12",
    "path": "pkt_12",
-   "text": "d yrektywa 94/9/WE wdrożona rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. Nr 263, poz. 2203) — wykaz stanowi załącznik nr 12 do obwieszczenia;",
+   "text": "dyrektywa 94/9/WE wdrożona rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. Nr 263, poz. 2203) — wykaz stanowi załącznik nr 12 do obwieszczenia;",
    "children": []
   },
   {
@@ -119,7 +119,7 @@
    "type": "pkt",
    "num": "14",
    "path": "pkt_14",
-   "text": "d yrektywa 95/16/WE wdrożona rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. Nr 263 poz. 2198 oraz z 2008 r. Nr 203, poz. 1270) — wykaz stanowi załącznik nr 14 do obwieszczenia;",
+   "text": "dyrektywa 95/16/WE wdrożona rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. Nr 263 poz. 2198 oraz z 2008 r. Nr 203, poz. 1270) — wykaz stanowi załącznik nr 14 do obwieszczenia;",
    "children": []
   },
   {
@@ -206,7 +206,7 @@
    "type": "pkt",
    "num": "25",
    "path": "pkt_25",
-   "text": "d yrektywa 86/594/EWG, która wdrożona była rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 16 czerwca 2003 r. w sprawie szczegółowych wymagań dla zmechanizowanego sprzętu gospodarstwa domowego w zakresie poziomu hałasu emitowanego przez ten sprzęt (Dz. U. Nr 132, poz. 1228) — wykaz stanowi załącznik nr 25 do obwieszczenia;",
+   "text": "dyrektywa 86/594/EWG, która wdrożona była rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 16 czerwca 2003 r. w sprawie szczegółowych wymagań dla zmechanizowanego sprzętu gospodarstwa domowego w zakresie poziomu hałasu emitowanego przez ten sprzęt (Dz. U. Nr 132, poz. 1228) — wykaz stanowi załącznik nr 25 do obwieszczenia;",
    "children": []
   },
   {
@@ -234,7 +234,7 @@
    "type": "pkt",
    "num": "29",
    "path": "pkt_29",
-   "text": "d yrektywa 92/75/EWG wdrożona rozporządzeniem Ministra Gospodarki i Pracy z dnia 20 maja 2005 r. w sprawie wymagań dotyczących dokumentacji technicznej, stosowania etykiet i charakterystyk technicznych oraz wzorów etykiet dla urządzeń (Dz. U. Nr 98, poz. 825) — wykaz stanowi załącznik nr 29 do obwieszczenia.",
+   "text": "dyrektywa 92/75/EWG wdrożona rozporządzeniem Ministra Gospodarki i Pracy z dnia 20 maja 2005 r. w sprawie wymagań dotyczących dokumentacji technicznej, stosowania etykiet i charakterystyk technicznych oraz wzorów etykiet dla urządzeń (Dz. U. Nr 98, poz. 825) — wykaz stanowi załącznik nr 29 do obwieszczenia.",
    "children": [
     {
      "type": "text",
@@ -529,7 +529,7 @@
    "type": "ust",
    "num": "23",
    "path": "ust_23",
-   "text": "PN-EN 50117-1:2003/A1:2007 Kable wspó osiowe -- Cz 1: Wymagania ogólne (oryg.) EN 50117-1:2002/A1:2006 Uwaga 3 Termin min Monitor Polski Nr 17 — 459 — Poz. 182",
+   "text": "PN-EN 50117-1:2003/A1:2007 Kable wspó osiowe -- Cz 1: Wymagania ogólne (oryg.) EN 50117-1:2002/A1:2006 Uwaga 3 Termin min",
    "children": [
     {
      "type": "note",
@@ -6852,7 +6852,7 @@
     },
     {
      "type": "text",
-     "text": "Przewody o izolacji mineralnej i ich ko cówki na napi cie HD 586.2 S1:1994 538. PN-EN 60702-2:2002 znamionowe nieprzekraczaj ce 750 V -- Cz 2: Ko cówki EN 60702-2:2002 Termin min Uwaga 2.1 (01.03.2005) (oryg.) Monitor Polski Nr 17 — 522 — Poz. 182"
+     "text": "Przewody o izolacji mineralnej i ich ko cówki na napi cie HD 586.2 S1:1994 538. PN-EN 60702-2:2002 znamionowe nieprzekraczaj ce 750 V -- Cz 2: Ko cówki EN 60702-2:2002 Termin min Uwaga 2.1 (01.03.2005) (oryg.)"
     },
     {
      "type": "note",
@@ -7048,7 +7048,7 @@
     },
     {
      "type": "text",
-     "text": "Automatyczne regulatory elektryczne do u ytku domowego EN 60730-2-10:1995 564. PN-EN 60730-2-10:2010 i podobnego -- Cz 2-10: Wymagania szczegó owe EN 60730-2-10:2007 ze zmianami 01.09.2010 dotycz ce przeka ników rozruchowych silnika Uwaga 2.1 Monitor Polski Nr 17 — 526 — Poz. 182"
+     "text": "Automatyczne regulatory elektryczne do u ytku domowego EN 60730-2-10:1995 564. PN-EN 60730-2-10:2010 i podobnego -- Cz 2-10: Wymagania szczegó owe EN 60730-2-10:2007 ze zmianami 01.09.2010 dotycz ce przeka ników rozruchowych silnika Uwaga 2.1"
     },
     {
      "type": "note",
@@ -8587,7 +8587,7 @@
    "children": [
     {
      "type": "text",
-     "text": "Urz dzenia do lamp -- Cz 2-4: Wymagania szczegó owe EN 60924:1991 772. PN-EN 61347-2-4:2007 dotycz ce stateczników elektronicznych zasilanych pr dem EN 61347-2-4:2001 + A1:1994 Termin min sta ym, do o wietlenia ogólnego Uwaga 2.1 Monitor Polski Nr 17 — 549 — Poz. 182"
+     "text": "Urz dzenia do lamp -- Cz 2-4: Wymagania szczegó owe EN 60924:1991 772. PN-EN 61347-2-4:2007 dotycz ce stateczników elektronicznych zasilanych pr dem EN 61347-2-4:2001 + A1:1994 Termin min sta ym, do o wietlenia ogólnego Uwaga 2.1"
     },
     {
      "type": "note",
@@ -9231,7 +9231,7 @@
     },
     {
      "type": "text",
-     "text": "EN 61558-1:1997 EN 60742:1995 Termin min Uwaga 2.3 (01.12.2005) 816. PN-EN 61558-1:2000 Bezpiecze stwo transformatorów mocy, jednostek zasilaj cych i podobnych -- Ogólne wymagania i badania EN 61558-1:1997/A1:1998 Uwaga 3 Termin min Monitor Polski Nr 17 — 555 — Poz. 182"
+     "text": "EN 61558-1:1997 EN 60742:1995 Termin min Uwaga 2.3 (01.12.2005) 816. PN-EN 61558-1:2000 Bezpiecze stwo transformatorów mocy, jednostek zasilaj cych i podobnych -- Ogólne wymagania i badania EN 61558-1:1997/A1:1998 Uwaga 3 Termin min"
     },
     {
      "type": "note",
@@ -9487,7 +9487,7 @@
     },
     {
      "type": "text",
-     "text": "Bezpiecze stwo transformatorów mocy, jednostek EN 60742:1995 834. PN-EN 61558-2-8:2001 zasilaj cych i podobnych -- Szczegó owe wymagania EN 61558-2-8:1998 Termin min Uwaga 2.1 (01.07.2001) dotycz ce transformatorów do dzwonków i gongów Monitor Polski Nr 17 — 557 — Poz. 182"
+     "text": "Bezpiecze stwo transformatorów mocy, jednostek EN 60742:1995 834. PN-EN 61558-2-8:2001 zasilaj cych i podobnych -- Szczegó owe wymagania EN 61558-2-8:1998 Termin min Uwaga 2.1 (01.07.2001) dotycz ce transformatorów do dzwonków i gongów"
     },
     {
      "type": "note",
@@ -10607,7 +10607,7 @@
    "type": "ust",
    "num": "935",
    "path": "ust_935",
-   "text": "PN-HD 627 S1:2002/A2:2006 Kable wielo y owe i wieloparowe przeznaczone do uk adania HD 627 S1:1996/A2:2005 Uwaga 3 Termin min w ziemi i na powietrzu (oryg.) (01.06.2008) Monitor Polski Nr 17 — 568 — Poz. 182",
+   "text": "PN-HD 627 S1:2002/A2:2006 Kable wielo y owe i wieloparowe przeznaczone do uk adania HD 627 S1:1996/A2:2005 Uwaga 3 Termin min w ziemi i na powietrzu (oryg.) (01.06.2008)",
    "children": [
     {
      "type": "note",
@@ -10691,7 +10691,7 @@
     },
     {
      "type": "text",
-     "text": "* (oryg.) — Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 570 — Poz. 182"
+     "text": "* (oryg.) — Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
     },
     {
      "type": "note",
@@ -10827,7 +10827,7 @@
     },
     {
      "type": "text",
-     "text": "*( oryg.) — Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 573 — Poz. 182"
+     "text": "*( oryg.) — Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
     }
    ]
   }
@@ -10891,7 +10891,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Bezpiecze stwo zabawek -- Cz 4: Zestawy do EN 71-4:1990 Termin min 6. PN-EN 71-4:2009 wykonywania do wiadcze chemicznych i podobnych EN 71-4:2009 10.08.2010 Uwaga 2.1 (10.08.2010) (oryg.) Monitor Polski Nr 17 — 574 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Bezpiecze stwo zabawek -- Cz 4: Zestawy do EN 71-4:1990 Termin min 6. PN-EN 71-4:2009 wykonywania do wiadcze chemicznych i podobnych EN 71-4:2009 10.08.2010 Uwaga 2.1 (10.08.2010) (oryg.) 1 2 3 4 5 6 7"
       }
      ]
     },
@@ -10939,7 +10939,7 @@
       },
       {
        "type": "text",
-       "text": "* ( oryg.) — Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 575 — Poz. 182"
+       "text": "* ( oryg.) — Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -11014,7 +11014,7 @@
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "PN-EN 54-2:2002/A1:2007 EN 54-2:1997/A1:2006 Uwaga 3 01.01.2008 01.08.2009 Monitor Polski Nr 17 — 576 — Poz. 182",
+     "text": "PN-EN 54-2:2002/A1:2007 EN 54-2:1997/A1:2006 Uwaga 3 01.01.2008 01.08.2009",
      "children": [
       {
        "type": "note",
@@ -12249,7 +12249,7 @@
      "type": "ust",
      "num": "165",
      "path": "ust_165",
-     "text": "PN-EN 1916:2005 EN 1916:2002 01.08.2003 23.11.2004 Rury i kszta tki z betonu niezbrojonego, betonu zbrojnego w óknem stalowym i elbetowe 166. PN-EN 1916:2005/AC:2009 EN 1916:2002/AC:2008 01.01.2009 01.01.2009 Monitor Polski Nr 17 — 589 — Poz. 182",
+     "text": "PN-EN 1916:2005 EN 1916:2002 01.08.2003 23.11.2004 Rury i kszta tki z betonu niezbrojonego, betonu zbrojnego w óknem stalowym i elbetowe 166. PN-EN 1916:2005/AC:2009 EN 1916:2002/AC:2008 01.01.2009 01.01.2009",
      "children": [
       {
        "type": "note",
@@ -12913,7 +12913,7 @@
      "children": [
       {
        "type": "text",
-       "text": "EN 12467:2004/A2:2006 Uwaga 3 01.07.2007 01.07.2008 Monitor Polski Nr 17 — 595 — Poz. 182"
+       "text": "EN 12467:2004/A2:2006 Uwaga 3 01.07.2007 01.07.2008"
       },
       {
        "type": "note",
@@ -13302,7 +13302,7 @@
      "type": "ust",
      "num": "296",
      "path": "ust_296",
-     "text": "PN-EN 13169:2009 Wyroby do izolacji cieplnej w budownictwie -- Wyroby EN 13169:2008 EN 13169: 01.09.2009 01.09.2010 z ekspandowanego perlitu (EPB) produkowane fabrycznie 2001 Monitor Polski Nr 17 — 600 — Poz. 182",
+     "text": "PN-EN 13169:2009 Wyroby do izolacji cieplnej w budownictwie -- Wyroby EN 13169:2008 EN 13169: 01.09.2009 01.09.2010 z ekspandowanego perlitu (EPB) produkowane fabrycznie 2001",
      "children": [
       {
        "type": "note",
@@ -13592,7 +13592,7 @@
      "type": "ust",
      "num": "350",
      "path": "ust_350",
-     "text": "PN-EN 13491:2006 Bariery geosyntetyczne -- W a ciwo ci wymagane EN 13491:2004 01.09.2005 01.09.2006 w odniesieniu do wyrobów stosowanych jako bariery nieprzepuszczalne dla p ynów do budowy tunelów 351. PN-EN 13491:2006/A1:2007 i budowli podziemnych EN 13491:2004/A1:2006 Uwaga 3 01.06.2007 01.06.2008 Monitor Polski Nr 17 — 604 — Poz. 182",
+     "text": "PN-EN 13491:2006 Bariery geosyntetyczne -- W a ciwo ci wymagane EN 13491:2004 01.09.2005 01.09.2006 w odniesieniu do wyrobów stosowanych jako bariery nieprzepuszczalne dla p ynów do budowy tunelów 351. PN-EN 13491:2006/A1:2007 i budowli podziemnych EN 13491:2004/A1:2006 Uwaga 3 01.06.2007 01.06.2008",
      "children": [
       {
        "type": "note",
@@ -13878,7 +13878,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Wyroby do izolacji cieplnej w budownictwie -- Wyroby 401. PN-EN 14064-1:2010 z we ny mineralnej (MW) w postaci niezwi zanej EN 14064-1:2010 01.12.2010 01.12.2011 formowane in situ -- Cz 1: Specyfikacja wyrobów przed zastosowaniem – w postaci niezwi zanej (oryg.) Monitor Polski Nr 17 — 608 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Wyroby do izolacji cieplnej w budownictwie -- Wyroby 401. PN-EN 14064-1:2010 z we ny mineralnej (MW) w postaci niezwi zanej EN 14064-1:2010 01.12.2010 01.12.2011 formowane in situ -- Cz 1: Specyfikacja wyrobów przed zastosowaniem – w postaci niezwi zanej (oryg.) 1 2 3 4 5 6 7"
       }
      ]
     },
@@ -13943,7 +13943,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Cement -- Sk ad, wymagania i kryteria zgodno ci 412. PN-EN 14216:2005 dotycz ce cementów specjalnych o bardzo niskim cieple EN 14216:2004 01.02.2005 01.02.2006 hydratacji Monitor Polski Nr 17 — 609 — Poz. 182"
+       "text": "Cement -- Sk ad, wymagania i kryteria zgodno ci 412. PN-EN 14216:2005 dotycz ce cementów specjalnych o bardzo niskim cieple EN 14216:2004 01.02.2005 01.02.2006 hydratacji"
       },
       {
        "type": "note",
@@ -14250,7 +14250,7 @@
      "type": "ust",
      "num": "430",
      "path": "ust_430",
-     "text": "PN-EN 14342+A1:2009 Pod ogi drewniane -- W a ciwo ci, ocena zgodno ci EN 14342:2005+A1:2008 EN 14342: 01.03.2009 01.03.2010 i oznakowanie 2005 Monitor Polski Nr 17 — 611 — Poz. 182",
+     "text": "PN-EN 14342+A1:2009 Pod ogi drewniane -- W a ciwo ci, ocena zgodno ci EN 14342:2005+A1:2008 EN 14342: 01.03.2009 01.03.2010 i oznakowanie 2005",
      "children": [
       {
        "type": "note",
@@ -14409,7 +14409,7 @@
      "type": "ust",
      "num": "455",
      "path": "ust_455",
-     "text": "PN-EN 14688:2009 Urz dzenia sanitarne -- Umywalki -- Wymagania EN 14688:2006 01.01.2008 01.01.2009 funkcjonalne i metody bada Monitor Polski Nr 17 — 613 — Poz. 182",
+     "text": "PN-EN 14688:2009 Urz dzenia sanitarne -- Umywalki -- Wymagania EN 14688:2006 01.01.2008 01.01.2009 funkcjonalne i metody bada",
      "children": [
       {
        "type": "note",
@@ -14873,7 +14873,7 @@
       },
       {
        "type": "text",
-       "text": "Bariery geosyntetyczne -- W a ciwo ci wymagane 499. PN-EN 15382:2010 w odniesieniu do wyrobów stosowanych w infrastrukturze EN 15382:2008 01.01.2010 01.01.2011 transportu Monitor Polski Nr 17 — 617 — Poz. 182"
+       "text": "Bariery geosyntetyczne -- W a ciwo ci wymagane 499. PN-EN 15382:2010 w odniesieniu do wyrobów stosowanych w infrastrukturze EN 15382:2008 01.01.2010 01.01.2011 transportu"
       },
       {
        "type": "note",
@@ -15047,7 +15047,7 @@
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "PN-EN 12895:2003 Wózki jezdniowe – Kompatybilno elektromagnetyczna EN 12895:2000 Monitor Polski Nr 17 — 619 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 12895:2003 Wózki jezdniowe – Kompatybilno elektromagnetyczna EN 12895:2000 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -15085,7 +15085,7 @@
       },
       {
        "type": "text",
-       "text": "Odpowiednia(e) Termin min Transmisja sygna ów w sieciach elektrycznych niskiego napi cia EN 50065-2-2:2003 norma(y) ogólna(e) (01.10.2004) 16. PN-EN 50065-2-2:2005 w zakresie cz stotliwo ci od 3 kHz do 148,5 kHz – Cz 2-2: Uwaga 2.3 Wymagania dotycz ce odporno ci urz dze i systemów komunikacyjnych pracuj cych w zakresie cz stotliwo ci od 95 kHz EN 50065-2-2/AC:2003 do 148,5 kHz, stosowanych w sieciach zasilaj cych i przeznaczonych do wykorzystania w rodowisku przemys owym 17. PN-EN 50065-2-2:2005/A1:2006 EN 50065-2-2:2003/A1:2005 Uwaga 3 Termin min (01.07.2008) Monitor Polski Nr 17 — 620 — Poz. 182 1 2 3 4 5 6"
+       "text": "Odpowiednia(e) Termin min Transmisja sygna ów w sieciach elektrycznych niskiego napi cia EN 50065-2-2:2003 norma(y) ogólna(e) (01.10.2004) 16. PN-EN 50065-2-2:2005 w zakresie cz stotliwo ci od 3 kHz do 148,5 kHz – Cz 2-2: Uwaga 2.3 Wymagania dotycz ce odporno ci urz dze i systemów komunikacyjnych pracuj cych w zakresie cz stotliwo ci od 95 kHz EN 50065-2-2/AC:2003 do 148,5 kHz, stosowanych w sieciach zasilaj cych i przeznaczonych do wykorzystania w rodowisku przemys owym 17. PN-EN 50065-2-2:2005/A1:2006 EN 50065-2-2:2003/A1:2005 Uwaga 3 Termin min (01.07.2008) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -15125,7 +15125,7 @@
       },
       {
        "type": "text",
-       "text": "Zastosowania kolejowe – Kompatybilno elektromagnetyczna – Odpowiednia(e) Termin min 26. PN-EN 50121-3-1:2010 Cz 3-1: Tabor – Poci g i kompletny pojazd EN 50121-3-1:2006 norma(y) ogólna(e) (01.07.2009) Uwaga 2.3 Monitor Polski Nr 17 — 621 — Poz. 182"
+       "text": "Zastosowania kolejowe – Kompatybilno elektromagnetyczna – Odpowiednia(e) Termin min 26. PN-EN 50121-3-1:2010 Cz 3-1: Tabor – Poci g i kompletny pojazd EN 50121-3-1:2006 norma(y) ogólna(e) (01.07.2009) Uwaga 2.3"
       },
       {
        "type": "note",
@@ -15233,7 +15233,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna (EMC) -- Norma grupy Odpowiednia(e) Termin min 43. PN-EN 50370-2:2005 wyrobów – obrabiarki – Cz 2: Odporno EN 50370-2:2003 norma(y) ogólna(e) (01.11.2005) Uwaga 2.3 Monitor Polski Nr 17 — 623 — Poz. 182"
+       "text": "Kompatybilno elektromagnetyczna (EMC) -- Norma grupy Odpowiednia(e) Termin min 43. PN-EN 50370-2:2005 wyrobów – obrabiarki – Cz 2: Odporno EN 50370-2:2003 norma(y) ogólna(e) (01.11.2005) Uwaga 2.3"
       },
       {
        "type": "note",
@@ -15413,7 +15413,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna -- Wymagania dotycz ce 63. PN-EN 55014-1:2007/A1:2010 przyrz dów powszechnego u ytku, narz dzi elektrycznych EN 55014-1:2006/A1:2009 Uwaga 3 01.05.2012 i podobnych urz dze -- Cz 1: Emisja (oryg.) Monitor Polski Nr 17 — 626 — Poz. 182 1 2 3 4 5 6"
+       "text": "Kompatybilno elektromagnetyczna -- Wymagania dotycz ce 63. PN-EN 55014-1:2007/A1:2010 przyrz dów powszechnego u ytku, narz dzi elektrycznych EN 55014-1:2006/A1:2009 Uwaga 3 01.05.2012 i podobnych urz dze -- Cz 1: Emisja (oryg.) 1 2 3 4 5 6"
       }
      ]
     },
@@ -15460,7 +15460,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Ka da z nast puj cych czterech norm zawiera domniemanie zgodno ci do dnia 01.10.2011 r.: EN 55022:1998, EN 55022:1998+A1:2000, EN 55022:1998+A2:2003, EN 55022:1998 +A1:2000+A2:2003. Monitor Polski Nr 17 — 627 — Poz. 182"
+       "text": "Ka da z nast puj cych czterech norm zawiera domniemanie zgodno ci do dnia 01.10.2011 r.: EN 55022:1998, EN 55022:1998+A1:2000, EN 55022:1998+A2:2003, EN 55022:1998 +A1:2000+A2:2003."
       },
       {
        "type": "note",
@@ -15652,7 +15652,7 @@
       },
       {
        "type": "text",
-       "text": "EN 60730-2-8:2002/A1:2003 Uwaga 3 Termin min (01.12.2008) Monitor Polski Nr 17 — 630 — Poz. 182 1 2 3 4 5 6"
+       "text": "EN 60730-2-8:2002/A1:2003 Uwaga 3 Termin min (01.12.2008) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -15687,7 +15687,7 @@
       },
       {
        "type": "text",
-       "text": "EN 60730-1:1995 Termin min EN 60730-2-14:1997 ze zmianami (01.06.2004) Automatyczne regulatory elektryczne do u ytku domowego Uwaga 2.3 104. PN-EN 60730-2-14:2004 i podobnego – Cz 2-14: Wymagania szczegó owe dotycz ce si owników elektrycznych EN 60730-2-14:1997/A1:2001 Uwaga 3 Termin min (01.07.2008) Monitor Polski Nr 17 — 631 — Poz. 182"
+       "text": "EN 60730-1:1995 Termin min EN 60730-2-14:1997 ze zmianami (01.06.2004) Automatyczne regulatory elektryczne do u ytku domowego Uwaga 2.3 104. PN-EN 60730-2-14:2004 i podobnego – Cz 2-14: Wymagania szczegó owe dotycz ce si owników elektrycznych EN 60730-2-14:1997/A1:2001 Uwaga 3 Termin min (01.07.2008)"
       },
       {
        "type": "note",
@@ -15811,7 +15811,7 @@
      "type": "ust",
      "num": "121",
      "path": "ust_121",
-     "text": "PN-EN 60947-4-3:2002/A1:2008 EN 60947-4-3:2000/A1:2006 Uwaga 3 Termin min (01.11.2009) Monitor Polski Nr 17 — 633 — Poz. 182",
+     "text": "PN-EN 60947-4-3:2002/A1:2008 EN 60947-4-3:2000/A1:2006 Uwaga 3 Termin min (01.11.2009)",
      "children": [
       {
        "type": "note",
@@ -16003,7 +16003,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna (EMC) -– Cz 3-3: EN 61000-3-3: Dopuszczalne poziomy -- Ograniczanie zmian napi cia, waha 1995 146. PN-EN 61000-3-3:2009 napi cia i migotania wiat a w sieciach zasilaj cych niskiego EN 61000-3-3:2008 ze zmianami 01.09.2011 napi cia, powodowanych przez odbiorniki o pr dzie znamionowym Uwaga 2.1 < lub = 16 A przy czanych bezwarunkowo (oryg.) Monitor Polski Nr 17 — 636 — Poz. 182"
+       "text": "Kompatybilno elektromagnetyczna (EMC) -– Cz 3-3: EN 61000-3-3: Dopuszczalne poziomy -- Ograniczanie zmian napi cia, waha 1995 146. PN-EN 61000-3-3:2009 napi cia i migotania wiat a w sieciach zasilaj cych niskiego EN 61000-3-3:2008 ze zmianami 01.09.2011 napi cia, powodowanych przez odbiorniki o pr dzie znamionowym Uwaga 2.1 < lub = 16 A przy czanych bezwarunkowo (oryg.)"
       },
       {
        "type": "note",
@@ -16334,7 +16334,7 @@
       },
       {
        "type": "text",
-       "text": "Urz dzenia do pomiarów energii elektrycznej (pr du EN 61036:1996 Termin min 188. PN-EN 62053-21:2006 przemiennego) -- Wymagania szczegó owe – Cz 21: Liczniki EN 62053-21:2003 + A1:2000 (01.03.2006) statyczne energii czynnej (klas 1 i 2) Uwaga 2.1 Monitor Polski Nr 17 — 642 — Poz. 182"
+       "text": "Urz dzenia do pomiarów energii elektrycznej (pr du EN 61036:1996 Termin min 188. PN-EN 62053-21:2006 przemiennego) -- Wymagania szczegó owe – Cz 21: Liczniki EN 62053-21:2003 + A1:2000 (01.03.2006) statyczne energii czynnej (klas 1 i 2) Uwaga 2.1"
       },
       {
        "type": "note",
@@ -17170,7 +17170,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Urz dzenia przemys owe do procesów cieplnych -- 60. PN-EN 746-1+A1:2009 Cz 1: Ogólne wymagania bezpiecze stwa dotycz ce EN 746-1:1997+A1:2009 18.12.2009 urz dze przemys owych do procesów cieplnych (oryg.) Monitor Polski Nr 17 — 650 — Poz. 182"
+       "text": "Urz dzenia przemys owe do procesów cieplnych -- 60. PN-EN 746-1+A1:2009 Cz 1: Ogólne wymagania bezpiecze stwa dotycz ce EN 746-1:1997+A1:2009 18.12.2009 urz dze przemys owych do procesów cieplnych (oryg.)"
       },
       {
        "type": "note",
@@ -17695,7 +17695,7 @@
       },
       {
        "type": "text",
-       "text": "Bezpiecze stwo maszyn -- Wymagania ergonomiczne 97. PN-EN 894-3+A1:2010 dotycz ce projektowania wska ników i elementów EN 894-3:2000+A1:2008 08.09.2009 sterowniczych -- Cz 3: Elementy sterownicze Monitor Polski Nr 17 — 654 — Poz. 182"
+       "text": "Bezpiecze stwo maszyn -- Wymagania ergonomiczne 97. PN-EN 894-3+A1:2010 dotycz ce projektowania wska ników i elementów EN 894-3:2000+A1:2008 08.09.2009 sterowniczych -- Cz 3: Elementy sterownicze"
       },
       {
        "type": "note",
@@ -18844,7 +18844,7 @@
      "type": "ust",
      "num": "160",
      "path": "ust_160",
-     "text": "PN-EN 1495+A2:2009 Podesty ruchome -- Podesty ruchome masztowe samo- EN 1495:1997+A2:2009 18.12.2009 wznosz ce (oryg.) Monitor Polski Nr 17 — 661 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN 1495+A2:2009 Podesty ruchome -- Podesty ruchome masztowe samo- EN 1495:1997+A2:2009 18.12.2009 wznosz ce (oryg.) 1 2 3 4 5 6 7",
      "children": []
     },
     {
@@ -18883,7 +18883,7 @@
      "type": "ust",
      "num": "167",
      "path": "ust_167",
-     "text": "PN-EN 1539:2009 Suszarki i piece, w których uwalniane s substancje EN 1539:2009 26.05.2010 palne -- Wymagania bezpiecze stwa (oryg.) Monitor Polski Nr 17 — 662 — Poz. 182",
+     "text": "PN-EN 1539:2009 Suszarki i piece, w których uwalniane s substancje EN 1539:2009 26.05.2010 palne -- Wymagania bezpiecze stwa (oryg.)",
      "children": [
       {
        "type": "note",
@@ -21245,7 +21245,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Bezpiecze stwo d wignic -- Ogólne zasady 322. PN-EN 13001-1+A1:2009 projektowania -- Cz 1: Postanowienia ogólne EN 13001-1:2004+A1:2009 08.09.2009 i wymagania (oryg.) Monitor Polski Nr 17 — 678 — Poz. 182"
+       "text": "Bezpiecze stwo d wignic -- Ogólne zasady 322. PN-EN 13001-1+A1:2009 projektowania -- Cz 1: Postanowienia ogólne EN 13001-1:2004+A1:2009 08.09.2009 i wymagania (oryg.)"
       },
       {
        "type": "note",
@@ -23594,7 +23594,7 @@
       },
       {
        "type": "text",
-       "text": "Wymagania bezpiecze stwa dotycz ce przemys owych 560. PN-EN ISO 10472-4:2008 maszyn pralniczych -- Cz 4: Suszarki powietrzne EN ISO 10472-4:2008 08.09.2009 (oryg.) Monitor Polski Nr 17 — 702 — Poz. 182"
+       "text": "Wymagania bezpiecze stwa dotycz ce przemys owych 560. PN-EN ISO 10472-4:2008 maszyn pralniczych -- Cz 4: Suszarki powietrzne EN ISO 10472-4:2008 08.09.2009 (oryg.)"
       },
       {
        "type": "note",
@@ -23774,7 +23774,7 @@
      "type": "ust",
      "num": "580",
      "path": "ust_580",
-     "text": "PN-EN ISO 11111-7:2005/A1:2009 Maszyny w ókiennicze – Wymagania bezpiecze stwa – EN ISO 11111-7:2005/ 18.12.2009 Uwaga 3 Termin min Cz 7: Maszyny wyko czalnicze (oryg.) A1:2009 (31.01.2010) Monitor Polski Nr 17 — 704 — Poz. 182",
+     "text": "PN-EN ISO 11111-7:2005/A1:2009 Maszyny w ókiennicze – Wymagania bezpiecze stwa – EN ISO 11111-7:2005/ 18.12.2009 Uwaga 3 Termin min Cz 7: Maszyny wyko czalnicze (oryg.) A1:2009 (31.01.2010)",
      "children": [
       {
        "type": "note",
@@ -24454,7 +24454,7 @@
      "type": "ust",
      "num": "617",
      "path": "ust_617",
-     "text": "PN-EN ISO 14121-1:2008 Bezpiecze stwo maszyn -- Ocena ryzyka -- Cz 1: EN ISO 14121-1:2007 08.09.2009 Zasady (oryg.) Monitor Polski Nr 17 — 708 — Poz. 182",
+     "text": "PN-EN ISO 14121-1:2008 Bezpiecze stwo maszyn -- Ocena ryzyka -- Cz 1: EN ISO 14121-1:2007 08.09.2009 Zasady (oryg.)",
      "children": [
       {
        "type": "note",
@@ -26200,7 +26200,7 @@
      "type": "ust",
      "num": "172",
      "path": "ust_172",
-     "text": "PN-EN 12941:2002 Sprz t ochrony uk adu oddechowego -- EN 12941:1998 04.06.1999 EN 146:1991 Termin min Oczyszczaj cy sprz t z wymuszonym przep ywem Uwaga 2.1 (04.06.1999) powietrza wyposa ony w he m lub kaptur -- Termin min 173. PN-EN 12941:2002/A1:2006 Wymagania, badanie, znakowanie EN 12941:1998/A1:2003 06.10.2005 Uwaga 3 (06.10.2005) Monitor Polski Nr 17 — 728 — Poz. 182",
+     "text": "PN-EN 12941:2002 Sprz t ochrony uk adu oddechowego -- EN 12941:1998 04.06.1999 EN 146:1991 Termin min Oczyszczaj cy sprz t z wymuszonym przep ywem Uwaga 2.1 (04.06.1999) powietrza wyposa ony w he m lub kaptur -- Termin min 173. PN-EN 12941:2002/A1:2006 Wymagania, badanie, znakowanie EN 12941:1998/A1:2003 06.10.2005 Uwaga 3 (06.10.2005)",
      "children": [
       {
        "type": "note",
@@ -26872,7 +26872,7 @@
       },
       {
        "type": "text",
-       "text": "Sprz t ochrony uk adu oddechowego -- Aparaty w owe spr onego powietrza z automatem EN 139:1994 Termin min 250. PN-EN 14593-2:2008 oddechowym -- Cz 2: Aparaty nadci nieniowe EN 14593-2:2005 06.10.2005 Uwaga 2.1 (02.12.2005) wyposa one w pó mask -- Wymagania, badanie, znakowanie Monitor Polski Nr 17 — 736 — Poz. 182"
+       "text": "Sprz t ochrony uk adu oddechowego -- Aparaty w owe spr onego powietrza z automatem EN 139:1994 Termin min 250. PN-EN 14593-2:2008 oddechowym -- Cz 2: Aparaty nadci nieniowe EN 14593-2:2005 06.10.2005 Uwaga 2.1 (02.12.2005) wyposa one w pó mask -- Wymagania, badanie, znakowanie"
       },
       {
        "type": "note",
@@ -28457,7 +28457,7 @@
       },
       {
        "type": "text",
-       "text": "Sterylizacja wyrobów medycznych -- Wymagania EN 556:1994 6. PN-EN 556-1:2002 dotycz ce wyrobów medycznych okre lanych, jako EN 556-1:2001 31.07.2002 + A1:1998 Termin min STERYLNE -- Cz 1: Wymagania dotycz ce Uwaga 2.1 (30.04.2002) finalnie sterylizowanych wyrobów medycznych Monitor Polski Nr 17 — 758 — Poz. 182"
+       "text": "Sterylizacja wyrobów medycznych -- Wymagania EN 556:1994 6. PN-EN 556-1:2002 dotycz ce wyrobów medycznych okre lanych, jako EN 556-1:2001 31.07.2002 + A1:1998 Termin min STERYLNE -- Cz 1: Wymagania dotycz ce Uwaga 2.1 (30.04.2002) finalnie sterylizowanych wyrobów medycznych"
       },
       {
        "type": "note",
@@ -28715,7 +28715,7 @@
      "children": [
       {
        "type": "text",
-       "text": "EN 13060:2004 44. PN-EN 13060+A2:2010 Ma e sterylizatory parowe (oryg.) EN 13060:2004+A2:2010 07.07.2010 + A1:2009 30.09.2010 Uwaga 2.1 Monitor Polski Nr 17 — 762 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "EN 13060:2004 44. PN-EN 13060+A2:2010 Ma e sterylizatory parowe (oryg.) EN 13060:2004+A2:2010 07.07.2010 + A1:2009 30.09.2010 Uwaga 2.1 1 2 3 4 5 6 7"
       }
      ]
     },
@@ -28757,7 +28757,7 @@
       },
       {
        "type": "text",
-       "text": "Chemiczne rodki dezynfekcyjne i antyseptyczne – Ilo ciowa zawiesinowa metoda okre lania 52. PN-EN 13727:2006 bakteriobójczego dzia ania chemicznych rodków EN 13727:2003 30.09.2005 przeznaczonych do dezynfekcji narz dzi stosowanych w obszarze medycznym -- Metoda badania i wymagania (faza 2, etap 1) Monitor Polski Nr 17 — 763 — Poz. 182"
+       "text": "Chemiczne rodki dezynfekcyjne i antyseptyczne – Ilo ciowa zawiesinowa metoda okre lania 52. PN-EN 13727:2006 bakteriobójczego dzia ania chemicznych rodków EN 13727:2003 30.09.2005 przeznaczonych do dezynfekcji narz dzi stosowanych w obszarze medycznym -- Metoda badania i wymagania (faza 2, etap 1)"
       },
       {
        "type": "note",
@@ -29473,7 +29473,7 @@
       },
       {
        "type": "text",
-       "text": "Medyczne urz dzenia elektryczne -- Cz 2-2: EN 60601-2-2: Termin min 91. PN-EN 60601-2-2:2007 Szczegó owe wymagania bezpiecze stwa urz dze EN 60601-2-2:2007 22.12.2007 2000 (01.10.2009) chirurgicznych wielkiej cz stotliwo ci (oryg.) Uwaga 2.1 Monitor Polski Nr 17 — 769 — Poz. 182"
+       "text": "Medyczne urz dzenia elektryczne -- Cz 2-2: EN 60601-2-2: Termin min 91. PN-EN 60601-2-2:2007 Szczegó owe wymagania bezpiecze stwa urz dze EN 60601-2-2:2007 22.12.2007 2000 (01.10.2009) chirurgicznych wielkiej cz stotliwo ci (oryg.) Uwaga 2.1"
       },
       {
        "type": "note",
@@ -31372,7 +31372,7 @@
     },
     {
      "type": "text",
-     "text": "Urz dzenia i podzespo y przeznaczone do 5. PN-EN 1710+A1:2010 stosowania w przestrzeniach zagro onych EN 1710:2005+A1:2008 20.08.2008 EN 1710:2005 Termin min wybuchem w podziemnych wyrobiskach zak adów Uwaga 2.1 (28.12.2009) górniczych Monitor Polski Nr 17 — 796 — Poz. 182 1 2 3 4 5 6 7"
+     "text": "Urz dzenia i podzespo y przeznaczone do 5. PN-EN 1710+A1:2010 stosowania w przestrzeniach zagro onych EN 1710:2005+A1:2008 20.08.2008 EN 1710:2005 Termin min wybuchem w podziemnych wyrobiskach zak adów Uwaga 2.1 (28.12.2009) górniczych 1 2 3 4 5 6 7"
     },
     {
      "type": "text",
@@ -31402,7 +31402,7 @@
       },
       {
        "type": "text",
-       "text": "Urz dzenia do dostarczania i cyrkulacji materia ów EN 12621:2006 12. PN-EN 12621+A1:2010 pow okowych pod ci nieniem -- Wymagania EN 12621:2006+A1:2010 17.09.2010 Uwaga 2.1 31.12.2010 bezpiecze stwa (oryg.) Monitor Polski Nr 17 — 797 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Urz dzenia do dostarczania i cyrkulacji materia ów EN 12621:2006 12. PN-EN 12621+A1:2010 pow okowych pod ci nieniem -- Wymagania EN 12621:2006+A1:2010 17.09.2010 Uwaga 2.1 31.12.2010 bezpiecze stwa (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -31446,7 +31446,7 @@
       },
       {
        "type": "text",
-       "text": "Urz dzenia nieelektryczne w przestrzeniach 22. PN-EN 13463-8:2005 zagro onych wybuchem -- Cz 8: Ochrona za EN 13463-8:2003 12.08.2004 pomoc os ony cieczowej \"k\" Monitor Polski Nr 17 — 798 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Urz dzenia nieelektryczne w przestrzeniach 22. PN-EN 13463-8:2005 zagro onych wybuchem -- Cz 8: Ochrona za EN 13463-8:2003 12.08.2004 pomoc os ony cieczowej \"k\" 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -31482,7 +31482,7 @@
       },
       {
        "type": "text",
-       "text": "Przestrzenie zagro one wybuchem -- 31. PN-EN 13821:2004 Zapobieganie wybuchowi i ochrona przed EN 13821:2002 20.05.2003 wybuchem -- Oznaczanie minimalnej energii zap onu mieszanin py owo-powietrznych Monitor Polski Nr 17 — 799 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Przestrzenie zagro one wybuchem -- 31. PN-EN 13821:2004 Zapobieganie wybuchowi i ochrona przed EN 13821:2002 20.05.2003 wybuchem -- Oznaczanie minimalnej energii zap onu mieszanin py owo-powietrznych 1 2 3 4 5 6 7"
       }
      ]
     },
@@ -31547,7 +31547,7 @@
       },
       {
        "type": "text",
-       "text": "D wignice -- Mechanicznie nap dzane wci garki EN 14492-2: Termin min 43. PN-EN 14492-2+A1:2010 i wci gniki -- Cz 2: Mechanicznie nap dzane EN 14492-2:2006+A1:2009 16.04.2010 2006 (16.04.2010) wci gniki Uwaga 2.1 Monitor Polski Nr 17 — 800 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "D wignice -- Mechanicznie nap dzane wci garki EN 14492-2: Termin min 43. PN-EN 14492-2+A1:2010 i wci gniki -- Cz 2: Mechanicznie nap dzane EN 14492-2:2006+A1:2009 16.04.2010 2006 (16.04.2010) wci gniki Uwaga 2.1 1 2 3 4 5 6 7"
       }
      ]
     },
@@ -31598,7 +31598,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Ta my przeno nikowe stosowane w wyrobiskach EN 14973:2006 53. PN-EN 14973+A1:2008 podziemnych -- Wymagania bezpiecze stwa EN 14973:2006+A1:2008 07.07.2010 Uwaga 2.1 31.12.2010 elektrycznego i po arowego (oryg.) Monitor Polski Nr 17 — 801 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Ta my przeno nikowe stosowane w wyrobiskach EN 14973:2006 53. PN-EN 14973+A1:2008 podziemnych -- Wymagania bezpiecze stwa EN 14973:2006+A1:2008 07.07.2010 Uwaga 2.1 31.12.2010 elektrycznego i po arowego (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -31659,7 +31659,7 @@
       },
       {
        "type": "text",
-       "text": "EN 50104:2002 12.08.2004 EN 50104:1998 Termin min Elektryczne przyrz dy do wykrywania i pomiaru Uwaga 2.1 (01.02.2005) 64. PN-EN 50104:2006 tlenu -- Wymagania eksploatacyjne i metody bada EN 50104:2002/A1:2004 12.08.2004 Uwaga 3 Termin min (01.08.2004) Monitor Polski Nr 17 — 802 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "EN 50104:2002 12.08.2004 EN 50104:1998 Termin min Elektryczne przyrz dy do wykrywania i pomiaru Uwaga 2.1 (01.02.2005) 64. PN-EN 50104:2006 tlenu -- Wymagania eksploatacyjne i metody bada EN 50104:2002/A1:2004 12.08.2004 Uwaga 3 Termin min (01.08.2004) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -31702,7 +31702,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Urz dzenia zabezpieczaj ce niezb dne do 73. PN-EN 50495:2010 bezpiecznego dzia ania urz dze ze wzgl du na EN 50495:2010 17.09.2010 zagro enie wybuchem (oryg.) Monitor Polski Nr 17 — 803 — Poz. 182 1 2 3 4 5 6 7 EN 60079-0: Atmosfery wybuchowe -- Cz 0: Sprz t -- 2006 74. PN-EN 60079-0:2009 Podstawowe wymagania (oryg.) EN 60079-0:2009 16.04.2010 + EN 61241-0: 01.06.2012 2006 Uwaga 2.1"
+       "text": "Urz dzenia zabezpieczaj ce niezb dne do 73. PN-EN 50495:2010 bezpiecznego dzia ania urz dze ze wzgl du na EN 50495:2010 17.09.2010 zagro enie wybuchem (oryg.) 1 2 3 4 5 6 7 EN 60079-0: Atmosfery wybuchowe -- Cz 0: Sprz t -- 2006 74. PN-EN 60079-0:2009 Podstawowe wymagania (oryg.) EN 60079-0:2009 16.04.2010 + EN 61241-0: 01.06.2012 2006 Uwaga 2.1"
       },
       {
        "type": "text",
@@ -31764,7 +31764,7 @@
       },
       {
        "type": "text",
-       "text": "Atmosfery wybuchowe -- Cz 20-1: W a ciwo ci 83. PN-EN 60079-20-1:2010 materia owe dotycz ce klasyfikacji gazów i par -- EN 60079-20-1:2010 17.09.2010 Metody bada i dane tabelaryczne (oryg.) Monitor Polski Nr 17 — 804 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Atmosfery wybuchowe -- Cz 20-1: W a ciwo ci 83. PN-EN 60079-20-1:2010 materia owe dotycz ce klasyfikacji gazów i par -- EN 60079-20-1:2010 17.09.2010 Metody bada i dane tabelaryczne (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -31804,7 +31804,7 @@
       },
       {
        "type": "text",
-       "text": "Urz dzenia elektryczne do stosowania 91. PN-EN 61241-4:2007 w obecno ci py u palnego -- Cz 4: Typ ochrony EN 61241-4:2006 20.08.2008 „pD” (oryg.) Monitor Polski Nr 17 — 805 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Urz dzenia elektryczne do stosowania 91. PN-EN 61241-4:2007 w obecno ci py u palnego -- Cz 4: Typ ochrony EN 61241-4:2006 20.08.2008 „pD” (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -31820,7 +31820,7 @@
       },
       {
        "type": "text",
-       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania zgodności mogą nie być tożsame. Uwaga 2.1: Z akres normy nowej (lub ze zmianami) jest taki sam jak normy zastąpionej. W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 3: W przypadku zmian normą zharmonizowaną jest dana EN wraz z jej wcześniejszymi zmianami, jeżeli istnieją, oraz nową podaną zmianą. Zatem norma zastąpiona (kolumna 6) obejmuje daną EN, lecz tylko z jej wcześniejszymi zmianami (bez zmiany nowej). W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Monitor Polski Nr 17 — 806 — Poz. 182"
+       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania zgodności mogą nie być tożsame. Uwaga 2.1: Z akres normy nowej (lub ze zmianami) jest taki sam jak normy zastąpionej. W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 3: W przypadku zmian normą zharmonizowaną jest dana EN wraz z jej wcześniejszymi zmianami, jeżeli istnieją, oraz nową podaną zmianą. Zatem norma zastąpiona (kolumna 6) obejmuje daną EN, lecz tylko z jej wcześniejszymi zmianami (bez zmiany nowej). W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy."
       }
      ]
     }
@@ -31883,7 +31883,7 @@
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "PN-EN 60092-507:2003 Instalacje elektryczne na statkach -- Cz 507: Statki EN 60092-507:2000 12.06.2003 rekreacyjne Monitor Polski Nr 17 — 807 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN 60092-507:2003 Instalacje elektryczne na statkach -- Cz 507: Statki EN 60092-507:2000 12.06.2003 rekreacyjne 1 2 3 4 5 6 7",
      "children": []
     },
     {
@@ -31958,7 +31958,7 @@
      "type": "ust",
      "num": "20",
      "path": "ust_20",
-     "text": "PN-EN ISO 9093-2:2005 Ma e statki -- Zawory burtowe i przej cia burtowe – EN ISO 9093-2:2002 03.04.2003 Cz 2: Niemetalowe Monitor Polski Nr 17 — 808 — Poz. 182 1 2 3 4 5 6 7 Ma e statki -- Ochrona przeciwpo arowa -- Cz 1:",
+     "text": "PN-EN ISO 9093-2:2005 Ma e statki -- Zawory burtowe i przej cia burtowe – EN ISO 9093-2:2002 03.04.2003 Cz 2: Niemetalowe 1 2 3 4 5 6 7 Ma e statki -- Ochrona przeciwpo arowa -- Cz 1:",
      "children": []
     },
     {
@@ -32038,7 +32038,7 @@
      "children": [
       {
        "type": "text",
-       "text": "3 Monitor Polski Nr 17 — 809 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "3 1 2 3 4 5 6 7"
       }
      ]
     },
@@ -32099,7 +32099,7 @@
      "type": "ust",
      "num": "44",
      "path": "ust_44",
-     "text": "PN-EN ISO 12215-6:2009 Ma e statki -- Konstrukcja i wymiarowanie kad uba – EN ISO 12215-6:2008 03.12.2008 Cz 6: Uk ad konstrukcji i szczegó y Monitor Polski Nr 17 — 810 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN ISO 12215-6:2009 Ma e statki -- Konstrukcja i wymiarowanie kad uba – EN ISO 12215-6:2008 03.12.2008 Cz 6: Uk ad konstrukcji i szczegó y 1 2 3 4 5 6 7",
      "children": []
     },
     {
@@ -32150,7 +32150,7 @@
      "type": "ust",
      "num": "54",
      "path": "ust_54",
-     "text": "PN-EN ISO 13929:2002 Ma e statki -- Urz dzenia sterowe -- Systemy czników EN ISO 13929:2001 06.03.2002 z batych Monitor Polski Nr 17 — 811 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN ISO 13929:2002 Ma e statki -- Urz dzenia sterowe -- Systemy czników EN ISO 13929:2001 06.03.2002 z batych 1 2 3 4 5 6 7",
      "children": [
       {
        "type": "text",
@@ -32215,7 +32215,7 @@
      "type": "ust",
      "num": "64",
      "path": "ust_64",
-     "text": "PN-EN ISO 15085:2005 Ma e statki -- Zapobieganie wypadni ciu cz owieka za EN ISO 15085:2003 30.10.2003 burt i umo liwienie powrotu Monitor Polski Nr 17 — 812 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN ISO 15085:2005 Ma e statki -- Zapobieganie wypadni ciu cz owieka za EN ISO 15085:2003 30.10.2003 burt i umo liwienie powrotu 1 2 3 4 5 6 7",
      "children": []
     },
     {
@@ -32249,7 +32249,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania zgodności mogą nie być tożsame. Uwaga 2.1: N owa (lub zmieniona) norma ma taki sam zakres jak norma zastąpiona. W określonym dniu ustaje domniemanie zgodności normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 2.3: Z akres nowej normy jest węższy od zakresu normy zastąpionej. W określonym dniu ustaje domniemanie zgodności normy zastąpionej (częściowo) z wymaganiami zasadniczymi dyrektywy w odniesieniu do produktów, które obejmuje zakres nowej normy. Domniemanie zgodności z wymaganiami dyrektywy w odniesieniu do produktów, które nadal obejmuje zakres normy zastąpionej (częściowo), a których nie obejmuje zakres nowej normy, pozostaje bez zmian. Uwaga 3: W przypadku zmian normą, do której dokonuje się odniesienia, jest EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, oraz nowa przytoczona zmiana. Zastąpiona norma (kolumna 6) składa się zatem z EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, ale nowa przytoczona zmiana nie wchodzi w jej skład. W określonym dniu ustaje domniemanie zgodności normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Monitor Polski Nr 17 — 813 — Poz. 182"
+       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania zgodności mogą nie być tożsame. Uwaga 2.1: N owa (lub zmieniona) norma ma taki sam zakres jak norma zastąpiona. W określonym dniu ustaje domniemanie zgodności normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 2.3: Z akres nowej normy jest węższy od zakresu normy zastąpionej. W określonym dniu ustaje domniemanie zgodności normy zastąpionej (częściowo) z wymaganiami zasadniczymi dyrektywy w odniesieniu do produktów, które obejmuje zakres nowej normy. Domniemanie zgodności z wymaganiami dyrektywy w odniesieniu do produktów, które nadal obejmuje zakres normy zastąpionej (częściowo), a których nie obejmuje zakres nowej normy, pozostaje bez zmian. Uwaga 3: W przypadku zmian normą, do której dokonuje się odniesienia, jest EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, oraz nowa przytoczona zmiana. Zastąpiona norma (kolumna 6) składa się zatem z EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, ale nowa przytoczona zmiana nie wchodzi w jej skład. W określonym dniu ustaje domniemanie zgodności normy zastąpionej z wymaganiami zasadniczymi dyrektywy."
       }
      ]
     }
@@ -32309,7 +32309,7 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "PN-EN 81-70:2005/A1:2006 Dost pno d wigów dla osób, w tym osób EN 81-70:2003/A1:2004 06.08.2005 Uwaga 3 niepe nosprawnych Monitor Polski Nr 17 — 814 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN 81-70:2005/A1:2006 Dost pno d wigów dla osób, w tym osób EN 81-70:2003/A1:2004 06.08.2005 Uwaga 3 niepe nosprawnych 1 2 3 4 5 6 7",
      "children": [
       {
        "type": "text",
@@ -32352,11 +32352,11 @@
      "children": [
       {
        "type": "text",
-       "text": "Zako czenia lin stalowych -- Bezpiecze stwo -- Cz 7: EN 13411-7: Termin min 16. PN-EN 13411-7+A1:2009 Zacisk sercówkowy symetryczny EN 13411-7:2006+A1:2008 08.09.2009 2006 (28.12.2009) Uwaga 2.1 Monitor Polski Nr 17 — 815 — Poz. 182 Uwag a 1: Data ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame. Uwaga 2.1: Z akres normy nowej (lub ze zmianami) jest taki sam jak normy zastąpionej. W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 3: W przypadku zmian normą, do której dokonuje się odniesienia, jest EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, oraz nowa przytoczona zmiana. Zastąpiona norma (kolumna 6) składa się zatem z EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, ale nowa przytoczona zmiana nie wchodzi w jej skład. W określonym dniu ustaje domniemanie zgodności normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 4: E N 81-28:2004 zastępuje częściowo pkt. 14.2.3 normy EN 81-1 oraz 81-2 odnośnie do systemów alarmowych, a normy EN 81-1 oraz EN 81-2 zostałyby odpowiednio zmodyfikowane podczas następnego przeglądu."
+       "text": "Zako czenia lin stalowych -- Bezpiecze stwo -- Cz 7: EN 13411-7: Termin min 16. PN-EN 13411-7+A1:2009 Zacisk sercówkowy symetryczny EN 13411-7:2006+A1:2008 08.09.2009 2006 (28.12.2009) Uwaga 2.1 Uwag a 1: Data ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame. Uwaga 2.1: Z akres normy nowej (lub ze zmianami) jest taki sam jak normy zastąpionej. W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 3: W przypadku zmian normą, do której dokonuje się odniesienia, jest EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, oraz nowa przytoczona zmiana. Zastąpiona norma (kolumna 6) składa się zatem z EN CCCCC:YYYY z wcześniejszymi zmianami, o ile takie miały miejsce, ale nowa przytoczona zmiana nie wchodzi w jej skład. W określonym dniu ustaje domniemanie zgodności normy zastąpionej z wymaganiami zasadniczymi dyrektywy. Uwaga 4: E N 81-28:2004 zastępuje częściowo pkt. 14.2.3 normy EN 81-1 oraz 81-2 odnośnie do systemów alarmowych, a normy EN 81-1 oraz EN 81-2 zostałyby odpowiednio zmodyfikowane podczas następnego przeglądu."
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 816 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -32421,7 +32421,7 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "PN-EN 334+A1:2009 Reduktory ci nienia gazu dla ci nie wej ciowych do 100 bar EN 334:2005+A1:2009 EN 334:2005 Termin min (oryg.) * Uwaga 2.1 (31.07.2009) Monitor Polski Nr 17 — 817 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 334+A1:2009 Reduktory ci nienia gazu dla ci nie wej ciowych do 100 bar EN 334:2005+A1:2009 EN 334:2005 Termin min (oryg.) * Uwaga 2.1 (31.07.2009) 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -32485,7 +32485,7 @@
       },
       {
        "type": "text",
-       "text": "Ko nierze i ich po czenia -- Ko nierze okr g e do rur, armatury, EN 1092-3:2003 15. PN-EN 1092-3:2008 kszta tek, czników i osprz tu z oznaczeniem PN -- Cz 3: Ko nierze ze stopów miedzi EN 1092-3:2003/AC:2007 Monitor Polski Nr 17 — 818 — Poz. 182 1 2 3 4 5 6"
+       "text": "Ko nierze i ich po czenia -- Ko nierze okr g e do rur, armatury, EN 1092-3:2003 15. PN-EN 1092-3:2008 kszta tek, czników i osprz tu z oznaczeniem PN -- Cz 3: Ko nierze ze stopów miedzi EN 1092-3:2003/AC:2007 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -32566,7 +32566,7 @@
      "type": "ust",
      "num": "27",
      "path": "ust_27",
-     "text": "PN-EN 1564:2000/A1:2006 Odlewnictwo -- eliwo sferoidalne hartowane z przemian EN 1564:1997/A1:2006 Uwaga 3 Termin min izotermiczn (oryg.) (31.07.2006) Monitor Polski Nr 17 — 819 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 1564:2000/A1:2006 Odlewnictwo -- eliwo sferoidalne hartowane z przemian EN 1564:1997/A1:2006 Uwaga 3 Termin min izotermiczn (oryg.) (31.07.2006) 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -32640,7 +32640,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Wyroby p askie ze stali na urz dzenia ci nieniowe -- Cz 2: EN 10028-2:2003 39. PN-EN 10028-2:2010 Stale niestopowe i stopowe o okre lonych w asno ciach EN 10028-2:2009 Uwaga 2.1 31.12.2009 w podwy szonych temperaturach Monitor Polski Nr 17 — 820 — Poz. 182 1 2 3 4 5 6"
+       "text": "Wyroby p askie ze stali na urz dzenia ci nieniowe -- Cz 2: EN 10028-2:2003 39. PN-EN 10028-2:2010 Stale niestopowe i stopowe o okre lonych w asno ciach EN 10028-2:2009 Uwaga 2.1 31.12.2009 w podwy szonych temperaturach 1 2 3 4 5 6"
       }
      ]
     },
@@ -32701,7 +32701,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Rury stalowe bez szwu do zastosowa ci nieniowych -- Warunki 49. PN-EN 10216-2+A2:2009 techniczne dostawy -- Cz 2: Rury ze stali niestopowych EN 10216-2:2002+A2:2007 EN 10216-2:2002 Termin min i stopowych z okre lonymi w asno ciami w temperaturze Uwaga 2.1 (29.02.2008) podwy szonej Monitor Polski Nr 17 — 821 — Poz. 182 1 2 3 4 5 6"
+       "text": "Rury stalowe bez szwu do zastosowa ci nieniowych -- Warunki 49. PN-EN 10216-2+A2:2009 techniczne dostawy -- Cz 2: Rury ze stali niestopowych EN 10216-2:2002+A2:2007 EN 10216-2:2002 Termin min i stopowych z okre lonymi w asno ciami w temperaturze Uwaga 2.1 (29.02.2008) podwy szonej 1 2 3 4 5 6"
       }
      ]
     },
@@ -32751,7 +32751,7 @@
      "type": "ust",
      "num": "62",
      "path": "ust_62",
-     "text": "PN-EN 10217-4:2004 Rury stalowe ze szwem do zastosowa ci nieniowych -- Warunki EN 10217-4:2002 techniczne dostawy -- Cz 4: Rury zgrzewane elektrycznie ze stali niestopowych z okre lonymi w asno ciami w temperaturze Termin min 63. PN-EN 10217-4:2004/A1:2006 obni onej EN 10217-4:2002/A1:2005 Uwaga 3 (31.07.2005) Monitor Polski Nr 17 — 822 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 10217-4:2004 Rury stalowe ze szwem do zastosowa ci nieniowych -- Warunki EN 10217-4:2002 techniczne dostawy -- Cz 4: Rury zgrzewane elektrycznie ze stali niestopowych z okre lonymi w asno ciami w temperaturze Termin min 63. PN-EN 10217-4:2004/A1:2006 obni onej EN 10217-4:2002/A1:2005 Uwaga 3 (31.07.2005) 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -32803,7 +32803,7 @@
       },
       {
        "type": "text",
-       "text": "Kszta tki rurowe do przyspawania doczo owego – Cz 2: Stale 75. PN-EN 10253-2:2010 niestopowe i stopowe ferrytyczne ze specjalnymi wymaganiami EN 10253-2:2007 dotycz cymi kontroli Monitor Polski Nr 17 — 823 — Poz. 182 1 2 3 4 5 6"
+       "text": "Kszta tki rurowe do przyspawania doczo owego – Cz 2: Stale 75. PN-EN 10253-2:2010 niestopowe i stopowe ferrytyczne ze specjalnymi wymaganiami EN 10253-2:2007 dotycz cymi kontroli 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -32867,7 +32867,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Armatura przemys owa -- Badania armatury -- Cz 1: Próby 86. PN-EN 12266-1:2007 ci nieniowe, procedury badawcze i kryteria odbioru -- Wymagania EN 12266-1:2003 obowi zkowe Monitor Polski Nr 17 — 824 — Poz. 182 1 2 3 4 5 6"
+       "text": "Armatura przemys owa -- Badania armatury -- Cz 1: Próby 86. PN-EN 12266-1:2007 ci nieniowe, procedury badawcze i kryteria odbioru -- Wymagania EN 12266-1:2003 obowi zkowe 1 2 3 4 5 6"
       }
      ]
     },
@@ -32950,7 +32950,7 @@
      "type": "ust",
      "num": "97",
      "path": "ust_97",
-     "text": "PN-EN 12516-2:2009 Armatura przemys owa -- Wytrzyma o obudowy -- Cz 2: EN 12516-2:2004 Metoda obliczeniowa dla obudów stalowych armatury Monitor Polski Nr 17 — 825 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 12516-2:2009 Armatura przemys owa -- Wytrzyma o obudowy -- Cz 2: EN 12516-2:2004 Metoda obliczeniowa dla obudów stalowych armatury 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -33025,7 +33025,7 @@
      "type": "ust",
      "num": "109",
      "path": "ust_109",
-     "text": "PN-EN 12952-3:2004 Kot y wodnorurowe i urz dzenia pomocnicze -- Cz 3: EN 12952-3:2001 Konstrukcja i obliczenia cz ci ci nieniowych Monitor Polski Nr 17 — 826 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 12952-3:2004 Kot y wodnorurowe i urz dzenia pomocnicze -- Cz 3: EN 12952-3:2001 Konstrukcja i obliczenia cz ci ci nieniowych 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -33113,7 +33113,7 @@
      "type": "ust",
      "num": "119",
      "path": "ust_119",
-     "text": "PN-EN 12953-1:2004 Kot y p omienicowo-p omieniówkowe -- Cz 1: Postanowienia EN 12953-1:2002 ogólne Monitor Polski Nr 17 — 827 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 12953-1:2004 Kot y p omienicowo-p omieniówkowe -- Cz 1: Postanowienia EN 12953-1:2002 ogólne 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -33174,7 +33174,7 @@
       },
       {
        "type": "text",
-       "text": "Naziemne zbiorniki z tworzyw sztucznych wzmocnionych w óknem 130. PN-EN 13121-2:2004 szklanym -- Cz 2: Materia y kompozytowe -- Odporno EN 13121-2:2003 chemiczna (oryg.) Monitor Polski Nr 17 — 828 — Poz. 182 1 2 3 4 5 6"
+       "text": "Naziemne zbiorniki z tworzyw sztucznych wzmocnionych w óknem 130. PN-EN 13121-2:2004 szklanym -- Cz 2: Materia y kompozytowe -- Odporno EN 13121-2:2003 chemiczna (oryg.) 1 2 3 4 5 6"
       }
      ]
     },
@@ -33250,7 +33250,7 @@
      "type": "ust",
      "num": "142",
      "path": "ust_142",
-     "text": "PN-EN 13445-3:2009 Nieogrzewane p omieniem zbiorniki ci nieniowe -- Cz 3: EN 13445-3:2009 EN 13445-3:2002 31.12.2009 Projektowanie (oryg.) Uwaga 2.1 Monitor Polski Nr 17 — 829 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 13445-3:2009 Nieogrzewane p omieniem zbiorniki ci nieniowe -- Cz 3: EN 13445-3:2009 EN 13445-3:2002 31.12.2009 Projektowanie (oryg.) Uwaga 2.1 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -33321,7 +33321,7 @@
      "type": "ust",
      "num": "153",
      "path": "ust_153",
-     "text": "PN-EN 13480-1:2005/A2:2008 Ruroci gi przemys owe metalowe -- Cz 1: Postanowienia EN 13480-1:2002/A2:2008 Uwaga 3 Termin min ogólne (oryg.) (30.11.2008) Monitor Polski Nr 17 — 830 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 13480-1:2005/A2:2008 Ruroci gi przemys owe metalowe -- Cz 1: Postanowienia EN 13480-1:2002/A2:2008 Uwaga 3 Termin min ogólne (oryg.) (30.11.2008) 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -33397,7 +33397,7 @@
       },
       {
        "type": "text",
-       "text": "Zbiorniki kriogeniczne -- Urz dzenia zabezpieczaj ce przed 165. PN-EN 13648-2:2002 nadmiernym ci nieniem -- Cz 2: P ytki bezpiecze stwa EN 13648-2:2002 w kriogenicznej obs udze (oryg.) Monitor Polski Nr 17 — 831 — Poz. 182 1 2 3 4 5 6"
+       "text": "Zbiorniki kriogeniczne -- Urz dzenia zabezpieczaj ce przed 165. PN-EN 13648-2:2002 nadmiernym ci nieniem -- Cz 2: P ytki bezpiecze stwa EN 13648-2:2002 w kriogenicznej obs udze (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -33475,7 +33475,7 @@
      "type": "ust",
      "num": "177",
      "path": "ust_177",
-     "text": "PN-EN 14197-1:2006 Zbiorniki kriogeniczne -- Stacjonarne zbiorniki nieizolowane EN 14197-1:2003 pró ni -- Cz 1: Wymagania podstawowe Monitor Polski Nr 17 — 832 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 14197-1:2006 Zbiorniki kriogeniczne -- Stacjonarne zbiorniki nieizolowane EN 14197-1:2003 pró ni -- Cz 1: Wymagania podstawowe 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -33544,7 +33544,7 @@
      "type": "ust",
      "num": "188",
      "path": "ust_188",
-     "text": "PN-EN 14359:2006 Akumulatory hydrauliczne gazowe stosowane w nap dach EN 14359:2006 i sterowaniach (oryg.) Monitor Polski Nr 17 — 833 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 14359:2006 Akumulatory hydrauliczne gazowe stosowane w nap dach EN 14359:2006 i sterowaniach (oryg.) 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -33583,7 +33583,7 @@
       },
       {
        "type": "text",
-       "text": "Urz dzenia zabezpieczaj ce przed nadmiernym wzrostem 196. PN-EN ISO 4126-3:2006 ci nienia -- Cz 3: Kombinacja zaworu bezpiecze stwa EN ISO 4126-3:2006 i urz dzenia zabezpieczaj cego z p ytk bezpiecze stwa (oryg.) Monitor Polski Nr 17 — 834 — Poz. 182 1 2 3 4 5 6"
+       "text": "Urz dzenia zabezpieczaj ce przed nadmiernym wzrostem 196. PN-EN ISO 4126-3:2006 ci nienia -- Cz 3: Kombinacja zaworu bezpiecze stwa EN ISO 4126-3:2006 i urz dzenia zabezpieczaj cego z p ytk bezpiecze stwa (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -33644,7 +33644,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Systemy przewodów rurowych z tworzyw sztucznych do 206. PN-EN ISO 15494:2005 zastosowa przemys owych -- Polibuten (PB), polietylen (PE) EN ISO 15494:2003 i polipropylen (PP) -- Specyfikacje elementów i systemu -- Serie metryczne Monitor Polski Nr 17 — 835 — Poz. 182 1 2 3 4 5 6"
+       "text": "Systemy przewodów rurowych z tworzyw sztucznych do 206. PN-EN ISO 15494:2005 zastosowa przemys owych -- Polibuten (PB), polietylen (PE) EN ISO 15494:2003 i polipropylen (PP) -- Specyfikacje elementów i systemu -- Serie metryczne 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -33688,7 +33688,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Specyfikacja i kwalifikowanie technologii spawania metali -- 216. PN-EN ISO 15614-8:2005 Badanie technologii spawania -- Cz 8: Spawanie rur z p ytami EN ISO 15614-8:2002 sitowymi Monitor Polski Nr 17 — 836 — Poz. 182 1 2 3 4 5 6"
+       "text": "Specyfikacja i kwalifikowanie technologii spawania metali -- 216. PN-EN ISO 15614-8:2005 Badanie technologii spawania -- Cz 8: Spawanie rur z p ytami EN ISO 15614-8:2002 sitowymi 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -33750,7 +33750,7 @@
       },
       {
        "type": "text",
-       "text": "* ( oryg.) ― Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 837 — Poz. 182"
+       "text": "* ( oryg.) ― Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -33807,7 +33807,7 @@
      "children": [
       {
        "type": "text",
-       "text": "EN 13612:2002 17.12.2002 6. PN-EN 13612:2006 Ocena dzia ania wyrobów medycznych do diagnostyki in vitro EN 13612:2002/AC:2002 2.12.2009 Monitor Polski Nr 17 — 838 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "EN 13612:2002 17.12.2002 6. PN-EN 13612:2006 Ocena dzia ania wyrobów medycznych do diagnostyki in vitro EN 13612:2002/AC:2002 2.12.2009 1 2 3 4 5 6 7"
       }
      ]
     },
@@ -33865,7 +33865,7 @@
      "type": "ust",
      "num": "16",
      "path": "ust_16",
-     "text": "PN-EN 62366:2008 Urz dzenia medyczne -- Zastosowanie in ynierii EN 62366:2008 27.11.2008 u yteczno ci do urz dze medycznych (oryg.) Monitor Polski Nr 17 — 839 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN 62366:2008 Urz dzenia medyczne -- Zastosowanie in ynierii EN 62366:2008 27.11.2008 u yteczno ci do urz dze medycznych (oryg.) 1 2 3 4 5 6 7",
      "children": [
       {
        "type": "text",
@@ -33901,7 +33901,7 @@
       },
       {
        "type": "text",
-       "text": "Systemy do bada diagnostycznych in vitro -- EN ISO 15197:2003 28.04.2005 24. PN-EN ISO 15197:2010 Wymagania dotycz ce systemów monitoruj cych poziom glukozy we krwi do samokontroli u chorych na cukrzyc EN ISO 15197:2003/ 02.12.2009 AC:2005 Monitor Polski Nr 17 — 840 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Systemy do bada diagnostycznych in vitro -- EN ISO 15197:2003 28.04.2005 24. PN-EN ISO 15197:2010 Wymagania dotycz ce systemów monitoruj cych poziom glukozy we krwi do samokontroli u chorych na cukrzyc EN ISO 15197:2003/ 02.12.2009 AC:2005 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -33933,7 +33933,7 @@
       },
       {
        "type": "text",
-       "text": "Informacje dostarczane przez wytwórc (etykietowanie) -- EN 376:2002 32. PN-EN ISO 18113-4:2010 Cz 4: Odczynniki do diagnostyki in vitro do EN ISO 18113-4:2009 07.07.2010 Uwaga 2.1 31.12.2012 samodzielnego stosowania (oryg.) Monitor Polski Nr 17 — 841 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Informacje dostarczane przez wytwórc (etykietowanie) -- EN 376:2002 32. PN-EN ISO 18113-4:2010 Cz 4: Odczynniki do diagnostyki in vitro do EN ISO 18113-4:2009 07.07.2010 Uwaga 2.1 31.12.2012 samodzielnego stosowania (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -33953,7 +33953,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) ― Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 842 — Poz. 182"
+       "text": "* (oryg.) ― Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -33998,7 +33998,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Ograniczenie ekspozycji ludzi w polach Art. 3 ust. 1 elektromagnetycznych urz dze pracuj cych lit. a) 5. PN-EN 50364:2004 w zakresie cz stotliwo ci od 0 Hz do 10 GHz, EN 50364:2001 (oraz art. 2 wykorzystywanych do elektronicznej ochrony dyrektywy artyku ów (EAS), identyfikacji drog radiow (RFID) 2006/95/WE) i tym podobnych zastosowa Monitor Polski Nr 17 — 843 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Ograniczenie ekspozycji ludzi w polach Art. 3 ust. 1 elektromagnetycznych urz dze pracuj cych lit. a) 5. PN-EN 50364:2004 w zakresie cz stotliwo ci od 0 Hz do 10 GHz, EN 50364:2001 (oraz art. 2 wykorzystywanych do elektronicznej ochrony dyrektywy artyku ów (EAS), identyfikacji drog radiow (RFID) 2006/95/WE) i tym podobnych zastosowa 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34026,7 +34026,7 @@
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "PN-EN 55022:2000/A2:2004 EN 55022:1998/ Uwaga 3 A2:2003 Monitor Polski Nr 17 — 844 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN 55022:2000/A2:2004 EN 55022:1998/ Uwaga 3 A2:2003 1 2 3 4 5 6 7",
      "children": [
       {
        "type": "text",
@@ -34081,7 +34081,7 @@
       },
       {
        "type": "text",
-       "text": "EN 60215:1989/ Uwaga 3 Termin min A2:1994 (15.07.1995) Monitor Polski Nr 17 — 845 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "EN 60215:1989/ Uwaga 3 Termin min A2:1994 (15.07.1995) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34117,7 +34117,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Bezpiecze stwo urz dze laserowych – Cz 12: Art. 3 ust. 1 Bezpiecze stwo systemów komunikacji optycznej lit. a) 28. PN-EN 60825-12:2008 w przestrzeni swobodnej, stosowanych do przesy ania EN 60825-12:2004 (oraz art. 2 informacji dyrektywy 2006/95/WE) Monitor Polski Nr 17 — 846 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Bezpiecze stwo urz dze laserowych – Cz 12: Art. 3 ust. 1 Bezpiecze stwo systemów komunikacji optycznej lit. a) 28. PN-EN 60825-12:2008 w przestrzeni swobodnej, stosowanych do przesy ania EN 60825-12:2004 (oraz art. 2 informacji dyrektywy 2006/95/WE) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34165,7 +34165,7 @@
      "type": "ust",
      "num": "36",
      "path": "ust_36",
-     "text": "PN-EN 60950-23:2007/AC:2009 EN 60950-23:2006/ AC:2008 Monitor Polski Nr 17 — 847 — Poz. 182 1 2 3 4 5 6 7",
+     "text": "PN-EN 60950-23:2007/AC:2009 EN 60950-23:2006/ AC:2008 1 2 3 4 5 6 7",
      "children": [
       {
        "type": "text",
@@ -34193,7 +34193,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna (EMC) – Cz 3-11: Dopuszczalne poziomy Ograniczanie waha 44. PN-EN 61000-3-11:2004 napi cia i migotania wiat a w publicznych sieciach EN 61000-3-11:2000 Termin min Art. 3 ust. 1 zasilaj cych niskiego napi cia – Odbiorniki o pr dzie (01.11.2003) lit. b) znamionowym mniejszym lub równym 75 A, które s przedmiotem przy czenia warunkowego Monitor Polski Nr 17 — 848 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna (EMC) – Cz 3-11: Dopuszczalne poziomy Ograniczanie waha 44. PN-EN 61000-3-11:2004 napi cia i migotania wiat a w publicznych sieciach EN 61000-3-11:2000 Termin min Art. 3 ust. 1 zasilaj cych niskiego napi cia – Odbiorniki o pr dzie (01.11.2003) lit. b) znamionowym mniejszym lub równym 75 A, które s przedmiotem przy czenia warunkowego 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34225,7 +34225,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) W skopasmowe urz dzenia telegraficzne z bezpo rednim wydrukiem 52. PN-ETSI EN 300 065-2 V1.1.1:2003 do odbioru informacji meteorologicznych ETSI EN 300 065-2 Art. 3 ust. 2 i nawigacyjnych (NAVTEX) – Cz 2: V1.1.1:2001 Zharmonizowana EN zapewniaj ca spe nianie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 849 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) W skopasmowe urz dzenia telegraficzne z bezpo rednim wydrukiem 52. PN-ETSI EN 300 065-2 V1.1.1:2003 do odbioru informacji meteorologicznych ETSI EN 300 065-2 Art. 3 ust. 2 i nawigacyjnych (NAVTEX) – Cz 2: V1.1.1:2001 Zharmonizowana EN zapewniaj ca spe nianie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34241,7 +34241,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- L dowa s u ba ruchoma -- Urz dzenia radiowe z wewn trznym lub zewn trznym ETSI EN 300 086-2 ETSI EN 300 086-2 Termin min 56. PN-ETSI EN 300 086-2 V1.2.1:2008 z czem RF przeznaczone do analogowej transmisji V1.2.1:2008 V1.1.1:2001 (30.06.2010) Art. 3 ust. 2 mowy -- Cz 2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 850 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- L dowa s u ba ruchoma -- Urz dzenia radiowe z wewn trznym lub zewn trznym ETSI EN 300 086-2 ETSI EN 300 086-2 Termin min 56. PN-ETSI EN 300 086-2 V1.2.1:2008 z czem RF przeznaczone do analogowej transmisji V1.2.1:2008 V1.1.1:2001 (30.06.2010) Art. 3 ust. 2 mowy -- Cz 2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34257,7 +34257,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Nadajniki i odbiorniki radiotelefoniczne dla ruchomej s u by ETSI EN 300 162-2 ETSI EN 300 162-2 Termin min 60. PN-ETSI EN 300 162-2 V1.2.1:2007 morskiej pracuj cej w pa mie VHF -- Cz 2: V1.2.1:2006 V1.1.2:2000 (31.08.2008) Art. 3 ust. 2 Zharmonizowana EN zapewniaj ca spe nianie Uwaga 2.1 zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 851 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Nadajniki i odbiorniki radiotelefoniczne dla ruchomej s u by ETSI EN 300 162-2 ETSI EN 300 162-2 Termin min 60. PN-ETSI EN 300 162-2 V1.2.1:2007 morskiej pracuj cej w pa mie VHF -- Cz 2: V1.2.1:2006 V1.1.2:2000 (31.08.2008) Art. 3 ust. 2 Zharmonizowana EN zapewniaj ca spe nianie Uwaga 2.1 zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34273,7 +34273,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Urz dzenia radiowe pracuj ce ETSI EN 300 220-2 64. PN-ETSI EN 300 220-2 V2.3.1:2010 w zakresie cz stotliwo ci od 25 MHz do 1 000 MHz ETSI EN 300 220-2 V2.1.2:2006 31.05.2013 Art. 3 ust. 2 z poziomami mocy do 500 mW -- Cz 2: V2.3.1:2010 Uwaga 2.1 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 852 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Urz dzenia radiowe pracuj ce ETSI EN 300 220-2 64. PN-ETSI EN 300 220-2 V2.3.1:2010 w zakresie cz stotliwo ci od 25 MHz do 1 000 MHz ETSI EN 300 220-2 V2.1.2:2006 31.05.2013 Art. 3 ust. 2 z poziomami mocy do 500 mW -- Cz 2: V2.3.1:2010 Uwaga 2.1 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34293,7 +34293,11 @@
       },
       {
        "type": "text",
-       "text": "Niniejsza wersja normy stwarza domniemanie zgodno ci z wymaganiami artyku u 3.2 dyrektywy 1999/5/WE pod nast puj cym warunkiem: w urz dzeniu zastosowano odpowiedni mechanizm podzia u widma, np. LBT (Listen Before Talk), DAA (Detect And Avoid) itp., w celu zapewnienia zgodno ci z wymaganiem okre lonym w pkt. 4,3,5 niniejszej wersji. Mechanizm taki u atwia podzia pomi dzy ró ne obecnie istniej ce technologie i zastosowania, a w przypadku przeci enia u ytkownikom zostanie zapewniony równy dost p (a w konsekwencji nieznaczne pogorszenie jako ci us ugi dla wszystkich u ytkowników). Zharmonizowane sposoby oceny skuteczno ci ró nych mechanizmów podzia u s obecnie opracowywane przez ETSI w ramach projektu EN 300 328 wersja 1.8.1. Monitor Polski Nr 17 — 853 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Niniejsza wersja normy stwarza domniemanie zgodno ci z wymaganiami artyku u 3.2 dyrektywy 1999/5/WE pod nast puj cym warunkiem: w urz dzeniu zastosowano odpowiedni mechanizm podzia u widma, np. LBT (Listen Before Talk), DAA (Detect And Avoid) itp., w celu zapewnienia zgodno ci z wymaganiem okre lonym w pkt. 4,3,5 niniejszej wersji. Mechanizm taki u atwia podzia pomi dzy ró ne obecnie istniej ce technologie i zastosowania, a w przypadku przeci enia u ytkownikom zostanie zapewniony równy dost p (a w konsekwencji nieznaczne pogorszenie jako ci us ugi dla wszystkich u ytkowników). Zharmonizowane sposoby oceny skuteczno ci ró nych mechanizmów podzia u s obecnie opracowywane przez ETSI w ramach projektu EN 300 328 wersja 1.8.1."
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34309,7 +34313,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Morskie nadajniki 72. PN-ETSI EN 300 373-2 V1.1.1:2005 i odbiorniki ruchome u ywane w zakresach MF i HF – ETSI EN 300 373-2 Art. 3 ust. 2 Cz 2: Zharmonizowana EN zapewniaj ca V1.1.1:2004 spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 854 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Morskie nadajniki 72. PN-ETSI EN 300 373-2 V1.1.1:2005 i odbiorniki ruchome u ywane w zakresach MF i HF – ETSI EN 300 373-2 Art. 3 ust. 2 Cz 2: Zharmonizowana EN zapewniaj ca V1.1.1:2004 spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34325,7 +34329,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- L dowa s u ba ruchoma – Urz dzenia radiowe przeznaczone do transmisji ETSI EN 300 390-2 ETS 300 390/ ed.1/ Termin min 76. PN-ETSI EN 300 390-2 V1.1.1:2003 danych (i mowy) z anten zintegrowan – Cz 2: V1.1.1:2000 A1:1997 (30.04.2001) Art. 3 ust. 2 Zharmonizowana EN zapewniaj ca spe nianie Uwaga 2.1 zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 855 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- L dowa s u ba ruchoma – Urz dzenia radiowe przeznaczone do transmisji ETSI EN 300 390-2 ETS 300 390/ ed.1/ Termin min 76. PN-ETSI EN 300 390-2 V1.1.1:2003 danych (i mowy) z anten zintegrowan – Cz 2: V1.1.1:2000 A1:1997 (30.04.2001) Art. 3 ust. 2 Zharmonizowana EN zapewniaj ca spe nianie Uwaga 2.1 zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34345,7 +34349,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia 81. PN-ETSI EN 300 454-2 V1.1.1:2003 widma radiowego (ERM) -- Szerokopasmowe cza ETSI EN 300 454-2 Art. 3 ust. 2 foniczne – Cz 2: EN zharmonizowana zgodnie V1.1.1:2000 z artyku em 3.2 dyrektywy R & TTE (oryg.) Monitor Polski Nr 17 — 856 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia 81. PN-ETSI EN 300 454-2 V1.1.1:2003 widma radiowego (ERM) -- Szerokopasmowe cza ETSI EN 300 454-2 Art. 3 ust. 2 foniczne – Cz 2: EN zharmonizowana zgodnie V1.1.1:2000 z artyku em 3.2 dyrektywy R & TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34357,7 +34361,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Transport drogowy i telematyka trafiku (RTTT) – Wydzielona czno ma ego zasi gu (DSRC), urz dzenia transmisyjne (500 kbit/s/ 250 kbit/s) pracuj ce w pa mie 84. PN-ETSI EN 300 674-2-2 V1.1.1:2005 cz stotliwo ci 5,8 GHz wydzielonym do zastosowania ETSI EN 300 674-2-2 Art. 3 ust. 2 przemys owego, naukowego i medycznego (ISM) – V1.1.1:2004 Cz 2-2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE – Wymagania dotycz ce zespo ów instalowanych na poje dzie (OBU) (oryg.) Monitor Polski Nr 17 — 857 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Transport drogowy i telematyka trafiku (RTTT) – Wydzielona czno ma ego zasi gu (DSRC), urz dzenia transmisyjne (500 kbit/s/ 250 kbit/s) pracuj ce w pa mie 84. PN-ETSI EN 300 674-2-2 V1.1.1:2005 cz stotliwo ci 5,8 GHz wydzielonym do zastosowania ETSI EN 300 674-2-2 Art. 3 ust. 2 przemys owego, naukowego i medycznego (ISM) – V1.1.1:2004 Cz 2-2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE – Wymagania dotycz ce zespo ów instalowanych na poje dzie (OBU) (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34377,7 +34381,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Sygnalizatory lawinowe – ETSI EN 300 718-3 89. PN-ETSI EN 300 718-3 V1.2.1:2005 Systemy nadawczo-odbiorcze – Cz 3: ETSI EN 300 718-3 V1.1.1:2001 Termin min Art. 3 ust. 3 Zharmonizowana EN zapewniaj ca spe nienie V1.2.1:2004 Uwaga 2.1 (30.11.2005) zasadniczych wymaga zgodnie z artyku em 3.3(e) dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 858 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Sygnalizatory lawinowe – ETSI EN 300 718-3 89. PN-ETSI EN 300 718-3 V1.2.1:2005 Systemy nadawczo-odbiorcze – Cz 3: ETSI EN 300 718-3 V1.1.1:2001 Termin min Art. 3 ust. 3 Zharmonizowana EN zapewniaj ca spe nienie V1.2.1:2004 Uwaga 2.1 (30.11.2005) zasadniczych wymaga zgodnie z artyku em 3.3(e) dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34397,7 +34401,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu -- Transport drogowy i telematyka transportu ETSI EN 301 091-2 94. PN-ETSI EN 301 091-2 V1.3.2:2007 drogowego (RTTT) -- Urz dzenia radarowe pracuj ce ETSI EN 301 091-2 V1.2.1:2004 Termin min Art. 3 ust. 2 w zakresie od 76 GHZ do 77 GHz -- Cz 2: V1.3.2:2006 Uwaga 2.1 (30.06.2008) Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodna z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 859 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu -- Transport drogowy i telematyka transportu ETSI EN 301 091-2 94. PN-ETSI EN 301 091-2 V1.3.2:2007 drogowego (RTTT) -- Urz dzenia radarowe pracuj ce ETSI EN 301 091-2 V1.2.1:2004 Termin min Art. 3 ust. 2 w zakresie od 76 GHZ do 77 GHz -- Cz 2: V1.3.2:2006 Uwaga 2.1 (30.06.2008) Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodna z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34413,7 +34417,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Bezsznurowe urz dzenia ETSI EN 301 357-2 98. PN-ETSI EN 301 357-2 V1.4.1:2009 akustyczne pracuj ce w zakresie cz stotliwo ci od 25 ETSI EN 301 357-2 V1.3.1:2006 Termin min Art. 3 ust. 2 MHz do 2 000 MHz -- Cz 2: Zharmonizowana EN V1.4.1:2008 Uwaga 2.1 (31.08.2010) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 860 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Bezsznurowe urz dzenia ETSI EN 301 357-2 98. PN-ETSI EN 301 357-2 V1.4.1:2009 akustyczne pracuj ce w zakresie cz stotliwo ci od 25 ETSI EN 301 357-2 V1.3.1:2006 Termin min Art. 3 ust. 2 MHz do 2 000 MHz -- Cz 2: Zharmonizowana EN V1.4.1:2008 Uwaga 2.1 (31.08.2010) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34433,7 +34437,7 @@
       },
       {
        "type": "text",
-       "text": "Naziemne stacje i systemy satelitarne (SES) – Zharmonizowana EN dotycz ca l dowych ruchomych stacji satelitarnych (LMES) oraz morskich ruchomych stacji satelitarnych (MMES) do transmisji danych ETSI EN 301 426 ETSI EN 301 426 Termin min 103. PN-ETSI EN 301 426 V1.2.1:2003 o ma ych przep ywno ciach, nieprzewidzianych do V1.2.1:2001 V1.1.1:2000 (30.06.2002) Art. 3 ust. 2 czno ci alarmowej i bezpiecze stwa, pracuj cych Uwaga 2.1 w zakresach cz stotliwo ci 1,5/1,6 GHz, spe niaj cych podstawowe wymagania artyku u 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 861 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Naziemne stacje i systemy satelitarne (SES) – Zharmonizowana EN dotycz ca l dowych ruchomych stacji satelitarnych (LMES) oraz morskich ruchomych stacji satelitarnych (MMES) do transmisji danych ETSI EN 301 426 ETSI EN 301 426 Termin min 103. PN-ETSI EN 301 426 V1.2.1:2003 o ma ych przep ywno ciach, nieprzewidzianych do V1.2.1:2001 V1.1.1:2000 (30.06.2002) Art. 3 ust. 2 czno ci alarmowej i bezpiecze stwa, pracuj cych Uwaga 2.1 w zakresach cz stotliwo ci 1,5/1,6 GHz, spe niaj cych podstawowe wymagania artyku u 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34449,7 +34453,7 @@
       },
       {
        "type": "text",
-       "text": "Naziemne stacje i systemy satelitarne (SES) -- Zharmonizowana EN dotycz ca ruchomych stacji naziemnych (MES), w tym trzymanych w r ku stacji naziemnych wykorzystuj cych geostacjonarne ETSI EN 301 441 TBR 041 ed.1:1998 Termin min 107. PN-ETSI EN 301 441 V1.1.1:2007 systemy satelitarne, przeznaczonych do satelitarnej V1.1.1:2000 Uwaga 2.1 (31.01.2001) Art. 3 ust. 2 sieci czno ci osobistej (S-PCN) w ramach ruchomej s u by satelitarnej (MSS), pracuj cych w zakresach cz stotliwo ci 1,6/2,4 GHz, spe niaj cych zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE Monitor Polski Nr 17 — 862 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Naziemne stacje i systemy satelitarne (SES) -- Zharmonizowana EN dotycz ca ruchomych stacji naziemnych (MES), w tym trzymanych w r ku stacji naziemnych wykorzystuj cych geostacjonarne ETSI EN 301 441 TBR 041 ed.1:1998 Termin min 107. PN-ETSI EN 301 441 V1.1.1:2007 systemy satelitarne, przeznaczonych do satelitarnej V1.1.1:2000 Uwaga 2.1 (31.01.2001) Art. 3 ust. 2 sieci czno ci osobistej (S-PCN) w ramach ruchomej s u by satelitarnej (MSS), pracuj cych w zakresach cz stotliwo ci 1,6/2,4 GHz, spe niaj cych zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34465,7 +34469,7 @@
       },
       {
        "type": "text",
-       "text": "Naziemne stacje i systemy satelitarne (SES) -- Zharmonizowana EN dotycz ca naziemnych stacji satelitarnych instalowanych na pok adach statków ETSI EN 301 447 111. PN-ETSI EN 301 447 V1.1.1:2008 (ESV), pracuj cych w zakresach cz stotliwo ci 4/6 V1.1.1:2007 Art. 3 ust. 2 GHz przeznaczonych dla sta ej s u by satelitarnej (FSS), spe niaj cych zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 863 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Naziemne stacje i systemy satelitarne (SES) -- Zharmonizowana EN dotycz ca naziemnych stacji satelitarnych instalowanych na pok adach statków ETSI EN 301 447 111. PN-ETSI EN 301 447 V1.1.1:2008 (ESV), pracuj cych w zakresach cz stotliwo ci 4/6 V1.1.1:2007 Art. 3 ust. 2 GHz przeznaczonych dla sta ej s u by satelitarnej (FSS), spe niaj cych zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34481,7 +34485,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci ETSI EN 301 489-1 ETSI EN 301 489-1 Art. 3 ust. 1 115. PN-ETSI EN 301 489-1 V1.8.1:2008 elektromagnetycznej (EMC) dotycz ca urz dze V1.8.1:2008 V1.6.1:2005 01.10.2011 lit. b) i systemów radiowych -- Cz 1: Ogólne wymagania Uwaga 2.1 techniczne (oryg.) Monitor Polski Nr 17 — 864 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci ETSI EN 301 489-1 ETSI EN 301 489-1 Art. 3 ust. 1 115. PN-ETSI EN 301 489-1 V1.8.1:2008 elektromagnetycznej (EMC) dotycz ca urz dze V1.8.1:2008 V1.6.1:2005 01.10.2011 lit. b) i systemów radiowych -- Cz 1: Ogólne wymagania Uwaga 2.1 techniczne (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34501,7 +34505,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-5 120. PN-ETSI EN 301 489-5 V1.3.1:2003 i systemów radiowych -- Cz 5: Wymagania ETSI EN 301 489-5 V1.2.1:2000 Termin min Art. 3 ust. 1 szczegó owe dla urz dze l dowej radiokomunikacji V1.3.1:2002 Uwaga 2.1 (30.11.2005) lit. b) ruchomej typu dyspozytorskiego (PMR) i wyposa enia pomocniczego (do transmisji sygna ów mowy i innych) (oryg.) Monitor Polski Nr 17 — 865 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-5 120. PN-ETSI EN 301 489-5 V1.3.1:2003 i systemów radiowych -- Cz 5: Wymagania ETSI EN 301 489-5 V1.2.1:2000 Termin min Art. 3 ust. 1 szczegó owe dla urz dze l dowej radiokomunikacji V1.3.1:2002 Uwaga 2.1 (30.11.2005) lit. b) ruchomej typu dyspozytorskiego (PMR) i wyposa enia pomocniczego (do transmisji sygna ów mowy i innych) (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34521,7 +34525,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci ETSI EN 301 489- 125. PN-ETSI EN 301 489-10 V1.3.1:2003 elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-10 10 V1.2.1:2001 Termin min Art. 3 ust. 1 i systemów radiowych – Cz 10: Wymagania V1.3.1:2002 Uwaga 2.1 (30.11.2005) lit. b) szczegó owe dla urz dze telefonów bezsznurowych pierwszej (CT1 i CT1+) i drugiej (CT2) generacji Monitor Polski Nr 17 — 866 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci ETSI EN 301 489- 125. PN-ETSI EN 301 489-10 V1.3.1:2003 elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-10 10 V1.2.1:2001 Termin min Art. 3 ust. 1 i systemów radiowych – Cz 10: Wymagania V1.3.1:2002 Uwaga 2.1 (30.11.2005) lit. b) szczegó owe dla urz dze telefonów bezsznurowych pierwszej (CT1 i CT1+) i drugiej (CT2) generacji 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34541,7 +34545,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci ETSI EN 301 489- 130. PN-ETSI EN 301 489-15 V1.2.1:2003 elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-15 15 V1.1.1:2002 Termin min Art. 3 ust. 1 i systemów radiowych – Cz 15: Wymagania V1.2.1:2002 Uwaga 2.1 (30.11.2005) lit. b) szczegó owe dla urz dze radioamatorskich dost pnych w handlu (oryg.) Monitor Polski Nr 17 — 867 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci ETSI EN 301 489- 130. PN-ETSI EN 301 489-15 V1.2.1:2003 elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-15 15 V1.1.1:2002 Termin min Art. 3 ust. 1 i systemów radiowych – Cz 15: Wymagania V1.2.1:2002 Uwaga 2.1 (30.11.2005) lit. b) szczegó owe dla urz dze radioamatorskich dost pnych w handlu (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34557,7 +34561,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-18 ETSI EN 301 489- Termin min Art. 3 ust. 1 134. PN-ETSI EN 301 489-18 V1.3.1:2004 i systemów radiowych – Cz 18: Wymagania V1.3.1:2002 18 V1.2.1:2001 (30.11.2005) lit. b) szczegó owe dla urz dze naziemnej czno ci Uwaga 2.1 z grupowym wykorzystaniem kana ów radiowych (TETRA) (oryg.) Monitor Polski Nr 17 — 868 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze ETSI EN 301 489-18 ETSI EN 301 489- Termin min Art. 3 ust. 1 134. PN-ETSI EN 301 489-18 V1.3.1:2004 i systemów radiowych – Cz 18: Wymagania V1.3.1:2002 18 V1.2.1:2001 (30.11.2005) lit. b) szczegó owe dla urz dze naziemnej czno ci Uwaga 2.1 z grupowym wykorzystaniem kana ów radiowych (TETRA) (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34577,7 +34581,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze 139. PN-ETSI EN 301 489-24 V1.4.1:2008 i systemów radiowych -- Cz 24: Wymagania ETSI EN 301 489-24 Art. 3 ust. 1 szczegó owe dla urz dze radiowych i wyposa enia V1.4.1:2007 lit. b) dodatkowego urz dze przewo nych i noszonych (UE) systemu IMT-2000 CDMA z bezpo rednim rozproszeniem widma (UTRA) (oryg.) Monitor Polski Nr 17 — 869 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze 139. PN-ETSI EN 301 489-24 V1.4.1:2008 i systemów radiowych -- Cz 24: Wymagania ETSI EN 301 489-24 Art. 3 ust. 1 szczegó owe dla urz dze radiowych i wyposa enia V1.4.1:2007 lit. b) dodatkowego urz dze przewo nych i noszonych (UE) systemu IMT-2000 CDMA z bezpo rednim rozproszeniem widma (UTRA) (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34597,7 +34601,7 @@
       },
       {
        "type": "text",
-       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze 144. PN-ETSI EN 301 489-29 V1.1.1:2009 i systemów radiowych -- Cz 29: Wymagania ETSI EN 301 489-29 Art. 3 ust. 1 szczegó owe dla medycznych urz dze V1.1.1:2009 lit. b) przesy aj cych dane (MEDS) pracuj cych w zakresach cz stotliwo ci od 401 MHz do 402 MHz i od 405 MHz do 406 MHz (oryg.) Monitor Polski Nr 17 — 870 — Poz. 182 1 2 3 4 5 6 7"
+       "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Norma kompatybilno ci elektromagnetycznej (EMC) dotycz ca urz dze 144. PN-ETSI EN 301 489-29 V1.1.1:2009 i systemów radiowych -- Cz 29: Wymagania ETSI EN 301 489-29 Art. 3 ust. 1 szczegó owe dla medycznych urz dze V1.1.1:2009 lit. b) przesy aj cych dane (MEDS) pracuj cych w zakresach cz stotliwo ci od 401 MHz do 402 MHz i od 405 MHz do 406 MHz (oryg.) 1 2 3 4 5 6 7"
       },
       {
        "type": "text",
@@ -34623,7 +34627,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Globalny system czno ci ruchomej (GSM) – Zharmonizowana norma dotycz ca stacji ruchomych ETSI EN 301 511 ETSI EN 301 511 Termin min 149. PN-ETSI EN 301 511 V9.0.2:2004 pracuj cych w pasmach GSM 900 i DCS 1800 V9.0.2:2003 V7.0.1:2000 (30.06.2004) Art. 3 ust. 2 zapewniaj ca spe nianie zasadniczych wymaga Uwaga 2.1 zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 871 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Globalny system czno ci ruchomej (GSM) – Zharmonizowana norma dotycz ca stacji ruchomych ETSI EN 301 511 ETSI EN 301 511 Termin min 149. PN-ETSI EN 301 511 V9.0.2:2004 pracuj cych w pasmach GSM 900 i DCS 1800 V9.0.2:2003 V7.0.1:2000 (30.06.2004) Art. 3 ust. 2 zapewniaj ca spe nianie zasadniczych wymaga Uwaga 2.1 zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34639,7 +34643,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Naziemna s u ba ruchoma 153. PN-ETSI EN 301 783-2 V1.1.1:2003 – Urz dzenia radioamatorskie dost pne w handlu -- ETSI EN 301 783-2 Art. 3 ust. 2 Cz 2: Zharmonizowana EN zapewniaj ca V1.1.1:2000 spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 872 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Naziemna s u ba ruchoma 153. PN-ETSI EN 301 783-2 V1.1.1:2003 – Urz dzenia radioamatorskie dost pne w handlu -- ETSI EN 301 783-2 Art. 3 ust. 2 Cz 2: Zharmonizowana EN zapewniaj ca V1.1.1:2000 spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34655,7 +34659,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Aktywne implanty medyczne ultraniskiego poziomu mocy (ULP-AMI) i ich urz dzenia ETSI EN 301 839-2 ETSI EN 301 839-2 157. PN-ETSI EN 301 839-2 V1.3.1:2010 peryferyjne (ULP-AMI-P) pracuj ce w zakresie V1.3.1:2009 V1.2.1:2007 30.06.2011 Art. 3 ust. 2 cz stotliwo ci od 402 MHz do 405 MHz -- Cz 2: Uwaga 2.1 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 873 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Aktywne implanty medyczne ultraniskiego poziomu mocy (ULP-AMI) i ich urz dzenia ETSI EN 301 839-2 ETSI EN 301 839-2 157. PN-ETSI EN 301 839-2 V1.3.1:2010 peryferyjne (ULP-AMI-P) pracuj ce w zakresie V1.3.1:2009 V1.2.1:2007 30.06.2011 Art. 3 ust. 2 cz stotliwo ci od 402 MHz do 405 MHz -- Cz 2: Uwaga 2.1 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34679,7 +34683,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Norma kompatybilno ci 163. PN-ETSI EN 301 843-6 V1.1.1:2007 elektromagnetycznej (EMC) dotycz ca morskich ETSI EN 301 843-6 Art. 3 ust. 1 radiowych s u b i urz dze -- Cz 6: Warunki V1.1.1:2006 lit. b) szczegó owe dla stacji naziemnych instalowanych na pok adach statków, nadaj cych powy ej 3 GHz (oryg.) Monitor Polski Nr 17 — 874 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Norma kompatybilno ci 163. PN-ETSI EN 301 843-6 V1.1.1:2007 elektromagnetycznej (EMC) dotycz ca morskich ETSI EN 301 843-6 Art. 3 ust. 1 radiowych s u b i urz dze -- Cz 6: Warunki V1.1.1:2006 lit. b) szczegó owe dla stacji naziemnych instalowanych na pok adach statków, nadaj cych powy ej 3 GHz (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34695,7 +34699,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) ETSI EN 301 908-2 167. PN-ETSI EN 301 908-2 V3.2.1:2007 dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-2 V2.2.1:2003 Termin min Art. 3 ust. 2 Cz 2: Zharmonizowana EN dla IMT-2000 CDMA V3.2.1:2007 Uwaga 2.1 (31.01.2009) z rozproszeniem bezpo rednim (UTRA FDD) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 875 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) ETSI EN 301 908-2 167. PN-ETSI EN 301 908-2 V3.2.1:2007 dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-2 V2.2.1:2003 Termin min Art. 3 ust. 2 Cz 2: Zharmonizowana EN dla IMT-2000 CDMA V3.2.1:2007 Uwaga 2.1 (31.01.2009) z rozproszeniem bezpo rednim (UTRA FDD) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34711,7 +34715,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) ETSI EN 301 908-4 171. PN-ETSI EN 301 908-4 V3.2.1:2008 dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-4 V2.2.1:2003 Termin min Art. 3 ust. 2 Cz 4: Zharmonizowana EN dla IMT-2000 CDMA V3.2.1:2007 Uwaga 2.1 (31.05.2009) z wieloma falami no nymi (cdma2000) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 876 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) ETSI EN 301 908-4 171. PN-ETSI EN 301 908-4 V3.2.1:2008 dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-4 V2.2.1:2003 Termin min Art. 3 ust. 2 Cz 4: Zharmonizowana EN dla IMT-2000 CDMA V3.2.1:2007 Uwaga 2.1 (31.05.2009) z wieloma falami no nymi (cdma2000) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34727,7 +34731,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) ETSI EN 301 908-6 175. PN-ETSI EN 301 908-6 V3.2.1:2008 dla sieci komórkowych trzeciej generacji IMT-2000 -- EISI EN 301 908-6 V2.2.1:2003 Termin min Art. 3 ust. 2 Cz 6: Zharmonizowana EN dla IMT-2000, CDMA V3.2.1:2007 Uwaga 2.1 (31.05.2009) TDD (UTR TDD) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 877 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) ETSI EN 301 908-6 175. PN-ETSI EN 301 908-6 V3.2.1:2008 dla sieci komórkowych trzeciej generacji IMT-2000 -- EISI EN 301 908-6 V2.2.1:2003 Termin min Art. 3 ust. 2 Cz 6: Zharmonizowana EN dla IMT-2000, CDMA V3.2.1:2007 Uwaga 2.1 (31.05.2009) TDD (UTR TDD) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34743,7 +34747,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS) i urz dzenia u ytkownika (UE) dla sieci komórkowych 179. PN-ETSI EN 301 908-8 V1.1.1:2003 trzeciej generacji IMT-2000 -- Cz 8: ETSI EN 301 908-8 Art. 3 ust. 2 Zharmonizowana EN dla IMT-2000 TDMA V1.1.1:2002 z pojedynczymi falami no nymi (UWC 136) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 878 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS) i urz dzenia u ytkownika (UE) dla sieci komórkowych 179. PN-ETSI EN 301 908-8 V1.1.1:2003 trzeciej generacji IMT-2000 -- Cz 8: ETSI EN 301 908-8 Art. 3 ust. 2 Zharmonizowana EN dla IMT-2000 TDMA V1.1.1:2002 z pojedynczymi falami no nymi (UWC 136) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34759,7 +34763,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-11 ETSI EN 301 908- Termin min 183. PN-ETSI EN 301 908-11 V3.2.1:2007 Cz 11: Zharmonizowana EN dla IMT-2000 CDMA V3.2.1:2007 11 V2.3.1:2004 (31.01.2009) Art. 3 ust. 2 z rozproszeniem bezpo rednim (ULTRA FDD) (stacje Uwaga 2.1 przeka nikowe) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 879 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-11 ETSI EN 301 908- Termin min 183. PN-ETSI EN 301 908-11 V3.2.1:2007 Cz 11: Zharmonizowana EN dla IMT-2000 CDMA V3.2.1:2007 11 V2.3.1:2004 (31.01.2009) Art. 3 ust. 2 z rozproszeniem bezpo rednim (ULTRA FDD) (stacje Uwaga 2.1 przeka nikowe) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34775,7 +34779,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-13 187. PN-ETSI EN 301 908-13 V4.2.1:2010 Cz 13: Zharmonizowana EN dla IMT-2000 V4.2.1:2010 Art. 3 ust. 2 rozwini tego uniwersalnego dost pu do radia naziemnego (E-UTRA) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 Dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 880 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-13 187. PN-ETSI EN 301 908-13 V4.2.1:2010 Cz 13: Zharmonizowana EN dla IMT-2000 V4.2.1:2010 Art. 3 ust. 2 rozwini tego uniwersalnego dost pu do radia naziemnego (E-UTRA) (UE) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 Dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34791,7 +34795,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-17 191. PN-ETSI EN 301 908-17 V4.2.1:2010 Cz 17: Zharmonizowana EN dla IMT-2000 V4.2.1:2010 Art. 3 ust. 2 rozwini tego ultraszerokopasmowego ruchomego systemu CDMA z wieloma falami no nymi (UMB) (BS) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 Dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 881 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Stacje bazowe (BS), stacje przeka nikowe i urz dzenia u ytkownika (UE) dla sieci komórkowych trzeciej generacji IMT-2000 -- ETSI EN 301 908-17 191. PN-ETSI EN 301 908-17 V4.2.1:2010 Cz 17: Zharmonizowana EN dla IMT-2000 V4.2.1:2010 Art. 3 ust. 2 rozwini tego ultraszerokopasmowego ruchomego systemu CDMA z wieloma falami no nymi (UMB) (BS) zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 Dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34811,7 +34815,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Urz dzenia meteorologiczne (Met Aids) – Sondy radiowe 196. PN-ETSI EN 302 054-2 V1.1.1:2004 u ywane w zakresie cz stotliwo ci od 400,15 MHz do ETSI EN 302 054-2 Art. 3 ust. 2 406 MHz o poziomach mocy do 200 mW – Cz 2: V1.1.1:2003 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 882 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) – Urz dzenia meteorologiczne (Met Aids) – Sondy radiowe 196. PN-ETSI EN 302 054-2 V1.1.1:2004 u ywane w zakresie cz stotliwo ci od 400,15 MHz do ETSI EN 302 054-2 Art. 3 ust. 2 406 MHz o poziomach mocy do 200 mW – Cz 2: V1.1.1:2003 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34831,7 +34835,7 @@
         },
         {
          "type": "text",
-         "text": "Naziemne stacje i systemy satelitarne (SES) -- Zharmonizowana EN dotycz ca ruchomych 201. PN-ETSI EN 302 186 V1.1.1:2009 samolotowych stacji satelitarnych (AES) pracuj cych ETSI EN 302 186 Art. 3 ust. 2 w zakresach cz stotliwo ci 11/12/14 GHz V1.1.1:2004 spe niaj cych zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE Monitor Polski Nr 17 — 883 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Naziemne stacje i systemy satelitarne (SES) -- Zharmonizowana EN dotycz ca ruchomych 201. PN-ETSI EN 302 186 V1.1.1:2009 samolotowych stacji satelitarnych (AES) pracuj cych ETSI EN 302 186 Art. 3 ust. 2 w zakresach cz stotliwo ci 11/12/14 GHz V1.1.1:2004 spe niaj cych zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34851,7 +34855,7 @@
         },
         {
          "type": "text",
-         "text": "Radiowe systemy czno ci sta ej -- Charakterystyki i wymagania dla urz dze i anten czy punkt-punkt -- Cz 2-2: Zharmonizowana EN zapewniaj ca ETSI EN 302 217-2-2 ETSI EN 302 217-2- Termin min 206. PN-ETSI EN 302 217-2-2 V1.2.3:2008 spe nienie zasadniczych wymaga artyku u 3.2 V1.2.3:2007 2 V1.1.3:2004 (31.05.2009) Art. 3 ust. 2 dyrektywy R&TTE dla cyfrowych systemów Uwaga 2.1 pracuj cych w pasmach, w których wymagana jest koordynacja cz stotliwo ci (oryg.) Monitor Polski Nr 17 — 884 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Radiowe systemy czno ci sta ej -- Charakterystyki i wymagania dla urz dze i anten czy punkt-punkt -- Cz 2-2: Zharmonizowana EN zapewniaj ca ETSI EN 302 217-2-2 ETSI EN 302 217-2- Termin min 206. PN-ETSI EN 302 217-2-2 V1.2.3:2008 spe nienie zasadniczych wymaga artyku u 3.2 V1.2.3:2007 2 V1.1.3:2004 (31.05.2009) Art. 3 ust. 2 dyrektywy R&TTE dla cyfrowych systemów Uwaga 2.1 pracuj cych w pasmach, w których wymagana jest koordynacja cz stotliwo ci (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34871,7 +34875,7 @@
         },
         {
          "type": "text",
-         "text": "Radiowe systemy czno ci sta ej -- Charakterystyki i wymagania dla urz dze i anten czy punkt-punkt -- ETSI EN 302 217-4-2 ETSI EN 302 217-4- 211. PN-ETSI EN 302 217-4-2 V1.4.1:2009 Cz 4-2: Zharmonizowana EN zapewniaj ca V1.4.1:2009 2 V1.3.1:2006 31.12.2010 Art. 3 ust. 2 spe nienie zasadniczych wymaga zgodnie Uwaga 2.1 z artyku em 3.2 dyrektywy R&TTE dla anten (oryg.) Monitor Polski Nr 17 — 885 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Radiowe systemy czno ci sta ej -- Charakterystyki i wymagania dla urz dze i anten czy punkt-punkt -- ETSI EN 302 217-4-2 ETSI EN 302 217-4- 211. PN-ETSI EN 302 217-4-2 V1.4.1:2009 Cz 4-2: Zharmonizowana EN zapewniaj ca V1.4.1:2009 2 V1.3.1:2006 31.12.2010 Art. 3 ust. 2 spe nienie zasadniczych wymaga zgodnie Uwaga 2.1 z artyku em 3.2 dyrektywy R&TTE dla anten (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34891,7 +34895,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu -- Telematyka transportu i ruchu drogowego ETSI EN 302 288-2 216. PN-ETSI EN 302 288-2 V1.2.2:2008 (RTTT) -- Urz dzenia radarowe bliskiego zasi gu ETSI EN 302 288-2 V1.2.1:2006 Termin min Art. 3 ust. 2 pracuj ce w zakresie 24 GHz -- Cz 2: V1.2.2:2008 Uwaga 2.1 (31.05.2009) Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 886 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu -- Telematyka transportu i ruchu drogowego ETSI EN 302 288-2 216. PN-ETSI EN 302 288-2 V1.2.2:2008 (RTTT) -- Urz dzenia radarowe bliskiego zasi gu ETSI EN 302 288-2 V1.2.1:2006 Termin min Art. 3 ust. 2 pracuj ce w zakresie 24 GHz -- Cz 2: V1.2.2:2008 Uwaga 2.1 (31.05.2009) Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34915,7 +34919,7 @@
         },
         {
          "type": "text",
-         "text": "Radiowe systemy czno ci sta ej -- Anteny i urz dzenia czno ci wielopunktowej -- Cz 3: ETSI EN 302 326-3 222. PN-ETSI EN 302 326-3 V1.3.1:2008 Zharmonizowana EN zapewniaj ca spe nienie ETSI EN 302 326-3 V1.2.2:2007 Termin min Art. 3 ust. 2 zasadniczych wymaga zgodnie z artyku em 3.2 V1.3.1:2008 Uwaga 2.1 (31.10.2009) dyrektywy R&TTE dotycz ca anten wielopunktowej czno ci radiowej (oryg.) Monitor Polski Nr 17 — 887 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Radiowe systemy czno ci sta ej -- Anteny i urz dzenia czno ci wielopunktowej -- Cz 3: ETSI EN 302 326-3 222. PN-ETSI EN 302 326-3 V1.3.1:2008 Zharmonizowana EN zapewniaj ca spe nienie ETSI EN 302 326-3 V1.2.2:2007 Termin min Art. 3 ust. 2 zasadniczych wymaga zgodnie z artyku em 3.2 V1.3.1:2008 Uwaga 2.1 (31.10.2009) dyrektywy R&TTE dotycz ca anten wielopunktowej czno ci radiowej (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34931,7 +34935,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Parametry techniczne urz dze SRD wykorzystuj cych technologi ultra- 226. PN-ETSI EN 302 435-2 V1.2.1:2008 szerokopasmow (UWB) -- Analiza budowy ETSI EN 302 435-2 Art. 3 ust. 2 i klasyfikacja urz dze pracuj cych w zakresie V1.2.1:2008 cz stotliwo ci od 2,2 GHz do 8 GHz -- Cz 2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 888 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Parametry techniczne urz dze SRD wykorzystuj cych technologi ultra- 226. PN-ETSI EN 302 435-2 V1.2.1:2008 szerokopasmow (UWB) -- Analiza budowy ETSI EN 302 435-2 Art. 3 ust. 2 i klasyfikacja urz dze pracuj cych w zakresie V1.2.1:2008 cz stotliwo ci od 2,2 GHz do 8 GHz -- Cz 2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34951,7 +34955,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) wykorzystuj ce technik ultraszerokopasmow (UWB) -- Trakingowe ETSI EN 302 500-2 ETSI EN 302 500-2 Termin min 231. PN-ETSI EN 302 500-2 V1.2.1:2008 urz dzenia lokalizacyjne pracuj ce w zakresie V1.2.1:2008 V1.1.1:2006 (31.03.2010) Art. 3 ust. 2 cz stotliwo ci od 6 GHz do 8,5 GHz -- Cz 2: Uwaga 2.1 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z art. 3 ust. 2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 889 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) wykorzystuj ce technik ultraszerokopasmow (UWB) -- Trakingowe ETSI EN 302 500-2 ETSI EN 302 500-2 Termin min 231. PN-ETSI EN 302 500-2 V1.2.1:2008 urz dzenia lokalizacyjne pracuj ce w zakresie V1.2.1:2008 V1.1.1:2006 (31.03.2010) Art. 3 ust. 2 cz stotliwo ci od 6 GHz do 8,5 GHz -- Cz 2: Uwaga 2.1 Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z art. 3 ust. 2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34967,7 +34971,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Systemy transmisji danych do celów medycznych o ultraniskim poziomie mocy, pracuj ce ETSI EN 302 537-2 235. PN-ETSI EN 302 537-2 V1.1.2:2008 w zakresie cz stotliwo ci od 401 MHz do 402 MHz V1.1.2:2007 Art. 3 ust. 2 i od 405 MHz do 406 MHz -- Cz 2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 890 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- Urz dzenia bliskiego zasi gu (SRD) -- Systemy transmisji danych do celów medycznych o ultraniskim poziomie mocy, pracuj ce ETSI EN 302 537-2 235. PN-ETSI EN 302 537-2 V1.1.2:2008 w zakresie cz stotliwo ci od 401 MHz do 402 MHz V1.1.2:2007 Art. 3 ust. 2 i od 405 MHz do 406 MHz -- Cz 2: Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -34987,7 +34991,7 @@
         },
         {
          "type": "text",
-         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- czno ruchoma l dowa -- Urz dzenia radiowe ze sta lub zmienn obwiedni ETSI EN 302 561 240. PN-ETSI EN 302 561 V1.2.1:2010 widma zmodulowanego sygna u, pracuj ce ETSI EN 302 561 V1.1.1 31.08.2011 Art. 3 ust. 2 w kana ach w skopasmowych 25 kHz, 50 kHz, 100 V1.2.1:2009 Uwaga 2.1 kHz lub 150 kHz -- Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 891 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Kompatybilno elektromagnetyczna i zagadnienia widma radiowego (ERM) -- czno ruchoma l dowa -- Urz dzenia radiowe ze sta lub zmienn obwiedni ETSI EN 302 561 240. PN-ETSI EN 302 561 V1.2.1:2010 widma zmodulowanego sygna u, pracuj ce ETSI EN 302 561 V1.1.1 31.08.2011 Art. 3 ust. 2 w kana ach w skopasmowych 25 kHz, 50 kHz, 100 V1.2.1:2009 Uwaga 2.1 kHz lub 150 kHz -- Zharmonizowana EN zapewniaj ca spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -35007,7 +35011,7 @@
         },
         {
          "type": "text",
-         "text": "Szerokopasmowe bezprzewodowe systemy dost powe (BWA) pracuj ce w zakresie cz stotliwo ci 245. PN-ETSI EN 302 623 V1.1.1:2009 od 3 400 MHz do 3 800 MHz -- Przeno ne stacje ETSI EN 302 623 Art. 3 ust. 2 ko cowe -- Zharmonizowana EN zapewniaj ca V1.1.1:2009 spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) Monitor Polski Nr 17 — 892 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Szerokopasmowe bezprzewodowe systemy dost powe (BWA) pracuj ce w zakresie cz stotliwo ci 245. PN-ETSI EN 302 623 V1.1.1:2009 od 3 400 MHz do 3 800 MHz -- Przeno ne stacje ETSI EN 302 623 Art. 3 ust. 2 ko cowe -- Zharmonizowana EN zapewniaj ca V1.1.1:2009 spe nienie zasadniczych wymaga zgodnie z artyku em 3.2 dyrektywy R&TTE (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -35031,7 +35035,7 @@
         },
         {
          "type": "text",
-         "text": "Naziemna czno z grupowym wykorzystaniem kana ów radiowych (TETRA) – Zharmonizowana ETSI EN 303 035-2 251. PN-ETSI EN 303 035-2 V1.2.2:2004 norma EN dotycz ca urz dze TETRA spe niaj cych ETSI EN 303 035-2 V1.2.1:2001 Termin min Art. 3 ust. 2 zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE V1.2.2:2003 Uwaga 2.1 (31.10.2004) – Cz 2: Praca w trybie bezpo rednim (DMO) (oryg.) Monitor Polski Nr 17 — 893 — Poz. 182 1 2 3 4 5 6 7"
+         "text": "Naziemna czno z grupowym wykorzystaniem kana ów radiowych (TETRA) – Zharmonizowana ETSI EN 303 035-2 251. PN-ETSI EN 303 035-2 V1.2.2:2004 norma EN dotycz ca urz dze TETRA spe niaj cych ETSI EN 303 035-2 V1.2.1:2001 Termin min Art. 3 ust. 2 zasadnicze wymagania artyku u 3.2 dyrektywy R&TTE V1.2.2:2003 Uwaga 2.1 (31.10.2004) – Cz 2: Praca w trybie bezpo rednim (DMO) (oryg.) 1 2 3 4 5 6 7"
         },
         {
          "type": "text",
@@ -35043,7 +35047,7 @@
         },
         {
          "type": "text",
-         "text": "* (oryg.) ― Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 894 — Poz. 182"
+         "text": "* (oryg.) ― Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
         }
        ]
       }
@@ -35124,7 +35128,7 @@
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "PN-EN 12927-2:2006 Wymagania bezpiecze stwa dla osobowych kolei linowych -- Liny – Cz EN 12927-2:2004 2: Wspó czynniki bezpiecze stwa Monitor Polski Nr 17 — 895 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 12927-2:2006 Wymagania bezpiecze stwa dla osobowych kolei linowych -- Liny – Cz EN 12927-2:2004 2: Wspó czynniki bezpiecze stwa 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -35201,7 +35205,7 @@
      "children": [
       {
        "type": "text",
-       "text": "EN 13243:2004 20. PN-EN 13243:2007 Wymagania bezpiecze stwa dla osobowych kolei linowych -- Urz dzenia elektryczne inne ni dla uk adów nap dowych EN 13243:2004/ AC:2005 Monitor Polski Nr 17 — 896 — Poz. 182 1 2 3 4 5 6"
+       "text": "EN 13243:2004 20. PN-EN 13243:2007 Wymagania bezpiecze stwa dla osobowych kolei linowych -- Urz dzenia elektryczne inne ni dla uk adów nap dowych EN 13243:2004/ AC:2005 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35224,7 +35228,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame. Monitor Polski Nr 17 — 897 — Poz. 182"
+       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame."
       }
      ]
     }
@@ -35313,7 +35317,7 @@
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "PN-EN 12480:2005 EN 12480:2002 Gazomierze -- Gazomierze rotorowe 12. PN-EN 12480:2005/A1:2008 EN 12480:2002/A1:2006 Monitor Polski Nr 17 — 898 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 12480:2005 EN 12480:2002 Gazomierze -- Gazomierze rotorowe 12. PN-EN 12480:2005/A1:2008 EN 12480:2002/A1:2006 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -35340,7 +35344,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 899 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -35405,7 +35409,7 @@
       },
       {
        "type": "text",
-       "text": "Domowe urz dzenia gazowe do gotowania i pieczenia – Cz EN 30-1-3:2003 Termin min 4. PN-EN 30-1-3+A1:2008 1-3: Bezpiecze stwo -- Urz dzenia z p yt grzejn z tworzywa EN 30-1-3:2003+A1:2006 Uwaga 2.1 (30.06.2007) szklano-ceramicznego Monitor Polski Nr 17 — 900 — Poz. 182 1 2 3 4 5 6"
+       "text": "Domowe urz dzenia gazowe do gotowania i pieczenia – Cz EN 30-1-3:2003 Termin min 4. PN-EN 30-1-3+A1:2008 1-3: Bezpiecze stwo -- Urz dzenia z p yt grzejn z tworzywa EN 30-1-3:2003+A1:2006 Uwaga 2.1 (30.06.2007) szklano-ceramicznego 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35453,7 +35457,7 @@
       },
       {
        "type": "text",
-       "text": "EN 89:1999/A2:2000 Uwaga 3 Termin min (18.07.2001) Monitor Polski Nr 17 — 901 — Poz. 182 1 2 3 4 5 6"
+       "text": "EN 89:1999/A2:2000 Uwaga 3 Termin min (18.07.2001) 1 2 3 4 5 6"
       }
      ]
     },
@@ -35530,7 +35534,7 @@
       },
       {
        "type": "text",
-       "text": "Urz dzenia gazowe dla zak adów zbiorowego ywienia -- Cz EN 203-2:1995 Termin min 23. PN-EN 203-2-7:2007 2-7: Wymagania szczególne -- Opiekacze i ro na EN 203-2-7:2007 Uwaga 2.1 (31.12.2008) bezkontaktowe (oryg.) Monitor Polski Nr 17 — 902 — Poz. 182 1 2 3 4 5 6"
+       "text": "Urz dzenia gazowe dla zak adów zbiorowego ywienia -- Cz EN 203-2:1995 Termin min 23. PN-EN 203-2-7:2007 2-7: Wymagania szczególne -- Opiekacze i ro na EN 203-2-7:2007 Uwaga 2.1 (31.12.2008) bezkontaktowe (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35581,7 +35585,7 @@
      "type": "ust",
      "num": "33",
      "path": "ust_33",
-     "text": "PN-EN 297:2002/AC:2006 EN 297:1994/A2:1996/AC:2006 Monitor Polski Nr 17 — 903 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 297:2002/AC:2006 EN 297:1994/A2:1996/AC:2006 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -35645,7 +35649,7 @@
      "type": "ust",
      "num": "44",
      "path": "ust_44",
-     "text": "PN-EN 437+A1:2009 Gazy do bada -- Ci nienia próbne -- Kategorie urz dze (oryg.) EN 437:2003+A1:2009 EN 437:2003 Termin min Uwaga 2.1 (18.11.2009) Monitor Polski Nr 17 — 904 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 437+A1:2009 Gazy do bada -- Ci nienia próbne -- Kategorie urz dze (oryg.) EN 437:2003+A1:2009 EN 437:2003 Termin min Uwaga 2.1 (18.11.2009) 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -35693,7 +35697,7 @@
      "type": "ust",
      "num": "52",
      "path": "ust_52",
-     "text": "PN-EN 509:2002 Urz dzenia gazowe z dekoracyjnym efektem spalania (oryg.) EN 509:1999 Monitor Polski Nr 17 — 905 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 509:2002 Urz dzenia gazowe z dekoracyjnym efektem spalania (oryg.) EN 509:1999 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -35746,7 +35750,7 @@
       },
       {
        "type": "text",
-       "text": "Wymagania dotycz ce specjalizowanych urz dze zasilanych 62. PN-EN 624:2002/A2:2007 skroplonymi gazami w glowodorowymi C3-C4 – Ogrzewacze EN 624:2000/A2:2007 Uwaga 3 Termin min pomieszcze z zamkni tym spalaniem przeznaczone do (05.06.2009) pojazdów i odzi (oryg.) Monitor Polski Nr 17 — 906 — Poz. 182 1 2 3 4 5 6"
+       "text": "Wymagania dotycz ce specjalizowanych urz dze zasilanych 62. PN-EN 624:2002/A2:2007 skroplonymi gazami w glowodorowymi C3-C4 – Ogrzewacze EN 624:2000/A2:2007 Uwaga 3 Termin min pomieszcze z zamkni tym spalaniem przeznaczone do (05.06.2009) pojazdów i odzi (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35793,7 +35797,7 @@
       },
       {
        "type": "text",
-       "text": "rodki uszczelniaj ce do metalowych po cze gwintowych EN 751-3:1996 72. PN-EN 751-3:2005 b d cych w kontakcie z gazami 1., 2. i 3. rodziny i wod gor c -- Cz 3: Niespiekane ta my PTFE EN 751-3:1996/AC:1997 Monitor Polski Nr 17 — 907 — Poz. 182 1 2 3 4 5 6"
+       "text": "rodki uszczelniaj ce do metalowych po cze gwintowych EN 751-3:1996 72. PN-EN 751-3:2005 b d cych w kontakcie z gazami 1., 2. i 3. rodziny i wod gor c -- Cz 3: Niespiekane ta my PTFE EN 751-3:1996/AC:1997 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35833,7 +35837,7 @@
       },
       {
        "type": "text",
-       "text": "Gazowe ogrzewacze konwekcyjne wyposa one 81. PN-EN 1266:2004 w wentylator wspomagaj cy doprowadzenie powietrza do EN 1266:2002 spalania i/lub odprowadzenie spalin (oryg.) Monitor Polski Nr 17 — 908 — Poz. 182 1 2 3 4 5 6"
+       "text": "Gazowe ogrzewacze konwekcyjne wyposa one 81. PN-EN 1266:2004 w wentylator wspomagaj cy doprowadzenie powietrza do EN 1266:2002 spalania i/lub odprowadzenie spalin (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35873,7 +35877,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Urz dzenia steruj ce dop ywem powietrza przeznaczone do 90. PN-EN 12067-1:2002 palników gazowych i odbiorników spalaj cych gaz -- Cz 1: EN 12067-1:1998 Urz dzenia typu pneumatycznego (oryg.) Monitor Polski Nr 17 — 909 — Poz. 182 1 2 3 4 5 6"
+       "text": "Urz dzenia steruj ce dop ywem powietrza przeznaczone do 90. PN-EN 12067-1:2002 palników gazowych i odbiorników spalaj cych gaz -- Cz 1: EN 12067-1:1998 Urz dzenia typu pneumatycznego (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35917,7 +35921,7 @@
       },
       {
        "type": "text",
-       "text": "Gazowe suszarki b bnowe typu B o nominalnym obci eniu 100. PN-EN 12752-2:2002 cieplnym nieprzekraczaj cym 20 kW -- Cz 2: Racjonalne EN 12752-2:1999 zu ycie energii (oryg.) Monitor Polski Nr 17 — 910 — Poz. 182 1 2 3 4 5 6"
+       "text": "Gazowe suszarki b bnowe typu B o nominalnym obci eniu 100. PN-EN 12752-2:2002 cieplnym nieprzekraczaj cym 20 kW -- Cz 2: Racjonalne EN 12752-2:1999 zu ycie energii (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35956,7 +35960,7 @@
       },
       {
        "type": "text",
-       "text": "Automatyczne zawory zmiennego obci enia o maksymalnym 108. PN-EN 13786+A1:2009 ci nieniu wylotowym do 4 bar w cznie i wydajno ci do 100 kg/h EN 13786:2004+A1:2008 EN 13786:2004 Termin min w cznie oraz zwi zane z nimi urz dzenia zabezpieczaj ce, Uwaga 2.1 (05.06.2009) przeznaczone do butanu, propanu lub ich mieszanin (oryg.) Monitor Polski Nr 17 — 911 — Poz. 182 1 2 3 4 5 6"
+       "text": "Automatyczne zawory zmiennego obci enia o maksymalnym 108. PN-EN 13786+A1:2009 ci nieniu wylotowym do 4 bar w cznie i wydajno ci do 100 kg/h EN 13786:2004+A1:2008 EN 13786:2004 Termin min w cznie oraz zwi zane z nimi urz dzenia zabezpieczaj ce, Uwaga 2.1 (05.06.2009) przeznaczone do butanu, propanu lub ich mieszanin (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -35992,7 +35996,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 912 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -36040,7 +36044,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 913 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -36103,7 +36107,7 @@
       },
       {
        "type": "text",
-       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame. Monitor Polski Nr 17 — 914 — Poz. 182"
+       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame."
       }
      ]
     }
@@ -36199,7 +36203,7 @@
      "type": "ust",
      "num": "10",
      "path": "ust_10",
-     "text": "PN-EN 13232-7:2006 Kolejnictwo -- Tor -- Rozjazdy i skrzy owania -- Cz 7: Krzy ownice EN 13232-7:2006 z cz ciami ruchomymi (oryg.) Monitor Polski Nr 17 — 915 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 13232-7:2006 Kolejnictwo -- Tor -- Rozjazdy i skrzy owania -- Cz 7: Krzy ownice EN 13232-7:2006 z cz ciami ruchomymi (oryg.) 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -36270,7 +36274,7 @@
       },
       {
        "type": "text",
-       "text": "Kolejnictwo -- Tor -- Szyna -- Cz 2: Szyny do rozjazdów i skrzy owa 24. PN-EN 13674-2:2006 stosowane w po czeniu z szynami kolejowymi Vignole'a o masie 46 EN 13674-2:2006 kg/m i wi kszej (oryg.) Monitor Polski Nr 17 — 916 — Poz. 182 1 2 3 4 5 6"
+       "text": "Kolejnictwo -- Tor -- Szyna -- Cz 2: Szyny do rozjazdów i skrzy owa 24. PN-EN 13674-2:2006 stosowane w po czeniu z szynami kolejowymi Vignole'a o masie 46 EN 13674-2:2006 kg/m i wi kszej (oryg.) 1 2 3 4 5 6"
       }
      ]
     },
@@ -36345,7 +36349,7 @@
      "type": "ust",
      "num": "36",
      "path": "ust_36",
-     "text": "PN-EN 14813-2:2006 Kolejnictwo -- Klimatyzacja kabin maszynisty -- Cz 2: Badania typu EN 14813-2:2006 (oryg.) Monitor Polski Nr 17 — 917 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 14813-2:2006 Kolejnictwo -- Klimatyzacja kabin maszynisty -- Cz 2: Badania typu EN 14813-2:2006 (oryg.) 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -36436,7 +36440,7 @@
      "type": "ust",
      "num": "49",
      "path": "ust_49",
-     "text": "PN-EN 15595:2009 Kolejnictwo -- Hamowanie -- Urz dzenia przeciwpo lizgowe (oryg.) EN 15595:2009 Monitor Polski Nr 17 — 918 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 15595:2009 Kolejnictwo -- Hamowanie -- Urz dzenia przeciwpo lizgowe (oryg.) EN 15595:2009 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -36519,7 +36523,7 @@
      "type": "ust",
      "num": "60",
      "path": "ust_60",
-     "text": "PN-EN 50128:2002 Zastosowania kolejowe -- czno , sygnalizacja i systemy sterowania – EN 50128:2001 Programy dla kolejowych systemów sterowania i zabezpieczenia (oryg.) Monitor Polski Nr 17 — 919 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 50128:2002 Zastosowania kolejowe -- czno , sygnalizacja i systemy sterowania – EN 50128:2001 Programy dla kolejowych systemów sterowania i zabezpieczenia (oryg.) 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -36590,7 +36594,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Zastosowania kolejowe -- Systemy odbioru pr du -- Wymagania 72. PN-EN 50317:2003 dotycz ce walidacji wyników pomiarów oddzia ywania dynamicznego EN 50317:2002 pomi dzy pantografem a sieci jezdn górn (oryg.) Monitor Polski Nr 17 — 920 — Poz. 182 1 2 3 4 5 6"
+       "text": "Zastosowania kolejowe -- Systemy odbioru pr du -- Wymagania 72. PN-EN 50317:2003 dotycz ce walidacji wyników pomiarów oddzia ywania dynamicznego EN 50317:2002 pomi dzy pantografem a sieci jezdn górn (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -36629,7 +36633,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 921 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -36718,7 +36722,7 @@
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "PN-EN 13715:2008 Kolejnictwo -- Zestawy ko owe i wózki -- Ko a -- EN 13715:2006 Zewn trzne zarysy wie ców kó Monitor Polski Nr 17 — 922 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 13715:2008 Kolejnictwo -- Zestawy ko owe i wózki -- Ko a -- EN 13715:2006 Zewn trzne zarysy wie ców kó 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -36791,7 +36795,7 @@
      "type": "ust",
      "num": "20",
      "path": "ust_20",
-     "text": "PN-EN 15551:2009 Kolejnictwo -- Pojazdy szynowe – Zderzaki (oryg.) EN 15551:2009 Monitor Polski Nr 17 — 923 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 15551:2009 Kolejnictwo -- Pojazdy szynowe – Zderzaki (oryg.) EN 15551:2009 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -36841,7 +36845,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 924 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -36905,7 +36909,7 @@
       },
       {
        "type": "text",
-       "text": "Elektryczne przyrz dy do u ytku domowego i podobnego -- 8. PN-EN 60704-2-5:2005 Procedura badania ha asu -- Cz 2-5: Wymagania EN 60704-2-5:2005 Nie dotyczy szczegó owe dotycz ce akumulacyjnych ogrzewaczy pomieszcze (oryg.) Monitor Polski Nr 17 — 925 — Poz. 182 1 2 3 4 5 6"
+       "text": "Elektryczne przyrz dy do u ytku domowego i podobnego -- 8. PN-EN 60704-2-5:2005 Procedura badania ha asu -- Cz 2-5: Wymagania EN 60704-2-5:2005 Nie dotyczy szczegó owe dotycz ce akumulacyjnych ogrzewaczy pomieszcze (oryg.) 1 2 3 4 5 6"
       },
       {
        "type": "text",
@@ -36941,7 +36945,7 @@
       },
       {
        "type": "text",
-       "text": "Ha as elektrycznego sprz tu do u ytku domowego 17. PN-EN 60704-3:2006 i podobnego -- Cz 3: Procedura okre lania i weryfikowania EN 60704-3:2006 Nie dotyczy deklarowanych warto ci emisji ha asu (oryg.) Monitor Polski Nr 17 — 926 — Poz. 182 Uwaga 1: Z asadniczo datą ustania stosowania jest data wycofania („dw”) określona przez europejskie organizacje normalizacyjne, niemniej użytkownicy tych norm powinni zdawać sobie sprawę, że w wyjątkowych przypadkach może być inaczej. Uwaga 2.1: Z akres normy nowej (lub ze zmianami) jest taki sam jak normy zastąpionej. Od podanej daty norma zastąpiona nie może być stosowana jako norma zharmonizowana z dyrektywą. Uwaga 3: W przypadku zmian normą zharmonizowaną jest dana EN wraz z jej wcześniejszymi zmianami, jeżeli istnieją, oraz nową podaną zmianą. Zatem norma zastąpiona (kolumna 5) obejmuje daną EN, lecz tylko z jej wcześniejszymi zmianami (bez zmiany nowej). W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy."
+       "text": "Ha as elektrycznego sprz tu do u ytku domowego 17. PN-EN 60704-3:2006 i podobnego -- Cz 3: Procedura okre lania i weryfikowania EN 60704-3:2006 Nie dotyczy deklarowanych warto ci emisji ha asu (oryg.) Uwaga 1: Z asadniczo datą ustania stosowania jest data wycofania („dw”) określona przez europejskie organizacje normalizacyjne, niemniej użytkownicy tych norm powinni zdawać sobie sprawę, że w wyjątkowych przypadkach może być inaczej. Uwaga 2.1: Z akres normy nowej (lub ze zmianami) jest taki sam jak normy zastąpionej. Od podanej daty norma zastąpiona nie może być stosowana jako norma zharmonizowana z dyrektywą. Uwaga 3: W przypadku zmian normą zharmonizowaną jest dana EN wraz z jej wcześniejszymi zmianami, jeżeli istnieją, oraz nową podaną zmianą. Zatem norma zastąpiona (kolumna 5) obejmuje daną EN, lecz tylko z jej wcześniejszymi zmianami (bez zmiany nowej). W podanym terminie ustaje domniemanie zgodności postanowień normy zastąpionej z wymaganiami zasadniczymi dyrektywy."
       },
       {
        "type": "text",
@@ -36957,7 +36961,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 927 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -37041,7 +37045,7 @@
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "PN-EN 957-7:2002 Stacjonarny sprz t treningowy -- Cz 7: Trena ery wio larskie, EN 957-7:1998 dodatkowe szczególne wymagania bezpiecze stwa i metody bada Monitor Polski Nr 17 — 928 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 957-7:2002 Stacjonarny sprz t treningowy -- Cz 7: Trena ery wio larskie, EN 957-7:1998 dodatkowe szczególne wymagania bezpiecze stwa i metody bada 1 2 3 4 5 6",
      "children": [
       {
        "type": "text",
@@ -37133,7 +37137,7 @@
      "type": "ust",
      "num": "22",
      "path": "ust_22",
-     "text": "PN-EN 1651:2002 Sprz t paralotniowy -- Uprz e -- Wymagania bezpiecze stwa i badania EN 1651:1999 wytrzyma o ci Monitor Polski Nr 17 — 929 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 1651:2002 Sprz t paralotniowy -- Uprz e -- Wymagania bezpiecze stwa i badania EN 1651:1999 wytrzyma o ci 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -37217,7 +37221,7 @@
      "type": "ust",
      "num": "35",
      "path": "ust_35",
-     "text": "PN-EN 13899:2005 Sprz t sportowy rolkowy -- Wrotki -- Wymagania bezpiecze stwa EN 13899:2003 i metody bada Monitor Polski Nr 17 — 930 — Poz. 182 1 2 3 4 5 6",
+     "text": "PN-EN 13899:2005 Sprz t sportowy rolkowy -- Wrotki -- Wymagania bezpiecze stwa EN 13899:2003 i metody bada 1 2 3 4 5 6",
      "children": []
     },
     {
@@ -37284,7 +37288,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania zgodności mogą nie być tożsame. Monitor Polski Nr 17 — 931 — Poz. 182"
+       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania zgodności mogą nie być tożsame."
       }
      ]
     }
@@ -37372,7 +37376,7 @@
       },
       {
        "type": "text",
-       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 932 — Poz. 182"
+       "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
       }
      ]
     }
@@ -37409,7 +37413,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame. Monitor Polski Nr 17 — 933 — Poz. 182"
+       "text": "Uwaga 1: D ata ustania domniemania zgodności jest zasadniczo datą wycofania („dw”) określoną przez europejskie organizacje normalizacyjne. Zwraca się jednak uwagę użytkowników tych norm na fakt, że w niektórych szczególnych przypadkach data wycofania i data ustania domniemania mogą nie być tożsame."
       }
      ]
     }
@@ -37464,7 +37468,11 @@
     },
     {
      "type": "text",
-     "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze. Monitor Polski Nr 17 — 934 — Poz. 182 — 935 —"
+     "text": "* (oryg.) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki), poprzednio wyróżniane oznaczeniem (U) po numerze."
+    },
+    {
+     "type": "text",
+     "text": "— 935 —"
     },
     {
      "type": "note",

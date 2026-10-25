@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/579",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Świeżej",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/579/text.pdf",
  "body": [
   {
@@ -260,138 +260,146 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "14.",
+   "children": [
+    {
+     "type": "text",
+     "text": "15"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "16",
+   "path": "ust_16",
+   "text": "17. 18.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ..... Laon ee Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ......... Strategia Gospodarki Wodnej 2005 r. LL anno a A Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. .. Lua aaa ee eee Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lara 121 Strategie rozwoju dla województw LL Łona A Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............. Wojewódzkie programy udrażniania rzek 2... ra 1 Programy malej retencji 2... . A Plany ochrony dla obszarów Natura 2000 LL Lowa nans oa ora 1 . Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmian w planie .......... 02.0002 eee r 11 ltura konsultacji społecznych .. bazowa 1 Il tura konsultacji społecznych LL 2. rar 1 A Ill tura konsultacji społecznych .. Lazar ee Podsumowanie wyników .. Loewe ee Wykaz właściwych władz LLL Looe A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW ..... LL nono 1 Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Świeże] ..... ee Literatura 2 A Spistabel LL Łona A Spis rySUnkÓW LL Leona"
     },
     {
-     "type": "ocr",
-     "text": "13. 14."
-    },
-    {
-     "type": "ocr",
-     "text": "15."
-    },
-    {
-     "type": "ocr",
-     "text": "16. 17. 18."
-    },
-    {
-     "type": "ocr",
-     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ..... Laon ee Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ......... Strategia Gospodarki Wodnej 2005 r. LL anno a A Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. .. Lua aaa ee eee Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lara 121 Strategie rozwoju dla wojewodztw LL Lona A Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............. Wojewódzkie programy udrazniania rzek 2... ra 1 Programy malej retencji 2... . A Plany ochrony dla obszarów Natura 2000 LL Lowa nans oa ora 1 . Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmian w planie .......... 02.0002 eee r 11 ltura konsultacji społecznych .. bazowa 1 Il tura konsultacji społecznych LL 2. rar 1 A Ill tura konsultacji społecznych .. Lazar ee Podsumowanie wynikow .. Loewe ee Wykaz właściwych władz LLL Looe A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW ..... LL nono 1 Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Świeże] ..... ee Literatura 2 A Spistabel LL Lona A Spis rySUnkOW LL Leona"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Załączniki:"
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 1 — mapy: «|Mapa 1. Granica obszaru dorzecza Świeżej .. 2. aaa) « Mapa 2. Jednolite części wód powierzchniowych — obszar dorzecza Świeżej ....... « Mapa 3. Scalone części wód powierzchniowych — obszar dorzecza Świeżej ........ « Mapa 4. Jednolite części wód podziemnych — obszar dorzecza Świeżej .......... «Mapa 5. Typy jednolitych części wód powierzchniowych— obszar dorzecza Świeżej «|Mapa 6. Ekoregiony — obszar dorzecza Świeżej . we « Mapa 7. Ocena stanu jednolitych części wód powierzchniowych — obszar dorzecza Świeżej * Mapa 8. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Swiezej we Mapa 9. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Swiezej LL LL ozonowa e Mapa 10. Sieć monitoringu wód powierzchniowych — obszar dorzecza Świeżej ...... * Mapa 11. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Świeżej ..... e Mapa 12. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Swiezej we"
+     "type": "text",
+     "text": "Załącznik nr 1 — mapy: «|Mapa 1. Granica obszaru dorzecza Świeżej .. 2. aaa) « Mapa 2. Jednolite części wód powierzchniowych — obszar dorzecza Świeżej ....... « Mapa 3. Scalone części wód powierzchniowych — obszar dorzecza Świeżej ........ « Mapa 4. Jednolite części wód podziemnych — obszar dorzecza Świeżej .......... «Mapa 5. Typy jednolitych części wód powierzchniowych— obszar dorzecza Świeżej «|Mapa 6. Ekoregiony — obszar dorzecza Świeżej . we « Mapa 7. Ocena stanu jednolitych części wód powierzchniowych — obszar dorzecza Świeżej * Mapa 8. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Świeżej we Mapa 9. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Świeżej LL LL ozonowa e Mapa 10. Sieć monitoringu wód powierzchniowych — obszar dorzecza Świeżej ...... * Mapa 11. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Świeżej ..... e Mapa 12. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Świeżej we"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód .. LLL Lares ee"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 3 — Mapy do celów planistycznych: e Mapa nr 1. Granice obszarów dorzeczy i regionów wodnych .. . . .. Lear 111 1 e Mapa nr2. Jednolite części wód powierzchniowych ............022 +0000 1 e Mapa nr3. Scalone części wód powierzchniowych ........--..00 002202 1 1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4977 4979 4981 4984 4988 4990 4992 4993 4993 4994 4996 4997 4999"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5001 5001 5002 5004 5005 5007"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5020"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5023 5029 5032 5033"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5034 5035 5036 5037 5038 5039 5040"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5041"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5042 5043"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5044"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5045"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5046"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5049 5050 5051"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa nr 4. e Mapa nr 5. e Mapa nr 6. e Mapa nr 7. e Mapa nr 8. e Mapa nr 9. e Mapa nr 10."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa nr 11. e Mapa nr 12. e Mapa nr 13. e Mapa nr 14. e Mapa nr 15. e Mapa nr 16."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa nr 17."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa nr 18."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa nr 19."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa nr 20."
     },
     {
-     "type": "ocr",
-     "text": "Jednolite części wód podziemnych .........-.. 000022 eee eee Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony .. 2... 2. AA Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych iprzybrzeżnych .. LL Looe A Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . LL Lazer nora 1 1 1 Sieć monitoringu wód podziemnych ..... LLL noge soon eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1 1 «2 2 2222. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .. . . 1 ua aaa ea 211 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL eo A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie .. .... Punktowe i obszarowe źródła zanieczyszczeń ..... Leao oae ee 121"
+     "type": "text",
+     "text": "Jednolite części wód podziemnych .........-.. 000022 eee eee Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony .. 2... 2. AA Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych i przybrzeżnych .. LL Looe A Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . LL Lazer nora 1 1 1 Sieć monitoringu wód podziemnych ..... LLL nogę soon eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1 1 «2 2 2222. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .. . . 1 ua aaa ea 211 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL eo A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie .. .... Punktowe i obszarowe źródła zanieczyszczeń ..... Leao oae ee 121"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5052 5053 5054 5055 5056 5057"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5058 5059 5060 5061 5062 5063"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5064"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5065"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5066"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5067 5068"
     }
    ]
@@ -528,7 +536,7 @@
     },
     {
      "type": "text",
-     "text": "Jednolita część wód powierzchniowych – oznacza oddzielny i znaczący element wód powierzchniowych (jezioro lub inny naturalny zbiornik wodny, sztuczny zbiornik wody, rzeka, struga, strumień, potok, kan ał lub ich część, morskie wody wewnętrzne, wody przejściowe lub wody przybrzeżne)."
+     "text": "Jednolita część wód powierzchniowych – oznacza oddzielny i znaczący element wód powierzchniowych (jezioro lub inny naturalny zbiornik wodny, sztuczny zbiornik wody, rzeka, struga, strumień, potok, kanał lub ich część, morskie wody wewnętrzne, wody przejściowe lub wody przybrzeżne)."
     },
     {
      "type": "text",
@@ -1075,11 +1083,7 @@
     },
     {
      "type": "text",
-     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT , ChZT , N , P , zawiesina ogólna) [kg/rok] przedstawiono w poniższej 5 Cr og og"
-    },
-    {
-     "type": "text",
-     "text": "tabeli [oszacowano na podstawie danych z GUS, 2007]."
+     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT₅, ChZTCr, Nog, Pog, zawiesina ogólna) [kg/rok] przedstawiono w poniższej tabeli [oszacowano na podstawie danych z GUS, 2007]."
     },
     {
      "type": "text",
@@ -1091,7 +1095,7 @@
     },
     {
      "type": "text",
-     "text": "ChZT Cr 70 364,7 kg/rok"
+     "text": "ChZTCr 70 364,7 kg/rok"
     },
     {
      "type": "text",
@@ -1115,11 +1119,11 @@
     },
     {
      "type": "text",
-     "text": "BZT 391,9 kg/rok/km²"
+     "text": "BZT₅ 391,9 kg/rok/km²"
     },
     {
      "type": "text",
-     "text": "ChZT⁵ Cr 814,0 kg/rok/km²"
+     "text": "ChZTCr 814,0 kg/rok/km²"
     },
     {
      "type": "text",
@@ -1191,7 +1195,7 @@
     },
     {
      "type": "text",
-     "text": "Resko Olsztyn Szczecinek Chojnice"
+     "text": "Resko Olsztyn SzczecinekChojnice"
     },
     {
      "type": "text",
@@ -1259,15 +1263,11 @@
     },
     {
      "type": "text",
-     "text": "Resko Olsztyn Szczecinek Chojnice"
+     "text": "Resko Olsztyn SzczecinekChojnice"
     },
     {
      "type": "text",
-     "text": "Szczecin"
-    },
-    {
-     "type": "text",
-     "text": "Piła Białystok Toruń Mława Ostrołęka"
+     "text": "Szczecin Piła Białystok Toruń Mława Ostrołęka"
     },
     {
      "type": "text",
@@ -1855,7 +1855,7 @@
     },
     {
      "type": "text",
-     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 Monitor Polski Nr 59 — 4920 — Poz. 579 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
+     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
     },
     {
      "type": "text",
@@ -1867,7 +1867,11 @@
     },
     {
      "type": "text",
-     "text": "Liczba JCWP Wartość dla Liczba JCWP wykazujących Liczba JCWP Wartość dla potencjału wykazujących Wartość dla Liczba obecnie silnie bardzo dobrego ekologicznego obecnie Liczba JCWP Nazwa wskaźnika dobrego stanu wszystkich bardzo dobry zmienionych stanu dobrego lub bardzo dobry naturalnych ekologicznego JCWP lub dobry bądź ekologicznego powyżej lub dobry stan potencjał sztucznych dobrego ekologiczny ekologiczny ELEMENTY BIOLOGICZNE 1 2 3 1 2 3 1 2 3 <5 / <7 /<10 / 8 / 13 / 19 / 8 / 13 / 19 / Chlorofil „a” (μg/l) 4 4 4 <10 23 23 Wskaźnik okrzemkowy > 0,83 0,55 0,55 5 dla jezior OIJ 6 6 Makrofitowy Indeks 0,679 – 0,340 / 0,679 – 0,340 / 1 – 0,680 7 7 Stanu ekologicznego 0,679 – 0,270 0,679 – 0,270 ELEMENTY FIZYKO - CHEMICZNE 1 brak 1 brak brak Przezroczystość – 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / widzialność Krążka 1 1 1 Secchiego (m) Tlen rozpuszczony (mg ≥ 4 ≥ 4 ≥ 4 O /l) 1,5 / 2 / 1,6 / 1,51/ 22/ 1,63/ 1,5 / 2 / 1,6 / Azot całkowity (mg N/l) 2,5 2,54 2,5 0,06 / 0,09 / 0,061/ 0,092/ 0,06 / 0,09 / Fosfor ogólny (mg P/l) 0,10 / 0,12 0,103/ 0,124 0,10 / 0,12 ¹ Dla jezior stratyfikowanych o Współczynniku Schindlera<2;² Dla jezior stratyfikowanych o Współczynniku Schindlera>2;³ Dla jezior niestratyfikowanych o Współczynniku Schindler <2;⁴ Dla jezior niestratyfikowanych o Współczynniku Schindlera>2;⁶ Dla jezior ramienicowych głębokich;⁷ Dla jezior ramienicowych płytkich. Monitor Polski Nr 59 — 4921 — Poz. 579 Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
+     "text": "Liczba JCWP Wartość dla Liczba JCWP wykazujących Liczba JCWP Wartość dla potencjału wykazujących Wartość dla Liczba obecnie silnie bardzo dobrego ekologicznego obecnie Liczba JCWP Nazwa wskaźnika dobrego stanu wszystkich bardzo dobry zmienionych stanu dobrego lub bardzo dobry naturalnych ekologicznego JCWP lub dobry bądź ekologicznego powyżej lub dobry stan potencjał sztucznych dobrego ekologiczny ekologiczny ELEMENTY BIOLOGICZNE 1 2 3 1 2 3 1 2 3 <5 / <7 /<10 / 8 / 13 / 19 / 8 / 13 / 19 / Chlorofil „a” (μg/l) 4 4 4 <10 23 23 Wskaźnik okrzemkowy > 0,83 0,55 0,55 5 dla jezior OIJ 6 6 Makrofitowy Indeks 0,679 – 0,340 / 0,679 – 0,340 / 1 – 0,680 7 7 Stanu ekologicznego 0,679 – 0,270 0,679 – 0,270 ELEMENTY FIZYKO - CHEMICZNE 1 brak 1 brak brak Przezroczystość – 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / widzialność Krążka 1 1 1 Secchiego (m) Tlen rozpuszczony (mg ≥ 4 ≥ 4 ≥ 4 O /l) 1,5 / 2 / 1,6 / 1,51/ 22/ 1,63/ 1,5 / 2 / 1,6 / Azot całkowity (mg N/l) 2,5 2,54 2,5 0,06 / 0,09 / 0,061/ 0,092/ 0,06 / 0,09 / Fosfor ogólny (mg P/l) 0,10 / 0,12 0,103/ 0,124 0,10 / 0,12 ¹ Dla jezior stratyfikowanych o Współczynniku Schindlera<2;² Dla jezior stratyfikowanych o Współczynniku Schindlera>2;³ Dla jezior niestratyfikowanych o Współczynniku Schindler <2;⁴ Dla jezior niestratyfikowanych o Współczynniku Schindlera>2;⁶ Dla jezior ramienicowych głębokich;⁷ Dla jezior ramienicowych płytkich."
+    },
+    {
+     "type": "text",
+     "text": "Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
     },
     {
      "type": "text",
@@ -2051,7 +2055,7 @@
     },
     {
      "type": "text",
-     "text": "Fosforany (mgPO /l) 0,01 - 1 0,5* 0,5* 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
+     "text": "Fosforany (mgPO₄/l) 0,01 - 1 0,5* ) 0,5* ) 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
     },
     {
      "type": "text",
@@ -2083,7 +2087,7 @@
     },
     {
      "type": "text",
-     "text": "Siarczany (mgSO /l) 5 – 60 60 250* 250* 4 ) )"
+     "text": "Siarczany (mgSO₄/l) 5 – 60 60 250* ) 250* )"
     },
     {
      "type": "text",
@@ -3075,7 +3079,7 @@
     },
     {
      "type": "text",
-     "text": "Dyrektywa 91/414/EWG (zmieniona dyrektywami: 2005/25/WE, 2006/75/WE, 2008/69/WE, 2009/82/WE, 2009/116/WE oraz 2009/117/WE) ustanawia w państwach członkowskich jednolite zasady dopuszczania do obrotu środków ochrony roślin oraz dopuszczania przez KE substancji aktywnych do stosowania w środkach ochrony roślin. W Polsce zagadnienia dotyczące wprowadzania środków ochrony roślin do obrotu reguluje ustawa z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm.) implementująca przepisy przedmiotowej dyrektywy. Aktem wykonawczym do ustawy o ochronie roślin jest rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 maja 2005 r. w sprawie zakresu badań, informacji i danych dotyczących środka ochrony roślin i substancji aktywnej oraz zasad sporządzania ich oceny (Dz. U. Nr 100, poz. 839, z późn. zm.), które określa zakres dokumentacji wymaganej do uzyskania zezwolenia na dopuszczenie środka ochrony roślin do obrotu. Proponowane działanie wynikające i pozwalające na spełnienie celów dyrektywy 91/414/EWG to przede wszystkim: obowiązek stosowania środków ochrony roślin, dopuszczonych do obrotu zgodnie ustawą z dnia 18 grudnia 2003 r. o ochronie roślin. Dyrektywa 96/82/WE wskazuje na konieczność eliminowania lub zmniejszenia skutków dla środowiska z tytułu nadzwyczajnych zagrożeń, a także doskonalenie istniejącego systemu ratowniczego na wypadek zaistnienia awarii i klęsk żywiołowych. Jak zapisano w Polityce Ekologicznej Państwa do roku 2025 należy osiągnąć taki stan, aby awaryjność przemysłowych instalacji niebezpiecznych oraz środków transportowych (rurociągów, samochodów, wagonów kolejowych, statków) nie przekraczała średnich wskaźników dla państw OECD. Ustawa z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska obok podstawowych definicji i przepisów ogólnych w zakresie przeciwdziałania, zapobiegania i ograniczania skutków poważnych awarii przemysłowych określa również obowiązki prowadzącego zakład stwarzający zagrożenie wystąpienia awarii przemysłowej, obowiązki organów administracji związane z awarią przemysłową oraz współpracę międzynaro dową w tym samym zakresie pomiędzy różnymi instytucjami. Proponowane działania pozwalające na spełnienie celów dyrektywy 96/82/WE to przede wszystkim: opracowanie programu zapobiegania poważnym awariom przez zakłady o zwiększonym bądź dużym ryzyku;"
+     "text": "Dyrektywa 91/414/EWG (zmieniona dyrektywami: 2005/25/WE, 2006/75/WE, 2008/69/WE, 2009/82/WE, 2009/116/WE oraz 2009/117/WE) ustanawia w państwach członkowskich jednolite zasady dopuszczania do obrotu środków ochrony roślin oraz dopuszczania przez KE substancji aktywnych do stosowania w środkach ochrony roślin. W Polsce zagadnienia dotyczące wprowadzania środków ochrony roślin do obrotu reguluje ustawa z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm.) implementująca przepisy przedmiotowej dyrektywy. Aktem wykonawczym do ustawy o ochronie roślin jest rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 maja 2005 r. w sprawie zakresu badań, informacji i danych dotyczących środka ochrony roślin i substancji aktywnej oraz zasad sporządzania ich oceny (Dz. U. Nr 100, poz. 839, z późn. zm.), które określa zakres dokumentacji wymaganej do uzyskania zezwolenia na dopuszczenie środka ochrony roślin do obrotu. Proponowane działanie wynikające i pozwalające na spełnienie celów dyrektywy 91/414/EWG to przede wszystkim: obowiązek stosowania środków ochrony roślin, dopuszczonych do obrotu zgodnie ustawą z dnia 18 grudnia 2003 r. o ochronie roślin. Dyrektywa 96/82/WE wskazuje na konieczność eliminowania lub zmniejszenia skutków dla środowiska z tytułu nadzwyczajnych zagrożeń, a także doskonalenie istniejącego systemu ratowniczego na wypadek zaistnienia awarii i klęsk żywiołowych. Jak zapisano w Polityce Ekologicznej Państwa do roku 2025 należy osiągnąć taki stan, aby awaryjność przemysłowych instalacji niebezpiecznych oraz środków transportowych (rurociągów, samochodów, wagonów kolejowych, statków) nie przekraczała średnich wskaźników dla państw OECD. Ustawa z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska obok podstawowych definicji i przepisów ogólnych w zakresie przeciwdziałania, zapobiegania i ograniczania skutków poważnych awarii przemysłowych określa również obowiązki prowadzącego zakład stwarzający zagrożenie wystąpienia awarii przemysłowej, obowiązki organów administracji związane z awarią przemysłową oraz współpracę międzynarodową w tym samym zakresie pomiędzy różnymi instytucjami. Proponowane działania pozwalające na spełnienie celów dyrektywy 96/82/WE to przede wszystkim: opracowanie programu zapobiegania poważnym awariom przez zakłady o zwiększonym bądź dużym ryzyku;"
     },
     {
      "type": "text",
@@ -3263,7 +3267,7 @@
     },
     {
      "type": "text",
-     "text": "Ilość JCWPd 1 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania nie dotyczy działań podstawowych Źródła finansowania nie dotyczy działań uzupełniających Monitor Polski Nr 59 — 4953 — Poz. 579"
+     "text": "Ilość JCWPd 1 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania nie dotyczy działań podstawowych Źródła finansowania nie dotyczy działań uzupełniających"
     }
    ]
   },
@@ -9357,27 +9361,39 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 147 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 147 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tabela 1. Wartości referencyjne dlachlorofilua ......... 0.0000 eee ee 4899 Tabela 2. Oszacowany łączny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji . . LL aa aa oma 222008 11 4903 Tabela 3. Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacji w przeliczeniu na km? powierzchni obszaru dorzecza . . . «u aaaaa aaa aaa 11 4903 Tabela 4. Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ...... 4919 Tabela 5. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . 4920 Tabela 6. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód jezior wód powierzchniowych jeziornych na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne 6 wk A 4921 Tabela 7. Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. 4924 Tabela 8. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych Na obszarze dorzecza .. 2. 1 ozo A 4926 Tabela 9. Odstępstwa od celów środowiskowych na obszarze dorzecza Świeżej . ... ...... . 4928 Tabela 10. Struktura przedsiębiorstw na obszarze dorzecza Świeżej .. . . . «1414 2411211111. 4929 Tabela 11. Koszty netto ochrony wód w przemyśle .... 2... 00. ee a 11 4935 Tabela 12. Koszty środowiskowe i zasobowe w przemyśle ..... 2.000000 eee eee 1 1 1 4935 Tabela 13. Wyniki oszacowania kosztów środowiskowych dla roku 2006 . .... . . . «1... «1 1 1 1... . . 4939 Tabela 14. Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. 4939 Tabela 15. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Świeżej — wody powierzchniowe ... LLL Lean a 11 4953 Tabela 16. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Świeżej — WOdy podziemne . LL LL 0... naa 1 4953"
     },
     {
-     "type": "ocr",
-     "text": "17. Spis tabel"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1. Wartości referencyjne dlachlorofilua ......... 0.0000 eee ee 4899 Tabela 2. Oszacowany taczny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji . . LL aa aa oma 222008 11 4903 Tabela 3. Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacji w przeliczeniu na km? powierzchni obszaru dorzecza . . . «u aaaaa aaa aaa 11 4903 Tabela 4. Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ...... 4919 Tabela 5. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . 4920 Tabela 6. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód jezior wód powierzchniowych jeziornych na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne 6 wk A 4921 Tabela 7. Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. 4924 Tabela 8. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych Na obszarze dorzecza .. 2. 1 ozo A 4926 Tabela 9. Odstępstwa od celów środowiskowych na obszarze dorzecza Świeżej . ... ...... . 4928 Tabela 10. Struktura przedsiębiorstw na obszarze dorzecza Świeżej .. . . . «1414 2411211111. 4929 Tabela 11. Koszty netto ochrony wód w przemyśle .... 2... 00. ee a 11 4935 Tabela 12. Koszty środowiskowe i zasobowe w przemyśle ..... 2.000000 eee eee 1 1 1 4935 Tabela 13. Wyniki oszacowania kosztów środowiskowych dla roku 2006 . .... . . . «1... «1 1 1 1... . . 4939 Tabela 14. Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. 4939 Tabela 15. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Świeżej — wody powierzchniowe ... LLL Lean a 11 4953 Tabela 16. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Świeżej — WOdy podziemne . LL LL 0... naa 1 4953 Tabela 17. Zestawienie organów właściwych w sprawach gospodarowania wodami ......... 5007 Tabela 18. Zestawienie aktów prawnych powołujących kompetentne władze oraz określające ich zakres dzlałania LLL Lee A 5007 Tabela 19. Organy współpracujące z Prezesem KZGW w zakresie wdrażaniaRDW .......... 5012 Tabela 20. Podległość dyrektora RZGW, siedziba oraz strona www .... ananasa 5013 Tabela 21. Akty prawne ustanawiające statuty RZGW oraz przynależne regiony wodne ....... 5013 Tabela 22. Umowy dwustronne... 2... oo eozoo nooo a 11 5019 Tabela 23. Umowy wielostronne . . LL Leno 1 5019 Tabela 24. Dane adresowe KZGW ..... LLL Leon AA 5020 Tabela 25. Dane adresowe RZGW na obszarze dorzecza Świeżej. . ....uaaaaaaaa1111. 5020 Tabela 26. Dane adresowe GIOS .. LL LLL 5021"
+     "type": "text",
+     "text": "Tabela 17. Zestawienie organów właściwych w sprawach gospodarowania wodami ......... 5007 Tabela 18. Zestawienie aktów prawnych powołujących kompetentne władze oraz określające ich zakres dzlałania LLL Lee A 5007 Tabela 19. Organy współpracujące z Prezesem KZGW w zakresie wdrażaniaRDW .......... 5012 Tabela 20. Podległość dyrektora RZGW, siedziba oraz strona www .... ananasa 5013 Tabela 21. Akty prawne ustanawiające statuty RZGW oraz przynależne regiony wodne ....... 5013 Tabela 22. Umowy dwustronne... 2... oo eozoo nooo a 11 5019 Tabela 23. Umowy wielostronne . . LL Leno 1 5019 Tabela 24. Dane adresowe KZGW ..... LLL Leon AA 5020 Tabela 25. Dane adresowe RZGW na obszarze dorzecza Świeżej. . ....uaaaaaaaa1111. 5020 Tabela 26. Dane adresowe GIOS .. LL LLL 5021"
     },
     {
      "type": "note",
-     "text": "[Strona 148 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 148 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "18. Spis rysunków"
-    },
-    {
-     "type": "ocr",
-     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Swiezej. 2 aaa aaa 1) 4894 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891 —2000 4905 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 ............ 4906 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 scenariusz +1°C ... 4906"
+     "type": "text",
+     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Świeżej. 2 aaa aaa 1) 4894 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891 —2000 4905 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 ............ 4906 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 scenariusz +1°C ... 4906"
     }
    ]
   }
@@ -9386,10 +9402,6 @@
   {
    "heading": "Załączniki do Planu gospodarowania wodami na obszarze dorzecza Świeżej z dnia 22 lutego 2011 r. (poz. 579) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 59 — 5034 — Poz. 579"
-    },
     {
      "type": "note",
      "text": "[Na stronie 149 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -10073,7 +10085,7 @@
     },
     {
      "type": "text",
-     "text": "PLRW300017574641 Lubimaja do granicy państwa SW2009 region wodny Świeżej 3000 obszar dorzecza RZGW w Równiny Wschodnie (16) Równiny Wschodnie (16) Potok nizinny piaszczysty (17) naturalna część zły niezagrożona - - Świeżej Warszawie wód Monitor Polski Nr 59 — 5046 — Poz. 579"
+     "text": "PLRW300017574641 Lubimaja do granicy państwa SW2009 region wodny Świeżej 3000 obszar dorzecza RZGW w Równiny Wschodnie (16) Równiny Wschodnie (16) Potok nizinny piaszczysty (17) naturalna część zły niezagrożona - - Świeżej Warszawie wód"
     },
     {
      "type": "note",
@@ -10190,7 +10202,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Mapa nr 1. Monitor Polski Nr 59 — 5049 — Poz. 579"
+     "text": "Mapa nr 1."
     },
     {
      "type": "note",
@@ -10198,7 +10210,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 2. Monitor Polski Nr 59 — 5050 — Poz. 579"
+     "text": "Mapa nr 2."
     },
     {
      "type": "note",
@@ -10206,7 +10218,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 3. Monitor Polski Nr 59 — 5051 — Poz. 579"
+     "text": "Mapa nr 3."
     },
     {
      "type": "note",
@@ -10214,7 +10226,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 4. Monitor Polski Nr 59 — 5052 — Poz. 579"
+     "text": "Mapa nr 4."
     },
     {
      "type": "note",
@@ -10222,7 +10234,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 5. Monitor Polski Nr 59 — 5053 — Poz. 579"
+     "text": "Mapa nr 5."
     },
     {
      "type": "note",
@@ -10230,7 +10242,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 6. Monitor Polski Nr 59 — 5054 — Poz. 579"
+     "text": "Mapa nr 6."
     },
     {
      "type": "note",
@@ -10314,7 +10326,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 9. Monitor Polski Nr 59 — 5057 — Poz. 579"
+     "text": "Mapa nr 9."
     },
     {
      "type": "note",
@@ -10362,7 +10374,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 11. Monitor Polski Nr 59 — 5059 — Poz. 579"
+     "text": "Mapa nr 11."
     },
     {
      "type": "note",
@@ -10370,7 +10382,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 12. Monitor Polski Nr 59 — 5060 — Poz. 579"
+     "text": "Mapa nr 12."
     },
     {
      "type": "note",
@@ -10378,7 +10390,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 13. Monitor Polski Nr 59 — 5061 — Poz. 579"
+     "text": "Mapa nr 13."
     },
     {
      "type": "note",
@@ -10386,7 +10398,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 14. Monitor Polski Nr 59 — 5062 — Poz. 579"
+     "text": "Mapa nr 14."
     },
     {
      "type": "note",
@@ -10394,7 +10406,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 15. Monitor Polski Nr 59 — 5063 — Poz. 579"
+     "text": "Mapa nr 15."
     },
     {
      "type": "note",
@@ -10402,7 +10414,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 16. Monitor Polski Nr 59 — 5064 — Poz. 579"
+     "text": "Mapa nr 16."
     },
     {
      "type": "note",
@@ -10410,7 +10422,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 17. Monitor Polski Nr 59 — 5065 — Poz. 579"
+     "text": "Mapa nr 17."
     },
     {
      "type": "note",
@@ -10418,7 +10430,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 18. Monitor Polski Nr 59 — 5066 — Poz. 579"
+     "text": "Mapa nr 18."
     },
     {
      "type": "note",
@@ -10426,27 +10438,27 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 19. Monitor Polski Nr 59 — 5067 — Poz. 579"
+     "text": "Mapa nr 19."
     },
     {
      "type": "note",
-     "text": "[Strona 183 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 183 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "= Ej gs 5 Ę § 3 gi gd st | igi SH H 83 8 (Pee RN. AE a ite SS 3 s EH au yer? on Bes oN eG S$ 5. Ś 28 rey ż 3 8 ŚR R 58 EJ ESI BE i ż 3 j geo | ś 1 5 i BE"
+     "type": "text",
+     "text": "= Ej gs 5 Ę § 3 gi gd st | igi SH H 83 8 (Pee RN. AE a ite SS 3 s EH au yer? on Bes oN eG S§ 5. Ś 28 rey ż 3 8 ŚR R 58 EJ ESI BE i ż 3 j geo | ś 1 5 i BE"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "r zz | Mapa nr 20. PUNKTOWE I OBSZAROWE ZRODLA ZANIECZYSZCZEŃ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Morze Bałtyckie"
     },
     {
      "type": "text",
-     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Świeżej Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Chłodny 1600° – 2000° Umiarkowanie chłodny 2000° – 2400° Umiarkowanie ciepły 2400° – 2800° Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica, 13(3), 803-812. Umiarkowanie suchy 1,0 – 1,3 Optymalnego uwilgotnienia 1,3 – 1,6 Wilgotny > 1,6 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica, 13(3), 803-812. ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych 1 2 3 1 2 3 1 2 3 4 4 4 2 1 2 3 1 2 3 4 4 1 2 1 2 3 4 3 4 ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza oraz informację o ilościach części wód wykazujących obecnie dobry stan chemiczny i ilościowy. H ) ) H ) ) 4 ) )"
+     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Świeżej Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Chłodny 1600° – 2000° Umiarkowanie chłodny 2000° – 2400° Umiarkowanie ciepły 2400° – 2800° Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica, 13(3), 803-812. Umiarkowanie suchy 1,0 – 1,3 Optymalnego uwilgotnienia 1,3 – 1,6 Wilgotny > 1,6 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica, 13(3), 803-812. ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych 1 2 3 1 2 3 1 2 3 4 4 4 2 1 2 3 1 2 3 4 4 1 2 1 2 3 4 3 4 ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza oraz informację o ilościach części wód wykazujących obecnie dobry stan chemiczny i ilościowy. H ) ) H ) )"
     },
     {
      "type": "pkt",

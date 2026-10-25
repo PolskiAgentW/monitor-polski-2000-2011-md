@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/827",
  "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 29 grudnia 2008 r. w sprawie wykazu organizacji mających status organizacji pożytku publicznego na dzień 30 listopada 2008 r.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/827/text.pdf",
  "body": [
   {
@@ -21,7 +21,7 @@
    "text": "Na podstawie art. 45 ust. 5g ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.[^2]) ogłasza się wykaz organizacji mających status organizacji pożytku publicznego na dzień 30 listopada 2008 r., który jest określony w załączniku do obwieszczenia."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "Minister Pracy i Polityki Społecznej: w z. M. Bucior"
   }
  ],
@@ -29,10 +29,6 @@
   {
    "heading": "Załącznik do obwieszczenia Ministra Pracy i Polityki Społecznej z dnia 29 grudnia 2008 r. (poz. 827)",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 96 — 4207 — Poz. 827"
-    },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

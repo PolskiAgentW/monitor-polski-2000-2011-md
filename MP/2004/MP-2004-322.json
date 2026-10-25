@@ -1,7 +1,7 @@
 {
  "eli": "MP/2004/322",
  "title": "Obwieszczenie Ministra Kultury z dnia 13 kwietnia 2004 r. w sprawie ogłoszenia decyzji Ministra Kultury o udzieleniu i o cofnięciu zezwoleń na podjęcie działalności organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/322/text.pdf",
  "body": [
   {
@@ -86,10 +86,6 @@
   {
    "heading": "Załącznik do obwieszczenia Ministra Kultury zdnia 13 kwietnia 2004 r. (poz. 322)",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 18 — 759 — Poz. 322"
-    },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/61",
  "title": "Zarządzenie Nr 1 Prezesa Rady Ministrów z dnia 7 stycznia 2011 r. w sprawie zasad dokonywania opisów i wartościowania stanowisk pracy w służbie cywilnej",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/61/text.pdf",
  "body": [
   {
@@ -129,21 +129,21 @@
      "type": "pkt",
      "num": "1",
      "path": "par_5/pkt_1",
-     "text": "w eryfikacja opisu stanowiska pracy pod względem jego przydatności do przeprowadzenia wartościowania;",
+     "text": "weryfikacja opisu stanowiska pracy pod względem jego przydatności do przeprowadzenia wartościowania;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "par_5/pkt_2",
-     "text": "p rzeprowadzanie wartościowania stanowiska pracy;",
+     "text": "przeprowadzanie wartościowania stanowiska pracy;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "par_5/pkt_3",
-     "text": "a ktualizacja wyniku wartościowania stanowiska pracy.",
+     "text": "aktualizacja wyniku wartościowania stanowiska pracy.",
      "children": []
     }
    ]
@@ -215,7 +215,7 @@
        "type": "pkt",
        "num": "1",
        "path": "par_8/ust_1/pkt_1",
-       "text": "w artościowaniu podlega stanowisko pracy, a nie osoba na nim zatrudniona;",
+       "text": "wartościowaniu podlega stanowisko pracy, a nie osoba na nim zatrudniona;",
        "children": []
       },
       {
@@ -229,7 +229,7 @@
        "type": "pkt",
        "num": "3",
        "path": "par_8/ust_1/pkt_3",
-       "text": "p rzyporządkowując dany poziom do stanowiska pracy podlegającego wartościowaniu, każdy z zespołów, o których mowa w § 4 ust. 1 i 3, wybiera poziom minimalny, niezbędny do prawidłowej realizacji zadań na tym stanowisku pracy, kierując się przede wszystkim zadaniami przypisanymi do danego stanowiska pracy;",
+       "text": "przyporządkowując dany poziom do stanowiska pracy podlegającego wartościowaniu, każdy z zespołów, o których mowa w § 4 ust. 1 i 3, wybiera poziom minimalny, niezbędny do prawidłowej realizacji zadań na tym stanowisku pracy, kierując się przede wszystkim zadaniami przypisanymi do danego stanowiska pracy;",
        "children": []
       },
       {
@@ -1013,7 +1013,7 @@
        "type": "pkt",
        "num": "2",
        "path": "par_25/ust_1/pkt_2",
-       "text": "o soby merytorycznie nadzorującej dane stanowisko pracy — w przypadku stanowiska kierującego komórką organizacyjną.",
+       "text": "osoby merytorycznie nadzorującej dane stanowisko pracy — w przypadku stanowiska kierującego komórką organizacyjną.",
        "children": []
       }
      ]
@@ -1064,7 +1064,7 @@
        "type": "pkt",
        "num": "1",
        "path": "par_27/ust_1/pkt_1",
-       "text": "l iczba przedziałów punktowych nie może być mniejsza niż 8 i większa niż 14;",
+       "text": "liczba przedziałów punktowych nie może być mniejsza niż 8 i większa niż 14;",
        "children": []
       },
       {
@@ -1229,14 +1229,14 @@
        "type": "pkt",
        "num": "1",
        "path": "par_33/ust_2/pkt_1",
-       "text": "c złonek korpusu służby cywilnej posiadający odpowiednie doświadczenie i wiedzę na temat funkcjonowania służby cywilnej, a także wiedzę w zakresie stosowanego systemu wartościowania lub",
+       "text": "członek korpusu służby cywilnej posiadający odpowiednie doświadczenie i wiedzę na temat funkcjonowania służby cywilnej, a także wiedzę w zakresie stosowanego systemu wartościowania lub",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "par_33/ust_2/pkt_2",
-       "text": "o soba niebędąca członkiem korpusu służby cywilnej, posiadająca odpowiednie kwalifikacje i doświadczenie dające rękojmię prawidłowego przeprowadzenia wartościowania przez zespół zewnętrzny.",
+       "text": "osoba niebędąca członkiem korpusu służby cywilnej, posiadająca odpowiednie kwalifikacje i doświadczenie dające rękojmię prawidłowego przeprowadzenia wartościowania przez zespół zewnętrzny.",
        "children": []
       }
      ]
@@ -1293,7 +1293,7 @@
          "type": "lit",
          "num": "a",
          "path": "par_34/ust_2/pkt_3/lit_a",
-         "text": "o soby nadzorujące wartościowane stanowisko pracy,",
+         "text": "osoby nadzorujące wartościowane stanowisko pracy,",
          "children": []
         },
         {
@@ -1309,7 +1309,7 @@
        "type": "pkt",
        "num": "4",
        "path": "par_34/ust_2/pkt_4",
-       "text": "w ystępuje do reprezentującego pracodawcę o udostępnienie informacji i dokumentów niezbędnych do prac zespołu zewnętrznego.",
+       "text": "występuje do reprezentującego pracodawcę o udostępnienie informacji i dokumentów niezbędnych do prac zespołu zewnętrznego.",
        "children": []
       }
      ]
@@ -3586,7 +3586,7 @@
       },
       {
        "type": "text",
-       "text": "punkty dodatkowe: upoważnienia i pełnomocnictwa Monitor Polski Nr 5 — 135 — Poz. 61"
+       "text": "punkty dodatkowe: upoważnienia i pełnomocnictwa"
       }
      ]
     }
@@ -3753,7 +3753,7 @@
       },
       {
        "type": "text",
-       "text": "Charakter i poziom reprezentacji Monitor Polski Nr 5 — 137 — Poz. 61"
+       "text": "Charakter i poziom reprezentacji"
       }
      ]
     }
@@ -3945,7 +3945,7 @@
       },
       {
        "type": "text",
-       "text": "Charakter i poziom reprezentacji Monitor Polski Nr 5 — 140 — Poz. 61 — 141 —"
+       "text": "Charakter i poziom reprezentacji — 141 —"
       },
       {
        "type": "note",

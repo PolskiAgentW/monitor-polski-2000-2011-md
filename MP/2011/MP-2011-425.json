@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/425",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Dniestru",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/425/text.pdf",
  "body": [
   {
@@ -40,162 +40,134 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "12."
+     "type": "text",
+     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ..... Laon ee 1861 Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ......... 1863 Strategia Gospodarki Wodnej 2005 r. LLL ua aa a 1866 Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... 1868 Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. .. Lua cee eee 1872 Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... 1874 Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... 1876 Regionalne dokumenty o charakterze planistycznym i rozwojowym .......-..--20005 1878 Strategie rozwoju dla Województw . 1... aa A 1878 Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............. 1879 Plany gospodarowania odpadami województw .. 1... 0. aa a 1880 Wojewódzkie programy udrażniania rzek 2... aa a 1881 Programy małej retencji LLL Luo aa 1882 Plany ochrony parków krajobrazowych LL Loan aaa 1883 Plany ochrony rezerwatów przyrody ... 2... ee 11 1886 Plany ochrony dlaobszarów Natura 2000 LL 2... aa a 1887 Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyni- 12. ków i dokonanych na tej podstawie zmianw planie .. |... LLL Looe r 1 ltura konsultacji społecznych . LL 2..."
     },
     {
-     "type": "ocr",
-     "text": "13. 14."
+     "type": "text",
+     "text": "1889 1889 A Il tura konsultacji społecznych .. 2... 0 1 1890 Ill tura konsultacji społecznych . LL Looe A Podsumowanie wynikÓw LLL 2... 0"
     },
     {
-     "type": "ocr",
-     "text": "15."
+     "type": "text",
+     "text": "1892 1893 A Wykaz właściwych władz LL 2... owoo A 13."
     },
     {
-     "type": "ocr",
-     "text": "16. 17. 18."
+     "type": "text",
+     "text": "1896 Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej 14. do sporzadzeniaPGW ..... 2... ee A 1908 Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowa- 15. nią wodami na obszarze dorzecza Dniestru .. 2... 1. ona 11 1911 Literatura Lala A 16."
     },
     {
-     "type": "ocr",
-     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ..... Laon ee Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ......... Strategia Gospodarki Wodnej 2005 r. LLL ua aa a Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. .. Lua cee eee Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... Regionalne dokumenty o charakterze planistycznym i rozwojowym .......-..--20005 Strategie rozwoju dla Województw . 1... aa A Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............. Plany gospodarowania odpadami województw .. 1... 0. aa a Wojewódzkie programy udrazniania rzek 2... aa a Programy matej retencji LLL Luo aa Plany ochrony parków krajobrazowych LL Loan aaa Plany ochrony rezerwatów przyrody ... 2... ee 11 Plany ochrony dlaobszarów Natura 2000 LL 2... aa a Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie .. |... LLL Looe r 1 ltura konsultacji społecznych . LL 2... A Il tura konsultacji społecznych .. 2... 0 1 Ill tura konsultacji społecznych . LL Looe A Podsumowanie wynikOw LLL 2... 0 A Wykaz właściwych władz LL 2... owoo A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW ..... 2... ee A Podsumowanie strategicznej oceny oddziatywania na srodowisko projektu Planu gospodarowania wodami na obszarze dorzecza Dniestru .. 2... 1. ona 11 Literatura Lala A Spistabel 2... Spis rysunkOW 2. A"
+     "type": "text",
+     "text": "1917 Spistabel 2... 17. Spis rysunkÓW 2. 18."
     },
     {
-     "type": "ocr",
-     "text": "Zataczniki:"
+     "type": "text",
+     "text": "Załączniki:"
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 1 — mapy: «|Mapa 1. Granica obszaru dorzecza Dniestru . LL aaa a osa ra 1 «|Mapa 2. Jednolite części wód powierzchniowych — obszaru dorzecza Dniestru ...... ° Mapa 3. Scalone części wód powierzchniowych — obszaru dorzecza Dniestru ....... ° Mapa 4. Jednolite części wód podziemnych — obszaru dorzecza Dniestru ......... eMapa5. Typy jednolitych części wód powierzchniowych rzecznych — obszaru dorzecza Dniestru LL LL eo A «|Mapa 6. Ekoregiony — obszaru dorzecza Dniestru ... Lana aaa aa 1 «|Mapa 7. Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszaru dorzecza Dniestru .. LL aaa A «|Mapa 8. Ocena stanu ilościowego jednolitych części wód podziemnych obszaru dorzecza Dniestru LL LL aaa ro 1 1 «Mapa 9. Ocena stanu chemicznego jednolitych części wód podziemnych obszaru dorzecza Dniestru LL LL 2 zona ro 1 1 e Mapa 10. Sieć monitoringu wód powierzchniowych — obszar dorzecza Dniestru ...... e Mapa 11. Sieć monitoringu wód podziemnych — obszaru dorzecza Dniestru ........ e Mapa 12. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Dniestru . . LL LL een A e Mapa 13. Punktowe źródła zanieczyszczeń — obszar dorzecza Dniestru . . . . . . . . ....."
+     "type": "text",
+     "text": "Załącznik nr 1 — mapy:"
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód .. . LL La aan eee n 1 1"
+     "type": "text",
+     "text": "1920 1921 A"
     },
     {
-     "type": "ocr",
-     "text": "1861 1863 1866 1868 1872 1874 1876 1878 1878 1879 1880 1881 1882 1883 1886 1887"
+     "type": "text",
+     "text": "«|Mapa 1. Granica obszaru dorzecza Dniestru . LL aaa a osa ra 1 1922 «|Mapa 2. Jednolite części wód powierzchniowych — obszaru dorzecza Dniestru ...... 1923 ° Mapa 3. Scalone części wód powierzchniowych — obszaru dorzecza Dniestru ....... 1924 ° Mapa 4. Jednolite części wód podziemnych — obszaru dorzecza Dniestru ......... 1925 eMapa5. Typy jednolitych części wód powierzchniowych rzecznych — obszaru dorzecza Dniestru LL LL eo A «|Mapa 6. Ekoregiony — obszaru dorzecza Dniestru"
     },
     {
-     "type": "ocr",
-     "text": "1889 1889 1890 1892 1893 1896"
+     "type": "text",
+     "text": "1926 ... Lana aaa aa 1 1927 «|Mapa 7. Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszaru dorzecza Dniestru .. LL aaa A «|Mapa 8. Ocena stanu ilościowego jednolitych"
     },
     {
-     "type": "ocr",
-     "text": "1908"
+     "type": "text",
+     "text": "1928 części wód podziemnych obszaru dorzecza Dniestru LL LL aaa ro 1 1 «Mapa 9. Ocena stanu chemicznego jednolitych dorzecza Dniestru LL LL 2"
     },
     {
-     "type": "ocr",
-     "text": "1911 1917 1920 1921"
+     "type": "text",
+     "text": "1929 części wód podziemnych obszaru zona ro 1 1 1930 e Mapa 10. Sieć monitoringu wód powierzchniowych — obszar dorzecza Dniestru ...... 1931 e Mapa 11. Sieć monitoringu wód podziemnych — obszaru dorzecza Dniestru ........ 1932 e Mapa 12. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Dniestru . . LL LL een A 1933 e Mapa 13. Punktowe źródła zanieczyszczeń — obszar dorzecza Dniestru . . . . . . . . ..... 1934"
     },
     {
-     "type": "ocr",
-     "text": "1922 1923 1924 1925"
-    },
-    {
-     "type": "ocr",
-     "text": "1926 1927"
-    },
-    {
-     "type": "ocr",
-     "text": "1928"
-    },
-    {
-     "type": "ocr",
-     "text": "1929"
-    },
-    {
-     "type": "ocr",
-     "text": "1930 1931 1932"
-    },
-    {
-     "type": "ocr",
-     "text": "1933 1934"
-    },
-    {
-     "type": "ocr",
-     "text": "1935"
+     "type": "text",
+     "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód .. . LL La aan eee n 1 1 1935"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 3 — Mapy do celów planistycznych: e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
-     "text": "e Mapa"
+     "type": "text",
+     "text": "e Mapa nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
     },
     {
-     "type": "ocr",
-     "text": "nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 11. nr 12. nr 13. nr 14. nr 15. nr 16."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 17."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 18."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 19."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 20."
     },
     {
-     "type": "ocr",
-     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL Lau oaa 2 1 1 Jednolite części wód powierzchniowych .. LL oaza nossa eae Scalone części wód powierzchniowych .. LL Laon 1 1 1 Jednolite części wód podziemnych . . LL Luzon ee 11 Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony .. 2... A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych iprzybrzeżnych .. LL Luzon ee Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . LL Lazer soon r 1 Sieć monitoringu wód podziemnych .... Lazo 00002 ee eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1 1 «2 2 2222. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .. . . 1 ua aaa ea 211 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LLL ooo A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ... 2... ee ee ara a 11"
+     "type": "text",
+     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL Lau oaa 2 1 1 Jednolite części wód powierzchniowych .. LL oaza nossa eae Scalone części wód powierzchniowych .. LL Laon 1 1 1 Jednolite części wód podziemnych . . LL Luzon ee 11 Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony .. 2... A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych i przybrzeżnych .. LL Luzon ee Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . LL Lazer soon r 1 Sieć monitoringu wód podziemnych .... Lazo 00002 ee eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1 1 «2 2 2222. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .. . . 1 ua aaa ea 211 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LLL ooo A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ... 2... ee ee ara a 11"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1937 1938 1939 1940 1941 1942 1943 1944 1945"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1946 1947 1948 1949 1950 1951"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1952"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1953"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1954"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1955 1956"
     }
    ]
@@ -332,7 +304,7 @@
     },
     {
      "type": "text",
-     "text": "Jednolita część wód powierzchniowych – oznacza oddzielny i znaczący element wód powierzchniowych (jezioro lub inny naturalny zbiornik wodny, sztuczny zbiornik wody, rzeka, struga, strumień, potok, kan ał lub ich część, morskie wody wewnętrzne, wody przejściowe lub wody przybrzeżne)."
+     "text": "Jednolita część wód powierzchniowych – oznacza oddzielny i znaczący element wód powierzchniowych (jezioro lub inny naturalny zbiornik wodny, sztuczny zbiornik wody, rzeka, struga, strumień, potok, kanał lub ich część, morskie wody wewnętrzne, wody przejściowe lub wody przybrzeżne)."
     },
     {
      "type": "text",
@@ -831,7 +803,7 @@
     },
     {
      "type": "text",
-     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT , ChZT , N , P , zawiesina ogólna) [kg / km² dorzecza/rok] przedstawia poniższa tabela. Wielkości ładunku została oszacowana na podstawie danych zawartych w pracy pt. „Opracowanie programów działań w obszarze RZGW w Krakowie w zakresie KPOŚK w odniesieniu do części wód”"
+     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT₅, ChZTCr, Nog, Pog, zawiesina ogólna) [kg / km² dorzecza/rok] przedstawia poniższa tabela. Wielkości ładunku została oszacowana na podstawie danych zawartych w pracy pt. „Opracowanie programów działań w obszarze RZGW w Krakowie w zakresie KPOŚK w odniesieniu do części wód”"
     },
     {
      "type": "text",
@@ -871,11 +843,11 @@
     },
     {
      "type": "text",
-     "text": "ńców azot fosfor zurbaniz oczyszc BZT ChZT zawiesina"
+     "text": "ńców azot fosfor zurbaniz oczyszc BZT₅ ChZTCr zawiesina"
     },
     {
      "type": "text",
-     "text": "⁵ Cr ogólny ogólny owanych zalni"
+     "text": "ogólny ogólny owanych zalni"
     },
     {
      "type": "text",
@@ -1867,7 +1839,11 @@
     },
     {
      "type": "text",
-     "text": "¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych. Monitor Polski Nr 38 — 1804 — Poz. 425 Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
+     "text": "¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
+    },
+    {
+     "type": "text",
+     "text": "Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
     },
     {
      "type": "text",
@@ -2047,7 +2023,7 @@
     },
     {
      "type": "text",
-     "text": "Fosforany (mgPO /l) 0,01 - 1 0,5* 0,5* 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
+     "text": "Fosforany (mgPO₄/l) 0,01 - 1 0,5* ) 0,5* ) 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
     },
     {
      "type": "text",
@@ -2079,7 +2055,7 @@
     },
     {
      "type": "text",
-     "text": "Siarczany (mgSO /l) 5 – 60 60 250* 250* 4 ) )"
+     "text": "Siarczany (mgSO₄/l) 5 – 60 60 250* ) 250* )"
     },
     {
      "type": "text",
@@ -3139,7 +3115,7 @@
     },
     {
      "type": "text",
-     "text": "Ilość JCWPd 1 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania działań podstawowych nie dotyczy Źródła finansowania działań uzupełniających nie dotyczy Monitor Polski Nr 38 — 1837 — Poz. 425"
+     "text": "Ilość JCWPd 1 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania działań podstawowych nie dotyczy Źródła finansowania działań uzupełniających nie dotyczy"
     }
    ]
   },
@@ -9436,110 +9412,118 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 155 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 155 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 1."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 2."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 3."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 4."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 5."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 6. Tabela 7. Tabela 8. Tabela 9."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 10."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 11."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 12. Tabela 13."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 14. Tabela 15."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 16. Tabela 17. Tabela 18. Tabela 19."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel",
+   "children": [
+    {
+     "type": "text",
+     "text": "Oszacowany łączny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji . . LL ae sonar 1 Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ...... Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód, ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza .. 11. A Struktura przedsiębiorstw na obszarze dorzecza Dniestru ..... Lau aaa aa 111 Wyniki oszacowania kosztów środowiskowych dla roku 2006 . ... . . . «1... 1. 1 2... 1. Podział odpowiedzialności za koszty środowiskowe w roku 2006 . . . . . . «. «2222... Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Dniestru — wody powierzchniowe ... 2... ee a 1 Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Dniestru — WOdy podziemne . . LL 2... 0. a 1 Nakłady na realizację Programu Ochrony Środowiska Województwa Podkarpackiego w latach 2007 —2010 oraz 2008—2011 (wg cen z grudnia 2006 r.) . . . . . . . . . «1 1... Zestawienie organów właściwych w sprawach gospodarowania wodami......... Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... A Organy współpracujące z Prezesem KZGW w zakresie wdrażania RDW .......... Podległość dyrektora RZGW właściwego na obszarze dorzecza Dniestru, siedziby oraz SRONYWWW Łona Akt prawny ustanawiający statut RZGW oraz przynależne regiony wodne ......... Dane adresowe KZGW LL. Leona A Dane adresowe RZGW w obrębie dorzecza Dniestru ......L Lean a 21 Dane adresowe GIOS .. LLL Lua LA"
     },
     {
-     "type": "ocr",
-     "text": "17. Spis tabel"
-    },
-    {
-     "type": "ocr",
-     "text": "Oszacowany łączny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji . . LL ae sonar 1 Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ...... Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód, ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza .. 11. A Struktura przedsiębiorstw na obszarze dorzecza Dniestru ..... Lau aaa aa 111 Wyniki oszacowania kosztów środowiskowych dla roku 2006 . ... . . . «1... 1. 1 2... 1. Podział odpowiedzialności za koszty środowiskowe w roku 2006 . . . . . . «. «2222... Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Dniestru — wody powierzchniowe ... 2... ee a 1 Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Dniestru — WOdy podziemne . . LL 2... 0. a 1 Nakłady na realizację Programu Ochrony Środowiska Województwa Podkarpackiego w latach 2007 —2010 oraz 2008—2011 (wg cen z grudnia 2006 r.) . . . . . . . . . «1 1... Zestawienie organów właściwych w sprawach gospodarowania wodami......... Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... A Organy współpracujące z Prezesem KZGW w zakresie wdrażania RDW .......... Podległość dyrektora RZGW właściwego na obszarze dorzecza Dniestru, siedziby oraz SRONYWWW Lona Akt prawny ustanawiający statut RZGW oraz przynależne regiony wodne ......... Dane adresowe KZGW LL. Leona A Dane adresowe RZGW w obrębie dorzecza Dniestru ......L Lean a 21 Dane adresowe GIOS .. LLL Lua LA"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "1783"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1803"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1804"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1807"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1809 1812 1822 1822"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1837"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1837"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1879 1896"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1896 1901"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1902 1902 1908 1908 1909"
     },
     {
      "type": "note",
-     "text": "[Strona 156 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 156 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "18. Spis rysunków"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Dniestru .. LL Laon aaa a 1775 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891—2000. LL owo A 1785 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 ............. 1786 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski latach 1971—2000 scenariusz +1?C .... 1786"
     }
    ]
@@ -9550,656 +9534,796 @@
    "heading": "Załączniki do Planu gospodarowania wodami na obszarze dorzecza Dniestru z dnia 22 lutego 2011 r. (poz. 425) Załącznik nr 1",
    "body": [
     {
-     "type": "text",
-     "text": "Monitor Polski Nr 38 — 1922 — Poz. 425"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 157 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
     {
      "type": "note",
-     "text": "[Strona 158 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 158 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "22°35'E 22°41'E 22°46'E LT Lo MAPA 2. JEDNOLITE CZĘŚCI WÓD POWIERZCHNIOWYCH - OBSZARU DORZECZA DNIESTRU"
     },
     {
-     "type": "ocr",
-     "text": "z ad sej z F a 4 OBSZARY DORZECZY t+"
+     "type": "text",
+     "text": "z a 4 t+ z ad sej F OBSZARY DORZECZY"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Krościenką ©"
     },
     {
-     "type": "ocr",
-     "text": "mn, M BTzegi Dolne ‘ trzyki Dol S olne"
+     "type": "text",
+     "text": "mn, M BTzegi Dolne ‘ trzyki Dol „SE S olne"
     },
     {
-     "type": "ocr",
-     "text": "„SE z"
+     "type": "text",
+     "text": "z ™ e + N *,"
     },
     {
-     "type": "ocr",
-     "text": "z ™ e) e + Jasień N *,"
-    },
-    {
-     "type": "ocr",
-     "text": "2 oe Narodowy"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "z = N [a] t+"
     },
     {
-     "type": "ocr",
-     "text": "pichniogviec"
+     "type": "text",
+     "text": "Legenda | GB granice obszarów dorzeczy . . os : . ."
     },
     {
-     "type": "ocr",
-     "text": "Legenda"
+     "type": "text",
+     "text": "z"
     },
     {
-     "type": "ocr",
-     "text": "| GB granice obszarów dorzeczy Ly = . < . . os : . . > 3 «x jednolite części wód powierzchniowych rzecznych %;, 2 [o zlewnie JCWP Ś szała granice powiatów Ś | [Rut | STAT MATA | fon . . (__| granice gmin e miasta"
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "Jasień",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 oe Narodowy"
+      },
+      {
+       "type": "text",
+       "text": "49°20'N"
+      },
+      {
+       "type": "text",
+       "text": "pichniogviec"
+      },
+      {
+       "type": "text",
+       "text": "Ly = . < > 3 «x jednolite części wód powierzchniowych rzecznych %;, 2 zlewnie JCWP granice powiatów fon . . (__| granice gmin e miasta"
+      },
+      {
+       "type": "text",
+       "text": "[o Ś szała Ś | [Rut | STAT MATA |"
+      },
+      {
+       "type": "text",
+       "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. [|]"
+      },
+      {
+       "type": "text",
+       "text": "[TT 22°35'E"
+      },
+      {
+       "type": "text",
+       "text": "22°30'E"
+      },
+      {
+       "type": "text",
+       "text": "22°46'E"
+      },
+      {
+       "type": "text",
+       "text": "22°41'E"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 159 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E 22°41'E 22°46'E"
+      },
+      {
+       "type": "text",
+       "text": "MAPA 3. SCALONE CZĘŚCI WÓD POWIERZCHNIOWYCH - OBSZARU DORZECZA DNIESTRU 49°31'N 49°31'N OBSZARY DORZECZY"
+      },
+      {
+       "type": "text",
+       "text": "Krościenko e"
+      },
+      {
+       "type": "text",
+       "text": "R Brzegi Dolne a Nem gy © ASA » 4 . tistrzyki Dolne © ae = s \">, 4 e vs + s \"GW0901"
+      },
+      {
+       "type": "text",
+       "text": "49°26'N Jasień"
+      },
+      {
+       "type": "text",
+       "text": "49°26'N"
+      },
+      {
+       "type": "text",
+       "text": "Bandrów Narodowy e"
+      },
+      {
+       "type": "text",
+       "text": "49*20'N 49°20'N"
+      },
+      {
+       "type": "text",
+       "text": "Michniqwiec Q"
+      },
+      {
+       "type": "text",
+       "text": "Legenda C) granice obszarów dorzeczy NU 4 jednolite części wód powierzchniowych rzecznych h U 0 o \\ d"
+      },
+      {
+       "type": "text",
+       "text": "(0) scalone części wód powierzchniowych \" sala [__| granice powiatów , 1120000 - | lc (__| granice gmin km so to Y 2 S 6 ć e miasta dow - Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 160 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E"
+      },
+      {
+       "type": "text",
+       "text": "22*41'E 22*46'E"
+      },
+      {
+       "type": "text",
+       "text": "MAPA 4. JEDNOLITE CZĘŚCI WÓD PODZIEMNYCH - OBSZARU DORZECZA DNIESTRU"
+      },
+      {
+       "type": "text",
+       "text": "z m 5 t+"
+      },
+      {
+       "type": "text",
+       "text": "Brzegi Dolne ©"
+      },
+      {
+       "type": "text",
+       "text": "4 trzyki Dol = olne"
+      },
+      {
+       "type": "text",
+       "text": "a z wo N a @"
+      },
+      {
+       "type": "text",
+       "text": "z © N = t+"
+      },
+      {
+       "type": "text",
+       "text": "Legenda"
+      },
+      {
+       "type": "text",
+       "text": "CD sranice obszarów dorzeczy"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. [|] 22°46'E"
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "jednolite części wód podziemnych (\"741 granice powiatów unum? __| granice gmin",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "[TT 22°41'E"
+     "type": "text",
+     "text": "e miasta z a gm oy"
     },
     {
-     "type": "ocr",
-     "text": "22°35'E"
+     "type": "text",
+     "text": "OBSZARY DORZECZY"
     },
     {
-     "type": "ocr",
-     "text": "22°30'E"
+     "type": "text",
+     "text": "Krościenko @"
     },
     {
-     "type": "ocr",
-     "text": "49°20'N"
+     "type": "text",
+     "text": "> o O ¢"
     },
     {
-     "type": "note",
-     "text": "[Strona 159 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "ocr",
-     "text": "MAPA 3. SCALONE CZĘŚCI WÓD POWIERZCHNIOWYCH - OBSZARU DORZECZA DNIESTRU 49°31'N 49°31'N OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "Kroscienko e"
-    },
-    {
-     "type": "ocr",
-     "text": "R Brzegi Dolne a Nem gy © ASA » 4 . tistrzyki Dolne © ae = s \">, 4 e"
-    },
-    {
-     "type": "ocr",
-     "text": "vs + s \"GW0901"
-    },
-    {
-     "type": "ocr",
-     "text": "49°26'N Jasien"
-    },
-    {
-     "type": "ocr",
-     "text": "49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "Bandrów Narodowy e"
-    },
-    {
-     "type": "ocr",
-     "text": "49*20'N 49°20'N"
-    },
-    {
-     "type": "ocr",
-     "text": "Michniqwiec Q"
-    },
-    {
-     "type": "ocr",
-     "text": "Legenda C) granice obszarów dorzeczy NU 4 jednolite części wód powierzchniowych rzecznych h U 0 o \\ d"
-    },
-    {
-     "type": "ocr",
-     "text": "(0) scalone części wód powierzchniowych \" sala [__| granice powiatów , 1120000 - | lc (__| granice gmin"
-    },
-    {
-     "type": "ocr",
-     "text": "km so to Y 2 S 6 ć e miasta dow - Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 160 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E 22*41'E 22*46'E"
-    },
-    {
-     "type": "ocr",
-     "text": "MAPA 4. JEDNOLITE CZĘŚCI WÓD PODZIEMNYCH - OBSZARU DORZECZA DNIESTRU"
-    },
-    {
-     "type": "ocr",
-     "text": "z a gm z oy m 5 OBSZARY DORZECZY t+"
-    },
-    {
-     "type": "ocr",
-     "text": "Kroscienko @"
-    },
-    {
-     "type": "ocr",
-     "text": "Brzegi Dolne ©"
-    },
-    {
-     "type": "ocr",
-     "text": "4 trzyki Dol = olne > o a O z ¢ wo N a @"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "eu Narodowy"
     },
     {
-     "type": "ocr",
-     "text": "z [e] N z 3 © N = t+"
+     "type": "text",
+     "text": "z [e] N 3"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Michnigjviec ©"
     },
     {
-     "type": "ocr",
-     "text": "Legenda"
+     "type": "text",
+     "text": "SKALA"
     },
     {
-     "type": "ocr",
-     "text": "CD sranice obszarów dorzeczy"
+     "type": "text",
+     "text": "etl,"
     },
     {
-     "type": "ocr",
-     "text": "7) jednolite części wód podziemnych SKALA (\"741 granice powiatów etl, unum? __| granice gmin"
-    },
-    {
-     "type": "ocr",
-     "text": "e miasta"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89."
     },
     {
-     "type": "ocr",
-     "text": "22°30'E 22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 161 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E"
-    },
-    {
-     "type": "ocr",
-     "text": "22°41'E 22°46'E"
-    },
-    {
-     "type": "ocr",
-     "text": "Poz. MAPA 5. TYPY JEDNOLITYCH CZESCI 49°31'N"
-    },
-    {
-     "type": "ocr",
-     "text": "Wy, a, Nomen 64 » o 4 tistrzyki Dolne © A, Se, ~~ x, 49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N Legenda ©) sranice obszarów dorzeczy KRAJOBRAZ WYZYNNY «nw== potok fliszowy (12) zlewnie JCWP granice powiatów . t"
-    },
-    {
-     "type": "ocr",
-     "text": "4 ="
-    },
-    {
-     "type": "ocr",
-     "text": "79. granice gmin e miasta"
-    },
-    {
-     "type": "ocr",
-     "text": "WÓD POWIERZCHNIOWYCH RZECZNYCH - OBSZARU DORZECZA DNIESTRU OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "Krościenką e"
-    },
-    {
-     "type": "ocr",
-     "text": "4, ;"
-    },
-    {
-     "type": "ocr",
-     "text": "Jasien e"
-    },
-    {
-     "type": "ocr",
-     "text": "Bandrov Narodowy ©"
-    },
-    {
-     "type": "ocr",
-     "text": "Jichniqjviec TYPY JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH RZECZNYCH SKALA 1:120 000"
-    },
-    {
-     "type": "ocr",
-     "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89."
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "22°30'E 22°35'E"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "22°41'E 22°46'E"
     },
     {
      "type": "note",
-     "text": "[Strona 162 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 161 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "ocr",
-     "text": "OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N"
-    },
-    {
-     "type": "ocr",
-     "text": "Krościenko ©"
-    },
-    {
-     "type": "ocr",
-     "text": "Log, Yn, ey R Brzegi Dolne OCZ) © NN 10 By strzyki Dolne"
-    },
-    {
-     "type": "ocr",
-     "text": "oe. 49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "15 Narodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N D Michniowiec"
-    },
-    {
-     "type": "ocr",
-     "text": "( Ekoregion - Karpaty (\"71 granice powiatów RÓB I LN"
-    },
-    {
-     "type": "ocr",
-     "text": "s neem? eum, i granice gmin miasta +h w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 163 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E 22°41'E"
-    },
-    {
-     "type": "ocr",
-     "text": "Poz. 22°46'E MAPA 7. OCENA STANU JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH RZECZNYCH - OBSZARU DORZECZA DNIESTRU"
-    },
-    {
-     "type": "ocr",
-     "text": "Krościenko ©"
-    },
-    {
-     "type": "ocr",
-     "text": "ley BTzegi Dolne NW, Se XN strzyki Dolne"
-    },
-    {
-     "type": "ocr",
-     "text": "„i"
-    },
-    {
-     "type": "ocr",
-     "text": "OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "Noy \\ wy, : - 4 m ł cor, aj now > ous +, y KN & + ee, p _/ od 7 bat U 4 R „EEE Narodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "a PN, yaad SH"
-    },
-    {
-     "type": "ocr",
-     "text": "pichniogviec Legenda CD sranice obszarów dorzeczy stan naturalnych JCWP Ly . zlewnie JCWP h ska cf} granice powiatów arin’ oom? l 1 r oo, z 5 km {_j granice gmin oth ay e miasta Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 164 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E 22°41'E 22°46'E [ed MAPA 8. OCENA STANU ILOSCIOWEGO ) JEDNOLITYCH CZESCI WOD PODZIEMNYCH OBSZARU DORZECZA DNIESTRU 49°31'N OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°26'N 49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "Narodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N 49°20'N"
-    },
-    {
-     "type": "ocr",
-     "text": "Legenda CD sranice obszarów dorzeczy stan ilościowy JCW podziemnych ©) dobry \\ sala ([_] granice powiatów | 1120000 a nm _} granice gmin p e miasta Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. [1 [1"
-    },
-    {
-     "type": "ocr",
-     "text": "[1 { {_ [ 22°30'E 22°35'E"
-    },
-    {
-     "type": "ocr",
-     "text": "2, “Aer { [1 2241'E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 165 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'0\"E 22°40'30\"E 22°46'0\"E Ld L_—_—_—_] L_—_—_—_] EEEE L_—_—_—_] L_—_—_—_] a EEEE EEEE L_—_—_—_] L_—_—_—_] L_—_—_—_] MAPA 9. OCENA STANU CHEMICZNEGO JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH OBSZARU DORZECZA DNIESTRU"
-    },
-    {
-     "type": "ocr",
-     "text": "| mem = |"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'0\"N 49°31'0\"N OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "49°25'30\"N 49°25'30\"N"
-    },
-    {
-     "type": "ocr",
-     "text": "Narodowy"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'0\"N 49°20'0\"N"
-    },
-    {
-     "type": "ocr",
-     "text": "Legenda C) sranice obszarów dorzeczy stan chemiczny JCW podziemnych | | dobry | | | SKAJA ([] granice powiatów | 1:120 00 m | A LL (__] granice gmin e miasta l Odwzęrowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. [1 [1 [1 —) {_ { [1 22°29'30\"E 22°35'0\"E 22°40'30\"E"
-    },
-    {
-     "type": "ocr",
-     "text": "22°46'0\"E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 166 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E 22°41'E 22°46'E EMME MM EA MM MM EM i MM MM EM || MAPA 10. SIEĆ MONITORINGU WÓD POWIERZCHNIOWYCH - OBSZAR DORZECZA DNIESTRU"
-    },
-    {
-     "type": "ocr",
-     "text": "z m i z g m A OBSZARY DORZECZY +"
-    },
-    {
-     "type": "ocr",
-     "text": "Krościenko ©"
-    },
-    {
-     "type": "ocr",
-     "text": "ody, 4"
-    },
-    {
-     "type": "ocr",
-     "text": "W, i\" Sizes Dolne"
-    },
-    {
-     "type": "ocr",
-     "text": "‘ t i Dol PSG. I Dolne = © | N z ) 2 wo 4 ty, 5 p” |. m t+ Sy Ag 4 LP ż"
-    },
-    {
-     "type": "ocr",
-     "text": "Bandrów Warodowy / ©"
-    },
-    {
-     "type": "ocr",
-     "text": "ALĘ 2)"
-    },
-    {
-     "type": "ocr",
-     "text": "PN, ft\" \"Ae! i z \\ o x z F © N „gd F Ś"
-    },
-    {
-     "type": "ocr",
-     "text": "Legenda MichnioWiec ama (CD sranice obszarów dorzeczy"
-    },
-    {
-     "type": "ocr",
-     "text": "an rzeki a U N sieć monitoringu wód powierzchniowych 1 + © operacyjny/diagnostyczny U 4 > pz : oo | 2 SKALA iL 1 granice powiatów 27 1:120 000 LLL 0 0,5 1 2"
-    },
-    {
-     "type": "ocr",
-     "text": "L__| granice gmin pr! e miasta a g Na mapie przedstawiono sieć monitoringową opracowaną przez Główny Inspektorat Ochrony Srodowiska. dn Ś Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89."
-    },
-    {
-     "type": "ocr",
-     "text": "22°30'E 22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 167 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "22°35'E"
     },
     {
-     "type": "ocr",
-     "text": "27 Nee, PN, Danza? WZA 20 4 Ustrzyki Dolne m *. NĄ = \"A"
-    },
-    {
-     "type": "ocr",
-     "text": "Legenda | QD sranice obszarów dorzeczy | () jednolite części wód podziemnych sieć monitoringu wód podziemnych"
-    },
-    {
-     "type": "ocr",
-     "text": "= ns? f 1} granice gmin wes"
-    },
-    {
-     "type": "ocr",
-     "text": "ilościowy granice powiatów"
-    },
-    {
-     "type": "ocr",
-     "text": "miasta Na mapie przedstawiono sieć monitoringową opracowaną przez Główny Inspektorat Ochrony Srodowiska."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "22°41'E 22°46'E"
     },
     {
-     "type": "ocr",
-     "text": "OBSZARY DORZECZY"
+     "type": "text",
+     "text": "Poz. MAPA 5. TYPY JEDNOLITYCH CZĘŚCI 49°31'N"
     },
     {
-     "type": "ocr",
-     "text": "Krościenko u"
+     "type": "text",
+     "text": "Wy, a, Nomen 64 » o 4 tistrzyki Dolne © A, Se, ~~ x, 49°26'N"
     },
     {
-     "type": "ocr",
-     "text": "Brzegi Dolne m"
+     "type": "text",
+     "text": "49°20'N Legenda ©) sranice obszarów dorzeczy KRAJOBRAZ WYŻYNNY «nw== potok fliszowy (12) zlewnie JCWP granice powiatów . t"
     },
     {
-     "type": "ocr",
-     "text": "4, 5 Jasień ju f"
+     "type": "text",
+     "text": "4 ="
     },
     {
-     "type": "ocr",
-     "text": "Bandrówń Narodowy m"
-    },
-    {
-     "type": "ocr",
-     "text": "h płaskich w układzie PUGW-92, ws 22°30'E 22°35'E"
-    },
-    {
-     "type": "ocr",
-     "text": "h w układzie EUREF-89. 22°41'E N"
-    },
-    {
-     "type": "ocr",
-     "text": "2°46'E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 168 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E 22°41'E 22°46'E MAPA 12. OBSZARY PRZEZNACZONE DO OCHRONY SIEDLISK LUB GATUNKOW, DLA KTORYCH UTRZYMANIE LUB POPRAWA STANU WÓDŃEST WAŻNYM CZYNNIKIEM W ICH OCHRONIE - OBSZAR DORZECZA DNIESTRU"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°26'N 49°26'N"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N 49°20'N Michniowiec"
-    },
-    {
-     "type": "ocr",
-     "text": "Legenda | WEB granice obszarów dorzeczy rzeki \\, obszary wyznaczone na mocy Dyrektywy 79/409/WE (NATURA 2000 - OSO) h SKALA obszary wyznaczone na mocy Dyrektywy 92/43/WE (NATURA 2000 - SOO) 1:120 000 o 05 1 2 ‘ 5 La La idan"
-    },
-    {
-     "type": "ocr",
-     "text": "(GB granice powiatów im | rate | . p gw! t._j granice gmin S 2 e miasta BP = AO 2, Na mapie przedstawiono obszary Natura 2000 zgodnie ze stanem na styczeń 2009 r. Ape Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 169 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "22°35'E 22°41'E 22°46'E a a a | I! Ia! Iz! Ia! I! In Ian! I MAPA 13. PUNKTOWE ŹRÓDŁA ZANIECZYSZCZEŃ - OBSZAR DORZECZA DNIESTRU"
-    },
-    {
-     "type": "ocr",
-     "text": "49°31'N OBSZARY DORZECZY"
-    },
-    {
-     "type": "ocr",
-     "text": "Krościenko ©"
-    },
-    {
-     "type": "ocr",
-     "text": "© Brzegi Dolne ©"
-    },
-    {
-     "type": "ocr",
-     "text": "w. Na, NY, Nazza? Nt * *, 4 Ustrzyki Dolne e koi z ee, KOS w = IB =, A z ) kn + © i +, Jasień o ©"
-    },
-    {
-     "type": "ocr",
-     "text": "o ? + 4"
-    },
-    {
-     "type": "ocr",
-     "text": "Bandrów Mlarodowy ©"
-    },
-    {
-     "type": "ocr",
-     "text": "Legenda | GB granice obszarów dorzeczy rzeki punktowe źródła zanieczyszczeń 6 składowiska odpadów Kb zrzuty z oczyszczalni ścieków komunalnych"
-    },
-    {
-     "type": "ocr",
-     "text": "49°20'N Michniowigc formy pokrycia terenu (Corine Land Cover) lasy i ekosystemy seminaturalne strefy podmokłe tereny rolne cieki i zbiorniki wodne SKALA tereny zantropogenizowane == | =\""
-    },
-    {
-     "type": "ocr",
-     "text": "granice powiatów granice gmin U : „ae © miasta Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. |! |! | I | a! |z| | a! | a! | a! | u! | a! | a! 22°30'E 22°35'E 22°41'E 22°46'E"
+     "type": "ust",
+     "num": "79",
+     "path": "ust_79",
+     "text": "granice gmin e miasta",
+     "children": [
+      {
+       "type": "text",
+       "text": "WÓD POWIERZCHNIOWYCH RZECZNYCH - OBSZARU DORZECZA DNIESTRU OBSZARY DORZECZY"
+      },
+      {
+       "type": "text",
+       "text": "Krościenką e"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "Jasień e"
+      },
+      {
+       "type": "text",
+       "text": "Bandrov Narodowy ©"
+      },
+      {
+       "type": "text",
+       "text": "Jichniqjviec TYPY JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH RZECZNYCH SKALA 1:120 000"
+      },
+      {
+       "type": "text",
+       "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89."
+      },
+      {
+       "type": "text",
+       "text": "49°31'N"
+      },
+      {
+       "type": "text",
+       "text": "49°26'N"
+      },
+      {
+       "type": "text",
+       "text": "49°20'N"
+      },
+      {
+       "type": "text",
+       "text": "22°30'E 22°35'E"
+      },
+      {
+       "type": "text",
+       "text": "22°41'E 22°46'E"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 162 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E 22°41'E 22°46'E"
+      },
+      {
+       "type": "text",
+       "text": "OBSZARY DORZECZY"
+      },
+      {
+       "type": "text",
+       "text": "49°31'N"
+      },
+      {
+       "type": "text",
+       "text": "Krościenko ©"
+      },
+      {
+       "type": "text",
+       "text": "Log, Yn, ey R Brzegi Dolne OCZ) © NN 10 By strzyki Dolne oe. 49°26'N"
+      },
+      {
+       "type": "text",
+       "text": "15 Narodowy"
+      },
+      {
+       "type": "text",
+       "text": "49°20'N D Michniowiec"
+      },
+      {
+       "type": "text",
+       "text": "( Ekoregion - Karpaty (\"71 granice powiatów RÓB I LN s neem? eum, i granice gmin miasta +h w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 163 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "49°31'N"
+      },
+      {
+       "type": "text",
+       "text": "49°26'N"
+      },
+      {
+       "type": "text",
+       "text": "49°20'N"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E 22°41'E"
+      },
+      {
+       "type": "text",
+       "text": "Poz. 22°46'E MAPA 7. OCENA STANU JEDNOLITYCH CZĘŚCI WÓD POWIERZCHNIOWYCH RZECZNYCH - OBSZARU DORZECZA DNIESTRU"
+      },
+      {
+       "type": "text",
+       "text": "Krościenko ©"
+      },
+      {
+       "type": "text",
+       "text": "ley BTzegi Dolne NW, Se XN strzyki Dolne"
+      },
+      {
+       "type": "text",
+       "text": "„i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "OBSZARY DORZECZY",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Noy \\ wy, : - 4 m ł cor, aj now > ous +, y KN & + ee, p _/ od 7 bat U 4 R „EEE Narodowy",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a PN, yaad SH",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pichniogviec Legenda CD sranice obszarów dorzeczy stan naturalnych JCWP Ly . zlewnie JCWP h ska cf} granice powiatów arin’ oom? l 1 r oo, z 5 km {_j granice gmin oth ay e miasta Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°31'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°26'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°20'N",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 164 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E 22°41'E 22°46'E [ed MAPA 8. OCENA STANU ILOŚCIOWEGO ) JEDNOLITYCH CZĘŚCI WOD PODZIEMNYCH OBSZARU DORZECZA DNIESTRU 49°31'N OBSZARY DORZECZY",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°31'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°26'N 49°26'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Narodowy",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°20'N 49°20'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Legenda CD sranice obszarów dorzeczy stan ilościowy JCW podziemnych ©) dobry \\ sala ([_] granice powiatów | 1120000 a nm _} granice gmin p e miasta Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. [1 [1",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "[1 { {_ [ 22°30'E 22°35'E",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2, “Aer { [1 2241'E",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 165 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'0\"E 22°40'30\"E 22°46'0\"E Ld L_—_—_—_] L_—_—_—_] EEEE L_—_—_—_] L_—_—_—_] a EEEE EEEE L_—_—_—_] L_—_—_—_] L_—_—_—_] MAPA 9. OCENA STANU CHEMICZNEGO JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH OBSZARU DORZECZA DNIESTRU",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "| mem = |",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°31'0\"N 49°31'0\"N OBSZARY DORZECZY",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°25'30\"N 49°25'30\"N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Narodowy",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°20'0\"N 49°20'0\"N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Legenda",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "C) sranice obszarów dorzeczy stan chemiczny JCW podziemnych | | dobry | | | SKAJA ([] granice powiatów | 1:120 00 m | A LL (__] granice gmin e miasta l Odwzęrowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. [1 [1 [1 —) {_ { [1 22°29'30\"E 22°35'0\"E 22°40'30\"E",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22°46'0\"E",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 166 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E EMMĘ MM EA MM MM",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22°41'E 22°46'E EM i MM MM EM || MAPA 10. SIEĆ MONITORINGU WÓD POWIERZCHNIOWYCH - OBSZAR DORZECZA DNIESTRU",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z m A +",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ody,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W, i\" Sizes Dolne ‘ t i Dol PSG. I Dolne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "| z ) wo 4 ty, 5 p” |. m t+ Sy Ag 4 LP ż",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "/"
+      },
+      {
+       "type": "text",
+       "text": "z © N F Legenda (CD sranice obszarów dorzeczy an rzeki sieć monitoringu wód powierzchniowych © operacyjny/diagnostyczny pz : oo iL 1 granice powiatów LLL L__| granice gmin e miasta Na mapie przedstawiono sieć monitoringową opracowaną przez Główny Inspektorat Ochrony Środowiska."
+      },
+      {
+       "type": "text",
+       "text": "z m i g OBSZARY DORZECZY"
+      },
+      {
+       "type": "text",
+       "text": "Krościenko ©"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "= © N 2"
+      },
+      {
+       "type": "text",
+       "text": "Bandrów Warodowy ©"
+      },
+      {
+       "type": "text",
+       "text": "ALĘ 2)"
+      },
+      {
+       "type": "text",
+       "text": "PN, ft\" \"Ae! i z \\ o x F"
+      },
+      {
+       "type": "text",
+       "text": "„gd Ś MichnioWiec ama",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a U N 1 + U 4 > | 2 SKALA 27 1:120 000 0 0,5 1 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pr! a g dn Ś Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. 22°30'E 22°35'E",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22°41'E 22°46'E",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 167 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "27 Nee, PN, Danza? WZA 20 4 Ustrzyki Dolne m *. NĄ = \"A",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Legenda | QD sranice obszarów dorzeczy | () jednolite części wód podziemnych sieć monitoringu wód podziemnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "= ns? f 1} granice gmin wes ilościowy granice powiatów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "miasta Na mapie przedstawiono sieć monitoringową opracowaną przez Główny Inspektorat Ochrony Środowiska.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22°41'E 22°46'E",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "OBSZARY DORZECZY",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Krościenko u",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Brzegi Dolne m",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4, 5 Jasień ju f",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Bandrówń Narodowy m",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "h płaskich w układzie PUGW-92, ws 22°30'E 22°35'E h w układzie EUREF-89. 22°41'E N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2°46'E",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 168 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E 22°41'E 22°46'E MAPA 12. OBSZARY PRZEZNACZONE DO OCHRONY SIEDLISK LUB GATUNKÓW, DLA KTÓRYCH UTRZYMANIE LUB POPRAWA STANU WÓDŃEST WAŻNYM CZYNNIKIEM W ICH OCHRONIE - OBSZAR DORZECZA DNIESTRU",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°31'N OBSZARY DORZECZY",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°31'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°26'N 49°26'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°20'N 49°20'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Michniowiec",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Legenda | WEB granice obszarów dorzeczy rzeki \\, obszary wyznaczone na mocy Dyrektywy 79/409/WE (NATURA 2000 - OSO) h SKALA obszary wyznaczone na mocy Dyrektywy 92/43/WE (NATURA 2000 - SOO) 1:120 000 o 05 1 2 ‘ 5 La La idan",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(GB granice powiatów im | rate | . p gw! t._j granice gmin S 2 e miasta BP = AO 2, Na mapie przedstawiono obszary Natura 2000 zgodnie ze stanem na styczeń 2009 r. Ape Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. 22°30'E 22°35'E 22°41'E 22°46'E",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 169 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "22°35'E a a a | I! Ia!",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22°41'E 22°46'E Iz! Ia! I! In Ian! I MAPA 13. PUNKTOWE ŹRÓDŁA ZANIECZYSZCZEŃ - OBSZAR DORZECZA DNIESTRU",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49°31'N",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "© Brzegi Dolne w. Na, NY, © Nazza? Nt * *, 4 Ustrzyki Dolne e koi ee, KOS = IB =, z ) kn © i +, Jasień o ? o © + 4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Legenda | GB granice obszarów dorzeczy rzeki punktowe źródła zanieczyszczeń 49°20'N 6 składowiska odpadów Kb zrzuty z oczyszczalni ścieków komunalnych formy pokrycia terenu (Corine Land Cover) lasy i ekosystemy seminaturalne strefy podmokłe tereny rolne cieki i zbiorniki wodne tereny zantropogenizowane == granice powiatów | =\" granice gmin U : „ae © miasta",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "OBSZARY DORZECZY",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Krościenko ©",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z w A +",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Bandrów Mlarodowy ©",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Michniowigc",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "SKALA",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. |! |! | I | a! |z| | a! 22°30'E 22°35'E",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "| a! | a! | u! | a! | a! 22°41'E 22°46'E",
+       "quoted": true
+      }
+     ]
     }
    ]
   },
@@ -10212,7 +10336,7 @@
     },
     {
      "type": "text",
-     "text": "PLRW9000127691 Strwiąż do granicy państwa GW0901 region wodny Dniestru 9000 obszar dorzecza Dniestru RZGW w Krakowie Karpaty (10) Karpaty (10) Potok fliszowy (12) naturalna część wód zły niezagrożona - - Monitor Polski Nr 38 — 1935 — Poz. 425"
+     "text": "PLRW9000127691 Strwiąż do granicy państwa GW0901 region wodny Dniestru 9000 obszar dorzecza Dniestru RZGW w Krakowie Karpaty (10) Karpaty (10) Potok fliszowy (12) naturalna część wód zły niezagrożona - -"
     },
     {
      "type": "note",
@@ -10220,7 +10344,7 @@
     },
     {
      "type": "text",
-     "text": "Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Obszar dorzecza Ocena ryzyka Derogacje Uzasadnienie derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Gospodarki Wodnej Ekoregion ilościowego chemicznego Kod Nazwa (RZGW) PLGW9000159 159 region wodny Dniestru 9000 obszar dorzecza Dniestru RZGW w Krakowie Karpaty (10) dobry dobry niezagrożona - - Monitor Polski Nr 38 — 1936 — Poz. 425"
+     "text": "Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Obszar dorzecza Ocena ryzyka Derogacje Uzasadnienie derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Gospodarki Wodnej Ekoregion ilościowego chemicznego Kod Nazwa (RZGW) PLGW9000159 159 region wodny Dniestru 9000 obszar dorzecza Dniestru RZGW w Krakowie Karpaty (10) dobry dobry niezagrożona - -"
     },
     {
      "type": "note",
@@ -10233,7 +10357,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Mapa nr 1. Monitor Polski Nr 38 — 1937 — Poz. 425"
+     "text": "Mapa nr 1."
     },
     {
      "type": "note",
@@ -10241,7 +10365,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 2. Monitor Polski Nr 38 — 1938 — Poz. 425"
+     "text": "Mapa nr 2."
     },
     {
      "type": "note",
@@ -10249,7 +10373,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 3. Monitor Polski Nr 38 — 1939 — Poz. 425"
+     "text": "Mapa nr 3."
     },
     {
      "type": "note",
@@ -10257,7 +10381,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 4. Monitor Polski Nr 38 — 1940 — Poz. 425"
+     "text": "Mapa nr 4."
     },
     {
      "type": "note",
@@ -10265,7 +10389,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 5. Monitor Polski Nr 38 — 1941 — Poz. 425"
+     "text": "Mapa nr 5."
     },
     {
      "type": "note",
@@ -10413,7 +10537,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 9. Monitor Polski Nr 38 — 1945 — Poz. 425"
+     "text": "Mapa nr 9."
     },
     {
      "type": "note",
@@ -10421,7 +10545,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 10. Monitor Polski Nr 38 — 1946 — Poz. 425"
+     "text": "Mapa nr 10."
     },
     {
      "type": "note",
@@ -10429,7 +10553,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 11. Monitor Polski Nr 38 — 1947 — Poz. 425"
+     "text": "Mapa nr 11."
     },
     {
      "type": "note",
@@ -10437,7 +10561,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 12. Monitor Polski Nr 38 — 1948 — Poz. 425"
+     "text": "Mapa nr 12."
     },
     {
      "type": "note",
@@ -10445,7 +10569,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 13. Monitor Polski Nr 38 — 1949 — Poz. 425"
+     "text": "Mapa nr 13."
     },
     {
      "type": "note",
@@ -10453,7 +10577,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 14. Monitor Polski Nr 38 — 1950 — Poz. 425"
+     "text": "Mapa nr 14."
     },
     {
      "type": "note",
@@ -10461,7 +10585,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 15. Monitor Polski Nr 38 — 1951 — Poz. 425"
+     "text": "Mapa nr 15."
     },
     {
      "type": "note",
@@ -10469,7 +10593,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 16. Monitor Polski Nr 38 — 1952 — Poz. 425"
+     "text": "Mapa nr 16."
     },
     {
      "type": "note",
@@ -10477,7 +10601,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 17. Monitor Polski Nr 38 — 1953 — Poz. 425"
+     "text": "Mapa nr 17."
     },
     {
      "type": "note",
@@ -10485,7 +10609,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 18. Monitor Polski Nr 38 — 1954 — Poz. 425"
+     "text": "Mapa nr 18."
     },
     {
      "type": "note",
@@ -10493,54 +10617,43 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 19. Monitor Polski Nr 38 — 1955 — Poz. 425"
+     "text": "Mapa nr 19."
     },
     {
      "type": "note",
-     "text": "[Strona 191 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "SSKALA 1: 3500 000 Tie rz"
-    },
-    {
-     "type": "ocr",
-     "text": "cold grudek 200:"
-    },
-    {
-     "type": "ocr",
-     "text": "Sfinensowano ze środków Narodowego Funduszu Ochrony Środowisko i Gospodarki wodnej"
-    },
-    {
-     "type": "ocr",
-     "text": "na zamówienie Prezesa Krajowego Zarządu Gospodorki Wodnej \"MAPA 20."
-    },
-    {
-     "type": "ocr",
-     "text": "PUNKTOWE | ROZPROSZONE ŹRÓDŁA ZANIECZYSZCZEŃ"
-    },
-    {
-     "type": "ocr",
-     "text": "„OPRACOWANIE PLANÓW GOSPODAROWANIA WODAMI NA OBSZARACH DORZECZY W POLSCE\""
-    },
-    {
-     "type": "ocr",
-     "text": "oe gta Ochrony rodowa organ prze Gem kuper Mapa nr 20. PUNKTOWE I OBSZAROWE ZRODLA ZANIECZYSZCZEŃ"
-    },
-    {
-     "type": "ocr",
-     "text": "Morze Bałtyckie"
+     "text": "[Strona 191 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "text",
-     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Dniestru 5 Cr og og Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Katowice Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony termiczne Suma temperatury ≥10°C Chłodny 1600° – 2000° Umiarkowanie chłodny 2000° – 2400° Umiarkowanie ciepły 2400° – 2800° Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczoklimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony wilgotnościowe Wartości współczynnika hydrotermicznego Umiarkowanie suchy 1,0 – 1,3 Optymalnego uwilgotnienia 1,3 – 1,6 Wilgotny > 1,6 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009.Weryfikacja rolniczoklimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). H ) ) H ) ) 4 ) )"
+     "text": "SSKALA 1: 3500 000 Tie rz cold grudek 200:"
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "H ) ) ) ) ) ) Tabela 6. Struktura przedsiębiorstw na obszarze dorzecza Dniestru. % przedsiębiorstw na Sektory przemysłu obszarze dorzecza Rolnictwo, łowiectwo i leśnictwo. 17.46 Rybactwo. 0.05 Górnictwo i przetwórstwo przemysłowe 9.34 Wytwarzanie i zaopatrywanie w energię elektryczną, 0.24 gaz i wodę. Budownictwo 8.08 Handel hurtowy i detaliczny 31.54 Usługi 24.82 Administracja publiczna i obrona narodowa 2.08 Edukacja 2.81 ¹ Założenia do przyjęcia zerowej wartości kosztów zasobowych znajdują się w podrozdziale Oszacowanie kosztów środowiskowych i zasobowych Tabela 8. Podział odpowiedzialności za koszty środowiskowe w roku 2006 GOSPODARKA OBSZAR PRZEMYSŁ ROLNICTWO KOMUNALNA OGÓŁEM POLSKA 70,1% 5,0% 24,9% * Wskazania podmiotów realizujących poszczególne działania zawiera załącznik do programu wodno-środowiskowego kraju 2010 2014 Ochrona wód i efektywne wykorzystanie 1 179,4 25,80 654,1 10,42 zasobów wodnych wojewódzki inspektor sanitarny, wojewodowie, marszałkowie. Tabela 18. Dane adresowe RZGW w obrębie dorzecza Dniestru Nazwa instytucji Dane kontaktowe i strona www ul. Marsz. J. Piłsudskiego 22 Regionalny Zarząd Gospodarki Wodnej 31-109 Kraków w Krakowie www.krakow.rzgw.gov.pl Organem właściwym do udzielania informacji z zakresu monitoringu wód powierzchniowych, podziemnych oraz obszarów chronionych jest Główny Inspektor Ochrony Środowiska. Informacje adresowe podano poniżej.",
-     "children": []
+     "type": "text",
+     "text": "Sfinensowano ze środków Narodowego Funduszu Ochrony Środowisko i Gospodarki wodnej na zamówienie Prezesa Krajowego Zarządu Gospodorki Wodnej \"MAPA 20."
+    },
+    {
+     "type": "text",
+     "text": "PUNKTOWE | ROZPROSZONE ŹRÓDŁA ZANIECZYSZCZEŃ"
+    },
+    {
+     "type": "text",
+     "text": "„OPRACOWANIE PLANÓW GOSPODAROWANIA WODAMI NA OBSZARACH DORZECZY W POLSCE\" oe gta Ochrony rodowa organ prze Gem kuper Mapa nr 20. PUNKTOWE I OBSZAROWE ZRODLA ZANIECZYSZCZEŃ",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Morze Bałtyckie",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Dniestru Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Katowice Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony termiczne Suma temperatury ≥10°C Chłodny 1600° – 2000° Umiarkowanie chłodny 2000° – 2400° Umiarkowanie ciepły 2400° – 2800° Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczoklimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony wilgotnościowe Wartości współczynnika hydrotermicznego Umiarkowanie suchy 1,0 – 1,3 Optymalnego uwilgotnienia 1,3 – 1,6 Wilgotny > 1,6 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009.Weryfikacja rolniczoklimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). H ) ) H ) )",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) H ) ) ) ) ) ) Tabela 6. Struktura przedsiębiorstw na obszarze dorzecza Dniestru. % przedsiębiorstw na Sektory przemysłu obszarze dorzecza Rolnictwo, łowiectwo i leśnictwo. 17.46 Rybactwo. 0.05 Górnictwo i przetwórstwo przemysłowe 9.34 Wytwarzanie i zaopatrywanie w energię elektryczną, 0.24 gaz i wodę. Budownictwo 8.08 Handel hurtowy i detaliczny 31.54 Usługi 24.82 Administracja publiczna i obrona narodowa 2.08 Edukacja 2.81 ¹ Założenia do przyjęcia zerowej wartości kosztów zasobowych znajdują się w podrozdziale Oszacowanie kosztów środowiskowych i zasobowych Tabela 8. Podział odpowiedzialności za koszty środowiskowe w roku 2006 GOSPODARKA OBSZAR PRZEMYSŁ ROLNICTWO KOMUNALNA OGÓŁEM POLSKA 70,1% 5,0% 24,9% * Wskazania podmiotów realizujących poszczególne działania zawiera załącznik do programu wodno-środowiskowego kraju 2010 2014 Ochrona wód i efektywne wykorzystanie 1 179,4 25,80 654,1 10,42 zasobów wodnych wojewódzki inspektor sanitarny, wojewodowie, marszałkowie. Tabela 18. Dane adresowe RZGW w obrębie dorzecza Dniestru Nazwa instytucji Dane kontaktowe i strona www ul. Marsz. J. Piłsudskiego 22 Regionalny Zarząd Gospodarki Wodnej 31-109 Kraków w Krakowie www.krakow.rzgw.gov.pl Organem właściwym do udzielania informacji z zakresu monitoringu wód powierzchniowych, podziemnych oraz obszarów chronionych jest Główny Inspektor Ochrony Środowiska. Informacje adresowe podano poniżej.",
+     "quoted": true
     }
    ]
   }

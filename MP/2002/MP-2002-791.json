@@ -1,7 +1,7 @@
 {
  "eli": "MP/2002/791",
  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 25 listopada 2002 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 20 zł oraz terminu wprowadzenia ich do obiegu.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/791/text.pdf",
  "body": [
   {
@@ -51,10 +51,6 @@
   {
    "heading": "Załącznik do zarządzenia Prezesa Narodowego Banku Polskiego z dnia 25 listopada 2002 r. (poz. 791)",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 58 — 2252 — Poz. 791"
-    },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

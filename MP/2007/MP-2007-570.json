@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/570",
  "title": "Obwieszczenie Prezesa Polskiego Komitetu Normalizacyjnego z dnia 24 lipca 2007 r. w sprawie numerów i tytułów polskich Norm, będących transpozycją norm europejskich, uznanych przez komisję europejską za zgodne z przepisami dotyczącymi ogólnego bezpieczeństwa produktów",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/570/text.pdf",
  "body": [
   {
@@ -31,7 +31,7 @@
    "body": [
     {
      "type": "text",
-     "text": "NUMERY I TYTUŁY POLSKICH NORM WEDŁUG STANU NA DZIEŃ 30 CZERWCA 2007 R., BĘDĄCYCH TRANSPOZYCJĄ NORM EUROPEJSKICH, UZNANYCH PRZEZ KOMISJĘ EUROPEJSKĄ ZA ZGODNE Z PRZEPISAMI DOTYCZĄCYMI OGÓLNEGO BEZPIECZEŃSTWA PRODUKTÓW Monitor Polski Nr 49 — 1417 — Poz. 570"
+     "text": "NUMERY I TYTUŁY POLSKICH NORM WEDŁUG STANU NA DZIEŃ 30 CZERWCA 2007 R., BĘDĄCYCH TRANSPOZYCJĄ NORM EUROPEJSKICH, UZNANYCH PRZEZ KOMISJĘ EUROPEJSKĄ ZA ZGODNE Z PRZEPISAMI DOTYCZĄCYMI OGÓLNEGO BEZPIECZEŃSTWA PRODUKTÓW"
     },
     {
      "type": "note",
@@ -67,7 +67,7 @@
     },
     {
      "type": "text",
-     "text": "* (U) — Polskie Normy wprowadzające normy europejskie metodą uznania idostępne tylko wjęzykach oryginału (angielski, francuski, niemiecki). Monitor Polski Nr 49 — 1419 — Poz. 570"
+     "text": "* (U) — Polskie Normy wprowadzające normy europejskie metodą uznania idostępne tylko wjęzykach oryginału (angielski, francuski, niemiecki)."
     },
     {
      "type": "note",

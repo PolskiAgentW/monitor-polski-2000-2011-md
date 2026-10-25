@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/424",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Jarft",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/424/text.pdf",
  "body": [
   {
@@ -40,166 +40,170 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "12."
+     "type": "text",
+     "text": "12"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "14.",
+   "children": [
+    {
+     "type": "text",
+     "text": "15"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "16",
+   "path": "ust_16",
+   "text": "17. 18.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ........ Strategia Gospodarki Wodnej 2005 r. LL Loona a aaa Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ........ Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. 2... 0. ee ee Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ...... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ...... Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lea 1 21 Strategie Rozwoju dla województw ... 2.2... 00. A Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............ Wojewódzkie programy udrażniania rzek LL 1 1. a 1 Programy małej retencji LL una A Plany ochrony dla obszarów Natura 2000 LL LL Luo aa 1 Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie .... LLL ooo 1 ltura konsultacji społecznych .. 2... 2 A Il tura konsultacji społecznych . LL 2... nara Ill tura konsultacji społecznych . LL Loan A Podsumowanie wynikÓw ... 2... 0 A Wykaz właściwych władz LL 2... owo ono A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW .... 1... A Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Jarft . LL Luo a 11 Literatura Lua A Spistabel LL La A Spis rysunkÓW 2. A"
     },
     {
-     "type": "ocr",
-     "text": "13. 14."
+     "type": "text",
+     "text": "Załączniki:"
     },
     {
-     "type": "ocr",
-     "text": "15."
-    },
-    {
-     "type": "ocr",
-     "text": "16. 17. 18."
-    },
-    {
-     "type": "ocr",
-     "text": "Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ........ Strategia Gospodarki Wodnej 2005 r. LL Loona a aaa Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ........ Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. 2... 0. ee ee Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ...... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ...... Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lea 1 21 Strategie Rozwoju dla województw ... 2.2... 00. A Wojewódzki program ochrony środowiska i plan gospodarki odpadami ............ Wojewódzkie programy udrazniania rzek LL 1 1. a 1 Programy matej retencji LL una A Plany ochrony dla obszarów Natura 2000 LL LL Luo aa 1 Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie .... LLL ooo 1 ltura konsultacji społecznych .. 2... 2 A Il tura konsultacji społecznych . LL 2... nara Ill tura konsultacji społecznych . LL Loan A Podsumowanie wynikOw ... 2... 0 A Wykaz właściwych władz LL 2... owo ono A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW .... 1... A Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Jarft . LL Luo a 11 Literatura Lua A Spistabel LL La A Spis rysunkOW 2. A"
-    },
-    {
-     "type": "ocr",
-     "text": "Zataczniki:"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 1 — mapy: «|Mapa 1. Granica obszaru dorzecza Jarft LL Lana ra 1 «|Mapa 2. Jednolite części wód powierzchniowych — obszar dorzecza Jarft ......... ° Mapa 3. Scalone części wód powierzchniowych — obszar dorzecza Jarft .......... ° Mapa 4. Jednolite części wód podziemnych — obszar dorzecza Jarft . . . . . «1. «1.1... eMapa 5. Typy jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Jarft 2. A «|Mapa 6. Ekoregiony — obszar dorzecza Jarft . 1... a 1 «|Mapa 7. Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Jarft 2... eMapa 8. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Jarft 2. a A eMapa 9. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Jarft 2. A e Mapa 10. Sieć monitoringu wód powierzchniowych — obszar dorzecza Jarft ........ e Mapa 11. Sieć monitoringu wód podziemnych — obszar dorzecza Jarft ........... e Mapa 12. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Jarft ..... e Mapa 13. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Jarft . 2... AA"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód .. . LL La aan eee eee"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1671 1674 1676 1680 1682 1684 1686 1686 1686 1689 1690 1691"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1693 1693 1694 1696 1697 1699"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1713"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1716 1722 1725 1726"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1727 1728 1729 1730"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1731 1732"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1733"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1734"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1735 1736 1737"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1738"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1739"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1740"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 3 — Mapy do celów planistycznych: e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "* Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
-     "text": "e Mapa"
+     "type": "text",
+     "text": "e Mapa nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
     },
     {
-     "type": "ocr",
-     "text": "nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 11. nr 12. nr 13. nr 14. nr 15. nr 16."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 17."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 18."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 19."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 20."
     },
     {
-     "type": "ocr",
-     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL Lau oaa 2 1 1 Jednolite części wód powierzchniowych .. LL oaza nossa eae Scalone części wód powierzchniowych .. LL Laon 1 1 1 Jednolite części wód podziemnych . . LL Luzon ee 11 Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony .. 2... A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych iprzybrzeżnych ... 2... A Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . LL Lazer soon r 1 Sieć monitoringu wód podziemnych .... Lazo 00002 ee eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1 1 «2 2 2222. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .... 2... 22-2 ee eee Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL ooo A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ... 2... ee ee ara a 11"
+     "type": "text",
+     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL Lau oaa 2 1 1 Jednolite części wód powierzchniowych .. LL oaza nossa eae Scalone części wód powierzchniowych .. LL Laon 1 1 1 Jednolite części wód podziemnych . . LL Luzon ee 11 Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony .. 2... A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych i przybrzeżnych ... 2... A Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . LL Lazer soon r 1 Sieć monitoringu wód podziemnych .... Lazo 00002 ee eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1 1 «2 2 2222. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .... 2... 22-2 ee eee Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL ooo A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ... 2... ee ee ara a 11"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1742 1743 1744 1745 1746 1747 1748 1749 1750"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1751 1752 1753 1754 1755 1756"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1757"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1758"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1759"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1760 1761"
     }
    ]
@@ -807,11 +811,7 @@
     },
     {
      "type": "text",
-     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT , ChZT , N , P , zawiesina ogólna) [kg/rok] przedstawiono poniżej [oszacowano na 5 Cr og og"
-    },
-    {
-     "type": "text",
-     "text": "podstawie danych z GUS, 2007]."
+     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT₅, ChZTCr, Nog, Pog, zawiesina ogólna) [kg/rok] przedstawiono poniżej [oszacowano na podstawie danych z GUS, 2007]."
     },
     {
      "type": "text",
@@ -819,7 +819,7 @@
     },
     {
      "type": "text",
-     "text": "ChZT Cr 177 340 kg/rok"
+     "text": "ChZTCr 177 340 kg/rok"
     },
     {
      "type": "text",
@@ -843,7 +843,7 @@
     },
     {
      "type": "text",
-     "text": "ChZT Cr 622,2 kg/rok/km²"
+     "text": "ChZTCr 622,2 kg/rok/km²"
     },
     {
      "type": "text",
@@ -895,7 +895,7 @@
     },
     {
      "type": "text",
-     "text": "Polska część dorzecza Jarft leży na terenie gmin: Braniewo, Pieniężno, Lelkowo oraz Płoskinia (województwo warmińsko – mazurskie). Obszar ten, z wyjątkiem terenów górskich, należy do najchłodniejszych obszarów w kraju. Dominują tu masy polarno – morskie i polarno – kontynentalne. Dorzecze Jarft charakteryzuje się dużą zmiennością stanów pogody. Lata są tu chłodne, natomiast zimy łagodne. Średnia roczna amplituda powietrza wynosi 19 – 20 °C, zaś średnia temperatura w skali roku kształtuje się na poziomie 6 – 8 °C. Miesiącem najzimniejszym jest styczeń z temperaturą -4,5 °C, a najcieplejszy lipiec – 18,2 °C. Okres wegetacyjny trwa około 180 – 200 dni. W skali roku przeważa typ pogody umiarkowanie ciepłej (5°C < t śr,doby < 15°C), który utrzymuje się ok. 85 dni. Pogoda bardzo ciepła średnio trwa ok. 64 dni. Roczne sumy opadów wynoszą 600 – 750 mm i ulegają znacznym wahaniom z roku na rok (do 250% w poszczególnych miesiącach)."
+     "text": "Polska część dorzecza Jarft leży na terenie gmin: Braniewo, Pieniężno, Lelkowo oraz Płoskinia (województwo warmińsko – mazurskie). Obszar ten, z wyjątkiem terenów górskich, należy do najchłodniejszych obszarów w kraju. Dominują tu masy polarno – morskie i polarno – kontynentalne. Dorzecze Jarft charakteryzuje się dużą zmiennością stanów pogody. Lata są tu chłodne, natomiast zimy łagodne. Średnia roczna amplituda powietrza wynosi 19 – 20 °C, zaś średnia temperatura w skali roku kształtuje się na poziomie 6 – 8 °C. Miesiącem najzimniejszym jest styczeń z temperaturą -4,5 °C, a najcieplejszy lipiec – 18,2 °C. Okres wegetacyjny trwa około 180 – 200 dni. W skali roku przeważa typ pogody umiarkowanie ciepłej (5°C < tśr,doby < 15°C), który utrzymuje się ok. 85 dni. Pogoda bardzo ciepła średnio trwa ok. 64 dni. Roczne sumy opadów wynoszą 600 – 750 mm i ulegają znacznym wahaniom z roku na rok (do 250% w poszczególnych miesiącach)."
     },
     {
      "type": "text",
@@ -1771,7 +1771,11 @@
     },
     {
      "type": "text",
-     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 Monitor Polski Nr 37 — 1611 — Poz. 424 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych. Monitor Polski Nr 37 — 1612 — Poz. 424 Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
+     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
+    },
+    {
+     "type": "text",
+     "text": "Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
     },
     {
      "type": "text",
@@ -1959,7 +1963,7 @@
     },
     {
      "type": "text",
-     "text": "Fosforany (mgPO /l) 0,01 - 1 0,5* 0,5* 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005"
+     "text": "Fosforany (mgPO₄/l) 0,01 - 1 0,5* ) 0,5* ) 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005"
     },
     {
      "type": "text",
@@ -1991,7 +1995,7 @@
     },
     {
      "type": "text",
-     "text": "Siarczany (mgSO /l) 5 – 60 60 250* 250* 4 ) )"
+     "text": "Siarczany (mgSO₄/l) 5 – 60 60 250* ) 250* )"
     },
     {
      "type": "text",
@@ -2827,7 +2831,7 @@
     },
     {
      "type": "text",
-     "text": "– Prawo wodne i RDW dopuszczają takie „odstępstwo” w formie przedłużenia terminów lub ustalenia mniej rygorystycznych celów. Wszystkie tego typu przypadki należy opisać i uzasadnić. Ustalenia zawarte w PWŚK powinny zostać przeniesione do innych dokumentów szczebla krajowego i regionalnego, poprzez uwzględnienie ich zapisów w strategiach, programach operacyjnych i rozwojowych, planach zagospodarowania przestrzennego oraz studiach uwarunkowań i kierunków zagospodarowania prze strzennego, a także w planach i programach tematycznych związanych w sposób bezpośredni bądź pośredni z gospodarką wodną. Taka sytuacja powinna umożliwić pełne wdrożenie zaplanowanych działań."
+     "text": "– Prawo wodne i RDW dopuszczają takie „odstępstwo” w formie przedłużenia terminów lub ustalenia mniej rygorystycznych celów. Wszystkie tego typu przypadki należy opisać i uzasadnić. Ustalenia zawarte w PWŚK powinny zostać przeniesione do innych dokumentów szczebla krajowego i regionalnego, poprzez uwzględnienie ich zapisów w strategiach, programach operacyjnych i rozwojowych, planach zagospodarowania przestrzennego oraz studiach uwarunkowań i kierunków zagospodarowania przestrzennego, a także w planach i programach tematycznych związanych w sposób bezpośredni bądź pośredni z gospodarką wodną. Taka sytuacja powinna umożliwić pełne wdrożenie zaplanowanych działań."
     },
     {
      "type": "text",
@@ -3131,7 +3135,7 @@
     },
     {
      "type": "text",
-     "text": "Ilość JCWPd 1 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania działań podstawowych nie dotyczy Źródła finansowania nie dotyczy działań uzupełniających Monitor Polski Nr 37 — 1645 — Poz. 424"
+     "text": "Ilość JCWPd 1 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania działań podstawowych nie dotyczy Źródła finansowania nie dotyczy działań uzupełniających"
     }
    ]
   },
@@ -9416,94 +9420,102 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 152 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 152 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 1."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 2."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 3."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 4."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 5. Tabela 6. Tabela 7. Tabela 8. Tabela 9. Tabela 10."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 11."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 12. Tabela 13."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 14. Tabela 15. Tabela 16. Tabela 17."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 18. Tabela 19. Tabela 20. Tabela 21. Tabela 22."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ........ Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ...........000005 Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych Na obszarze dorzecza .. LL bron A Struktura przedsiębiorstw na obszarze dorzecza Jarft .. 1... aa 1 Koszty netto ochrony wód w przemyśle ... LLL ee Koszty środowiskowe i zasobowe w przemyśle ........-.-00 0002 eee eee Wyniki oszacowania kosztów środowiskowych dla roku 2006 . ... . . . «1... 1. 1 2... 1. Podział odpowiedzialności za koszty środowiskowe w roku 2006 . .... . . . . . «1... ... Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Jarftu — wody powierzchniowe . LL LL 00. 1 Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Jarftu — WOdy podziemne ...... 2... 00 ee AA Zestawienie organów właściwych w sprawach gospodarowania wodami ......... Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... Organy współpracujące z Prezesem KZGW w zakresie wdrażaniaRDW .......... Podległość dyrektorów RZGW, siedziby oraz stronywww .... Lorna ora 11 1 Akty prawne ustanawiające statut RZGW oraz przynależne regiony wodne ........ Podległość dyrektorów urzędów morskich, siedziby oraz zarządzenia nadające statut Urzędom Morskim LL la A Podległość dyrektorów urzędów żeglugi śródlądowej, ich siedziby oraz strony www Umowy wielostronne . LL 2... 0 2 a M Dane adresowe KGW LL... LL Loewe AA Dane adresowe RZGW na obszarze dorzecza Jarft . . LL Looe a 00.002 eee eee Dane adresowe GIOS ...... LLL aa aaaaaa jaaa 1a"
     },
     {
-     "type": "ocr",
-     "text": "17. Spis tabel"
-    },
-    {
-     "type": "ocr",
-     "text": "Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ........ Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ...........000005 Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych Na obszarze dorzecza .. LL bron A Struktura przedsiębiorstw na obszarze dorzecza Jarft .. 1... aa 1 Koszty netto ochrony wód w przemyśle ... LLL ee Koszty środowiskowe i zasobowe w przemyśle ........-.-00 0002 eee eee Wyniki oszacowania kosztów środowiskowych dla roku 2006 . ... . . . «1... 1. 1 2... 1. Podział odpowiedzialności za koszty środowiskowe w roku 2006 . .... . . . . . «1... ... Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Jarftu — wody powierzchniowe . LL LL 00. 1 Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Jarftu — WOdy podziemne ...... 2... 00 ee AA Zestawienie organów właściwych w sprawach gospodarowania wodami ......... Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... Organy współpracujące z Prezesem KZGW w zakresie wdrażaniaRDW .......... Podległość dyrektorów RZGW, siedziby oraz stronywww .... Lorna ora 11 1 Akty prawne ustanawiające statut RZGW oraz przynależne regiony wodne ........ Podległość dyrektorów urzędów morskich, siedziby oraz zarządzenia nadające statut Urzedom Morskim LL la A Podległość dyrektorów urzędów żeglugi śródlądowej, ich siedziby oraz strony www Umowy wielostronne . LL 2... 0 2 a M Dane adresowe KGW LL... LL Loewe AA Dane adresowe RZGW na obszarze dorzecza Jarft . . LL Looe a 00.002 eee eee Dane adresowe GIOS ...... LLL aa aaaaaa jaaa 1a"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "1610"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1611"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1615"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1617 1620 1626 1626 1630 1630"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1645"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1645 1699"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1699 1704 1705 1705"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "1711 1712 1712 1713 1713 1714"
     },
     {
      "type": "note",
-     "text": "[Strona 153 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 153 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "18. Spis rysunków"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Jarft ... aaa ee 1583 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891—2000 .. 2.2... A 1592 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 ............ 1593 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 scenariusz +1°C ... 1593"
     }
    ]
@@ -9513,10 +9525,6 @@
   {
    "heading": "Załączniki do Planu gospodarowania wodami na obszarze dorzecza Jarft z dnia 22 lutego 2011 r. (poz. 424) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 37 — 1727 — Poz. 424"
-    },
     {
      "type": "note",
      "text": "[Na stronie 154 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -10180,7 +10188,7 @@
     },
     {
      "type": "text",
-     "text": "PLRW400017572641 Owsianka do granicy państwa SW2010 region wodny Jarft 4000 obszar dorzecza Jarft RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie (16) Potok nizinny piaszczysty (17) naturalna część wód zły niezagrożona - - Monitor Polski Nr 37 — 1740 — Poz. 424 Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Uzasadnienie Obszar dorzecza Ocena ryzyka Derogacje derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Gospodarki Ekoregion ilościowego chemicznego Kod Nazwa Wodnej (RZGW) PLGW240019 20 region wodny Łyny i Węgorapy/region wodny 7000/3000/4000 obszar dorzecza Pregoły/obszar dorzecza Świeżej/obszar RZGW w Gdańsku Równiny Wschodnie (16) dobry dobry niezagrożona - - Świeżej/region wodny Jarft dorzecza Jarft Monitor Polski Nr 37 — 1741 — Poz. 424"
+     "text": "PLRW400017572641 Owsianka do granicy państwa SW2010 region wodny Jarft 4000 obszar dorzecza Jarft RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie (16) Potok nizinny piaszczysty (17) naturalna część wód zły niezagrożona - - Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Uzasadnienie Obszar dorzecza Ocena ryzyka Derogacje derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Gospodarki Ekoregion ilościowego chemicznego Kod Nazwa Wodnej (RZGW) PLGW240019 20 region wodny Łyny i Węgorapy/region wodny 7000/3000/4000 obszar dorzecza Pregoły/obszar dorzecza Świeżej/obszar RZGW w Gdańsku Równiny Wschodnie (16) dobry dobry niezagrożona - - Świeżej/region wodny Jarft dorzecza Jarft"
     },
     {
      "type": "note",
@@ -10193,7 +10201,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Mapa nr 1. Monitor Polski Nr 37 — 1742 — Poz. 424"
+     "text": "Mapa nr 1."
     },
     {
      "type": "note",
@@ -10201,7 +10209,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 2. Monitor Polski Nr 37 — 1743 — Poz. 424"
+     "text": "Mapa nr 2."
     },
     {
      "type": "note",
@@ -10209,7 +10217,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 3. Monitor Polski Nr 37 — 1744 — Poz. 424"
+     "text": "Mapa nr 3."
     },
     {
      "type": "note",
@@ -10217,7 +10225,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 4. Monitor Polski Nr 37 — 1745 — Poz. 424"
+     "text": "Mapa nr 4."
     },
     {
      "type": "note",
@@ -10225,7 +10233,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 5. Monitor Polski Nr 37 — 1746 — Poz. 424"
+     "text": "Mapa nr 5."
     },
     {
      "type": "note",
@@ -10365,7 +10373,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 9. Monitor Polski Nr 37 — 1750 — Poz. 424"
+     "text": "Mapa nr 9."
     },
     {
      "type": "note",
@@ -10425,7 +10433,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 11. Monitor Polski Nr 37 — 1752 — Poz. 424"
+     "text": "Mapa nr 11."
     },
     {
      "type": "note",
@@ -10433,7 +10441,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 12. Monitor Polski Nr 37 — 1753 — Poz. 424"
+     "text": "Mapa nr 12."
     },
     {
      "type": "note",
@@ -10441,7 +10449,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 13. Monitor Polski Nr 37 — 1754 — Poz. 424"
+     "text": "Mapa nr 13."
     },
     {
      "type": "note",
@@ -10449,7 +10457,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 14. Monitor Polski Nr 37 — 1755 — Poz. 424"
+     "text": "Mapa nr 14."
     },
     {
      "type": "note",
@@ -10457,7 +10465,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 15. Monitor Polski Nr 37 — 1756 — Poz. 424"
+     "text": "Mapa nr 15."
     },
     {
      "type": "note",
@@ -10465,7 +10473,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 16. Monitor Polski Nr 37 — 1757 — Poz. 424"
+     "text": "Mapa nr 16."
     },
     {
      "type": "note",
@@ -10473,7 +10481,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 17. Monitor Polski Nr 37 — 1758 — Poz. 424"
+     "text": "Mapa nr 17."
     },
     {
      "type": "note",
@@ -10481,7 +10489,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 18. Monitor Polski Nr 37 — 1759 — Poz. 424"
+     "text": "Mapa nr 18."
     },
     {
      "type": "note",
@@ -10489,7 +10497,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 19. Monitor Polski Nr 37 — 1760 — Poz. 424"
+     "text": "Mapa nr 19."
     },
     {
      "type": "note",
@@ -10497,7 +10505,11 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 20. Monitor Polski Nr 37 — 1761 — Poz. 424 — 1762 —"
+     "text": "Mapa nr 20."
+    },
+    {
+     "type": "text",
+     "text": "— 1762 —"
     },
     {
      "type": "note",
@@ -10541,7 +10553,7 @@
     },
     {
      "type": "text",
-     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Jarft Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Katowice Racibórz Kraków Tarnów Rzeszów Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Bielsko-Biała Przemyśl Nowy Sącz Nowy Sącz Lesko Lesko Regiony termiczne Regiony wilgotnościowe Suma temperatury Wartości współczynnika ≥10°C hydrotermicznego Chłodny 1600° – 2000° Umiarkowanie suchy 1,0 – 1,3 Umiarkowanie chłodny 2000° – 2400° Optymalnego uwilgotnienia 1,3 – 1,6 Umiarkowanie ciepły 2400° – 2800° Wilgotny > 1,6 Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Polski w latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica,13(3), współczesnych zmian klimatu. Acta Agrophysica,13(3), 803-812. 803-812. ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych H ) ) H ) ) 4 ) )"
+     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Jarft Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Katowice Racibórz Kraków Tarnów Rzeszów Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Bielsko-Biała Przemyśl Nowy Sącz Nowy Sącz Lesko Lesko Regiony termiczne Regiony wilgotnościowe Suma temperatury Wartości współczynnika ≥10°C hydrotermicznego Chłodny 1600° – 2000° Umiarkowanie suchy 1,0 – 1,3 Umiarkowanie chłodny 2000° – 2400° Optymalnego uwilgotnienia 1,3 – 1,6 Umiarkowanie ciepły 2400° – 2800° Wilgotny > 1,6 Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Polski w latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica,13(3), współczesnych zmian klimatu. Acta Agrophysica,13(3), 803-812. 803-812. ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych H ) ) H ) )"
     },
     {
      "type": "pkt",

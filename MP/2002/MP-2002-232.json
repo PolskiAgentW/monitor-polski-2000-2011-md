@@ -1,7 +1,7 @@
 {
  "eli": "MP/2002/232",
  "title": "Decyzja Ministra Gospodarki z dnia 29 marca 2002 r. zmieniająca decyzję Ministra Gospodarki w sprawie ustanowienia ostatecznego środka ochronnego w postaci kontyngentu ilościowego na przywóz na polski obszar celny przędzy z włókien syntetycznych akrylowych oraz mieszanek tych włókien z wełną lub cienką sierścią zwierzęcą, pochodzącej z Republiki Litewskiej",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2002/232/text.pdf",
  "body": [
   {
@@ -177,24 +177,20 @@
       {
        "type": "text",
        "text": "Zgodnie z art. 127 § 3 Kodeksu postępowania administracyjnego od niniejszej decyzji nie przysługuje odwołanie. Strona niezadowolona z decyzji może zwrócić się do Ministra Gospodarki z wnioskiem o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia jej ogłoszenia."
-      },
-      {
-       "type": "text",
-       "text": "Minister Gospodarki: w z. A. Szarawarski"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: w z. A. Szarawarski"
   }
  ],
  "annexes": [
   {
    "heading": "Załącznik do decyzji Ministra Gospodarki z dnia 29 marca 2002 r. (poz. 232)",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 14 — 768 — Poz. 232"
-    },
     {
      "type": "note",
      "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

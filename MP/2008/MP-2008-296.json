@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/296",
  "title": "Uchwała Nr 59 Rady Ministrów z dnia 2 kwietnia 2008 r. w sprawie zatwierdzenia Programu rzeczowo-finansowego wykorzystania środków Funduszu Kolejowego w 2008 r.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/296/text.pdf",
  "body": [
   {
@@ -49,7 +49,7 @@
     },
     {
      "type": "text",
-     "text": "Limit środków Funduszu Kolejowego do wydatkowania na zadania inwestycyjne w 2008 r. tabela nr 1 Monitor Polski Nr 33 — 1113 — Poz. 296"
+     "text": "Limit środków Funduszu Kolejowego do wydatkowania na zadania inwestycyjne w 2008 r. tabela nr 1"
     },
     {
      "type": "note",
@@ -666,7 +666,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Środki planowane do pozyskania przez PKP PLKS.A. zrezerwy celowej budżetu państwa na 2008 rok. Płatności na rzecz wykonawców wramach projektów współfinansowanych zFunduszu TEN-T realizowane weuro przeliczone zostały według kursu 3,74 PLN. Monitor Polski Nr 33 — 1117 — Poz. 296"
+         "text": "Środki planowane do pozyskania przez PKP PLKS.A. zrezerwy celowej budżetu państwa na 2008 rok. Płatności na rzecz wykonawców wramach projektów współfinansowanych zFunduszu TEN-T realizowane weuro przeliczone zostały według kursu 3,74 PLN."
         },
         {
          "type": "note",

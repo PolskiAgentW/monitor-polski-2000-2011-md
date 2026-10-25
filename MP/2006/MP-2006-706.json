@@ -1,7 +1,7 @@
 {
  "eli": "MP/2006/706",
  "title": "Obwieszczenie Ministra Gospodarki z dnia 11 września 2006 r. w sprawie informacji o notyfikowanych jednostkach certyfikujących i jednostkach kontrolujących oraz notyfikowanych laboratoriach",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/706/text.pdf",
  "body": [
   {
@@ -45,7 +45,7 @@
    "body": [
     {
      "type": "text",
-     "text": "INFORMACJA O NOTYFIKOWANYCH JEDNOSTKACH CERTYFIKUJĄCYCH I JEDNOSTKACH KONTROLUJĄCYCH ORAZ NOTYFIKOWANYCH LABORATORIACH Monitor Polski Nr 69 — 2265 — Poz. 706"
+     "text": "INFORMACJA O NOTYFIKOWANYCH JEDNOSTKACH CERTYFIKUJĄCYCH I JEDNOSTKACH KONTROLUJĄCYCH ORAZ NOTYFIKOWANYCH LABORATORIACH"
     },
     {
      "type": "note",
@@ -322,7 +322,7 @@
    "body": [
     {
      "type": "text",
-     "text": "INFORMACJA O ROZSZERZENIU ZAKRESU NOTYFIKACJI NOTYFIKOWANYCH JEDNOSTEK CERTYFIKUJĄCYCH I JEDNOSTEK KONTROLUJĄCYCH ORAZ NOTYFIKOWANYCH LABORATORIÓW Monitor Polski Nr 69 — 2269 — Poz. 706"
+     "text": "INFORMACJA O ROZSZERZENIU ZAKRESU NOTYFIKACJI NOTYFIKOWANYCH JEDNOSTEK CERTYFIKUJĄCYCH I JEDNOSTEK KONTROLUJĄCYCH ORAZ NOTYFIKOWANYCH LABORATORIÓW"
     },
     {
      "type": "note",

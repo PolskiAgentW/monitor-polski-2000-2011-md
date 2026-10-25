@@ -1,7 +1,7 @@
 {
  "eli": "MP/2005/614",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 18 lipca 2005 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/614/text.pdf",
  "body": [
   {
@@ -98,35 +98,46 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "8. Poszczególni kandydaci otrzymali następujące liczby głosów ważnych:"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Poszczególni kandydaci otrzymali następujące liczby głosów ważnych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów (rubryka ,,Razem”) musi być równa liczbie z pkt 6, czyli liczbie głosów ważnych. Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "III. UWAGI I ADNOTACJE 9.” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb zpkt3i4a liczbą z pkt 2: ec aaa aan nich"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Uwaga! Suma głosów oddanych na wszystkich kandydatów (rubryka ,,Razem”) musi być równa liczbie z pkt 6, czyli liczbie głosów ważnych. Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą Z pkt 5 a liczba WA) UKRA",
+     "children": [
+      {
+       "type": "text",
+       "text": "(pieczęć Komisji)"
+      }
+     ]
     },
     {
-     "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "III. UWAGI I ADNOTACJE 9.” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb zpkt3i4a liczbą z pkt 2: ec aaa aan nich"
-    },
-    {
-     "type": "ocr",
-     "text": "10. ” Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą Z pkt 5 a liczba WA) UKRA"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczęć Komisji)"
-    },
-    {
-     "type": "ocr",
-     "text": "5.W ponownym głosowaniu wpisać wyraz „PONOWNE ”. \"3 Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. “) W razie zgłoszenia zarzutów mężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu."
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W ponownym głosowaniu wpisać wyraz „PONOWNE ”. \"3 Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. “) W razie zgłoszenia zarzutów mężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu.",
+     "children": []
     }
    ]
   },
@@ -143,79 +154,87 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "IL."
     },
     {
-     "type": "ocr",
-     "text": "8. Poszczególni kandydaci otrzymali następujące liczby głosów ważnych:"
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Poszczególni kandydaci otrzymali następujące liczby głosów ważnych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "Miejsce na parafowanie strony przez członków Komisji obecnych przy sporządzeniu protokołu"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "9. Komisja stwierdza, że nie otrzymała w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych"
-    },
-    {
-     "type": "ocr",
-     "text": "III."
-    },
-    {
-     "type": "ocr",
-     "text": "za granicą/na polskich statkach morskich: Obwód nr ......... Z SICAZIDG OE Obwód nr ......... Z SUCAZIDG WO tj. łącznie Z ................. obwodów głosowania. Przyczyną nieuzyskania wyników głosowania było: .....eeeecscccssssceesteeseeecesceeseaeccesseeseseecesuscesaeesseeceusesescesseasecesaeesesssenaeesges"
-    },
-    {
-     "type": "ocr",
-     "text": "Zgodnie z art. 66 ust. 3b ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie."
-    },
-    {
-     "type": "ocr",
-     "text": "i ustalaniem jego wyników: oo... ccc ecccccsecsscsccesecsscessesecesecscessscsecseessccatsaeseuecseeeseeneeseees"
-    },
-    {
-     "type": "ocr",
-     "text": "11.70 Zarzuty mężów zaufania 0: aaa aaa tntia"
-    },
-    {
-     "type": "ocr",
-     "text": "12.7 Zastrzeżenia członków Komisji 9: eee aaa"
-    },
-    {
-     "type": "ocr",
-     "text": "| KEN UCZ OE"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczęć Komisji)"
-    },
-    {
-     "type": "ocr",
-     "text": "5"
-    },
-    {
-     "type": "ocr",
-     "text": "ee)"
-    },
-    {
-     "type": "ocr",
-     "text": "ware)"
-    },
-    {
-     "type": "ocr",
-     "text": "W ponownym głosowaniu wpisać wyraz „PONOWNE”. Jeżeli Komisja nic otrzymała wyników głosowania ze wszystkich obwodów utworzonych na statkach lub za granicą, należy wykreślić wyraz „wszystkich” i w pkt 9 wymienić obwody, z których nie otrzymano protokołów, podając ewentualną przyczynę. Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. W razie zgłoszenia zarzutów mężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu."
-    },
-    {
-     "type": "ocr",
-     "text": "Zarządzenia i decyzje wydane przez Okręgową Komisję Wyborczą podczas głosowania oraz inne istotne okoliczności związane z przebiegiem głosowania"
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Komisja stwierdza, że nie otrzymała w ciągu 24 godzin od zakończenia głosowania wyników głosowania z następujących obwodów głosowania utworzonych",
+     "children": [
+      {
+       "type": "text",
+       "text": "III."
+      },
+      {
+       "type": "text",
+       "text": "za granicą/na polskich statkach morskich: Obwód nr ......... Z SICAZIDG OE Obwód nr ......... Z SUCAZIDG WO tj. łącznie Z ................. obwodów głosowania. Przyczyną nieuzyskania wyników głosowania było: .....eeeecscccssssceesteeseeecesceeseaeccesseeseseecesuscesaeesseeceusesescesseasecesaeesesssenaeesges"
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 66 ust. 3b ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej głosowanie w tych obwodach uznaje się za niebyłe i w związku z tym obwody te nie zostały wykazane w liczbie obwodów, w których przeprowadzono głosowanie."
+      },
+      {
+       "type": "text",
+       "text": "i ustalaniem jego wyników: oo... ccc ecccccsecsscsccesecsscessesecesecscessscsecseessccatsaeseuecseeeseeneeseees"
+      },
+      {
+       "type": "text",
+       "text": "11.70 Zarzuty mężów zaufania 0: aaa aaa tntia"
+      },
+      {
+       "type": "text",
+       "text": "12.7 Zastrzeżenia członków Komisji 9: eee aaa"
+      },
+      {
+       "type": "text",
+       "text": "| KEN UCZ OE"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć Komisji)"
+      },
+      {
+       "type": "text",
+       "text": "5"
+      },
+      {
+       "type": "text",
+       "text": "ee)"
+      },
+      {
+       "type": "text",
+       "text": "ware)"
+      },
+      {
+       "type": "text",
+       "text": "W ponownym głosowaniu wpisać wyraz „PONOWNE”. Jeżeli Komisja nic otrzymała wyników głosowania ze wszystkich obwodów utworzonych na statkach lub za granicą, należy wykreślić wyraz „wszystkich” i w pkt 9 wymienić obwody, z których nie otrzymano protokołów, podając ewentualną przyczynę. Jeżeli treść dotycząca danego punktu protokołu nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu. W razie zgłoszenia zarzutów mężów zaufania lub zastrzeżeń członków Komisji, stanowisko Komisji wobec tych zarzutów lub zastrzeżeń należy dołączyć do protokołu."
+      },
+      {
+       "type": "text",
+       "text": "Zarządzenia i decyzje wydane przez Okręgową Komisję Wyborczą podczas głosowania oraz inne istotne okoliczności związane z przebiegiem głosowania"
+      }
+     ]
     }
    ]
   },
@@ -232,45 +251,53 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "4. Zarzuty mężów zaufania:"
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zarzuty mężów zaufania:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przy sporządzaniu protokołu obecni byli członkowie Państwowej Komisji Wyborczej:"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć Państwowej Komisji Wyborczej)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załączniki do protokołu:",
+   "body": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "„Zestawienie zbiorczych wyników głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej W LI PA ”",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "Przy sporządzaniu protokołu obecni byli członkowie Państwowej Komisji Wyborczej:"
-    },
-    {
-     "type": "ocr",
-     "text": "(pieczęć Państwowej Komisji Wyborczej)"
-    },
-    {
-     "type": "ocr",
-     "text": "Załączniki do protokołu:"
-    },
-    {
-     "type": "ocr",
-     "text": "1. „Zestawienie zbiorczych wyników głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej W LI PA ”"
-    },
-    {
-     "type": "ocr",
-     "text": "2. „Zestawienie zbiorczych wyników głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej W MIU OE ”"
-    },
-    {
-     "type": "ocr",
-     "text": "*'W ponownym głosowaniu wpisać wyraz „PONOWNE”."
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "„Zestawienie zbiorczych wyników głosowania na kandydatów na Prezydenta Rzeczypospolitej Polskiej W MIU OE ”",
+     "children": [
+      {
+       "type": "text",
+       "text": "*'W ponownym głosowaniu wpisać wyraz „PONOWNE”."
+      }
+     ]
     }
    ]
   },
   {
    "heading": "Załącznik nr 1 do protokołu Państwowej Komisji Wyborczej z dnia .....................................",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 45 — 1534 — Poz. 614"
-    },
     {
      "type": "note",
      "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -300,10 +327,6 @@
   {
    "heading": "Załącznik nr 2 do protokołu Państwowej Komisji Wyborczej z dnia .....................................",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 45 — 1536 — Poz. 614"
-    },
     {
      "type": "note",
      "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

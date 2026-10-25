@@ -1,7 +1,7 @@
 {
  "eli": "MP/2005/636",
  "title": "Obwieszczenie Ministra Gospodarki i Pracy z dnia 4 lipca 2005 r. w sprawie informacji o notyfikowanych jednostkach certyfikujących i jednostkach kontrolujących oraz notyfikowanych laboratoriach",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/636/text.pdf",
  "body": [
   {
@@ -50,10 +50,6 @@
   {
    "heading": "Załączniki do obwieszczenia Ministra Gospodarki i Pracy zdnia 4 lipca 2005 r. (poz. 636) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 46 — 1560 — Poz. 636"
-    },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

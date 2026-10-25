@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/827",
  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 12 października 2007 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 200 zł oraz terminu wprowadzenia ich do obiegu",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/827/text.pdf",
  "body": [
   {
@@ -39,12 +39,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
   }
  ],
  "annexes": [
@@ -69,7 +68,7 @@
     },
     {
      "type": "text",
-     "text": "Zprawej strony wizerunek orła Stylizowany wizerunek rycerza ustalony dla godła Rzeczypo- ciężkozbrojnego z obnażonym spolitej Polskiej. Pod orłem na- mieczem na koniu. Z lewej pis: 200/ZŁ. Z lewej strony orła strony stylizowany wizerunek u góry oznaczenie roku emisji: zabudowań miejskich. U dołu 200 zł 2007. Poniżej stylizowane wi- i z prawej strony półkolem na- gładki 15,50 27,0 Au 900/1000 9 900 zerunki: hełmu, dwóch mieczy, pis: RYCERZ CIĘŻKOZBROJNY kopii, rękawicy oraz proporca. — XV w. U dołu półkolem napis: RZECZPOSPOLITA POLSKA. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 77 — 3489 — Poz. 827"
+     "text": "Zprawej strony wizerunek orła Stylizowany wizerunek rycerza ustalony dla godła Rzeczypo- ciężkozbrojnego z obnażonym spolitej Polskiej. Pod orłem na- mieczem na koniu. Z lewej pis: 200/ZŁ. Z lewej strony orła strony stylizowany wizerunek u góry oznaczenie roku emisji: zabudowań miejskich. U dołu 200 zł 2007. Poniżej stylizowane wi- i z prawej strony półkolem na- gładki 15,50 27,0 Au 900/1000 9 900 zerunki: hełmu, dwóch mieczy, pis: RYCERZ CIĘŻKOZBROJNY kopii, rękawicy oraz proporca. — XV w. U dołu półkolem napis: RZECZPOSPOLITA POLSKA. Pod lewą łapą orła znak mennicy: MW."
     }
    ]
   }

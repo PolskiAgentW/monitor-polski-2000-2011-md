@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/852",
  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 30 września 2009 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł, 10 zł i 37 zł upamiętniających 25 rocznicę śmierci księdza Jerzego Popiełuszki oraz terminów wprowadzenia ich do obiegu",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/852/text.pdf",
  "body": [
   {
@@ -42,7 +42,7 @@
      "type": "pkt",
      "num": "2",
      "path": "par_1/pkt_2",
-     "text": "w zór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku nr 2 do zarządzenia",
+     "text": "wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 zł, określone w załączniku nr 2 do zarządzenia",
      "children": [
       {
        "type": "text",
@@ -71,12 +71,11 @@
    "num": "4",
    "path": "par_4",
    "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: S.S. Skrzypek"
   }
  ],
  "annexes": [
@@ -97,7 +96,7 @@
     },
     {
      "type": "text",
-     "text": "U góry wizerunek orła ustalony dla U góry stylizowany wizerunek krzygodła Rzeczypospolitej Polskiej. ży i rąk trzymających krzyże. Pod Pod orłem, na tle stylizowanego nimi napis: ZŁO DOBREM/ZWYCIĘ- 37 zł wizerunku falującej wody, napis: ŻAJ. U dołu półkolem napis: KS. gładki 1,7 16,0 Au 900/1000 60 000 ŻYŁ 37 LAT. U dołu, pod cyfrą 7, JERZY POPIEŁUSZKO 1947—1984. prostopadle napis: ZŁ. U góry półkolem napis: RZECZPOSPOLITA POLSKA oraz oznaczenie roku emisji: 2009. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 64 — 3179 — Poz. 852"
+     "text": "U góry wizerunek orła ustalony dla U góry stylizowany wizerunek krzygodła Rzeczypospolitej Polskiej. ży i rąk trzymających krzyże. Pod Pod orłem, na tle stylizowanego nimi napis: ZŁO DOBREM/ZWYCIĘ- 37 zł wizerunku falującej wody, napis: ŻAJ. U dołu półkolem napis: KS. gładki 1,7 16,0 Au 900/1000 60 000 ŻYŁ 37 LAT. U dołu, pod cyfrą 7, JERZY POPIEŁUSZKO 1947—1984. prostopadle napis: ZŁ. U góry półkolem napis: RZECZPOSPOLITA POLSKA oraz oznaczenie roku emisji: 2009. Pod lewą łapą orła znak mennicy: MW."
     }
    ]
   },
@@ -114,7 +113,7 @@
     },
     {
      "type": "text",
-     "text": "Wizerunek orła ustalony dla godła Z lewej strony stylizowany wi- Na boku Rzeczypospolitej Polskiej. Po bokach zerunek popiersia księdza Je- ośmiokrotnie orła oznaczenie roku emisji: 20-09, rzego Popiełuszki. Z prawej powtórzony pod orłem napis: ZŁ 2 ZŁ, w otoku strony, na tle stylizowanego wi- napis: NBP, 2 zł napis: RZECZPOSPOLITA POLSKA, zerunku palących się świec, na- co drugi 8,15 27,0 CuAl5Zn5Sn1 1 500 000 poprzedzony oraz zakończony sze- pis: ZŁO DOBREM/ZWYCIĘŻAJ. odwrócony ścioma perełkami. Pod lewą łapą orła W otoku napis: 25. ROCZNICA o 180 stopni, znak mennicy: MW. MĘCZEŃSKIEJ ŚMIERCI KS. JE- rozdzielony RZEGO POPIEŁUSZKI 1947— gwiazdkami. 1984. Monitor Polski Nr 64 — 3180 — Poz. 852"
+     "text": "Wizerunek orła ustalony dla godła Z lewej strony stylizowany wi- Na boku Rzeczypospolitej Polskiej. Po bokach zerunek popiersia księdza Je- ośmiokrotnie orła oznaczenie roku emisji: 20-09, rzego Popiełuszki. Z prawej powtórzony pod orłem napis: ZŁ 2 ZŁ, w otoku strony, na tle stylizowanego wi- napis: NBP, 2 zł napis: RZECZPOSPOLITA POLSKA, zerunku palących się świec, na- co drugi 8,15 27,0 CuAl5Zn5Sn1 1 500 000 poprzedzony oraz zakończony sze- pis: ZŁO DOBREM/ZWYCIĘŻAJ. odwrócony ścioma perełkami. Pod lewą łapą orła W otoku napis: 25. ROCZNICA o 180 stopni, znak mennicy: MW. MĘCZEŃSKIEJ ŚMIERCI KS. JE- rozdzielony RZEGO POPIEŁUSZKI 1947— gwiazdkami. 1984."
     }
    ]
   }

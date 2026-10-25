@@ -1,7 +1,7 @@
 {
  "eli": "MP/2006/154",
  "title": "Uchwała Nr 14 Rady Ministrów z dnia 7 lutego 2006 r. w sprawie ustanowienia harmonogramu zadań wykonywanych w roku 2006 w ramach programu wieloletniego \"Pomoc państwa w zakresie dożywiania\"",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/154/text.pdf",
  "body": [
   {
@@ -85,7 +85,7 @@
     },
     {
      "type": "text",
-     "text": "minister właściwy do spraw w terminach określonych oświaty i wychowania w kwestionariuszach GUS oraz systemie informacji oświatowej Monitor Polski Nr 12 — 823 — Poz. 154"
+     "text": "minister właściwy do spraw w terminach określonych oświaty i wychowania w kwestionariuszach GUS oraz systemie informacji oświatowej"
     }
    ]
   }

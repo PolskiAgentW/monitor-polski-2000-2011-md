@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/566",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Pregoły",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/566/text.pdf",
  "body": [
   {
@@ -260,186 +260,146 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "12."
+     "type": "text",
+     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ... LL aaa aaa a 1 1 4393 Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ........ 4395 Strategia Gospodarki Wodnej 2005 r. LL Loona a aaa 4397 Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ........ 4400 Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. 2... 0. ee ee 4404 Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ...... 4406 Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ...... 4408 Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lea 1 21 Strategie rozwoju dla Województw .. 1... Wojewódzkie programy udrażniania rzek LL 1 1."
     },
     {
-     "type": "ocr",
-     "text": "13. 14."
+     "type": "text",
+     "text": "4409 4409 a a aa 4414 a 1 Programy małej retencji LL una A 4415 Plany ochrony parków narodowych LL Leona aa 4417 Plany ochrony parków krajobrazowych ... 0... aa a 4418 Plany ochrony rezerwatów przyrody LL Leonora a 1 4421 Plany ochrony dla obszarów Natura 2000 LL LL Luo aa 1 4423 Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyni- 12. ków i dokonanych na tej podstawie zmianw planie .... LLL ooo 1 ltura konsultacji społecznych .. 2... 2 Il tura konsultacji społecznych . LL 2..."
     },
     {
-     "type": "ocr",
-     "text": "15."
+     "type": "text",
+     "text": "4425 4425 A 4426 nara Ill tura konsultacji społecznych . LL Loan A Podsumowanie wynikÓw ... 2... 0"
     },
     {
-     "type": "ocr",
-     "text": "16. 17. 18."
+     "type": "text",
+     "text": "4428 4429 A Wykaz właściwych władz LL 2... owo ono A 13."
     },
     {
-     "type": "ocr",
-     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ... LL aaa aaa a 1 1 Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ........ Strategia Gospodarki Wodnej 2005 r. LL Loona a aaa Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ........ Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. 2... 0. ee ee Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ...... Aktualizacja Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ...... Regionalne dokumenty o charakterze planistycznym i rozwojowym ....L Lea 1 21 Strategie rozwoju dla Województw .. 1... a a aa Wojewódzkie programy udrazniania rzek LL 1 1. a 1 Programy matej retencji LL una A Plany ochrony parków narodowych LL Leona aa Plany ochrony parków krajobrazowych ... 0... aa a Plany ochrony rezerwatów przyrody LL Leonora a 1 Plany ochrony dla obszarów Natura 2000 LL LL Luo aa 1 Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie .... LLL ooo 1 ltura konsultacji społecznych .. 2... 2 A Il tura konsultacji społecznych . LL 2... nara Ill tura konsultacji społecznych . LL Loan A Podsumowanie wynikOw ... 2... 0 A Wykaz właściwych władz LL 2... owo ono A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW .... 1... A Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Pregoły . LL Leonora a 11 Literatura Lua A Spistabel LL La A Spis rysunkOW 2. A"
+     "type": "text",
+     "text": "4431 Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej 14. do sporzadzeniaPGW .... 1... 4444 A Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowa- 15. nia wodami na obszarze dorzecza Pregoły . LL Leonora a 11 4447 Literatura Lua A 16."
     },
     {
-     "type": "ocr",
-     "text": "Zataczniki:"
+     "type": "text",
+     "text": "4453 Spistabel LL La A 17. Spis rysunkÓW 2. 18."
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 1 — mapy: «|Mapa 1. Granica obszaru dorzeczaPregoły .......-.- 0.2 ee ee [Mapa 2. Jednolite części wód powierzchniowych — obszar dorzecza Pregoły ........ ° Mapa 3. Scalone części wód powierzchniowych — obszar dorzecza Pregoły ......... eMapa4. Jednolite części wód podziemnych — obszar dorzecza Pregoły ........... ° Mapa 5. Typy jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Pregoły 2. «|Mapa6. Typy jednolitych części wód powierzchniowych jeziornych — obszar dorzecza Pregoły 2. «|Mapa 7. Ekoregiony — obszar dorzecza Pregoły .. Luna 11 «|Mapa 8. Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszar dorzeczaPregoly 2... 2... AA eMapa 9. Ocena stanu jednolitych części wód powierzchniowych jeziornych — obszar dorzeczaPregoly LL bron AA e Mapa 10. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Pregoły 2. a A e Mapa 11. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Pregoły ao a A e Mapa 12. Sieć monitoringu wód powierzchniowych — obszar dorzecza Pregoły ....... e Mapa 13. Sieć monitoringu wód podziemnych — obszar dorzecza Pregoły .......... e Mapa 14. Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych — obszar dorzecza Pregoły LL LL 2... 0. eee 1"
+     "type": "text",
+     "text": "Załączniki:"
     },
     {
-     "type": "ocr",
-     "text": "4393 4395 4397 4400 4404 4406 4408 4409 4409 4414 4415 4417 4418 4421 4423"
+     "type": "text",
+     "text": "Załącznik nr 1 — mapy:"
     },
     {
-     "type": "ocr",
-     "text": "4425 4425 4426 4428 4429 4431"
+     "type": "text",
+     "text": "4456 4457 A"
     },
     {
-     "type": "ocr",
-     "text": "4444"
-    },
-    {
-     "type": "ocr",
-     "text": "4447 4453 4456 4457"
-    },
-    {
-     "type": "ocr",
-     "text": "4458 4459 4460 4461"
-    },
-    {
-     "type": "ocr",
-     "text": "4462"
-    },
-    {
-     "type": "ocr",
-     "text": "4463 4464"
-    },
-    {
-     "type": "ocr",
-     "text": "4465"
-    },
-    {
-     "type": "ocr",
-     "text": "4466"
-    },
-    {
-     "type": "ocr",
-     "text": "4467"
-    },
-    {
-     "type": "ocr",
-     "text": "4468 4469 4470"
-    },
-    {
-     "type": "ocr",
-     "text": "4471"
+     "type": "text",
+     "text": "«|Mapa 1. Granica obszaru dorzeczaPregoły .......-.- 0.2 ee ee 4458 [Mapa 2. Jednolite części wód powierzchniowych — obszar dorzecza Pregoły ........ 4459 ° Mapa 3. Scalone części wód powierzchniowych — obszar dorzecza Pregoły ......... 4460 eMapa4. Jednolite części wód podziemnych — obszar dorzecza Pregoły ........... 4461 ° Mapa 5. Typy jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Pregoły 2. 4462 «|Mapa6. Typy jednolitych części wód powierzchniowych jeziornych — obszar dorzecza Pregoły 2. 4463 «|Mapa 7. Ekoregiony — obszar dorzecza Pregoły .. Luna 11 4464 «|Mapa 8. Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszar dorzeczaPregoly 2... 2... AA 4465 eMapa 9. Ocena stanu jednolitych części wód powierzchniowych jeziornych — obszar dorzeczaPregoly LL bron AA 4466 e Mapa 10. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Pregoły 2. 4467 a A e Mapa 11. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Pregoły ao a A 4468 e Mapa 12. Sieć monitoringu wód powierzchniowych — obszar dorzecza Pregoły ....... 4469 e Mapa 13. Sieć monitoringu wód podziemnych — obszar dorzecza Pregoły .......... 4470 e Mapa 14. Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych — obszar dorzecza Pregoły LL LL 2... 0. eee 1 4471"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa 15. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia - obszar dorzecza Pregoły ...... e Mapa 16. Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych — obszar dorzecza Pregoły . LL Luzon a 1 e Mapa 17. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Pregoły LLL zoo AA e Mapa 18. Punktowe i rozproszone źródła zanieczyszczeń — obszar dorzecza Pregoły"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód .. LLL Lares 1 11"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 3 — Mapy do celów planistycznych: e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
-     "text": "e Mapa"
+     "type": "text",
+     "text": "e Mapa nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
     },
     {
-     "type": "ocr",
-     "text": "nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 11. nr 12. nr 13. nr 14. nr 15. nr 16."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 17."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 18."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 19."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 20."
     },
     {
-     "type": "ocr",
-     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL aaa a 2 1 1 Jednolite części wód powierzchniowych .. LL Lee anonse a 11 Scalone części wód powierzchniowych .......-.. 0000202 a 1 1 Jednolite części wód podziemnych . . LL Luzon orga a 11 Typy jednolitych części wód powierzchniowych rzecznych ............. Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony . LL 2... 2. ee A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych iprzybrzeżnych ... 2... ar 1 1 Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . . LLL Lua ora a eee Sieć monitoringu wód podziemnych . |... Leonora 11 Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1. 1 1 2 2211. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . LL aa ane 411 1 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL Luo AA Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ..... La Lua ara 111"
+     "type": "text",
+     "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL aaa a 2 1 1 Jednolite części wód powierzchniowych .. LL Lee anonse a 11 Scalone części wód powierzchniowych .......-.. 0000202 a 1 1 Jednolite części wód podziemnych . . LL Luzon orga a 11 Typy jednolitych części wód powierzchniowych rzecznych ............. Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony . LL 2... 2. ee A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych i przybrzeżnych ... 2... ar 1 1 Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . . LLL Lua ora a eee Sieć monitoringu wód podziemnych . |... Leonora 11 Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . «1 1. 1 1 2 2211. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . LL aa ane 411 1 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL Luo AA Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ..... La Lua ara 111"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4472"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4473"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4474 4475"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4476"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4491 4492 4493 4494 4495 4496 4497 4498 4499"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4500 4501 4502 4503 4504 4505"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4506"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4507"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4508"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "4509 4510"
     }
    ]
@@ -1255,7 +1215,7 @@
     },
     {
      "type": "text",
-     "text": "ChZT Cr 5 210 289 kg/rok"
+     "text": "ChZTCr 5 210 289 kg/rok"
     },
     {
      "type": "text",
@@ -2367,7 +2327,7 @@
     },
     {
      "type": "text",
-     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 Monitor Polski Nr 55 — 4333 — Poz. 566 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych,⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora, obszar zlewni powinien być mniejszy niż 5000 km²,⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora,⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
+     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych,⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora, obszar zlewni powinien być mniejszy niż 5000 km²,⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora,⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
     },
     {
      "type": "text",
@@ -2379,7 +2339,11 @@
     },
     {
      "type": "text",
-     "text": "Liczba JCWP Liczba JCWP Wartość dla wykazujących wykazujących Liczba JCWP Wartość dla potencjału Wartość dla Liczba obecnie obecnie silnie bardzo dobrego ekologicznego Liczba JCWP Nazwa wskaźnika dobrego stanu wszystkich bardzo dobry bardzo dobry zmienionych stanu dobrego lub naturalnych ekologicznego JCWP lub dobry lub dobry bądź ekologicznego powyżej stan potencjał sztucznych dobrego ekologiczny ekologiczny ELEMENTY BIOLOGICZNE 1 2 3 1 2 3 1 2 3 <5 / <7 /<10 / 8 / 13 / 19 / 8 / 13 / 19 / Chlorofil „a” (μg/l) 4 4 4 <10 23 23 Wskaźnik okrzemkowy dla > 0,83 0,55 0,55 5 jezior OIJ 6 6 Makrofitowy Indeks 0,679 – 0,340 / 0,679 – 0,340 / 1 – 0,680 7 7 Stanu ekologicznego 0,679 – 0,270 0,679 – 0,270 ELEMENTY FIZYKO- CHEMICZNE 101 42 93 3 8 Przezroczystość – 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / widzialność Krążka 1 1 1 Secchiego (m) Tlen rozpuszczony ≥ 4 ≥ 4 ≥ 4 (mg O /l) Azot całkowity (mg 1,5 / 2 / 1,6 / 1,51/ 22/ 1,63/ 1,5 / 2 / 1,6 / N/l) 2,5 2,54 2,5 Fosfor ogólny (mg 0,06 / 0,09 / 0,061/ 0,092/ 0,06 / 0,09 / P/l) 0,10 / 0,12 0,103/ 0,124 0,10 / 0,12 ¹ Dla jezior stratyfikowanych o Współczynniku Schindlera<2,² Dla jezior stratyfikowanych o Współczynniku Schindlera>2,³ Dla jezior niestratyfikowanych o Współczynniku Schindlera<2,⁴ Dla jezior niestratyfikowanych o Współczynniku Schindlera >2,⁶ Dla jezior ramienicowych głębokich,⁷ Dla jezior ramienicowych płytkich. Monitor Polski Nr 55 — 4334 — Poz. 566 Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
+     "text": "Liczba JCWP Liczba JCWP Wartość dla wykazujących wykazujących Liczba JCWP Wartość dla potencjału Wartość dla Liczba obecnie obecnie silnie bardzo dobrego ekologicznego Liczba JCWP Nazwa wskaźnika dobrego stanu wszystkich bardzo dobry bardzo dobry zmienionych stanu dobrego lub naturalnych ekologicznego JCWP lub dobry lub dobry bądź ekologicznego powyżej stan potencjał sztucznych dobrego ekologiczny ekologiczny ELEMENTY BIOLOGICZNE 1 2 3 1 2 3 1 2 3 <5 / <7 /<10 / 8 / 13 / 19 / 8 / 13 / 19 / Chlorofil „a” (μg/l) 4 4 4 <10 23 23 Wskaźnik okrzemkowy dla > 0,83 0,55 0,55 5 jezior OIJ 6 6 Makrofitowy Indeks 0,679 – 0,340 / 0,679 – 0,340 / 1 – 0,680 7 7 Stanu ekologicznego 0,679 – 0,270 0,679 – 0,270 ELEMENTY FIZYKO- CHEMICZNE 101 42 93 3 8 Przezroczystość – 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / 2,5 / 1,7 / 1,5 / widzialność Krążka 1 1 1 Secchiego (m) Tlen rozpuszczony ≥ 4 ≥ 4 ≥ 4 (mg O /l) Azot całkowity (mg 1,5 / 2 / 1,6 / 1,51/ 22/ 1,63/ 1,5 / 2 / 1,6 / N/l) 2,5 2,54 2,5 Fosfor ogólny (mg 0,06 / 0,09 / 0,061/ 0,092/ 0,06 / 0,09 / P/l) 0,10 / 0,12 0,103/ 0,124 0,10 / 0,12 ¹ Dla jezior stratyfikowanych o Współczynniku Schindlera<2,² Dla jezior stratyfikowanych o Współczynniku Schindlera>2,³ Dla jezior niestratyfikowanych o Współczynniku Schindlera<2,⁴ Dla jezior niestratyfikowanych o Współczynniku Schindlera >2,⁶ Dla jezior ramienicowych głębokich,⁷ Dla jezior ramienicowych płytkich."
+    },
+    {
+     "type": "text",
+     "text": "Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
     },
     {
      "type": "text",
@@ -2567,7 +2531,7 @@
     },
     {
      "type": "text",
-     "text": "Fosforany (mgPO /l) 0,01 - 1 0,5* 0,5* 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
+     "text": "Fosforany (mgPO₄/l) 0,01 - 1 0,5* ) 0,5* ) 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
     },
     {
      "type": "text",
@@ -2599,7 +2563,7 @@
     },
     {
      "type": "text",
-     "text": "Siarczany (mgSO /l) 5 – 60 60 250* 250* 4 ) )"
+     "text": "Siarczany (mgSO₄/l) 5 – 60 60 250* ) 250* )"
     },
     {
      "type": "text",
@@ -3803,7 +3767,7 @@
     },
     {
      "type": "text",
-     "text": "Ilość JCWP rzek 120 Ilość niezagrożonych JCWP 108 Ilość zagrożonych JCWP 12 Ilość JCWP podlegających DEROGACJOM 12 Koszty działań A 174 881 500,0 Koszty działań B 626 400,0 Koszty działań uzupełniających 0,0 budżet państwa**, budżety JST, budżety operatorów, środki gospodarstwa rolnego, zadania ustawowe Źródła finansowania organów administracji publicznej, NFOŚiGW, WFOŚiGW, PROW (Program rolnośrodowiskowy), POIiŚ, RPO, działań A EFS (Kapitał Ludzki) Źródła finansowania budżet państwa *** , zadania ustawowe organów administracji publicznej, budżety JST, NFOŚiGW, działań B WFOŚiGW, POIiŚ. Źródła finansowania nie dotyczy działań uzupełniających * Podmioty realizujące poszczególne działania znajdują się w bazie danych Microsoft Office Access stanowiącej załącznik do programu wodno-środowiskowego kraju. ** tj. 1 200 PLN w ramach Programu wyposażenia zakładów przemysłu rolno-spożywczego o wielkości nie mniejszej niż 4000 RLM odprowadzających ścieki bezpośrednio do wód w urządzenia zapewniające wymagane przez polskie prawo standardy ochrony wód. *** tj. 197 000 PLN w ramach Programu Operacyjnego Infrastruktura i Środowisko: projekt POIS.05.03.00-00-186/09 pn „Opracowanie planów zadań ochronnych dla obszarów Natura 2000 na obszarze Polski\" Monitor Polski Nr 55 — 4368 — Poz. 566 Tabela 19. Podsumowanie programów działań w latach2010-2015 na obszarze dorzecza Pregoły – wody podziemne"
+     "text": "Ilość JCWP rzek 120 Ilość niezagrożonych JCWP 108 Ilość zagrożonych JCWP 12 Ilość JCWP podlegających DEROGACJOM 12 Koszty działań A 174 881 500,0 Koszty działań B 626 400,0 Koszty działań uzupełniających 0,0 budżet państwa**, budżety JST, budżety operatorów, środki gospodarstwa rolnego, zadania ustawowe Źródła finansowania organów administracji publicznej, NFOŚiGW, WFOŚiGW, PROW (Program rolnośrodowiskowy), POIiŚ, RPO, działań A EFS (Kapitał Ludzki) Źródła finansowania budżet państwa *** , zadania ustawowe organów administracji publicznej, budżety JST, NFOŚiGW, działań B WFOŚiGW, POIiŚ. Źródła finansowania nie dotyczy działań uzupełniających * Podmioty realizujące poszczególne działania znajdują się w bazie danych Microsoft Office Access stanowiącej załącznik do programu wodno-środowiskowego kraju. ** tj. 1 200 PLN w ramach Programu wyposażenia zakładów przemysłu rolno-spożywczego o wielkości nie mniejszej niż 4000 RLM odprowadzających ścieki bezpośrednio do wód w urządzenia zapewniające wymagane przez polskie prawo standardy ochrony wód. *** tj. 197 000 PLN w ramach Programu Operacyjnego Infrastruktura i Środowisko: projekt POIS.05.03.00-00-186/09 pn „Opracowanie planów zadań ochronnych dla obszarów Natura 2000 na obszarze Polski\" Tabela 19. Podsumowanie programów działań w latach2010-2015 na obszarze dorzecza Pregoły – wody podziemne"
     },
     {
      "type": "text",
@@ -3815,7 +3779,7 @@
     },
     {
      "type": "text",
-     "text": "* Wskazania podmiotów realizujących poszczególne działania zawiera załącznik do programu wodno-środowiskowego kraju Monitor Polski Nr 55 — 4369 — Poz. 566"
+     "text": "* Wskazania podmiotów realizujących poszczególne działania zawiera załącznik do programu wodno-środowiskowego kraju"
     }
    ]
   },
@@ -10780,26 +10744,34 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 167 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 167 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel",
+   "children": [
     {
-     "type": "ocr",
-     "text": "17. Spis tabel"
-    },
-    {
-     "type": "ocr",
-     "text": "Tabela 1. Wartości referencyjne dlachlorofilua LL La omen ee 4305 Tabela 2. Zestawienie liczbowe zarejestrowanych w latach 2003—2007 zagrożeń nadzwyczajnych mogących oddziaływać na stan zasobów wodnych .... ew oaoaa aa 4309 Tabela 3. Oszacowany łączny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji . . LL ae sonar 1 4311 Tabela 4. Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacjiw przeliczeniu na km? powierzchni dorzecza . LL aaa aa aaa aaa aaa 11 4311 Tabela 5. Średnie miesięczne i roczne wartości temperatur powietrza (°C) na obszarze dorzecza Pregoły (1971—2000) .. 2... A 4314 Tabela 6. Średnie miesięczne i roczne sumy opadów atmosferycznych (mm) na obszarze dorzecza Pregoły (1971—2000) .. 2... A 4314 Tabela 7. Wartości graniczne wybranych wskaźników wód odnoszących sie do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ......... 4332 Tabela 8. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . 4333 Tabela 9. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód jezior . . . . . . . . . 1... 4334 Tabela 10. Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód, ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. 4337 Tabela 11. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza .. 11. A 4340 Tabela 12. Odstępstwa od celów środowiskowych na obszarze dorzecza Pregoły ........... 4342 Tabela 13. Struktura przedsiębiorstw na obszarze dorzecza Pregoły .......-..--22++00- 4344 Tabela 14. Koszty netto ochrony wód w przemyśle .... LL Leonora ee 4349 Tabela 15. Koszty środowiskowe i zasobowe w przemyśle .......-- 0000 eee ee 1 11 4349 Tabela 16. Wyniki oszacowania kosztów środowiskowych dla roku 2006 .......... 1 22... 4353 Tabela 17. Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. 4354 Tabela 18. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Pregoły — wody powierzchniowe . . LLL Luzon na 1 4368 Tabela 19. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Pregoły — WOdy podziemne .. LLL ono wo nA 4369 Tabela 20. Zestawienie organów właściwych w sprawach gospodarowania wodami......... 4431 Tabela 21. Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... 4431 Tabela 22. Organy współpracujące z Prezesem KZGW w zakresie wdrażaniaRDW .......... 4436 Tabela 23. Podległość dyrektorów RZGW, siedziba oraz strona www ... Lao aa aa 1 4437 Tabela 24. Akt prawny ustanawiający statut RZGW oraz przynależne regiony wodne ......... 4437 Tabela 25. Umowy dwustronne .. 1... 2 A 4443 Tabela 26. Umowy wielostronne . LL LL Lee A 4443 Tabela 27. Dane adresowe KZGW ... LL. Leone A 4444 Tabela 28. Dane adresowe RZGW na obszarze dorzecza Pregoły ... . LL Laura 11 4444 Tabela 29. Dane adresowe GIOS .... LLL 4445"
+     "type": "text",
+     "text": "Tabela 1. Wartości referencyjne dlachlorofilua LL La omen ee 4305 Tabela 2. Zestawienie liczbowe zarejestrowanych w latach 2003—2007 zagrożeń nadzwyczajnych mogących oddziaływać na stan zasobów wodnych .... ew oaoaa aa 4309 Tabela 3. Oszacowany łączny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji . . LL ae sonar 1 4311 Tabela 4. Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacjiw przeliczeniu na km? powierzchni dorzecza . LL aaa aa aaa aaa aaa 11 4311 Tabela 5. Średnie miesięczne i roczne wartości temperatur powietrza (°C) na obszarze dorzecza Pregoły (1971—2000) .. 2... A 4314 Tabela 6. Średnie miesięczne i roczne sumy opadów atmosferycznych (mm) na obszarze dorzecza Pregoły (1971—2000) .. 2... A 4314 Tabela 7. Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ......... 4332 Tabela 8. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . 4333 Tabela 9. Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód jezior . . . . . . . . . 1... 4334 Tabela 10. Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód, ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. 4337 Tabela 11. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza .. 11. A 4340 Tabela 12. Odstępstwa od celów środowiskowych na obszarze dorzecza Pregoły ........... 4342 Tabela 13. Struktura przedsiębiorstw na obszarze dorzecza Pregoły .......-..--22++00- 4344 Tabela 14. Koszty netto ochrony wód w przemyśle .... LL Leonora ee 4349 Tabela 15. Koszty środowiskowe i zasobowe w przemyśle .......-- 0000 eee ee 1 11 4349 Tabela 16. Wyniki oszacowania kosztów środowiskowych dla roku 2006 .......... 1 22... 4353 Tabela 17. Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. 4354 Tabela 18. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Pregoły — wody powierzchniowe . . LLL Luzon na 1 4368 Tabela 19. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Pregoły — WOdy podziemne .. LLL ono wo nA 4369 Tabela 20. Zestawienie organów właściwych w sprawach gospodarowania wodami......... 4431 Tabela 21. Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... 4431 Tabela 22. Organy współpracujące z Prezesem KZGW w zakresie wdrażaniaRDW .......... 4436 Tabela 23. Podległość dyrektorów RZGW, siedziba oraz strona www ... Lao aa aa 1 4437 Tabela 24. Akt prawny ustanawiający statut RZGW oraz przynależne regiony wodne ......... 4437 Tabela 25. Umowy dwustronne .. 1... 2 A 4443 Tabela 26. Umowy wielostronne . LL LL Lee A 4443 Tabela 27. Dane adresowe KZGW ... LL. Leone A 4444 Tabela 28. Dane adresowe RZGW na obszarze dorzecza Pregoły ... . LL Laura 11 4444 Tabela 29. Dane adresowe GIOS .... LLL 4445"
     },
     {
      "type": "note",
-     "text": "[Strona 168 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 168 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "18. Spis rysunków"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Rysunek 1. Pokrycie terenu obszaru dorzeczaPregoły .... een 1 4299 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891 —2000 4313 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000............. 4315 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 scenariusz +19C ... 4315"
     }
    ]
@@ -10809,10 +10781,6 @@
   {
    "heading": "Załączniki do Planu gospodarowania wodami na obszarze dorzecza Pregoły z dnia 22 lutego 2011 r. (poz. 566) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 55 — 4458 — Poz. 566"
-    },
     {
      "type": "note",
      "text": "[Na stronie 169 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -12112,7 +12080,7 @@
     },
     {
      "type": "text",
-     "text": "PLRW700018582329 St a r a G o ł d a p a o d o d d zielenia się Kanału SW2106 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - B r o ż a j ck i e g o d o u j śc i a (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582434 Dopływ z jeziora Rakówek SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582452 Dopływ z Jabramowa SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582454 Dopływ spod Janowa SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582458 Dopływ spod Wronek Wielkich SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) Monitor Polski Nr 55 — 4476 — Poz. 566 PLRW700018582469 Rów Nr 1 SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582472 Różynka SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582474 Kanał Janki SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18)"
+     "text": "PLRW700018582329 St a r a G o ł d a p a o d o d d zielenia się Kanału SW2106 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - B r o ż a j ck i e g o d o u j śc i a (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582434 Dopływ z jeziora Rakówek SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582452 Dopływ z Jabramowa SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582454 Dopływ spod Janowa SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582458 Dopływ spod Wronek Wielkich SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) R ó w niny Wschodnie P ot o k n iz i n n y naturalna część wód zły niezagrożona - - (1 6 ) żw ir o w y ( 1 8 ) PLRW700018582469 Rów Nr 1 SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582472 Różynka SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582474 Kanał Janki SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18)"
     },
     {
      "type": "text",
@@ -12124,7 +12092,7 @@
     },
     {
      "type": "text",
-     "text": "PLRW700018582529 Stare koryto Węgorapy SW2106 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582831 Błędzianka od źródeł do granicy państwa SW2103 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582845 Żytkiejmska Struga od źródeł do granicy SW2103 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - państwa (16) żwirowy (18) PLRW700018582861 Czarna Struga do granicy państwa SW2103 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584374 Dopływ z Kolonii Bartąg SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny silnie zmieniona część zły niezagrożona - - (16) żwirowy (18) wód PLRW700018584389 Kortówka z jez. Ukiel i Kortowskie SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny silnie zmieniona część zły niezagrożona - - (16) żwirowy (18) wód PLRW700018584469 Wipsówka SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) Wpływ działalności antropogenicznej na stan JCW generuje konieczność przesunięcia w czasie PLRW700020584499 Wadąg od wypływu z jez. Wadag do ujścia SW2019 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód dobry zagrożona 4(4) - 1 osiągnięcia celów (16) żwirowa (20) środowiskowych z uwagi na brak rozwiązań technicznych możliwych do zastosowania w celu poprawy stanu JCW. PLRW700018584512 Kanał Dywity SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny silnie zmieniona część zły niezagrożona - - (16) żwirowy (18) wód PLRW700018584529 Stara Łyna SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584549 Kanał Limajno SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584569 Kwiela SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700020584579 Łyna od Kanału Dywity do Kirsny z jez. Mosąg SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700018584589 Kirsna SW2022 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700018584594 Dopływ z Kolonii Łaniowo SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700020584599 Łyna od Kirsny do Symsarny SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700018584649 Kanał Frąknowo SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584672 Dopływ spod Derca SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) Monitor Polski Nr 55 — 4477 — Poz. 566 PLRW700018584696 Kierwińska Struga SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700020584699 Symsarna od wypływu z jez. Symsar do ujścia SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700018584729 Rogoska Struga SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700017584748 Elma od źródeł do Powarszynki SW2026 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW700017584752 Dopływ z Worgielit SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW700017584754 Dopływ spod Małych Borek SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW700018584769 Suszyca SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700018584786 Dopływ spod Kos SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700020584789 Pisa od Połapińskiej Strugi do ujścia SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700017584792 Borycka Struga SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW7000185848149 Guber do dopływu z jeziora Siercz z jez. SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Guber, Siercz (16) żwirowy (18) PLRW700018584816 Dopływ ze Sławkowa SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584818 Dopływ z uroczyska Turwągi SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584832 Dopływ z jez. Tołkińskiego SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18)"
+     "text": "PLRW700018582529 Stare koryto Węgorapy SW2106 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582831 Błędzianka od źródeł do granicy państwa SW2103 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018582845 Żytkiejmska Struga od źródeł do granicy SW2103 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - państwa (16) żwirowy (18) PLRW700018582861 Czarna Struga do granicy państwa SW2103 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584374 Dopływ z Kolonii Bartąg SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny silnie zmieniona część zły niezagrożona - - (16) żwirowy (18) wód PLRW700018584389 Kortówka z jez. Ukiel i Kortowskie SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny silnie zmieniona część zły niezagrożona - - (16) żwirowy (18) wód PLRW700018584469 Wipsówka SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) Wpływ działalności antropogenicznej na stan JCW generuje konieczność przesunięcia w czasie PLRW700020584499 Wadąg od wypływu z jez. Wadag do ujścia SW2019 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód dobry zagrożona 4(4) - 1 osiągnięcia celów (16) żwirowa (20) środowiskowych z uwagi na brak rozwiązań technicznych możliwych do zastosowania w celu poprawy stanu JCW. PLRW700018584512 Kanał Dywity SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny silnie zmieniona część zły niezagrożona - - (16) żwirowy (18) wód PLRW700018584529 Stara Łyna SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584549 Kanał Limajno SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584569 Kwiela SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700020584579 Łyna od Kanału Dywity do Kirsny z jez. Mosąg SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700018584589 Kirsna SW2022 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700018584594 Dopływ z Kolonii Łaniowo SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700020584599 Łyna od Kirsny do Symsarny SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700018584649 Kanał Frąknowo SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584672 Dopływ spod Derca SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584696 Kierwińska Struga SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700020584699 Symsarna od wypływu z jez. Symsar do ujścia SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700018584729 Rogoska Struga SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700017584748 Elma od źródeł do Powarszynki SW2026 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW700017584752 Dopływ z Worgielit SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW700017584754 Dopływ spod Małych Borek SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW700018584769 Suszyca SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW700018584786 Dopływ spod Kos SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700020584789 Pisa od Połapińskiej Strugi do ujścia SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700017584792 Borycka Struga SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW7000185848149 Guber do dopływu z jeziora Siercz z jez. SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Guber, Siercz (16) żwirowy (18) PLRW700018584816 Dopływ ze Sławkowa SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584818 Dopływ z uroczyska Turwągi SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW700018584832 Dopływ z jez. Tołkińskiego SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18)"
     },
     {
      "type": "text",
@@ -12140,7 +12108,7 @@
     },
     {
      "type": "text",
-     "text": "PLRW700017584921 Szczurkowska Młynówka do granicy państwa SW2007 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW700017584941 Żernówka do granicy państwa SW2006 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW700017584965 Omęt od źródeł do granicy państwa SW2005 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) Monitor Polski Nr 55 — 4478 — Poz. 566 PLRW7000185824329 Gołdapa od źródeł do Czarnej Strugi, z Czarną SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Strugą (16) żwirowy (18) PLRW7000185824712 Dopływ z Włost SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824769 Gołda SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824772 Dopływ spod Ziemianek SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824789 Lisówka SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824929 Bachutka SW2107 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185826123 Wizga do granicy państwa SW2102 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły n żoineazagro - - (16) żwirowy (18) PLRW7000185826143 Czernica do granicy państwa SW2102 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000255844579 Wadąg do wypływu z jez. Pisz SW2014 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Cieki łączące jeziora naturalna część wód zły niezagrożona - - (16) (25) PLRW7000255844859 Kiermas do wypływu z jez. Kośno SW2016 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Cieki łączące jeziora naturalna część wód zły niezagrożona - - (16) (25) PLRW7000185844874 Dopływ z Marcinkowa SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000205844899 Kiermas od wypływu z jez. Kośno do ujścia z SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - jez. Umląg i Kiermas (16) żwirowa (20) PLRW7000185844929 Maruna SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185844958 Dopływ z jeziora Trackiego SW2019 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW7000205844959 Wadąg od wypływu z jeziora Pisz do wypływu SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - z jeziora Wadąg (16) żwirowa (20) PLRW7000185845329 Kanał Spręcewo SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845349 Kanał Sętal SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845529 Kanał Barcikowski SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845729 Sunia SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845969 Miłogórska Struga SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW7000185845989 Redy SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW7000185846392 Dopływ spod Krokowa SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185846932 Tolknicka Struga SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000255846939 Symsarna do wypływu z jez. Symsar SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Cieki łączące jeziora naturalna część wód zły niezagrożona - - (16) (25) PLRW7000175847492 Dopływ spod Janikowa SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW7000175847729 Wirwilcka Młynówka SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW7000185847849 Pisa od źródeł do Połapińskiej Strugi, z SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Połapińską Strugą (16) żwirowy (18) PLRW7000185847889 Bajdycka Młynówka SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185848296 Dopływ z jez. Pieckowskiego SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000175848689 Sołka SW2035 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW7000175848812 Dopływ spod Worpławek SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW7000185848832 Dopływ z Kominek SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000175848852 Kanał Unikowo SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) Monitor Polski Nr 55 — 4479 — Poz. 566 Planowane inwestycje z Sajna od Kan. Reszelskiego do starego koryta zakresu ochrony PLRW7000205848855 Sajny bez starego koryta Sajny z Rynem od SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły zagrożona 4(7) - 1 przeciwpowodziowej - dopł. z Kol. Wysoka Dąbrowa (16) żwirowa (20) Projekt budowlany odbudowy wału rzeki Sajny w latach 2012-2013."
+     "text": "PLRW700017584921 Szczurkowska Młynówka do granicy państwa SW2007 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW700017584941 Żernówka do granicy państwa SW2006 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW700017584965 Omęt od źródeł do granicy państwa SW2005 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW7000185824329 Gołdapa od źródeł do Czarnej Strugi, z Czarną SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Strugą (16) żwirowy (18) PLRW7000185824712 Dopływ z Włost SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824769 Gołda SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824772 Dopływ spod Ziemianek SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824789 Lisówka SW2109 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185824929 Bachutka SW2107 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185826123 Wizga do granicy państwa SW2102 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły n żoineazagro - - (16) żwirowy (18) PLRW7000185826143 Czernica do granicy państwa SW2102 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000255844579 Wadąg do wypływu z jez. Pisz SW2014 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Cieki łączące jeziora naturalna część wód zły niezagrożona - - (16) (25) PLRW7000255844859 Kiermas do wypływu z jez. Kośno SW2016 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Cieki łączące jeziora naturalna część wód zły niezagrożona - - (16) (25) PLRW7000185844874 Dopływ z Marcinkowa SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000205844899 Kiermas od wypływu z jez. Kośno do ujścia z SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - jez. Umląg i Kiermas (16) żwirowa (20) PLRW7000185844929 Maruna SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185844958 Dopływ z jeziora Trackiego SW2019 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW7000205844959 Wadąg od wypływu z jeziora Pisz do wypływu SW2015 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - z jeziora Wadąg (16) żwirowa (20) PLRW7000185845329 Kanał Spręcewo SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845349 Kanał Sętal SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845529 Kanał Barcikowski SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845729 Sunia SW2020 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185845969 Miłogórska Struga SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW7000185845989 Redy SW2023 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) żwirowy (18) PLRW7000185846392 Dopływ spod Krokowa SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185846932 Tolknicka Struga SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000255846939 Symsarna do wypływu z jez. Symsar SW2024 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Cieki łączące jeziora naturalna część wód zły niezagrożona - - (16) (25) PLRW7000175847492 Dopływ spod Janikowa SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW7000175847729 Wirwilcka Młynówka SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód dobry niezagrożona - - (16) piaszczysty (17) PLRW7000185847849 Pisa od źródeł do Połapińskiej Strugi, z SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Połapińską Strugą (16) żwirowy (18) PLRW7000185847889 Bajdycka Młynówka SW2029 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000185848296 Dopływ z jez. Pieckowskiego SW2030 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000175848689 Sołka SW2035 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW7000175848812 Dopływ spod Worpławek SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW7000185848832 Dopływ z Kominek SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) żwirowy (18) PLRW7000175848852 Kanał Unikowo SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) Planowane inwestycje z Sajna od Kan. Reszelskiego do starego koryta zakresu ochrony PLRW7000205848855 Sajny bez starego koryta Sajny z Rynem od SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły zagrożona 4(7) - 1 przeciwpowodziowej - dopł. z Kol. Wysoka Dąbrowa (16) żwirowa (20) Projekt budowlany odbudowy wału rzeki Sajny w latach 2012-2013."
     },
     {
      "type": "text",
@@ -12160,11 +12128,11 @@
     },
     {
      "type": "text",
-     "text": "PLRW70001858488489 Ryn od źródeł do dopł. z Kol. Wysoka SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Dąbrowa, z dopł. z Kol. Wysoka Dąbrowa (16) żwirowy (18) PLRW70001758488549 Dopływ z Wojkowa SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW70001758498671 Białka od źródeł do granicy państwa SW2004 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW7000058498861 Kanał Mazurski z jez. Rydzówka do granicy SW2004 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Typ nieokreślony (0) sztuczna część wód zły niezagrożona - - państwa (16) PLRW700020584779 Łyna od Suszycy do Pisy SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700020584759 Łyna od Symsarny do Suszycy z Elmą od SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - Powarszynki (16) żwirowa (20) Monitor Polski Nr 55 — 4480 — Poz. 566 Wpływ działalności antropogenicznej na stan JCW generuje konieczność przesunięcia w czasie PLRW700020584511 Łyna od dopł. z jez. Jełguń (Jełguńskiego) do SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły zagrożona 4(4) - 1 osiągnięcia celów Kanału Dywity (16) żwirowa (20) środowiskowych z uwagi na brak rozwiązań technicznych możliwych do zastosowania w celu poprawy stanu JCW."
+     "text": "PLRW70001858488489 Ryn od źródeł do dopł. z Kol. Wysoka SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - Dąbrowa, z dopł. z Kol. Wysoka Dąbrowa (16) żwirowy (18) PLRW70001758488549 Dopływ z Wojkowa SW2036 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW70001758498671 Białka od źródeł do granicy państwa SW2004 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Potok nizinny naturalna część wód zły niezagrożona - - (16) piaszczysty (17) PLRW7000058498861 Kanał Mazurski z jez. Rydzówka do granicy SW2004 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Typ nieokreślony (0) sztuczna część wód zły niezagrożona - - państwa (16) PLRW700020584779 Łyna od Suszycy do Pisy SW2027 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - (16) żwirowa (20) PLRW700020584759 Łyna od Symsarny do Suszycy z Elmą od SW2025 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły niezagrożona - - Powarszynki (16) żwirowa (20) Wpływ działalności antropogenicznej na stan JCW generuje konieczność przesunięcia w czasie PLRW700020584511 Łyna od dopł. z jez. Jełguń (Jełguńskiego) do SW2012 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) Równiny Wschodnie Rzeka nizinna naturalna część wód zły zagrożona 4(4) - 1 osiągnięcia celów Kanału Dywity (16) żwirowa (20) środowiskowych z uwagi na brak rozwiązań technicznych możliwych do zastosowania w celu poprawy stanu JCW."
     },
     {
      "type": "text",
-     "text": "* - derogacje 4(4) - 1 derogacje czasowe - brak możliwości technicznych 4(4) - 3 derogacje czasowe - warunki naturalne 4(7) - 1 nowe modyfikacje - przekształcenie charakterystyk fizycznych Monitor Polski Nr 55 — 4481 — Poz. 566 Jednolita część wód powierzchniowych Lokalizacja (JCWP) Obszar dorzecza Ocena ryzyka Scalona część Regionalny Typ JCWP Status Ocena stanu nieosiągnięcia Derogacje* Uzasadnienie derogacji Europejski kod Nazwa JCWP wód Region wodny Zarząd Ekoregion celów JCWP powierzchnio- Kod Nazwa Gospodarki środowiskowych wych (SCWP) Wodnej (RZGW)"
+     "text": "* - derogacje 4(4) - 1 derogacje czasowe - brak możliwości technicznych 4(4) - 3 derogacje czasowe - warunki naturalne 4(7) - 1 nowe modyfikacje - przekształcenie charakterystyk fizycznych Jednolita część wód powierzchniowych Lokalizacja (JCWP) Obszar dorzecza Ocena ryzyka Scalona część Regionalny Typ JCWP Status Ocena stanu nieosiągnięcia Derogacje* Uzasadnienie derogacji Europejski kod Nazwa JCWP wód Region wodny Zarząd Ekoregion celów JCWP powierzchnio- Kod Nazwa Gospodarki środowiskowych wych (SCWP) Wodnej (RZGW)"
     },
     {
      "type": "text",
@@ -12216,7 +12184,11 @@
     },
     {
      "type": "text",
-     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym silnie zmieniona przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30544 Mamry Północne SW2105 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) część wód dobry zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz. Monitor Polski Nr 55 — 4482 — Poz. 566 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30475 Kinkajmskie SW2027 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, niestratyfikowane (6b) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym silnie zmieniona przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30544 Mamry Północne SW2105 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) część wód dobry zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+    },
+    {
+     "type": "text",
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30475 Kinkajmskie SW2027 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, niestratyfikowane (6b) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
     },
     {
      "type": "text",
@@ -12260,7 +12232,11 @@
     },
     {
      "type": "text",
-     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW90142 Wielochowskie SW2023 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz. Monitor Polski Nr 55 — 4483 — Poz. 566 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30552 Gołdopiwo (Gołdapiwo) SW2105 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW90142 Wielochowskie SW2023 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+    },
+    {
+     "type": "text",
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30552 Gołdopiwo (Gołdapiwo) SW2105 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
     },
     {
      "type": "text",
@@ -12312,7 +12288,11 @@
     },
     {
      "type": "text",
-     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30472 Blanki SW2024 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, niestratyfikowane (6b) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz. Monitor Polski Nr 55 — 4484 — Poz. 566 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30465 Luterskie SW2024 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30472 Blanki SW2024 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, niestratyfikowane (6b) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+    },
+    {
+     "type": "text",
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30465 Luterskie SW2024 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
     },
     {
      "type": "text",
@@ -12360,7 +12340,11 @@
     },
     {
      "type": "text",
-     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30499 Salęt Wielki SW2032 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz. Monitor Polski Nr 55 — 4485 — Poz. 566 PLLW30412 Stryjewskie SW2014 region wodny Łyny i Węgorapy 7000 obszar dorzecza RZGW w Równiny Wschodnie (16) Jeziora o wysokiej zawartości wapnia, o dużym naturalna część wód dobry niezagrożona - - Pregoły Warszawie wypływie zlewni, niestratyfikowane (6b)"
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30499 Salęt Wielki SW2032 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+    },
+    {
+     "type": "text",
+     "text": "PLLW30412 Stryjewskie SW2014 region wodny Łyny i Węgorapy 7000 obszar dorzecza RZGW w Równiny Wschodnie (16) Jeziora o wysokiej zawartości wapnia, o dużym naturalna część wód dobry niezagrożona - - Pregoły Warszawie wypływie zlewni, niestratyfikowane (6b)"
     },
     {
      "type": "text",
@@ -12408,7 +12392,7 @@
     },
     {
      "type": "text",
-     "text": "PLLW30489 Karw SW2032 region wodny Łyny i Węgorapy 7000 obszar dorzecza RZGW w Równiny Wschodnie (16) Jeziora o wysokiej zawartości wapnia, o małym naturalna część wód dobry niezagrożona - - Pregoły Warszawie wypływie zlewni, niestratyfikowane (5b) Monitor Polski Nr 55 — 4486 — Poz. 566 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30496 Probarskie SW2032 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+     "text": "PLLW30489 Karw SW2032 region wodny Łyny i Węgorapy 7000 obszar dorzecza RZGW w Równiny Wschodnie (16) Jeziora o wysokiej zawartości wapnia, o małym naturalna część wód dobry niezagrożona - - Pregoły Warszawie wypływie zlewni, niestratyfikowane (5b) 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30496 Probarskie SW2032 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
     },
     {
      "type": "text",
@@ -12448,7 +12432,11 @@
     },
     {
      "type": "text",
-     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30447 Skanda SW2017 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz. Monitor Polski Nr 55 — 4487 — Poz. 566 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30449 Klebarskie SW2017 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o małym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30447 Skanda SW2017 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (5a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+    },
+    {
+     "type": "text",
+     "text": "6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30449 Klebarskie SW2017 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
     },
     {
      "type": "text",
@@ -12492,7 +12480,7 @@
     },
     {
      "type": "text",
-     "text": "PLLW30443 Łajskie (Łajsk) SW2016 region wodny Łyny i Węgorapy 7000 obszar dorzecza RZGW w Równiny Wschodnie (16) Jeziora o wysokiej zawartości wapnia, o dużym naturalna część wód dobry niezagrożona - - Pregoły Warszawie wypływie zlewni, stratyfikowane (6a) Monitor Polski Nr 55 — 4488 — Poz. 566 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30440 Małszewskie SW2016 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
+     "text": "PLLW30443 Łajskie (Łajsk) SW2016 region wodny Łyny i Węgorapy 7000 obszar dorzecza RZGW w Równiny Wschodnie (16) Jeziora o wysokiej zawartości wapnia, o dużym naturalna część wód dobry niezagrożona - - Pregoły Warszawie wypływie zlewni, stratyfikowane (6a) 6 lat jest okr.zbyt krótkim,aby mogła nast.popr.st.wód,nawet obszar dorzecza RZGW w Jeziora o wysokiej zawartości wapnia, o dużym przy założ.całk.elim.presji.W jeziorach zaniecz.kumulują PLLW30440 Małszewskie SW2016 region wodny Łyny i Węgorapy 7000 Pregoły Warszawie Równiny Wschodnie (16) wypływie zlewni, stratyfikowane (6a) naturalna część wód zły zagrożona 4(4) - 3 się,główn.w os.dennych.,które w j.eutroficznych są źr.zw.biogen.oddawanych do jezior jeszcze przez b.wiele lat po zaprzest.dopł.zaniecz."
     },
     {
      "type": "text",
@@ -12524,7 +12512,7 @@
     },
     {
      "type": "text",
-     "text": "* - Ekoregion wg. Typologii części wód (2004r.) Monitor Polski Nr 55 — 4489 — Poz. 566 Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Uzasadnienie Obszar dorzecza Regionalny Zarząd Gospodarki Ocena ryzyka Derogacje* derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Kod Nazwa Ekoregion ilościowego chemicznego Wodnej (RZGW) PLGW720020 20 region wodny Łyny i Węgorapy/region wodny 7000/3000/4000 obszar dorzecza Pregoły/obszar dorzecza Świeżej/obszar RZGW w Warszawie Równiny Wschodnie (16) dobry dobry niezagrożona - - Świeżej/region wodny Jarft dorzecza Jarft PLGW710021 21 region wodny Łyny i Węgorapy/region wodny Środkowej 7000/2000 obszar dorzecza Pregoły/obszar dorzecza Wisły RZGW w Warszawie Równiny Wschodnie (16) dobry dobry niezagrożona - - Wisły PLGW710022 22 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) dobry dobry niezagrożona - - Monitor Polski Nr 55 — 4490 — Poz. 566"
+     "text": "* - Ekoregion wg. Typologii części wód (2004r.) Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Uzasadnienie Obszar dorzecza Regionalny Zarząd Gospodarki Ocena ryzyka Derogacje* derogacji Europejski kod JCWPd Nazwa JCWPd Region wodny Kod Nazwa Ekoregion ilościowego chemicznego Wodnej (RZGW) PLGW720020 20 region wodny Łyny i Węgorapy/region wodny 7000/3000/4000 obszar dorzecza Pregoły/obszar dorzecza Świeżej/obszar RZGW w Warszawie Równiny Wschodnie (16) dobry dobry niezagrożona - - Świeżej/region wodny Jarft dorzecza Jarft PLGW710021 21 region wodny Łyny i Węgorapy/region wodny Środkowej 7000/2000 obszar dorzecza Pregoły/obszar dorzecza Wisły RZGW w Warszawie Równiny Wschodnie (16) dobry dobry niezagrożona - - Wisły PLGW710022 22 region wodny Łyny i Węgorapy 7000 obszar dorzecza Pregoły RZGW w Warszawie Równiny Wschodnie (16) dobry dobry niezagrożona - -"
     },
     {
      "type": "note",
@@ -12537,7 +12525,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Mapa nr 1. Monitor Polski Nr 55 — 4491 — Poz. 566"
+     "text": "Mapa nr 1."
     },
     {
      "type": "note",
@@ -12545,7 +12533,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 2. Monitor Polski Nr 55 — 4492 — Poz. 566"
+     "text": "Mapa nr 2."
     },
     {
      "type": "note",
@@ -12553,7 +12541,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 3. Monitor Polski Nr 55 — 4493 — Poz. 566"
+     "text": "Mapa nr 3."
     },
     {
      "type": "note",
@@ -12561,7 +12549,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 4. Monitor Polski Nr 55 — 4494 — Poz. 566"
+     "text": "Mapa nr 4."
     },
     {
      "type": "note",
@@ -12569,7 +12557,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 5. Monitor Polski Nr 55 — 4495 — Poz. 566"
+     "text": "Mapa nr 5."
     },
     {
      "type": "note",
@@ -12577,7 +12565,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 6. Monitor Polski Nr 55 — 4496 — Poz. 566"
+     "text": "Mapa nr 6."
     },
     {
      "type": "note",
@@ -12653,7 +12641,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 9. Monitor Polski Nr 55 — 4499 — Poz. 566"
+     "text": "Mapa nr 9."
     },
     {
      "type": "note",
@@ -12701,7 +12689,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 11. Monitor Polski Nr 55 — 4501 — Poz. 566"
+     "text": "Mapa nr 11."
     },
     {
      "type": "note",
@@ -12749,7 +12737,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 13. Monitor Polski Nr 55 — 4503 — Poz. 566"
+     "text": "Mapa nr 13."
     },
     {
      "type": "note",
@@ -12757,7 +12745,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 14. Monitor Polski Nr 55 — 4504 — Poz. 566"
+     "text": "Mapa nr 14."
     },
     {
      "type": "note",
@@ -12765,7 +12753,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 15. Monitor Polski Nr 55 — 4505 — Poz. 566"
+     "text": "Mapa nr 15."
     },
     {
      "type": "note",
@@ -12773,7 +12761,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 16. Monitor Polski Nr 55 — 4506 — Poz. 566"
+     "text": "Mapa nr 16."
     },
     {
      "type": "note",
@@ -12781,7 +12769,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 17. Monitor Polski Nr 55 — 4507 — Poz. 566"
+     "text": "Mapa nr 17."
     },
     {
      "type": "note",
@@ -12789,7 +12777,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 18. Monitor Polski Nr 55 — 4508 — Poz. 566"
+     "text": "Mapa nr 18."
     },
     {
      "type": "note",
@@ -12797,7 +12785,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 19. Monitor Polski Nr 55 — 4509 — Poz. 566"
+     "text": "Mapa nr 19."
     },
     {
      "type": "note",
@@ -12805,7 +12793,11 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 20. Monitor Polski Nr 55 — 4510 — Poz. 566 — 4511 —"
+     "text": "Mapa nr 20."
+    },
+    {
+     "type": "text",
+     "text": "— 4511 —"
     },
     {
      "type": "note",
@@ -12853,7 +12845,7 @@
     },
     {
      "type": "text",
-     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Pregoły Tabela 1. Wartości referencyjne dla chlorofilu a Typ jeziora Chlorofil a Jeziora stratyfikowane, wskaźnik Schindlera < 2 3,1 μg/l Jeziora stratyfikowane, wskaźnik Schindlera > 2 4,8 μg/l Jeziora niestratyfikowane, wskaźnik Schindlera < 2 5,7 μg/l Jeziora niestratyfikowane, wskaźnik Schindlera > 2 5,9 μg/l Tabela 2. Zestawienie liczbowe zarejestrowanych w latach 2003 – 2007 zagrożeń nadzwyczajnych mogących oddziaływać na stan zasobów wodnych Lp. Rodzaj zagrożenia Liczba Komentarz Rozszczelnieniu ulegały transformatory, przewody 1 awarie instalacji 2 oraz inne instalacje. Nielegalny zrzuty ścieków przez nieznanych 2 inne 1 sprawców. BZT 333,5 kg/rok/km² ChZT⁵ Cr 692,7 kg/rok/km² zawiesina 359,2 kg/rok/km² azot ogólny 60,5 kg/rok/km² fosfor ogólny 10,0 kg/rok/km² Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora,² Dla wielkich rzek nizinnych,³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich,⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich,⁵ Dla potoków nizinnych lessowych 1 2 3 1 2 3 1 2 3 4 4 4 2 1 2 3 1 2 3 4 4 1 2 1 2 3 4 3 4 H ) ) H ) ) 4 ) )"
+     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Pregoły Tabela 1. Wartości referencyjne dla chlorofilu a Typ jeziora Chlorofil a Jeziora stratyfikowane, wskaźnik Schindlera < 2 3,1 μg/l Jeziora stratyfikowane, wskaźnik Schindlera > 2 4,8 μg/l Jeziora niestratyfikowane, wskaźnik Schindlera < 2 5,7 μg/l Jeziora niestratyfikowane, wskaźnik Schindlera > 2 5,9 μg/l Tabela 2. Zestawienie liczbowe zarejestrowanych w latach 2003 – 2007 zagrożeń nadzwyczajnych mogących oddziaływać na stan zasobów wodnych Lp. Rodzaj zagrożenia Liczba Komentarz Rozszczelnieniu ulegały transformatory, przewody 1 awarie instalacji 2 oraz inne instalacje. Nielegalny zrzuty ścieków przez nieznanych 2 inne 1 sprawców. BZT₅ 333,5 kg/rok/km² ChZTCr 692,7 kg/rok/km² zawiesina 359,2 kg/rok/km² azot ogólny 60,5 kg/rok/km² fosfor ogólny 10,0 kg/rok/km² Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora,² Dla wielkich rzek nizinnych,³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich,⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich,⁵ Dla potoków nizinnych lessowych 1 2 3 1 2 3 1 2 3 4 4 4 2 1 2 3 1 2 3 4 4 1 2 1 2 3 4 3 4 H ) ) H ) )"
     },
     {
      "type": "pkt",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/289",
  "title": "Uchwała Nr 40 Rady Ministrów z dnia 1 kwietnia 2009 r. w sprawie zatwierdzenia Programu rzeczowo-finansowego wykorzystania środków Funduszu Kolejowego w 2009 r.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/289/text.pdf",
  "body": [
   {
@@ -32,12 +32,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: w z. G. Schetyna"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. G. Schetyna"
   }
  ],
  "annexes": [
@@ -50,7 +49,7 @@
     },
     {
      "type": "text",
-     "text": "Część A — Limit środków Funduszu Kolejowego na przygotowanie oraz realizację zadań inwestycyjnych w 2009 r. Tabela nr1 Monitor Polski Nr 22 — 694 — Poz. 289"
+     "text": "Część A — Limit środków Funduszu Kolejowego na przygotowanie oraz realizację zadań inwestycyjnych w 2009 r. Tabela nr1"
     },
     {
      "type": "note",
@@ -487,7 +486,7 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_2/lit_b",
-       "text": "stacja Nasielsk,zakres prac: modernizacja układu torowego, budowa nastawni, tunelu istrażnicy. *(2) Zadanie nr 6 dotyczy wykonania robót wbranży torowej wraz zrobotami towarzyszącymi wbranżach: automatyki itelekomunikacji, elektroenergetycznej, prace rozbiórkowe. *(3) Zadanie nr 7 dotyczy wykonania robót wbranżach: torowej, elektroenergetycznej, automatyki itelekomunikacji oraz modernizacja peronu na st. Łobez. ** Środki planowane do pozyskania przez PKP PLKS.A. zrezerwy celowej budżetu państwa na 2009 r. Monitor Polski Nr 22 — 696 — Poz. 289",
+       "text": "stacja Nasielsk,zakres prac: modernizacja układu torowego, budowa nastawni, tunelu istrażnicy. *(2) Zadanie nr 6 dotyczy wykonania robót wbranży torowej wraz zrobotami towarzyszącymi wbranżach: automatyki itelekomunikacji, elektroenergetycznej, prace rozbiórkowe. *(3) Zadanie nr 7 dotyczy wykonania robót wbranżach: torowej, elektroenergetycznej, automatyki itelekomunikacji oraz modernizacja peronu na st. Łobez. ** Środki planowane do pozyskania przez PKP PLKS.A. zrezerwy celowej budżetu państwa na 2009 r.",
        "children": [
         {
          "type": "note",
@@ -499,7 +498,7 @@
         },
         {
          "type": "text",
-         "text": "Tabela nr 2 Monitor Polski Nr 22 — 697 — Poz. 289"
+         "text": "Tabela nr 2"
         },
         {
          "type": "note",

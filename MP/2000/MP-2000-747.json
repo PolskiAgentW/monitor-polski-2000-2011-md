@@ -1,7 +1,7 @@
 {
  "eli": "MP/2000/747",
  "title": "Obwieszczenie Głównego Lekarza Weterynarii z dnia 8 listopada 2000 r. w sprawie rejestrów państw, z których może być przywożone i przewożone przez terytorium Rzeczypospolitej Polskiej mięso, środki spożywcze pochodzenia zwierzęcego, niejadalne surowce zwierzęce, pasze, oraz wzorów świadectw zdrowia dla tych towarów.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/747/text.pdf",
  "body": [
   {
@@ -59,10 +59,6 @@
   {
    "heading": "Załączniki do obwieszczenia Głównego Lekarza Weterynarii zdnia 8 listopada 2000 r. (poz. 747) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 38 — 1227 — Poz. 747"
-    },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -494,119 +490,147 @@
     },
     {
      "type": "note",
-     "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "lll. Przeznaczenie towaru / Destination of products"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Wyżej opisany towar wysłano z: The above mentioned products will be sent from: ................ ccccseccecececseeseavstetseseeesesee (miejsce załadunku / place of loading)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(miejsce przeznaczenia / place of destination)"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Środkiem transportowym Means of transport .................. cc cccccccecssssnececessecececesaseeeceuencscseeecsessseeessesusecessaeesvecerecersernecs (nazwa środka transportowego i jego identyfikacja / means of transport and registration marks)"
     },
     {
-     "type": "ocr",
-     "text": "Nazwa i adres wysyłającego Name and address of consignor ................eee aaa aaa iniLi"
+     "type": "text",
+     "text": "Nazwa i adres wysyłającego Name and address of consignor ................eee aaa aaa i niLi"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Nazwa i adres odbiorcy Name and address of consignee ............. eee... aaa aaa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "IV. Poświadczenie weterynaryjne / Veterinary attestation"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Ja, niżej podpisany, urzędowy lekarz weterynarii niniejszym zaświadczam, że opisany w rozdziale I towar spełnia następujące wymagania: I, the undersigned official veterinarian certify that the product described in Paragraph I satisfies the following requirements:"
     },
     {
-     "type": "ocr",
-     "text": "a) został wyprodukowany w zakładzie nadzorowanym przez władze weterynaryjne, has been produced in the plant being under the supervision of veterinary authorities, podczas produkcji surowiec poddawany jest ogrzewaniu co najmniej do temperatury 133°C przez 20 minut i pod ciśnieniem 3 barów, a wielkość cząsteczek przed obróbką nie przekraczała 5 cm oraz wykonano badania mikrobiologiczne losowo pobranych prób z magazynu zakładu przetwórczego i zbadano je w urzędowym iaboratorium potwierdzając, że opisany w rozdziale I towar odpowiada następującym wymaganiom”: during production the material has been subjected to the heating to at least 133° C throughout its substance for a minimum of 20 minutes at a pressure of 3 bars, with a particle size prior to processing of not more than 5 cm and random samples of final product have been tested in official laboratory and have been found to comply with the following requirements”: - Salmonella: brak w / absence in 25g, n=5, c=0, m=0, M=0, - Clostridium perfringens: brak w / absence in 1 g, 3) - Enterobacteriaceae: n=5, c=2, m=10, M=3x1 0* w/in1 g,"
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "został wyprodukowany w zakładzie nadzorowanym przez władze weterynaryjne, has been produced in the plant being under the supervision of veterinary authorities, podczas produkcji surowiec poddawany jest ogrzewaniu co najmniej do temperatury 133°C przez 20 b",
+     "children": [
+      {
+       "type": "text",
+       "text": "— minut i pod ciśnieniem 3 barów, a wielkość cząsteczek przed obróbką nie przekraczała 5 cm oraz wykonano badania mikrobiologiczne losowo pobranych prób z magazynu zakładu przetwórczego i zbadano je w urzędowym iaboratorium potwierdzając, że opisany w rozdziale I towar odpowiada następującym wymaganiom”: during production the material has been subjected to the heating to at least 133° C throughout its substance for a minimum of 20 minutes at a pressure of 3 bars, with a particle size prior to processing of not more than 5 cm and random samples of final product have been tested in official laboratory and have been found to comply with the following requirements”: - Salmonella: brak w / absence in 25g, n=5, c=0, m=0, M=0, - Clostridium perfringens: brak w / absence in 1 g, 3) - Enterobacteriaceae: n=5, c=2, m=10,"
+      },
+      {
+       "type": "text",
+       "text": "M=3x1 0* w/in1 g,"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "c) wyrywkowe próby pobrane bezpośrednio przed wysyłką towaru zostały zbadane przez kompetentne władze i odpowiadały następującym standardom: a random sample of the end of product was examined immediately prior to dispatch by competent authority and found to comply with the following standard: - Salmonella: brak w / absence in 25g, n=5, c=0, m=0, M=0—,"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "wyrywkowe próby pobrane bezpośrednio przed wysyłką towaru zostały zbadane przez kompetentne władze i odpowiadały następującym standardom: a random sample of the end of product was examined immediately prior to dispatch by competent authority and found to comply with the following standard: - Salmonella: brak w / absence in 25g, n=5, c=0, m=0, M=0—,",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "d) w kraju wysyłającym surowce, z których wyprodukowano towar opisany w rozdziale I, zakaźna encefalopatia bydła podlega zwalczaniu z urzędu zgodnie z Międzynarodowym Kodeksem Międzynarodowego Urzędu ds. Epizootii, the product described in Chapter I was produced from the animal proteins originated from a country, in which BSE is at the list of the notifable diseases, according to the 0.1.E. international Code ,"
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "w kraju wysyłającym surowce, z których wyprodukowano towar opisany w rozdziale I, zakaźna encefalopatia bydła podlega zwalczaniu z Międzynarodowego Urzędu ds. Epizootii, urzędu zgodnie z Międzynarodowym Kodeksem",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "e) towar nie został wytworzony z materiału specyficznego ryzyka, the product was not produced from the specific risk material,"
+     "type": "text",
+     "text": "the product described in Chapter I was produced from the animal proteins originated from a country, in which BSE is at the list of the notifable diseases, according to the 0.1.E. international Code ,"
     },
     {
-     "type": "ocr",
-     "text": "f) wysyłany towar został umieszczony w nowych opakowaniach lub w przypadku wysyłki luzem w kontenerach lub innych środkach transportowych starannie oczyszczonych i odkażonych środkiem zatwierdzonym przez kompetentne władze,"
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "towar nie został wytworzony z materiału specyficznego ryzyka, the product was not produced from the specific risk material,",
+     "children": []
     },
     {
-     "type": "ocr",
-     "text": "b"
+     "type": "lit",
+     "num": "f",
+     "path": "lit_f",
+     "text": "wysyłany towar został umieszczony w nowych opakowaniach lub w przypadku wysyłki luzem w kontenerach lub innych środkach transportowych starannie oczyszczonych i odkażonych środkiem zatwierdzonym przez kompetentne władze,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "the exporting product was packed in a new packaging material or in the case of dispatch as bulk transport, container or any other means of transport were thoroughly cleaned and disinfected with a disinfectant approved by the competent authority,"
+      }
+     ]
     },
     {
-     "type": "ocr",
-     "text": "—"
+     "type": "lit",
+     "num": "g",
+     "path": "lit_g",
+     "text": "towar wysyłany był przechowywany wyłącznie w pomieszczeniach zamkniętych, the exporting product was stored in closed stores only,",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 10 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "ocr",
-     "text": "the exporting product was packed in a new packaging material or in the case of dispatch as bulk transport, container or any other means of transport were thoroughly cleaned and disinfected with a disinfectant approved by the competent authority,"
-    },
-    {
-     "type": "ocr",
-     "text": "g) towar wysyłany był przechowywany wyłącznie w pomieszczeniach zamkniętych, the exporting product was stored in closed stores only,"
-    },
-    {
-     "type": "ocr",
-     "text": "h) przedsięwzięte zostały wszelkie środki ostrożności w celu zabezpieczenia wysyłanego towaru przed ponownym skażeniem po obróbce cieplnej określonej w rozdziale IV lit. (b). the exported product has undergone all precautions to avoid recontamination after heat treatment described in to Paragraph IV (b)."
-    },
-    {
-     "type": "ocr",
-     "text": "Sporządzono w /Done at ......................eeeeeae aaa aaa aa aaa aaa aanicć dnia/on 00. cece miejsce / place data / date"
-    },
-    {
-     "type": "ocr",
-     "text": "Podpis i pieczeé urzedowego lekarza weterynarii Signature and seal of the official veterinarian"
-    },
-    {
-     "type": "ocr",
-     "text": "(4)"
-    },
-    {
-     "type": "ocr",
-     "text": "(4)"
-    },
-    {
-     "type": "ocr",
-     "text": "Uwagi / Notice"
-    },
-    {
-     "type": "ocr",
-     "text": "(1) zgodnie z art.11 ust.3 pkt 1i art.12 ust.1 pkt 1ustawy z dnia 24 kwietnia 1997r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999r. Nr 66, poz. 752) świadectwo powinno być wystawione w językach polskim i angielskim oraz w języku kraju pochodzenia towaru. According to Articie 11, paragraph 3, subparagraph 1 and Article 12, paragraph 1, subparagraph 1 of the law of 24 April 1997 on control of animal infectious diseases, inspection of animals for slaughter and on the Veterinary Inspection, the health certificate should be issued in Polish and English language as well as in language of country of product origin."
-    },
-    {
-     "type": "ocr",
-     "text": "(2) Gdzie / where: n= liczba próbek składających się na próbę / number of units comprising the sample, m= wartość progowa dla liczby bakterii - wynik jest zadowalający, jeśli liczba bakterii we wszystkich próbach nie przekracza m, threshold value for the number of bacteria - the result is satisfactory if the number of bacteria in all sample units does not exceed m, M= wartość maksymalna dla liczby bakterii - wynik uważany jest za niezadowalajacy, jeśli liczba bakterii w jednej lub więcej próbach wynosi M lub więcej, M= maximum value for the number of bacteria - the result is considered unsatisfactory if the number of bacteria in one or more sample units is M or more, c= liczba prób, w których liczba bakterii może mieć wartości pomiędzy m i M - wynik nadal uznaje się za zadowalający, jeśli liczba bakterii w pozostałych próbach wynosi m lub mniej. c= number of sample units the bacterial count of which may by between m and M, the sample still being considered acceptable if the bacterial count of the other sample units is m or less."
-    },
-    {
-     "type": "ocr",
-     "text": "(3) Próba brana po obróbce termicznej. /Sample taken after treatment."
-    },
-    {
-     "type": "ocr",
-     "text": "(4) Pieczęcie i podpisy muszą być w kolorze innym niż kolor druku. The colour of the seal and signature must be different from the colour of printing."
+     "type": "lit",
+     "num": "h",
+     "path": "lit_h",
+     "text": "przedsięwzięte zostały wszelkie środki ostrożności w celu zabezpieczenia wysyłanego towaru przed ponownym skażeniem po obróbce cieplnej określonej w rozdziale IV lit. (b). the exported product has undergone all precautions to avoid recontamination after heat treatment described in to Paragraph IV (b).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sporządzono w /Done at ......................eeeeeae aaa aaa aa aaa aaa aanicć dnia/on 00. cece miejsce / place data / date"
+      },
+      {
+       "type": "text",
+       "text": "Podpis i pieczeé urzędowego lekarza weterynarii Signature and seal of the official veterinarian"
+      },
+      {
+       "type": "text",
+       "text": "(4)"
+      },
+      {
+       "type": "text",
+       "text": "(4)"
+      },
+      {
+       "type": "text",
+       "text": "Uwagi / Notice"
+      },
+      {
+       "type": "text",
+       "text": "(1) zgodnie z art.11 ust.3 pkt 1i art.12 ust.1 pkt 1ustawy z dnia 24 kwietnia 1997r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999r. Nr 66, poz. 752) świadectwo powinno być wystawione w językach polskim i angielskim oraz w języku kraju pochodzenia towaru. According to Articie 11, paragraph 3, subparagraph 1 and Article 12, paragraph 1, subparagraph 1 of the law of 24 April 1997 on control of animal infectious diseases, inspection of animals for slaughter and on the Veterinary Inspection, the health certificate should be issued in Polish and English language as well as in language of country of product origin."
+      },
+      {
+       "type": "text",
+       "text": "(2) Gdzie / where: n= liczba próbek składających się na próbę / number of units comprising the sample, m= wartość progowa dla liczby bakterii - wynik jest zadowalający, jeśli liczba bakterii we wszystkich próbach nie przekracza m, threshold value for the number of bacteria - the result is satisfactory if the number of bacteria in all sample units does not exceed m, M= wartość maksymalna dla liczby bakterii - wynik uważany jest za niezadowalajacy, jeśli liczba bakterii w jednej lub więcej próbach wynosi M lub więcej, M= maximum value for the number of bacteria - the result is considered unsatisfactory if the number of bacteria in one or more sample units is M or more, c= liczba prób, w których liczba bakterii może mieć wartości pomiędzy m i M - wynik nadal uznaje się za zadowalający, jeśli liczba bakterii w pozostałych próbach wynosi m lub mniej. c= number of sample units the bacterial count of which may by between m and M, the sample still being considered acceptable if the bacterial count of the other sample units is m or less."
+      },
+      {
+       "type": "text",
+       "text": "(3) Próba brana po obróbce termicznej. /Sample taken after treatment."
+      },
+      {
+       "type": "text",
+       "text": "(4) Pieczęcie i podpisy muszą być w kolorze innym niż kolor druku. The colour of the seal and signature must be different from the colour of printing."
+      }
+     ]
     }
    ]
   }

@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-24 20:51 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 15:50 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -78,11 +78,11 @@ Stan na 2026-10-24 20:51 UTC (liczone z `index.csv`).
 | 2010 | 1185 | 1185 | 0 |
 | 2011 | 1199 | 1199 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 542, razem 20203 z 48251 stron. Tekst z OCR (oznaczony) ma 19025 z nich w 480 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 542, razem 20203 z 48251 stron. Tekst z OCR (oznaczony) ma 19021 z nich w 480 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 805.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11495), eli2md 0.6.24 (480), eli2md 0.6.61 (2).
+Wersje konwertera: eli2md 0.6.22 (11422), eli2md 0.6.24 (392), eli2md 0.6.62 (161), eli2md 0.6.61 (2).
 <!-- stats:end -->
 
 ## Zawartość
@@ -199,6 +199,18 @@ wiersza doklejało się do poprzedniego akapitu: „14d)[^117] roczne sprawozdan
 14e)[^117] coroczne sprawozdania…” (MP/2009/47). Teraz zaczyna osobną jednostkę. Przeliczyłem ponownie (z eli2md 0.6.22
 na 0.6.61) 2 akty, w których to wystąpiło: MP/2009/47 (te same słowa) i MP/2010/542. W MP/2010/542 wracają też
 wyrazy rozdzielone po pierwszej literze: „a rt. 2” → „art. 2”, „z leca” → „zleca” (te same znaki).
+
+Zmiana 2026-10-25 (eli2md 0.6.62, 161 aktów; opis w README eli2md, wpis 0.6.62): nagłówek strony numeru
+(„Monitor Polski Nr 56 — 4642 — Poz. 567”) i notka drukarni zostawały w tekście aktu, gdy nie były pierwszą linią
+strony (strona z obróconą tabelą, nagłówek pod notką, strona czytana przez OCR). Przeliczyłem ponownie 172 akty,
+w których był taki nagłówek (1706 wystąpień). Nowy plik zostaje tylko wtedy, gdy nagłówków jest mniej, a reszta tekstu
+(bez nagłówków, notek, białych znaków i ogonków) różni się od poprzedniej najwyżej o 0,5% znaków. Tak jest w 161 aktach
+(w 114 z nich reszta tekstu ma te same znaki). W 154 z nich nagłówka już nie ma; w 7 (MP/2011/424, 425, 560, 561, 566,
+567, 579) został jeden, na stronie, której znaki w PDF nie mają kodów Unicode. W 4 aktach (MP/2003/159, MP/2009/355,
+MP/2010/464, MP/2011/451) `ocr_pages` w `index.csv` jest o 1 mniejsze.
+Bez zmian zostało 11 aktów. W 3 (MP/2007/566, MP/2008/801, MP/2009/780) nagłówka w nowym pliku nie było, ale reszta
+tekstu różniła się o więcej niż 0,5%. W 8 nagłówek zostawał także w nowym pliku: w 4 nad nagłówkiem jest notka drukarni
+„korekta: 16.07.02” (MP/2002/489, 491, 493, 495), w 4 (MP/2006/504, 565, 566, 567) przyczyny nie znam.
 
 **Czego te liczby nie mówią:**
 

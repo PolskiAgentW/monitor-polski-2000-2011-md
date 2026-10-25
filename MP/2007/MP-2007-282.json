@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/282",
  "title": "Zarządzenie Prezesa Narodowego Banku Polskiego z dnia 30 marca 2007 r. w sprawie ustalenia wzorów, stopu, próby, masy i wielkości emisji monet nominalnej wartości 2 zł i 10 zł oraz terminu wprowadzenia ich do obiegu",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/282/text.pdf",
  "body": [
   {
@@ -39,12 +39,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Narodowego Banku Polskiego: w z. J. Pruski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: w z. J. Pruski"
   }
  ],
  "annexes": [
@@ -65,7 +64,7 @@
     },
     {
      "type": "text",
-     "text": "10 zł Z prawej strony wizerunek Z prawej strony wizerunek awersu monety 5 zł z 1928 r., rewersu monety 5 zł z lewej strony stylizowany z 1928r. W tle stylizowane wizerunek popiersia Nike kłosy zboża. Zlewej strony z kłosami zboża. Poniżej wi- półkolem napis: DZIEJE zerunek orła ustalony dla go- ZŁOTEGO. gładki 14,14 32,0 Ag 925/100 52 000 dła Rzeczypospolitej Polskiej. Z prawej strony orła napis: 10 ZŁ. Powyżej orła oznaczenie roku emisji: 2007. U dołu półkolem napis: RZECZPO- SPOLITA POLSKA. Pod lewą łapą orła znak mennicy: MW. Monitor Polski Nr 26 — 962 — Poz. 282"
+     "text": "10 zł Z prawej strony wizerunek Z prawej strony wizerunek awersu monety 5 zł z 1928 r., rewersu monety 5 zł z lewej strony stylizowany z 1928r. W tle stylizowane wizerunek popiersia Nike kłosy zboża. Zlewej strony z kłosami zboża. Poniżej wi- półkolem napis: DZIEJE zerunek orła ustalony dla go- ZŁOTEGO. gładki 14,14 32,0 Ag 925/100 52 000 dła Rzeczypospolitej Polskiej. Z prawej strony orła napis: 10 ZŁ. Powyżej orła oznaczenie roku emisji: 2007. U dołu półkolem napis: RZECZPO- SPOLITA POLSKA. Pod lewą łapą orła znak mennicy: MW."
     }
    ]
   }

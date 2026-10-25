@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/260",
  "title": "Obwieszczenie Ministra Rozwoju Regionalnego z dnia 19 marca 2008 r. w sprawie listy projektów indywidualnych dla Programu Operacyjnego Innowacyjna Gospodarka na lata 2007-2013",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/260/text.pdf",
  "body": [
   {
@@ -54,7 +54,7 @@
    "body": [
     {
      "type": "text",
-     "text": "LISTA PROJEKTÓW INDYWIDUALNYCH DLA PROGRAMU OPERACYJNEGO INNOWACYJNA GOSPODARKA NA LATA 2007—2013 Monitor Polski Nr 27 — 770 — Poz. 260"
+     "text": "LISTA PROJEKTÓW INDYWIDUALNYCH DLA PROGRAMU OPERACYJNEGO INNOWACYJNA GOSPODARKA NA LATA 2007—2013"
     },
     {
      "type": "note",
@@ -4146,7 +4146,7 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw i Monitor Polski (spis treści) dostępne są w Internecie pod adresem www.cokprm.gov.pl Monitor Polski Nr 27 — 864 — Poz. 260"
+     "text": "Dziennik Ustaw i Monitor Polski (spis treści) dostępne są w Internecie pod adresem www.cokprm.gov.pl"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2000/589",
  "title": "Obwieszczenie Głównego Lekarza Weterynarii z dnia 25 sierpnia 2000 r. w sprawie rejestrów państw, z których może być przywożone i przewożone przez terytorium Rzeczypospolitej Polskiej mięso, środki spożywcze pochodzenia zwierzęcego, niejadalne surowce zwierzęce, pasze.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2000/589/text.pdf",
  "body": [
   {
@@ -149,7 +149,7 @@
     },
     {
      "type": "text",
-     "text": "Świeże mięso wołowe, baranie, kozie i końskie nie przeznaczone do konsumpcji Monitor Polski Nr 28 — 999 — Poz. 589 1 2 3 4 5 6 7 8 9 10 11 12 13 14"
+     "text": "Świeże mięso wołowe, baranie, kozie i końskie nie przeznaczone do konsumpcji 1 2 3 4 5 6 7 8 9 10 11 12 13 14"
     },
     {
      "type": "text",
@@ -261,7 +261,7 @@
     },
     {
      "type": "text",
-     "text": "GB Zjednoczone Królestwo Wielkiej Brytanii i IrlandiiPółnocnej — — X — X X X X — — — — Monitor Polski Nr 28 — 1000 — Poz. 589 Legenda:"
+     "text": "GB Zjednoczone Królestwo Wielkiej Brytanii i IrlandiiPółnocnej — — X — X X X X — — — — Legenda:"
     },
     {
      "type": "pkt",
@@ -278,7 +278,7 @@
      "children": [
       {
        "type": "text",
-       "text": "X — możliwość przywozu iprzewozu bez zezwolenia Głównego Lekarza Weterynarii, X* — przedżołądki muszą być poddane obróbce termicznej do temp. nie niższej niż 100°Cprzez co najmniej 5 min. lub nie niższej niż 90°Cprzez co najmniej 15 min., W* — możliwość przywozu iprzewozu jelit wyłącznie zlandów/prowincji wolnych od klasycznego pomoru świń, W** — zwykluczeniem Sardynii iSycylii, W*** — możliwość przywozu iprzewozu wyłącznie jelit, W**** — zwykluczeniem Sardynii. Monitor Polski Nr 28 — 1001 — Poz. 589"
+       "text": "X — możliwość przywozu iprzewozu bez zezwolenia Głównego Lekarza Weterynarii, X* — przedżołądki muszą być poddane obróbce termicznej do temp. nie niższej niż 100°Cprzez co najmniej 5 min. lub nie niższej niż 90°Cprzez co najmniej 15 min., W* — możliwość przywozu iprzewozu jelit wyłącznie zlandów/prowincji wolnych od klasycznego pomoru świń, W** — zwykluczeniem Sardynii iSycylii, W*** — możliwość przywozu iprzewozu wyłącznie jelit, W**** — zwykluczeniem Sardynii."
       }
      ]
     }
@@ -401,7 +401,7 @@
     },
     {
      "type": "text",
-     "text": "dzikiego ptactwa łownego Monitor Polski Nr 28 — 1002 — Poz. 589 1 2 3 4 5 6 7 8 9 10 11 12"
+     "text": "dzikiego ptactwa łownego 1 2 3 4 5 6 7 8 9 10 11 12"
     },
     {
      "type": "text",
@@ -463,7 +463,7 @@
       },
       {
        "type": "text",
-       "text": "A* — z Sycylii i Sardynii B—D. Monitor Polski Nr 28 — 1003 — Poz. 589"
+       "text": "A* — z Sycylii i Sardynii B—D."
       }
      ]
     },

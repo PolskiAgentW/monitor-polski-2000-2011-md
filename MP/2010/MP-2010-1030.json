@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/1030",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 23 listopada 2010 r. o wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1030/text.pdf",
  "body": [
   {
@@ -164,7 +164,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ GMIN I MIAST, W KTÓRYCH ZOSTANIE PRZEPROWADZONE W DNIU 5 GRUDNIA 2010 R. PONOWNE GŁOSOWANIE Monitor Polski Nr 88 — 4807 — Poz. 1030"
+     "text": "WYKAZ GMIN I MIAST, W KTÓRYCH ZOSTANIE PRZEPROWADZONE W DNIU 5 GRUDNIA 2010 R. PONOWNE GŁOSOWANIE"
     },
     {
      "type": "note",

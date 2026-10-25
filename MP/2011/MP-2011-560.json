@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/560",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Dunaju",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/560/text.pdf",
  "body": [
   {
@@ -40,222 +40,234 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ...... LL Lae es Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ......... Strategia Gospodarki Wodnej 2QQ0B r. 2... 1 1 Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. 2... te ee Aktualizacja Aktualizacja"
+     "type": "text",
+     "text": "Program rozwoju obszarów wiejskich na lata 2007—2013 ...... LL Lae es 3831 Strategia rozwoju społeczno-gospodarczego Polski Wschodniej do roku 2020 ......... Strategia Gospodarki Wodnej 2QQ0B r. 2..."
     },
     {
-     "type": "ocr",
-     "text": "Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... Regionalne dokumenty o charakterze planistycznym i rozwojowym .......-.--20005 Strategie rozwoju dla województw .. 1... 20... 1 1 Wojewódzkie programy ochrony środowiska i plany gospodarki odpadami .......... Wojewódzkie programy udrazniania rzek LLL aaa aa a Programy matej retencji LL Lana A Plan ochrony parku narodowego ... Loran aaa a Plany ochro"
-    },
+     "type": "text",
+     "text": "3832 3835 1 1 Projekt Polityki wodnej państwa do roku 2030 (z uwzględnieniem etapu 2016) ......... 3837 Krajowy Program Oczyszczania Ścieków Komunalnych z 2003r. 2... te ee 3841 Krajowego Programu Oczyszczania Ścieków Komunalnych z 2005 r. ....... Aktualizacja 3843 Krajowego Programu Oczyszczania Ścieków Komunalnych z 2009 r. ....... Aktualizacja 3845 Regionalne dokumenty o charakterze planistycznym i rozwojowym .......-.--20005 3847 Strategie rozwoju dla województw .. 1... 20... 1 1 3847 Wojewódzkie programy ochrony środowiska i plany gospodarki odpadami .......... 3848 Wojewódzkie programy udrażniania rzek LLL aaa aa a 3850 Programy małej retencji LL Lana A 3853 Plan ochrony parku narodowego ... Loran aaa a 3856 ny dla obszarów Natura 2000 ........-0 0.00002 ee ee Plany ochro 3858"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie .. LL. LL Loona ees ltura konsultacji społecznych . LL 2...",
+   "children": [
     {
-     "type": "ocr",
-     "text": "ny dla obszarów Natura 2000 ........-0 0.00002 ee ee"
-    },
+     "type": "text",
+     "text": "3860 3860 A Il tura konsultacji społecznych .. 2... 0 1 Ill tura konsultacji społecznych . 2... Podsumowanie wynikÓw ... 2... 0"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "Wykaz właściwych władz LL 1...",
+   "children": [
     {
-     "type": "ocr",
-     "text": "12. Krótka charakterystyka działań zastosowanych w celu informowania społeczeństwa, opis wyników i dokonanych na tej podstawie zmianw planie .. LL. LL Loona ees ltura konsultacji społecznych . LL 2... A Il tura konsultacji społecznych .. 2... 0 1 Ill tura konsultacji społecznych . 2... A Podsumowanie wynikOw ... 2... 0 A"
-    },
+     "type": "text",
+     "text": "3861 3863 A 3864 A 3867 A"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "14",
+   "path": "ust_14",
+   "text": "Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystazeniaPGW LLL anno oai 1 nej do sporząd 3881",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "15",
+   "path": "ust_15",
+   "text": "Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowaobszarze dorzecza Dunaju LL. LL Loona nora 1 1 nią wodami na",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "16",
+   "path": "ust_16",
+   "text": "Literatura ..",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel ..",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "13. Wykaz właściwych władz LL 1... A"
-    },
-    {
-     "type": "ocr",
-     "text": "14. Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporząd"
-    },
-    {
-     "type": "ocr",
-     "text": "zeniaPGW LLL anno oai 1"
-    },
-    {
-     "type": "ocr",
-     "text": "15. Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na"
-    },
-    {
-     "type": "ocr",
-     "text": "16. Literatura .."
-    },
-    {
-     "type": "ocr",
-     "text": "17. Spis tabel .."
-    },
-    {
-     "type": "ocr",
-     "text": "18. Spis rysunków"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Załączniki:"
     },
     {
-     "type": "ocr",
-     "text": "obszarze dorzecza Dunaju LL. LL Loona nora 1 1"
+     "type": "text",
+     "text": "Załącznik nr 1 — mapy:"
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 1 — mapy: e Mapa 1. e Mapa 2. e Mapa 3. e Mapa 4. e Mapa 5."
-    },
-    {
-     "type": "ocr",
-     "text": "e Mapa 6. e Mapa 7."
-    },
-    {
-     "type": "ocr",
-     "text": "e Mapa 8."
-    },
-    {
-     "type": "ocr",
-     "text": "e Mapa 9."
-    },
-    {
-     "type": "ocr",
-     "text": "e Mapa 10. * Mapa 11. * Mapa 12."
-    },
-    {
-     "type": "ocr",
-     "text": "e Mapa 13."
-    },
-    {
-     "type": "ocr",
-     "text": "* Mapa 14."
-    },
-    {
-     "type": "ocr",
-     "text": "Granica obszaru dorzecza Dunaju... . 2... a 11 Jednolite części wód powierzchniowych — obszar dorzecza Dunaju ....... Scalone części wód powierzchniowych — obszar dorzecza Dunaju ........ Jednolite części wód podziemnych — obszar dorzecza Dunaju . . . .. . .. ..... Typy jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Dunaju LL Leon A Ekoregiony — obszar dorzecza Dunaju.... 1. a a Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Dunaju LL LL nozna A Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzeczaDumaju LL. Leo oeonoe ow Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Dunaju. . 2... A Sieć monitoringu wód powierzchniowych — obszar dorzecza Dunaju . .. .... Sieć monitoringu wód podziemnych — obszar dorzecza Dunaju .......... Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Dunaju. ..... Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Dunaju «1... A Punktowe źródła zanieczyszczeń — obszar dorzecza Dunaju ............"
-    },
-    {
-     "type": "ocr",
-     "text": "3831 3832 3835 3837 3841 3843 3845 3847 3847 3848 3850 3853 3856 3858"
-    },
-    {
-     "type": "ocr",
-     "text": "3860 3860 3861 3863 3864 3867"
-    },
-    {
-     "type": "ocr",
-     "text": "3881"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "3884 3890 3893 3894"
     },
     {
-     "type": "ocr",
-     "text": "3895 3896 3897 3898"
+     "type": "text",
+     "text": "Granica obszaru dorzecza Dunaju... . 2... a 11 e Mapa 1. e Mapa 2."
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "3895 Jednolite części wód powierzchniowych — obszar dorzecza Dunaju ....... e Mapa 3."
+    },
+    {
+     "type": "text",
+     "text": "3896 Scalone części wód powierzchniowych — obszar dorzecza Dunaju ........ 3897 Jednolite części wód podziemnych — obszar dorzecza Dunaju . . . .. . .. ..... e Mapa 4. e Mapa 5."
+    },
+    {
+     "type": "text",
+     "text": "3898 Typy jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Dunaju LL Leon A e Mapa 6."
+    },
+    {
+     "type": "text",
+     "text": "Ekoregiony — obszar dorzecza Dunaju.... e Mapa 7."
+    },
+    {
+     "type": "text",
      "text": "3899 3900"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "a a Ocena stanu jednolitych części wód powierzchniowych rzecznych — obszar dorzecza Dunaju LL LL nozna A e Mapa 8.",
+   "children": [
+    {
+     "type": "text",
+     "text": "3901 Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzeczaDumaju LL. Leo oeonoe ow e Mapa 9."
     },
     {
-     "type": "ocr",
-     "text": "3901"
+     "type": "text",
+     "text": "Ocena stanu chemicznego jednolitych"
     },
     {
-     "type": "ocr",
-     "text": "3902"
+     "type": "text",
+     "text": "3902 części wód podziemnych — obszar dorzecza Dunaju. . 2... A e Mapa 10."
     },
     {
-     "type": "ocr",
-     "text": "3903 3904 3905"
+     "type": "text",
+     "text": "3903 Sieć monitoringu wód powierzchniowych — obszar dorzecza Dunaju . .. .... * Mapa 11."
     },
     {
-     "type": "ocr",
-     "text": "3906"
+     "type": "text",
+     "text": "3904 Sieć monitoringu wód podziemnych — obszar dorzecza Dunaju .......... * Mapa 12."
     },
     {
-     "type": "ocr",
-     "text": "3907 3908"
+     "type": "text",
+     "text": "3905 Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Dunaju. ..... e Mapa 13."
+    },
+    {
+     "type": "text",
+     "text": "3906 Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Dunaju «1... * Mapa 14."
+    },
+    {
+     "type": "text",
+     "text": "3907 A Punktowe źródła zanieczyszczeń — obszar dorzecza Dunaju ............ 3908"
     },
     {
      "type": "note",
-     "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód... LL La amora 1 11"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Załącznik nr 3 — Mapy do celów planistycznych: e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa e Mapa e Mapa e Mapa e Mapa e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "e Mapa"
     },
     {
-     "type": "ocr",
-     "text": "e Mapa"
+     "type": "text",
+     "text": "e Mapa nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
     },
     {
-     "type": "ocr",
-     "text": "nr 1. nr 2. nr 3. nr 4. nr 5. nr 6. nr 7. nr 8. nr 9. nr 10."
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 11. nr 12. nr 13. nr 14. nr 15. nr 16."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 17."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 18."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 19."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "nr 20."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Granice obszarów dorzeczy i regionów wodnych .. . . LLL Lau oaa 2 1 1 Jednolite części wód powierzchniowych .. LL oaza nossa eae Scalone części wód powierzchniowych . . LL Lozanna a 1 1 Jednolite części wód podziemnych . . LL Luzon ee 11 Typy jednolitych części wód powierzchniowych rzecznych ........... Typy jednolitych części wód powierzchniowych jeziornych ........... Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych Ekoregiony .. 2... A Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowychiprzybrzeznych ... 2... A Ocena stanu ilościowego jednolitych części wód podziemnych ......... Ocena stanu chemicznego jednolitych części wód podziemnych ........ Sieć monitoringu wód powierzchniowych . LL Lazer soon r 1 Sieć monitoringu wód podziemnych .... Lazo 00002 ee eee Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .. . . . 1. 2 42222221 Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia .... - a - 2 ae 4 11 1 Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL ooo A Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ...... Punktowe i obszarowe źródła zanieczyszczeń ..... LL LLL ee"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3909"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3911 3912 3913 3914 3915 3916 3917 3918 3919"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3920 3921 3922 3923 3924 3925"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3926"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3927"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3928"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3929 3930"
     }
    ]
@@ -899,11 +911,7 @@
     },
     {
      "type": "text",
-     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT , ChZT , N , P , zawiesina ogólna) [kg/rok] przedstawiono poniżej [oszacowano na 5 Cr og og"
-    },
-    {
-     "type": "text",
-     "text": "podstawie danych z GUS, 2007]."
+     "text": "Wielkość ładunku zanieczyszczeń dopływających do wód z obszarów nieobjętych kanalizacją (BZT₅, ChZTCr, Nog, Pog, zawiesina ogólna) [kg/rok] przedstawiono poniżej [oszacowano na podstawie danych z GUS, 2007]."
     },
     {
      "type": "text",
@@ -915,7 +923,7 @@
     },
     {
      "type": "text",
-     "text": "ChZT Cr 911 184,4 kg/rok"
+     "text": "ChZTCr 911 184,4 kg/rok"
     },
     {
      "type": "text",
@@ -939,7 +947,7 @@
     },
     {
      "type": "text",
-     "text": "ChZT Cr 2 378,6 kg/rok/km²"
+     "text": "ChZTCr 2 378,6 kg/rok/km²"
     },
     {
      "type": "text",
@@ -1891,7 +1899,11 @@
     },
     {
      "type": "text",
-     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 Monitor Polski Nr 51 — 3772 — Poz. 560 krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych. Monitor Polski Nr 51 — 3773 — Poz. 560 Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
+     "text": "Chlorki (mg Cl/l) ≤ 200 300 300 krzemianowych, małych rzek wyżynnych węglanowych, średnich rzek wyżynnych- zachodnich, potoków fliszowych, małych rzek fliszowych, średnich rzek wyżynnych- wschodnich;⁵ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, potoków nizinnych żwirowych, potoków organicznych;⁶ Dla rzek nizinnych piaszczysto- gliniastych, rzek nizinnych żwirowych, małej i średniej rzeki na obszarze będącym pod wpływem procesów torfotwórczych oraz cieków łączących jeziora; obszar zlewni powinien być mniejszy niż 5000 km²;⁷ Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto- gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora;⁸ Dla potoków nizinnych żwirowych oraz rzek nizinnych żwirowych."
+    },
+    {
+     "type": "text",
+     "text": "Cele środowiskowe dla wód podziemnych ustalonych na mocy Art. 4 RDW"
     },
     {
      "type": "text",
@@ -2079,7 +2091,7 @@
     },
     {
      "type": "text",
-     "text": "Fosforany (mgPO /l) 0,01 - 1 0,5* 0,5* 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
+     "text": "Fosforany (mgPO₄/l) 0,01 - 1 0,5* ) 0,5* ) 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005 Kobalt (mgCo/l) 0 – 0,001 0,02 0,05 0,2"
     },
     {
      "type": "text",
@@ -2111,7 +2123,7 @@
     },
     {
      "type": "text",
-     "text": "Siarczany (mgSO /l) 5 – 60 60 250* 250* 4 ) )"
+     "text": "Siarczany (mgSO₄/l) 5 – 60 60 250* ) 250* )"
     },
     {
      "type": "text",
@@ -3203,7 +3215,7 @@
     },
     {
      "type": "text",
-     "text": "Ilość JCWPd 3 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania nie dotyczy działań podstawowych Źródła finansowania nie dotyczy działań uzupełniających Monitor Polski Nr 51 — 3806 — Poz. 560"
+     "text": "Ilość JCWPd 3 Koszty działań podstawowych tożsame z działaniami dla SCWP Koszty działań uzupełniających nie dotyczy Źródła finansowania nie dotyczy działań podstawowych Źródła finansowania nie dotyczy działań uzupełniających"
     }
    ]
   },
@@ -9908,102 +9920,110 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 160 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 160 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 1."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 2."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 3."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 4."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 5."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 6."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 7. Tabela 8. Tabela 9. Tabela 10. Tabela 11. Tabela 12."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 13."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 14. Tabela 15."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 16. Tabela 17. Tabela 18. Tabela 19. Tabela 20. Tabela 21. Tabela 22. Tabela 23."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel",
+   "children": [
+    {
+     "type": "text",
+     "text": "Oszacowany łączny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji.........-0..-.0 002222 e a 1 1 Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacji w przeliczeniu na km? powierzchni dorzecza ... 2... ee Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ....... Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód, ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych.............. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych Na obszarze dorzecza LL a onoroeeozonon A Struktura przedsiębiorstw na obszarze dorzecza Dunaju . . ... . i. u aaa 24121 Koszty netto ochrony wód w przemyśle ... LLL ee Koszty środowiskowe i zasobowe w przemyśle ........-.-00 0002 eee eee Wyniki oszacowania kosztów środowiskowych dla roku 2006 . . . . . «. . «. 1 «1 2 2.1.1 Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Dunaju — wody powierzchniowe ... LL 2... ce es Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Dunaju — wody podziemne ..... 2... . 2. A Zestawienie organów właściwych w sprawach gospodarowania wodami ......... Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania. LLL ao AA Organy współpracujące z Prezesem KZGW w zakresie wdrażania RDW .......... Podległość dyrektorów RZGW, siedziba oraz strony www ... 1. aoa aa 1 Akty prawne ustanawiające statuty RZGW oraz przynależne regiony wodne ....... Umowy dwustronne... 2... 1. A Umowy wielostronne ... 2... 2.2.0. 2 A Dane adresowe KZGW .. 1... Lorenzo A Dane adresowe RZGW na obszarze dorzecza Dunaju . . . . i... LL Laos ea eee Dane adresowe GIOS ... LL aa aaa aaa a aa"
     },
     {
-     "type": "ocr",
-     "text": "17. Spis tabel"
-    },
-    {
-     "type": "ocr",
-     "text": "Oszacowany łączny ładunek zanieczyszczeń w ściekach nieoczyszczonych, pochodzący od mieszkańców niepodłączonych do kanalizacji.........-0..-.0 002222 e a 1 1 Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacji w przeliczeniu na km? powierzchni dorzecza ... 2... ee Wartości graniczne wybranych wskaźników wód odnoszących się do dobrego i wyższego niż dobry stanu ekologicznego jednolitych części wód powierzchniowych ....... Wartości graniczne wybranych wskaźników jakości biologicznej i fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód powierzchniowych płynących na obszarze dorzecza, uznanych za naturalne oraz silnie zmienione, bądź sztuczne . Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód, ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych.............. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych Na obszarze dorzecza LL a onoroeeozonon A Struktura przedsiębiorstw na obszarze dorzecza Dunaju . . ... . i. u aaa 24121 Koszty netto ochrony wód w przemyśle ... LLL ee Koszty środowiskowe i zasobowe w przemyśle ........-.-00 0002 eee eee Wyniki oszacowania kosztów środowiskowych dla roku 2006 . . . . . «. . «. 1 «1 2 2.1.1 Podział odpowiedzialności za koszty środowiskowe w roku 2006 .............. Podsumowanie programów działań w latach 2010—2015 na obszarze dorzecza Dunaju — wody powierzchniowe ... LL 2... ce es Podsumowanie programow dziatan w latach 2010—2015 na obszarze dorzecza Dunaju — wody podziemne ..... 2... . 2. A Zestawienie organów właściwych w sprawach gospodarowania wodami ......... Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania. LLL ao AA Organy współpracujące z Prezesem KZGW w zakresie wdrażania RDW .......... Podległość dyrektorów RZGW, siedziba oraz strony www ... 1. aoa aa 1 Akty prawne ustanawiające statuty RZGW oraz przynależne regiony wodne ....... Umowy dwustronne... 2... 1. A Umowy wielostronne ... 2... 2.2.0. 2 A Dane adresowe KZGW .. 1... Lorenzo A Dane adresowe RZGW na obszarze dorzecza Dunaju . . . . i... LL Laos ea eee Dane adresowe GIOS ... LL aa aaa aaa a aa"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "3751"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3751"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3771"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3772"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3778"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3778 3781 3787 3787 3791 3791"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3806"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3806 3867"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3867 3872 3873 3873 3880 3880 3881 3881 3882"
     },
     {
      "type": "note",
-     "text": "[Strona 161 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 161 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "18. Spis rysunkow"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Dunaju ... 2... 2... ee 3743 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891 —2000 3753 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000............. 3754 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 scenariusz +1°C ... 3754"
     }
    ]
@@ -10013,10 +10033,6 @@
   {
    "heading": "Załączniki do Planu gospodarowania wodami na obszarze dorzecza Dunaju z dnia 22 lutego 2011 r. (poz. 560) Załącznik nr 1",
    "body": [
-    {
-     "type": "text",
-     "text": "Monitor Polski Nr 51 — 3895 — Poz. 560"
-    },
     {
      "type": "note",
      "text": "[Na stronie 162 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
@@ -10744,7 +10760,7 @@
     },
     {
      "type": "text",
-     "text": "PLRW1200128222949 Krzywań GW1001 region wodny Czarnej Orawy 1000 obszar dorzecza RZGW w Krakowie Karpaty (10) Karpaty (10) Potok fliszowy (12) naturalna część wód zły niezagrożona - - Dunaju PLRW1200128222989 Jeleśnia na granicy PL i SK GW1001 region wodny Czarnej Orawy 1000 obszar dorzecza RZGW w Krakowie Karpaty (10) Karpaty (10) Potok fliszowy (12) naturalna część wód zły niezagrożona - - Dunaju Monitor Polski Nr 51 — 3909 — Poz. 560 Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Ocena ryzyka Derogacje Europejski kod JCWPd Nazwa Region wodny Obszar dorzecza Regionalny Zarząd Gospodarki Ekoregion ilościowego chemicznego JCWPd Kod Nazwa Wodnej (RZGW)"
+     "text": "PLRW1200128222949 Krzywań GW1001 region wodny Czarnej Orawy 1000 obszar dorzecza RZGW w Krakowie Karpaty (10) Karpaty (10) Potok fliszowy (12) naturalna część wód zły niezagrożona - - Dunaju PLRW1200128222989 Jeleśnia na granicy PL i SK GW1001 region wodny Czarnej Orawy 1000 obszar dorzecza RZGW w Krakowie Karpaty (10) Karpaty (10) Potok fliszowy (12) naturalna część wód zły niezagrożona - - Dunaju Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Ocena ryzyka Derogacje Europejski kod JCWPd Nazwa Region wodny Obszar dorzecza Regionalny Zarząd Gospodarki Ekoregion ilościowego chemicznego JCWPd Kod Nazwa Wodnej (RZGW)"
     },
     {
      "type": "text",
@@ -10752,7 +10768,7 @@
     },
     {
      "type": "text",
-     "text": "PLGW1210145 145 region wodny Czadeczki 1000 obszar dorzecza Dunaju RZGW w Gliwicach Karpaty (10) dobry dobry niezagrożona - PLGW2200161 161 region wodny Czarnej Orawy 1000 obszar dorzecza Dunaju RZGW w Krakowie Karpaty (10) dobry dobry niezagrożona - Monitor Polski Nr 51 — 3910 — Poz. 560"
+     "text": "PLGW1210145 145 region wodny Czadeczki 1000 obszar dorzecza Dunaju RZGW w Gliwicach Karpaty (10) dobry dobry niezagrożona - PLGW2200161 161 region wodny Czarnej Orawy 1000 obszar dorzecza Dunaju RZGW w Krakowie Karpaty (10) dobry dobry niezagrożona -"
     },
     {
      "type": "note",
@@ -10765,7 +10781,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Mapa nr 1. Monitor Polski Nr 51 — 3911 — Poz. 560"
+     "text": "Mapa nr 1."
     },
     {
      "type": "note",
@@ -10773,7 +10789,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 2. Monitor Polski Nr 51 — 3912 — Poz. 560"
+     "text": "Mapa nr 2."
     },
     {
      "type": "note",
@@ -10781,7 +10797,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 3. Monitor Polski Nr 51 — 3913 — Poz. 560"
+     "text": "Mapa nr 3."
     },
     {
      "type": "note",
@@ -10789,7 +10805,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 4. Monitor Polski Nr 51 — 3914 — Poz. 560"
+     "text": "Mapa nr 4."
     },
     {
      "type": "note",
@@ -10797,7 +10813,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 5. Monitor Polski Nr 51 — 3915 — Poz. 560"
+     "text": "Mapa nr 5."
     },
     {
      "type": "note",
@@ -10805,7 +10821,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 6. Monitor Polski Nr 51 — 3916 — Poz. 560"
+     "text": "Mapa nr 6."
     },
     {
      "type": "note",
@@ -10813,7 +10829,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 7. Monitor Polski Nr 51 — 3917 — Poz. 560"
+     "text": "Mapa nr 7."
     },
     {
      "type": "note",
@@ -10841,7 +10857,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 9. Monitor Polski Nr 51 — 3919 — Poz. 560"
+     "text": "Mapa nr 9."
     },
     {
      "type": "note",
@@ -10885,7 +10901,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 11. Monitor Polski Nr 51 — 3921 — Poz. 560"
+     "text": "Mapa nr 11."
     },
     {
      "type": "note",
@@ -10893,7 +10909,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 12. Monitor Polski Nr 51 — 3922 — Poz. 560"
+     "text": "Mapa nr 12."
     },
     {
      "type": "note",
@@ -10901,7 +10917,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 13. Monitor Polski Nr 51 — 3923 — Poz. 560"
+     "text": "Mapa nr 13."
     },
     {
      "type": "note",
@@ -10909,7 +10925,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 14. Monitor Polski Nr 51 — 3924 — Poz. 560"
+     "text": "Mapa nr 14."
     },
     {
      "type": "note",
@@ -10917,7 +10933,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 15. Monitor Polski Nr 51 — 3925 — Poz. 560"
+     "text": "Mapa nr 15."
     },
     {
      "type": "note",
@@ -10925,7 +10941,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 16. Monitor Polski Nr 51 — 3926 — Poz. 560"
+     "text": "Mapa nr 16."
     },
     {
      "type": "note",
@@ -10933,7 +10949,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 17. Monitor Polski Nr 51 — 3927 — Poz. 560"
+     "text": "Mapa nr 17."
     },
     {
      "type": "note",
@@ -10941,7 +10957,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 18. Monitor Polski Nr 51 — 3928 — Poz. 560"
+     "text": "Mapa nr 18."
     },
     {
      "type": "note",
@@ -10949,7 +10965,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 19. Monitor Polski Nr 51 — 3929 — Poz. 560"
+     "text": "Mapa nr 19."
     },
     {
      "type": "note",
@@ -10957,7 +10973,11 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 20. Monitor Polski Nr 51 — 3930 — Poz. 560 — 3931 —"
+     "text": "Mapa nr 20."
+    },
+    {
+     "type": "text",
+     "text": "— 3931 —"
     },
     {
      "type": "note",
@@ -10965,7 +10985,7 @@
     },
     {
      "type": "text",
-     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Dunaju Tabela 2. Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacji w przeliczeniu na km² powierzchni dorzecza Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Katowice Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony termiczne Suma temperatury ≥10°C Chłodny 1600° – 2000° Umiarkowanie chłodny 2000° – 2400° Umiarkowanie ciepły 2400° – 2800° Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony wilgotnościowe Wartości współczynnika hydrotermicznego Umiarkowanie suchy 1,0 – 1,3 Optymalnego uwilgotnienia 1,3 – 1,6 Wilgotny > 1,6 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczoklimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych H ) ) H ) ) 4 ) )"
+     "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Dunaju Tabela 2. Średni ładunek zanieczyszczeń pochodzący od mieszkańców niepodłączonych do kanalizacji w przeliczeniu na km² powierzchni dorzecza Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891-2000 Źródło: Zawora T., Ziernicka A. 2003. Precipitation variability in time in Poland in the light of multi-annual mean values (1891-2000). Studia Geograficzne 75 Acta Universitatis Wratislaviensis No 2542, Wrocław 2003, 123- 128. Katowice Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony termiczne Suma temperatury ≥10°C Chłodny 1600° – 2000° Umiarkowanie chłodny 2000° – 2400° Umiarkowanie ciepły 2400° – 2800° Ciepły 2800° – 3200° Bardzo ciepły 3200° – 3600° Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczo-klimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 Racibórz Kraków Tarnów Rzeszów Bielsko-Biała Przemyśl Nowy Sącz Lesko Regiony wilgotnościowe Wartości współczynnika hydrotermicznego Umiarkowanie suchy 1,0 – 1,3 Optymalnego uwilgotnienia 1,3 – 1,6 Wilgotny > 1,6 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971-2000 scenariusz +1°C Źródło: Ziernicka-Wojtaszek A. 2009. Weryfikacja rolniczoklimatycznych regionalizacji Polski w świetle współczesnych zmian klimatu. Acta Agrophysica. 13(3), 803-812 ¹ Wskaźnik nieuwzględniany w klasyfikacji wód (warunki referencyjne w trakcie ustalania). ¹ Dla rzek nizinnych piaszczysto - gliniastych, rzek nizinnych żwirowych o pow. zlewni ≥ 5000 km², małych i średnich rzek na obszarze będącym pod wpływem procesów torfotwórczych, a także cieków łączących jeziora;² Dla wielkich rzek nizinnych;³ Dla potoków tatrzańskich krzemianowych i węglanowych oraz potoków sudeckich;⁴ Dla potoków wyżynnych krzemianowych z substratem gruboziarnistym, potoków wyżynnych krzemianowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem drobnoziarnistym, potoków wyżynnych węglanowych z substratem gruboziarnistym, małych rzek wyżynnych H ) ) H ) )"
     },
     {
      "type": "pkt",

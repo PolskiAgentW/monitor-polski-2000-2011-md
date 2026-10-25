@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/119",
  "title": "Obwieszczenie Prezesa Polskiego Komitetu Normalizacyjnego z dnia 18 lutego 2010 r. w sprawie wykazu norm zharmonizowanych",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/119/text.pdf",
  "body": [
   {
@@ -59,28 +59,28 @@
    "type": "pkt",
    "num": "6",
    "path": "pkt_6",
-   "text": "d yrektywą 97/23/WE wdrożoną rozporządzeniem Ministra Gospodarki z dnia 21 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. Nr 263, poz. 2200) — wykaz stanowi załącznik nr 6 do obwieszczenia;",
+   "text": "dyrektywą 97/23/WE wdrożoną rozporządzeniem Ministra Gospodarki z dnia 21 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. Nr 263, poz. 2200) — wykaz stanowi załącznik nr 6 do obwieszczenia;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "7",
    "path": "pkt_7",
-   "text": "d yrektywą 95/16/WE wdrożoną rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. Nr 263, poz. 2198 oraz z 2008 r. Nr 203, poz. 1270) — wykaz stanowi załącznik nr 7 do obwieszczenia;",
+   "text": "dyrektywą 95/16/WE wdrożoną rozporządzeniem Ministra Gospodarki z dnia 8 grudnia 2005 r. w sprawie zasadniczych wymagań dla dźwigów i ich elementów bezpieczeństwa (Dz. U. Nr 263, poz. 2198 oraz z 2008 r. Nr 203, poz. 1270) — wykaz stanowi załącznik nr 7 do obwieszczenia;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "8",
    "path": "pkt_8",
-   "text": "d yrektywą 94/25/WE wdrożoną rozporządzeniem Ministra Gospodarki i Pracy z dnia 19 listopada 2004 r. w sprawie zasadniczych wymagań dla rekreacyjnych jednostek pływających (Dz. U. Nr 258, poz. 2584) — wykaz stanowi załącznik nr 8 do obwieszczenia;",
+   "text": "dyrektywą 94/25/WE wdrożoną rozporządzeniem Ministra Gospodarki i Pracy z dnia 19 listopada 2004 r. w sprawie zasadniczych wymagań dla rekreacyjnych jednostek pływających (Dz. U. Nr 258, poz. 2584) — wykaz stanowi załącznik nr 8 do obwieszczenia;",
    "children": []
   },
   {
    "type": "pkt",
    "num": "9",
    "path": "pkt_9",
-   "text": "d yrektywą 94/9/WE wdrożoną rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. Nr 263, poz. 2203) — wykaz stanowi załącznik nr 9 do obwieszczenia;",
+   "text": "dyrektywą 94/9/WE wdrożoną rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. Nr 263, poz. 2203) — wykaz stanowi załącznik nr 9 do obwieszczenia;",
    "children": []
   },
   {
@@ -133,7 +133,7 @@
    "type": "pkt",
    "num": "16",
    "path": "pkt_16",
-   "text": "d yrektywą 88/378/EWG wdrożoną rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 14 listopada 2003 r. w sprawie zasadniczych wymagań dla zabawek (Dz. U. Nr 210, poz. 2045 oraz z 2008 r. Nr 110, poz. 703) — wykaz stanowi załącznik nr 16 do obwieszczenia.",
+   "text": "dyrektywą 88/378/EWG wdrożoną rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 14 listopada 2003 r. w sprawie zasadniczych wymagań dla zabawek (Dz. U. Nr 210, poz. 2045 oraz z 2008 r. Nr 110, poz. 703) — wykaz stanowi załącznik nr 16 do obwieszczenia.",
    "children": [
     {
      "type": "text",
@@ -148,7 +148,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 2006/42/WE Monitor Polski Nr 11 — 369 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 2006/42/WE"
     },
     {
      "type": "note",
@@ -5649,7 +5649,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 2006/95/WE Monitor Polski Nr 11 — 421 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 2006/95/WE"
     },
     {
      "type": "note",
@@ -6022,7 +6022,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 2004/108/WE Monitor Polski Nr 11 — 426 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 2004/108/WE"
     },
     {
      "type": "note",
@@ -6079,7 +6079,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 1999/5/WE Monitor Polski Nr 11 — 428 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 1999/5/WE"
     },
     {
      "type": "note",
@@ -6728,7 +6728,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 98/79/WE Monitor Polski Nr 11 — 437 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 98/79/WE"
     },
     {
      "type": "note",
@@ -6773,7 +6773,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 97/23/WE Monitor Polski Nr 11 — 439 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 97/23/WE"
     },
     {
      "type": "note",
@@ -7062,7 +7062,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 95/16/WE Monitor Polski Nr 11 — 443 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 95/16/WE"
     },
     {
      "type": "note",
@@ -7075,7 +7075,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 94/25/WE Monitor Polski Nr 11 — 444 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 94/25/WE"
     },
     {
      "type": "note",
@@ -7088,7 +7088,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 94/9/WE Monitor Polski Nr 11 — 445 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 94/9/WE"
     },
     {
      "type": "note",
@@ -7101,7 +7101,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 93/42/EWG Monitor Polski Nr 11 — 446 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 93/42/EWG"
     },
     {
      "type": "note",
@@ -8030,7 +8030,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 92/75/EWG Monitor Polski Nr 11 — 458 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 92/75/EWG"
     },
     {
      "type": "note",
@@ -8043,7 +8043,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 90/385/EWG Monitor Polski Nr 11 — 459 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 90/385/EWG"
     },
     {
      "type": "note",
@@ -8208,7 +8208,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 90/396/EWG Monitor Polski Nr 11 — 462 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 90/396/EWG"
     },
     {
      "type": "note",
@@ -8437,7 +8437,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 89/106/EWG Monitor Polski Nr 11 — 465 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 89/106/EWG"
     },
     {
      "type": "note",
@@ -8998,7 +8998,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 89/686/EWG Monitor Polski Nr 11 — 472 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 89/686/EWG"
     },
     {
      "type": "note",
@@ -9011,7 +9011,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 88/378/EWG Monitor Polski Nr 11 — 473 — Poz. 119"
+     "text": "WYKAZ POLSKICH NORM ZHARMONIZOWANYCH — DYREKTYWA 88/378/EWG"
     },
     {
      "type": "note",

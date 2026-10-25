@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/567",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Ücker",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/567/text.pdf",
  "body": [
   {
@@ -40,99 +40,59 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "13. 14."
+     "type": "text",
+     "text": "Il tura konsultacji społecznych .. 2... 0 1 4596 Ill tura konsultacji społecznych . LL Looe A Podsumowanie wynikÓw LLL 2... 0"
     },
     {
-     "type": "ocr",
-     "text": "15."
+     "type": "text",
+     "text": "4598 4599 A Wykaz właściwych władz LL 2... owoo A 13."
     },
     {
-     "type": "ocr",
-     "text": "16. 17. 18."
+     "type": "text",
+     "text": "4601 Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej 14. do sporzadzeniaPGW ..... 2... ee A 4614 Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowa- 15. nia wodami na obszarze dorzecza Ucker .. 2... 2. 4617 2 a 1 Literatura Lala A 16."
     },
     {
-     "type": "ocr",
-     "text": "Il tura konsultacji społecznych .. 2... 0 1 Ill tura konsultacji społecznych . LL Looe A Podsumowanie wynikOw LLL 2... 0 A Wykaz właściwych władz LL 2... owoo A Punkty kontaktowe i procedury pozyskiwania źródłowej dokumentacji i informacji wykorzystanej do sporzadzeniaPGW ..... 2... ee A Podsumowanie strategicznej oceny oddziaływania na środowisko projektu Planu gospodarowania wodami na obszarze dorzecza Ucker .. 2... 2. 2 a 1 Literatura Lala A Spistabel LL. 2... Spis rysunkOW 2. A"
+     "type": "text",
+     "text": "4621 Spistabel LL. 2... 17. Spis rysunkÓW 2. 18."
     },
     {
-     "type": "ocr",
-     "text": "Zataczniki:"
+     "type": "text",
+     "text": "Załączniki:"
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 1 — mapy: «Mapa 1. Granica obszaru dorzecza Ucker . 1... oe a « Mapa 2. Scalone części wód powierzchniowych — obszar dorzecza Ucker .......... « Mapa 3. Jednolite części wód podziemnych — obszar dorzecza Ucker . . . . . ........ «Mapa 4. Ekoregiony — obszar dorzecza Ucker . 2... 11 * Mapa 5. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Ucker aaa A * Mapa 6. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Ucker leo A * Mapa 7. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Ucker ..... e Mapa 8. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Ucker LL Loona AA"
+     "type": "text",
+     "text": "Załącznik nr 1 — mapy: «Mapa 1. Granica obszaru dorzecza Ucker . 1..."
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "4624 4625 A"
+    },
+    {
+     "type": "text",
+     "text": "4626 oe a « Mapa 2. Scalone części wód powierzchniowych — obszar dorzecza Ucker .......... 4627 « Mapa 3. Jednolite części wód podziemnych — obszar dorzecza Ucker . . . . . ........ 4628 «Mapa 4. Ekoregiony — obszar dorzecza Ucker . 2... 11 4629 * Mapa 5. Ocena stanu ilościowego jednolitych części wód podziemnych — obszar dorzecza Ucker aaa A 4630 * Mapa 6. Ocena stanu chemicznego jednolitych części wód podziemnych — obszar dorzecza Ucker leo A 4631 * Mapa 7. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia — obszar dorzecza Ucker ..... 4632 e Mapa 8. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie — obszar dorzecza Ucker LL Loona AA 4633"
+    },
+    {
+     "type": "text",
      "text": "Załącznik nr 2 — Charakterystyka jednolitych części wód .........2.- 0002 eee ee"
     },
     {
-     "type": "ocr",
-     "text": "Załącznik nr 3 — Mapy do celów planistycznych: e Mapa nr 1. Granice obszarów dorzeczy i regionów wodnych .........-.-.-.22+-. eMapa nr 2. Jednolite części wód powierzchniowych ... LLL Lao ora 0200 1 «|Mapa nr3. Scalone części wód powierzchniowych .. LLL Lua 522 1 «|Mapa nr4. Jednolite części wód podziemnych ..... LL Leone r ee eee «Mapanr5. Typy jednolitych części wód powierzchniowych rzecznych ........... «|Mapa nr6. Typy jednolitych części wód powierzchniowych jeziornych ........... *Mapanr7. Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych eMapanr8. Ekoregiony . LL LL nozna A «|Mapa nr9. Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... e Mapa nr 10. Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych iprzybrzeżnych .. 2... a a 1 e Mapa nr 11. Ocena stanu ilościowego jednolitych części wód podziemnych ......... e Mapa nr 12. Ocena stanu chemicznego jednolitych części wód podziemnych ........ e Mapa nr 13. Sieć monitoringu wód powierzchniowych . LL Lazer aero a 1 1 e Mapa nr 14. Sieć monitoringu wód podziemnych ..... LL Luzon sora 1 1 e Mapa nr 15. Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych e Mapa nr 16. Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . 1 «1 1 1 222211. e Mapa nr 17. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . 1 aa ra 4111 e Mapa nr 18. Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL ono A e Mapa nr 19. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ..... . e Mapa nr 20. Punktowe i obszarowe źródła zanieczyszczeń .... . La Laura aa 211 1"
+     "type": "text",
+     "text": "Załącznik nr 3 — Mapy do celów planistycznych:"
     },
     {
-     "type": "ocr",
-     "text": "4596 4598 4599 4601"
-    },
-    {
-     "type": "ocr",
-     "text": "4614"
-    },
-    {
-     "type": "ocr",
-     "text": "4617 4621 4624 4625"
-    },
-    {
-     "type": "ocr",
-     "text": "4626 4627 4628 4629"
-    },
-    {
-     "type": "ocr",
-     "text": "4630"
-    },
-    {
-     "type": "ocr",
-     "text": "4631"
-    },
-    {
-     "type": "ocr",
-     "text": "4632"
-    },
-    {
-     "type": "ocr",
-     "text": "4633"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "4634"
     },
     {
-     "type": "ocr",
-     "text": "4635 4636 4637 4638 4639 4640 4641 4642 4643"
+     "type": "text",
+     "text": "e Mapa nr 1. Granice obszarów dorzeczy i regionów wodnych .........-.-.-.22+-. 4635 eMapa nr 2. Jednolite części wód powierzchniowych ... LLL Lao ora 0200 1 4636 «|Mapa nr3. Scalone części wód powierzchniowych .. LLL Lua 522 1 4637 «|Mapa nr4. Jednolite części wód podziemnych ..... LL Leone r ee eee 4638 «Mapanr5. Typy jednolitych części wód powierzchniowych rzecznych ........... 4639 «|Mapa nr6. Typy jednolitych części wód powierzchniowych jeziornych ........... 4640 *Mapanr7. Typy jednolitych części wód powierzchniowych przybrzeżnych i przejściowych 4641 eMapanr8. Ekoregiony . LL LL nozna A 4642 «|Mapa nr9. Ocena stanu jednolitych części wód powierzchniowych rzecznych ....... 4643 e Mapa nr 10. Ocena stanu jednolitych części wód powierzchniowych jeziornych, przejściowych i przybrzeżnych .. 2... 4644 a a 1 e Mapa nr 11. Ocena stanu ilościowego jednolitych części wód podziemnych ......... 4645 e Mapa nr 12. Ocena stanu chemicznego jednolitych części wód podziemnych ........ 4646 e Mapa nr 13. Sieć monitoringu wód powierzchniowych . LL Lazer aero a 1 1 e Mapa nr 14. Sieć monitoringu wód podziemnych"
     },
     {
-     "type": "ocr",
-     "text": "4644 4645 4646 4647 4648 4649"
-    },
-    {
-     "type": "ocr",
-     "text": "4650"
-    },
-    {
-     "type": "ocr",
-     "text": "4651"
-    },
-    {
-     "type": "ocr",
-     "text": "4652"
-    },
-    {
-     "type": "ocr",
-     "text": "4653 4654"
+     "type": "text",
+     "text": "4647 ..... LL Luzon sora 1 1 4648 e Mapa nr 15. Wykaz wód przeznaczonych do celów rekreacyjnych, w tym kąpieliskowych 4649 e Mapa nr 16. Wykaz wód powierzchniowych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . 1 «1 1 1 222211. 4650 e Mapa nr 17. Wykaz wód podziemnych przeznaczonych do poboru wody w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia . . . . 1 aa ra 4111 4651 e Mapa nr 18. Obszary szczególnie narażone na zanieczyszczenia związkami azotu ze źródeł rolniczych LL ono A 4652 e Mapa nr 19. Obszary przeznaczone do ochrony siedlisk lub gatunków, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie ..... . 4653 e Mapa nr 20. Punktowe i obszarowe źródła zanieczyszczeń .... . La Laura aa 211 1 4654"
     }
    ]
   },
@@ -516,15 +476,11 @@
     },
     {
      "type": "text",
-     "text": "Resko Szczecinek Chojnice"
+     "text": "Resko SzczecinekChojnice"
     },
     {
      "type": "text",
-     "text": "Szczecinek Olsztyn"
-    },
-    {
-     "type": "text",
-     "text": "Chojnice Szczecin"
+     "text": "SzczecinekChojnice Olsztyn Szczecin"
     },
     {
      "type": "text",
@@ -568,15 +524,11 @@
     },
     {
      "type": "text",
-     "text": "Włodawa Sulejów Puławy"
+     "text": "Włodawa Sulejów PuławyLublin"
     },
     {
      "type": "text",
-     "text": "Sulejów Puławy Legnica Wieluń Lublin"
-    },
-    {
-     "type": "text",
-     "text": "Legnica Wieluń Lublin Zgorzelec Wrocław"
+     "text": "Legnica Wieluń Sulejów PuławyLublin Zgorzelec Legnica Wrocław Wieluń"
     },
     {
      "type": "text",
@@ -1072,11 +1024,7 @@
     },
     {
      "type": "text",
-     "text": "Fosforany (mgPO /l) 0,01 - 1 0,5* 0,5* 1 4 ) )"
-    },
-    {
-     "type": "text",
-     "text": "Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005"
+     "text": "Fosforany (mgPO₄/l) 0,01 - 1 0,5* ) 0,5* ) 1 Glin H (mgAl/l) 0,05 – 0,1 0,1 0,2 0,2 Kadm H (mgCd/l) 0,0001 – 0,0005 0,001 0,003 0,005"
     },
     {
      "type": "text",
@@ -1112,7 +1060,7 @@
     },
     {
      "type": "text",
-     "text": "Siarczany (mgSO /l) 5 – 60 60 250* 250* 4 ) )"
+     "text": "Siarczany (mgSO₄/l) 5 – 60 60 250* ) 250* )"
     },
     {
      "type": "text",
@@ -2423,7 +2371,7 @@
     },
     {
      "type": "text",
-     "text": "o dalsza redukcja emisji SO₂, NO x i pyłu drobnego z procesów wytwarzania energii; zadanie to jest szczególnie trudne dlatego, że struktura przemysłu energetycznego Polski jest głównie oparta na spalaniu węgla i nie można jej zmienić w ciągu kilku lat,"
+     "text": "o dalsza redukcja emisji SO₂, NOx i pyłu drobnego z procesów wytwarzania energii; zadanie to jest szczególnie trudne dlatego, że struktura przemysłu energetycznego Polski jest głównie oparta na spalaniu węgla i nie można jej zmienić w ciągu kilku lat,"
     },
     {
      "type": "text",
@@ -6984,26 +6932,34 @@
    "children": [
     {
      "type": "note",
-     "text": "[Strona 111 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 111 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Spis tabel",
+   "children": [
     {
-     "type": "ocr",
-     "text": "17. Spis tabel"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Tabela 1. Wartości graniczne wybranych wskaźników jakości fizykochemicznej wód ustalonych jako cele środowiskowe dla jednolitych części wód podziemnych ............. 4535 Tabela 2. Parametry dla ustalenia celów środowiskowych dla jednolitych części wód podziemnych na obszarze dorzecza .. 11. A 4538 Tabela 3. Zestawienie organów właściwych w sprawach gospodarowania wodami ......... 4601 Tabela 4. Zestawienie aktów prawnych powołujących właściwe władze oraz określające ich zakres działania 2... A 4601 Tabela 5. Organy współpracujące z Prezesem KZGW w zakresie wdrażaniaRDW .......... 4606 Tabela 6. Podległość dyrektora RZGW, siedziba oraz strona www ...L ananasa 4607 Tabela 7. Akt prawny ustanawiający statut RZGW oraz przynależne regiony wodne ......... 4607 Tabela8. Umowy dwustronne LL LL Lorenza a 1 4613 Tabela 9. Umowy wielostronne .... 2... 0.0 0 0b 1 4613 Tabela 10. Dane adresowe KZGW ..... LLL Lon 4614 Tabela 11. Dane adresowe RZGW na obszarze dorzecza Ucker 2... 1 ee aaa aaa 112 4614 Tabela 12. Dane adresowe GIOS .. LL LLL 4615"
     },
     {
      "type": "note",
-     "text": "[Strona 112 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
+     "text": "[Strona 112 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "Spis rysunków",
+   "children": [
     {
-     "type": "ocr",
-     "text": "18. Spis rysunków"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "Rysunek 1. Pokrycie terenu obszaru dorzecza Ucker . 2... 0. aa 4521 Rysunek 2. Trendy rocznych sum opadów atmosferycznych na obszarze Polski w okresie 1891 —2000 4525 Rysunek 3. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 ............ 4526 Rysunek 4. Regiony pluwiotermiczne na obszarze Polski w latach 1971—2000 scenariusz +1°C ... 4526"
     }
    ]
@@ -7014,331 +6970,339 @@
    "heading": "Załączniki do Planu gospodarowania wodami na obszarze dorzecza Ücker z dnia 22 lutego 2011 r. (poz. 567) Załącznik nr 1",
    "body": [
     {
-     "type": "text",
-     "text": "Monitor Polski Nr 56 — 4626 — Poz. 567"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 113 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
     {
      "type": "note",
-     "text": "[Strona 114 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 114 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
-     "text": "z 14°9'0\"E 14°14'30\"E 14°20'0\"E 14°25'30\"E = co MAPA 2. SCALONE CZĘŚCI WÓD POWIERZCHNIOWYCH - OBSZAR DORZECZA UCKER M wn"
+     "type": "text",
+     "text": "14°9'0\"E 14°14'30\"E z 14°20'0\"E 14°25'30\"E = co MAPA 2. SCALONE CZĘŚCI WÓD POWIERZCHNIOWYCH - OBSZAR DORZECZA UCKER M"
     },
     {
-     "type": "ocr",
-     "text": "| DO1006 | eDobjęszeżyn"
+     "type": "text",
+     "text": "|"
     },
     {
-     "type": "ocr",
-     "text": "= | OBSZARY DORZECZY | m"
+     "type": "text",
+     "text": "= | OBSZARY DORZECZY m m"
     },
     {
-     "type": "ocr",
-     "text": "m = © m | [> m wn"
+     "type": "text",
+     "text": "|"
     },
     {
-     "type": "ocr",
+     "type": "text",
+     "text": "= ro) A =| ~ % n I"
+    },
+    {
+     "type": "text",
+     "text": "| Legenda = C) granice obszarów dorzeczy Es scalone części wód powierzchniowych N z p y m DO1006"
+    },
+    {
+     "type": "text",
+     "text": "i__| granice gmin"
+    },
+    {
+     "type": "text",
+     "text": "s e miasta wn"
+    },
+    {
+     "type": "text",
+     "text": "DO1006 | eDobjęszeżyn"
+    },
+    {
+     "type": "text",
+     "text": "| = © m [> m wn"
+    },
+    {
+     "type": "text",
      "text": "DGHpo6 |"
     },
     {
-     "type": "ocr",
-     "text": "= ro) A ~"
+     "type": "text",
+     "text": "I z o m R [: N"
     },
     {
-     "type": "ocr",
-     "text": "=| I % z n o m R N"
+     "type": "text",
+     "text": "wn"
     },
     {
-     "type": "ocr",
-     "text": "I [: wn"
+     "type": "text",
+     "text": "4 | | SKALA 1:120 000 | DO1006 forenare were 2 I: wn"
     },
     {
-     "type": "ocr",
-     "text": "| Legenda 4 | = C) granice obszarów dorzeczy | Es scalone części wód powierzchniowych SKALA N z p y 1:120 000 | m DO1006 DO1006 forenare were 2"
+     "type": "text",
+     "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. LAME EM | I || Lt |_| 14°14'30\"E"
     },
     {
-     "type": "ocr",
-     "text": "i__| granice gmin I: s wn e miasta"
-    },
-    {
-     "type": "ocr",
-     "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. LAME EM | I || Lt |_| Cd Ld | I 14°14'30\"E 14°20'0\"E 14°25'30\"E"
+     "type": "text",
+     "text": "Cd Ld | I 14°20'0\"E 14°25'30\"E"
     },
     {
      "type": "note",
-     "text": "[Strona 115 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 115 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z 14°9'0\"E 14°14'30\"E 14°20'0\"E 14°25'30\"E 8 z pa oe co MAPA 3. JEDNOLITE CZĘŚCI WÓD PODZIEMNYCH - OBSZAR DORZECZA UCKER M wn"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z | OBSZARY DORZECZY | m"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "b z © m | i [> m wn"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z 8 ~"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Sł I A z n fo) La ™ N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "| EB wn"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Legenda | (_) granice obszarów dorzeczy + | E|| jednolite części wód podziemnych © a | SKALA N 3 1:120 000 |"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "f7_) granice gmin > ott ży all Sy | « miasta ) BP: R Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "14°14'30\"E 14°20'0\"E 14°25'30\"E"
     },
     {
      "type": "note",
-     "text": "[Strona 116 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 116 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z 14°9'0\"E 14°14'30\"E 14°20'0\"E 14°25'30\"E 9 ro) MAPA 4. EKOREGIONY „OBSZAR DORZECZA UCKER M wn"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "= 5 OBSZARY DORZECZY | m iA z o m Ki | 9 wo LN"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2 >) m ™"
     },
     {
-     "type": "ocr",
-     "text": "; I CA z a o m R N"
+     "type": "text",
+     "text": "; I CA z a o m R N l; LN"
     },
     {
-     "type": "ocr",
-     "text": "l; LN"
-    },
-    {
-     "type": "ocr",
+     "type": "text",
      "text": "w ale."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Legenda + | z : 2 0 granice obszarów dorzeczy SKALA | N 7 F mts 1:120 000 mH |__| Ekoregion - Równiny Centralne (Ls iz L__! granice gmin ? I: e miasta j in"
     },
     {
-     "type": "ocr",
-     "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. EMME |! | u! |! EEEE EEEE |? |) | cu! 14°14'30\"E 14°20'0\"E 14°25'30\"E"
+     "type": "text",
+     "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. EMMĘ |! | u! |! EEEE EEEE |? |) | cu! 14°14'30\"E 14°20'0\"E 14°25'30\"E"
     },
     {
      "type": "note",
-     "text": "[Strona 117 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 117 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z 14°9'0\"E 14°14'30\"E 14°20'0\"E 14°25'30\"E 9 > > > 69 MAPA 5. OCENA STANU ILOŚCIOWEGO JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH 5 - OBSZAR DORZECZA UCKER ©"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z A OBSZARY DORZECZY | m in z o m q | m m w"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z R ™"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "3 I PA a A o A IN"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "I; wy"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Legenda"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(_) granice obszarów dorzeczy + | || stan ilościowy JCW podziemnych = Z SKALA | 1:120 000"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "cm . . km o ( _} granice gmin oy, I: « miasta SZEJ"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "14°14'30\"E 14°20'0\"E 14°25'30\"E"
     },
     {
      "type": "note",
-     "text": "[Strona 118 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 118 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z 14°9'0\"E 14°14'30\"E 14°20'0\"E 14°25'30\"E o MAPA 6. OCENA STANU CHEMICZNEGO JEDNOLITYCH CZĘŚCI WÓD PODZIEMNYCH M - OBSZAR DORZECZA UCKER ©"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z = OBSZARY DORZECZY | m a z o"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "m wn"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z 8 ="
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "; I o z ° 8 R N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "I: wy"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Legenda"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(_) granice obszarów dorzeczy + | z|| stan chemiczny JCW podziemnych : Z SKALA | N i 1:120 000 fa |) dobry 3 KIEJ cs - . ki >"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "L__| granice gmin > iat dy, a « miasta ) ZĘ R Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "14°14'30\"E 14°20'0\"E 14°25'30\"E"
     },
     {
      "type": "note",
-     "text": "[Strona 119 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 119 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "14°9'0\"E 14°14'30\"E 14°20'0\"E"
     },
     {
-     "type": "ocr",
-     "text": "14°25'30\"E LUDNOSCI W WODE PRZEZNACZONA DO SPOZYCIA - OBSZAR DORZECZA UCKER"
+     "type": "text",
+     "text": "14°25'30\"E LUDNOŚCI W WODE PRZEZNACZONA DO SPOŻYCIA - OBSZAR DORZECZA UCKER"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2 © OBSZARY DORZECZY m"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5] wn | 0"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "z al 5"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "| Legenda"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "MAPA 7. WYKAZ WÓD PODZIEMNYCH PRZEZNACZONYCH DO POBORU WODY W CELU ZAOPATRZENIA"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "5"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°33'0\"N 53°38'30\"N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°27'30\"N"
     },
     {
-     "type": "ocr",
-     "text": "z o . p"
-    },
-    {
-     "type": "ocr",
-     "text": "a C) granice obszarów dorzeczy SKALA i SB 1:120 000 m wody podziemne przeznaczone do poboru wody do spożycia 3 A : i i ot! 24, | i_! granice gmin f i <> . miasta ZUJ ej CEN Odwzorow ółrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. | — nm — — a a! | a a a a 14°14'30\"E 14°20'0\"E 14°25'30\"E"
+     "type": "text",
+     "text": "z o . p a C) granice obszarów dorzeczy SKALA i SB 1:120 000 m wody podziemne przeznaczone do poboru wody do spożycia 3 A : i i ot! 24, | i_! granice gmin f i <> . miasta ZUJ ej CEN Odwzorow ółrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89. | — nm — — a a! | a a a a 14°14'30\"E 14°20'0\"E 14°25'30\"E"
     },
     {
      "type": "note",
-     "text": "[Strona 120 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 120 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°33'0\"N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°27'30\"N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°22'0\"N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "14°9'0\"E 14°14'30\"E 14°20'0\"E 14°25'30\"E MAPA 8. OBSZARY PRZEZNACZONE DO OCHRONY SIEDLISK LUB GATUNKÓW, DLA KTÓRYCH UTRZYMANIE LUB POPRAWA STANU WÓD JEST WAŻNYM CZYNNIKIEM W ICH OCHRONIE - OBSZAR DORZECZAWCKER"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "OBSZARY DORZECZY"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "Legenda"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(_) granice obszarów dorzeczy SKALA 1:120 000 obszary wyznaczone na mocy Dyrektywy 79/409/WE (NATURA 2000 - OSO) 0 05 1"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "(2) granice gmin e miasta Na mapie przedstawiono obszary Natura 2000 zgodnie ze stanem na styczeń 2009 r Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w,układzie EUREF-89."
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "2"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°38'30\"N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°33'0\"N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°27'30\"N"
     },
     {
-     "type": "ocr",
+     "type": "text",
      "text": "53°22'0\"N 14°14'30\"E 14°20'0\"E 14°25'30\"E"
     }
    ]
@@ -7348,7 +7312,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Obszar dorzecza Ocena ryzyka Derogacje Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Gospodarki Ekoregion ilościowego chemicznego Kod Nazwa Wodnej (RZGW) PLGW69003 3 region wodny Dolnej Odry i Przymorza 6700 obszar dorzecza Odry/obszar dorzecza Ücker RZGW w Szczecinie Równiny Centralne (14) dobry dobry niezagrożona - Zachodniego/region wodny dorzecza Ücker Monitor Polski Nr 56 — 4634 — Poz. 567"
+     "text": "Jednolita część wód podziemnych (JCWPd) Lokalizacja Ocena stanu Obszar dorzecza Ocena ryzyka Derogacje Europejski kod JCWPd Nazwa JCWPd Region wodny Regionalny Zarząd Gospodarki Ekoregion ilościowego chemicznego Kod Nazwa Wodnej (RZGW) PLGW69003 3 region wodny Dolnej Odry i Przymorza 6700 obszar dorzecza Odry/obszar dorzecza Ücker RZGW w Szczecinie Równiny Centralne (14) dobry dobry niezagrożona - Zachodniego/region wodny dorzecza Ücker"
     },
     {
      "type": "note",
@@ -7361,7 +7325,7 @@
    "body": [
     {
      "type": "text",
-     "text": "Mapa nr 1. Monitor Polski Nr 56 — 4635 — Poz. 567"
+     "text": "Mapa nr 1."
     },
     {
      "type": "note",
@@ -7369,7 +7333,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 2. Monitor Polski Nr 56 — 4636 — Poz. 567"
+     "text": "Mapa nr 2."
     },
     {
      "type": "note",
@@ -7377,7 +7341,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 3. Monitor Polski Nr 56 — 4637 — Poz. 567"
+     "text": "Mapa nr 3."
     },
     {
      "type": "note",
@@ -7385,7 +7349,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 4. Monitor Polski Nr 56 — 4638 — Poz. 567"
+     "text": "Mapa nr 4."
     },
     {
      "type": "note",
@@ -7393,7 +7357,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 5. Monitor Polski Nr 56 — 4639 — Poz. 567"
+     "text": "Mapa nr 5."
     },
     {
      "type": "note",
@@ -7401,7 +7365,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 6. Monitor Polski Nr 56 — 4640 — Poz. 567"
+     "text": "Mapa nr 6."
     },
     {
      "type": "note",
@@ -7409,7 +7373,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 7. Monitor Polski Nr 56 — 4641 — Poz. 567"
+     "text": "Mapa nr 7."
     },
     {
      "type": "note",
@@ -7437,7 +7401,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 9. Monitor Polski Nr 56 — 4643 — Poz. 567"
+     "text": "Mapa nr 9."
     },
     {
      "type": "note",
@@ -7481,7 +7445,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 11. Monitor Polski Nr 56 — 4645 — Poz. 567"
+     "text": "Mapa nr 11."
     },
     {
      "type": "note",
@@ -7489,7 +7453,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 12. Monitor Polski Nr 56 — 4646 — Poz. 567"
+     "text": "Mapa nr 12."
     },
     {
      "type": "note",
@@ -7497,7 +7461,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 13. Monitor Polski Nr 56 — 4647 — Poz. 567"
+     "text": "Mapa nr 13."
     },
     {
      "type": "note",
@@ -7505,7 +7469,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 14. Monitor Polski Nr 56 — 4648 — Poz. 567"
+     "text": "Mapa nr 14."
     },
     {
      "type": "note",
@@ -7513,7 +7477,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 15. Monitor Polski Nr 56 — 4649 — Poz. 567"
+     "text": "Mapa nr 15."
     },
     {
      "type": "note",
@@ -7521,7 +7485,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 16. Monitor Polski Nr 56 — 4650 — Poz. 567"
+     "text": "Mapa nr 16."
     },
     {
      "type": "note",
@@ -7529,7 +7493,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 17. Monitor Polski Nr 56 — 4651 — Poz. 567"
+     "text": "Mapa nr 17."
     },
     {
      "type": "note",
@@ -7537,7 +7501,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 18. Monitor Polski Nr 56 — 4652 — Poz. 567"
+     "text": "Mapa nr 18."
     },
     {
      "type": "note",
@@ -7545,7 +7509,7 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 19. Monitor Polski Nr 56 — 4653 — Poz. 567"
+     "text": "Mapa nr 19."
     },
     {
      "type": "note",
@@ -7553,7 +7517,11 @@
     },
     {
      "type": "text",
-     "text": "Mapa nr 20. Monitor Polski Nr 56 — 4654 — Poz. 567 — 4655 —"
+     "text": "Mapa nr 20."
+    },
+    {
+     "type": "text",
+     "text": "— 4655 —"
     },
     {
      "type": "note",
