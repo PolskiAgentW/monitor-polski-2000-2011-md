@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 20:14 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 00:11 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +82,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 547, razem 20226 z 4825
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 800.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (386), eli2md 0.6.64 (334), eli2md 0.6.62 (149), eli2md 0.6.66 (8), eli2md 0.6.65 (7), eli2md 0.6.63 (7), eli2md 0.6.61 (2).
+Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (388), eli2md 0.6.64 (334), eli2md 0.6.62 (147), eli2md 0.6.66 (7), eli2md 0.6.65 (7), eli2md 0.6.63 (7), eli2md 0.6.61 (2), eli2md 0.6.69 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -253,6 +253,12 @@ aktach (w 2 z nich reszta tekstu ma te same znaki, w pozostałych różni się n
 znaków); uciętych nagłówków było w nich 12, zostały 2 (MP/2010/464). Bez zmian zostały 2: w MP/2000/170 nowy plik ma tyle
 samo nagłówków, w MP/2002/503 reszta tekstu różniła się o 14,6% (OCR tabeli czyta więcej komórek, ale numery wierszy
 „51.” bierze za „§ 1.”).
+
+Zmiana 2026-10-26 (eli2md 0.6.69, 3 akty; opis w README eli2md, wpisy 0.6.68 i 0.6.69): poprawka usterki z przeliczeń
+2026-10-25. OCR brał numer wiersza listy albo tabeli zaczynający się od „5” albo „8” za sklejone „§”. Przeliczyłem 59
+aktów, w których nagłówki „§” różnią się od wersji sprzed 2026-10-25. W 56 przeliczenie nie zmienia tekstu. W MP/2000/544
+„885. | Vitaminum C …” jest znów wierszem tabeli, a nie „§ 85.”. MP/2006/444 i MP/2010/775 wracają do wersji sprzed
+2026-10-25, bo sklejony „8N.” bez „|” nadal byłby brany za „§” („81. W okresie badanym …” → „§ 1.”).
 
 **Czego te liczby nie mówią:**
 
