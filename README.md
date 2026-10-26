@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-26 00:11 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 00:20 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -78,11 +78,11 @@ Stan na 2026-10-26 00:11 UTC (liczone z `index.csv`).
 | 2010 | 1185 | 1185 | 0 |
 | 2011 | 1199 | 1199 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 547, razem 20226 z 48251 stron. Tekst z OCR (oznaczony) ma 19035 z nich w 485 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 547, razem 20226 z 48251 stron. Tekst z OCR (oznaczony) ma 19036 z nich w 485 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 800.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (388), eli2md 0.6.64 (334), eli2md 0.6.62 (147), eli2md 0.6.66 (7), eli2md 0.6.65 (7), eli2md 0.6.63 (7), eli2md 0.6.61 (2), eli2md 0.6.69 (1).
+Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (389), eli2md 0.6.64 (334), eli2md 0.6.62 (147), eli2md 0.6.66 (7), eli2md 0.6.63 (7), eli2md 0.6.65 (6), eli2md 0.6.61 (2), eli2md 0.6.69 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -259,6 +259,13 @@ Zmiana 2026-10-26 (eli2md 0.6.69, 3 akty; opis w README eli2md, wpisy 0.6.68 i 0
 aktów, w których nagłówki „§” różnią się od wersji sprzed 2026-10-25. W 56 przeliczenie nie zmienia tekstu. W MP/2000/544
 „885. | Vitaminum C …” jest znów wierszem tabeli, a nie „§ 85.”. MP/2006/444 i MP/2010/775 wracają do wersji sprzed
 2026-10-25, bo sklejony „8N.” bez „|” nadal byłby brany za „§” („81. W okresie badanym …” → „§ 1.”).
+
+Tego samego dnia bilans nagłówków „§” po przeliczeniach z 2026-10-25 i 2026-10-26: obejrzałem zmiany nagłówków „§”
+w aktach, w których różnią się od wersji sprzed 2026-10-25 (56 w tym zbiorze). MP/2009/355 wraca do wersji sprzed
+2026-10-25: numer rachunku bankowego „89109010560000000104291776.” był wzięty za „§”. W pozostałych 55 zmiany, które
+obejrzałem, są poprawą: z dwóch łamów czytanych w poprzek „§ N.” w środku wiersza staje się nagłówkiem z ciągłym tekstem
+(np. MP/2001/668, sprawdzone z PDF: §§ 1–47 w kolejności), a znikające nagłówki należały do tekstu sąsiednich pozycji,
+który był w pliku (MP/2001/115: § 1 z poz. 114).
 
 **Czego te liczby nie mówią:**
 
