@@ -273,15 +273,15 @@ jest tylko numer („— 1831 —”, MP/2008/380 s. 3). Numer takiej strony byw
 strony poprzedniej („Minister Sprawiedliwości: Z. Ćwiąkalski — 1830 —”, s. 1) i teraz też znika. Przeliczyłem ponownie
 208 aktów, w których stoi taki wiersz. Nowy plik zostaje tylko wtedy, gdy ciąg słów różni się od poprzedniego wyłącznie
 brakiem numerów stron i kawałków nagłówka, a jednostki drzewa są te same. Tak jest w 137 aktach; w 3 z nich zmienia się
-też podział akapitów przy tych samych słowach (tabela i legenda mapy z OCR, reklama wydawcy: MP/2011/565, MP/2011/578,
-MP/2010/1130). W 71 zostaje poprzedni plik: w 5 nowy miał te same słowa, w 66 różnił się też w innych miejscach (65
-plików z eli2md 0.6.22 i 0.6.24 ze zmianami konwertera od tamtych wersji, np. pierwsza litera akapitu odklejona od
-wyrazu, „s topy CIRR” w MP/2010/208; MP/2011/549 z 0.6.62: inna kolejność wiersza tabeli), których tu nie publikuję.
-Wierszy z samym numerem strony jest w zbiorze 116 w 72 plikach (było 322 w 209). Z przeliczonych 208 aktów w wyniku
-0.6.72 zostaje ich 20 w 7 aktach (0.6.71 na tych samych PDF: 335): 18 to numeracja stron załącznika, na dole strony albo
-pod nagłówkiem numeru, niżej niż górne 8% strony (np. „-3-” w MP/2011/1178, ok. 10% wysokości strony), 1 na stronie
-poziomej, na której nagłówek stoi z boku (MP/2003/159), 1 to wartość na osi wykresu (MP/2011/452). Metadane stron w
-`index.csv` bez zmian.
+też podział akapitów przy tych samych słowach: w MP/2010/1130 reklama wydawcy po zniknięciu numeru jest jednym akapitem,
+w MP/2011/565 i MP/2011/578 (tabela i legenda mapy z OCR, pliki z eli2md 0.6.62) to zmiana konwertera między 0.6.62 a
+0.6.71. W 71 zostaje poprzedni plik: w 5 nowy miał te same słowa, w 66 różnił się też w innych miejscach (65 plików z
+eli2md 0.6.22 i 0.6.24 ze zmianami konwertera od tamtych wersji, np. pierwsza litera akapitu odklejona od wyrazu, „s
+topy CIRR” w MP/2010/208; MP/2011/549 z 0.6.62: inna kolejność wiersza tabeli), których tu nie publikuję. Wierszy z
+samym numerem strony jest w zbiorze 116 w 72 plikach (było 322 w 209). Z przeliczonych 208 aktów w wyniku 0.6.72 zostaje
+ich 20 w 7 aktach (0.6.71 na tych samych PDF: 335): 18 to numeracja stron załącznika, na dole strony albo pod nagłówkiem
+numeru, niżej niż górne 8% strony (np. „-3-” w MP/2011/1178, ok. 10% wysokości strony), 1 na stronie poziomej, na której
+nagłówek stoi z boku (MP/2003/159), 1 to wartość na osi wykresu (MP/2011/452). Metadane stron w `index.csv` bez zmian.
 
 **Czego te liczby nie mówią:**
 
