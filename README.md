@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-26 09:05 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 11:20 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +82,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 547, razem 20226 z 4825
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 800.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (10975), eli2md 0.6.24 (387), eli2md 0.6.64 (334), eli2md 0.6.72 (137), eli2md 0.6.62 (126), eli2md 0.6.66 (6), eli2md 0.6.65 (6), eli2md 0.6.63 (3), eli2md 0.6.61 (2), eli2md 0.6.69 (1).
+Wersje konwertera: eli2md 0.6.22 (10975), eli2md 0.6.24 (387), eli2md 0.6.64 (334), eli2md 0.6.72 (136), eli2md 0.6.62 (126), eli2md 0.6.66 (6), eli2md 0.6.65 (6), eli2md 0.6.63 (3), eli2md 0.6.61 (2), eli2md 0.6.69 (1), eli2md 0.6.73 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -282,6 +282,9 @@ samym numerem strony jest w zbiorze 116 w 72 plikach (było 322 w 209). Z przeli
 ich 20 w 7 aktach (0.6.71 na tych samych PDF: 335): 18 to numeracja stron załącznika, na dole strony albo pod nagłówkiem
 numeru, niżej niż górne 8% strony (np. „-3-” w MP/2011/1178, ok. 10% wysokości strony), 1 na stronie poziomej, na której
 nagłówek stoi z boku (MP/2003/159), 1 to wartość na osi wykresu (MP/2011/452). Metadane stron w `index.csv` bez zmian.
+Tego samego dnia eli2md 0.6.73, 1 akt (opis w README eli2md, wpis 0.6.73): w MP/2010/1130 reklama wydawcy znów jest
+kilkoma akapitami, jak przed 0.6.72. Ciąg słów i jednostki drzewa bez zmian. 0.6.73 na tych samych 268 aktach co A/B
+0.6.72 nie zmienia innych plików.
 
 **Czego te liczby nie mówią:**
 
