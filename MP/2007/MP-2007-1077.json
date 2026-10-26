@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/1077",
  "title": "Obwieszczenie Ministra Rolnictwa I Rozwoju Wsi z dnia 28 listopada 2007 r. w sprawie wykazu zakładów zajmujących się wytwarzaniem lub obrotem paszami",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/1077/text.pdf",
  "body": [
   {
@@ -35388,10 +35388,6 @@
     {
      "type": "ocr",
      "text": "LLOL “20d"
-    },
-    {
-     "type": "text",
-     "text": "— 4771 —"
     },
     {
      "type": "note",

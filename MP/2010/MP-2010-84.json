@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/84",
  "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 3 lutego 2010 r. w sprawie zmienionej listy projektów indywidualnych dla Programu Operacyjnego Innowacyjna Gospodarka, 2007-2013",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/84/text.pdf",
  "body": [
   {
@@ -23,10 +23,6 @@
   {
    "type": "signature",
    "text": "Minister Rozwoju Regionalnego: E. Bieńkowska"
-  },
-  {
-   "type": "text",
-   "text": "— 323 —"
   },
   {
    "type": "note",

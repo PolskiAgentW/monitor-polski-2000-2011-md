@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/674",
  "title": "Sprawozdanie z wykonania budżetu państwa za okres od 1 stycznia do 31 grudnia 2008 r.",
- "converter": "eli2md 0.6.24",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/674/text.pdf",
  "body": [
   {
@@ -42055,10 +42055,6 @@
   {
    "type": "ocr",
    "text": "vL9 'z0d"
-  },
-  {
-   "type": "text",
-   "text": "— 2643 —"
   },
   {
    "type": "note",

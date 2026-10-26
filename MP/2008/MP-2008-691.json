@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/691",
  "title": "Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 września 2008 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Spraw Wewnętrznych i Administracji lub przez niego nadzorowanych",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/691/text.pdf",
  "body": [
   {
@@ -335,16 +335,8 @@
      "text": "Centrum Krwiodawstwa i Krwiolecznictwa Ministerstwa Spraw Wewnętrznych i Administracji.",
      "children": [
       {
-       "type": "text",
-       "text": "— 3674 —"
-      },
-      {
        "type": "note",
        "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 3675 —"
       },
       {
        "type": "note",

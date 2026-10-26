@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/712",
  "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 7 lipca 2009 r. o zmianach wprowadzonych do Szczegółowego opisu priorytetów Programu Operacyjnego Infrastruktura i Środowisko",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/712/text.pdf",
  "body": [
   {
@@ -83,10 +83,6 @@
   {
    "type": "signature",
    "text": "Minister Rozwoju Regionalnego: E. Bieńkowska"
-  },
-  {
-   "type": "text",
-   "text": "— 2739 —"
   },
   {
    "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/269",
  "title": "Obwieszczenie Ministra Rozwoju Regionalnego z dnia 6 marca 2008 r. w sprawie listy projektów indywidualnych dla Programu Operacyjnego Infrastruktura i Środowisko 2007-2013",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/269/text.pdf",
  "body": [
   {
@@ -9957,16 +9957,8 @@
      "text": "692 Z0d"
     },
     {
-     "type": "text",
-     "text": "— 1050 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 154 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 1051 —"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/644",
  "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 23 czerwca 2009 r. w sprawie zmienionych wytycznych Ministra Rozwoju Regionalnego w zakresie warunków certyfikacji oraz przygotowania prognoz wniosków o płatność do Komisji Europejskiej w Programach Operacyjnych w ramach Narodowych Strategicznych Ram Odniesienia na lata 2007-2013",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/644/text.pdf",
  "body": [
   {
@@ -37,10 +37,6 @@
   {
    "type": "signature",
    "text": "Minister Rozwoju Regionalnego: E. Bieńkowska"
-  },
-  {
-   "type": "text",
-   "text": "— 2027 —"
   },
   {
    "type": "note",

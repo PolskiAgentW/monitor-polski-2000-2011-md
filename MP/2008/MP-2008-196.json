@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/196",
  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 14 lutego 2008 r. w sprawie dopuszczalnej kwoty przychodu, granicznej kwoty przychodu oraz rocznej dopuszczalnej kwoty przychodu i rocznej granicznej kwoty przychodu, stosowanych przy zmniejszaniu lub zawieszaniu świadczeń przedemerytalnych oraz zasiłków przedemerytalnych",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/196/text.pdf",
  "body": [
   {
@@ -49,15 +49,11 @@
    "children": [
     {
      "type": "text",
-     "text": "Prezes Zakładu Ubezpieczeń Społecznych: S. Rypiński — 478 —"
+     "text": "Prezes Zakładu Ubezpieczeń Społecznych: S. Rypiński"
     },
     {
      "type": "note",
      "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 479 —"
     },
     {
      "type": "note",

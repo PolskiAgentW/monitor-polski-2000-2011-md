@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/1199",
  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 20 grudnia 2011 r. w sprawie wysokości wskaźnika kwartalnej waloryzacji składek na ubezpieczenie emerytalne i odsetek za zwłokę zewidencjonowanych na subkoncie za III kwartał 2011 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/1199/text.pdf",
  "body": [
   {
@@ -23,10 +23,6 @@
   {
    "type": "signature",
    "text": "Prezes Zakładu Ubezpieczeń Społecznych: Z. Derdziuk"
-  },
-  {
-   "type": "text",
-   "text": "— 7392 —"
   },
   {
    "type": "note",

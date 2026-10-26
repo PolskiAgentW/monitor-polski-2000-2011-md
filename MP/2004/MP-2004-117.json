@@ -1,7 +1,7 @@
 {
  "eli": "MP/2004/117",
  "title": "Obwieszczenie Prezesa Polskiego Komitetu Normalizacyjnego z dnia 19 grudnia 2003 r. w sprawie wykazów norm zharmonizowanych",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2004/117/text.pdf",
  "body": [
   {
@@ -8979,10 +8979,6 @@
     {
      "type": "text",
      "text": "* (U) Polskie Normy wprowadzające normy europejskie metodą uznania i dostępne tylko w językach oryginału (angielski, francuski, niemiecki)."
-    },
-    {
-     "type": "text",
-     "text": "— 395 —"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/960",
  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 19 października 2010 r. w sprawie średniej ceny skupu żyta za okres pierwszych trzech kwartałów 2010 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/960/text.pdf",
  "body": [
   {
@@ -23,10 +23,6 @@
   {
    "type": "signature",
    "text": "Prezes Głównego Urzędu Statystycznego: J. Oleński"
-  },
-  {
-   "type": "text",
-   "text": "— 4483 —"
   },
   {
    "type": "note",

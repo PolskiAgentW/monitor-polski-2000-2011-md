@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/74",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 12 stycznia 2011 r. w sprawie ogłoszenia wykazu zarejestrowanych kancelarii notarialnych",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/74/text.pdf",
  "body": [
   {
@@ -8835,15 +8835,11 @@
     },
     {
      "type": "text",
-     "text": "199 Tarnogórska Elżbieta Złotoryja — 210 —"
+     "text": "199 Tarnogórska Elżbieta Złotoryja"
     },
     {
      "type": "note",
      "text": "[Na stronie 49 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 211 —"
     },
     {
      "type": "note",

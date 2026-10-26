@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/945",
  "title": "Obwieszczenie Ministra Środowiska z dnia 4 października 2010 r. w sprawie wysokości stawek opłat za korzystanie ze środowiska na rok 2011",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/945/text.pdf",
  "body": [
   {
@@ -4038,10 +4038,6 @@
     {
      "type": "text",
      "text": "* Odpad niebezpieczny w rozumieniu przepisów rozporządzenia Ministra Środowiska z dnia 27 września 2001 r. w sprawie katalogu odpadów (Dz. U. Nr 112, poz. 1206)."
-    },
-    {
-     "type": "text",
-     "text": "— 4447 —"
     },
     {
      "type": "note",

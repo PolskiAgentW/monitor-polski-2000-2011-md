@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/380",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 27 maja 2008 r. o wolnych stanowiskach sędziowskich",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/380/text.pdf",
  "body": [
   {
@@ -116,15 +116,11 @@
    "children": [
     {
      "type": "text",
-     "text": "Minister Sprawiedliwości: Z. Ćwiąkalski — 1830 —"
+     "text": "Minister Sprawiedliwości: Z. Ćwiąkalski"
     },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 1831 —"
     },
     {
      "type": "note",

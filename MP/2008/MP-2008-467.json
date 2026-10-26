@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/467",
  "title": "Komunikat Nr 7/2008/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 9 lipca 2008 r. w sprawie stałych stóp procentowych -stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/467/text.pdf",
  "body": [
   {
@@ -163,15 +163,11 @@
     },
     {
      "type": "text",
-     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: I. Fąfara — 2014 —"
+     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: I. Fąfara"
     },
     {
      "type": "note",
      "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 2015 —"
     },
     {
      "type": "note",

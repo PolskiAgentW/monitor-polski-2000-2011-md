@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/1078",
  "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 28 grudnia 2007 r. w sprawie wykazu organizacji mających status organizacji pożytku publicznego na dzień 30 listopada 2007 r.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/1078/text.pdf",
  "body": [
   {
@@ -1949,16 +1949,8 @@
      "text": "[Strona 161 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
     },
     {
-     "type": "text",
-     "text": "— 4934 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 162 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 4935 —"
     },
     {
      "type": "note",

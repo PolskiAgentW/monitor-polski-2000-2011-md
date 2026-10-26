@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/1066",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 6 grudnia 2010 r. zmieniający komunikat Państwowej Komisji Wyborczej z dnia 23 listopada 2010 r. o wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1066/text.pdf",
  "body": [
   {
@@ -41,15 +41,11 @@
    "children": [
     {
      "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski — 4994 —"
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
     },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 4995 —"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/920",
  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 12 listopada 2007 r. w sprawie przeciętnego wynagrodzenia w trzecim kwartale 2007 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/920/text.pdf",
  "body": [
   {
@@ -23,10 +23,6 @@
   {
    "type": "signature",
    "text": "Prezes Głównego Urzędu Statystycznego: J. Oleński"
-  },
-  {
-   "type": "text",
-   "text": "— 3943 —"
   },
   {
    "type": "note",

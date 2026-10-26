@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/737",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 27 lipca 2009 r. o przyjętych i odrzuconych sprawozdaniach partii politycznych o źródłach pozyskania środków finansowych w 2008 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/737/text.pdf",
  "body": [
   {
@@ -637,16 +637,8 @@
      "text": "Sprawozdanie zostało odrzucone wskutek naruszenia przepisu dotyczącego obowiązku gromadzenia środków pochodzących z darowizn na rachunku bankowym."
     },
     {
-     "type": "text",
-     "text": "— 2786 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 2787 —"
     },
     {
      "type": "note",

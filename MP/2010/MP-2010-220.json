@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/220",
  "title": "Zarządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 kwietnia 2010 r. w sprawie użycia funkcjonariuszy Straży Granicznej do udzielenia pomocy Policji",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/220/text.pdf",
  "body": [
   {
@@ -42,15 +42,11 @@
    "children": [
     {
      "type": "text",
-     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller — 870 —"
+     "text": "Minister Spraw Wewnętrznych i Administracji: J. Miller"
     },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 871 —"
     },
     {
      "type": "note",

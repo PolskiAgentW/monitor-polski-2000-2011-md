@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/785",
  "title": "Obwieszczenie Ministra Gospodarki z dnia 24 września 2007 r. w sprawie informacji o notyfikowanych jednostkach certyfikujących i jednostkach kontrolujących oraz notyfikowanych laboratoriach",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/785/text.pdf",
  "body": [
   {
@@ -966,15 +966,11 @@
     },
     {
      "type": "text",
-     "text": "12/2007 Okręgowy Urząd Miar 1444 Materialne miary długości Weryfikacja wyrobu — moduł F Rynek 9 40-957 Katowice tel. 032 258 94 36 fax 032 258 34 34 e-mail: oum.katowice@gum.gov.pl www.katowice.gum.gov.pl — 2703 —"
+     "text": "12/2007 Okręgowy Urząd Miar 1444 Materialne miary długości Weryfikacja wyrobu — moduł F Rynek 9 40-957 Katowice tel. 032 258 94 36 fax 032 258 34 34 e-mail: oum.katowice@gum.gov.pl www.katowice.gum.gov.pl"
     },
     {
      "type": "note",
      "text": "[Na stronie 31 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 2704 —"
     },
     {
      "type": "note",

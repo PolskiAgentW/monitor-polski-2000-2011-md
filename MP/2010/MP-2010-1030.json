@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/1030",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 23 listopada 2010 r. o wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1030/text.pdf",
  "body": [
   {
@@ -7739,16 +7739,8 @@
      "text": "0£0L \"20d"
     },
     {
-     "type": "text",
-     "text": "— 4882 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 77 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 4883 —"
     },
     {
      "type": "note",

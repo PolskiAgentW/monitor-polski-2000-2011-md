@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/1130",
  "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 9 grudnia 2010 r. w sprawie wskaźnika waloryzacji składek na ubezpieczenie emerytalne za III kwartał 2010 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/1130/text.pdf",
  "body": [
   {
@@ -25,16 +25,8 @@
    "text": "Minister Pracy i Polityki Społecznej: J. Fedak"
   },
   {
-   "type": "text",
-   "text": "— 5174 —"
-  },
-  {
    "type": "note",
    "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— 5175 —"
   },
   {
    "type": "text",
@@ -106,11 +98,7 @@
   },
   {
    "type": "text",
-   "text": "www.wydawnictwa.cokprm.gov.pl — 5176 —"
-  },
-  {
-   "type": "text",
-   "text": "CENTRUM OBSŁUGI KANCELARII PREZESA RADY MINISTRÓW WYDZIAŁ WYDAWNICTW I POLIGRAFII"
+   "text": "www.wydawnictwa.cokprm.gov.pl CENTRUM OBSŁUGI KANCELARII PREZESA RADY MINISTRÓW WYDZIAŁ WYDAWNICTW I POLIGRAFII"
   },
   {
    "type": "text",

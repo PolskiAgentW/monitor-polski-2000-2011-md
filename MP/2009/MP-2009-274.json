@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/274",
  "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 31 marca 2009 r. w sprawie zmienionych wytycznych Ministra Rozwoju Regionalnego w zakresie kwalifikowania wydatków w ramach Programu Operacyjnego Kapitał Ludzki",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/274/text.pdf",
  "body": [
   {
@@ -37,10 +37,6 @@
   {
    "type": "signature",
    "text": "Minister Rozwoju Regionalnego: E. Bieńkowska"
-  },
-  {
-   "type": "text",
-   "text": "— 675 —"
   },
   {
    "type": "note",

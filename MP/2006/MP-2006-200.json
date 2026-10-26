@@ -1,7 +1,7 @@
 {
  "eli": "MP/2006/200",
  "title": "Obwieszczenie Prezesa Polskiego Komitetu Normalizacyjnego z dnia 9 stycznia 2006 r. w sprawie wykazu norm zharmonizowanych",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2006/200/text.pdf",
  "body": [
   {
@@ -2057,10 +2057,6 @@
     {
      "type": "text",
      "text": "Wykaz obejmuje normy opublikowane w okresie od 1.10.2005 r. do 31.12.2005 r."
-    },
-    {
-     "type": "text",
-     "text": "— 919 —"
     },
     {
      "type": "note",

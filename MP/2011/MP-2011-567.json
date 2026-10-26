@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/567",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Ücker",
- "converter": "eli2md 0.6.63",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/567/text.pdf",
  "body": [
   {
@@ -7514,10 +7514,6 @@
     {
      "type": "text",
      "text": "Mapa nr 20."
-    },
-    {
-     "type": "text",
-     "text": "— 4655 —"
     },
     {
      "type": "note",

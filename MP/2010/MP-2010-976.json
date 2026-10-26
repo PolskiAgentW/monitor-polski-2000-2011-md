@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/976",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 4 października 2010 r. w sprawie wytycznych dla komisarzy wyborczych i obwodowych komisji wyborczych, dotyczących zasad i trybu przekazywania Państwowej Komisji Wyborczej danych o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania, w trakcie głosowania w wyborach do rad gmin, rad powiatów i sejmików województw, Rady m.st. Warszawy i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast zarządzonych na dzień 21 listopada 2010 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/976/text.pdf",
  "body": [
   {
@@ -394,16 +394,8 @@
      "text": "Komisarz wyborczy przekazuje dane z podziałem na gminy, podając również informację o liczbie obwodów ogółem w gminie oraz o liczbie obwodów, z których dane nie zostały uzyskane.",
      "children": [
       {
-       "type": "text",
-       "text": "— 4606 —"
-      },
-      {
        "type": "note",
        "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 4607 —"
       },
       {
        "type": "note",

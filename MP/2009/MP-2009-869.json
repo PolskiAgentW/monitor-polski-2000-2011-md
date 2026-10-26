@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/869",
  "title": "Komunikat Nr 10/2009/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 12 października 2009 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji współpracy Gospodarczej i Rozwoju (OECD)",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/869/text.pdf",
  "body": [
   {
@@ -166,10 +166,6 @@
   {
    "type": "signature",
    "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: I. Fąfara"
-  },
-  {
-   "type": "text",
-   "text": "— 3251 —"
   },
   {
    "type": "note",

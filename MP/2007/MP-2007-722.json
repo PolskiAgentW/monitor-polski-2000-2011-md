@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/722",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 13 września 2007 r. w sprawie sposobu drukowania kart do głosowania oraz trybu ich dostarczenia obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonym na dzień 21 października 2007 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/722/text.pdf",
  "body": [
   {
@@ -428,10 +428,6 @@
      "path": "ust_12",
      "text": "W razie dokonania przez okręgową komisję wyborczą — po zarządzeniu druku kart do głosowania — zmian w zarejestrowanych okręgowych listach kandydatów na posłów (tj. skreślenia kandydata z listy lub unieważnienia rejestracji listy) lub skreślenia kandydata na senatora, dyrektor delegatury Krajowego Biura Wyborczego, który zlecił druk kart do głosowania, zapewnia wykonanie obwieszczenia okręgowej komisji wyborczej, o którym mowa w art. 158 ust. 1 i 2 Ordynacji wyborczej do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej. Obwieszczenia te należy przekazać do wywieszenia w lokalach wyborczych za pośrednictwem delegatury Krajowego Biura Wyborczego obsługującej okręgową komisję wyborczą.",
      "children": [
-      {
-       "type": "text",
-       "text": "— 2247 —"
-      },
       {
        "type": "note",
        "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

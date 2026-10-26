@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/589",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 2 sierpnia 2007 r. o przyjętych i odrzuconych sprawozdaniach partii politycznych o źródłach pozyskania środków finansowych w 2006 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/589/text.pdf",
  "body": [
   {
@@ -499,10 +499,6 @@
       {
        "type": "text",
        "text": "Sprawozdanie zostało odrzucone wskutek zaciągnięcia przez partię pożyczki od osoby fizycznej."
-      },
-      {
-       "type": "text",
-       "text": "— 1999 —"
       },
       {
        "type": "note",

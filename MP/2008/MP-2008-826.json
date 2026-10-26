@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/826",
  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 4 grudnia 2008 r. w sprawie wysokości odsetek należnych z tytułu nieprzekazania w terminie składek do otwartego funduszu emerytalnego",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/826/text.pdf",
  "body": [
   {
@@ -22,15 +22,11 @@
   },
   {
    "type": "text",
-   "text": "Prezes Zakładu Ubezpieczeń Społecznych: S. Rypiński — 4202 —"
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: S. Rypiński"
   },
   {
    "type": "note",
    "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— 4203 —"
   },
   {
    "type": "note",

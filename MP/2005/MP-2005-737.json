@@ -1,7 +1,7 @@
 {
  "eli": "MP/2005/737",
  "title": "Komunikat Nr 9/2005/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 12 września 2005 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i rozwoju (OECD)",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/737/text.pdf",
  "body": [
   {
@@ -109,10 +109,6 @@
   {
    "type": "signature",
    "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: A. Dorosz"
-  },
-  {
-   "type": "text",
-   "text": "— 1735 —"
   },
   {
    "type": "note",

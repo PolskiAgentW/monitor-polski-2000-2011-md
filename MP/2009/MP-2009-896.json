@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/896",
  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 20 października 2009 r. w sprawie średniej ceny sprzedaży drewna, obliczonej według średniej ceny drewna uzyskanej przez nadleśnictwa za pierwsze trzy kwartały 2009 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/896/text.pdf",
  "body": [
   {
@@ -23,10 +23,6 @@
   {
    "type": "signature",
    "text": "Prezes Głównego Urzędu Statystycznego: J. Oleński"
-  },
-  {
-   "type": "text",
-   "text": "— 3307 —"
   },
   {
    "type": "note",

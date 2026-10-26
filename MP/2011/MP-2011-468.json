@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/468",
  "title": "Obwieszczenie Ministra Gospodarki z dnia 24 maja 2011 r. w sprawie raportu określającego cele w zakresie udziału energii elektrycznej wytwarzanej w odnawialnych źródłach energii znajdujących się na terytorium Rzeczypospolitej Polskiej, w krajowym zużyciu energii elektrycznej na lata 2010-2019",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/468/text.pdf",
  "body": [
   {
@@ -870,10 +870,6 @@
       {
        "type": "ocr",
        "text": "897 \"20d"
-      },
-      {
-       "type": "text",
-       "text": "— 2483 —"
       },
       {
        "type": "note",

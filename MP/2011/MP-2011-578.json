@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/578",
  "title": "Plan gospodarowania wodami na obszarze dorzecza Niemna",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/578/text.pdf",
  "body": [
   {
@@ -10113,7 +10113,11 @@
     },
     {
      "type": "text",
-     "text": "| | | scalone części wód powierzchniowych | (__} granice powiatów | l Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89.__"
+     "text": "| | | scalone części wód powierzchniowych | (__} granice powiatów | l"
+    },
+    {
+     "type": "text",
+     "text": "Odwzorowanie współrzędnych prostokątnych płaskich w układzie PUGW-92, współrzędnych geograficznych i geodezyjnych w układzie EUREF-89.__"
     },
     {
      "type": "text",
@@ -11041,10 +11045,6 @@
     {
      "type": "note",
      "text": "[Na stronie 209 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 4883 —"
     },
     {
      "type": "note",

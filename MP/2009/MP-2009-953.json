@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/953",
  "title": "Wyrok Trybunału Konstytucyjnego z dnia 4 listopada 2009 r. sygn. akt Kp 1/08",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/953/text.pdf",
  "body": [
   {
@@ -139,15 +139,11 @@
    "children": [
     {
      "type": "text",
-     "text": "Bohdan Zdziennicki Stanisław Biernat Zbigniew Cieślak Mirosław Granat Marian Grzybowski Wojciech Hermeliński Adam Jamróz Marek Kotlinowski Teresa Liszcz Ewa Łętowska Marek Mazurkiewicz Janusz Niemcewicz Andrzej Rzepliński Mirosław Wyrzykowski — 3546 —"
+     "text": "Bohdan Zdziennicki Stanisław Biernat Zbigniew Cieślak Mirosław Granat Marian Grzybowski Wojciech Hermeliński Adam Jamróz Marek Kotlinowski Teresa Liszcz Ewa Łętowska Marek Mazurkiewicz Janusz Niemcewicz Andrzej Rzepliński Mirosław Wyrzykowski"
     },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 3547 —"
     },
     {
      "type": "note",

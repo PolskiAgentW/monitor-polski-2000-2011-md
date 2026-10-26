@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/888",
  "title": "Oświadczenie rządowe z dnia 16 sierpnia 2011 r. w sprawie związania Rzeczypospolitej Polskiej Umową między Rządem Rzeczypospolitej Polskiej a Rządem Mongolii o zniesieniu obowiązku wizowego dla posiadaczy paszportów dyplomatycznych i służbowych, podpisaną w Ułan Bator dnia 29 czerwca 2011 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/888/text.pdf",
  "body": [
   {
@@ -31,10 +31,6 @@
   {
    "type": "signature",
    "text": "Minister Spraw Zagranicznych: wz. J. Borkowski"
-  },
-  {
-   "type": "text",
-   "text": "— 6680 —"
   },
   {
    "type": "note",

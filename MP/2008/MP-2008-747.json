@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/747",
  "title": "Zarządzenie Nr 117 Prezesa Rady Ministrów z dnia 30 października 2008 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Sprawiedliwości",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/747/text.pdf",
  "body": [
   {
@@ -159,10 +159,6 @@
   {
    "type": "signature",
    "text": "Prezes Rady Ministrów: D. Tusk"
-  },
-  {
-   "type": "text",
-   "text": "— 3895 —"
   },
   {
    "type": "note",

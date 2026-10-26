@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/948",
  "title": "Komunikat nr 10/2011/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 12 października 2011 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/948/text.pdf",
  "body": [
   {
@@ -171,15 +171,11 @@
     },
     {
      "type": "text",
-     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: wz. W. Wierzbicki — 6807 —"
+     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: wz. W. Wierzbicki"
     },
     {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 6808 —"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/589",
  "title": "Komunikat Ministra Rozwoju Regionalnego z dnia 1 września 2008 r. w sprawie wytycznych Ministra Rozwoju Regionalnego dotyczących dokonywania przeglądu i renegocjacji z Komisją Europejską programów operacyjnych w ramach Narodowych Strategicznych Ram Odniesienia na lata 2007-2013",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/589/text.pdf",
  "body": [
   {
@@ -37,10 +37,6 @@
   {
    "type": "signature",
    "text": "Minister Rozwoju Regionalnego: E. Bieńkowska"
-  },
-  {
-   "type": "text",
-   "text": "— 3355 —"
   },
   {
    "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/1100",
  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 28 listopada 2011 r. w sprawie wskaźnika cen dóbr inwestycyjnych za III kwartał 2011 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/1100/text.pdf",
  "body": [
   {
@@ -26,23 +26,15 @@
   },
   {
    "type": "text",
-   "text": "Prezes Głównego Urzędu Statystycznego: J. Witkowski — 7154 —"
+   "text": "Prezes Głównego Urzędu Statystycznego: J. Witkowski"
   },
   {
    "type": "note",
    "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
   },
   {
-   "type": "text",
-   "text": "— 7155 —"
-  },
-  {
    "type": "note",
    "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— 7156 —"
   },
   {
    "type": "note",

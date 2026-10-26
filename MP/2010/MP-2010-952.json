@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/952",
  "title": "Wyrok Trybunału Konstytucyjnego z dnia 13 października 2010 r. sygn. akt Kp 1/09",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/952/text.pdf",
  "body": [
   {
@@ -113,16 +113,8 @@
      "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
     {
-     "type": "text",
-     "text": "— 4470 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 4471 —"
     },
     {
      "type": "note",

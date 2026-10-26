@@ -1,7 +1,7 @@
 {
  "eli": "MP/2010/353",
  "title": "Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 12 listopada 2009 r. o nadaniu odznaczenia",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2010/353/text.pdf",
  "body": [
   {
@@ -35,10 +35,6 @@
   {
    "type": "signature",
    "text": "Prezydent Rzeczypospolitej Polskiej: L. Kaczyński"
-  },
-  {
-   "type": "text",
-   "text": "— 1027 —"
   },
   {
    "type": "note",

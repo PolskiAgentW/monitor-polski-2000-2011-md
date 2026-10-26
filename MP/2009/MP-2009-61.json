@@ -1,7 +1,7 @@
 {
  "eli": "MP/2009/61",
  "title": "Komunikat Prezesa Państwowej Agencji Atomistyki z dnia 13 stycznia 2009 r. w sprawie sytuacji radiacyjnej kraju w IV kwartale 2008 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2009/61/text.pdf",
  "body": [
   {
@@ -42,15 +42,11 @@
   },
   {
    "type": "text",
-   "text": "Prezes Państwowej Agencji Atomistyki: J. Niewodniczański — 138 —"
+   "text": "Prezes Państwowej Agencji Atomistyki: J. Niewodniczański"
   },
   {
    "type": "note",
    "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— 139 —"
   },
   {
    "type": "note",

@@ -61,7 +61,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-26 00:20 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 09:05 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -82,7 +82,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 547, razem 20226 z 4825
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 800.
 
 Rodzaje aktów: Postanowienie 5678, Obwieszczenie 2096, Uchwała 1291, Komunikat 1122, Zarządzenie 707, Oświadczenie rządowe 411, Umowa międzynarodowa 271, Ogłoszenie 169, Porozumienie 122, Decyzja 33, Orzeczenie 32, Rezolucja 12, Protokół 9, Oświadczenie 7, Apel 5, Zawiadomienie 3, Sprawozdanie 3, Deklaracja 2, Stanowisko 2, Akt 1, Regulamin 1.
-Wersje konwertera: eli2md 0.6.22 (11084), eli2md 0.6.24 (389), eli2md 0.6.64 (334), eli2md 0.6.62 (147), eli2md 0.6.66 (7), eli2md 0.6.63 (7), eli2md 0.6.65 (6), eli2md 0.6.61 (2), eli2md 0.6.69 (1).
+Wersje konwertera: eli2md 0.6.22 (10975), eli2md 0.6.24 (387), eli2md 0.6.64 (334), eli2md 0.6.72 (137), eli2md 0.6.62 (126), eli2md 0.6.66 (6), eli2md 0.6.65 (6), eli2md 0.6.63 (3), eli2md 0.6.61 (2), eli2md 0.6.69 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -266,6 +266,22 @@ w aktach, w których różnią się od wersji sprzed 2026-10-25 (56 w tym zbiorz
 obejrzałem, są poprawą: z dwóch łamów czytanych w poprzek „§ N.” w środku wiersza staje się nagłówkiem z ciągłym tekstem
 (np. MP/2001/668, sprawdzone z PDF: §§ 1–47 w kolejności), a znikające nagłówki należały do tekstu sąsiednich pozycji,
 który był w pliku (MP/2001/115: § 1 z poz. 114).
+
+Tego samego dnia eli2md 0.6.72, 137 aktów (opis w README eli2md, wpis 0.6.72): wiersz z samym numerem strony nie jest
+już tekstem. Taki wiersz ma np. strona, której cała treść jest obrazem (wzór, skan załącznika): w warstwie tekstowej
+jest tylko numer („— 1831 —”, MP/2008/380 s. 3). Numer takiej strony bywał też doklejony na końcu ostatniego wiersza
+strony poprzedniej („Minister Sprawiedliwości: Z. Ćwiąkalski — 1830 —”, s. 1) i teraz też znika. Przeliczyłem ponownie
+208 aktów, w których stoi taki wiersz. Nowy plik zostaje tylko wtedy, gdy ciąg słów różni się od poprzedniego wyłącznie
+brakiem numerów stron i kawałków nagłówka, a jednostki drzewa są te same. Tak jest w 137 aktach; w 3 z nich zmienia się
+też podział akapitów przy tych samych słowach (tabela i legenda mapy z OCR, reklama wydawcy: MP/2011/565, MP/2011/578,
+MP/2010/1130). W 71 zostaje poprzedni plik: w 5 nowy miał te same słowa, w 66 różnił się też w innych miejscach (65
+plików z eli2md 0.6.22 i 0.6.24 ze zmianami konwertera od tamtych wersji, np. pierwsza litera akapitu odklejona od
+wyrazu, „s topy CIRR” w MP/2010/208; MP/2011/549 z 0.6.62: inna kolejność wiersza tabeli), których tu nie publikuję.
+Wierszy z samym numerem strony jest w zbiorze 116 w 72 plikach (było 322 w 209). Z przeliczonych 208 aktów w wyniku
+0.6.72 zostaje ich 20 w 7 aktach (0.6.71 na tych samych PDF: 335): 18 to numeracja stron załącznika, na dole strony albo
+pod nagłówkiem numeru, niżej niż górne 8% strony (np. „-3-” w MP/2011/1178, ok. 10% wysokości strony), 1 na stronie
+poziomej, na której nagłówek stoi z boku (MP/2003/159), 1 to wartość na osi wykresu (MP/2011/452). Metadane stron w
+`index.csv` bez zmian.
 
 **Czego te liczby nie mówią:**
 

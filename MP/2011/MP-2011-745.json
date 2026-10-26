@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/745",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 8 sierpnia 2011 r. o liczbie wyborców ujętych w rejestrach wyborców",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/745/text.pdf",
  "body": [
   {
@@ -22,23 +22,15 @@
   },
   {
    "type": "text",
-   "text": "Przewodniczący Państwowej Komisji Wyborczej: wz. K. Czaplicki — 5790 —"
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: wz. K. Czaplicki"
   },
   {
    "type": "note",
    "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
   },
   {
-   "type": "text",
-   "text": "— 5791 —"
-  },
-  {
    "type": "note",
    "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— 5792 —"
   },
   {
    "type": "note",

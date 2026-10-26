@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/970",
  "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 20 listopada 2007 r. w sprawie kwoty przychodu odpowiadającej 30% przeciętnego miesięcznego wynagrodzenia za I kwartał 2007 r. ogłoszonego do celów emerytalnych",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/970/text.pdf",
  "body": [
   {
@@ -27,10 +27,6 @@
   {
    "type": "signature",
    "text": "Prezes Zakładu Ubezpieczeń Społecznych: P. Wypych"
-  },
-  {
-   "type": "text",
-   "text": "— 3979 —"
   },
   {
    "type": "note",

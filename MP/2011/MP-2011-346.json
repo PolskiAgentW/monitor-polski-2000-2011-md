@@ -1,7 +1,7 @@
 {
  "eli": "MP/2011/346",
  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 kwietnia 2011 r. w sprawie zmiany Krajowego Programu Restrukturyzacji",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2011/346/text.pdf",
  "body": [
   {
@@ -586,24 +586,12 @@
      "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
     {
-     "type": "text",
-     "text": "— 1261 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
     {
-     "type": "text",
-     "text": "— 1262 —"
-    },
-    {
      "type": "note",
      "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 1263 —"
     },
     {
      "type": "note",

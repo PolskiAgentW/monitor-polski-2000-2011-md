@@ -1,7 +1,7 @@
 {
  "eli": "MP/2008/854",
  "title": "Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2008 r. w sprawie ogłoszenia przejść granicznych, rodzaju ruchu dozwolonego przez te przejścia oraz czasu ich otwarcia",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2008/854/text.pdf",
  "body": [
   {
@@ -474,16 +474,8 @@
        "text": "całodobowy międzynarodowy ruch pasażerski oraz 1 Gronowo drogowe dwustronny ruch towarowy dla środków transportu o masie całkowitej do 6 t."
       },
       {
-       "type": "text",
-       "text": "— 4474 —"
-      },
-      {
        "type": "note",
        "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 4475 —"
       },
       {
        "type": "note",

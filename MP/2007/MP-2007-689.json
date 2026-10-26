@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/689",
  "title": "Komunikat Nr 9/2007/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 7 września 2007 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/689/text.pdf",
  "body": [
   {
@@ -162,10 +162,6 @@
   {
    "type": "signature",
    "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: I. Fąfara"
-  },
-  {
-   "type": "text",
-   "text": "— 2183 —"
   },
   {
    "type": "note",

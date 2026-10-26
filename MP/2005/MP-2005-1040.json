@@ -1,7 +1,7 @@
 {
  "eli": "MP/2005/1040",
  "title": "Obwieszczenie Ministra Środowiska z dnia 17 listopada 2005 r. w sprawie wysokości górnych jednostkowych stawek opłat za korzystanie ze środowiska na rok 2006",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2005/1040/text.pdf",
  "body": [
   {
@@ -39,10 +39,6 @@
   {
    "type": "signature",
    "text": "Minister Środowiska: J. Szyszko"
-  },
-  {
-   "type": "text",
-   "text": "— 2407 —"
   },
   {
    "type": "note",

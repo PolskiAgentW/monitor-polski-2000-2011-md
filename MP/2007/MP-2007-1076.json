@@ -1,7 +1,7 @@
 {
  "eli": "MP/2007/1076",
  "title": "Komunikat Prezesa Zakładu Ubezpieczeń społecznych z dnia 20 listopada 2007 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za III kwartał 2007 r.",
- "converter": "eli2md 0.6.22",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2007/1076/text.pdf",
  "body": [
   {
@@ -37,10 +37,6 @@
   {
    "type": "signature",
    "text": "Prezes Zakładu Ubezpieczeń Społecznych: P. Wypych"
-  },
-  {
-   "type": "text",
-   "text": "— 4235 —"
   },
   {
    "type": "note",
